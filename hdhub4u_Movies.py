@@ -7,10 +7,10 @@ import codecs
 import json
 import time
 
-PROCESSED_FILE = "processed_movies.json"
-STRM_2160_DIR = "Movies/"
-STRM_1080_DIR = "Movies/"
-STRM_DEFAULT_DIR = "m3u8/"
+PROCESSED_FILE = "/tmp/opt/jellyfin/STRM/m3u8/GDriveSharer/HubCloudProxy/processed_movies.json"
+STRM_2160_DIR = "/tmp/opt/jellyfin/STRM/m3u8/GDriveSharer/HubCloudProxy/Movies/"
+STRM_1080_DIR = "/tmp/opt/jellyfin/STRM/m3u8/GDriveSharer/HubCloudProxy/Movies/"
+STRM_DEFAULT_DIR = "/tmp/opt/jellyfin/STRM/m3u8/GDriveSharer/HubCloudProxy/Movies/"
 
 CHECK_INTERVAL = 600  # 10 minutes
 
