@@ -318,7 +318,7 @@ def monitor():
                     count = len(files)
 
                     message = (
-                        f"📦 Added: *{movie_name}* - `{season_name}` ({count} episodes)\n"
+                        f"📦 Series Added: *{movie_name}* - `{season_name}` ({count} episodes)\n"
                         f"📁 Location: `{season_path}`"
                     )
                     send_telegram_message(message)
