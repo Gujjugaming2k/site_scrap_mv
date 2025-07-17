@@ -193,7 +193,7 @@ def create_strm_file(filename, url):
         print(f"✅ .strm created: {filename} → {strm_dir}")
 
         # Send Telegram message with dynamic content
-        send_telegram_message(f"*{filename}* added from hdhub4u in `{strm_dir}`")
+        send_telegram_message(f"`hdhub4u.family` - *{filename}* added from hdhub4u in `{strm_dir}`")
     else:
         print(f"⚠️ Skipped (already exists): {filename}")
      
