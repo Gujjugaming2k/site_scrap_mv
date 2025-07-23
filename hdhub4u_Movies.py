@@ -58,7 +58,7 @@ def decode_o(o_val):
         return None
 
 
-BASE_URL = "https://hdhub4u.family/"
+BASE_URL = "https://hdhub4u.gifts/"
 HEADERS = {
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
 }
