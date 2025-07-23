@@ -8,12 +8,18 @@ import os
 import json
 import time
 
+BASE_URL = "https://hdhub4u.gifts/"
+SSL_STATUS = False # True or False only
 FOLDER_PATH = "/tmp/opt/jellyfin/STRM/m3u8/GDriveSharer/HubCloudProxy/Movies/"  # You can change this as needed
 PROCESSED_FILE = "/tmp/opt/jellyfin/STRM/m3u8/GDriveSharer/HubCloudProxy/processed.json"
 PREFIX = "https://hubcloud-r2-dev.hdmovielover.workers.dev/download?url="
 # Telegram Notification Config
 TELEGRAM_BOT_TOKEN = "7531637845:AAEHIucLbu41bf08ckwGAr-fjF-BPBYNB_Q"
 TELEGRAM_CHAT_ID = "-1002873454819"
+
+HEADERS = {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+}
 
 os.makedirs(FOLDER_PATH, exist_ok=True)  # Ensure output folder exists
 
@@ -27,9 +33,11 @@ def save_processed(processed_urls):
     with open(PROCESSED_FILE, "w", encoding="utf-8") as f:
         json.dump(processed_urls, f, indent=2)
 
+#-------------------Shortner Bypass Start----------------------
+
 def extract_and_decode_final_link(short_url):
     try:
-        response = requests.get(short_url, timeout=10)
+        response = requests.get(short_url, timeout=120)
         response.raise_for_status()
         html = response.text
 
@@ -57,18 +65,14 @@ def decode_o(o_val):
         print(f"Decoding error: {e}")
         return None
 
-
-BASE_URL = "https://hdhub4u.gifts/"
-HEADERS = {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
-}
+#-------------------Shortner Bypass End----------------------
 
 def is_movie(title: str) -> bool:
     title_lower = title.lower()
     return "season" not in title_lower and "episodes" not in title_lower
 
 def extract_movies():
-    response = requests.get(BASE_URL, headers=HEADERS)
+    response = requests.get(BASE_URL, headers=HEADERS, verify=SSL_STATUS, timeout=120)
     if response.status_code != 200:
         print(f"❌ Failed to fetch page. Status: {response.status_code}")
         return []
@@ -108,7 +112,7 @@ def handle_hubcloud(link):
 def handle_hubdrive(link):
     print(f"🌐 HubDrive URL: {link}")
     try:
-        resp = requests.get(link, headers=HEADERS, timeout=10)
+        resp = requests.get(link, headers=HEADERS, timeout=120)
         soup = BeautifulSoup(resp.text, 'html.parser')
         for a in soup.find_all("a", href=True):
             if "hubcloud.one" in a["href"]:
@@ -121,7 +125,7 @@ def handle_hubdrive(link):
 def handle_hblinks(link):
     print(f"🌐 HBLinks URL: {link}")
     try:
-        resp = requests.get(link, headers=HEADERS, timeout=10)
+        resp = requests.get(link, headers=HEADERS, timeout=120)
         soup = BeautifulSoup(resp.text, 'html.parser')
         for a in soup.find_all("a", href=True):
             href = a["href"]
@@ -153,15 +157,28 @@ def handle_techyboy(link):
         print("⚠️ Decoded link is unknown type.")
         return None
 
-def handle_unknown(title):
-    print(f"🚫 Can't Proceed This Movie: {title}. Please try manually.")
+def handle_unsupported_link(title, page_url=None, unsupported_link=None):
+    print(f"🚫 Unsupported download link found for movie: {title}")
+    if page_url:
+        print(f"🧭 Page URL: {page_url}")
+    if unsupported_link:
+        print(f"🔗 Unsupported Link: {unsupported_link}")
+    print("⚠️ Please check manually for supported formats.\n")
+    message = f"🚫 Unsupported Download Link: {unsupported_link} for Movie {title} Visit {page_url} and Upload Manually @tgH2R3 and @VFlix_admin_1"
+    send_telegram_message(TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, message)
+
+def handle_unknown(title, page_url=None):
+    print(f"🚫 No valid 1080p section found for movie: {title}")
+    if page_url:
+        print(f"🧭 Page URL: {page_url}")
+    print("⚠️ Skipped due to unknown structure or missing quality.\n")
 
 # -------------------- FETCH HUBCLOUD TITLE --------------------
 
 def fetch_hubcloud_title(hubcloud_url):
     try:
         print(f"🌐 Fetching title from HubCloud: {hubcloud_url}")
-        resp = requests.get(hubcloud_url, headers=HEADERS, timeout=10)
+        resp = requests.get(hubcloud_url, headers=HEADERS, timeout=120)
         if resp.status_code != 200:
             print(f"❌ Failed to fetch hubcloud URL. Status: {resp.status_code}")
             return None
@@ -204,7 +221,7 @@ def send_telegram_message(bot_token, chat_id, message):
             "text": message,
             "parse_mode": "HTML"
         }
-        response = requests.post(url, data=payload, timeout=10)
+        response = requests.post(url, data=payload, timeout=120)
         if response.status_code == 200:
             print("📩 Telegram message sent.")
         else:
@@ -217,7 +234,7 @@ def send_telegram_message(bot_token, chat_id, message):
 def extract_1080p_x264_links(movie_title, page_url):
     print(f"🔍 Checking: {page_url}")
     try:
-        resp = requests.get(page_url, headers=HEADERS, timeout=10)
+        resp = requests.get(page_url, headers=HEADERS, timeout=120, verify=SSL_STATUS)
         if resp.status_code != 200:
             print(f"❌ Failed to fetch detail page. Status: {resp.status_code}")
             return False
@@ -225,7 +242,8 @@ def extract_1080p_x264_links(movie_title, page_url):
         soup = BeautifulSoup(resp.text, 'html.parser')
         for a in soup.find_all("a", href=True):
             anchor_text = a.get_text(strip=True)
-            if "1080p x264" in anchor_text.lower():
+
+            if "1080p x264" in anchor_text.lower() or "1080p Links" in anchor_text:
                 link = a["href"]
                 if "hubcloud.one" in link:
                     return handle_hubcloud(link)
@@ -235,12 +253,13 @@ def extract_1080p_x264_links(movie_title, page_url):
                     return handle_hblinks(link)
                 elif "techyboy4u.com/?id=" in link:
                     return handle_techyboy(link)
-               elif "taazabull24.com/?id=" in link:
+                elif "taazabull24.com/?id=" in link:
                     return handle_techyboy(link)
                 else:
-                    handle_unknown(movie_title)
+                    handle_unsupported_link(movie_title, page_url=page_url, unsupported_link=link)
                     return False
-        handle_unknown(movie_title)
+
+        handle_unknown(movie_title, page_url=page_url)
         return False
 
     except Exception as e:
@@ -248,7 +267,6 @@ def extract_1080p_x264_links(movie_title, page_url):
         return False
 
 def main_loop():
-    # processed_urls = load_processed()
 
     while True:
         print(f"\n🔁 Checking for new movies...")
