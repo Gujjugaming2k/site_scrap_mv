@@ -235,6 +235,8 @@ def extract_1080p_x264_links(movie_title, page_url):
                     return handle_hblinks(link)
                 elif "techyboy4u.com/?id=" in link:
                     return handle_techyboy(link)
+               elif "taazabull24.com/?id=" in link:
+                    return handle_techyboy(link)
                 else:
                     handle_unknown(movie_title)
                     return False
