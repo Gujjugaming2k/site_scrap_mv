@@ -109,7 +109,7 @@ async def create_gd_strm_file(title, url):
 # ✅ Send log to Telegram group
 async def send_log_to_group(bot, title, filename):
     """Send the uploaded log message to the Telegram group."""
-    message = f"✅ **Uploaded Successfully**\n🎥 Title: `{title}`"
+    message = f"✅ **YM Uploaded Successfully**\n🎥 Title: `{title}`"
     await bot.send_message(chat_id=TELEGRAM_GROUP_ID, text=message, parse_mode="Markdown")
 
 # ✅ /start handler
