@@ -14,8 +14,7 @@ STRM_DEFAULT_DIR = "/tmp/opt/jellyfin/STRM/m3u8/"
 
 CHECK_INTERVAL = 600  # 10 minutes
 
-BOT_TOKEN = "7531637845:AAEHIucLbu41bf08ckwGAr-fjF-BPBYNB_Q"
-CHANNEL_ID="-1002873454819"
+
 # Message to send
 #MESSAGE="Jellyfin - Installation Started"
 
