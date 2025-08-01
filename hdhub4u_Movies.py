@@ -21,9 +21,8 @@ TaazaBull = "taazabull24.com/?id="
 FOLDER_PATH = "/tmp/opt/jellyfin/STRM/m3u8/GDriveSharer/HubCloudProxy/Movies/"  # You can change this as needed
 PROCESSED_FILE = "/tmp/opt/jellyfin/STRM/m3u8/GDriveSharer/HubCloudProxy/processed.json"
 PREFIX = "https://hubcloud-r2-dev.hdmovielover.workers.dev/download?url="
-# Telegram Notification Config
-TELEGRAM_BOT_TOKEN = "7531637845:AAEHIucLbu41bf08ckwGAr-fjF-BPBYNB_Q"
-TELEGRAM_CHAT_ID = "-1002873454819"
+
+
 
 HEADERS = {
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
