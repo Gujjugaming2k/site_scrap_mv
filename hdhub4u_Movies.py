@@ -149,7 +149,7 @@ def handle_techyboy(link):
 
     if "hubcloud.one" in decoded_url:
         return handle_hubcloud(decoded_url)
-    elif "hubdrive.wales" in decoded_url:
+    elif "hubdrive.space" in decoded_url:
         return handle_hubdrive(decoded_url)
     elif "hblinks.pro/archives/" in decoded_url:
         return handle_hblinks(decoded_url)
