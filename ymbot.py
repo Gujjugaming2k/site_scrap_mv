@@ -30,7 +30,8 @@ HUBCLOUD_DOMAINS = [
     "https://hubcloud.co",
     "https://hubcloud.net",
     "https://hubcloud.xyz",
-    "https://hubcloud.one"
+    "https://hubcloud.one",
+    "https://hubcloud.space"
 ]
 
 GDFLIX_DOMAINS = [
