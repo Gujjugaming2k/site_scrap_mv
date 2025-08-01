@@ -110,14 +110,14 @@ async def create_gd_strm_file(title, url):
 # ✅ Send log to Telegram group
 async def send_log_to_group(bot, title, filename):
     """Send the uploaded log message to the Telegram group."""
-    message = f"✅ **YM Uploaded Successfully**\n🎥 Title: `{title}`"
+    message = f"✅ **Isha Uploaded Successfully**\n🎥 Title: `{title}`"
     await bot.send_message(chat_id=TELEGRAM_GROUP_ID, text=message, parse_mode="Markdown")
 
 # ✅ /start handler
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     """Send a welcome message with instructions."""
     message = (
-        "👋 **Welcome to the VFlix - YM CINEMA HubCloud Bot!**\n\n"
+        "👋 **Welcome to the VFlix - Isha HubCloud Bot!**\n\n"
         "📌 **Usage:**\n"
         "`/hub <HubCloud URL>` → Uploads HubCloud links\n"
         "✅ Examples:\n"
