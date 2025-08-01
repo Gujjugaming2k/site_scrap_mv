@@ -8,8 +8,16 @@ import os
 import json
 import time
 
+# Update Domain and SSL settings as needed
 BASE_URL = "https://hdhub4u.build/"
 SSL_STATUS = False # True or False only
+# Define constants for various link types
+HubCloud = "hubcloud"
+HubDrive = "hubdrive"
+HubLinks = "hblinks"
+TechyBoy = "techyboy4u.com/?id="
+TaazaBull = "taazabull24.com/?id="
+# STRM file and folder paths
 FOLDER_PATH = "/tmp/opt/jellyfin/STRM/m3u8/GDriveSharer/HubCloudProxy/Movies/"  # You can change this as needed
 PROCESSED_FILE = "/tmp/opt/jellyfin/STRM/m3u8/GDriveSharer/HubCloudProxy/processed.json"
 PREFIX = "https://hubcloud-r2-dev.hdmovielover.workers.dev/download?url="
@@ -115,7 +123,7 @@ def handle_hubdrive(link):
         resp = requests.get(link, headers=HEADERS, timeout=120)
         soup = BeautifulSoup(resp.text, 'html.parser')
         for a in soup.find_all("a", href=True):
-            if "hubcloud.one" in a["href"]:
+            if HubCloud in a["href"]:
                 return handle_hubcloud(a["href"])
     except Exception as e:
         print(f"❌ Error while processing HubDrive: {e}")
@@ -129,16 +137,16 @@ def handle_hblinks(link):
         soup = BeautifulSoup(resp.text, 'html.parser')
         for a in soup.find_all("a", href=True):
             href = a["href"]
-            if "hubcloud.one" in href:
+            if HubCloud in href:
                 return handle_hubcloud(href)
-            elif "hubdrive.space" in href:
+            elif HubDrive in href:
                 return handle_hubdrive(href)
     except Exception as e:
         print(f"❌ Error while processing HBLinks: {e}")
     print("⚠️ HubCloud/HubDrive link not found in HBLinks page.")
     return None
 
-def handle_techyboy(link):
+def handle_shortlink(link):
     print(f"🔗 Short Link Detected: {link}")
     decoded_url = extract_and_decode_final_link(link)
     if not decoded_url:
@@ -147,13 +155,16 @@ def handle_techyboy(link):
 
     print(f"🔓 Decoded URL: {decoded_url}")
 
-    if "hubcloud.one" in decoded_url:
+    if HubCloud in decoded_url:
         return handle_hubcloud(decoded_url)
-    elif "hubdrive.space" in decoded_url:
+    elif HubDrive in decoded_url:
         return handle_hubdrive(decoded_url)
-    elif "hblinks.pro/archives/" in decoded_url:
+    elif HubLinks in decoded_url:
         return handle_hblinks(decoded_url)
     else:
+        # Send error message for unsupported link
+        message = f"🚫 Unsupported Decoded Link: {decoded_url}. Visit the page and upload manually @tgH2R3 and @VFlix_admin_1"
+        send_telegram_message(TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, message)
         print("⚠️ Decoded link is unknown type.")
         return None
 
@@ -206,7 +217,7 @@ def create_strm_file(title, hubcloud_url):
             f.write(stream_url + "\n")
 
         print(f"📁 STRM file created: {file_path}")
-        message = f"🇮🇳 {title} - Uploaded from HDHub4u"
+        message = f"Testing 🇮🇳 {title} - Uploaded from HDHub4u"
         send_telegram_message(TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, message)
         return True
     except Exception as e:
@@ -245,16 +256,16 @@ def extract_1080p_x264_links(movie_title, page_url):
 
             if "1080p x264" in anchor_text.lower() or "1080p Links" in anchor_text:
                 link = a["href"]
-                if "hubcloud.one" in link:
+                if HubCloud in link:
                     return handle_hubcloud(link)
-                elif "hubdrive.space" in link:
+                elif HubDrive in link:
                     return handle_hubdrive(link)
-                elif "hblinks.pro/archives/" in link:
+                elif HubLinks in link:
                     return handle_hblinks(link)
-                elif "techyboy4u.com/?id=" in link:
-                    return handle_techyboy(link)
-                elif "taazabull24.com/?id=" in link:
-                    return handle_techyboy(link)
+                elif TechyBoy in link:
+                    return handle_shortlink(link)
+                elif TaazaBull in link:
+                    return handle_shortlink(link)
                 else:
                     handle_unsupported_link(movie_title, page_url=page_url, unsupported_link=link)
                     return False
