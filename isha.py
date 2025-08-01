@@ -9,12 +9,7 @@ import re
 
 SAVE_FOLDER = "/tmp/opt/jellyfin/STRM/Provider/Isha/"  # Folder path to save .strm files
 
-# 🔥 Replace with your bot token
-TELEGRAM_BOT_TOKEN = "8219225561:AAFRNsUgtgwgE9nXMYjR6a6oLRn5Ec-nIRk"
 
-# 🔥 Telegram group ID for logs
-#TELEGRAM_GROUP_ID = "-1002661622618"  # Replace with your group ID
-TELEGRAM_GROUP_ID = "-1002873454819"
 # 🔥 Current domains
 HUBCLOUD_DOMAIN = "https://hubcloud.one"
 GDFLIX_DOMAIN = "https://new6.gdflix.dad"
