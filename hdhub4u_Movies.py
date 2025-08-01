@@ -8,7 +8,7 @@ import os
 import json
 import time
 
-BASE_URL = "https://hdhub4u.gifts/"
+BASE_URL = "https://hdhub4u.build/"
 SSL_STATUS = False # True or False only
 FOLDER_PATH = "/tmp/opt/jellyfin/STRM/m3u8/GDriveSharer/HubCloudProxy/Movies/"  # You can change this as needed
 PROCESSED_FILE = "/tmp/opt/jellyfin/STRM/m3u8/GDriveSharer/HubCloudProxy/processed.json"
@@ -131,7 +131,7 @@ def handle_hblinks(link):
             href = a["href"]
             if "hubcloud.one" in href:
                 return handle_hubcloud(href)
-            elif "hubdrive.wales" in href:
+            elif "hubdrive.space" in href:
                 return handle_hubdrive(href)
     except Exception as e:
         print(f"❌ Error while processing HBLinks: {e}")
@@ -247,7 +247,7 @@ def extract_1080p_x264_links(movie_title, page_url):
                 link = a["href"]
                 if "hubcloud.one" in link:
                     return handle_hubcloud(link)
-                elif "hubdrive.wales" in link:
+                elif "hubdrive.space" in link:
                     return handle_hubdrive(link)
                 elif "hblinks.pro/archives/" in link:
                     return handle_hblinks(link)
