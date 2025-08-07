@@ -21,8 +21,6 @@ decoded_t = base64.b64decode(encoded_t.encode()).decode()
 # 🌐 API base
 API_BASE = 'http://localhost:5019'
 
-# 📁 STRM file path
-STRM_BASE_PATH = "/tmp/opt/jellyfin/STRM/m3u8/GDriveSharer/HubCloudProxy/Movies"
 
 # 🛠 Logging
 logging.basicConfig(level=logging.INFO)
@@ -36,7 +34,15 @@ AUTH_USERS = {
     748585747: "YMCINEMA",
     325082758: "ISHA"
 }
-ADMIN_CONTACT = "@adminid"  # Replace with your actual admin contact
+ADMIN_CONTACT = "@vflixprime2"  # Replace with your actual admin contact
+
+# STRM paths mapped to user IDs
+STRM_BASE_PATHS = {
+    1098159752: "/tmp/opt/jellyfin/STRM/m3u8/GDriveSharer/HubCloudProxy/Movies/",  # Overridden path
+    7679947132: "/tmp/opt/jellyfin/STRM/m3u8/GDriveSharer/HubCloudProxy/Movies",
+    748585747: "/tmp/opt/jellyfin/STRM/Provider/YMCINEMA/",
+    325082758: "/tmp/opt/jellyfin/STRM/Provider/Isha/"
+}
 
 def is_authorized(user_id):
     return user_id == AUTH_ID
@@ -44,7 +50,8 @@ def is_authorized(user_id):
 def handle_request(user_id):
     if user_id in AUTH_USERS:
         name = AUTH_USERS[user_id]
-        return f"Welcome {name}, Bot is running..."
+        path = STRM_BASE_PATHS.get(user_id, "/tmp/opt/jellyfin/STRM/m3u8/GDriveSharer/HubCloudProxy/Movies/")
+        return f"Welcome {name}, Bot is running...\nAssigned STRM path: {path}"
     else:
         return f"You don't have auth. Contact admin {ADMIN_CONTACT}"
 
@@ -114,6 +121,14 @@ def handle_button_click(update: Update, context: CallbackContext):
     query = update.callback_query
     query.answer()
 
+    user_id = query.from_user.id
+    user_name = AUTH_USERS.get(user_id)
+    strm_path = STRM_BASE_PATHS.get(user_id)
+
+    if not user_name or not strm_path:
+        query.edit_message_text(f"❌ You don't have auth. Contact admin {ADMIN_CONTACT}")
+        return
+
     data = context.user_data.get("stream_data", {})
     tmdb_id = data.get("tmdb_id")
     title = data.get("title", "Unknown")
@@ -121,7 +136,6 @@ def handle_button_click(update: Update, context: CallbackContext):
     redirect_base = "https://cstream.vflix.life"
     lang_path = f"/fetch_hindi/{tmdb_id}" if lang == "Hindi" else f"/fetch_english/{tmdb_id}"
     stream_url = f"{redirect_base}{lang_path}"
-    #stream_url = data.get(f"{lang}_URL")
 
     if not stream_url or stream_url == "Not found":
         query.edit_message_text(f"❌ {lang} stream not found.")
@@ -130,17 +144,21 @@ def handle_button_click(update: Update, context: CallbackContext):
     # Sanitize filename
     safe_title = "".join(c if c.isalnum() or c in " _-" else "_" for c in title)
     filename = f"{safe_title}_{tmdb_id}.strm"
-    filepath = os.path.join(STRM_BASE_PATH, filename)
+    filepath = os.path.join(strm_path, filename)
 
     try:
-        os.makedirs(STRM_BASE_PATH, exist_ok=True)
+        os.makedirs(strm_path, exist_ok=True)
         with open(filepath, "w") as f:
             f.write(stream_url)
 
-        query.edit_message_text(f"✅ {lang} stream saved under Cloud Movies:\n`{safe_title}_{tmdb_id}`", parse_mode='Markdown')
+        query.edit_message_text(
+            f"✅ {lang} stream saved for *{user_name}*:\n`{safe_title}_{tmdb_id}`",
+            parse_mode='Markdown'
+        )
     except Exception as e:
         logger.error(f"Error saving file: {e}")
         query.edit_message_text("❌ Failed to save stream file.")
+
 
 # 🚀 Main function
 def main():
