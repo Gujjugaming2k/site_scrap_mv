@@ -35,13 +35,7 @@ static_path = "1000090675158710"
 
 # Target server names to filter
 target_names = ['Alpha']
-
-@app.route('/get_video', methods=['GET'])
-def get_video():
-    tmdb_id = request.args.get('id')
-    if not tmdb_id:
-        return jsonify({"error": "Missing TMDB ID"}), 400
-
+def fetch_stream_data(tmdb_id):
     base_url = f"https://vidfast.pro/movie/{tmdb_id}"
     default_domain = '{uri.scheme}://{uri.netloc}/'.format(uri=urlparse(base_url))
     headers = {
@@ -53,63 +47,80 @@ def get_video():
         "X-Requested-With": "XMLHttpRequest",
     }
 
+    response = requests.get(base_url, headers=headers).text
+    soup = BeautifulSoup(response, 'html.parser')
+    title_tag = soup.find('div', class_='MuiBox-root mui-10rvbm3')
+    movie_title = title_tag.text.strip() if title_tag else "Unknown Title"
+
+    match = re.search(r'\\"en\\":\\"(.*?)\\"', response)
+    if not match:
+        return None, "No data found"
+
+    raw_data = match.group(1)
+    cipher = AES.new(aes_key, AES.MODE_CBC, aes_iv)
+    padded_data = pad(raw_data.encode(), AES.block_size)
+    aes_encrypted = cipher.encrypt(padded_data)
+
+    xor_result = bytes(b ^ xor_key[i % len(xor_key)] for i, b in enumerate(aes_encrypted))
+    encoded_final = custom_encode(xor_result)
+
+    api_servers = f"https://vidfast.pro/{static_path}/DJIvtQ/{encoded_final}"
+    server_response = requests.post(api_servers, headers=headers, json={}).json()
+
+    for entry in server_response:
+        if entry.get('name') in target_names:
+            name = entry.get('name')
+            data_token = entry.get('data')
+            api_stream = f"https://vidfast.pro/{static_path}/cz7wg6oT0Q/{data_token}"
+            video_response = requests.post(api_stream, headers=headers).json()
+            video_url = video_response.get('url', 'No URL found')
+
+            encoded_video_url = urllib.parse.quote(video_url, safe='')
+            headers_json = '{"referer":"' + default_domain + '"}'
+            encoded_headers = urllib.parse.quote(headers_json, safe='')
+
+            proxy_url = f"https://proxy.vflix.life/m3u8-proxy?url={encoded_video_url}&headers={encoded_headers}"
+
+            return {
+                "Name": name,
+                "Title": movie_title,
+                "Video URL": video_url,
+                "Strem URL": proxy_url,
+                "Referer Header": default_domain
+            }, None
+
+    return None, "No matching stream found"
+
+@app.route('/get_video', methods=['GET'])
+def get_video():
+    tmdb_id = request.args.get('id')
+    if not tmdb_id:
+        return jsonify({"error": "Missing TMDB ID"}), 400
+
     try:
-        response = requests.get(base_url, headers=headers).text
-        soup = BeautifulSoup(response, 'html.parser')
-        title_tag = soup.find('div', class_='MuiBox-root mui-10rvbm3')
-        movie_title = title_tag.text.strip() if title_tag else "Unknown Title"
-
-        match = re.search(r'\\"en\\":\\"(.*?)\\"', response)
-        if not match:
-            return jsonify({"error": "No data found"}), 404
-
-        raw_data = match.group(1)
-        cipher = AES.new(aes_key, AES.MODE_CBC, aes_iv)
-        padded_data = pad(raw_data.encode(), AES.block_size)
-        aes_encrypted = cipher.encrypt(padded_data)
-
-        xor_result = bytes(b ^ xor_key[i % len(xor_key)] for i, b in enumerate(aes_encrypted))
-        encoded_final = custom_encode(xor_result)
-
-        api_servers = f"https://vidfast.pro/{static_path}/DJIvtQ/{encoded_final}"
-        server_response = requests.post(api_servers, headers=headers, json={}).json()
-
-        results = []
-        for entry in server_response:
-            if entry.get('name') in target_names:
-                name = entry.get('name')
-                data_token = entry.get('data')
-                api_stream = f"https://vidfast.pro/{static_path}/cz7wg6oT0Q/{data_token}"
-                try:
-                    video_response = requests.post(api_stream, headers=headers).json()
-                    video_url = video_response.get('url', 'No URL found')
-                except Exception as e:
-                    video_url = f"Error fetching URL: {e}"
-                
-
-                # Encode video URL
-                encoded_video_url = urllib.parse.quote(video_url, safe='')
-
-# Encode headers
-                headers_json = '{"referer":"' + default_domain + '"}'
-                encoded_headers = urllib.parse.quote(headers_json, safe='')
-
-# Build proxy URL
-                proxy_url = f"https://proxy.vflix.life/m3u8-proxy?url={encoded_video_url}&headers={encoded_headers}"
-
-
-                results.append({
-                    "Name": name,
-                    "Title": movie_title,
-                    "Video URL": video_url,
-                    "Strem URL": proxy_url,
-                    "Referer Header": default_domain
-                })
-
-        return jsonify(results)
-
+        result, error = fetch_stream_data(tmdb_id)
+        if error:
+            return jsonify({"error": error}), 404
+        return jsonify([result])
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
+from flask import redirect  # Make sure this is imported
+
+@app.route('/redirect', methods=['GET'])
+def redirect_to_stream():
+    tmdb_id = request.args.get('id')
+    if not tmdb_id:
+        return jsonify({"error": "Missing TMDB ID"}), 400
+
+    try:
+        result, error = fetch_stream_data(tmdb_id)
+        if error:
+            return jsonify({"error": error}), 404
+        return redirect(result["Strem URL"])
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
 
 if __name__ == '__main__':
     app.run(debug=True,port=5019)
