@@ -2,7 +2,8 @@ import logging
 import requests
 import base64
 import os
-
+from telegram import Update
+from telegram.ext import CallbackContext
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import (
     Updater,
@@ -27,9 +28,37 @@ STRM_BASE_PATH = "/tmp/opt/jellyfin/STRM/m3u8/GDriveSharer/HubCloudProxy/Movies"
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
+
+# Define your authorized user ID
+AUTH_USERS = {
+    1098159752: "VFlix Prime",
+    7679947132: "H2R",
+    748585747: "YMCINEMA",
+    325082758: "ISHA"
+}
+ADMIN_CONTACT = "@adminid"  # Replace with your actual admin contact
+
+def is_authorized(user_id):
+    return user_id == AUTH_ID
+
+def handle_request(user_id):
+    if user_id in AUTH_USERS:
+        name = AUTH_USERS[user_id]
+        return f"Welcome {name}, Bot is running..."
+    else:
+        return f"You don't have auth. Contact admin {ADMIN_CONTACT}"
+
+
 # 🟢 /start command
+
+
 def start(update: Update, context: CallbackContext):
-    update.message.reply_text("Welcome! Send a TMDB ID to fetch stream links.")
+    user_id = update.effective_user.id
+    if user_id in AUTH_USERS:
+        name = AUTH_USERS[user_id]
+        update.message.reply_text(f"Welcome {name}, VFlixPrime Bot! Send a TMDB ID to fetch stream links.")
+    else:
+        update.message.reply_text(f"You don't have auth. Contact admin {ADMIN_CONTACT}")
 
 # 📥 Handle TMDB ID input
 def handle_tmdb_id(update: Update, context: CallbackContext):
