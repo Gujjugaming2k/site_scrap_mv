@@ -15,7 +15,7 @@ from telegram.ext import (
 )
 
 # 🔐 Decode token
-encoded_t = "NzYzNTQ0OTAwNTpBQUVYdFRMVllHdmxILW9pVklROGZRZEtHcEpGX2YxM010OA=="
+encoded_t = "NzYzNTQ0OTAwNTpBQUdlc0hSUDM2WGlTSmt5NmNMV29OZDdPNExYODVkR25hbw=="
 decoded_t = base64.b64decode(encoded_t.encode()).decode()
 
 # 🌐 API base
@@ -63,58 +63,56 @@ def start(update: Update, context: CallbackContext):
     user_id = update.effective_user.id
     if user_id in AUTH_USERS:
         name = AUTH_USERS[user_id]
-        update.message.reply_text(f"Welcome {name}, VFlixPrime Bot! Send a TMDB ID to fetch stream links.")
+        update.message.reply_text(f"Welcome {name} \n, VFlixPrime Bot! Send a TMDB ID to fetch stream links.")
     else:
         update.message.reply_text(f"You don't have auth. Contact admin {ADMIN_CONTACT}")
 
 # 📥 Handle TMDB ID input
 def handle_tmdb_id(update: Update, context: CallbackContext):
     tmdb_id = update.message.text.strip()
-
-    # Show loading message
-    loading_msg = update.message.reply_text("⏳ Loading details...")
+    loading_msg = update.message.reply_text("⏳ Fetching stream info...")
 
     try:
-        resp = requests.get(f"{API_BASE}/fetch_all/{tmdb_id}").json()
+        resp = requests.get(f"{API_BASE}/get_video?id={tmdb_id}").json()
 
-        if "error" in resp:
-            loading_msg.edit_text("❌ Failed to fetch data. Please check the TMDB ID.")
+        if not resp or "error" in resp:
+            loading_msg.edit_text("❌ No stream found or invalid TMDB ID.")
             return
 
-        title = resp.get("title", "Unknown Title")
-        release_year = resp.get("release_year", "N/A")
-        imdb_id = resp.get("imdb_id", "N/A")
-        hindi_link = resp.get("Hindi_URL", "")
-        english_link = resp.get("English_URL", "")
+        # Assume only one entry for simplicity
+        stream_info = resp[0]
+        proxy_url = stream_info.get("Strem URL", "Not found")
+        title = stream_info.get("Title", "Unknown Title")
+        video_url = stream_info.get("Video URL", "Not found")
+        referer = stream_info.get("Referer Header", "N/A")
+        name = stream_info.get("Name", "Unknown")
 
-        # Save links in context for button callback
+        # Save for button callback
         context.user_data["stream_data"] = {
             "tmdb_id": tmdb_id,
             "title": title,
-            "Hindi_URL": hindi_link,
-            "English_URL": english_link
+            "Video_URL": proxy_url
         }
 
-        # Buttons
-        keyboard = [
-            [InlineKeyboardButton("🇮🇳 Hindi", callback_data="create_hindi")],
-            [InlineKeyboardButton("🇬🇧 English", callback_data="create_english")]
-        ]
+        keyboard = [[InlineKeyboardButton("💾 Save Stream", callback_data="save_stream")]]
         reply_markup = InlineKeyboardMarkup(keyboard)
 
-        # Edit loading message with movie info + buttons
         reply_text = (
-            f"🎬 *{title}* ({release_year})\n"
-            f"TMDB ID: `{tmdb_id}`\nIMDB ID: `{imdb_id}`\n\n"
-            f"🇮🇳 Hindi Link:\n{hindi_link}\n\n"
-            f"🇬🇧 English Link:\n{english_link}\n\n"
-            f"Choose a stream to save:"
+            f"🎬 *{title}*\n"
+            f"TMDB ID: `{tmdb_id}`\n"
+            f"Server: `{name}`\n"
+            f"Referer: `{referer}`\n\n"
+            f"🔗 Original URL:\n{video_url}\n\n"
+            f"🛡️ Stream URL:\n{proxy_url}\n\n"
+            f"Click below to save the stream file:"
         )
+
         loading_msg.edit_text(reply_text, parse_mode='Markdown', reply_markup=reply_markup)
 
     except Exception as e:
-        logger.error(f"Error fetching links: {e}")
-        loading_msg.edit_text("❌ Something went wrong. Please try again later.")
+        logger.error(f"Error fetching stream: {e}")
+        loading_msg.edit_text("❌ Something went wrong. Try again later.")
+
 
 # 📁 Create .strm file on button click
 def handle_button_click(update: Update, context: CallbackContext):
@@ -130,20 +128,12 @@ def handle_button_click(update: Update, context: CallbackContext):
         return
 
     data = context.user_data.get("stream_data", {})
-    tmdb_id = data.get("tmdb_id")
     title = data.get("title", "Unknown")
-    lang = "Hindi" if query.data == "create_hindi" else "English"
-    redirect_base = "https://cstream.vflix.life"
-    lang_path = f"/fetch_hindi/{tmdb_id}" if lang == "Hindi" else f"/fetch_english/{tmdb_id}"
-    stream_url = f"{redirect_base}{lang_path}"
-
-    if not stream_url or stream_url == "Not found":
-        query.edit_message_text(f"❌ {lang} stream not found.")
-        return
+    stream_url = data.get("Video_URL")
 
     # Sanitize filename
     safe_title = "".join(c if c.isalnum() or c in " _-" else "_" for c in title)
-    filename = f"{safe_title}_{tmdb_id}.strm"
+    filename = f"{safe_title}.strm"
     filepath = os.path.join(strm_path, filename)
 
     try:
@@ -152,7 +142,7 @@ def handle_button_click(update: Update, context: CallbackContext):
             f.write(stream_url)
 
         query.edit_message_text(
-            f"✅ {lang} stream saved for *{user_name}*:\n`{safe_title}_{tmdb_id}`",
+            f"✅ Stream saved for *{user_name}*:\n`{filename}`",
             parse_mode='Markdown'
         )
     except Exception as e:
