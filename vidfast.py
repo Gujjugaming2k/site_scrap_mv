@@ -5,8 +5,13 @@ import requests
 from Crypto.Cipher import AES
 from urllib.parse import urlparse
 from Crypto.Util.Padding import pad
+from bs4 import BeautifulSoup
+import urllib.parse
 
 app = Flask(__name__)
+
+
+
 
 # Custom Base64 encoder with character mapping
 def custom_encode(input_bytes):
@@ -50,6 +55,10 @@ def get_video():
 
     try:
         response = requests.get(base_url, headers=headers).text
+        soup = BeautifulSoup(response, 'html.parser')
+        title_tag = soup.find('div', class_='MuiBox-root mui-10rvbm3')
+        movie_title = title_tag.text.strip() if title_tag else "Unknown Title"
+
         match = re.search(r'\\"en\\":\\"(.*?)\\"', response)
         if not match:
             return jsonify({"error": "No data found"}), 404
@@ -76,10 +85,24 @@ def get_video():
                     video_url = video_response.get('url', 'No URL found')
                 except Exception as e:
                     video_url = f"Error fetching URL: {e}"
+                
+
+                # Encode video URL
+                encoded_video_url = urllib.parse.quote(video_url, safe='')
+
+# Encode headers
+                headers_json = '{"referer":"' + default_domain + '"}'
+                encoded_headers = urllib.parse.quote(headers_json, safe='')
+
+# Build proxy URL
+                proxy_url = f"https://proxy.vflix.life/m3u8-proxy?url={encoded_video_url}&headers={encoded_headers}"
+
 
                 results.append({
                     "Name": name,
+                    "Title": movie_title,
                     "Video URL": video_url,
+                    "Strem URL": proxy_url,
                     "Referer Header": default_domain
                 })
 
