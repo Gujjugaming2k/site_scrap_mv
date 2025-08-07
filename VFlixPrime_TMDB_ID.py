@@ -63,7 +63,7 @@ def start(update: Update, context: CallbackContext):
     user_id = update.effective_user.id
     if user_id in AUTH_USERS:
         name = AUTH_USERS[user_id]
-        update.message.reply_text(f"Welcome {name} \n, VFlixPrime Bot! Send a TMDB ID to fetch stream links.")
+        update.message.reply_text(f"Welcome {name},\n VFlixPrime Bot! Send a TMDB ID to fetch stream links.")
     else:
         update.message.reply_text(f"You don't have auth. Contact admin {ADMIN_CONTACT}")
 
@@ -142,7 +142,7 @@ def handle_button_click(update: Update, context: CallbackContext):
             f.write(stream_url)
 
         query.edit_message_text(
-            f"✅ Stream saved for *{user_name}*:\n`{filename}`",
+            f"✅ Stream saved for *{user_name}*:\n`{safe_title}`",
             parse_mode='Markdown'
         )
     except Exception as e:
