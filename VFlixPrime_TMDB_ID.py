@@ -108,7 +108,7 @@ def handle_button_click(update: Update, context: CallbackContext):
         with open(filepath, "w") as f:
             f.write(stream_url)
 
-        query.edit_message_text(f"✅ {lang} stream saved as:\n`{filename}`", parse_mode='Markdown')
+        query.edit_message_text(f"✅ {lang} stream saved under Cloud Movies:\n`{safe_title}_{tmdb_id}`", parse_mode='Markdown')
     except Exception as e:
         logger.error(f"Error saving file: {e}")
         query.edit_message_text("❌ Failed to save stream file.")
