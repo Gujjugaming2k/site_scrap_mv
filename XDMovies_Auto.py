@@ -15,7 +15,7 @@ PREFIX = "https://hubcloud-r2-dev.hdmovielover.workers.dev/download?url="
 # Check interval (seconds)
 CHECK_INTERVAL = 10 * 60   # 10 minutes
 # Number of latest entries to monitor
-CHECK_LIMIT = 99
+CHECK_LIMIT = 50
 
 # X Auth Token, Cloudflare clearance token and PHP session ID
 x_auth_token = "njkddhdifdldjaslsjidoqdnasmnpo"  # static value from site, need to update if site changes it
@@ -179,4 +179,5 @@ def monitor_movies():
 
 if __name__ == "__main__":
     monitor_movies()
+
 
