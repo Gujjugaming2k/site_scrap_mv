@@ -4,6 +4,7 @@ import json
 import time
 import requests
 from urllib.parse import urlparse
+import base64
 
 # ---------- SETTINGS ----------
 # Folder to save STRM files
@@ -178,3 +179,4 @@ def monitor_movies():
 
 if __name__ == "__main__":
     monitor_movies()
+
