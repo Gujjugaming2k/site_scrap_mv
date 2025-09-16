@@ -16,22 +16,22 @@ app = Flask(__name__)
 # Custom Base64 encoder with character mapping
 def custom_encode(input_bytes):
     source_chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-_"
-    target_chars = "OCmbtfWoski0dEv3HFhu_G1cDUw6QARY87-VJpjqlNLTIZrX249PeSnBgz5MaxyK"
+    target_chars = "SCHkQ7-ni29AJs3VKw4XxjZE5WNL6zTBbY0G1ReurtmDMyqgIl8cvoOUPfFdhap_"
     translation_table = str.maketrans(source_chars, target_chars)
     encoded = base64.urlsafe_b64encode(input_bytes).decode().rstrip('=')
     return encoded.translate(translation_table)
 
 # AES encryption setup
-key_hex = '5b783a7f09f7e006661a5ebf3ef8952fdfc03e41892bf1597f7d8dda49dcb6a9'
-iv_hex = 'a3d48b44795d9c2592ee4c3294258242'
+key_hex = '8321a6aa7add8f2874b4b03f4f0fd9de8fa33bb91d9fa63534975ab49a584c8f'
+iv_hex = '7d7a35a72b54d40c323d64d268e84382'
 aes_key = bytes.fromhex(key_hex)
 aes_iv = bytes.fromhex(iv_hex)
 
 # XOR key
-xor_key = bytes.fromhex("11860f0e9ebe20c03c")
+xor_key = bytes.fromhex("7ce1477edc99e718b8")
 
 # Static path used in API URLs
-static_path = "1000090675158710"
+static_path = "hezushon/e7b3cf8497ae580e7a703f996cf17ce48587cbd5/ev/9fdf613a9204683a789e4bfe9fd06da405e6ef36c4338b5baf14d0f2ea18f7a4"
 
 # Target server names to filter
 target_names = ['Alpha']
