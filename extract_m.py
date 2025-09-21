@@ -82,7 +82,7 @@ def extract_stream():
                 hls_link = item.get("stream", {}).get("hls", {}).get("high")
                 if title and hls_link:
                     if not hls_link.startswith("http"):
-                        hls_link = f"https://cdn.mxplayer.in/{hls_link}"
+                        hls_link = f"https://d3sgzbosmwirao.cloudfront.net/{hls_link}"
                     episodes.append({"title": title, "hls": hls_link, "ep_num": idx})
 
             next_cursor = resp.get("next")
@@ -152,7 +152,7 @@ def save_strm():
                 hls_link = item.get("stream", {}).get("hls", {}).get("high")
                 if title and hls_link:
                     if not hls_link.startswith("http"):
-                        hls_link = f"https://cdn.mxplayer.in/{hls_link}"
+                        hls_link = f"https://d3sgzbosmwirao.cloudfront.net/{hls_link}"
                     episodes.append({"title": title, "hls": hls_link, "ep_num": idx})
 
             next_cursor = resp.get("next")
