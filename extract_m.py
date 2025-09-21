@@ -161,7 +161,7 @@ def save_strm():
         return jsonify({"error": "No episodes found", "show_url": show_url, "season_id": season_id})
 
     # --- Create folder ---
-    folder_path = os.path.join("mxplayer", series_title)
+    folder_path = os.path.join("/tmp/opt/jellyfin/STRM/m3u8/mxplayer/Series/", series_title)
     os.makedirs(folder_path, exist_ok=True)
 
     # --- Save .strm files ---
@@ -182,3 +182,4 @@ def save_strm():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
+
