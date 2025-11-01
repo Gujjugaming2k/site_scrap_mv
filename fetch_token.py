@@ -105,8 +105,9 @@ if cookie and prime_cookie:
     if netflix_token and prime_token:
         message = f"*IOSMIRROR Token:*\n`{prime_token}`"
         send_to_telegram(message)
-        run_update_script()
+        #run_update_script()
     else:
         print("Missing one or both tokens. Telegram and update skipped.")
 else:
     print("Failed to retrieve one or both cookies.")
+
