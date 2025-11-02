@@ -138,22 +138,22 @@ if cookie and prime_cookie:
             "Netflix": {
                 "token": netflix_token,
                 "folders": {
-                    "Movies": ("Netflix/Movies", "Netflix/Movies"),
-                    "Series": ("Netflix/Series", "Netflix/Series")
+                    "Movies": ("/tmp/opt/jellyfin/STRM/m3u8/IOSMIRROR/Netflix/Movies", "/tmp/opt/jellyfin/STRM/m3u8/IOSMIRROR/Netflix/Movies"),
+                    "Series": ("/tmp/opt/jellyfin/STRM/m3u8/IOSMIRROR/Netflix/Series", "/tmp/opt/jellyfin/STRM/m3u8/IOSMIRROR/Netflix/Series")
                 }
             },
             "Prime": {
                 "token": prime_token,
                 "folders": {
-                    "Movies": ("Prime/Movies", "Prime/Movies"),
-                    "Series": ("Prime/Series", "Prime/Series")
+                    "Movies": ("/tmp/opt/jellyfin/STRM/m3u8/IOSMIRROR/Prime/Movies", "/tmp/opt/jellyfin/STRM/m3u8/IOSMIRROR/Prime/Movies"),
+                    "Series": ("/tmp/opt/jellyfin/STRM/m3u8/IOSMIRROR/Prime/Series", "/tmp/opt/jellyfin/STRM/m3u8/IOSMIRROR/Prime/Series")
                 }
             },
             "Hotstar": {
                 "token": prime_token,
                 "folders": {
-                    "Movies": ("Hotstar/Movies", "Hotstar/Movies"),
-                    "Series": ("Hotstar/Series", "Hotstar/Series")
+                    "Movies": ("/tmp/opt/jellyfin/STRM/m3u8/IOSMIRROR/Hotstar/Movies", "/tmp/opt/jellyfin/STRM/m3u8/IOSMIRROR/Hotstar/Movies"),
+                    "Series": ("/tmp/opt/jellyfin/STRM/m3u8/IOSMIRROR/Hotstar/Series", "/tmp/opt/jellyfin/STRM/m3u8/IOSMIRROR/Hotstar/Series")
                 }
             }
         }
@@ -186,3 +186,4 @@ if cookie and prime_cookie:
         print("❌ Missing one or both tokens. Skipping update.")
 else:
     print("❌ Failed to retrieve one or both cookies.")
+
