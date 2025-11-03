@@ -136,7 +136,7 @@ if cookie and prime_cookie:
 
         platforms = {
             "Netflix": {
-                "token": netflix_token,
+                "token": prime_token,
                 "folders": {
                     "Movies": ("/tmp/opt/jellyfin/STRM/m3u8/IOSMIRROR/Netflix/Movies", "/tmp/opt/jellyfin/STRM/m3u8/IOSMIRROR/Netflix/Movies"),
                     "Series": ("/tmp/opt/jellyfin/STRM/m3u8/IOSMIRROR/Netflix/Series", "/tmp/opt/jellyfin/STRM/m3u8/IOSMIRROR/Netflix/Series")
@@ -186,5 +186,6 @@ if cookie and prime_cookie:
         print("❌ Missing one or both tokens. Skipping update.")
 else:
     print("❌ Failed to retrieve one or both cookies.")
+
 
 
