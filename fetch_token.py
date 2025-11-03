@@ -127,8 +127,8 @@ cookie = get_prime_cookie()
 prime_cookie = get_prime_cookie()
 
 if cookie and prime_cookie:
-    netflix_token = handle_netflix(cookie)
     prime_token = handle_prime(prime_cookie)
+    netflix_token = prime_token
 
     if netflix_token and prime_token:
         message = f"*IOSMIRROR Token:*\n`in={prime_token}`"
@@ -186,4 +186,5 @@ if cookie and prime_cookie:
         print("❌ Missing one or both tokens. Skipping update.")
 else:
     print("❌ Failed to retrieve one or both cookies.")
+
 
