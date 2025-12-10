@@ -1,17 +1,22 @@
+
 #!/usr/bin/env bash
 set -euo pipefail
 
-curl -sS https://raw.githubusercontent.com/Gujjugaming2k/site_scrap_mv/main/BKP_Stremio/token.enc -o token.enc
+# --- Fetch encrypted token from repo (force latest with cache-busting) ---
+curl -sS -L "https://raw.githubusercontent.com/Gujjugaming2k/site_scrap_mv/main/BKP_Stremio/token.enc?t=$(date +%s)" -o token.enc
 TOKEN_ENC="token.enc"
 
-# Read passphrase from env or prompt
-PASSPHRASE="${TOKEN_PASSPHRASE:-abc}"   # default to 'abc'; override by export TOKEN_PASSPHRASE="..."
+# --- Passphrase (default 'abc'; override by export TOKEN_PASSPHRASE="...") ---
+PASSPHRASE="${TOKEN_PASSPHRASE:-abc}"
 
-
-# Decrypt into variable at runtime (no temp plaintext file)
-TKEN="$(openssl enc -d -aes-256-cbc -salt -pbkdf2 -in "$TOKEN_ENC" -pass pass:"$PASSPHRASE")"
+# --- Decrypt token into variable (no temp plaintext files) ---
+TKEN="$(openssl enc -d -aes-256-cbc -salt -pbkdf2 -in "$TOKEN_ENC" -pass pass:"$PASSPHRASE")" || {
+  echo "❌ Decryption failed (wrong passphrase or missing token.enc)" >&2
+  exit 1
+}
 : "${TKEN:?Decryption failed}"
 
+# --- Repo config ---
 OWNER="Gujjugaming2k"
 REPO="site_scrap_mv"
 BRANCH="main"
@@ -31,9 +36,9 @@ FILES=(
 base64_one_line() {
   local file="$1"
   if base64 --help 2>/dev/null | grep -q '\-w'; then
-    base64 -w0 "$file"
+    base64 -w0 "$file"        # GNU coreutils
   else
-    base64 "$file" | tr -d '\n'
+    base64 "$file" | tr -d '\n'  # macOS/BSD
   fi
 }
 
@@ -41,7 +46,8 @@ get_remote_metadata() {
   local repo_path="$1"
   local url="https://api.github.com/repos/${OWNER}/${REPO}/contents/${repo_path}?ref=${BRANCH}"
   curl -sS -H "Authorization: Bearer ${TKEN}" \
-            -H "Accept: application/vnd.github+json" "$url"
+            -H "Accept: application/vnd.github+json" \
+            "$url"
 }
 
 extract_json_field() {
@@ -58,16 +64,26 @@ put_file() {
 
   local tmp_body
   tmp_body="$(mktemp)"
-  {
-    echo '{'
-    echo "  \"message\": \"${message}\","
-    echo "  \"content\": \"${content_b64}\","
-    echo "  \"branch\": \"${BRANCH}\","
-    if [[ -n "$sha" ]]; then
-      echo "  \"sha\": \"${sha}\""
-    fi
-    echo '}'
-  } > "$tmp_body"
+
+  # Build valid JSON (no trailing comma). If sha is present, include it.
+  if [[ -n "$sha" ]]; then
+    cat > "$tmp_body" <<JSON
+{
+  "message": "${message}",
+  "content": "${content_b64}",
+  "branch": "${BRANCH}",
+  "sha": "${sha}"
+}
+JSON
+  else
+    cat > "$tmp_body" <<JSON
+{
+  "message": "${message}",
+  "content": "${content_b64}",
+  "branch": "${BRANCH}"
+}
+JSON
+  fi
 
   curl -sS -X PUT \
     -H "Authorization: Bearer ${TKEN}" \
@@ -84,13 +100,13 @@ delete_file() {
 
   local tmp_body
   tmp_body="$(mktemp)"
-  {
-    echo '{'
-    echo "  \"message\": \"${message}\","
-    echo "  \"sha\": \"${sha}\","
-    echo "  \"branch\": \"${BRANCH}\""
-    echo '}'
-  } > "$tmp_body"
+  cat > "$tmp_body" <<JSON
+{
+  "message": "${message}",
+  "sha": "${sha}",
+  "branch": "${BRANCH}"
+}
+JSON
 
   curl -sS -X DELETE \
     -H "Authorization: Bearer ${TKEN}" \
@@ -101,7 +117,6 @@ delete_file() {
 }
 
 # ===== MAIN =====
-
 for local_file in "${FILES[@]}"; do
   if [[ ! -f "$local_file" ]]; then
     echo "❌ Missing local file: $local_file" >&2
@@ -116,8 +131,7 @@ for local_file in "${FILES[@]}"; do
   # Get remote metadata (sha + existing content)
   meta="$(get_remote_metadata "$repo_path")" || meta=""
   remote_sha="$(echo "$meta" | extract_json_field sha || true)"
-  # Optional: detect identical content (download and compare)
-  # Note: Contents API returns Base64 in 'content' field
+  # Note: For large files, 'content' may be empty with 'encoding: none', so identical check may be skipped.
   remote_b64="$(echo "$meta" | sed -n 's/.*"content"[[:space:]]*:[[:space:]]*"\([^"]\+\)".*/\1/p' | head -n1 | tr -d '\n')"
   local_b64="$(base64_one_line "$local_file")"
 
@@ -152,11 +166,13 @@ for local_file in "${FILES[@]}"; do
     path="$(echo "$put_resp" | sed -n 's/.*"path"[[:space:]]*:[[:space:]]*"\([^"]\+\)".*/\1/p' | head -n1)"
     sha_new="$(echo "$put_resp" | sed -n 's/.*"sha"[[:space:]]*:[[:space:]]*"\([^"]\+\)".*/\1/p' | head -n1)"
     echo "✅ ${action}d: ${path} (sha: ${sha_new})"
+  elif echo "$put_resp" | grep -qi 'identical'; then
+    echo "ℹ️  Remote says identical; no commit created. Try FORCE=true."
   else
-    # Surface errors like 409 identical, 403 protection, etc.
     echo "❌ ${action} failed. API response:"
     echo "$put_resp"
   fi
 done
 
 echo "🎉 Done."
+
