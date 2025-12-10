@@ -2,11 +2,17 @@
 set -euo pipefail
 
 
-# Base64-encoded token (for obfuscation only)
-TOKEN_B64="Z2hwXzJwNzJuZXF2SjdEdHo1a1l2NmF6MUdUdlFGSnhjUzJpSWpHaA=="  # example
+TOKEN_ENC="token.enc"
 
-# Decode at runtime (POSIX-compatible)
-GITHUB_TOKEN="$(printf '%s' "$TOKEN_B64" | base64 -d 2>/dev/null || printf '%s' "$TOKEN_B64" | base64 --decode)"
+# Read passphrase from env or prompt
+PASSPHRASE="${TOKEN_PASSPHRASE:-}"
+if [ -z "$PASSPHRASE" ]; then
+  read -s -p "Token passphrase: " PASSPHRASE; echo
+fi
+
+# Decrypt into variable at runtime (no temp plaintext file)
+TKEN="$(openssl enc -d -aes-256-cbc -salt -pbkdf2 -in "$TOKEN_ENC" -pass pass:"$PASSPHRASE")"
+: "${TKEN:?Decryption failed}"
 
 OWNER="Gujjugaming2k"
 REPO="site_scrap_mv"
@@ -36,7 +42,7 @@ base64_one_line() {
 get_remote_metadata() {
   local repo_path="$1"
   local url="https://api.github.com/repos/${OWNER}/${REPO}/contents/${repo_path}?ref=${BRANCH}"
-  curl -sS -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+  curl -sS -H "Authorization: Bearer ${TKEN}" \
             -H "Accept: application/vnd.github+json" "$url"
 }
 
@@ -66,7 +72,7 @@ put_file() {
   } > "$tmp_body"
 
   curl -sS -X PUT \
-    -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+    -H "Authorization: Bearer ${TKEN}" \
     -H "Accept: application/vnd.github+json" \
     --data-binary @"$tmp_body" \
     "https://api.github.com/repos/${OWNER}/${REPO}/contents/${repo_path}"
@@ -89,7 +95,7 @@ delete_file() {
   } > "$tmp_body"
 
   curl -sS -X DELETE \
-    -H "Authorization: Bearer ${GITHUB_TOKEN}" \
+    -H "Authorization: Bearer ${TKEN}" \
     -H "Accept: application/vnd.github+json" \
     --data-binary @"$tmp_body" \
     "https://api.github.com/repos/${OWNER}/${REPO}/contents/${repo_path}"
