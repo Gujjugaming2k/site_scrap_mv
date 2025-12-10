@@ -5,7 +5,6 @@ set -euo pipefail
 SCRIPT="bkp_data_stremio.sh"
 
 export TOKEN_PASSPHRASE="abc"
-export FORCE="true"
 
 # Infinite loop
 while true; do
