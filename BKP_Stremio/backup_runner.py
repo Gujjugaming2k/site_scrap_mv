@@ -13,7 +13,7 @@ logging.basicConfig(
     level=logging.INFO,
     format='[%(asctime)s] [%(levelname)s] %(message)s',
     handlers=[
-        logging.FileHandler('/tmp/stremio_backup_runner.log'),
+        logging.FileHandler('stremio_backup_runner.log'),
         logging.StreamHandler(sys.stdout)
     ]
 )
@@ -24,10 +24,10 @@ BACKUP_INTERVAL = 15 * 60  # 15 minutes in seconds
 REPO = 'Gujjugaming2k/site_scrap_mv'
 BRANCH = 'main'
 REMOTE_DIR = 'BKP_Stremio'
-WORK_DIR = '/tmp/Stremio'  # Where Stremio is deployed
+WORK_DIR = 'Stremio'  # Where Stremio is deployed
 ZIP_URL = f'https://github.com/{REPO}/raw/{BRANCH}/Stremio.zip'
-ZIP_FILE = '/tmp/Stremio.zip'
-STATE_FILE = '/tmp/stremio_initialized'  # Track if we've already downloaded
+ZIP_FILE = 'Stremio.zip'
+STATE_FILE = 'stremio_initialized'  # Track if we've already downloaded
 
 
 def download_stremio():
