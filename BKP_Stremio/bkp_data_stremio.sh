@@ -5,10 +5,8 @@ curl -sS https://raw.githubusercontent.com/Gujjugaming2k/site_scrap_mv/main/BKP_
 TOKEN_ENC="token.enc"
 
 # Read passphrase from env or prompt
-PASSPHRASE="${TOKEN_PASSPHRASE:-}"
-if [ -z "$PASSPHRASE" ]; then
-  read -s -p "Token passphrase: " PASSPHRASE; echo
-fi
+PASSPHRASE="${TOKEN_PASSPHRASE:-abc}"   # default to 'abc'; override by export TOKEN_PASSPHRASE="..."
+
 
 # Decrypt into variable at runtime (no temp plaintext file)
 TKEN="$(openssl enc -d -aes-256-cbc -salt -pbkdf2 -in "$TOKEN_ENC" -pass pass:"$PASSPHRASE")"
