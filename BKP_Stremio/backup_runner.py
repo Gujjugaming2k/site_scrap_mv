@@ -80,7 +80,7 @@ def fetch_latest_backup():
             'catalogs.json': f'https://raw.githubusercontent.com/{REPO}/{BRANCH}/{REMOTE_DIR}/catalogs.json'
         }
         
-        data_dir = Path(WORK_DIR) / 'Stremio' / 'data'
+        data_dir = Path(WORK_DIR) / 'data'
         data_dir.mkdir(parents=True, exist_ok=True)
         
         for filename, url in backup_files.items():
