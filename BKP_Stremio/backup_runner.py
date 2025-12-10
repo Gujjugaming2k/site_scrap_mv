@@ -30,44 +30,6 @@ ZIP_FILE = 'Stremio.zip'
 STATE_FILE = 'stremio_initialized'  # Track if we've already downloaded
 
 
-def download_stremio():
-    """Download Stremio.zip once."""
-    LOG.info('Downloading Stremio.zip from %s...', ZIP_URL)
-    try:
-        result = subprocess.run(
-            ['curl', '-L', ZIP_URL, '-o', ZIP_FILE],
-            capture_output=True,
-            text=True,
-            timeout=120
-        )
-        if result.returncode != 0:
-            LOG.error('Failed to download Stremio.zip: %s', result.stderr)
-            return False
-        
-        LOG.info('Downloaded Stremio.zip to %s', ZIP_FILE)
-        
-        # Extract ZIP
-        LOG.info('Extracting ZIP to %s...', WORK_DIR)
-        os.makedirs(WORK_DIR, exist_ok=True)
-        result = subprocess.run(
-            ['unzip', '-o', ZIP_FILE, '-d', WORK_DIR],
-            capture_output=True,
-            text=True,
-            timeout=60
-        )
-        if result.returncode != 0:
-            LOG.error('Failed to extract ZIP: %s', result.stderr)
-            return False
-        
-        LOG.info('Stremio extracted successfully')
-        return True
-    except subprocess.TimeoutExpired:
-        LOG.error('Download/extract timed out')
-        return False
-    except Exception as e:
-        LOG.exception('Error downloading Stremio: %s', e)
-        return False
-
 
 def fetch_latest_backup():
     """Fetch the latest backup files from GitHub BKP_Stremio folder."""
@@ -148,14 +110,7 @@ def main():
         LOG.error('Backup script not found: %s', BACKUP_SCRIPT)
         sys.exit(1)
     
-    # Check if already initialized
-    if not Path(STATE_FILE).exists():
-        LOG.info('First run detected - downloading Stremio...')
-        if not download_stremio():
-            LOG.error('Failed to download Stremio, exiting')
-            sys.exit(1)
-        
-        LOG.info('Stremio extracted successfully')
+
         
         # Download latest backup files after extraction
         LOG.info('Checking for latest backups to restore...')
