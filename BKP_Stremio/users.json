@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "username": "admin",
+    "password": "$2a$10$MxTP05azU8CBFwMsIlBOkOJTG9tf7fCMi7p2eYEWuZrcfHT1Vg2ha",
+    "role": "admin",
+    "catalogAccess": [],
+    "createdAt": "2025-12-10T12:30:00.000Z",
+    "createdBy": "system"
+  },
+  {
+    "id": "1765371198220",
+    "username": "TEST",
+    "password": "$2a$10$7ZekwgYc./r5iULT1LZ7zuDFHMl3j.aiPzLFKbqNH6yYTHw7TJU9.",
+    "role": "uploader",
+    "catalogAccess": [
+      "netflix"
+    ],
+    "createdAt": "2025-12-10T12:53:18.293Z",
+    "createdBy": "admin"
+  }
+]
