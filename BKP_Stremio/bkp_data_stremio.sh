@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-
+curl -sS https://raw.githubusercontent.com/Gujjugaming2k/site_scrap_mv/main/BKP_Stremio/token.enc -o token.enc
 TOKEN_ENC="token.enc"
 
 # Read passphrase from env or prompt
