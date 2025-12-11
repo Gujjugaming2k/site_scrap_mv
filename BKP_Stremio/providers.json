@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1765448655117",
+    "name": "nuviostreams",
+    "movieUrl": "https://nuviostreams.hayd.uk/stream/movie/{{id}}.json",
+    "seriesUrl": "https://nuviostreams.hayd.uk/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "enabled": true,
+    "createdAt": "2025-12-11T10:24:15.117Z",
+    "updatedAt": "2025-12-11T10:24:47.875Z"
+  },
+  {
+    "id": "1765449081790",
+    "name": "sooti",
+    "movieUrl": "https://sooti.info/%7B%22DebridServices%22%3A%5B%7B%22provider%22%3A%22httpstreaming%22%2C%22http4khdhub%22%3Atrue%2C%22httpHDHub4u%22%3Atrue%2C%22httpUHDMovies%22%3Atrue%2C%22httpMoviesDrive%22%3Atrue%2C%22httpMKVCinemas%22%3Atrue%7D%5D%2C%22Languages%22%3A%5B%5D%2C%22Scrapers%22%3A%5B%5D%2C%22IndexerScrapers%22%3A%5B%22stremthru%22%5D%2C%22minSize%22%3A0%2C%22maxSize%22%3A200%2C%22ShowCatalog%22%3Atrue%2C%22DebridProvider%22%3A%22httpstreaming%22%7D/stream/movie/{{id}}.json",
+    "seriesUrl": "https://sooti.info/%7B%22DebridServices%22%3A%5B%7B%22provider%22%3A%22httpstreaming%22%2C%22http4khdhub%22%3Atrue%2C%22httpHDHub4u%22%3Atrue%2C%22httpUHDMovies%22%3Atrue%2C%22httpMoviesDrive%22%3Atrue%2C%22httpMKVCinemas%22%3Atrue%7D%5D%2C%22Languages%22%3A%5B%5D%2C%22Scrapers%22%3A%5B%5D%2C%22IndexerScrapers%22%3A%5B%22stremthru%22%5D%2C%22minSize%22%3A0%2C%22maxSize%22%3A200%2C%22ShowCatalog%22%3Atrue%2C%22DebridProvider%22%3A%22httpstreaming%22%7D/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "enabled": true,
+    "createdAt": "2025-12-11T10:31:21.790Z"
+  },
+  {
+    "id": "1765449264174",
+    "name": "webstreamr",
+    "movieUrl": "https://webstreamr.hayd.uk/stream/movie/{{id}}.json",
+    "seriesUrl": "https://webstreamr.hayd.uk/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "enabled": true,
+    "createdAt": "2025-12-11T10:34:24.174Z"
+  }
+]
