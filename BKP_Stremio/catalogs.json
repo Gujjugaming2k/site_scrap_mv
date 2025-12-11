@@ -10,12 +10,6 @@
     "type": "series"
   },
   {
-    "id": "netflix",
-    "name": "Netflix",
-    "type": "movie",
-    "createdAt": "2025-12-09T12:55:21.760Z"
-  },
-  {
     "id": "hdhub4u",
     "name": "HDHub4u",
     "type": "movie",
@@ -26,5 +20,49 @@
     "name": "HdHub4u -",
     "type": "series",
     "createdAt": "2025-12-09T15:13:52.571Z"
+  },
+  {
+    "id": "trending",
+    "name": "Trending",
+    "type": "movie",
+    "externalMetaUrl": "https://indiastreams.rdata.in/rpdb/catalog/movie/trendingmovies.json",
+    "createdAt": "2025-12-11T11:05:13.916Z"
+  },
+  {
+    "id": "trending-",
+    "name": "Trending-",
+    "type": "series",
+    "externalMetaUrl": "https://indiastreams.rdata.in/rpdb/catalog/series/trendingtv.json",
+    "createdAt": "2025-12-11T11:05:39.966Z"
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix & Prime",
+    "type": "movie",
+    "externalMetaUrl": "https://indiastreams.rdata.in/rpdb/catalog/movie/nfxprm.json",
+    "createdAt": "2025-12-11T11:06:26.582Z",
+    "updatedAt": "2025-12-11T11:06:53.245Z"
+  },
+  {
+    "id": "netflix-",
+    "name": "Netflix & Prime-",
+    "type": "series",
+    "externalMetaUrl": "https://indiastreams.rdata.in/rpdb/catalog/series/nfxprmtv.json",
+    "createdAt": "2025-12-11T11:06:37.272Z",
+    "updatedAt": "2025-12-11T11:07:01.408Z"
+  },
+  {
+    "id": "hotstar-zee",
+    "name": "Hotstar & Zee",
+    "type": "movie",
+    "externalMetaUrl": " https://indiastreams.rdata.in/rpdb/catalog/movie/hstzee.json",
+    "createdAt": "2025-12-11T11:07:30.121Z"
+  },
+  {
+    "id": "hotstar-zee-",
+    "name": "Hotstar & Zee -",
+    "type": "series",
+    "externalMetaUrl": "https://indiastreams.rdata.in/rpdb/catalog/series/hstzeetv.json",
+    "createdAt": "2025-12-11T11:13:52.942Z"
   }
 ]
