@@ -30,6 +30,7 @@ FILES=(
   "Stremio/data/movies.json"
   "Stremio/data/series.json"
   "Stremio/data/users.json"
+  "Stremio/data/providers.json"
 )
 
 # ===== HELPERS =====
