@@ -23,5 +23,13 @@
     "seriesUrl": "https://webstreamr.hayd.uk/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "enabled": true,
     "createdAt": "2025-12-11T10:34:24.174Z"
+  },
+  {
+    "id": "1765468262218",
+    "name": "vidzee",
+    "movieUrl": "https://vidzee.vflix.life/movie/{{id}}.json",
+    "seriesUrl": "https://vidzee.vflix.life/series/{{id}}:{{season}}:{{episode}}.json",
+    "enabled": true,
+    "createdAt": "2025-12-11T15:51:02.218Z"
   }
 ]
