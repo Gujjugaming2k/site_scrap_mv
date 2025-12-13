@@ -31,6 +31,7 @@ FILES=(
   "Stremio/data/series.json"
   "Stremio/data/users.json"
   "Stremio/data/providers.json"
+  "Stremio/data/settings.json"
 )
 
 # ===== HELPERS =====
