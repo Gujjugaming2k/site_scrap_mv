@@ -37,32 +37,117 @@
   },
   {
     "id": "netflix",
-    "name": "Netflix & Prime",
+    "name": "Netflix",
     "type": "movie",
-    "externalMetaUrl": "https://indiastreams.rdata.in/rpdb/catalog/movie/nfxprm.json",
-    "createdAt": "2025-12-11T11:06:26.582Z",
-    "updatedAt": "2025-12-11T11:06:53.245Z"
+    "externalMetaUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxzb255bGl2LGpocyx6ZWU6dDAtZnJlZS1ycGRiOjoxNzY1NjA0MzYyOTQx/catalog/movie/nfx.json",
+    "createdAt": "2025-12-13T05:42:07.849Z"
   },
   {
     "id": "netflix-",
-    "name": "Netflix & Prime-",
+    "name": "Netflix -",
     "type": "series",
-    "externalMetaUrl": "https://indiastreams.rdata.in/rpdb/catalog/series/nfxprmtv.json",
-    "createdAt": "2025-12-11T11:06:37.272Z",
-    "updatedAt": "2025-12-11T11:07:01.408Z"
+    "externalMetaUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxzb255bGl2LGpocyx6ZWU6dDAtZnJlZS1ycGRiOjoxNzY1NjA0MzYyOTQx/catalog/series/amp.json",
+    "createdAt": "2025-12-13T05:42:20.451Z",
+    "updatedAt": "2025-12-13T05:48:53.537Z"
   },
   {
-    "id": "hotstar-zee",
-    "name": "Hotstar & Zee",
+    "id": "amazon-prime",
+    "name": "Amazon Prime",
     "type": "movie",
-    "externalMetaUrl": " https://indiastreams.rdata.in/rpdb/catalog/movie/hstzee.json",
-    "createdAt": "2025-12-11T11:07:30.121Z"
+    "externalMetaUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxzb255bGl2LGpocyx6ZWU6dDAtZnJlZS1ycGRiOjoxNzY1NjA0MzYyOTQx/catalog/movie/amp.json",
+    "createdAt": "2025-12-13T05:42:41.972Z"
   },
   {
-    "id": "hotstar-zee-",
-    "name": "Hotstar & Zee -",
+    "id": "amazon-prime-",
+    "name": "Amazon Prime -",
     "type": "series",
-    "externalMetaUrl": "https://indiastreams.rdata.in/rpdb/catalog/series/hstzeetv.json",
-    "createdAt": "2025-12-11T11:13:52.942Z"
+    "externalMetaUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxzb255bGl2LGpocyx6ZWU6dDAtZnJlZS1ycGRiOjoxNzY1NjA0MzYyOTQx/catalog/series/amp.json",
+    "createdAt": "2025-12-13T05:42:50.601Z"
+  },
+  {
+    "id": "hbo-max",
+    "name": "HBO MAX",
+    "type": "movie",
+    "externalMetaUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxzb255bGl2LGpocyx6ZWU6dDAtZnJlZS1ycGRiOjoxNzY1NjA0MzYyOTQx/catalog/movie/hbm.json",
+    "createdAt": "2025-12-13T05:43:45.211Z"
+  },
+  {
+    "id": "hbo-max-",
+    "name": "HBO MAX -",
+    "type": "series",
+    "externalMetaUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxzb255bGl2LGpocyx6ZWU6dDAtZnJlZS1ycGRiOjoxNzY1NjA0MzYyOTQx/catalog/series/hbm.json",
+    "createdAt": "2025-12-13T05:43:56.589Z"
+  },
+  {
+    "id": "disney-",
+    "name": "Disney Plus",
+    "type": "movie",
+    "externalMetaUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxzb255bGl2LGpocyx6ZWU6dDAtZnJlZS1ycGRiOjoxNzY1NjA0MzYyOTQx/catalog/series/hbm.json",
+    "createdAt": "2025-12-13T05:44:27.370Z",
+    "updatedAt": "2025-12-13T05:50:19.682Z"
+  },
+  {
+    "id": "disney-plus",
+    "name": "Disney Plus -",
+    "type": "series",
+    "externalMetaUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxzb255bGl2LGpocyx6ZWU6dDAtZnJlZS1ycGRiOjoxNzY1NjA0MzYyOTQx/catalog/series/dnp.json",
+    "createdAt": "2025-12-13T05:46:12.608Z",
+    "updatedAt": "2025-12-13T05:50:14.033Z"
+  },
+  {
+    "id": "apple-tv",
+    "name": "Apple TV",
+    "type": "movie",
+    "externalMetaUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxzb255bGl2LGpocyx6ZWU6dDAtZnJlZS1ycGRiOjoxNzY1NjA0MzYyOTQx/catalog/movie/atp.json",
+    "createdAt": "2025-12-13T05:46:34.210Z"
+  },
+  {
+    "id": "apple-tv-",
+    "name": "Apple TV -",
+    "type": "series",
+    "externalMetaUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxzb255bGl2LGpocyx6ZWU6dDAtZnJlZS1ycGRiOjoxNzY1NjA0MzYyOTQx/catalog/series/atp.json",
+    "createdAt": "2025-12-13T05:46:44.518Z"
+  },
+  {
+    "id": "jiohotstar",
+    "name": "JioHotstar",
+    "type": "movie",
+    "externalMetaUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxzb255bGl2LGpocyx6ZWU6dDAtZnJlZS1ycGRiOjoxNzY1NjA0MzYyOTQx/catalog/movie/jhs.json",
+    "createdAt": "2025-12-13T05:47:06.078Z"
+  },
+  {
+    "id": "jiohotstar-",
+    "name": "JioHotstar -",
+    "type": "series",
+    "externalMetaUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxzb255bGl2LGpocyx6ZWU6dDAtZnJlZS1ycGRiOjoxNzY1NjA0MzYyOTQx/catalog/series/jhs.json",
+    "createdAt": "2025-12-13T05:47:16.370Z"
+  },
+  {
+    "id": "zee",
+    "name": "Zee",
+    "type": "movie",
+    "externalMetaUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxzb255bGl2LGpocyx6ZWU6dDAtZnJlZS1ycGRiOjoxNzY1NjA0MzYyOTQx/catalog/movie/zee.json",
+    "createdAt": "2025-12-13T05:47:27.979Z"
+  },
+  {
+    "id": "zee-",
+    "name": "Zee -",
+    "type": "series",
+    "externalMetaUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxzb255bGl2LGpocyx6ZWU6dDAtZnJlZS1ycGRiOjoxNzY1NjA0MzYyOTQx/catalog/series/zee.json",
+    "createdAt": "2025-12-13T05:47:39.803Z"
+  },
+  {
+    "id": "sonyliv",
+    "name": "Sonyliv",
+    "type": "movie",
+    "externalMetaUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxzb255bGl2LGpocyx6ZWU6dDAtZnJlZS1ycGRiOjoxNzY1NjA0MzYyOTQx/catalog/movie/sonyliv.json",
+    "createdAt": "2025-12-13T05:47:53.346Z"
+  },
+  {
+    "id": "sonyliv-",
+    "name": "Sonyliv -",
+    "type": "series",
+    "externalMetaUrl": "https://7a82163c306e-stremio-netflix-catalog-addon.baby-beamup.club/bmZ4LGRucCxhbXAsYXRwLGhibSxzb255bGl2LGpocyx6ZWU6dDAtZnJlZS1ycGRiOjoxNzY1NjA0MzYyOTQx/catalog/series/sonyliv.json",
+    "createdAt": "2025-12-13T05:48:02.834Z"
   }
 ]
