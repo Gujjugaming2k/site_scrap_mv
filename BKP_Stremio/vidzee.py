@@ -139,9 +139,46 @@ def fetch_server(base_url: str, server_number: int):
 
 
 # ---------------------------------------------------------
+# ✅ Fetch NHDAPI Streams
+# ---------------------------------------------------------
+def get_nhdapi_streams(tmdb_id: str, category: str, season: str = None, episode: str = None):
+    streams = []
+    if category == 'movie':
+        media_path = f"movie/{tmdb_id}"
+    else:
+        media_path = f"tv/{tmdb_id}/season/{season}/episode/{episode}"
+        
+    servers = ['flixhq', 'hollymoviehd'] 
+    
+    # Headers logic
+    headers = {
+        'Accept': '*/*',
+        'Referer': "https://nhdapi.xyz/",
+        'User-Agent': USER_AGENT
+    }
+    
+    for server in servers:
+        api_url = f'https://server.nhdapi.xyz/{server}/{media_path}'
+        try:
+            resp = requests.get(api_url, headers=headers, timeout=5)
+            data = resp.json()
+            if data.get('url'):
+                streams.append({
+                    "url": data['url'],
+                    "name": f"NHDAPI {server}",
+                    "title": f"{server} Stream"
+                })
+        except Exception:
+            continue
+    return streams
+
+
+# ---------------------------------------------------------
 # ✅ Build Streams
 # ---------------------------------------------------------
-def process_vidzee(base_url: str):
+# ✅ Build Streams (Vidzee)
+# ---------------------------------------------------------
+def get_vidzee_streams(base_url: str):
     streams = []
 
     for server in [3, 6]:
@@ -154,8 +191,8 @@ def process_vidzee(base_url: str):
             name = f"Hindi - Vidzee {server}"
             title = "Hindi - HLS Stream"
         elif server == 3:
-            name = f"Englis - Vidzee Server {server}"
-            title = "Englis - HLS Stream"
+            name = f"English - Vidzee Server {server}"
+            title = "English - HLS Stream"
         else:
             name = f"Vidzee Server {server}"
             title = "HLS Stream"
@@ -169,7 +206,7 @@ def process_vidzee(base_url: str):
             }
         })
 
-    return jsonify({"streams": streams})
+    return streams
 
 
 # ---------------------------------------------------------
@@ -182,7 +219,10 @@ def movie_route(imdb_id):
         return jsonify({"streams": []})
 
     base_url = f"https://player.vidzee.wtf/embed/movie/{tmdb_id}"
-    return process_vidzee(base_url)
+    vidzee_streams = get_vidzee_streams(base_url)
+    nhdapi_streams = get_nhdapi_streams(tmdb_id, 'movie')
+    
+    return jsonify({"streams": vidzee_streams + nhdapi_streams})
 
 
 # ---------------------------------------------------------
@@ -200,7 +240,10 @@ def series_route(data):
         return jsonify({"streams": []})
 
     base_url = f"https://player.vidzee.wtf/embed/tv/{tmdb_id}/{season}/{episode}"
-    return process_vidzee(base_url)
+    vidzee_streams = get_vidzee_streams(base_url)
+    nhdapi_streams = get_nhdapi_streams(tmdb_id, 'tv', season, episode)
+
+    return jsonify({"streams": vidzee_streams + nhdapi_streams})
 
 
 # ---------------------------------------------------------
