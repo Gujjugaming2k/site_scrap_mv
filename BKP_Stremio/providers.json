@@ -30,7 +30,10 @@
     "movieUrl": "https://vidzee.vflix.life/movie/{{id}}.json",
     "seriesUrl": "https://vidzee.vflix.life/series/{{id}}:{{season}}:{{episode}}.json",
     "enabled": true,
-    "createdAt": "2025-12-11T15:51:02.218Z"
+    "createdAt": "2025-12-11T15:51:02.218Z",
+    "timeout": "10000",
+    "priority": "2",
+    "updatedAt": "2025-12-13T13:50:53.368Z"
   },
   {
     "id": "1765611292942",
@@ -38,6 +41,9 @@
     "movieUrl": "https://xdmovies-stremio-api.hdmovielover.workers.dev/movies?imdbID={{id}}",
     "seriesUrl": "",
     "enabled": true,
-    "createdAt": "2025-12-13T07:34:52.942Z"
+    "createdAt": "2025-12-13T07:34:52.942Z",
+    "timeout": "15000",
+    "priority": "1",
+    "updatedAt": "2025-12-13T13:50:45.702Z"
   }
 ]
