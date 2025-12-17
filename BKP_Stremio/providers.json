@@ -73,9 +73,10 @@
     "name": "HashHacker",
     "movieUrl": "https://hashhacker.vflix.life/stream/movie/{{id}}.json",
     "seriesUrl": "https://hashhacker.vflix.life/stream/series/{{id}}:{{season}}:{{episode}}.json",
-    "timeout": 15000,
-    "priority": 1,
+    "timeout": "15000",
+    "priority": "15",
     "enabled": true,
-    "createdAt": "2025-12-17T07:29:22.743Z"
+    "createdAt": "2025-12-17T07:29:22.743Z",
+    "updatedAt": "2025-12-17T08:08:27.514Z"
   }
 ]
