@@ -32,8 +32,8 @@
     "enabled": true,
     "createdAt": "2025-12-11T15:51:02.218Z",
     "timeout": "10000",
-    "priority": "2",
-    "updatedAt": "2025-12-13T13:50:53.368Z"
+    "priority": "3",
+    "updatedAt": "2025-12-20T13:20:43.270Z"
   },
   {
     "id": "1765611292942",
@@ -43,8 +43,8 @@
     "enabled": true,
     "createdAt": "2025-12-13T07:34:52.942Z",
     "timeout": "15000",
-    "priority": "1",
-    "updatedAt": "2025-12-13T13:50:45.702Z"
+    "priority": "2",
+    "updatedAt": "2025-12-20T13:21:15.640Z"
   },
   {
     "id": "1765819981434",
@@ -52,10 +52,10 @@
     "movieUrl": "http://fetch.vflix.life/prime/stream/movie/{{id}}.json",
     "seriesUrl": "https://fetch.vflix.life/prime/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "10000",
-    "priority": "2",
+    "priority": "4",
     "enabled": true,
     "createdAt": "2025-12-15T17:33:01.434Z",
-    "updatedAt": "2025-12-15T18:16:41.726Z"
+    "updatedAt": "2025-12-20T13:20:58.003Z"
   },
   {
     "id": "1765819999437",
@@ -63,10 +63,10 @@
     "movieUrl": "https://fetch.vflix.life/netflix/stream/movie/{{id}}.json",
     "seriesUrl": "https://fetch.vflix.life/netflix/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "10000",
-    "priority": "2",
+    "priority": "4",
     "enabled": true,
     "createdAt": "2025-12-15T17:33:19.437Z",
-    "updatedAt": "2025-12-15T18:16:47.351Z"
+    "updatedAt": "2025-12-20T13:21:05.889Z"
   },
   {
     "id": "1765956562743",
@@ -84,9 +84,10 @@
     "name": "VFlix",
     "movieUrl": "https://blue-universe.hdmovielover.workers.dev/movie?id={{id}}",
     "seriesUrl": "https://blue-universe.hdmovielover.workers.dev/series?id={{id}}&s={{season}}&e={{episode}}",
-    "timeout": 10000,
-    "priority": 1,
+    "timeout": "10000",
+    "priority": "1",
     "enabled": true,
-    "createdAt": "2025-12-20T13:18:25.505Z"
+    "createdAt": "2025-12-20T13:18:25.505Z",
+    "updatedAt": "2025-12-20T13:21:21.408Z"
   }
 ]
