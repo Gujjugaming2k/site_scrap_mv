@@ -6,7 +6,9 @@
     "seriesUrl": "https://nuviostreams.hayd.uk/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "enabled": true,
     "createdAt": "2025-12-11T10:24:15.117Z",
-    "updatedAt": "2025-12-11T10:24:47.875Z"
+    "updatedAt": "2025-12-28T07:19:28.390Z",
+    "timeout": "20000",
+    "priority": "10"
   },
   {
     "id": "1765449081790",
@@ -14,7 +16,10 @@
     "movieUrl": "https://sooti.info/%7B%22DebridServices%22%3A%5B%7B%22provider%22%3A%22httpstreaming%22%2C%22http4khdhub%22%3Atrue%2C%22httpHDHub4u%22%3Atrue%2C%22httpUHDMovies%22%3Atrue%2C%22httpMoviesDrive%22%3Atrue%2C%22httpMKVCinemas%22%3Atrue%7D%5D%2C%22Languages%22%3A%5B%5D%2C%22Scrapers%22%3A%5B%5D%2C%22IndexerScrapers%22%3A%5B%22stremthru%22%5D%2C%22minSize%22%3A0%2C%22maxSize%22%3A200%2C%22ShowCatalog%22%3Atrue%2C%22DebridProvider%22%3A%22httpstreaming%22%7D/stream/movie/{{id}}.json",
     "seriesUrl": "https://sooti.info/%7B%22DebridServices%22%3A%5B%7B%22provider%22%3A%22httpstreaming%22%2C%22http4khdhub%22%3Atrue%2C%22httpHDHub4u%22%3Atrue%2C%22httpUHDMovies%22%3Atrue%2C%22httpMoviesDrive%22%3Atrue%2C%22httpMKVCinemas%22%3Atrue%7D%5D%2C%22Languages%22%3A%5B%5D%2C%22Scrapers%22%3A%5B%5D%2C%22IndexerScrapers%22%3A%5B%22stremthru%22%5D%2C%22minSize%22%3A0%2C%22maxSize%22%3A200%2C%22ShowCatalog%22%3Atrue%2C%22DebridProvider%22%3A%22httpstreaming%22%7D/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "enabled": true,
-    "createdAt": "2025-12-11T10:31:21.790Z"
+    "createdAt": "2025-12-11T10:31:21.790Z",
+    "timeout": "20000",
+    "priority": "10",
+    "updatedAt": "2025-12-28T07:19:37.946Z"
   },
   {
     "id": "1765449264174",
@@ -22,7 +27,10 @@
     "movieUrl": "https://webstreamr.hayd.uk/stream/movie/{{id}}.json",
     "seriesUrl": "https://webstreamr.hayd.uk/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "enabled": true,
-    "createdAt": "2025-12-11T10:34:24.174Z"
+    "createdAt": "2025-12-11T10:34:24.174Z",
+    "timeout": "20000",
+    "priority": "10",
+    "updatedAt": "2025-12-28T07:19:51.383Z"
   },
   {
     "id": "1765468262218",
@@ -31,31 +39,31 @@
     "seriesUrl": "https://vidzee.vflix.life/series/{{id}}:{{season}}:{{episode}}.json",
     "enabled": true,
     "createdAt": "2025-12-11T15:51:02.218Z",
-    "timeout": "10000",
+    "timeout": "20000",
     "priority": "3",
-    "updatedAt": "2025-12-20T13:20:43.270Z"
+    "updatedAt": "2025-12-28T07:18:29.990Z"
   },
   {
     "id": "1765819981434",
     "name": "IOSMIRROR - Prime",
     "movieUrl": "http://fetch.vflix.life/prime/stream/movie/{{id}}.json",
     "seriesUrl": "https://fetch.vflix.life/prime/stream/series/{{id}}:{{season}}:{{episode}}.json",
-    "timeout": "10000",
+    "timeout": "20000",
     "priority": "4",
     "enabled": true,
     "createdAt": "2025-12-15T17:33:01.434Z",
-    "updatedAt": "2025-12-20T13:20:58.003Z"
+    "updatedAt": "2025-12-28T07:18:41.961Z"
   },
   {
     "id": "1765819999437",
     "name": "IOSMIRROR - Netflix",
     "movieUrl": "https://fetch.vflix.life/netflix/stream/movie/{{id}}.json",
     "seriesUrl": "https://fetch.vflix.life/netflix/stream/series/{{id}}:{{season}}:{{episode}}.json",
-    "timeout": "10000",
+    "timeout": "20000",
     "priority": "4",
     "enabled": true,
     "createdAt": "2025-12-15T17:33:19.437Z",
-    "updatedAt": "2025-12-20T13:21:05.889Z"
+    "updatedAt": "2025-12-28T07:18:55.029Z"
   },
   {
     "id": "1765956562743",
