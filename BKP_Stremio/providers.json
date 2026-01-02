@@ -91,9 +91,10 @@
     "name": "vega",
     "movieUrl": "https://vega.vflix.life/stream/movie/{{id}}.json",
     "seriesUrl": "https://vega.vflix.life/stream/series/{{id}}:{{season}}:{{episode}}.json",
-    "timeout": 10000,
-    "priority": 1,
+    "timeout": "10000",
+    "priority": "5",
     "enabled": true,
-    "createdAt": "2026-01-02T06:36:12.822Z"
+    "createdAt": "2026-01-02T06:36:12.822Z",
+    "updatedAt": "2026-01-02T09:29:47.045Z"
   }
 ]
