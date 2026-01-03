@@ -107,5 +107,16 @@
     "enabled": true,
     "createdAt": "2026-01-03T11:57:14.010Z",
     "updatedAt": "2026-01-03T11:58:43.643Z"
+  },
+  {
+    "id": "1767444815958",
+    "name": "rogflix",
+    "movieUrl": "https://rogflix.vflix.life/stremio/stream/movie/{{id}}.json",
+    "seriesUrl": "https://rogflix.vflix.life/stremio/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "timeout": "10000",
+    "priority": "3",
+    "enabled": true,
+    "createdAt": "2026-01-03T12:53:35.958Z",
+    "updatedAt": "2026-01-03T12:53:46.445Z"
   }
 ]
