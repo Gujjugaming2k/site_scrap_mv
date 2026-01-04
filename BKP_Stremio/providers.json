@@ -114,9 +114,9 @@
     "movieUrl": "https://rogflix.vflix.life/stremio/stream/movie/{{id}}.json",
     "seriesUrl": "https://rogflix.vflix.life/stremio/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "10000",
-    "priority": "3",
+    "priority": "11",
     "enabled": true,
     "createdAt": "2026-01-03T12:53:35.958Z",
-    "updatedAt": "2026-01-03T12:53:46.445Z"
+    "updatedAt": "2026-01-04T03:38:21.697Z"
   }
 ]
