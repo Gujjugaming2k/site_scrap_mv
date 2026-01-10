@@ -1,5 +1,5 @@
 {
-  "totalViews": 158,
+  "totalViews": 163,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1284,6 +1284,46 @@
       "timestamp": "2026-01-10T20:17:38.006Z",
       "ip": "38.134.138.248",
       "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt35665851:1:1",
+      "title": "tt35665851:1:1",
+      "timestamp": "2026-01-10T21:07:29.443Z",
+      "ip": "117.98.96.48",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt7335184:1:1",
+      "title": "tt7335184:1:1",
+      "timestamp": "2026-01-10T21:08:34.494Z",
+      "ip": "72.255.11.154",
+      "username": "hvre2"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-01-10T21:09:37.939Z",
+      "ip": "72.255.11.154",
+      "username": "hvre2"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-10T21:12:50.154Z",
+      "ip": "72.255.11.154",
+      "username": "hvre2"
+    },
+    {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "timestamp": "2026-01-10T21:17:13.620Z",
+      "ip": "72.255.11.154",
+      "username": "hvre2"
     }
   ],
   "activeNow": {
@@ -1328,6 +1368,20 @@
       "title": "tt29929060",
       "username": "thala_75",
       "lastActive": 1768076258006
+    },
+    "117.98.96.48": {
+      "type": "series",
+      "id": "tt35665851:1:1",
+      "title": "tt35665851:1:1",
+      "username": "dawnstar930",
+      "lastActive": 1768079249443
+    },
+    "72.255.11.154": {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "username": "hvre2",
+      "lastActive": 1768079833620
     }
   }
 }
