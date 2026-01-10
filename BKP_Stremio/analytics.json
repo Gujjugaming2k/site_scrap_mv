@@ -1,11 +1,12 @@
 {
-  "totalViews": 18,
+  "totalViews": 29,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
     "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
     "149.154.161.219",
-    "103.249.4.206"
+    "103.249.4.206",
+    "202.142.105.9"
   ],
   "views": [
     {
@@ -141,6 +142,94 @@
       "timestamp": "2026-01-10T16:32:38.417Z",
       "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
       "username": "demo"
+    },
+    {
+      "type": "movie",
+      "id": "tt5066556",
+      "title": "The Tiger",
+      "timestamp": "2026-01-10T16:57:32.965Z",
+      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt3566834",
+      "title": "A Minecraft Movie",
+      "timestamp": "2026-01-10T16:58:17.699Z",
+      "ip": "202.142.105.9",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt0060196",
+      "title": "The Good, the Bad and the Ugly",
+      "timestamp": "2026-01-10T16:58:28.132Z",
+      "ip": "202.142.105.9",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt3566834",
+      "title": "A Minecraft Movie",
+      "timestamp": "2026-01-10T16:59:59.950Z",
+      "ip": "202.142.105.9",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt28443655",
+      "title": "Death of a Unicorn",
+      "timestamp": "2026-01-10T17:00:00.045Z",
+      "ip": "202.142.105.9",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt0120737",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "timestamp": "2026-01-10T17:00:02.629Z",
+      "ip": "202.142.105.9",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt28443655",
+      "title": "Death of a Unicorn",
+      "timestamp": "2026-01-10T17:00:34.375Z",
+      "ip": "202.142.105.9",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt3566834",
+      "title": "A Minecraft Movie",
+      "timestamp": "2026-01-10T17:00:34.438Z",
+      "ip": "202.142.105.9",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt3566834",
+      "title": "A Minecraft Movie",
+      "timestamp": "2026-01-10T17:00:44.806Z",
+      "ip": "202.142.105.9",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt3566834",
+      "title": "A Minecraft Movie",
+      "timestamp": "2026-01-10T17:00:48.666Z",
+      "ip": "202.142.105.9",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-01-10T17:01:07.884Z",
+      "ip": "202.142.105.9",
+      "username": "nobody_ismy_name"
     }
   ],
   "activeNow": {
@@ -148,8 +237,15 @@
       "type": "movie",
       "id": "tt5066556",
       "title": "The Tiger",
-      "username": "demo",
-      "lastActive": 1768062758417
+      "username": "b1jju",
+      "lastActive": 1768064252965
+    },
+    "202.142.105.9": {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "username": "nobody_ismy_name",
+      "lastActive": 1768064467884
     }
   }
 }
