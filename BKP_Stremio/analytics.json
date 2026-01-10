@@ -1,5 +1,5 @@
 {
-  "totalViews": 163,
+  "totalViews": 165,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -28,7 +28,8 @@
     "2405:201:2033:f3:2407:b7d6:ff3c:adf8",
     "2401:4900:aabf:9f0a:48d8:2f1c:9cdb:9490",
     "149.154.161.246",
-    "2409:40e6:21c:4a11:fcfa:48ff:fe22:7125"
+    "2409:40e6:21c:4a11:fcfa:48ff:fe22:7125",
+    "2409:40f0:411a:c3ee:6013:1eff:fe49:2eee"
   ],
   "views": [
     {
@@ -1324,6 +1325,22 @@
       "timestamp": "2026-01-10T21:17:13.620Z",
       "ip": "72.255.11.154",
       "username": "hvre2"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-10T21:17:47.113Z",
+      "ip": "2409:40f0:411a:c3ee:6013:1eff:fe49:2eee",
+      "username": "mr_anonymous_0004"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:1:1",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-10T21:19:29.281Z",
+      "ip": "72.255.11.154",
+      "username": "hvre2"
     }
   ],
   "activeNow": {
@@ -1377,11 +1394,18 @@
       "lastActive": 1768079249443
     },
     "72.255.11.154": {
-      "type": "movie",
-      "id": "tt22740896",
-      "title": "tt22740896",
+      "type": "series",
+      "id": "tt12343534:1:1",
+      "title": "JUJUTSU KAISEN",
       "username": "hvre2",
-      "lastActive": 1768079833620
+      "lastActive": 1768079969281
+    },
+    "2409:40f0:411a:c3ee:6013:1eff:fe49:2eee": {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "username": "mr_anonymous_0004",
+      "lastActive": 1768079867113
     }
   }
 }
