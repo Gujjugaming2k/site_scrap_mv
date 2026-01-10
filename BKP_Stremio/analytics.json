@@ -1,5 +1,5 @@
 {
-  "totalViews": 118,
+  "totalViews": 129,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -25,7 +25,10 @@
     "2405:201:202d:d014:c87:3fd3:7883:1e13",
     "72.255.11.154",
     "203.192.255.46",
-    "2405:201:2033:f3:2407:b7d6:ff3c:adf8"
+    "2405:201:2033:f3:2407:b7d6:ff3c:adf8",
+    "2401:4900:aabf:9f0a:48d8:2f1c:9cdb:9490",
+    "149.154.161.246",
+    "2409:40e6:21c:4a11:fcfa:48ff:fe22:7125"
   ],
   "views": [
     {
@@ -961,22 +964,138 @@
       "timestamp": "2026-01-10T19:25:27.619Z",
       "ip": "103.249.4.206",
       "username": "any_username_working"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-10T19:26:24.732Z",
+      "ip": "103.249.4.206",
+      "username": "any_username_working"
+    },
+    {
+      "type": "series",
+      "id": "tt38568136:1:2",
+      "title": "tt38568136:1:2",
+      "timestamp": "2026-01-10T19:26:55.389Z",
+      "ip": "2401:4900:aabf:9f0a:48d8:2f1c:9cdb:9490",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt38568136:1:2",
+      "title": "tt38568136:1:2",
+      "timestamp": "2026-01-10T19:27:22.952Z",
+      "ip": "149.154.161.246",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt38568136:1:2",
+      "title": "tt38568136:1:2",
+      "timestamp": "2026-01-10T19:27:30.966Z",
+      "ip": "2401:4900:aabf:9f0a:48d8:2f1c:9cdb:9490",
+      "username": "vflix"
+    },
+    {
+      "type": "movie",
+      "id": "tt29464308",
+      "title": "tt29464308",
+      "timestamp": "2026-01-10T19:27:41.666Z",
+      "ip": "103.249.4.206",
+      "username": "any_username_working"
+    },
+    {
+      "type": "series",
+      "id": "tt38568136:1:2",
+      "title": "tt38568136:1:2",
+      "timestamp": "2026-01-10T19:28:10.939Z",
+      "ip": "103.249.4.206",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt38568136:1:2",
+      "title": "tt38568136:1:2",
+      "timestamp": "2026-01-10T19:28:18.148Z",
+      "ip": "103.249.4.206",
+      "username": "vflix"
+    },
+    {
+      "type": "movie",
+      "id": "tt29567915",
+      "title": "tt29567915",
+      "timestamp": "2026-01-10T19:29:44.313Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt29567915",
+      "title": "tt29567915",
+      "timestamp": "2026-01-10T19:30:24.768Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt1386697",
+      "title": "Suicide Squad",
+      "timestamp": "2026-01-10T19:39:23.481Z",
+      "ip": "2409:40e6:21c:4a11:fcfa:48ff:fe22:7125",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt38798360",
+      "title": "tt38798360",
+      "timestamp": "2026-01-10T19:40:29.173Z",
+      "ip": "38.134.138.248",
+      "username": "thala_75"
     }
   ],
   "activeNow": {
-    "103.172.202.241": {
-      "type": "movie",
-      "id": "tt23790696",
-      "title": "tt23790696",
-      "username": "srinivasasai",
-      "lastActive": 1768072565387
-    },
     "103.249.4.206": {
+      "type": "series",
+      "id": "tt38568136:1:2",
+      "title": "tt38568136:1:2",
+      "username": "vflix",
+      "lastActive": 1768073298148
+    },
+    "2401:4900:aabf:9f0a:48d8:2f1c:9cdb:9490": {
+      "type": "series",
+      "id": "tt38568136:1:2",
+      "title": "tt38568136:1:2",
+      "username": "vflix",
+      "lastActive": 1768073250966
+    },
+    "149.154.161.246": {
+      "type": "series",
+      "id": "tt38568136:1:2",
+      "title": "tt38568136:1:2",
+      "username": "vflix1993",
+      "lastActive": 1768073242952
+    },
+    "202.173.124.127": {
       "type": "movie",
-      "id": "tt37893389",
-      "title": "tt37893389",
-      "username": "any_username_working",
-      "lastActive": 1768073127619
+      "id": "tt29567915",
+      "title": "tt29567915",
+      "username": "ryuzaklo26",
+      "lastActive": 1768073424768
+    },
+    "2409:40e6:21c:4a11:fcfa:48ff:fe22:7125": {
+      "type": "movie",
+      "id": "tt1386697",
+      "title": "Suicide Squad",
+      "username": "nabakun24",
+      "lastActive": 1768073963481
+    },
+    "38.134.138.248": {
+      "type": "movie",
+      "id": "tt38798360",
+      "title": "tt38798360",
+      "username": "thala_75",
+      "lastActive": 1768074029173
     }
   }
 }
