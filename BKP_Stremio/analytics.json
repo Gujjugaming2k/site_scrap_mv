@@ -1,5 +1,5 @@
 {
-  "totalViews": 109,
+  "totalViews": 112,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -24,7 +24,8 @@
     "103.172.202.241",
     "2405:201:202d:d014:c87:3fd3:7883:1e13",
     "72.255.11.154",
-    "203.192.255.46"
+    "203.192.255.46",
+    "2405:201:2033:f3:2407:b7d6:ff3c:adf8"
   ],
   "views": [
     {
@@ -888,51 +889,33 @@
       "timestamp": "2026-01-10T18:09:12.864Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-01-10T18:10:47.169Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt0993846",
+      "title": "The Wolf of Wall Street",
+      "timestamp": "2026-01-10T18:18:21.476Z",
+      "ip": "2405:201:2033:f3:2407:b7d6:ff3c:adf8",
+      "username": "surti_lala"
+    },
+    {
+      "type": "movie",
+      "id": "tt35019998",
+      "title": "tt35019998",
+      "timestamp": "2026-01-10T18:18:36.126Z",
+      "ip": "38.134.138.248",
+      "username": "thala_75"
     }
   ],
   "activeNow": {
-    "2402:a00:10a:815f:6a39:bf43:218b:a530": {
-      "type": "movie",
-      "id": "tt23790696",
-      "title": "tt23790696",
-      "username": "vflix1993",
-      "lastActive": 1768067763499
-    },
-    "202.173.124.127": {
-      "type": "series",
-      "id": "tt4574334:5:1",
-      "title": "Stranger Things",
-      "username": "ryuzaklo26",
-      "lastActive": 1768067891079
-    },
-    "38.134.138.248": {
-      "type": "movie",
-      "id": "tt2359810",
-      "title": "tt2359810",
-      "username": "thala_75",
-      "lastActive": 1768067843229
-    },
-    "2405:201:202d:d014:3c4a:eb11:aecc:17db": {
-      "type": "movie",
-      "id": "tt27503384",
-      "title": "tt27503384",
-      "username": "explorerindia",
-      "lastActive": 1768068214143
-    },
-    "103.172.202.241": {
-      "type": "movie",
-      "id": "tt23790696",
-      "title": "tt23790696",
-      "username": "srinivasasai",
-      "lastActive": 1768068230529
-    },
-    "2405:201:202d:d014:c87:3fd3:7883:1e13": {
-      "type": "movie",
-      "id": "tt27503384",
-      "title": "tt27503384",
-      "username": "explorerindia",
-      "lastActive": 1768068264891
-    },
     "2409:40e0:1001:954d:8000::": {
       "type": "series",
       "id": "tt0903747:4:2",
@@ -952,7 +935,21 @@
       "id": "tt32916440",
       "title": "tt32916440",
       "username": "chetan_b2",
-      "lastActive": 1768068552864
+      "lastActive": 1768068647169
+    },
+    "2405:201:2033:f3:2407:b7d6:ff3c:adf8": {
+      "type": "movie",
+      "id": "tt0993846",
+      "title": "The Wolf of Wall Street",
+      "username": "surti_lala",
+      "lastActive": 1768069101476
+    },
+    "38.134.138.248": {
+      "type": "movie",
+      "id": "tt35019998",
+      "title": "tt35019998",
+      "username": "thala_75",
+      "lastActive": 1768069116126
     }
   }
 }
