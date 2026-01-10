@@ -1,12 +1,18 @@
 {
-  "totalViews": 29,
+  "totalViews": 61,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
     "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
     "149.154.161.219",
     "103.249.4.206",
-    "202.142.105.9"
+    "202.142.105.9",
+    "117.98.96.48",
+    "2402:a00:10a:815f:6a39:bf43:218b:a530",
+    "2405:201:6025:a88d:6e55:8eb7:8e49:1643",
+    "2409:40e1:3016:69dd:ade0:714:299f:5d6",
+    "2401:4900:88c5:e683:bf2f:90a6:64e1:4bfa",
+    "202.173.124.127"
   ],
   "views": [
     {
@@ -230,15 +236,271 @@
       "timestamp": "2026-01-10T17:01:07.884Z",
       "ip": "202.142.105.9",
       "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-10T17:10:52.266Z",
+      "ip": "117.98.96.48",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-10T17:11:51.465Z",
+      "ip": "117.98.96.48",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-10T17:12:12.691Z",
+      "ip": "117.98.96.48",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-10T17:13:23.506Z",
+      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-10T17:13:26.386Z",
+      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-10T17:14:08.846Z",
+      "ip": "2402:a00:10a:815f:6a39:bf43:218b:a530",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt5290382:2:1",
+      "title": "tt5290382:2:1",
+      "timestamp": "2026-01-10T17:15:06.107Z",
+      "ip": "117.98.96.48",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt5290382:2:2",
+      "title": "tt5290382:2:2",
+      "timestamp": "2026-01-10T17:15:34.686Z",
+      "ip": "117.98.96.48",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:1:1",
+      "title": "Fallout",
+      "timestamp": "2026-01-10T17:17:16.792Z",
+      "ip": "2405:201:6025:a88d:6e55:8eb7:8e49:1643",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt28230296",
+      "title": "tt28230296",
+      "timestamp": "2026-01-10T17:18:41.610Z",
+      "ip": "2409:40e1:3016:69dd:ade0:714:299f:5d6",
+      "username": "jinwoooooi"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:2",
+      "title": "tt19244304:1:2",
+      "timestamp": "2026-01-10T17:19:02.773Z",
+      "ip": "117.98.96.48",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-01-10T17:19:06.531Z",
+      "ip": "2405:201:6025:a88d:6e55:8eb7:8e49:1643",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:3",
+      "title": "tt19244304:1:3",
+      "timestamp": "2026-01-10T17:19:20.485Z",
+      "ip": "117.98.96.48",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-10T17:19:42.430Z",
+      "ip": "117.98.96.48",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-10T17:19:49.673Z",
+      "ip": "117.98.96.48",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-10T17:19:52.669Z",
+      "ip": "2401:4900:88c5:e683:bf2f:90a6:64e1:4bfa",
+      "username": "baljeet_002"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:1",
+      "title": "tt19244304:1:1",
+      "timestamp": "2026-01-10T17:20:00.683Z",
+      "ip": "2401:4900:88c5:e683:bf2f:90a6:64e1:4bfa",
+      "username": "baljeet_002"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:2",
+      "title": "tt19244304:1:2",
+      "timestamp": "2026-01-10T17:20:19.347Z",
+      "ip": "2401:4900:88c5:e683:bf2f:90a6:64e1:4bfa",
+      "username": "baljeet_002"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-10T17:20:38.841Z",
+      "ip": "2402:a00:10a:815f:6a39:bf43:218b:a530",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt31495504",
+      "title": "tt31495504",
+      "timestamp": "2026-01-10T17:21:20.028Z",
+      "ip": "2401:4900:88c5:e683:bf2f:90a6:64e1:4bfa",
+      "username": "baljeet_002"
+    },
+    {
+      "type": "series",
+      "id": "tt5290382:2:2",
+      "title": "tt5290382:2:2",
+      "timestamp": "2026-01-10T17:21:30.181Z",
+      "ip": "117.98.96.48",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt5290382:2:1",
+      "title": "tt5290382:2:1",
+      "timestamp": "2026-01-10T17:21:38.339Z",
+      "ip": "117.98.96.48",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "movie",
+      "id": "tt1527793",
+      "title": "No Other Choice",
+      "timestamp": "2026-01-10T17:21:44.505Z",
+      "ip": "2401:4900:88c5:e683:bf2f:90a6:64e1:4bfa",
+      "username": "baljeet_002"
+    },
+    {
+      "type": "movie",
+      "id": "tt39139925",
+      "title": "tt39139925",
+      "timestamp": "2026-01-10T17:21:52.438Z",
+      "ip": "2402:a00:10a:815f:6a39:bf43:218b:a530",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-10T17:21:55.359Z",
+      "ip": "2402:a00:10a:815f:6a39:bf43:218b:a530",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "timestamp": "2026-01-10T17:22:06.279Z",
+      "ip": "2401:4900:88c5:e683:bf2f:90a6:64e1:4bfa",
+      "username": "baljeet_002"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-10T17:22:25.532Z",
+      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "timestamp": "2026-01-10T17:22:27.541Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-10T17:23:03.053Z",
+      "ip": "117.98.96.48",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "timestamp": "2026-01-10T17:24:06.493Z",
+      "ip": "202.173.124.127",
+      "username": "Ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-10T17:24:16.834Z",
+      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-10T17:24:18.393Z",
+      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
+      "username": "dawnstar930"
     }
   ],
   "activeNow": {
     "2402:a00:10a:815f:f8ed:9c35:6a50:f769": {
       "type": "movie",
-      "id": "tt5066556",
-      "title": "The Tiger",
-      "username": "b1jju",
-      "lastActive": 1768064252965
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "dawnstar930",
+      "lastActive": 1768065858393
     },
     "202.142.105.9": {
       "type": "movie",
@@ -246,6 +508,48 @@
       "title": "tt26443597",
       "username": "nobody_ismy_name",
       "lastActive": 1768064467884
+    },
+    "117.98.96.48": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "dawnstar930",
+      "lastActive": 1768065783053
+    },
+    "2402:a00:10a:815f:6a39:bf43:218b:a530": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "vflix1993",
+      "lastActive": 1768065715359
+    },
+    "2405:201:6025:a88d:6e55:8eb7:8e49:1643": {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "username": "infinityseeker",
+      "lastActive": 1768065546531
+    },
+    "2409:40e1:3016:69dd:ade0:714:299f:5d6": {
+      "type": "movie",
+      "id": "tt28230296",
+      "title": "tt28230296",
+      "username": "jinwoooooi",
+      "lastActive": 1768065521610
+    },
+    "2401:4900:88c5:e683:bf2f:90a6:64e1:4bfa": {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "username": "baljeet_002",
+      "lastActive": 1768065726279
+    },
+    "202.173.124.127": {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "username": "Ryuzaklo26",
+      "lastActive": 1768065846493
     }
   }
 }
