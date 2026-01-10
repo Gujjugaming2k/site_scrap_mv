@@ -1,5 +1,5 @@
 {
-  "totalViews": 80,
+  "totalViews": 96,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -17,7 +17,8 @@
     "122.161.242.32",
     "2401:4900:1cb1:36b:1dc4:8df5:78a0:20ce",
     "2409:40d0:11ed:6479:78ad:b5ff:fe76:71a4",
-    "43.248.152.196"
+    "43.248.152.196",
+    "2409:40e0:1001:954d:8000::"
   ],
   "views": [
     {
@@ -649,6 +650,134 @@
       "timestamp": "2026-01-10T17:39:31.768Z",
       "ip": "43.248.152.196",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "timestamp": "2026-01-10T17:42:13.284Z",
+      "ip": "2409:40d0:11ed:6479:78ad:b5ff:fe76:71a4",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:4:1",
+      "title": "tt0903747:4:1",
+      "timestamp": "2026-01-10T17:42:21.398Z",
+      "ip": "2409:40e0:1001:954d:8000::",
+      "username": "tejmani"
+    },
+    {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "timestamp": "2026-01-10T17:42:34.711Z",
+      "ip": "2409:40d0:11ed:6479:78ad:b5ff:fe76:71a4",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:4:2",
+      "title": "tt0903747:4:2",
+      "timestamp": "2026-01-10T17:42:36.694Z",
+      "ip": "2409:40e0:1001:954d:8000::",
+      "username": "tejmani"
+    },
+    {
+      "type": "movie",
+      "id": "tt3566834",
+      "title": "A Minecraft Movie",
+      "timestamp": "2026-01-10T17:42:38.628Z",
+      "ip": "2409:40d0:11ed:6479:78ad:b5ff:fe76:71a4",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt29567915",
+      "title": "tt29567915",
+      "timestamp": "2026-01-10T17:42:43.191Z",
+      "ip": "2409:40d0:11ed:6479:78ad:b5ff:fe76:71a4",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:4:2",
+      "title": "tt0903747:4:2",
+      "timestamp": "2026-01-10T17:43:10.460Z",
+      "ip": "2409:40e0:1001:954d:8000::",
+      "username": "tejmani"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:4:3",
+      "title": "tt0903747:4:3",
+      "timestamp": "2026-01-10T17:43:29.271Z",
+      "ip": "2409:40e0:1001:954d:8000::",
+      "username": "tejmani"
+    },
+    {
+      "type": "movie",
+      "id": "tt11116912",
+      "title": "Troll",
+      "timestamp": "2026-01-10T17:45:17.283Z",
+      "ip": "43.248.152.196",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt11116912",
+      "title": "Troll",
+      "timestamp": "2026-01-10T17:45:34.357Z",
+      "ip": "43.248.152.196",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-10T17:49:56.992Z",
+      "ip": "2402:a00:10a:815f:6a39:bf43:218b:a530",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-10T17:50:58.445Z",
+      "ip": "2402:a00:10a:815f:6a39:bf43:218b:a530",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:5",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-10T17:51:01.539Z",
+      "ip": "2402:a00:10a:815f:6a39:bf43:218b:a530",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:4",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-10T17:51:53.148Z",
+      "ip": "2402:a00:10a:815f:6a39:bf43:218b:a530",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:5",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-10T17:53:15.449Z",
+      "ip": "2402:a00:10a:815f:6a39:bf43:218b:a530",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt12908150",
+      "title": "The Life of Chuck",
+      "timestamp": "2026-01-10T17:54:03.231Z",
+      "ip": "103.249.4.206",
+      "username": "tgh2r"
     }
   ],
   "activeNow": {
@@ -667,11 +796,11 @@
       "lastActive": 1768065918131
     },
     "2402:a00:10a:815f:6a39:bf43:218b:a530": {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
+      "type": "series",
+      "id": "tt4574334:5:5",
+      "title": "Stranger Things",
       "username": "vflix1993",
-      "lastActive": 1768066164798
+      "lastActive": 1768067595449
     },
     "202.173.124.127": {
       "type": "movie",
@@ -702,18 +831,32 @@
       "lastActive": 1768066507389
     },
     "2409:40d0:11ed:6479:78ad:b5ff:fe76:71a4": {
-      "type": "series",
-      "id": "tt38990492:1:1",
-      "title": "tt38990492:1:1",
+      "type": "movie",
+      "id": "tt29567915",
+      "title": "tt29567915",
       "username": "ryuzaklo26",
-      "lastActive": 1768066696600
+      "lastActive": 1768066963191
     },
     "43.248.152.196": {
       "type": "movie",
       "id": "tt11116912",
       "title": "Troll",
       "username": "ryuzaklo26",
-      "lastActive": 1768066771768
+      "lastActive": 1768067134357
+    },
+    "2409:40e0:1001:954d:8000::": {
+      "type": "series",
+      "id": "tt0903747:4:3",
+      "title": "tt0903747:4:3",
+      "username": "tejmani",
+      "lastActive": 1768067009271
+    },
+    "103.249.4.206": {
+      "type": "movie",
+      "id": "tt12908150",
+      "title": "The Life of Chuck",
+      "username": "tgh2r",
+      "lastActive": 1768067643231
     }
   }
 }
