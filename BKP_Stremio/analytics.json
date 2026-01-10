@@ -1,0 +1,155 @@
+{
+  "totalViews": 18,
+  "uniqueUsers": [
+    "127.0.0.1",
+    "::1",
+    "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
+    "149.154.161.219",
+    "103.249.4.206"
+  ],
+  "views": [
+    {
+      "type": "movie",
+      "id": "vflix:123",
+      "title": "Test Movie",
+      "timestamp": "2025-12-30T13:40:37.782Z",
+      "ip": "127.0.0.1"
+    },
+    {
+      "type": "series",
+      "id": "tt38568136:1:3",
+      "title": "Unknown",
+      "timestamp": "2025-12-30T13:50:43.406Z",
+      "ip": "::1"
+    },
+    {
+      "type": "series",
+      "id": "tt38568136:1:3",
+      "title": "Unknown",
+      "timestamp": "2025-12-30T13:52:35.125Z",
+      "ip": "::1"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "Unknown (bv)",
+      "timestamp": "2026-01-10T15:13:28.880Z",
+      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "Unknown (bv)",
+      "timestamp": "2026-01-10T15:13:38.659Z",
+      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "Unknown (bv)",
+      "timestamp": "2026-01-10T15:15:04.601Z",
+      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "Unknown (demo)",
+      "timestamp": "2026-01-10T15:15:09.276Z",
+      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "Unknown (demo1)",
+      "timestamp": "2026-01-10T15:15:22.417Z",
+      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "Unknown (demo)",
+      "timestamp": "2026-01-10T15:15:39.454Z",
+      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "Unknown (demo)",
+      "timestamp": "2026-01-10T15:37:42.610Z",
+      "ip": "149.154.161.219"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "Unknown",
+      "timestamp": "2026-01-10T15:42:42.831Z",
+      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
+      "username": "demo"
+    },
+    {
+      "type": "movie",
+      "id": "tt0068646",
+      "title": "The Godfather",
+      "timestamp": "2026-01-10T15:43:05.838Z",
+      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
+      "username": "demo"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "Unknown",
+      "timestamp": "2026-01-10T15:45:02.840Z",
+      "ip": "103.249.4.206",
+      "username": "demo"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "Unknown",
+      "timestamp": "2026-01-10T15:45:23.261Z",
+      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
+      "username": "demo"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "Unknown",
+      "timestamp": "2026-01-10T15:46:17.848Z",
+      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
+      "username": "demo"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "Unknown",
+      "timestamp": "2026-01-10T15:58:28.572Z",
+      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
+      "username": "demo"
+    },
+    {
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Unknown",
+      "timestamp": "2026-01-10T16:32:27.824Z",
+      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
+      "username": "demo"
+    },
+    {
+      "type": "movie",
+      "id": "tt5066556",
+      "title": "The Tiger",
+      "timestamp": "2026-01-10T16:32:38.417Z",
+      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
+      "username": "demo"
+    }
+  ],
+  "activeNow": {
+    "2402:a00:10a:815f:f8ed:9c35:6a50:f769": {
+      "type": "movie",
+      "id": "tt5066556",
+      "title": "The Tiger",
+      "username": "demo",
+      "lastActive": 1768062758417
+    }
+  }
+}
