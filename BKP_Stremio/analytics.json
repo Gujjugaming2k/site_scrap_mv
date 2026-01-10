@@ -1,5 +1,5 @@
 {
-  "totalViews": 112,
+  "totalViews": 114,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -913,43 +913,38 @@
       "timestamp": "2026-01-10T18:18:36.126Z",
       "ip": "38.134.138.248",
       "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt11116912",
+      "title": "Troll",
+      "timestamp": "2026-01-10T18:26:51.469Z",
+      "ip": "43.248.152.196",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt29232158",
+      "title": "Troll 2",
+      "timestamp": "2026-01-10T18:27:12.942Z",
+      "ip": "43.248.152.196",
+      "username": "ryuzaklo26"
     }
   ],
   "activeNow": {
-    "2409:40e0:1001:954d:8000::": {
-      "type": "series",
-      "id": "tt0903747:4:2",
-      "title": "tt0903747:4:2",
-      "username": "tejmani",
-      "lastActive": 1768068297850
-    },
-    "72.255.11.154": {
-      "type": "movie",
-      "id": "tt26443597",
-      "title": "tt26443597",
-      "username": "hvre2",
-      "lastActive": 1768068392143
-    },
-    "203.192.255.46": {
-      "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
-      "username": "chetan_b2",
-      "lastActive": 1768068647169
-    },
-    "2405:201:2033:f3:2407:b7d6:ff3c:adf8": {
-      "type": "movie",
-      "id": "tt0993846",
-      "title": "The Wolf of Wall Street",
-      "username": "surti_lala",
-      "lastActive": 1768069101476
-    },
     "38.134.138.248": {
       "type": "movie",
       "id": "tt35019998",
       "title": "tt35019998",
       "username": "thala_75",
       "lastActive": 1768069116126
+    },
+    "43.248.152.196": {
+      "type": "movie",
+      "id": "tt29232158",
+      "title": "Troll 2",
+      "username": "ryuzaklo26",
+      "lastActive": 1768069632942
     }
   }
 }
