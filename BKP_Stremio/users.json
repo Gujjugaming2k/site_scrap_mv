@@ -9,17 +9,6 @@
     "createdBy": "system"
   },
   {
-    "id": "1765371198220",
-    "username": "TEST",
-    "password": "$2a$10$7ZekwgYc./r5iULT1LZ7zuDFHMl3j.aiPzLFKbqNH6yYTHw7TJU9.",
-    "role": "uploader",
-    "catalogAccess": [
-      "netflix"
-    ],
-    "createdAt": "2025-12-10T12:53:18.293Z",
-    "createdBy": "admin"
-  },
-  {
     "id": "1765603916605",
     "username": "ISHA",
     "password": "$2a$10$9EOtwKC.V0EMzCzQIKTb7Oaw6eQsSJPF2WQpNjbKXm0SYEcu7Z5sK",
@@ -29,15 +18,6 @@
       "vflixprime-series"
     ],
     "createdAt": "2025-12-13T05:31:56.684Z",
-    "createdBy": "admin"
-  },
-  {
-    "id": "1766036083938",
-    "username": "Mehul",
-    "password": "$2a$10$k4urHdX0p9M6Q.8Meft3GeDdP2mBJbk3JZZn6QyeFDnGK4z47euAu",
-    "role": "admin",
-    "catalogAccess": [],
-    "createdAt": "2025-12-18T05:34:44.019Z",
     "createdBy": "admin"
   },
   {
@@ -128,6 +108,15 @@
     "role": "streaming",
     "catalogAccess": [],
     "createdAt": "2026-01-10T17:23:09.009Z",
+    "createdBy": "self-invite"
+  },
+  {
+    "id": "1768066373073",
+    "username": "srinivasasai",
+    "password": null,
+    "role": "streaming",
+    "catalogAccess": [],
+    "createdAt": "2026-01-10T17:32:53.073Z",
     "createdBy": "self-invite"
   }
 ]
