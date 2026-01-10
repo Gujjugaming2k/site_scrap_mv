@@ -1,5 +1,5 @@
 {
-  "totalViews": 136,
+  "totalViews": 148,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1108,6 +1108,102 @@
       "timestamp": "2026-01-10T19:51:06.849Z",
       "ip": "202.173.124.127",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt3566834",
+      "title": "A Minecraft Movie",
+      "timestamp": "2026-01-10T20:04:46.287Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt33029024",
+      "title": "tt33029024",
+      "timestamp": "2026-01-10T20:05:11.266Z",
+      "ip": "38.134.138.248",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt33029024",
+      "title": "tt33029024",
+      "timestamp": "2026-01-10T20:05:35.831Z",
+      "ip": "38.134.138.248",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt32411272",
+      "title": "tt32411272",
+      "timestamp": "2026-01-10T20:06:30.730Z",
+      "ip": "38.134.138.248",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt33029024",
+      "title": "tt33029024",
+      "timestamp": "2026-01-10T20:07:35.628Z",
+      "ip": "38.134.138.248",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt28434143",
+      "title": "tt28434143",
+      "timestamp": "2026-01-10T20:07:51.546Z",
+      "ip": "38.134.138.248",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt28252563",
+      "title": "tt28252563",
+      "timestamp": "2026-01-10T20:08:10.798Z",
+      "ip": "38.134.138.248",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt36587142",
+      "title": "tt36587142",
+      "timestamp": "2026-01-10T20:08:34.965Z",
+      "ip": "38.134.138.248",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-01-10T20:08:44.208Z",
+      "ip": "38.134.138.248",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt28252563",
+      "title": "tt28252563",
+      "timestamp": "2026-01-10T20:08:55.173Z",
+      "ip": "38.134.138.248",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt27441481",
+      "title": "tt27441481",
+      "timestamp": "2026-01-10T20:09:05.913Z",
+      "ip": "38.134.138.248",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt32423736",
+      "title": "tt32423736",
+      "timestamp": "2026-01-10T20:11:34.952Z",
+      "ip": "38.134.138.248",
+      "username": "thala_75"
     }
   ],
   "activeNow": {
@@ -1133,11 +1229,11 @@
       "lastActive": 1768073242952
     },
     "202.173.124.127": {
-      "type": "series",
-      "id": "tt38990492:1:1",
-      "title": "tt38990492:1:1",
+      "type": "movie",
+      "id": "tt3566834",
+      "title": "A Minecraft Movie",
       "username": "ryuzaklo26",
-      "lastActive": 1768074666849
+      "lastActive": 1768075486287
     },
     "2409:40e6:21c:4a11:fcfa:48ff:fe22:7125": {
       "type": "movie",
@@ -1148,10 +1244,10 @@
     },
     "38.134.138.248": {
       "type": "movie",
-      "id": "tt32411272",
-      "title": "tt32411272",
+      "id": "tt32423736",
+      "title": "tt32423736",
       "username": "thala_75",
-      "lastActive": 1768074312825
+      "lastActive": 1768075894952
     }
   }
 }
