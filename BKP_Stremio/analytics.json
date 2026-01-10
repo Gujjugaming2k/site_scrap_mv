@@ -1,5 +1,5 @@
 {
-  "totalViews": 129,
+  "totalViews": 136,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1052,6 +1052,62 @@
       "timestamp": "2026-01-10T19:40:29.173Z",
       "ip": "38.134.138.248",
       "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt31844586",
+      "title": "tt31844586",
+      "timestamp": "2026-01-10T19:44:06.766Z",
+      "ip": "38.134.138.248",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt34276058",
+      "title": "The Family Plan 2",
+      "timestamp": "2026-01-10T19:45:03.874Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt34276058",
+      "title": "The Family Plan 2",
+      "timestamp": "2026-01-10T19:45:12.207Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt32411272",
+      "title": "tt32411272",
+      "timestamp": "2026-01-10T19:45:12.825Z",
+      "ip": "38.134.138.248",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt27032419",
+      "title": "tt27032419",
+      "timestamp": "2026-01-10T19:45:53.702Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt0990407",
+      "title": "tt0990407",
+      "timestamp": "2026-01-10T19:49:20.063Z",
+      "ip": "2409:40e6:21c:4a11:fcfa:48ff:fe22:7125",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt38990492:1:1",
+      "title": "tt38990492:1:1",
+      "timestamp": "2026-01-10T19:51:06.849Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
     }
   ],
   "activeNow": {
@@ -1077,25 +1133,25 @@
       "lastActive": 1768073242952
     },
     "202.173.124.127": {
-      "type": "movie",
-      "id": "tt29567915",
-      "title": "tt29567915",
+      "type": "series",
+      "id": "tt38990492:1:1",
+      "title": "tt38990492:1:1",
       "username": "ryuzaklo26",
-      "lastActive": 1768073424768
+      "lastActive": 1768074666849
     },
     "2409:40e6:21c:4a11:fcfa:48ff:fe22:7125": {
       "type": "movie",
-      "id": "tt1386697",
-      "title": "Suicide Squad",
+      "id": "tt0990407",
+      "title": "tt0990407",
       "username": "nabakun24",
-      "lastActive": 1768073963481
+      "lastActive": 1768074560063
     },
     "38.134.138.248": {
       "type": "movie",
-      "id": "tt38798360",
-      "title": "tt38798360",
+      "id": "tt32411272",
+      "title": "tt32411272",
       "username": "thala_75",
-      "lastActive": 1768074029173
+      "lastActive": 1768074312825
     }
   }
 }
