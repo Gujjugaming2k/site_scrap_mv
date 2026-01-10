@@ -1,5 +1,5 @@
 {
-  "totalViews": 115,
+  "totalViews": 118,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -937,29 +937,46 @@
       "timestamp": "2026-01-10T18:48:46.378Z",
       "ip": "202.173.124.127",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-01-10T19:16:05.387Z",
+      "ip": "103.172.202.241",
+      "username": "srinivasasai"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-10T19:25:04.982Z",
+      "ip": "103.249.4.206",
+      "username": "any_username_working"
+    },
+    {
+      "type": "movie",
+      "id": "tt37893389",
+      "title": "tt37893389",
+      "timestamp": "2026-01-10T19:25:27.619Z",
+      "ip": "103.249.4.206",
+      "username": "any_username_working"
     }
   ],
   "activeNow": {
-    "38.134.138.248": {
+    "103.172.202.241": {
       "type": "movie",
-      "id": "tt35019998",
-      "title": "tt35019998",
-      "username": "thala_75",
-      "lastActive": 1768069116126
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "username": "srinivasasai",
+      "lastActive": 1768072565387
     },
-    "43.248.152.196": {
+    "103.249.4.206": {
       "type": "movie",
-      "id": "tt29232158",
-      "title": "Troll 2",
-      "username": "ryuzaklo26",
-      "lastActive": 1768069632942
-    },
-    "202.173.124.127": {
-      "type": "movie",
-      "id": "tt34276058",
-      "title": "The Family Plan 2",
-      "username": "ryuzaklo26",
-      "lastActive": 1768070926378
+      "id": "tt37893389",
+      "title": "tt37893389",
+      "username": "any_username_working",
+      "lastActive": 1768073127619
     }
   }
 }
