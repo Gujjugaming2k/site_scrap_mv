@@ -1,5 +1,5 @@
 {
-  "totalViews": 114,
+  "totalViews": 115,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -929,6 +929,14 @@
       "timestamp": "2026-01-10T18:27:12.942Z",
       "ip": "43.248.152.196",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt34276058",
+      "title": "The Family Plan 2",
+      "timestamp": "2026-01-10T18:48:46.378Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
     }
   ],
   "activeNow": {
@@ -945,6 +953,13 @@
       "title": "Troll 2",
       "username": "ryuzaklo26",
       "lastActive": 1768069632942
+    },
+    "202.173.124.127": {
+      "type": "movie",
+      "id": "tt34276058",
+      "title": "The Family Plan 2",
+      "username": "ryuzaklo26",
+      "lastActive": 1768070926378
     }
   }
 }
