@@ -1,5 +1,5 @@
 {
-  "totalViews": 255,
+  "totalViews": 262,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2072,36 +2072,78 @@
       "timestamp": "2026-01-11T04:13:18.271Z",
       "ip": "103.46.200.103",
       "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt0070003",
+      "title": "tt0070003",
+      "timestamp": "2026-01-11T04:14:22.244Z",
+      "ip": "103.46.200.103",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt1591095",
+      "title": "Insidious",
+      "timestamp": "2026-01-11T04:15:05.934Z",
+      "ip": "103.46.200.103",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt31434030",
+      "title": "Dracula",
+      "timestamp": "2026-01-11T04:18:47.985Z",
+      "ip": "103.46.200.103",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt0103874",
+      "title": "Bram Stoker's Dracula",
+      "timestamp": "2026-01-11T04:18:53.855Z",
+      "ip": "103.46.200.103",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt8962124:5:2",
+      "title": "tt8962124:5:2",
+      "timestamp": "2026-01-11T04:21:57.685Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt0110308",
+      "title": "tt0110308",
+      "timestamp": "2026-01-11T04:22:55.871Z",
+      "ip": "103.46.200.103",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt0177898",
+      "title": "tt0177898",
+      "timestamp": "2026-01-11T04:23:12.410Z",
+      "ip": "103.46.200.103",
+      "username": "brosportses"
     }
   ],
   "activeNow": {
-    "2402:a00:10a:815f:10ec:9314:827f:6dad": {
-      "type": "series",
-      "id": "tt38646016:1:1",
-      "title": "tt38646016:1:1",
-      "username": "vflix1993",
-      "lastActive": 1768104393803
-    },
     "103.46.200.103": {
       "type": "movie",
-      "id": "tt0021815",
-      "title": "tt0021815",
+      "id": "tt0177898",
+      "title": "tt0177898",
       "username": "brosportses",
-      "lastActive": 1768104798271
+      "lastActive": 1768105392410
     },
-    "103.24.85.161": {
+    "203.192.255.46": {
       "type": "series",
-      "id": "tt2442560:6:6",
-      "title": "tt2442560:6:6",
-      "username": "william097",
-      "lastActive": 1768104059941
-    },
-    "103.249.4.206": {
-      "type": "series",
-      "id": "tt21874396:1:2",
-      "title": "tt21874396:1:2",
-      "username": "tgh2r",
-      "lastActive": 1768104453170
+      "id": "tt8962124:5:2",
+      "title": "tt8962124:5:2",
+      "username": "chetan_b2",
+      "lastActive": 1768105317685
     }
   }
 }
