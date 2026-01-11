@@ -1,5 +1,5 @@
 {
-  "totalViews": 231,
+  "totalViews": 240,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -38,7 +38,9 @@
     "103.46.200.103",
     "2409:40e2:20a6:8ae:168e:c788:114d:ea84",
     "2409:40e2:20a6:8ae:9301:6bcd:fb6a:f324",
-    "2409:40e0:1001:954d:cdb1:a924:aa58:ee6c"
+    "2409:40e0:1001:954d:cdb1:a924:aa58:ee6c",
+    "2a09:bac5:3c0b:1aaa::2a8:53",
+    "2402:a00:10a:815f:10ec:9314:827f:6dad"
   ],
   "views": [
     {
@@ -1878,148 +1880,101 @@
       "timestamp": "2026-01-11T03:43:16.643Z",
       "ip": "2409:40e0:1001:954d:cdb1:a924:aa58:ee6c",
       "username": "tejmani"
-    }
-  ],
-  "activeNow": {
-    "103.249.4.206": {
-      "type": "series",
-      "id": "tt38568136:1:2",
-      "title": "tt38568136:1:2",
-      "username": "vflix",
-      "lastActive": 1768101959888
     },
-    "2401:4900:aabf:9f0a:48d8:2f1c:9cdb:9490": {
-      "type": "series",
-      "id": "tt38568136:1:2",
-      "title": "tt38568136:1:2",
-      "username": "vflix",
-      "lastActive": 1768073250966
-    },
-    "149.154.161.246": {
-      "type": "series",
-      "id": "tt38568136:1:2",
-      "title": "tt38568136:1:2",
-      "username": "vflix1993",
-      "lastActive": 1768073242952
-    },
-    "202.173.124.127": {
-      "type": "movie",
-      "id": "tt3566834",
-      "title": "A Minecraft Movie",
-      "username": "ryuzaklo26",
-      "lastActive": 1768075486287
-    },
-    "2409:40e6:21c:4a11:fcfa:48ff:fe22:7125": {
-      "type": "movie",
-      "id": "tt0990407",
-      "title": "tt0990407",
-      "username": "nabakun24",
-      "lastActive": 1768074560063
-    },
-    "38.134.138.248": {
-      "type": "movie",
-      "id": "tt29929060",
-      "title": "tt29929060",
-      "username": "thala_75",
-      "lastActive": 1768076258006
-    },
-    "117.98.96.48": {
-      "type": "series",
-      "id": "tt35665851:1:1",
-      "title": "tt35665851:1:1",
-      "username": "dawnstar930",
-      "lastActive": 1768079249443
-    },
-    "72.255.11.154": {
-      "type": "series",
-      "id": "tt12343534:1:1",
-      "title": "JUJUTSU KAISEN",
-      "username": "hvre2",
-      "lastActive": 1768079969281
-    },
-    "2409:40f0:411a:c3ee:6013:1eff:fe49:2eee": {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "username": "mr_anonymous_0004",
-      "lastActive": 1768079867113
-    },
-    "103.44.117.19": {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "username": "anonymous050100",
-      "lastActive": 1768093880842
-    },
-    "2405:201:6025:a88d:5501:6df1:c10f:8dc7": {
-      "type": "movie",
-      "id": "tt31187839",
-      "title": "tt31187839",
-      "username": "infinityseeker",
-      "lastActive": 1768100388978
-    },
-    "2409:40e5:e:5246:b4e8:f5ff:fef2:f947": {
-      "type": "series",
-      "id": "tt12637874:1:1",
-      "title": "Fallout",
-      "username": "cyberboy12321",
-      "lastActive": 1768100339980
-    },
-    "146.196.34.72": {
-      "type": "movie",
-      "id": "tt23790696",
-      "title": "tt23790696",
-      "username": "gaendaswami",
-      "lastActive": 1768102065182
-    },
-    "103.24.85.161": {
-      "type": "series",
-      "id": "tt2442560:6:6",
-      "title": "tt2442560:6:6",
-      "username": "william097",
-      "lastActive": 1768100917278
-    },
-    "91.148.228.75": {
-      "type": "series",
-      "id": "tt23743442:0:1",
-      "title": "tt23743442:0:1",
-      "username": "1098159752",
-      "lastActive": 1768100615574
-    },
-    "103.46.200.103": {
-      "type": "movie",
-      "id": "tt0395584",
-      "title": "tt0395584",
-      "username": "brosportses",
-      "lastActive": 1768102342379
-    },
-    "2409:40e2:20a6:8ae:168e:c788:114d:ea84": {
-      "type": "movie",
-      "id": "tt22740896",
-      "title": "tt22740896",
-      "username": "anonymously_yourss",
-      "lastActive": 1768101506985
-    },
-    "203.192.255.46": {
-      "type": "series",
-      "id": "tt14186672:1:4",
-      "title": "tt14186672:1:4",
-      "username": "chetan_b2",
-      "lastActive": 1768101555819
-    },
-    "2409:40e2:20a6:8ae:9301:6bcd:fb6a:f324": {
-      "type": "movie",
-      "id": "tt22740896",
-      "title": "tt22740896",
-      "username": "anonymously_yourss",
-      "lastActive": 1768101852121
-    },
-    "2409:40e0:1001:954d:cdb1:a924:aa58:ee6c": {
+    {
       "type": "series",
       "id": "tt0903747:4:3",
       "title": "tt0903747:4:3",
-      "username": "tejmani",
-      "lastActive": 1768102996643
+      "timestamp": "2026-01-11T03:43:27.665Z",
+      "ip": "2409:40e0:1001:954d:cdb1:a924:aa58:ee6c",
+      "username": "tejmani"
+    },
+    {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "timestamp": "2026-01-11T03:47:27.675Z",
+      "ip": "2a09:bac5:3c0b:1aaa::2a8:53",
+      "username": "ig_sirmour"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:1",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-11T03:48:02.838Z",
+      "ip": "146.196.34.72",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:2",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-11T03:48:16.338Z",
+      "ip": "146.196.34.72",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:2",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-11T03:48:48.686Z",
+      "ip": "146.196.34.72",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:1:1",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-11T03:53:38.794Z",
+      "ip": "2402:a00:10a:815f:10ec:9314:827f:6dad",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-01-11T03:54:05.366Z",
+      "ip": "146.196.34.72",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt38121182",
+      "title": "tt38121182",
+      "timestamp": "2026-01-11T03:54:28.989Z",
+      "ip": "2402:a00:10a:815f:10ec:9314:827f:6dad",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-11T03:57:24.784Z",
+      "ip": "146.196.34.72",
+      "username": "gaendaswami"
+    }
+  ],
+  "activeNow": {
+    "146.196.34.72": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "gaendaswami",
+      "lastActive": 1768103844784
+    },
+    "2a09:bac5:3c0b:1aaa::2a8:53": {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "username": "ig_sirmour",
+      "lastActive": 1768103247675
+    },
+    "2402:a00:10a:815f:10ec:9314:827f:6dad": {
+      "type": "movie",
+      "id": "tt38121182",
+      "title": "tt38121182",
+      "username": "vflix1993",
+      "lastActive": 1768103668989
     }
   }
 }
