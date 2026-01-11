@@ -134,9 +134,10 @@
     "name": "anime",
     "movieUrl": "https://anime-world-stremio-addon.onrender.com/stream/movie/{{id}}.json",
     "seriesUrl": "https://anime-world-stremio-addon.onrender.com/stream/series/{{id}}:{{season}}:{{episode}}.json",
-    "timeout": 10000,
-    "priority": 10,
+    "timeout": "10000",
+    "priority": "1",
     "enabled": true,
-    "createdAt": "2026-01-11T07:21:27.098Z"
+    "createdAt": "2026-01-11T07:21:27.098Z",
+    "updatedAt": "2026-01-11T07:25:06.438Z"
   }
 ]
