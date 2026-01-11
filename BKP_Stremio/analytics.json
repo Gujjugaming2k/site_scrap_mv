@@ -1,5 +1,5 @@
 {
-  "totalViews": 225,
+  "totalViews": 231,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -37,7 +37,8 @@
     "91.148.228.75",
     "103.46.200.103",
     "2409:40e2:20a6:8ae:168e:c788:114d:ea84",
-    "2409:40e2:20a6:8ae:9301:6bcd:fb6a:f324"
+    "2409:40e2:20a6:8ae:9301:6bcd:fb6a:f324",
+    "2409:40e0:1001:954d:cdb1:a924:aa58:ee6c"
   ],
   "views": [
     {
@@ -1829,6 +1830,54 @@
       "timestamp": "2026-01-11T03:27:45.182Z",
       "ip": "146.196.34.72",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt0395584",
+      "title": "tt0395584",
+      "timestamp": "2026-01-11T03:32:22.379Z",
+      "ip": "103.46.200.103",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:4:2",
+      "title": "tt0903747:4:2",
+      "timestamp": "2026-01-11T03:40:44.750Z",
+      "ip": "2409:40e0:1001:954d:cdb1:a924:aa58:ee6c",
+      "username": "tejmani"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:4:3",
+      "title": "tt0903747:4:3",
+      "timestamp": "2026-01-11T03:41:01.093Z",
+      "ip": "2409:40e0:1001:954d:cdb1:a924:aa58:ee6c",
+      "username": "tejmani"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:4:2",
+      "title": "tt0903747:4:2",
+      "timestamp": "2026-01-11T03:41:51.391Z",
+      "ip": "2409:40e0:1001:954d:cdb1:a924:aa58:ee6c",
+      "username": "tejmani"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:4:2",
+      "title": "tt0903747:4:2",
+      "timestamp": "2026-01-11T03:43:15.864Z",
+      "ip": "2409:40e0:1001:954d:cdb1:a924:aa58:ee6c",
+      "username": "tejmani"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:4:3",
+      "title": "tt0903747:4:3",
+      "timestamp": "2026-01-11T03:43:16.643Z",
+      "ip": "2409:40e0:1001:954d:cdb1:a924:aa58:ee6c",
+      "username": "tejmani"
     }
   ],
   "activeNow": {
@@ -1938,11 +1987,11 @@
       "lastActive": 1768100615574
     },
     "103.46.200.103": {
-      "type": "series",
-      "id": "tt1409055:1:2",
-      "title": "Dragon Ball Z Kai",
+      "type": "movie",
+      "id": "tt0395584",
+      "title": "tt0395584",
       "username": "brosportses",
-      "lastActive": 1768101674953
+      "lastActive": 1768102342379
     },
     "2409:40e2:20a6:8ae:168e:c788:114d:ea84": {
       "type": "movie",
@@ -1964,6 +2013,13 @@
       "title": "tt22740896",
       "username": "anonymously_yourss",
       "lastActive": 1768101852121
+    },
+    "2409:40e0:1001:954d:cdb1:a924:aa58:ee6c": {
+      "type": "series",
+      "id": "tt0903747:4:3",
+      "title": "tt0903747:4:3",
+      "username": "tejmani",
+      "lastActive": 1768102996643
     }
   }
 }
