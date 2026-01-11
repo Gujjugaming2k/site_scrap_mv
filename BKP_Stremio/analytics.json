@@ -1,5 +1,5 @@
 {
-  "totalViews": 3760,
+  "totalViews": 3776,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1153,7 +1153,13 @@
     "2a01:4b00:ad48:d000:4c8e:515e:4349:baa8",
     "2a02:a451:8646:0:19d8:af9e:77ed:183d",
     "109.224.129.101",
-    "2a02:9b0:e6:1a37:94e6:1b47:4218:3b96"
+    "2a02:9b0:e6:1a37:94e6:1b47:4218:3b96",
+    "2a02:810a:988:dd00:58a2:6a6f:d959:95bd",
+    "2806:103e:7:75ea:b9df:f0e0:d65b:4f3b",
+    "105.74.67.106",
+    "72.226.49.255",
+    "2a00:23c8:4082:ae01:68e8:a4d1:aadf:619e",
+    "2a02:6ea0:c10d:3587::35"
   ],
   "views": [
     {
@@ -31225,6 +31231,134 @@
       "timestamp": "2026-01-11T21:21:08.139Z",
       "ip": "2607:fb91:97b:c828:c9cc:45cb:9ddc:6cc6",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10945036:1:8",
+      "title": "tt10945036:1:8",
+      "timestamp": "2026-01-11T21:21:54.406Z",
+      "ip": "67.147.13.201",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4063800:4:10",
+      "title": "tt4063800:4:10",
+      "timestamp": "2026-01-11T21:22:18.048Z",
+      "ip": "2a01:e0a:f9f:7d40:ad32:ac87:66d5:75af",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt11126994:1:9",
+      "title": "Arcane",
+      "timestamp": "2026-01-11T21:22:29.882Z",
+      "ip": "2a02:810a:988:dd00:58a2:6a6f:d959:95bd",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt30611573",
+      "title": "tt30611573",
+      "timestamp": "2026-01-11T21:24:15.383Z",
+      "ip": "2a02:a451:8646:0:19d8:af9e:77ed:183d",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt9327706:1:4",
+      "title": "tt9327706:1:4",
+      "timestamp": "2026-01-11T21:24:30.642Z",
+      "ip": "2a02:8308:b090:5100:20b9:216d:135a:c18d",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt3777860",
+      "title": "tt3777860",
+      "timestamp": "2026-01-11T21:24:49.462Z",
+      "ip": "180.253.183.155",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0807832:1:21",
+      "title": "tt0807832:1:21",
+      "timestamp": "2026-01-11T21:25:00.915Z",
+      "ip": "45.17.204.48",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt31314791:1:4",
+      "title": "tt31314791:1:4",
+      "timestamp": "2026-01-11T21:25:34.369Z",
+      "ip": "154.246.169.166",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-01-11T21:26:06.351Z",
+      "ip": "2806:103e:7:75ea:b9df:f0e0:d65b:4f3b",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt7329858",
+      "title": "tt7329858",
+      "timestamp": "2026-01-11T21:27:18.650Z",
+      "ip": "105.74.67.106",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt13024974:2:2",
+      "title": "tt13024974:2:2",
+      "timestamp": "2026-01-11T21:28:23.781Z",
+      "ip": "154.247.47.122",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0111921:1:1",
+      "title": "tt0111921:1:1",
+      "timestamp": "2026-01-11T21:35:11.742Z",
+      "ip": "2a02:9b0:e6:1a37:94e6:1b47:4218:3b96",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0048977",
+      "title": "tt0048977",
+      "timestamp": "2026-01-11T21:35:49.792Z",
+      "ip": "72.226.49.255",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "null:1:0",
+      "title": "null:1:0",
+      "timestamp": "2026-01-11T21:36:32.604Z",
+      "ip": "2a00:23c8:4082:ae01:68e8:a4d1:aadf:619e",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt30253473",
+      "title": "Materialists",
+      "timestamp": "2026-01-11T21:36:53.447Z",
+      "ip": "72.226.49.255",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt4154796",
+      "title": "Avengers: Endgame",
+      "timestamp": "2026-01-11T21:37:06.055Z",
+      "ip": "2a02:6ea0:c10d:3587::35",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -31566,10 +31700,10 @@
     },
     "2a01:e0a:f9f:7d40:ad32:ac87:66d5:75af": {
       "type": "series",
-      "id": "tt4063800:4:9",
-      "title": "tt4063800:4:9",
+      "id": "tt4063800:4:10",
+      "title": "tt4063800:4:10",
       "username": "anonymous",
-      "lastActive": 1768161623110
+      "lastActive": 1768166538048
     },
     "37.19.211.50": {
       "type": "movie",
@@ -31972,17 +32106,17 @@
     },
     "154.246.169.166": {
       "type": "series",
-      "id": "tt31314791:1:3",
-      "title": "tt31314791:1:3",
+      "id": "tt31314791:1:4",
+      "title": "tt31314791:1:4",
       "username": "anonymous",
-      "lastActive": 1768163245462
+      "lastActive": 1768166734369
     },
     "67.147.13.201": {
       "type": "series",
-      "id": "tt10945036:1:7",
-      "title": "tt10945036:1:7",
+      "id": "tt10945036:1:8",
+      "title": "tt10945036:1:8",
       "username": "anonymous",
-      "lastActive": 1768164964409
+      "lastActive": 1768166514406
     },
     "2401:4900:c0ba:3ad:a42b:9683:440d:47c7": {
       "type": "series",
@@ -32322,10 +32456,10 @@
     },
     "45.17.204.48": {
       "type": "series",
-      "id": "tt0807832:1:20",
-      "title": "tt0807832:1:20",
+      "id": "tt0807832:1:21",
+      "title": "tt0807832:1:21",
       "username": "anonymous",
-      "lastActive": 1768164782895
+      "lastActive": 1768166700915
     },
     "188.28.100.78": {
       "type": "series",
@@ -32381,7 +32515,7 @@
       "id": "tt3777860",
       "title": "tt3777860",
       "username": "anonymous",
-      "lastActive": 1768163316043
+      "lastActive": 1768166689462
     },
     "197.113.95.78": {
       "type": "series",
@@ -32469,10 +32603,10 @@
     },
     "2a02:8308:b090:5100:20b9:216d:135a:c18d": {
       "type": "series",
-      "id": "tt9327706:1:3",
-      "title": "tt9327706:1:3",
+      "id": "tt9327706:1:4",
+      "title": "tt9327706:1:4",
       "username": "anonymous",
-      "lastActive": 1768165352114
+      "lastActive": 1768166670642
     },
     "183.171.158.212": {
       "type": "series",
@@ -32507,7 +32641,7 @@
       "id": "tt30611573",
       "title": "tt30611573",
       "username": "anonymous",
-      "lastActive": 1768166423081
+      "lastActive": 1768166655383
     },
     "109.224.129.101": {
       "type": "movie",
@@ -32524,11 +32658,11 @@
       "lastActive": 1768166350765
     },
     "2a02:9b0:e6:1a37:94e6:1b47:4218:3b96": {
-      "type": "movie",
-      "id": "tt0116643",
-      "title": "tt0116643",
+      "type": "series",
+      "id": "tt0111921:1:1",
+      "title": "tt0111921:1:1",
       "username": "anonymous",
-      "lastActive": 1768166357934
+      "lastActive": 1768167311742
     },
     "2607:fb91:97b:c828:c9cc:45cb:9ddc:6cc6": {
       "type": "series",
@@ -32536,6 +32670,55 @@
       "title": "JUJUTSU KAISEN",
       "username": "anonymous",
       "lastActive": 1768166468139
+    },
+    "2a02:810a:988:dd00:58a2:6a6f:d959:95bd": {
+      "type": "series",
+      "id": "tt11126994:1:9",
+      "title": "Arcane",
+      "username": "anonymous",
+      "lastActive": 1768166549882
+    },
+    "2806:103e:7:75ea:b9df:f0e0:d65b:4f3b": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "anonymous",
+      "lastActive": 1768166766351
+    },
+    "105.74.67.106": {
+      "type": "movie",
+      "id": "tt7329858",
+      "title": "tt7329858",
+      "username": "anonymous",
+      "lastActive": 1768166838650
+    },
+    "154.247.47.122": {
+      "type": "series",
+      "id": "tt13024974:2:2",
+      "title": "tt13024974:2:2",
+      "username": "anonymous",
+      "lastActive": 1768166903781
+    },
+    "72.226.49.255": {
+      "type": "movie",
+      "id": "tt30253473",
+      "title": "Materialists",
+      "username": "anonymous",
+      "lastActive": 1768167413447
+    },
+    "2a00:23c8:4082:ae01:68e8:a4d1:aadf:619e": {
+      "type": "series",
+      "id": "null:1:0",
+      "title": "null:1:0",
+      "username": "anonymous",
+      "lastActive": 1768167392604
+    },
+    "2a02:6ea0:c10d:3587::35": {
+      "type": "movie",
+      "id": "tt4154796",
+      "title": "Avengers: Endgame",
+      "username": "anonymous",
+      "lastActive": 1768167426055
     }
   }
 }
