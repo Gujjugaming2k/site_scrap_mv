@@ -128,5 +128,15 @@
     "priority": 10,
     "enabled": true,
     "createdAt": "2026-01-11T06:13:44.243Z"
+  },
+  {
+    "id": "1768116087098",
+    "name": "anime",
+    "movieUrl": "https://anime-world-stremio-addon.onrender.com/stream/movie/{{id}}.json",
+    "seriesUrl": "https://anime-world-stremio-addon.onrender.com/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "timeout": 10000,
+    "priority": 10,
+    "enabled": true,
+    "createdAt": "2026-01-11T07:21:27.098Z"
   }
 ]
