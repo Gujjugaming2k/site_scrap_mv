@@ -1,5 +1,5 @@
 {
-  "totalViews": 3924,
+  "totalViews": 3936,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1193,7 +1193,8 @@
     "2601:601:cb7f:83f2:814d:63ea:4d46:5bb1",
     "154.47.7.100",
     "105.235.131.227",
-    "154.255.27.33"
+    "154.255.27.33",
+    "5.192.182.187"
   ],
   "views": [
     {
@@ -32577,6 +32578,102 @@
       "timestamp": "2026-01-11T23:38:19.790Z",
       "ip": "105.235.131.227",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10945036:2:3",
+      "title": "tt10945036:2:3",
+      "timestamp": "2026-01-11T23:39:56.043Z",
+      "ip": "67.147.13.201",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2147999:1:7",
+      "title": "tt2147999:1:7",
+      "timestamp": "2026-01-11T23:40:48.759Z",
+      "ip": "166.48.63.250",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:8",
+      "title": "tt14186672:2:8",
+      "timestamp": "2026-01-11T23:40:49.170Z",
+      "ip": "5.192.182.187",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:9",
+      "title": "tt14186672:2:9",
+      "timestamp": "2026-01-11T23:41:17.117Z",
+      "ip": "5.192.182.187",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-01-11T23:41:57.992Z",
+      "ip": "2806:2f0:75a0:e291:9855:8ec8:6cd7:4d06",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1355642:1:52",
+      "title": "tt1355642:1:52",
+      "timestamp": "2026-01-11T23:48:19.693Z",
+      "ip": "92.189.253.133",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt29921437:1:5",
+      "title": "tt29921437:1:5",
+      "timestamp": "2026-01-11T23:48:55.521Z",
+      "ip": "2803:1500:c00:7afc:984e:34bc:c40:f239",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt5574490:4:11",
+      "title": "tt5574490:4:11",
+      "timestamp": "2026-01-11T23:50:00.837Z",
+      "ip": "154.208.49.98",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2147999:1:8",
+      "title": "tt2147999:1:8",
+      "timestamp": "2026-01-11T23:50:07.111Z",
+      "ip": "166.48.63.250",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:3",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-11T23:51:15.733Z",
+      "ip": "154.47.7.100",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0427954",
+      "title": "tt0427954",
+      "timestamp": "2026-01-11T23:52:06.678Z",
+      "ip": "154.255.27.33",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0304141",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "timestamp": "2026-01-11T23:53:34.560Z",
+      "ip": "47.154.178.5",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -33331,10 +33428,10 @@
     },
     "67.147.13.201": {
       "type": "series",
-      "id": "tt10945036:2:2",
-      "title": "tt10945036:2:2",
+      "id": "tt10945036:2:3",
+      "title": "tt10945036:2:3",
       "username": "anonymous",
-      "lastActive": 1768173154707
+      "lastActive": 1768174796043
     },
     "2401:4900:c0ba:3ad:a42b:9683:440d:47c7": {
       "type": "series",
@@ -33548,10 +33645,10 @@
     },
     "2803:1500:c00:7afc:984e:34bc:c40:f239": {
       "type": "series",
-      "id": "tt29921437:1:4",
-      "title": "tt29921437:1:4",
+      "id": "tt29921437:1:5",
+      "title": "tt29921437:1:5",
       "username": "anonymous",
-      "lastActive": 1768171817758
+      "lastActive": 1768175335521
     },
     "102.67.5.10": {
       "type": "series",
@@ -33660,10 +33757,10 @@
     },
     "92.189.253.133": {
       "type": "series",
-      "id": "tt1355642:1:51",
-      "title": "tt1355642:1:51",
+      "id": "tt1355642:1:52",
+      "title": "tt1355642:1:52",
       "username": "anonymous",
-      "lastActive": 1768162883641
+      "lastActive": 1768175299693
     },
     "102.209.65.165": {
       "type": "movie",
@@ -33835,10 +33932,10 @@
     },
     "166.48.63.250": {
       "type": "series",
-      "id": "tt2147999:1:7",
-      "title": "tt2147999:1:7",
+      "id": "tt2147999:1:8",
+      "title": "tt2147999:1:8",
       "username": "anonymous",
-      "lastActive": 1768172314146
+      "lastActive": 1768175407111
     },
     "90.16.237.126": {
       "type": "movie",
@@ -34052,10 +34149,10 @@
     },
     "154.208.49.98": {
       "type": "series",
-      "id": "tt5574490:4:10",
-      "title": "tt5574490:4:10",
+      "id": "tt5574490:4:11",
+      "title": "tt5574490:4:11",
       "username": "anonymous",
-      "lastActive": 1768169613797
+      "lastActive": 1768175400837
     },
     "107.175.115.30": {
       "type": "movie",
@@ -34073,10 +34170,10 @@
     },
     "2806:2f0:75a0:e291:9855:8ec8:6cd7:4d06": {
       "type": "movie",
-      "id": "tt33311244",
-      "title": "Our Fault",
+      "id": "tt16311594",
+      "title": "F1",
       "username": "anonymous",
-      "lastActive": 1768174523202
+      "lastActive": 1768174917992
     },
     "82.66.125.144": {
       "type": "series",
@@ -34195,7 +34292,7 @@
       "id": "tt4574334:5:3",
       "title": "Stranger Things",
       "username": "anonymous",
-      "lastActive": 1768174095307
+      "lastActive": 1768175475733
     },
     "105.235.131.227": {
       "type": "series",
@@ -34209,7 +34306,21 @@
       "id": "tt0427954",
       "title": "tt0427954",
       "username": "anonymous",
-      "lastActive": 1768174678284
+      "lastActive": 1768175526678
+    },
+    "5.192.182.187": {
+      "type": "series",
+      "id": "tt14186672:2:9",
+      "title": "tt14186672:2:9",
+      "username": "anonymous",
+      "lastActive": 1768174877117
+    },
+    "47.154.178.5": {
+      "type": "movie",
+      "id": "tt0304141",
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "username": "anonymous",
+      "lastActive": 1768175614560
     }
   }
 }
