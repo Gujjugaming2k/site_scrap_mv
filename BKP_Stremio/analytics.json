@@ -1,5 +1,5 @@
 {
-  "totalViews": 3890,
+  "totalViews": 3906,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1186,7 +1186,9 @@
     "2803:c180:2601:4c1b:59f1:5b07:9302:c457",
     "2800:320:c045:4501:df43:19e1:2128:8be6",
     "2a00:23c7:4f3f:b01:4dab:ad56:dfb9:d8c3",
-    "2605:ba00:8108:1ca:c5f4:35eb:9b8c:dcb4"
+    "2605:ba00:8108:1ca:c5f4:35eb:9b8c:dcb4",
+    "187.191.9.104",
+    "120.29.76.58"
   ],
   "views": [
     {
@@ -32298,6 +32300,134 @@
       "timestamp": "2026-01-11T23:06:20.529Z",
       "ip": "109.76.171.65",
       "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-01-11T23:09:19.621Z",
+      "ip": "2806:2f0:75a0:e291:9855:8ec8:6cd7:4d06",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-01-11T23:12:03.019Z",
+      "ip": "2806:2f0:75a0:e291:9855:8ec8:6cd7:4d06",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10945036:2:2",
+      "title": "tt10945036:2:2",
+      "timestamp": "2026-01-11T23:12:34.707Z",
+      "ip": "67.147.13.201",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2432604:0:1",
+      "title": "tt2432604:0:1",
+      "timestamp": "2026-01-11T23:12:39.296Z",
+      "ip": "202.7.222.29",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt14155746:1:4",
+      "title": "tt14155746:1:4",
+      "timestamp": "2026-01-11T23:14:27.876Z",
+      "ip": "202.7.222.29",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt14155746:1:5",
+      "title": "tt14155746:1:5",
+      "timestamp": "2026-01-11T23:14:55.681Z",
+      "ip": "202.7.222.29",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0141842:2:3",
+      "title": "The Sopranos",
+      "timestamp": "2026-01-11T23:15:13.876Z",
+      "ip": "2605:59c0:2893:2b10:749c:c4ff:fe67:c059",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0122834:1:1",
+      "title": "tt0122834:1:1",
+      "timestamp": "2026-01-11T23:16:01.180Z",
+      "ip": "2803:c180:2601:4c1b:59f1:5b07:9302:c457",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-01-11T23:16:27.037Z",
+      "ip": "2806:2f0:75a0:e291:9855:8ec8:6cd7:4d06",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-01-11T23:16:30.712Z",
+      "ip": "187.191.9.104",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0928095:1:1",
+      "title": "tt0928095:1:1",
+      "timestamp": "2026-01-11T23:17:10.477Z",
+      "ip": "2803:c180:2601:4c1b:59f1:5b07:9302:c457",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4063800:5:2",
+      "title": "tt4063800:5:2",
+      "timestamp": "2026-01-11T23:18:41.106Z",
+      "ip": "2a01:e0a:f9f:7d40:ad32:ac87:66d5:75af",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0147433",
+      "title": "tt0147433",
+      "timestamp": "2026-01-11T23:19:57.222Z",
+      "ip": "154.248.150.68",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt19847976",
+      "title": "tt19847976",
+      "timestamp": "2026-01-11T23:20:48.086Z",
+      "ip": "2806:2f0:75a0:e291:9855:8ec8:6cd7:4d06",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt13759970:3:13",
+      "title": "Taxi Driver",
+      "timestamp": "2026-01-11T23:22:29.570Z",
+      "ip": "120.29.76.58",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt13759970:3:16",
+      "title": "Taxi Driver",
+      "timestamp": "2026-01-11T23:23:21.195Z",
+      "ip": "120.29.76.58",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -32639,10 +32769,10 @@
     },
     "2a01:e0a:f9f:7d40:ad32:ac87:66d5:75af": {
       "type": "series",
-      "id": "tt4063800:5:1",
-      "title": "tt4063800:5:1",
+      "id": "tt4063800:5:2",
+      "title": "tt4063800:5:2",
       "username": "anonymous",
-      "lastActive": 1768169862472
+      "lastActive": 1768173521106
     },
     "37.19.211.50": {
       "type": "movie",
@@ -32743,11 +32873,11 @@
       "lastActive": 1768151815344
     },
     "154.248.150.68": {
-      "type": "series",
-      "id": "tt1181712:1:1",
-      "title": "tt1181712:1:1",
+      "type": "movie",
+      "id": "tt0147433",
+      "title": "tt0147433",
       "username": "anonymous",
-      "lastActive": 1768151942672
+      "lastActive": 1768173597222
     },
     "46.197.53.39": {
       "type": "movie",
@@ -33052,10 +33182,10 @@
     },
     "67.147.13.201": {
       "type": "series",
-      "id": "tt10945036:2:1",
-      "title": "tt10945036:2:1",
+      "id": "tt10945036:2:2",
+      "title": "tt10945036:2:2",
       "username": "anonymous",
-      "lastActive": 1768171544024
+      "lastActive": 1768173154707
     },
     "2401:4900:c0ba:3ad:a42b:9683:440d:47c7": {
       "type": "series",
@@ -33409,10 +33539,10 @@
     },
     "2605:59c0:2893:2b10:749c:c4ff:fe67:c059": {
       "type": "series",
-      "id": "tt0141842:2:2",
+      "id": "tt0141842:2:3",
       "title": "The Sopranos",
       "username": "anonymous",
-      "lastActive": 1768164676829
+      "lastActive": 1768173313876
     },
     "2001:4bb8:2c2:9e34:b755:847c:c9f6:1fc8": {
       "type": "series",
@@ -33794,10 +33924,10 @@
     },
     "2806:2f0:75a0:e291:9855:8ec8:6cd7:4d06": {
       "type": "movie",
-      "id": "tt10548174",
-      "title": "28 Years Later",
+      "id": "tt19847976",
+      "title": "tt19847976",
       "username": "anonymous",
-      "lastActive": 1768171704300
+      "lastActive": 1768173648086
     },
     "82.66.125.144": {
       "type": "series",
@@ -33850,10 +33980,10 @@
     },
     "2803:c180:2601:4c1b:59f1:5b07:9302:c457": {
       "type": "series",
-      "id": "tt11189300:1:1",
-      "title": "tt11189300:1:1",
+      "id": "tt0928095:1:1",
+      "title": "tt0928095:1:1",
       "username": "anonymous",
-      "lastActive": 1768172435424
+      "lastActive": 1768173430477
     },
     "2800:320:c045:4501:df43:19e1:2128:8be6": {
       "type": "movie",
@@ -33875,6 +34005,27 @@
       "title": "tt6640444:1:7",
       "username": "anonymous",
       "lastActive": 1768172397511
+    },
+    "202.7.222.29": {
+      "type": "series",
+      "id": "tt14155746:1:5",
+      "title": "tt14155746:1:5",
+      "username": "anonymous",
+      "lastActive": 1768173295681
+    },
+    "187.191.9.104": {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "username": "anonymous",
+      "lastActive": 1768173390712
+    },
+    "120.29.76.58": {
+      "type": "series",
+      "id": "tt13759970:3:16",
+      "title": "Taxi Driver",
+      "username": "anonymous",
+      "lastActive": 1768173801195
     }
   }
 }
