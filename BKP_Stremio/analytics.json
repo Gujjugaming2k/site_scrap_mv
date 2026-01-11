@@ -1,5 +1,5 @@
 {
-  "totalViews": 2861,
+  "totalViews": 2887,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -927,7 +927,15 @@
     "2405:acc0:1207:698d:75ca:574c:4004:d61d",
     "185.107.56.48",
     "103.212.140.117",
-    "2409:40e4:1098:4a:88b8:84c7:32b0:e256"
+    "2409:40e4:1098:4a:88b8:84c7:32b0:e256",
+    "2405:201:202d:d014:3871:e788:8503:fc9a",
+    "103.165.115.184",
+    "2409:40e3:5413:1fcf:bc2c:cbe3:fde5:45b",
+    "119.42.57.23",
+    "202.142.89.126",
+    "125.99.207.251",
+    "103.112.131.140",
+    "2409:40d6:1187:f7f1:8000::"
   ],
   "views": [
     {
@@ -23807,15 +23815,223 @@
       "timestamp": "2026-01-11T14:06:21.578Z",
       "ip": "14.1.104.41",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt27503384",
+      "title": "tt27503384",
+      "timestamp": "2026-01-11T14:07:37.267Z",
+      "ip": "2405:201:202d:d014:3871:e788:8503:fc9a",
+      "username": "explorerindia"
+    },
+    {
+      "type": "series",
+      "id": "tt0898266:4:18",
+      "title": "tt0898266:4:18",
+      "timestamp": "2026-01-11T14:08:16.785Z",
+      "ip": "86.48.14.150",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "null",
+      "title": "null",
+      "timestamp": "2026-01-11T14:08:24.181Z",
+      "ip": "2001:fd8:b29e:2384:619f:e332:c06b:be6c",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:3",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-11T14:09:13.068Z",
+      "ip": "85.217.139.139",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2402207:1:2",
+      "title": "tt2402207:1:2",
+      "timestamp": "2026-01-11T14:09:48.934Z",
+      "ip": "113.211.212.36",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0187738",
+      "title": "Blade II",
+      "timestamp": "2026-01-11T14:09:49.560Z",
+      "ip": "103.165.115.184",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt30488398:1:23",
+      "title": "tt30488398:1:23",
+      "timestamp": "2026-01-11T14:10:07.078Z",
+      "ip": "81.2.140.117",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:0:2",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-11T14:10:29.717Z",
+      "ip": "2409:40e4:1098:4a:88b8:84c7:32b0:e256",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt0477347",
+      "title": "Night at the Museum",
+      "timestamp": "2026-01-11T14:11:00.386Z",
+      "ip": "119.94.165.127",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt6809010",
+      "title": "tt6809010",
+      "timestamp": "2026-01-11T14:11:34.144Z",
+      "ip": "2409:40e3:5413:1fcf:bc2c:cbe3:fde5:45b",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
+      "timestamp": "2026-01-11T14:12:28.032Z",
+      "ip": "119.42.57.23",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0988824:16:1",
+      "title": "tt0988824:16:1",
+      "timestamp": "2026-01-11T14:12:40.481Z",
+      "ip": "2409:40e4:1098:4a:88b8:84c7:32b0:e256",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt0482571",
+      "title": "The Prestige",
+      "timestamp": "2026-01-11T14:12:50.351Z",
+      "ip": "202.142.89.126",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0898266:10:1",
+      "title": "tt0898266:10:1",
+      "timestamp": "2026-01-11T14:13:01.289Z",
+      "ip": "47.150.96.219",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0182576:4:16",
+      "title": "tt0182576:4:16",
+      "timestamp": "2026-01-11T14:13:51.099Z",
+      "ip": "2600:4040:a791:bd00:cd28:bd72:5221:f67a",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-11T14:13:53.151Z",
+      "ip": "119.42.57.23",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt22091076:1:5",
+      "title": "tt22091076:1:5",
+      "timestamp": "2026-01-11T14:14:20.066Z",
+      "ip": "2402:b400:4650:256e:30fd:41ff:fe69:4795",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt12945742",
+      "title": "tt12945742",
+      "timestamp": "2026-01-11T14:14:37.175Z",
+      "ip": "2409:40e3:5413:1fcf:bc2c:cbe3:fde5:45b",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt33949346",
+      "title": "tt33949346",
+      "timestamp": "2026-01-11T14:15:37.886Z",
+      "ip": "125.99.207.251",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt28313387:1:2",
+      "title": "tt28313387:1:2",
+      "timestamp": "2026-01-11T14:16:38.650Z",
+      "ip": "2600:1702:6f22:2320:76ec:341f:798c:f2c1",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10148174:1:6",
+      "title": "tt10148174:1:6",
+      "timestamp": "2026-01-11T14:16:47.327Z",
+      "ip": "103.112.131.140",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-01-11T14:18:58.778Z",
+      "ip": "2409:40d6:1187:f7f1:8000::",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt36592985",
+      "title": "tt36592985",
+      "timestamp": "2026-01-11T14:19:52.184Z",
+      "ip": "2401:4900:b8bd:fa1e::3124:cdf8",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt11126994:1:1",
+      "title": "Arcane",
+      "timestamp": "2026-01-11T14:20:55.957Z",
+      "ip": "2409:40e4:1098:4a:88b8:84c7:32b0:e256",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt6185782:1:1",
+      "title": "tt6185782:1:1",
+      "timestamp": "2026-01-11T14:21:22.267Z",
+      "ip": "2401:4900:b8bd:fa1e::3124:cdf8",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt11126994:2:2",
+      "title": "Arcane",
+      "timestamp": "2026-01-11T14:21:34.618Z",
+      "ip": "2409:40e4:1098:4a:88b8:84c7:32b0:e256",
+      "username": "askchm"
     }
   ],
   "activeNow": {
     "2402:b400:4650:256e:30fd:41ff:fe69:4795": {
       "type": "series",
-      "id": "tt22091076:1:4",
-      "title": "tt22091076:1:4",
+      "id": "tt22091076:1:5",
+      "title": "tt22091076:1:5",
       "username": "anonymous",
-      "lastActive": 1768138206985
+      "lastActive": 1768140860066
     },
     "162.212.211.108": {
       "type": "series",
@@ -23840,17 +24056,17 @@
     },
     "86.48.14.150": {
       "type": "series",
-      "id": "tt0898266:4:17",
-      "title": "tt0898266:4:17",
+      "id": "tt0898266:4:18",
+      "title": "tt0898266:4:18",
       "username": "anonymous",
-      "lastActive": 1768139229594
+      "lastActive": 1768140496785
     },
     "47.150.96.219": {
       "type": "series",
-      "id": "tt0898266:9:24",
-      "title": "tt0898266:9:24",
+      "id": "tt0898266:10:1",
+      "title": "tt0898266:10:1",
       "username": "anonymous",
-      "lastActive": 1768139616488
+      "lastActive": 1768140781289
     },
     "47.154.178.5": {
       "type": "series",
@@ -24085,10 +24301,10 @@
     },
     "81.2.140.117": {
       "type": "series",
-      "id": "tt30488398:1:22",
-      "title": "tt30488398:1:22",
+      "id": "tt30488398:1:23",
+      "title": "tt30488398:1:23",
       "username": "anonymous",
-      "lastActive": 1768138848351
+      "lastActive": 1768140607078
     },
     "66.27.103.91": {
       "type": "movie",
@@ -24364,11 +24580,11 @@
       "lastActive": 1768133390665
     },
     "85.217.139.139": {
-      "type": "movie",
-      "id": "tt1757678",
-      "title": "tt1757678",
+      "type": "series",
+      "id": "tt4574334:5:3",
+      "title": "Stranger Things",
       "username": "anonymous",
-      "lastActive": 1768140217287
+      "lastActive": 1768140553068
     },
     "109.76.171.65": {
       "type": "series",
@@ -24802,7 +25018,7 @@
       "id": "tt0182576:4:16",
       "title": "tt0182576:4:16",
       "username": "anonymous",
-      "lastActive": 1768139079793
+      "lastActive": 1768140831099
     },
     "182.77.79.67": {
       "type": "series",
@@ -24918,10 +25134,10 @@
     },
     "113.211.212.36": {
       "type": "series",
-      "id": "tt2402207:1:1",
-      "title": "tt2402207:1:1",
+      "id": "tt2402207:1:2",
+      "title": "tt2402207:1:2",
       "username": "anonymous",
-      "lastActive": 1768138374827
+      "lastActive": 1768140588934
     },
     "176.204.255.83": {
       "type": "movie",
@@ -24981,10 +25197,10 @@
     },
     "2600:1702:6f22:2320:76ec:341f:798c:f2c1": {
       "type": "series",
-      "id": "tt28313387:1:1",
-      "title": "tt28313387:1:1",
+      "id": "tt28313387:1:2",
+      "title": "tt28313387:1:2",
       "username": "anonymous",
-      "lastActive": 1768138314758
+      "lastActive": 1768140998650
     },
     "2405:201:500c:496b:14d5:614:2264:1c82": {
       "type": "movie",
@@ -25155,11 +25371,88 @@
       "lastActive": 1768140322590
     },
     "2409:40e4:1098:4a:88b8:84c7:32b0:e256": {
-      "type": "movie",
-      "id": "tt12801262",
-      "title": "Luca",
+      "type": "series",
+      "id": "tt11126994:2:2",
+      "title": "Arcane",
       "username": "askchm",
-      "lastActive": 1768140339043
+      "lastActive": 1768141294618
+    },
+    "2405:201:202d:d014:3871:e788:8503:fc9a": {
+      "type": "movie",
+      "id": "tt27503384",
+      "title": "tt27503384",
+      "username": "explorerindia",
+      "lastActive": 1768140457267
+    },
+    "2001:fd8:b29e:2384:619f:e332:c06b:be6c": {
+      "type": "movie",
+      "id": "null",
+      "title": "null",
+      "username": "anonymous",
+      "lastActive": 1768140504181
+    },
+    "103.165.115.184": {
+      "type": "movie",
+      "id": "tt0187738",
+      "title": "Blade II",
+      "username": "anonymous",
+      "lastActive": 1768140589560
+    },
+    "119.94.165.127": {
+      "type": "movie",
+      "id": "tt0477347",
+      "title": "Night at the Museum",
+      "username": "anonymous",
+      "lastActive": 1768140660386
+    },
+    "2409:40e3:5413:1fcf:bc2c:cbe3:fde5:45b": {
+      "type": "movie",
+      "id": "tt12945742",
+      "title": "tt12945742",
+      "username": "anonymous",
+      "lastActive": 1768140877175
+    },
+    "119.42.57.23": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "anonymous",
+      "lastActive": 1768140833151
+    },
+    "202.142.89.126": {
+      "type": "movie",
+      "id": "tt0482571",
+      "title": "The Prestige",
+      "username": "anonymous",
+      "lastActive": 1768140770351
+    },
+    "125.99.207.251": {
+      "type": "movie",
+      "id": "tt33949346",
+      "title": "tt33949346",
+      "username": "anonymous",
+      "lastActive": 1768140937886
+    },
+    "103.112.131.140": {
+      "type": "series",
+      "id": "tt10148174:1:6",
+      "title": "tt10148174:1:6",
+      "username": "anonymous",
+      "lastActive": 1768141007327
+    },
+    "2409:40d6:1187:f7f1:8000::": {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "username": "anonymous",
+      "lastActive": 1768141138778
+    },
+    "2401:4900:b8bd:fa1e::3124:cdf8": {
+      "type": "series",
+      "id": "tt6185782:1:1",
+      "title": "tt6185782:1:1",
+      "username": "anonymous",
+      "lastActive": 1768141282267
     }
   }
 }
