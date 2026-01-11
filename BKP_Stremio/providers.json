@@ -118,5 +118,15 @@
     "enabled": true,
     "createdAt": "2026-01-03T12:53:35.958Z",
     "updatedAt": "2026-01-04T03:38:21.697Z"
+  },
+  {
+    "id": "1768112024243",
+    "name": "torrentio",
+    "movieUrl": "https://torrentio.strem.fun/providers=yts,eztv,rarbg,1337x,thepiratebay,kickasstorrents,torrentgalaxy,magnetdl,horriblesubs,nyaasi,tokyotosho,anidex%7Csort=seeders%7Clanguage=hindi,telugu,tamil%7Cqualityfilter=scr,cam%7Climit=5/stream/movie/{{id}}.json",
+    "seriesUrl": "https://torrentio.strem.fun/providers=yts,eztv,rarbg,1337x,thepiratebay,kickasstorrents,torrentgalaxy,magnetdl,horriblesubs,nyaasi,tokyotosho,anidex%7Csort=seeders%7Clanguage=hindi,telugu,tamil%7Cqualityfilter=scr,cam%7Climit=5/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "timeout": 10000,
+    "priority": 10,
+    "enabled": true,
+    "createdAt": "2026-01-11T06:13:44.243Z"
   }
 ]
