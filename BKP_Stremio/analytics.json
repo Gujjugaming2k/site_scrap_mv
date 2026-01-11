@@ -1,5 +1,5 @@
 {
-  "totalViews": 3717,
+  "totalViews": 3733,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1145,7 +1145,10 @@
     "176.223.172.100",
     "41.96.169.214",
     "2600:1701:489:e010:fea8:1acf:d3e1:13c3",
-    "2601:404:0:24d0:b475:a7b0:d40e:cd6"
+    "2601:404:0:24d0:b475:a7b0:d40e:cd6",
+    "45.118.166.43",
+    "217.199.144.37",
+    "2a02:8308:b090:5100:20b9:216d:135a:c18d"
   ],
   "views": [
     {
@@ -30873,6 +30876,134 @@
       "timestamp": "2026-01-11T20:51:16.829Z",
       "ip": "2605:59c0:2893:2b10:749c:c4ff:fe67:c059",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0807832:1:20",
+      "title": "tt0807832:1:20",
+      "timestamp": "2026-01-11T20:53:02.895Z",
+      "ip": "45.17.204.48",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt7587890:3:5",
+      "title": "tt7587890:3:5",
+      "timestamp": "2026-01-11T20:53:46.816Z",
+      "ip": "2600:8803:8700:29:42a0:b6d0:343a:9c13",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "timestamp": "2026-01-11T20:54:01.096Z",
+      "ip": "45.118.166.43",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt31495504",
+      "title": "tt31495504",
+      "timestamp": "2026-01-11T20:54:13.521Z",
+      "ip": "45.118.166.43",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-11T20:54:26.881Z",
+      "ip": "45.118.166.43",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt32864316:1:2",
+      "title": "tt32864316:1:2",
+      "timestamp": "2026-01-11T20:55:06.689Z",
+      "ip": "217.199.144.37",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10945036:1:7",
+      "title": "tt10945036:1:7",
+      "timestamp": "2026-01-11T20:56:04.409Z",
+      "ip": "67.147.13.201",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1055238:18:12",
+      "title": "tt1055238:18:12",
+      "timestamp": "2026-01-11T20:56:44.040Z",
+      "ip": "70.40.87.208",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:6:8",
+      "title": "tt3032476:6:8",
+      "timestamp": "2026-01-11T20:57:48.936Z",
+      "ip": "2606:5d00:9801:8000:643f:93bb:6bf3:a6cf",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:2:3",
+      "title": "tt3032476:2:3",
+      "timestamp": "2026-01-11T20:58:07.617Z",
+      "ip": "109.76.171.65",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:2:7",
+      "title": "tt3032476:2:7",
+      "timestamp": "2026-01-11T20:58:17.314Z",
+      "ip": "109.76.171.65",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt9327706:1:2",
+      "title": "tt9327706:1:2",
+      "timestamp": "2026-01-11T20:59:25.895Z",
+      "ip": "2a02:8308:b090:5100:20b9:216d:135a:c18d",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt9327706:1:2",
+      "title": "tt9327706:1:2",
+      "timestamp": "2026-01-11T21:00:58.833Z",
+      "ip": "2a02:8308:b090:5100:20b9:216d:135a:c18d",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt36631539:1:5",
+      "title": "tt36631539:1:5",
+      "timestamp": "2026-01-11T21:02:10.085Z",
+      "ip": "183.171.158.212",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt9327706:1:3",
+      "title": "tt9327706:1:3",
+      "timestamp": "2026-01-11T21:02:32.114Z",
+      "ip": "2a02:8308:b090:5100:20b9:216d:135a:c18d",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2147999:1:1",
+      "title": "tt2147999:1:1",
+      "timestamp": "2026-01-11T21:06:03.068Z",
+      "ip": "166.48.63.250",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -31375,10 +31506,10 @@
     },
     "2600:8803:8700:29:42a0:b6d0:343a:9c13": {
       "type": "series",
-      "id": "tt7587890:3:4",
-      "title": "tt7587890:3:4",
+      "id": "tt7587890:3:5",
+      "title": "tt7587890:3:5",
       "username": "anonymous",
-      "lastActive": 1768158186572
+      "lastActive": 1768164826816
     },
     "206.84.228.30": {
       "type": "movie",
@@ -31627,10 +31758,10 @@
     },
     "67.147.13.201": {
       "type": "series",
-      "id": "tt10945036:1:6",
-      "title": "tt10945036:1:6",
+      "id": "tt10945036:1:7",
+      "title": "tt10945036:1:7",
       "username": "anonymous",
-      "lastActive": 1768163287864
+      "lastActive": 1768164964409
     },
     "2401:4900:c0ba:3ad:a42b:9683:440d:47c7": {
       "type": "series",
@@ -31658,7 +31789,7 @@
       "id": "tt3032476:2:7",
       "title": "tt3032476:2:7",
       "username": "vflix1993",
-      "lastActive": 1768160203499
+      "lastActive": 1768165097314
     },
     "94.205.218.176": {
       "type": "movie",
@@ -31893,10 +32024,10 @@
     },
     "70.40.87.208": {
       "type": "series",
-      "id": "tt1055238:18:11",
-      "title": "tt1055238:18:11",
+      "id": "tt1055238:18:12",
+      "title": "tt1055238:18:12",
       "username": "anonymous",
-      "lastActive": 1768163270002
+      "lastActive": 1768165004040
     },
     "88.234.230.58": {
       "type": "series",
@@ -31970,10 +32101,10 @@
     },
     "45.17.204.48": {
       "type": "series",
-      "id": "tt0807832:1:19",
-      "title": "tt0807832:1:19",
+      "id": "tt0807832:1:20",
+      "title": "tt0807832:1:20",
       "username": "anonymous",
-      "lastActive": 1768163033493
+      "lastActive": 1768164782895
     },
     "188.28.100.78": {
       "type": "series",
@@ -32040,10 +32171,10 @@
     },
     "2606:5d00:9801:8000:643f:93bb:6bf3:a6cf": {
       "type": "series",
-      "id": "tt3032476:6:7",
-      "title": "tt3032476:6:7",
+      "id": "tt3032476:6:8",
+      "title": "tt3032476:6:8",
       "username": "anonymous",
-      "lastActive": 1768163730290
+      "lastActive": 1768165068936
     },
     "149.71.5.254": {
       "type": "series",
@@ -32100,6 +32231,41 @@
       "title": "tt0212671:1:12",
       "username": "anonymous",
       "lastActive": 1768164594950
+    },
+    "45.118.166.43": {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "username": "anonymous",
+      "lastActive": 1768164866881
+    },
+    "217.199.144.37": {
+      "type": "series",
+      "id": "tt32864316:1:2",
+      "title": "tt32864316:1:2",
+      "username": "anonymous",
+      "lastActive": 1768164906689
+    },
+    "2a02:8308:b090:5100:20b9:216d:135a:c18d": {
+      "type": "series",
+      "id": "tt9327706:1:3",
+      "title": "tt9327706:1:3",
+      "username": "anonymous",
+      "lastActive": 1768165352114
+    },
+    "183.171.158.212": {
+      "type": "series",
+      "id": "tt36631539:1:5",
+      "title": "tt36631539:1:5",
+      "username": "anonymous",
+      "lastActive": 1768165330085
+    },
+    "166.48.63.250": {
+      "type": "series",
+      "id": "tt2147999:1:1",
+      "title": "tt2147999:1:1",
+      "username": "anonymous",
+      "lastActive": 1768165563068
     }
   }
 }
