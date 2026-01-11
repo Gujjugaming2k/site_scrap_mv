@@ -1,5 +1,5 @@
 {
-  "totalViews": 165,
+  "totalViews": 166,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -29,7 +29,8 @@
     "2401:4900:aabf:9f0a:48d8:2f1c:9cdb:9490",
     "149.154.161.246",
     "2409:40e6:21c:4a11:fcfa:48ff:fe22:7125",
-    "2409:40f0:411a:c3ee:6013:1eff:fe49:2eee"
+    "2409:40f0:411a:c3ee:6013:1eff:fe49:2eee",
+    "103.44.117.19"
   ],
   "views": [
     {
@@ -1341,6 +1342,14 @@
       "timestamp": "2026-01-10T21:19:29.281Z",
       "ip": "72.255.11.154",
       "username": "hvre2"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-11T01:11:20.842Z",
+      "ip": "103.44.117.19",
+      "username": "anonymous050100"
     }
   ],
   "activeNow": {
@@ -1406,6 +1415,13 @@
       "title": "Stranger Things",
       "username": "mr_anonymous_0004",
       "lastActive": 1768079867113
+    },
+    "103.44.117.19": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "anonymous050100",
+      "lastActive": 1768093880842
     }
   }
 }
