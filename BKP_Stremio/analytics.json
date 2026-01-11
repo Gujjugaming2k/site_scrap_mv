@@ -1,5 +1,5 @@
 {
-  "totalViews": 212,
+  "totalViews": 225,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -35,7 +35,9 @@
     "2409:40e5:e:5246:b4e8:f5ff:fef2:f947",
     "146.196.34.72",
     "91.148.228.75",
-    "103.46.200.103"
+    "103.46.200.103",
+    "2409:40e2:20a6:8ae:168e:c788:114d:ea84",
+    "2409:40e2:20a6:8ae:9301:6bcd:fb6a:f324"
   ],
   "views": [
     {
@@ -1723,6 +1725,110 @@
       "timestamp": "2026-01-11T03:09:52.367Z",
       "ip": "103.46.200.103",
       "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt3402138",
+      "title": "The Naked Gun",
+      "timestamp": "2026-01-11T03:15:22.970Z",
+      "ip": "2409:40e2:20a6:8ae:168e:c788:114d:ea84",
+      "username": "anonymously_yourss"
+    },
+    {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "timestamp": "2026-01-11T03:18:26.985Z",
+      "ip": "2409:40e2:20a6:8ae:168e:c788:114d:ea84",
+      "username": "anonymously_yourss"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:4",
+      "title": "tt14186672:1:4",
+      "timestamp": "2026-01-11T03:19:15.819Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt1409055:1:1",
+      "title": "Dragon Ball Z Kai",
+      "timestamp": "2026-01-11T03:20:03.313Z",
+      "ip": "103.46.200.103",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt1409055:1:2",
+      "title": "Dragon Ball Z Kai",
+      "timestamp": "2026-01-11T03:20:44.788Z",
+      "ip": "103.46.200.103",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt1409055:1:2",
+      "title": "Dragon Ball Z Kai",
+      "timestamp": "2026-01-11T03:21:01.042Z",
+      "ip": "103.46.200.103",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt1409055:1:2",
+      "title": "Dragon Ball Z Kai",
+      "timestamp": "2026-01-11T03:21:09.659Z",
+      "ip": "103.46.200.103",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt1409055:1:2",
+      "title": "Dragon Ball Z Kai",
+      "timestamp": "2026-01-11T03:21:14.953Z",
+      "ip": "103.46.200.103",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "timestamp": "2026-01-11T03:21:29.499Z",
+      "ip": "2409:40e2:20a6:8ae:9301:6bcd:fb6a:f324",
+      "username": "anonymously_yourss"
+    },
+    {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "timestamp": "2026-01-11T03:23:31.526Z",
+      "ip": "2409:40e2:20a6:8ae:9301:6bcd:fb6a:f324",
+      "username": "anonymously_yourss"
+    },
+    {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "timestamp": "2026-01-11T03:24:12.121Z",
+      "ip": "2409:40e2:20a6:8ae:9301:6bcd:fb6a:f324",
+      "username": "anonymously_yourss"
+    },
+    {
+      "type": "series",
+      "id": "tt38568136:1:2",
+      "title": "tt38568136:1:2",
+      "timestamp": "2026-01-11T03:25:59.888Z",
+      "ip": "103.249.4.206",
+      "username": "vflix"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-01-11T03:27:45.182Z",
+      "ip": "146.196.34.72",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -1731,7 +1837,7 @@
       "id": "tt38568136:1:2",
       "title": "tt38568136:1:2",
       "username": "vflix",
-      "lastActive": 1768073298148
+      "lastActive": 1768101959888
     },
     "2401:4900:aabf:9f0a:48d8:2f1c:9cdb:9490": {
       "type": "series",
@@ -1811,11 +1917,11 @@
       "lastActive": 1768100339980
     },
     "146.196.34.72": {
-      "type": "series",
-      "id": "tt12343534:3:1",
-      "title": "JUJUTSU KAISEN",
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
       "username": "gaendaswami",
-      "lastActive": 1768100426510
+      "lastActive": 1768102065182
     },
     "103.24.85.161": {
       "type": "series",
@@ -1833,10 +1939,31 @@
     },
     "103.46.200.103": {
       "type": "series",
-      "id": "tt22202452:1:9",
-      "title": "tt22202452:1:9",
+      "id": "tt1409055:1:2",
+      "title": "Dragon Ball Z Kai",
       "username": "brosportses",
-      "lastActive": 1768100992367
+      "lastActive": 1768101674953
+    },
+    "2409:40e2:20a6:8ae:168e:c788:114d:ea84": {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "username": "anonymously_yourss",
+      "lastActive": 1768101506985
+    },
+    "203.192.255.46": {
+      "type": "series",
+      "id": "tt14186672:1:4",
+      "title": "tt14186672:1:4",
+      "username": "chetan_b2",
+      "lastActive": 1768101555819
+    },
+    "2409:40e2:20a6:8ae:9301:6bcd:fb6a:f324": {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "username": "anonymously_yourss",
+      "lastActive": 1768101852121
     }
   }
 }
