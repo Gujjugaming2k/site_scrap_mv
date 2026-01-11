@@ -1,5 +1,5 @@
 {
-  "totalViews": 166,
+  "totalViews": 167,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -30,7 +30,8 @@
     "149.154.161.246",
     "2409:40e6:21c:4a11:fcfa:48ff:fe22:7125",
     "2409:40f0:411a:c3ee:6013:1eff:fe49:2eee",
-    "103.44.117.19"
+    "103.44.117.19",
+    "2405:201:6025:a88d:5501:6df1:c10f:8dc7"
   ],
   "views": [
     {
@@ -1350,6 +1351,14 @@
       "timestamp": "2026-01-11T01:11:20.842Z",
       "ip": "103.44.117.19",
       "username": "anonymous050100"
+    },
+    {
+      "type": "movie",
+      "id": "tt3402138",
+      "title": "The Naked Gun",
+      "timestamp": "2026-01-11T02:09:55.499Z",
+      "ip": "2405:201:6025:a88d:5501:6df1:c10f:8dc7",
+      "username": "infinityseeker"
     }
   ],
   "activeNow": {
@@ -1422,6 +1431,13 @@
       "title": "Dhurandhar",
       "username": "anonymous050100",
       "lastActive": 1768093880842
+    },
+    "2405:201:6025:a88d:5501:6df1:c10f:8dc7": {
+      "type": "movie",
+      "id": "tt3402138",
+      "title": "The Naked Gun",
+      "username": "infinityseeker",
+      "lastActive": 1768097395499
     }
   }
 }
