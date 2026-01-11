@@ -1,5 +1,5 @@
 {
-  "totalViews": 3571,
+  "totalViews": 3596,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1108,7 +1108,13 @@
     "2600:1702:5430:2430:d68c:5876:ffe3:ec7e",
     "105.110.234.13",
     "69.67.148.186",
-    "2a02:8428:ad10:ae01:b518:8706:9f34:972e"
+    "2a02:8428:ad10:ae01:b518:8706:9f34:972e",
+    "181.94.224.81",
+    "180.75.44.177",
+    "109.49.91.2",
+    "2402:3a80:18c2:73e2:e6c1:6a5a:825d:141",
+    "65.95.228.32",
+    "156.204.34.34"
   ],
   "views": [
     {
@@ -29668,6 +29674,206 @@
       "timestamp": "2026-01-11T19:00:20.934Z",
       "ip": "47.150.96.219",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt3837246:1:3",
+      "title": "tt3837246:1:3",
+      "timestamp": "2026-01-11T19:01:42.918Z",
+      "ip": "2401:4900:1c37:42c0:2c9b:b959:3c38:5390",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "null:1:1",
+      "title": "null:1:1",
+      "timestamp": "2026-01-11T19:02:41.548Z",
+      "ip": "181.94.224.81",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt37893389",
+      "title": "tt37893389",
+      "timestamp": "2026-01-11T19:02:49.856Z",
+      "ip": "180.75.44.177",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt7587890:3:4",
+      "title": "tt7587890:3:4",
+      "timestamp": "2026-01-11T19:03:06.572Z",
+      "ip": "2600:8803:8700:29:42a0:b6d0:343a:9c13",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0241527",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "timestamp": "2026-01-11T19:03:13.090Z",
+      "ip": "180.75.44.177",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt4712810",
+      "title": "tt4712810",
+      "timestamp": "2026-01-11T19:03:15.775Z",
+      "ip": "180.75.44.177",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1199099:2:12",
+      "title": "tt1199099:2:12",
+      "timestamp": "2026-01-11T19:04:28.367Z",
+      "ip": "109.49.91.2",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10945036:1:3",
+      "title": "tt10945036:1:3",
+      "timestamp": "2026-01-11T19:05:01.941Z",
+      "ip": "67.147.13.201",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-01-11T19:05:52.273Z",
+      "ip": "2402:3a80:18c2:73e2:e6c1:6a5a:825d:141",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt32278054",
+      "title": "tt32278054",
+      "timestamp": "2026-01-11T19:06:19.351Z",
+      "ip": "65.95.228.32",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-01-11T19:06:44.839Z",
+      "ip": "38.134.138.223",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt0069762",
+      "title": "tt0069762",
+      "timestamp": "2026-01-11T19:07:04.086Z",
+      "ip": "152.42.43.54",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0810900",
+      "title": "tt0810900",
+      "timestamp": "2026-01-11T19:10:26.871Z",
+      "ip": "2a01:e34:ec21:240:b37:c1c1:b9fc:7153",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt31314791:1:2",
+      "title": "tt31314791:1:2",
+      "timestamp": "2026-01-11T19:10:54.737Z",
+      "ip": "154.246.169.166",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt29367046:1:19",
+      "title": "tt29367046:1:19",
+      "timestamp": "2026-01-11T19:11:10.042Z",
+      "ip": "181.94.224.81",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:1",
+      "title": "Death Note",
+      "timestamp": "2026-01-11T19:11:36.985Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:2",
+      "title": "Death Note",
+      "timestamp": "2026-01-11T19:12:12.652Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt9362736",
+      "title": "Die My Love",
+      "timestamp": "2026-01-11T19:12:14.689Z",
+      "ip": "156.204.34.34",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-01-11T19:12:29.127Z",
+      "ip": "38.134.138.223",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:2:7",
+      "title": "tt3032476:2:7",
+      "timestamp": "2026-01-11T19:14:25.503Z",
+      "ip": "109.76.171.65",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:2:7",
+      "title": "tt3032476:2:7",
+      "timestamp": "2026-01-11T19:14:29.110Z",
+      "ip": "109.76.171.65",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:2:7",
+      "title": "tt3032476:2:7",
+      "timestamp": "2026-01-11T19:14:31.354Z",
+      "ip": "109.76.171.65",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-11T19:14:31.769Z",
+      "ip": "2409:40e6:21c:4a11:fcfa:48ff:fe22:7125",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:2:23",
+      "title": "tt0412142:2:23",
+      "timestamp": "2026-01-11T19:14:38.358Z",
+      "ip": "59.93.5.218",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:2:7",
+      "title": "tt3032476:2:7",
+      "timestamp": "2026-01-11T19:15:09.773Z",
+      "ip": "109.76.171.65",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -29704,7 +29910,7 @@
       "id": "tt16311594",
       "title": "F1",
       "username": "thala_75",
-      "lastActive": 1768157772386
+      "lastActive": 1768158749127
     },
     "202.47.38.198": {
       "type": "movie",
@@ -29900,7 +30106,7 @@
       "id": "tt0810900",
       "title": "tt0810900",
       "username": "anonymous",
-      "lastActive": 1768150442940
+      "lastActive": 1768158626871
     },
     "2a02:8428:ad10:ae01:40ba:a6b:961f:76ee": {
       "type": "series",
@@ -30072,10 +30278,10 @@
     },
     "152.42.43.54": {
       "type": "movie",
-      "id": "tt0108399",
-      "title": "tt0108399",
+      "id": "tt0069762",
+      "title": "tt0069762",
       "username": "anonymous",
-      "lastActive": 1768151380418
+      "lastActive": 1768158424086
     },
     "162.212.211.108": {
       "type": "series",
@@ -30170,10 +30376,10 @@
     },
     "2600:8803:8700:29:42a0:b6d0:343a:9c13": {
       "type": "series",
-      "id": "tt7587890:3:3",
-      "title": "tt7587890:3:3",
+      "id": "tt7587890:3:4",
+      "title": "tt7587890:3:4",
       "username": "anonymous",
-      "lastActive": 1768155596171
+      "lastActive": 1768158186572
     },
     "206.84.228.30": {
       "type": "movie",
@@ -30415,17 +30621,17 @@
     },
     "154.246.169.166": {
       "type": "series",
-      "id": "tt31314791:1:1",
-      "title": "tt31314791:1:1",
+      "id": "tt31314791:1:2",
+      "title": "tt31314791:1:2",
       "username": "anonymous",
-      "lastActive": 1768155278735
+      "lastActive": 1768158654737
     },
     "67.147.13.201": {
       "type": "series",
-      "id": "tt10945036:1:2",
-      "title": "tt10945036:1:2",
+      "id": "tt10945036:1:3",
+      "title": "tt10945036:1:3",
       "username": "anonymous",
-      "lastActive": 1768156620200
+      "lastActive": 1768158301941
     },
     "2401:4900:c0ba:3ad:a42b:9683:440d:47c7": {
       "type": "series",
@@ -30436,10 +30642,10 @@
     },
     "2401:4900:1c37:42c0:2c9b:b959:3c38:5390": {
       "type": "series",
-      "id": "tt3837246:1:2",
-      "title": "tt3837246:1:2",
+      "id": "tt3837246:1:3",
+      "title": "tt3837246:1:3",
       "username": "anonymous",
-      "lastActive": 1768156763834
+      "lastActive": 1768158102918
     },
     "2a09:bac1:36c0:248::10c:20": {
       "type": "movie",
@@ -30450,10 +30656,10 @@
     },
     "109.76.171.65": {
       "type": "series",
-      "id": "tt3032476:2:5",
-      "title": "tt3032476:2:5",
+      "id": "tt3032476:2:7",
+      "title": "tt3032476:2:7",
       "username": "vflix1993",
-      "lastActive": 1768156096447
+      "lastActive": 1768158909773
     },
     "94.205.218.176": {
       "type": "movie",
@@ -30559,6 +30765,69 @@
       "title": "tt2661044:6:11",
       "username": "anonymous",
       "lastActive": 1768158017562
+    },
+    "181.94.224.81": {
+      "type": "series",
+      "id": "tt29367046:1:19",
+      "title": "tt29367046:1:19",
+      "username": "anonymous",
+      "lastActive": 1768158670042
+    },
+    "180.75.44.177": {
+      "type": "movie",
+      "id": "tt4712810",
+      "title": "tt4712810",
+      "username": "anonymous",
+      "lastActive": 1768158195775
+    },
+    "109.49.91.2": {
+      "type": "series",
+      "id": "tt1199099:2:12",
+      "title": "tt1199099:2:12",
+      "username": "anonymous",
+      "lastActive": 1768158268367
+    },
+    "2402:3a80:18c2:73e2:e6c1:6a5a:825d:141": {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "username": "anonymous",
+      "lastActive": 1768158352273
+    },
+    "65.95.228.32": {
+      "type": "movie",
+      "id": "tt32278054",
+      "title": "tt32278054",
+      "username": "anonymous",
+      "lastActive": 1768158379351
+    },
+    "202.173.124.127": {
+      "type": "series",
+      "id": "tt0877057:1:2",
+      "title": "Death Note",
+      "username": "ryuzaklo26",
+      "lastActive": 1768158732652
+    },
+    "156.204.34.34": {
+      "type": "movie",
+      "id": "tt9362736",
+      "title": "Die My Love",
+      "username": "anonymous",
+      "lastActive": 1768158734689
+    },
+    "2409:40e6:21c:4a11:fcfa:48ff:fe22:7125": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "nabakun24",
+      "lastActive": 1768158871769
+    },
+    "59.93.5.218": {
+      "type": "series",
+      "id": "tt0412142:2:23",
+      "title": "tt0412142:2:23",
+      "username": "anonymous",
+      "lastActive": 1768158878358
     }
   }
 }
