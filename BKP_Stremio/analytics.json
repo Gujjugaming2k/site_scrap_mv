@@ -1,5 +1,5 @@
 {
-  "totalViews": 3972,
+  "totalViews": 3986,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1202,7 +1202,11 @@
     "83.187.164.130",
     "2409:40c4:30a3:b278:d63d:a3df:5796:e28e",
     "213.137.138.179",
-    "156.198.122.103"
+    "156.198.122.103",
+    "223.178.83.239",
+    "2604:3d09:d7f:1600:69a3:1611:c4cc:6aad",
+    "187.190.205.129",
+    "2409:40e2:20ae:62f0:aeb1:d136:dd16:d28e"
   ],
   "views": [
     {
@@ -32970,6 +32974,118 @@
       "timestamp": "2026-01-12T00:44:27.162Z",
       "ip": "156.198.122.103",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0425253",
+      "title": "tt0425253",
+      "timestamp": "2026-01-12T00:44:53.144Z",
+      "ip": "223.178.83.239",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt22202452:1:4",
+      "title": "tt22202452:1:4",
+      "timestamp": "2026-01-12T00:45:29.078Z",
+      "ip": "2604:3d09:d7f:1600:69a3:1611:c4cc:6aad",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10332508:1:1",
+      "title": "tt10332508:1:1",
+      "timestamp": "2026-01-12T00:45:44.888Z",
+      "ip": "37.19.211.50",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10332508:1:1",
+      "title": "tt10332508:1:1",
+      "timestamp": "2026-01-12T00:46:48.867Z",
+      "ip": "37.19.211.50",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt33424408",
+      "title": "tt33424408",
+      "timestamp": "2026-01-12T00:47:08.115Z",
+      "ip": "2a02:a451:8646:0:19d8:af9e:77ed:183d",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt33424408",
+      "title": "tt33424408",
+      "timestamp": "2026-01-12T00:47:10.377Z",
+      "ip": "2a02:a451:8646:0:19d8:af9e:77ed:183d",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt32740311",
+      "title": "tt32740311",
+      "timestamp": "2026-01-12T00:49:08.511Z",
+      "ip": "2a02:a451:8646:0:19d8:af9e:77ed:183d",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt29921437:1:6",
+      "title": "tt29921437:1:6",
+      "timestamp": "2026-01-12T00:49:29.124Z",
+      "ip": "2803:1500:c00:7afc:984e:34bc:c40:f239",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt13759970:3:13",
+      "title": "Taxi Driver",
+      "timestamp": "2026-01-12T00:50:11.409Z",
+      "ip": "187.190.205.129",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt7587890:3:8",
+      "title": "tt7587890:3:8",
+      "timestamp": "2026-01-12T00:53:41.939Z",
+      "ip": "68.12.56.118",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt31014115:1:3",
+      "title": "tt31014115:1:3",
+      "timestamp": "2026-01-12T00:54:07.265Z",
+      "ip": "154.247.47.122",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10945036:2:6",
+      "title": "tt10945036:2:6",
+      "timestamp": "2026-01-12T00:56:16.347Z",
+      "ip": "67.147.13.201",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt39133077:1:1",
+      "title": "tt39133077:1:1",
+      "timestamp": "2026-01-12T00:56:25.491Z",
+      "ip": "2409:40e2:20ae:62f0:aeb1:d136:dd16:d28e",
+      "username": "anonymously_yourss"
+    },
+    {
+      "type": "series",
+      "id": "tt0898266:6:4",
+      "title": "tt0898266:6:4",
+      "timestamp": "2026-01-12T00:59:44.776Z",
+      "ip": "2a01:799:c5c:2b00:c01b:ef07:d6a8:9027",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -33321,7 +33437,7 @@
       "id": "tt10332508:1:1",
       "title": "tt10332508:1:1",
       "username": "anonymous",
-      "lastActive": 1768178650291
+      "lastActive": 1768178808867
     },
     "165.16.242.151": {
       "type": "series",
@@ -33724,10 +33840,10 @@
     },
     "67.147.13.201": {
       "type": "series",
-      "id": "tt10945036:2:5",
-      "title": "tt10945036:2:5",
+      "id": "tt10945036:2:6",
+      "title": "tt10945036:2:6",
       "username": "anonymous",
-      "lastActive": 1768177802192
+      "lastActive": 1768179376347
     },
     "2401:4900:c0ba:3ad:a42b:9683:440d:47c7": {
       "type": "series",
@@ -33941,10 +34057,10 @@
     },
     "2803:1500:c00:7afc:984e:34bc:c40:f239": {
       "type": "series",
-      "id": "tt29921437:1:5",
-      "title": "tt29921437:1:5",
+      "id": "tt29921437:1:6",
+      "title": "tt29921437:1:6",
       "username": "anonymous",
-      "lastActive": 1768175335521
+      "lastActive": 1768178969124
     },
     "102.67.5.10": {
       "type": "series",
@@ -34249,10 +34365,10 @@
     },
     "2a02:a451:8646:0:19d8:af9e:77ed:183d": {
       "type": "movie",
-      "id": "tt30611573",
-      "title": "tt30611573",
+      "id": "tt32740311",
+      "title": "tt32740311",
       "username": "anonymous",
-      "lastActive": 1768167976337
+      "lastActive": 1768178948511
     },
     "109.224.129.101": {
       "type": "movie",
@@ -34305,10 +34421,10 @@
     },
     "154.247.47.122": {
       "type": "series",
-      "id": "tt31014115:1:1",
-      "title": "tt31014115:1:1",
+      "id": "tt31014115:1:3",
+      "title": "tt31014115:1:3",
       "username": "anonymous",
-      "lastActive": 1768174663893
+      "lastActive": 1768179247265
     },
     "72.226.49.255": {
       "type": "movie",
@@ -34480,10 +34596,10 @@
     },
     "68.12.56.118": {
       "type": "series",
-      "id": "tt7587890:3:7",
-      "title": "tt7587890:3:7",
+      "id": "tt7587890:3:8",
+      "title": "tt7587890:3:8",
       "username": "anonymous",
-      "lastActive": 1768178561266
+      "lastActive": 1768179221939
     },
     "184.145.85.211": {
       "type": "movie",
@@ -34680,6 +34796,41 @@
       "title": "tt31227572",
       "username": "anonymous",
       "lastActive": 1768178667162
+    },
+    "223.178.83.239": {
+      "type": "movie",
+      "id": "tt0425253",
+      "title": "tt0425253",
+      "username": "anonymous",
+      "lastActive": 1768178693144
+    },
+    "2604:3d09:d7f:1600:69a3:1611:c4cc:6aad": {
+      "type": "series",
+      "id": "tt22202452:1:4",
+      "title": "tt22202452:1:4",
+      "username": "anonymous",
+      "lastActive": 1768178729078
+    },
+    "187.190.205.129": {
+      "type": "series",
+      "id": "tt13759970:3:13",
+      "title": "Taxi Driver",
+      "username": "anonymous",
+      "lastActive": 1768179011409
+    },
+    "2409:40e2:20ae:62f0:aeb1:d136:dd16:d28e": {
+      "type": "series",
+      "id": "tt39133077:1:1",
+      "title": "tt39133077:1:1",
+      "username": "anonymously_yourss",
+      "lastActive": 1768179385491
+    },
+    "2a01:799:c5c:2b00:c01b:ef07:d6a8:9027": {
+      "type": "series",
+      "id": "tt0898266:6:4",
+      "title": "tt0898266:6:4",
+      "username": "anonymous",
+      "lastActive": 1768179584776
     }
   }
 }
