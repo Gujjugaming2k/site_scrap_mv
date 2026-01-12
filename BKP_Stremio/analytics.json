@@ -1,5 +1,5 @@
 {
-  "totalViews": 4562,
+  "totalViews": 4564,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -37812,6 +37812,22 @@
       "timestamp": "2026-01-12T11:32:44.604Z",
       "ip": "2a01:e0a:f9f:7d40:ad32:ac87:66d5:75af",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-12T11:35:24.198Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt38525492",
+      "title": "tt38525492",
+      "timestamp": "2026-01-12T11:35:25.428Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
     }
   ],
   "activeNow": {
@@ -37996,6 +38012,13 @@
       "title": "null",
       "username": "anonymous",
       "lastActive": 1768217341756
+    },
+    "202.173.124.127": {
+      "type": "movie",
+      "id": "tt38525492",
+      "title": "tt38525492",
+      "username": "ryuzaklo26",
+      "lastActive": 1768217725428
     }
   }
 }
