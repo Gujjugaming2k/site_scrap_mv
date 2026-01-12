@@ -1,5 +1,5 @@
 {
-  "totalViews": 5283,
+  "totalViews": 5292,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1441,7 +1441,9 @@
     "2001:ac8:23:333:751:1782:742b:b",
     "57.129.42.108",
     "2a02:6ea0:d411:3110::13",
-    "154.247.227.22"
+    "154.247.227.22",
+    "2001:861:5442:b720:d898:595f:a975:8f2e",
+    "102.212.197.129"
   ],
   "views": [
     {
@@ -43697,6 +43699,78 @@
       "timestamp": "2026-01-12T22:09:00.647Z",
       "ip": "117.196.154.55",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:1:4",
+      "title": "tt0106004:1:4",
+      "timestamp": "2026-01-12T22:10:24.108Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "timestamp": "2026-01-12T22:11:05.221Z",
+      "ip": "57.129.42.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0212671:2:1",
+      "title": "tt0212671:2:1",
+      "timestamp": "2026-01-12T22:16:32.915Z",
+      "ip": "2a06:5906:634:6d00:7032:abd:aa7a:d48b",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt21604586",
+      "title": "tt21604586",
+      "timestamp": "2026-01-12T22:20:08.618Z",
+      "ip": "2001:861:5442:b720:d898:595f:a975:8f2e",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0164885",
+      "title": "tt0164885",
+      "timestamp": "2026-01-12T22:21:23.066Z",
+      "ip": "2001:861:5442:b720:d898:595f:a975:8f2e",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "timestamp": "2026-01-12T22:22:35.309Z",
+      "ip": "57.129.42.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "timestamp": "2026-01-12T22:22:42.071Z",
+      "ip": "57.129.42.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt21604586",
+      "title": "tt21604586",
+      "timestamp": "2026-01-12T22:22:59.286Z",
+      "ip": "2001:861:5442:b720:d898:595f:a975:8f2e",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2654620:2:4",
+      "title": "tt2654620:2:4",
+      "timestamp": "2026-01-12T22:24:55.526Z",
+      "ip": "102.212.197.129",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -44150,10 +44224,10 @@
     },
     "2a06:5906:634:6d00:7032:abd:aa7a:d48b": {
       "type": "series",
-      "id": "tt0212671:1:16",
-      "title": "tt0212671:1:16",
+      "id": "tt0212671:2:1",
+      "title": "tt0212671:2:1",
       "username": "anonymous",
-      "lastActive": 1768254641458
+      "lastActive": 1768256192915
     },
     "49.36.119.3": {
       "type": "series",
@@ -44542,10 +44616,10 @@
     },
     "162.212.211.108": {
       "type": "series",
-      "id": "tt0106004:1:3",
-      "title": "tt0106004:1:3",
+      "id": "tt0106004:1:4",
+      "title": "tt0106004:1:4",
       "username": "anonymous",
-      "lastActive": 1768254454216
+      "lastActive": 1768255824108
     },
     "154.208.49.96": {
       "type": "series",
@@ -44587,7 +44661,7 @@
       "id": "tt1312221",
       "title": "Frankenstein",
       "username": "anonymous",
-      "lastActive": 1768254608005
+      "lastActive": 1768256562071
     },
     "2a02:6ea0:d411:3110::13": {
       "type": "series",
@@ -44602,6 +44676,20 @@
       "title": "tt31014115:1:1",
       "username": "anonymous",
       "lastActive": 1768255472221
+    },
+    "2001:861:5442:b720:d898:595f:a975:8f2e": {
+      "type": "movie",
+      "id": "tt21604586",
+      "title": "tt21604586",
+      "username": "anonymous",
+      "lastActive": 1768256579286
+    },
+    "102.212.197.129": {
+      "type": "series",
+      "id": "tt2654620:2:4",
+      "title": "tt2654620:2:4",
+      "username": "anonymous",
+      "lastActive": 1768256695526
     }
   }
 }
