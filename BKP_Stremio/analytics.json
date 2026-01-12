@@ -1,5 +1,5 @@
 {
-  "totalViews": 3989,
+  "totalViews": 4003,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1206,7 +1206,11 @@
     "223.178.83.239",
     "2604:3d09:d7f:1600:69a3:1611:c4cc:6aad",
     "187.190.205.129",
-    "2409:40e2:20ae:62f0:aeb1:d136:dd16:d28e"
+    "2409:40e2:20ae:62f0:aeb1:d136:dd16:d28e",
+    "2600:1001:a110:370f:7ee4:45d1:ca20:8835",
+    "49.185.118.239",
+    "2600:8800:2b03:c000:fde9:8b25:b370:9904",
+    "41.109.83.137"
   ],
   "views": [
     {
@@ -33110,6 +33114,118 @@
       "timestamp": "2026-01-12T01:11:53.912Z",
       "ip": "2601:404:0:24d0:b475:a7b0:d40e:cd6",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt4034228",
+      "title": "tt4034228",
+      "timestamp": "2026-01-12T01:20:27.808Z",
+      "ip": "102.222.235.5",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0898266:6:5",
+      "title": "tt0898266:6:5",
+      "timestamp": "2026-01-12T01:21:07.722Z",
+      "ip": "2a01:799:c5c:2b00:c01b:ef07:d6a8:9027",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1266020:2:1",
+      "title": "tt1266020:2:1",
+      "timestamp": "2026-01-12T01:21:50.200Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:1:1",
+      "title": "tt0106004:1:1",
+      "timestamp": "2026-01-12T01:23:16.906Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10945036:2:7",
+      "title": "tt10945036:2:7",
+      "timestamp": "2026-01-12T01:23:26.559Z",
+      "ip": "67.147.13.201",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt3783958",
+      "title": "La La Land",
+      "timestamp": "2026-01-12T01:23:49.911Z",
+      "ip": "2600:1001:a110:370f:7ee4:45d1:ca20:8835",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt13759970:3:14",
+      "title": "Taxi Driver",
+      "timestamp": "2026-01-12T01:24:04.706Z",
+      "ip": "187.190.205.129",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt3783958",
+      "title": "La La Land",
+      "timestamp": "2026-01-12T01:24:36.962Z",
+      "ip": "2600:1001:a110:370f:7ee4:45d1:ca20:8835",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt7587890:1:1",
+      "title": "tt7587890:1:1",
+      "timestamp": "2026-01-12T01:25:31.191Z",
+      "ip": "49.185.118.239",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0857297:1:4",
+      "title": "tt0857297:1:4",
+      "timestamp": "2026-01-12T01:25:52.709Z",
+      "ip": "2409:40c4:30a3:b278:d63d:a3df:5796:e28e",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1355642:1:56",
+      "title": "tt1355642:1:56",
+      "timestamp": "2026-01-12T01:26:47.181Z",
+      "ip": "92.189.253.133",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
+      "timestamp": "2026-01-12T01:27:11.616Z",
+      "ip": "2600:8800:2b03:c000:fde9:8b25:b370:9904",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt18259086",
+      "title": "Sonic the Hedgehog 3",
+      "timestamp": "2026-01-12T01:27:24.638Z",
+      "ip": "41.109.83.137",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10945036:2:8",
+      "title": "tt10945036:2:8",
+      "timestamp": "2026-01-12T01:28:43.615Z",
+      "ip": "67.147.13.201",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -33521,10 +33637,10 @@
     },
     "162.212.211.108": {
       "type": "series",
-      "id": "tt1266020:2:1",
-      "title": "tt1266020:2:1",
+      "id": "tt0106004:1:1",
+      "title": "tt0106004:1:1",
       "username": "anonymous",
-      "lastActive": 1768168212742
+      "lastActive": 1768180996906
     },
     "182.48.228.15": {
       "type": "movie",
@@ -33864,10 +33980,10 @@
     },
     "67.147.13.201": {
       "type": "series",
-      "id": "tt10945036:2:6",
-      "title": "tt10945036:2:6",
+      "id": "tt10945036:2:8",
+      "title": "tt10945036:2:8",
       "username": "anonymous",
-      "lastActive": 1768179376347
+      "lastActive": 1768181323615
     },
     "2401:4900:c0ba:3ad:a42b:9683:440d:47c7": {
       "type": "series",
@@ -34193,10 +34309,10 @@
     },
     "92.189.253.133": {
       "type": "series",
-      "id": "tt1355642:1:55",
-      "title": "tt1355642:1:55",
+      "id": "tt1355642:1:56",
+      "title": "tt1355642:1:56",
       "username": "anonymous",
-      "lastActive": 1768179626161
+      "lastActive": 1768181207181
     },
     "102.209.65.165": {
       "type": "movie",
@@ -34802,10 +34918,10 @@
     },
     "2409:40c4:30a3:b278:d63d:a3df:5796:e28e": {
       "type": "series",
-      "id": "tt0857297:1:3",
-      "title": "tt0857297:1:3",
+      "id": "tt0857297:1:4",
+      "title": "tt0857297:1:4",
       "username": "anonymous",
-      "lastActive": 1768179705903
+      "lastActive": 1768181152709
     },
     "213.137.138.179": {
       "type": "series",
@@ -34837,10 +34953,10 @@
     },
     "187.190.205.129": {
       "type": "series",
-      "id": "tt13759970:3:13",
+      "id": "tt13759970:3:14",
       "title": "Taxi Driver",
       "username": "anonymous",
-      "lastActive": 1768179011409
+      "lastActive": 1768181044706
     },
     "2409:40e2:20ae:62f0:aeb1:d136:dd16:d28e": {
       "type": "series",
@@ -34851,10 +34967,45 @@
     },
     "2a01:799:c5c:2b00:c01b:ef07:d6a8:9027": {
       "type": "series",
-      "id": "tt0898266:6:4",
-      "title": "tt0898266:6:4",
+      "id": "tt0898266:6:5",
+      "title": "tt0898266:6:5",
       "username": "anonymous",
-      "lastActive": 1768179584776
+      "lastActive": 1768180867722
+    },
+    "102.222.235.5": {
+      "type": "movie",
+      "id": "tt4034228",
+      "title": "tt4034228",
+      "username": "anonymous",
+      "lastActive": 1768180827808
+    },
+    "2600:1001:a110:370f:7ee4:45d1:ca20:8835": {
+      "type": "movie",
+      "id": "tt3783958",
+      "title": "La La Land",
+      "username": "anonymous",
+      "lastActive": 1768181076962
+    },
+    "49.185.118.239": {
+      "type": "series",
+      "id": "tt7587890:1:1",
+      "title": "tt7587890:1:1",
+      "username": "anonymous",
+      "lastActive": 1768181131191
+    },
+    "2600:8800:2b03:c000:fde9:8b25:b370:9904": {
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
+      "username": "anonymous",
+      "lastActive": 1768181231616
+    },
+    "41.109.83.137": {
+      "type": "movie",
+      "id": "tt18259086",
+      "title": "Sonic the Hedgehog 3",
+      "username": "anonymous",
+      "lastActive": 1768181244638
     }
   }
 }
