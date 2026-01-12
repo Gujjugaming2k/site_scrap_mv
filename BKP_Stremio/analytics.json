@@ -1,5 +1,5 @@
 {
-  "totalViews": 4585,
+  "totalViews": 4593,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1329,7 +1329,9 @@
     "2a01:e0a:fd3:b350:616f:52ea:eee0:ddd2",
     "136.158.102.214",
     "2a09:bac5:40bd:c8::14:2ba",
-    "2401:4900:8830:4542:3c5f:f1de:3cca:fdd"
+    "2401:4900:8830:4542:3c5f:f1de:3cca:fdd",
+    "181.188.179.24",
+    "2405:3800:8fe:2fe8:f4ef:85e5:202f:19ab"
   ],
   "views": [
     {
@@ -38001,6 +38003,70 @@
       "timestamp": "2026-01-12T12:06:49.307Z",
       "ip": "2401:4900:8830:4542:3c5f:f1de:3cca:fdd",
       "username": "imareallygoodlawyer"
+    },
+    {
+      "type": "movie",
+      "id": "tt1392190",
+      "title": "Mad Max: Fury Road",
+      "timestamp": "2026-01-12T12:08:54.215Z",
+      "ip": "103.46.200.249",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt36593026:1:8",
+      "title": "tt36593026:1:8",
+      "timestamp": "2026-01-12T12:08:57.832Z",
+      "ip": "2001:448a:10f0:6353:f071:1b2b:2e5a:4d3a",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4786824:1:7",
+      "title": "tt4786824:1:7",
+      "timestamp": "2026-01-12T12:10:47.789Z",
+      "ip": "2409:40e2:201d:6ab6:8000::",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0364845:16:14",
+      "title": "tt0364845:16:14",
+      "timestamp": "2026-01-12T12:14:02.572Z",
+      "ip": "103.4.222.252",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "null",
+      "title": "null",
+      "timestamp": "2026-01-12T12:16:35.949Z",
+      "ip": "85.190.233.4",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt2099739",
+      "title": "tt2099739",
+      "timestamp": "2026-01-12T12:17:29.675Z",
+      "ip": "85.190.233.4",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt14218830:5:9",
+      "title": "tt14218830:5:9",
+      "timestamp": "2026-01-12T12:18:01.100Z",
+      "ip": "181.188.179.24",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0131179:1:1028",
+      "title": "Detective Conan",
+      "timestamp": "2026-01-12T12:22:12.284Z",
+      "ip": "2405:3800:8fe:2fe8:f4ef:85e5:202f:19ab",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -38069,10 +38135,10 @@
     },
     "103.4.222.252": {
       "type": "series",
-      "id": "tt0364845:16:13",
-      "title": "tt0364845:16:13",
+      "id": "tt0364845:16:14",
+      "title": "tt0364845:16:14",
       "username": "anonymous",
-      "lastActive": 1768214087207
+      "lastActive": 1768220042572
     },
     "156.155.25.87": {
       "type": "series",
@@ -38160,10 +38226,10 @@
     },
     "2001:448a:10f0:6353:f071:1b2b:2e5a:4d3a": {
       "type": "series",
-      "id": "tt36593026:1:7",
-      "title": "tt36593026:1:7",
+      "id": "tt36593026:1:8",
+      "title": "tt36593026:1:8",
       "username": "anonymous",
-      "lastActive": 1768218278626
+      "lastActive": 1768219737832
     },
     "2401:4900:1cb1:36b:55fd:dd36:47a5:ab71": {
       "type": "movie",
@@ -38181,10 +38247,10 @@
     },
     "85.190.233.4": {
       "type": "movie",
-      "id": "tt0384359",
-      "title": "tt0384359",
+      "id": "tt2099739",
+      "title": "tt2099739",
       "username": "anonymous",
-      "lastActive": 1768219509888
+      "lastActive": 1768220249675
     },
     "202.173.124.127": {
       "type": "movie",
@@ -38234,6 +38300,34 @@
       "title": "Ted",
       "username": "imareallygoodlawyer",
       "lastActive": 1768219609307
+    },
+    "103.46.200.249": {
+      "type": "movie",
+      "id": "tt1392190",
+      "title": "Mad Max: Fury Road",
+      "username": "brosportses",
+      "lastActive": 1768219734215
+    },
+    "2409:40e2:201d:6ab6:8000::": {
+      "type": "series",
+      "id": "tt4786824:1:7",
+      "title": "tt4786824:1:7",
+      "username": "anonymous",
+      "lastActive": 1768219847789
+    },
+    "181.188.179.24": {
+      "type": "series",
+      "id": "tt14218830:5:9",
+      "title": "tt14218830:5:9",
+      "username": "anonymous",
+      "lastActive": 1768220281100
+    },
+    "2405:3800:8fe:2fe8:f4ef:85e5:202f:19ab": {
+      "type": "series",
+      "id": "tt0131179:1:1028",
+      "title": "Detective Conan",
+      "username": "anonymous",
+      "lastActive": 1768220532284
     }
   }
 }
