@@ -1,5 +1,5 @@
 {
-  "totalViews": 5081,
+  "totalViews": 5103,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1415,7 +1415,10 @@
     "2a02:810d:6005:9700:cc6c:46bc:a3fd:ae",
     "157.48.225.62",
     "2001:448a:7066:2c63:19a7:9623:ba73:8015",
-    "176.161.35.167"
+    "176.161.35.167",
+    "159.26.115.38",
+    "2409:40e4:10bf:9e3d:24f0:bac2:fb1f:98ee",
+    "2409:4090:f0a4:420a:d085:bff1:e54c:c344"
   ],
   "views": [
     {
@@ -42055,15 +42058,191 @@
       "timestamp": "2026-01-12T18:16:03.864Z",
       "ip": "176.161.35.167",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-01-12T18:21:31.091Z",
+      "ip": "81.161.88.96",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:1",
+      "title": "tt0903747:1:1",
+      "timestamp": "2026-01-12T18:22:18.895Z",
+      "ip": "103.249.4.146",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:2",
+      "title": "tt0903747:1:2",
+      "timestamp": "2026-01-12T18:22:49.315Z",
+      "ip": "103.249.4.146",
+      "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-01-12T18:24:50.545Z",
+      "ip": "103.181.65.97",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:1:2",
+      "title": "tt28102595:1:2",
+      "timestamp": "2026-01-12T18:25:05.246Z",
+      "ip": "159.26.115.38",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt0259141:1:3",
+      "title": "tt0259141:1:3",
+      "timestamp": "2026-01-12T18:25:14.646Z",
+      "ip": "176.161.35.167",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt21272942",
+      "title": "tt21272942",
+      "timestamp": "2026-01-12T18:25:18.198Z",
+      "ip": "103.181.65.97",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:1:2",
+      "title": "tt28102595:1:2",
+      "timestamp": "2026-01-12T18:25:38.372Z",
+      "ip": "159.26.115.38",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-12T18:25:41.991Z",
+      "ip": "103.181.65.97",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-01-12T18:26:04.377Z",
+      "ip": "103.181.65.97",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:1:3",
+      "title": "tt28102595:1:3",
+      "timestamp": "2026-01-12T18:26:07.035Z",
+      "ip": "159.26.115.38",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt37495011",
+      "title": "tt37495011",
+      "timestamp": "2026-01-12T18:26:36.801Z",
+      "ip": "103.181.65.97",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:2:1",
+      "title": "tt28102595:2:1",
+      "timestamp": "2026-01-12T18:26:58.310Z",
+      "ip": "103.181.65.97",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:1:5",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-12T18:27:00.898Z",
+      "ip": "2409:40e4:10bf:9e3d:24f0:bac2:fb1f:98ee",
+      "username": "kumarom5294"
+    },
+    {
+      "type": "movie",
+      "id": "tt2283362",
+      "title": "Jumanji: Welcome to the Jungle",
+      "timestamp": "2026-01-12T18:28:07.498Z",
+      "ip": "2409:40e4:10bf:9e3d:24f0:bac2:fb1f:98ee",
+      "username": "kumarom5294"
+    },
+    {
+      "type": "movie",
+      "id": "tt31495504",
+      "title": "tt31495504",
+      "timestamp": "2026-01-12T18:28:52.260Z",
+      "ip": "49.37.9.253",
+      "username": "lazerkey"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-01-12T18:29:27.514Z",
+      "ip": "2409:4090:f0a4:420a:d085:bff1:e54c:c344",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-01-12T18:30:17.488Z",
+      "ip": "49.37.9.253",
+      "username": "lazerkey"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-01-12T18:30:57.579Z",
+      "ip": "2409:4090:f0a4:420a:d085:bff1:e54c:c344",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-12T18:31:46.599Z",
+      "ip": "49.37.9.253",
+      "username": "lazerkey"
+    },
+    {
+      "type": "series",
+      "id": "tt0212671:1:8",
+      "title": "tt0212671:1:8",
+      "timestamp": "2026-01-12T18:31:58.147Z",
+      "ip": "2a06:5906:634:6d00:7032:abd:aa7a:d48b",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:2",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-12T18:32:14.375Z",
+      "ip": "49.37.9.253",
+      "username": "lazerkey"
     }
   ],
   "activeNow": {
     "103.249.4.146": {
-      "type": "movie",
-      "id": "tt12908150",
-      "title": "The Life of Chuck",
-      "username": "anonymous",
-      "lastActive": 1768226245772
+      "type": "series",
+      "id": "tt0903747:1:2",
+      "title": "tt0903747:1:2",
+      "username": "tgh2r",
+      "lastActive": 1768242169315
     },
     "103.46.200.249": {
       "type": "movie",
@@ -42318,11 +42497,11 @@
       "lastActive": 1768239054297
     },
     "49.37.9.253": {
-      "type": "movie",
-      "id": "tt2625810",
-      "title": "tt2625810",
+      "type": "series",
+      "id": "tt0944947:1:2",
+      "title": "Game of Thrones",
       "username": "lazerkey",
-      "lastActive": 1768231790835
+      "lastActive": 1768242734375
     },
     "2409:40f0:40d0:a977:40de:5cf5:192f:71e6": {
       "type": "series",
@@ -42508,10 +42687,10 @@
     },
     "2a06:5906:634:6d00:7032:abd:aa7a:d48b": {
       "type": "series",
-      "id": "tt0212671:1:7",
-      "title": "tt0212671:1:7",
+      "id": "tt0212671:1:8",
+      "title": "tt0212671:1:8",
       "username": "anonymous",
-      "lastActive": 1768241357449
+      "lastActive": 1768242718147
     },
     "49.36.119.3": {
       "type": "series",
@@ -42585,10 +42764,10 @@
     },
     "103.181.65.97": {
       "type": "series",
-      "id": "tt29764006:1:6",
-      "title": "tt29764006:1:6",
+      "id": "tt28102595:2:1",
+      "title": "tt28102595:2:1",
       "username": "anonymous",
-      "lastActive": 1768237306588
+      "lastActive": 1768242418310
     },
     "2400:1a00:6b2c:4047:69f3:1a5c:d7a4:d859": {
       "type": "movie",
@@ -42704,10 +42883,38 @@
     },
     "176.161.35.167": {
       "type": "series",
-      "id": "tt0259141:1:2",
-      "title": "tt0259141:1:2",
+      "id": "tt0259141:1:3",
+      "title": "tt0259141:1:3",
       "username": "anonymous",
-      "lastActive": 1768241763864
+      "lastActive": 1768242314646
+    },
+    "81.161.88.96": {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "username": "anonymous",
+      "lastActive": 1768242091091
+    },
+    "159.26.115.38": {
+      "type": "series",
+      "id": "tt28102595:1:3",
+      "title": "tt28102595:1:3",
+      "username": "golu_vk",
+      "lastActive": 1768242367035
+    },
+    "2409:40e4:10bf:9e3d:24f0:bac2:fb1f:98ee": {
+      "type": "movie",
+      "id": "tt2283362",
+      "title": "Jumanji: Welcome to the Jungle",
+      "username": "kumarom5294",
+      "lastActive": 1768242487498
+    },
+    "2409:4090:f0a4:420a:d085:bff1:e54c:c344": {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "username": "anonymous",
+      "lastActive": 1768242657579
     }
   }
 }
