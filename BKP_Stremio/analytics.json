@@ -1,5 +1,5 @@
 {
-  "totalViews": 5252,
+  "totalViews": 5258,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1434,7 +1434,8 @@
     "2a0c:5a83:9101:e700:e0e1:6d6c:c1f4:e3c4",
     "205.147.22.25",
     "102.100.126.79",
-    "102.78.35.86"
+    "102.78.35.86",
+    "109.77.125.41"
   ],
   "views": [
     {
@@ -43442,6 +43443,54 @@
       "timestamp": "2026-01-12T20:48:06.649Z",
       "ip": "2a06:5906:634:6d00:7032:abd:aa7a:d48b",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "timestamp": "2026-01-12T20:53:52.541Z",
+      "ip": "102.78.35.86",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-01-12T20:53:52.602Z",
+      "ip": "109.77.125.41",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:1:10",
+      "title": "tt31812476:1:10",
+      "timestamp": "2026-01-12T20:54:25.869Z",
+      "ip": "109.77.125.41",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt2309295:3:8",
+      "title": "tt2309295:3:8",
+      "timestamp": "2026-01-12T21:00:01.559Z",
+      "ip": "2a06:c701:475e:b100:7b99:76b6:5944:89af",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:1:1",
+      "title": "tt0106004:1:1",
+      "timestamp": "2026-01-12T21:02:19.494Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt5574490:4:12",
+      "title": "tt5574490:4:12",
+      "timestamp": "2026-01-12T21:07:57.822Z",
+      "ip": "154.208.49.96",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -44269,7 +44318,35 @@
       "id": "tt1312221",
       "title": "Frankenstein",
       "username": "anonymous",
-      "lastActive": 1768250731082
+      "lastActive": 1768251232541
+    },
+    "109.77.125.41": {
+      "type": "series",
+      "id": "tt31812476:1:10",
+      "title": "tt31812476:1:10",
+      "username": "vflix1993",
+      "lastActive": 1768251265869
+    },
+    "2a06:c701:475e:b100:7b99:76b6:5944:89af": {
+      "type": "series",
+      "id": "tt2309295:3:8",
+      "title": "tt2309295:3:8",
+      "username": "anonymous",
+      "lastActive": 1768251601559
+    },
+    "162.212.211.108": {
+      "type": "series",
+      "id": "tt0106004:1:1",
+      "title": "tt0106004:1:1",
+      "username": "anonymous",
+      "lastActive": 1768251739494
+    },
+    "154.208.49.96": {
+      "type": "series",
+      "id": "tt5574490:4:12",
+      "title": "tt5574490:4:12",
+      "username": "anonymous",
+      "lastActive": 1768252077822
     }
   }
 }
