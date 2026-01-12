@@ -1,5 +1,5 @@
 {
-  "totalViews": 5067,
+  "totalViews": 5081,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1411,7 +1411,11 @@
     "31.94.62.17",
     "104.234.53.225",
     "2409:40c1:31ca:efae:8000::",
-    "63.135.161.68"
+    "63.135.161.68",
+    "2a02:810d:6005:9700:cc6c:46bc:a3fd:ae",
+    "157.48.225.62",
+    "2001:448a:7066:2c63:19a7:9623:ba73:8015",
+    "176.161.35.167"
   ],
   "views": [
     {
@@ -41939,6 +41943,118 @@
       "timestamp": "2026-01-12T18:01:46.110Z",
       "ip": "2a01:e0a:f9f:7d40:f65c:f4ed:ceb9:f9dd",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:3:10",
+      "title": "tt0412142:3:10",
+      "timestamp": "2026-01-12T18:02:06.170Z",
+      "ip": "117.196.154.55",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "timestamp": "2026-01-12T18:06:32.070Z",
+      "ip": "125.166.8.206",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt15026724:1:12",
+      "title": "tt15026724:1:12",
+      "timestamp": "2026-01-12T18:06:56.842Z",
+      "ip": "82.66.125.144",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt15026724:1:12",
+      "title": "tt15026724:1:12",
+      "timestamp": "2026-01-12T18:07:06.889Z",
+      "ip": "82.66.125.144",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt37062070:1:5",
+      "title": "tt37062070:1:5",
+      "timestamp": "2026-01-12T18:07:16.366Z",
+      "ip": "49.36.119.3",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt0212671:1:7",
+      "title": "tt0212671:1:7",
+      "timestamp": "2026-01-12T18:09:17.449Z",
+      "ip": "2a06:5906:634:6d00:7032:abd:aa7a:d48b",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt13911284:2:2",
+      "title": "tt13911284:2:2",
+      "timestamp": "2026-01-12T18:11:03.736Z",
+      "ip": "31.94.62.17",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:3",
+      "title": "tt1399664:2:3",
+      "timestamp": "2026-01-12T18:11:47.714Z",
+      "ip": "59.152.80.69",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0108757:4:1",
+      "title": "tt0108757:4:1",
+      "timestamp": "2026-01-12T18:12:02.957Z",
+      "ip": "2a02:810d:6005:9700:cc6c:46bc:a3fd:ae",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:1:1",
+      "title": "tt28102595:1:1",
+      "timestamp": "2026-01-12T18:13:10.200Z",
+      "ip": "157.48.225.62",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:1:2",
+      "title": "tt28102595:1:2",
+      "timestamp": "2026-01-12T18:13:36.528Z",
+      "ip": "157.48.225.62",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt31314751:1:1",
+      "title": "tt31314751:1:1",
+      "timestamp": "2026-01-12T18:13:39.307Z",
+      "ip": "125.166.8.206",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1796960:2:3",
+      "title": "tt1796960:2:3",
+      "timestamp": "2026-01-12T18:15:15.877Z",
+      "ip": "2001:448a:7066:2c63:19a7:9623:ba73:8015",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0259141:1:2",
+      "title": "tt0259141:1:2",
+      "timestamp": "2026-01-12T18:16:03.864Z",
+      "ip": "176.161.35.167",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -42028,10 +42144,10 @@
     },
     "117.196.154.55": {
       "type": "series",
-      "id": "tt0412142:3:9",
-      "title": "tt0412142:3:9",
+      "id": "tt0412142:3:10",
+      "title": "tt0412142:3:10",
       "username": "anonymous",
-      "lastActive": 1768238301937
+      "lastActive": 1768240926170
     },
     "2001:448a:10f0:6353:f071:1b2b:2e5a:4d3a": {
       "type": "series",
@@ -42259,10 +42375,10 @@
     },
     "59.152.80.69": {
       "type": "series",
-      "id": "tt1399664:2:2",
-      "title": "tt1399664:2:2",
+      "id": "tt1399664:2:3",
+      "title": "tt1399664:2:3",
       "username": "anonymous",
-      "lastActive": 1768237486720
+      "lastActive": 1768241507714
     },
     "2402:3a80:15b1:17a6:ada9:8784:170b:1cba": {
       "type": "movie",
@@ -42392,17 +42508,17 @@
     },
     "2a06:5906:634:6d00:7032:abd:aa7a:d48b": {
       "type": "series",
-      "id": "tt0212671:1:6",
-      "title": "tt0212671:1:6",
+      "id": "tt0212671:1:7",
+      "title": "tt0212671:1:7",
       "username": "anonymous",
-      "lastActive": 1768239997502
+      "lastActive": 1768241357449
     },
     "49.36.119.3": {
       "type": "series",
-      "id": "tt37062070:1:4",
-      "title": "tt37062070:1:4",
+      "id": "tt37062070:1:5",
+      "title": "tt37062070:1:5",
       "username": "pingmenoone",
-      "lastActive": 1768237729052
+      "lastActive": 1768241236366
     },
     "2405:201:c01d:e86d:9845:8ed4:194a:a0b3": {
       "type": "movie",
@@ -42518,10 +42634,10 @@
     },
     "31.94.62.17": {
       "type": "series",
-      "id": "tt13911284:2:1",
-      "title": "tt13911284:2:1",
+      "id": "tt13911284:2:2",
+      "title": "tt13911284:2:2",
       "username": "anonymous",
-      "lastActive": 1768239537178
+      "lastActive": 1768241463736
     },
     "104.234.53.225": {
       "type": "movie",
@@ -42553,10 +42669,45 @@
     },
     "125.166.8.206": {
       "type": "series",
-      "id": "tt6794990:1:1",
-      "title": "tt6794990:1:1",
+      "id": "tt31314751:1:1",
+      "title": "tt31314751:1:1",
       "username": "anonymous",
-      "lastActive": 1768240758684
+      "lastActive": 1768241619307
+    },
+    "82.66.125.144": {
+      "type": "series",
+      "id": "tt15026724:1:12",
+      "title": "tt15026724:1:12",
+      "username": "anonymous",
+      "lastActive": 1768241226889
+    },
+    "2a02:810d:6005:9700:cc6c:46bc:a3fd:ae": {
+      "type": "series",
+      "id": "tt0108757:4:1",
+      "title": "tt0108757:4:1",
+      "username": "anonymous",
+      "lastActive": 1768241522957
+    },
+    "157.48.225.62": {
+      "type": "series",
+      "id": "tt28102595:1:2",
+      "title": "tt28102595:1:2",
+      "username": "golu_vk",
+      "lastActive": 1768241616528
+    },
+    "2001:448a:7066:2c63:19a7:9623:ba73:8015": {
+      "type": "series",
+      "id": "tt1796960:2:3",
+      "title": "tt1796960:2:3",
+      "username": "anonymous",
+      "lastActive": 1768241715877
+    },
+    "176.161.35.167": {
+      "type": "series",
+      "id": "tt0259141:1:2",
+      "title": "tt0259141:1:2",
+      "username": "anonymous",
+      "lastActive": 1768241763864
     }
   }
 }
