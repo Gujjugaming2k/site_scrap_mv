@@ -1,5 +1,5 @@
 {
-  "totalViews": 5160,
+  "totalViews": 5173,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1424,7 +1424,9 @@
     "2409:40e4:10bf:9e3d:88b8:84c7:32b0:e256",
     "112.79.215.242",
     "2401:4900:1d4b:4db4:1415:94ff:fe56:17d6",
-    "2405:201:300c:213:1ef4:3fff:fe0f:1b78"
+    "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
+    "2402:3a80:164c:6641:3b8f:cf68:bf05:ec46",
+    "2409:40c4:11e2:4cda:ee5d:80f0:4e8f:7a95"
   ],
   "views": [
     {
@@ -42696,6 +42698,110 @@
       "timestamp": "2026-01-12T19:17:27.908Z",
       "ip": "2a06:5906:634:6d00:7032:abd:aa7a:d48b",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt5290382:1:1",
+      "title": "tt5290382:1:1",
+      "timestamp": "2026-01-12T19:24:23.661Z",
+      "ip": "2402:3a80:164c:6641:3b8f:cf68:bf05:ec46",
+      "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt5290382:1:2",
+      "title": "tt5290382:1:2",
+      "timestamp": "2026-01-12T19:24:23.781Z",
+      "ip": "2402:3a80:164c:6641:3b8f:cf68:bf05:ec46",
+      "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt5290382:1:1",
+      "title": "tt5290382:1:1",
+      "timestamp": "2026-01-12T19:25:04.416Z",
+      "ip": "2402:3a80:164c:6641:3b8f:cf68:bf05:ec46",
+      "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:2",
+      "title": "tt0903747:1:2",
+      "timestamp": "2026-01-12T19:27:23.135Z",
+      "ip": "103.249.4.146",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:1",
+      "title": "tt0903747:1:1",
+      "timestamp": "2026-01-12T19:27:24.378Z",
+      "ip": "103.249.4.146",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:2",
+      "title": "tt0903747:1:2",
+      "timestamp": "2026-01-12T19:27:28.527Z",
+      "ip": "103.249.4.146",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt37062070:1:6",
+      "title": "tt37062070:1:6",
+      "timestamp": "2026-01-12T19:27:41.198Z",
+      "ip": "49.36.119.3",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:3:12",
+      "title": "tt0412142:3:12",
+      "timestamp": "2026-01-12T19:32:48.175Z",
+      "ip": "117.196.154.55",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:1:2",
+      "title": "tt28102595:1:2",
+      "timestamp": "2026-01-12T19:33:28.566Z",
+      "ip": "2409:40d4:100d:ef9d:585b:a9ff:fec9:ccb3",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:1:2",
+      "title": "tt28102595:1:2",
+      "timestamp": "2026-01-12T19:34:06.768Z",
+      "ip": "2409:40d4:100d:ef9d:585b:a9ff:fec9:ccb3",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:1:3",
+      "title": "tt28102595:1:3",
+      "timestamp": "2026-01-12T19:35:11.406Z",
+      "ip": "2409:40d4:100d:ef9d:585b:a9ff:fec9:ccb3",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt10676052",
+      "title": "The Fantastic 4: First Steps",
+      "timestamp": "2026-01-12T19:37:11.828Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt0857297:1:8",
+      "title": "tt0857297:1:8",
+      "timestamp": "2026-01-12T19:37:25.296Z",
+      "ip": "2409:40c4:11e2:4cda:ee5d:80f0:4e8f:7a95",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -42704,7 +42810,7 @@
       "id": "tt0903747:1:2",
       "title": "tt0903747:1:2",
       "username": "tgh2r",
-      "lastActive": 1768242169315
+      "lastActive": 1768246048527
     },
     "103.46.200.249": {
       "type": "movie",
@@ -42777,18 +42883,18 @@
       "lastActive": 1768226595812
     },
     "38.134.138.246": {
-      "type": "series",
-      "id": "tt33035373:1:1",
-      "title": "tt33035373:1:1",
+      "type": "movie",
+      "id": "tt10676052",
+      "title": "The Fantastic 4: First Steps",
       "username": "thala_75",
-      "lastActive": 1768243873306
+      "lastActive": 1768246631828
     },
     "117.196.154.55": {
       "type": "series",
-      "id": "tt0412142:3:11",
-      "title": "tt0412142:3:11",
+      "id": "tt0412142:3:12",
+      "title": "tt0412142:3:12",
       "username": "anonymous",
-      "lastActive": 1768243467429
+      "lastActive": 1768246368175
     },
     "2001:448a:10f0:6353:f071:1b2b:2e5a:4d3a": {
       "type": "series",
@@ -43121,10 +43227,10 @@
     },
     "2409:40d4:100d:ef9d:585b:a9ff:fec9:ccb3": {
       "type": "series",
-      "id": "tt28102595:1:2",
-      "title": "tt28102595:1:2",
+      "id": "tt28102595:1:3",
+      "title": "tt28102595:1:3",
       "username": "golu_vk",
-      "lastActive": 1768234748584
+      "lastActive": 1768246511406
     },
     "2404:bd00:3:d165:e0db:7268:9d60:74b8": {
       "type": "series",
@@ -43159,7 +43265,7 @@
       "id": "tt37062070:1:6",
       "title": "tt37062070:1:6",
       "username": "pingmenoone",
-      "lastActive": 1768243457802
+      "lastActive": 1768246061198
     },
     "2405:201:c01d:e86d:9845:8ed4:194a:a0b3": {
       "type": "movie",
@@ -43440,6 +43546,20 @@
       "title": "tt35727678",
       "username": "thebatmanbyte",
       "lastActive": 1768245051040
+    },
+    "2402:3a80:164c:6641:3b8f:cf68:bf05:ec46": {
+      "type": "series",
+      "id": "tt5290382:1:1",
+      "title": "tt5290382:1:1",
+      "username": "insnaee99",
+      "lastActive": 1768245904416
+    },
+    "2409:40c4:11e2:4cda:ee5d:80f0:4e8f:7a95": {
+      "type": "series",
+      "id": "tt0857297:1:8",
+      "title": "tt0857297:1:8",
+      "username": "anonymous",
+      "lastActive": 1768246645296
     }
   }
 }
