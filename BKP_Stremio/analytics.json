@@ -1,5 +1,5 @@
 {
-  "totalViews": 4465,
+  "totalViews": 4475,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1307,7 +1307,8 @@
     "2409:40e4:10bc:4140:88b8:84c7:32b0:e256",
     "2409:40e4:204b:504c:88b6:6eff:febd:9025",
     "2409:40d4:100d:ef9d:585b:a9ff:fec9:ccb3",
-    "2409:40c1:103b:6929:f092:69ff:fea8:d6d1"
+    "2409:40c1:103b:6929:f092:69ff:fea8:d6d1",
+    "154.18.196.101"
   ],
   "views": [
     {
@@ -37019,6 +37020,86 @@
       "timestamp": "2026-01-12T09:45:18.522Z",
       "ip": "2409:40c1:103b:6929:f092:69ff:fea8:d6d1",
       "username": "iampkreddy"
+    },
+    {
+      "type": "series",
+      "id": "tt4786824:1:6",
+      "title": "tt4786824:1:6",
+      "timestamp": "2026-01-12T09:48:02.818Z",
+      "ip": "2409:40e2:201d:6ab6:8000::",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2359704:3:38",
+      "title": "tt2359704:3:38",
+      "timestamp": "2026-01-12T09:54:21.587Z",
+      "ip": "223.185.20.33",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "timestamp": "2026-01-12T09:55:27.251Z",
+      "ip": "2409:40e6:21c:4a11:fcfa:48ff:fe22:7125",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-12T09:55:43.184Z",
+      "ip": "2409:40e6:21c:4a11:fcfa:48ff:fe22:7125",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-12T09:56:04.636Z",
+      "ip": "2409:40e6:21c:4a11:fcfa:48ff:fe22:7125",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt2359704:3:39",
+      "title": "tt2359704:3:39",
+      "timestamp": "2026-01-12T09:56:20.188Z",
+      "ip": "223.185.20.33",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt4063800:5:5",
+      "title": "tt4063800:5:5",
+      "timestamp": "2026-01-12T09:56:42.430Z",
+      "ip": "2a01:e0a:f9f:7d40:ad32:ac87:66d5:75af",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:1:1",
+      "title": "Fallout",
+      "timestamp": "2026-01-12T09:56:47.263Z",
+      "ip": "154.18.196.101",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt32820897",
+      "title": "tt32820897",
+      "timestamp": "2026-01-12T09:57:22.092Z",
+      "ip": "223.185.20.33",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "timestamp": "2026-01-12T09:59:33.458Z",
+      "ip": "223.185.20.33",
+      "username": "sinbad1722"
     }
   ],
   "activeNow": {
@@ -37360,10 +37441,10 @@
     },
     "2a01:e0a:f9f:7d40:ad32:ac87:66d5:75af": {
       "type": "series",
-      "id": "tt4063800:5:4",
-      "title": "tt4063800:5:4",
+      "id": "tt4063800:5:5",
+      "title": "tt4063800:5:5",
       "username": "anonymous",
-      "lastActive": 1768208777915
+      "lastActive": 1768211802430
     },
     "37.19.211.50": {
       "type": "series",
@@ -37961,11 +38042,11 @@
       "lastActive": 1768158734689
     },
     "2409:40e6:21c:4a11:fcfa:48ff:fe22:7125": {
-      "type": "series",
-      "id": "tt12637874:1:8",
-      "title": "Fallout",
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
       "username": "nabakun24",
-      "lastActive": 1768198649059
+      "lastActive": 1768211764636
     },
     "59.93.5.218": {
       "type": "series",
@@ -39172,11 +39253,11 @@
       "lastActive": 1768193780742
     },
     "223.185.20.33": {
-      "type": "series",
-      "id": "tt2359704:3:38",
-      "title": "tt2359704:3:38",
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
       "username": "sinbad1722",
-      "lastActive": 1768208618522
+      "lastActive": 1768211973458
     },
     "115.98.233.139": {
       "type": "series",
@@ -39365,7 +39446,7 @@
       "id": "tt4786824:1:6",
       "title": "tt4786824:1:6",
       "username": "anonymous",
-      "lastActive": 1768204406391
+      "lastActive": 1768211282818
     },
     "2409:40d2:3019:2d6d:52f6:7ed0:d61:b6b0": {
       "type": "movie",
@@ -39555,6 +39636,13 @@
       "title": "tt26443597",
       "username": "iampkreddy",
       "lastActive": 1768211118522
+    },
+    "154.18.196.101": {
+      "type": "series",
+      "id": "tt12637874:1:1",
+      "title": "Fallout",
+      "username": "anonymous",
+      "lastActive": 1768211807263
     }
   }
 }
