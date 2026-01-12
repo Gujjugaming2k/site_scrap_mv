@@ -1,5 +1,5 @@
 {
-  "totalViews": 4024,
+  "totalViews": 4034,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1215,7 +1215,8 @@
     "2600:1700:40d0:34a0:9537:d619:8bee:b826",
     "2601:84:837f:efdc:4861:c90b:788f:4ed9",
     "79.140.115.229",
-    "2401:4900:c21c:baf:286f:19ff:fe3a:551d"
+    "2401:4900:c21c:baf:286f:19ff:fe3a:551d",
+    "2401:4900:8ff3:4120:7099:3ffe:15d0:4635"
   ],
   "views": [
     {
@@ -33399,6 +33400,86 @@
       "timestamp": "2026-01-12T01:59:55.055Z",
       "ip": "2409:40c4:30a3:b278:d63d:a3df:5796:e28e",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0898266:6:7",
+      "title": "tt0898266:6:7",
+      "timestamp": "2026-01-12T02:04:11.816Z",
+      "ip": "2a01:799:c5c:2b00:c01b:ef07:d6a8:9027",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:1:3",
+      "title": "tt0106004:1:3",
+      "timestamp": "2026-01-12T02:05:56.569Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt13759970:3:15",
+      "title": "Taxi Driver",
+      "timestamp": "2026-01-12T02:10:14.538Z",
+      "ip": "187.190.205.129",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:2",
+      "title": "tt33035373:1:2",
+      "timestamp": "2026-01-12T02:12:13.921Z",
+      "ip": "2600:8800:2b03:c000:fde9:8b25:b370:9904",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt31014115:1:5",
+      "title": "tt31014115:1:5",
+      "timestamp": "2026-01-12T02:13:26.401Z",
+      "ip": "154.247.47.122",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-12T02:13:35.019Z",
+      "ip": "2401:4900:8ff3:4120:7099:3ffe:15d0:4635",
+      "username": "reaper54x"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-12T02:14:27.154Z",
+      "ip": "2401:4900:8ff3:4120:7099:3ffe:15d0:4635",
+      "username": "reaper54x"
+    },
+    {
+      "type": "movie",
+      "id": "tt37671707",
+      "title": "tt37671707",
+      "timestamp": "2026-01-12T02:15:08.119Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-12T02:15:45.203Z",
+      "ip": "2401:4900:8ff3:4120:7099:3ffe:15d0:4635",
+      "username": "reaper54x"
+    },
+    {
+      "type": "movie",
+      "id": "tt35727678",
+      "title": "tt35727678",
+      "timestamp": "2026-01-12T02:16:13.242Z",
+      "ip": "2401:4900:8ff3:4120:7099:3ffe:15d0:4635",
+      "username": "reaper54x"
     }
   ],
   "activeNow": {
@@ -33666,7 +33747,7 @@
       "id": "tt37671707",
       "title": "tt37671707",
       "username": "william097",
-      "lastActive": 1768150984416
+      "lastActive": 1768184108119
     },
     "125.166.8.206": {
       "type": "movie",
@@ -33810,10 +33891,10 @@
     },
     "162.212.211.108": {
       "type": "series",
-      "id": "tt0106004:1:2",
-      "title": "tt0106004:1:2",
+      "id": "tt0106004:1:3",
+      "title": "tt0106004:1:3",
       "username": "anonymous",
-      "lastActive": 1768182175241
+      "lastActive": 1768183556569
     },
     "182.48.228.15": {
       "type": "movie",
@@ -34734,10 +34815,10 @@
     },
     "154.247.47.122": {
       "type": "series",
-      "id": "tt31014115:1:4",
-      "title": "tt31014115:1:4",
+      "id": "tt31014115:1:5",
+      "title": "tt31014115:1:5",
       "username": "anonymous",
-      "lastActive": 1768181560366
+      "lastActive": 1768184006401
     },
     "72.226.49.255": {
       "type": "movie",
@@ -35126,10 +35207,10 @@
     },
     "187.190.205.129": {
       "type": "series",
-      "id": "tt13759970:3:14",
+      "id": "tt13759970:3:15",
       "title": "Taxi Driver",
       "username": "anonymous",
-      "lastActive": 1768181044706
+      "lastActive": 1768183814538
     },
     "2409:40e2:20ae:62f0:aeb1:d136:dd16:d28e": {
       "type": "series",
@@ -35140,10 +35221,10 @@
     },
     "2a01:799:c5c:2b00:c01b:ef07:d6a8:9027": {
       "type": "series",
-      "id": "tt0898266:6:6",
-      "title": "tt0898266:6:6",
+      "id": "tt0898266:6:7",
+      "title": "tt0898266:6:7",
       "username": "anonymous",
-      "lastActive": 1768182158600
+      "lastActive": 1768183451816
     },
     "102.222.235.5": {
       "type": "movie",
@@ -35168,10 +35249,10 @@
     },
     "2600:8800:2b03:c000:fde9:8b25:b370:9904": {
       "type": "series",
-      "id": "tt33035373:1:1",
-      "title": "tt33035373:1:1",
+      "id": "tt33035373:1:2",
+      "title": "tt33035373:1:2",
       "username": "anonymous",
-      "lastActive": 1768182614130
+      "lastActive": 1768183933921
     },
     "41.109.83.137": {
       "type": "movie",
@@ -35228,6 +35309,13 @@
       "title": "Sinners",
       "username": "anonymous",
       "lastActive": 1768183159016
+    },
+    "2401:4900:8ff3:4120:7099:3ffe:15d0:4635": {
+      "type": "movie",
+      "id": "tt35727678",
+      "title": "tt35727678",
+      "username": "reaper54x",
+      "lastActive": 1768184173242
     }
   }
 }
