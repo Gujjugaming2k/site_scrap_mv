@@ -1,5 +1,5 @@
 {
-  "totalViews": 4197,
+  "totalViews": 4214,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1247,7 +1247,10 @@
     "74.244.163.206",
     "81.161.88.96",
     "2401:4900:92cd:6c71:192b:f4b0:1dc6:ebd9",
-    "172.68.234.25,206.53.3.179"
+    "172.68.234.25,206.53.3.179",
+    "2601:642:4e83:e070:5713:100a:c6b8:14cd",
+    "2409:40c1:3105:343d:94fd:a7ff:fecb:251a",
+    "103.4.221.252"
   ],
   "views": [
     {
@@ -34815,6 +34818,142 @@
       "timestamp": "2026-01-12T04:20:48.713Z",
       "ip": "2600:8800:2b03:c000:fde9:8b25:b370:9904",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:1:9",
+      "title": "tt0106004:1:9",
+      "timestamp": "2026-01-12T04:23:43.436Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0898266:6:10",
+      "title": "tt0898266:6:10",
+      "timestamp": "2026-01-12T04:24:26.218Z",
+      "ip": "2a01:799:c5c:2b00:c01b:ef07:d6a8:9027",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0114568",
+      "title": "tt0114568",
+      "timestamp": "2026-01-12T04:25:04.759Z",
+      "ip": "162.247.55.241",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10332508:3:1",
+      "title": "tt10332508:3:1",
+      "timestamp": "2026-01-12T04:25:32.267Z",
+      "ip": "179.51.120.98",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1693110",
+      "title": "tt1693110",
+      "timestamp": "2026-01-12T04:26:19.966Z",
+      "ip": "162.247.55.241",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt14986406:2:12",
+      "title": "tt14986406:2:12",
+      "timestamp": "2026-01-12T04:26:25.319Z",
+      "ip": "2601:642:4e83:e070:5713:100a:c6b8:14cd",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt32612521:1:1",
+      "title": "tt32612521:1:1",
+      "timestamp": "2026-01-12T04:26:38.645Z",
+      "ip": "2409:40c1:3105:343d:94fd:a7ff:fecb:251a",
+      "username": "tips9694"
+    },
+    {
+      "type": "movie",
+      "id": "tt2229632",
+      "title": "tt2229632",
+      "timestamp": "2026-01-12T04:27:00.004Z",
+      "ip": "162.247.55.241",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt32612521:1:1",
+      "title": "tt32612521:1:1",
+      "timestamp": "2026-01-12T04:27:07.615Z",
+      "ip": "2409:40c1:3105:343d:94fd:a7ff:fecb:251a",
+      "username": "tips9694"
+    },
+    {
+      "type": "series",
+      "id": "tt10332508:3:2",
+      "title": "tt10332508:3:2",
+      "timestamp": "2026-01-12T04:28:56.351Z",
+      "ip": "179.51.120.98",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1124373:1:6",
+      "title": "tt1124373:1:6",
+      "timestamp": "2026-01-12T04:29:04.060Z",
+      "ip": "164.5.252.30",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10332508:3:1",
+      "title": "tt10332508:3:1",
+      "timestamp": "2026-01-12T04:30:05.752Z",
+      "ip": "179.51.120.98",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0121955:20:6",
+      "title": "tt0121955:20:6",
+      "timestamp": "2026-01-12T04:31:43.561Z",
+      "ip": "217.216.107.226",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt9252156:2:6",
+      "title": "tt9252156:2:6",
+      "timestamp": "2026-01-12T04:36:51.602Z",
+      "ip": "190.213.152.188",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt9252156:3:1",
+      "title": "tt9252156:3:1",
+      "timestamp": "2026-01-12T04:36:58.597Z",
+      "ip": "190.213.152.188",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt14138650",
+      "title": "The Pale Blue Eye",
+      "timestamp": "2026-01-12T04:37:03.205Z",
+      "ip": "2607:fea8:9322:6400:f4d7:47f3:a34b:f906",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0364845:16:11",
+      "title": "tt0364845:16:11",
+      "timestamp": "2026-01-12T04:37:13.821Z",
+      "ip": "103.4.221.252",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -35226,10 +35365,10 @@
     },
     "162.212.211.108": {
       "type": "series",
-      "id": "tt0106004:1:8",
-      "title": "tt0106004:1:8",
+      "id": "tt0106004:1:9",
+      "title": "tt0106004:1:9",
       "username": "anonymous",
-      "lastActive": 1768190440035
+      "lastActive": 1768191823436
     },
     "182.48.228.15": {
       "type": "movie",
@@ -36261,11 +36400,11 @@
       "lastActive": 1768169140026
     },
     "190.213.152.188": {
-      "type": "movie",
-      "id": "tt2126355",
-      "title": "San Andreas",
+      "type": "series",
+      "id": "tt9252156:3:1",
+      "title": "tt9252156:3:1",
       "username": "anonymous",
-      "lastActive": 1768169157530
+      "lastActive": 1768192618597
     },
     "142.161.60.120": {
       "type": "movie",
@@ -36556,10 +36695,10 @@
     },
     "2a01:799:c5c:2b00:c01b:ef07:d6a8:9027": {
       "type": "series",
-      "id": "tt0898266:6:9",
-      "title": "tt0898266:6:9",
+      "id": "tt0898266:6:10",
+      "title": "tt0898266:6:10",
       "username": "anonymous",
-      "lastActive": 1768190962552
+      "lastActive": 1768191866218
     },
     "102.222.235.5": {
       "type": "movie",
@@ -36654,10 +36793,10 @@
     },
     "162.247.55.241": {
       "type": "movie",
-      "id": "tt0120231",
-      "title": "tt0120231",
+      "id": "tt2229632",
+      "title": "tt2229632",
       "username": "anonymous",
-      "lastActive": 1768191465141
+      "lastActive": 1768192020004
     },
     "76.67.46.156": {
       "type": "series",
@@ -36675,10 +36814,10 @@
     },
     "2607:fea8:9322:6400:f4d7:47f3:a34b:f906": {
       "type": "movie",
-      "id": "tt10638522",
-      "title": "Talk to Me",
+      "id": "tt14138650",
+      "title": "The Pale Blue Eye",
       "username": "anonymous",
-      "lastActive": 1768187053031
+      "lastActive": 1768192623205
     },
     "209.227.153.132": {
       "type": "series",
@@ -36815,24 +36954,24 @@
     },
     "217.216.107.226": {
       "type": "series",
-      "id": "tt0121955:20:5",
-      "title": "tt0121955:20:5",
+      "id": "tt0121955:20:6",
+      "title": "tt0121955:20:6",
       "username": "anonymous",
-      "lastActive": 1768190956910
+      "lastActive": 1768192303561
     },
     "164.5.252.30": {
       "type": "series",
-      "id": "tt1124373:1:4",
-      "title": "tt1124373:1:4",
+      "id": "tt1124373:1:6",
+      "title": "tt1124373:1:6",
       "username": "anonymous",
-      "lastActive": 1768189607253
+      "lastActive": 1768192144060
     },
     "179.51.120.98": {
       "type": "series",
-      "id": "tt10332508:3:2",
-      "title": "tt10332508:3:2",
+      "id": "tt10332508:3:1",
+      "title": "tt10332508:3:1",
       "username": "anonymous",
-      "lastActive": 1768189824263
+      "lastActive": 1768192205752
     },
     "2605:59c0:12b3:4408:d358:6bc2:7d61:d6f8": {
       "type": "series",
@@ -36896,6 +37035,27 @@
       "title": "tt26660021",
       "username": "anonymous",
       "lastActive": 1768191625134
+    },
+    "2601:642:4e83:e070:5713:100a:c6b8:14cd": {
+      "type": "series",
+      "id": "tt14986406:2:12",
+      "title": "tt14986406:2:12",
+      "username": "anonymous",
+      "lastActive": 1768191985319
+    },
+    "2409:40c1:3105:343d:94fd:a7ff:fecb:251a": {
+      "type": "series",
+      "id": "tt32612521:1:1",
+      "title": "tt32612521:1:1",
+      "username": "tips9694",
+      "lastActive": 1768192027615
+    },
+    "103.4.221.252": {
+      "type": "series",
+      "id": "tt0364845:16:11",
+      "title": "tt0364845:16:11",
+      "username": "anonymous",
+      "lastActive": 1768192633821
     }
   }
 }
