@@ -1,5 +1,5 @@
 {
-  "totalViews": 3936,
+  "totalViews": 3949,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1194,7 +1194,10 @@
     "154.47.7.100",
     "105.235.131.227",
     "154.255.27.33",
-    "5.192.182.187"
+    "5.192.182.187",
+    "41.100.43.254",
+    "186.44.135.43",
+    "196.225.129.230"
   ],
   "views": [
     {
@@ -32674,6 +32677,110 @@
       "timestamp": "2026-01-11T23:53:34.560Z",
       "ip": "47.154.178.5",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12848402:1:5",
+      "title": "tt12848402:1:5",
+      "timestamp": "2026-01-11T23:59:22.872Z",
+      "ip": "41.100.43.254",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
+      "timestamp": "2026-01-11T23:59:54.698Z",
+      "ip": "2806:2f0:75a0:e291:9855:8ec8:6cd7:4d06",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12848402:1:5",
+      "title": "tt12848402:1:5",
+      "timestamp": "2026-01-12T00:03:01.050Z",
+      "ip": "41.100.43.254",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10945036:2:4",
+      "title": "tt10945036:2:4",
+      "timestamp": "2026-01-12T00:04:42.019Z",
+      "ip": "67.147.13.201",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt4411596",
+      "title": "My Cousin Rachel",
+      "timestamp": "2026-01-12T00:05:29.490Z",
+      "ip": "72.255.11.154",
+      "username": "hvre2"
+    },
+    {
+      "type": "series",
+      "id": "tt4063800:5:3",
+      "title": "tt4063800:5:3",
+      "timestamp": "2026-01-12T00:05:43.647Z",
+      "ip": "2a01:e0a:f9f:7d40:ad32:ac87:66d5:75af",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0141842:2:4",
+      "title": "The Sopranos",
+      "timestamp": "2026-01-12T00:05:52.114Z",
+      "ip": "2605:59c0:2893:2b10:749c:c4ff:fe67:c059",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2147999:1:9",
+      "title": "tt2147999:1:9",
+      "timestamp": "2026-01-12T00:06:22.894Z",
+      "ip": "166.48.63.250",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1355642:1:53",
+      "title": "tt1355642:1:53",
+      "timestamp": "2026-01-12T00:08:45.705Z",
+      "ip": "92.189.253.133",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:3:1",
+      "title": "tt3032476:3:1",
+      "timestamp": "2026-01-12T00:08:56.781Z",
+      "ip": "109.76.171.65",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt0386676:9:17",
+      "title": "tt0386676:9:17",
+      "timestamp": "2026-01-12T00:09:04.769Z",
+      "ip": "103.251.27.32",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt31173732:1:28",
+      "title": "tt31173732:1:28",
+      "timestamp": "2026-01-12T00:10:32.593Z",
+      "ip": "186.44.135.43",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt9529740",
+      "title": "tt9529740",
+      "timestamp": "2026-01-12T00:11:31.781Z",
+      "ip": "196.225.129.230",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -33015,10 +33122,10 @@
     },
     "2a01:e0a:f9f:7d40:ad32:ac87:66d5:75af": {
       "type": "series",
-      "id": "tt4063800:5:2",
-      "title": "tt4063800:5:2",
+      "id": "tt4063800:5:3",
+      "title": "tt4063800:5:3",
       "username": "anonymous",
-      "lastActive": 1768173521106
+      "lastActive": 1768176343647
     },
     "37.19.211.50": {
       "type": "movie",
@@ -33428,10 +33535,10 @@
     },
     "67.147.13.201": {
       "type": "series",
-      "id": "tt10945036:2:3",
-      "title": "tt10945036:2:3",
+      "id": "tt10945036:2:4",
+      "title": "tt10945036:2:4",
       "username": "anonymous",
-      "lastActive": 1768174796043
+      "lastActive": 1768176282019
     },
     "2401:4900:c0ba:3ad:a42b:9683:440d:47c7": {
       "type": "series",
@@ -33456,10 +33563,10 @@
     },
     "109.76.171.65": {
       "type": "series",
-      "id": "tt3032476:2:9",
-      "title": "tt3032476:2:9",
+      "id": "tt3032476:3:1",
+      "title": "tt3032476:3:1",
       "username": "vflix1993",
-      "lastActive": 1768172780529
+      "lastActive": 1768176536781
     },
     "94.205.218.176": {
       "type": "movie",
@@ -33757,10 +33864,10 @@
     },
     "92.189.253.133": {
       "type": "series",
-      "id": "tt1355642:1:52",
-      "title": "tt1355642:1:52",
+      "id": "tt1355642:1:53",
+      "title": "tt1355642:1:53",
       "username": "anonymous",
-      "lastActive": 1768175299693
+      "lastActive": 1768176525705
     },
     "102.209.65.165": {
       "type": "movie",
@@ -33785,10 +33892,10 @@
     },
     "2605:59c0:2893:2b10:749c:c4ff:fe67:c059": {
       "type": "series",
-      "id": "tt0141842:2:3",
+      "id": "tt0141842:2:4",
       "title": "The Sopranos",
       "username": "anonymous",
-      "lastActive": 1768173313876
+      "lastActive": 1768176352114
     },
     "2001:4bb8:2c2:9e34:b755:847c:c9f6:1fc8": {
       "type": "series",
@@ -33932,10 +34039,10 @@
     },
     "166.48.63.250": {
       "type": "series",
-      "id": "tt2147999:1:8",
-      "title": "tt2147999:1:8",
+      "id": "tt2147999:1:9",
+      "title": "tt2147999:1:9",
       "username": "anonymous",
-      "lastActive": 1768175407111
+      "lastActive": 1768176382894
     },
     "90.16.237.126": {
       "type": "movie",
@@ -34169,11 +34276,11 @@
       "lastActive": 1768171109473
     },
     "2806:2f0:75a0:e291:9855:8ec8:6cd7:4d06": {
-      "type": "movie",
-      "id": "tt16311594",
-      "title": "F1",
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
       "username": "anonymous",
-      "lastActive": 1768174917992
+      "lastActive": 1768175994698
     },
     "82.66.125.144": {
       "type": "series",
@@ -34212,10 +34319,10 @@
     },
     "103.251.27.32": {
       "type": "series",
-      "id": "tt0386676:9:16",
-      "title": "tt0386676:9:16",
+      "id": "tt0386676:9:17",
+      "title": "tt0386676:9:17",
       "username": "anonymous",
-      "lastActive": 1768174106966
+      "lastActive": 1768176544769
     },
     "165.16.48.206": {
       "type": "movie",
@@ -34321,6 +34428,34 @@
       "title": "Harry Potter and the Prisoner of Azkaban",
       "username": "anonymous",
       "lastActive": 1768175614560
+    },
+    "41.100.43.254": {
+      "type": "series",
+      "id": "tt12848402:1:5",
+      "title": "tt12848402:1:5",
+      "username": "anonymous",
+      "lastActive": 1768176181050
+    },
+    "72.255.11.154": {
+      "type": "movie",
+      "id": "tt4411596",
+      "title": "My Cousin Rachel",
+      "username": "hvre2",
+      "lastActive": 1768176329490
+    },
+    "186.44.135.43": {
+      "type": "series",
+      "id": "tt31173732:1:28",
+      "title": "tt31173732:1:28",
+      "username": "anonymous",
+      "lastActive": 1768176632593
+    },
+    "196.225.129.230": {
+      "type": "movie",
+      "id": "tt9529740",
+      "title": "tt9529740",
+      "username": "anonymous",
+      "lastActive": 1768176691781
     }
   }
 }
