@@ -1,5 +1,5 @@
 {
-  "totalViews": 4564,
+  "totalViews": 4573,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1324,7 +1324,9 @@
     "41.96.112.98",
     "2401:4900:8fdf:1b2e:7320:8494:d6f0:806f",
     "2401:4900:1cb1:36b:55fd:dd36:47a5:ab71",
-    "85.190.233.4"
+    "85.190.233.4",
+    "2401:4900:8838:8908:b381:dbd:9554:960",
+    "2a01:e0a:fd3:b350:616f:52ea:eee0:ddd2"
   ],
   "views": [
     {
@@ -37828,6 +37830,78 @@
       "timestamp": "2026-01-12T11:35:25.428Z",
       "ip": "202.173.124.127",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt34276058",
+      "title": "The Family Plan 2",
+      "timestamp": "2026-01-12T11:41:33.387Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:1:54",
+      "title": "tt0388629:1:54",
+      "timestamp": "2026-01-12T11:42:20.139Z",
+      "ip": "2401:4900:8838:8908:b381:dbd:9554:960",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt16116726",
+      "title": "tt16116726",
+      "timestamp": "2026-01-12T11:42:40.938Z",
+      "ip": "2a01:e0a:fd3:b350:616f:52ea:eee0:ddd2",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:1:54",
+      "title": "tt0388629:1:54",
+      "timestamp": "2026-01-12T11:43:17.901Z",
+      "ip": "2401:4900:8838:8908:b381:dbd:9554:960",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt36593026:1:7",
+      "title": "tt36593026:1:7",
+      "timestamp": "2026-01-12T11:44:38.626Z",
+      "ip": "2001:448a:10f0:6353:f071:1b2b:2e5a:4d3a",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:1:5",
+      "title": "Fallout",
+      "timestamp": "2026-01-12T11:46:07.202Z",
+      "ip": "2409:40e4:204b:504c:88b6:6eff:febd:9025",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt1119644:1:5",
+      "title": "tt1119644:1:5",
+      "timestamp": "2026-01-12T11:49:01.186Z",
+      "ip": "2001:8003:d86a:f500:47b:80c5:dc5e:54b3",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt15128068",
+      "title": "tt15128068",
+      "timestamp": "2026-01-12T11:49:40.398Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt9307686:1:1",
+      "title": "tt9307686:1:1",
+      "timestamp": "2026-01-12T11:50:50.282Z",
+      "ip": "223.185.20.33",
+      "username": "sinbad1722"
     }
   ],
   "activeNow": {
@@ -37847,10 +37921,10 @@
     },
     "2409:40e4:204b:504c:88b6:6eff:febd:9025": {
       "type": "series",
-      "id": "tt12637874:1:6",
+      "id": "tt12637874:1:5",
       "title": "Fallout",
       "username": "cyberboy12321",
-      "lastActive": 1768213748001
+      "lastActive": 1768218367202
     },
     "2401:4900:88c7:7e8b:5092:3ad8:953e:b7a7": {
       "type": "series",
@@ -37938,10 +38012,10 @@
     },
     "2001:8003:d86a:f500:47b:80c5:dc5e:54b3": {
       "type": "series",
-      "id": "tt1119644:1:4",
-      "title": "tt1119644:1:4",
+      "id": "tt1119644:1:5",
+      "title": "tt1119644:1:5",
       "username": "anonymous",
-      "lastActive": 1768215523771
+      "lastActive": 1768218541186
     },
     "165.99.90.17": {
       "type": "series",
@@ -37987,10 +38061,10 @@
     },
     "2001:448a:10f0:6353:f071:1b2b:2e5a:4d3a": {
       "type": "series",
-      "id": "tt36593026:1:6",
-      "title": "tt36593026:1:6",
+      "id": "tt36593026:1:7",
+      "title": "tt36593026:1:7",
       "username": "anonymous",
-      "lastActive": 1768216885994
+      "lastActive": 1768218278626
     },
     "2401:4900:1cb1:36b:55fd:dd36:47a5:ab71": {
       "type": "movie",
@@ -38015,10 +38089,31 @@
     },
     "202.173.124.127": {
       "type": "movie",
-      "id": "tt38525492",
-      "title": "tt38525492",
+      "id": "tt15128068",
+      "title": "tt15128068",
       "username": "ryuzaklo26",
-      "lastActive": 1768217725428
+      "lastActive": 1768218580398
+    },
+    "2401:4900:8838:8908:b381:dbd:9554:960": {
+      "type": "series",
+      "id": "tt0388629:1:54",
+      "title": "tt0388629:1:54",
+      "username": "anonymous",
+      "lastActive": 1768218197901
+    },
+    "2a01:e0a:fd3:b350:616f:52ea:eee0:ddd2": {
+      "type": "movie",
+      "id": "tt16116726",
+      "title": "tt16116726",
+      "username": "anonymous",
+      "lastActive": 1768218160938
+    },
+    "223.185.20.33": {
+      "type": "series",
+      "id": "tt9307686:1:1",
+      "title": "tt9307686:1:1",
+      "username": "sinbad1722",
+      "lastActive": 1768218650282
     }
   }
 }
