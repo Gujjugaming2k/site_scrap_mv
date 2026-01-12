@@ -1,5 +1,5 @@
 {
-  "totalViews": 4828,
+  "totalViews": 4841,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1369,7 +1369,9 @@
     "2601:4b:4702:4060:98e1:a778:2b4d:4447",
     "2401:4900:b0b7:ec1a:bc33:aeff:fea5:b599",
     "205.254.185.14",
-    "2402:3a80:403e:f469:60f8:4365:63ab:47fc"
+    "2402:3a80:403e:f469:60f8:4365:63ab:47fc",
+    "122.176.1.222",
+    "2409:40f0:40d0:a977:40de:5cf5:192f:71e6"
   ],
   "views": [
     {
@@ -39985,6 +39987,110 @@
       "timestamp": "2026-01-12T14:53:55.104Z",
       "ip": "38.134.138.246",
       "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:2:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-12T14:56:55.872Z",
+      "ip": "122.176.1.222",
+      "username": "user_9b"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-12T14:58:26.948Z",
+      "ip": "59.178.65.207",
+      "username": "wikramsingh4268"
+    },
+    {
+      "type": "movie",
+      "id": "tt0209144",
+      "title": "Memento",
+      "timestamp": "2026-01-12T14:59:16.669Z",
+      "ip": "103.212.145.162",
+      "username": "suprememayank"
+    },
+    {
+      "type": "movie",
+      "id": "tt0209144",
+      "title": "Memento",
+      "timestamp": "2026-01-12T14:59:16.708Z",
+      "ip": "103.212.145.162",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0209144",
+      "title": "Memento",
+      "timestamp": "2026-01-12T15:00:29.865Z",
+      "ip": "103.212.145.162",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0209144",
+      "title": "Memento",
+      "timestamp": "2026-01-12T15:00:29.914Z",
+      "ip": "103.212.145.162",
+      "username": "suprememayank"
+    },
+    {
+      "type": "movie",
+      "id": "tt14850054",
+      "title": "tt14850054",
+      "timestamp": "2026-01-12T15:01:24.252Z",
+      "ip": "197.237.65.55",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt12300742",
+      "title": "Bugonia",
+      "timestamp": "2026-01-12T15:05:14.790Z",
+      "ip": "122.176.1.222",
+      "username": "user_9b"
+    },
+    {
+      "type": "series",
+      "id": "tt0343314:1:5",
+      "title": "tt0343314:1:5",
+      "timestamp": "2026-01-12T15:05:27.443Z",
+      "ip": "2a02:6ea0:d213:5491::15",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0209144",
+      "title": "Memento",
+      "timestamp": "2026-01-12T15:07:57.531Z",
+      "ip": "103.212.145.162",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
+      "timestamp": "2026-01-12T15:09:01.710Z",
+      "ip": "103.212.145.162",
+      "username": "suprememayank"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-12T15:09:40.885Z",
+      "ip": "49.37.9.253",
+      "username": "lazerkey"
+    },
+    {
+      "type": "series",
+      "id": "tt15381716:1:1",
+      "title": "tt15381716:1:1",
+      "timestamp": "2026-01-12T15:10:09.816Z",
+      "ip": "2409:40f0:40d0:a977:40de:5cf5:192f:71e6",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -40018,10 +40124,10 @@
     },
     "59.178.65.207": {
       "type": "movie",
-      "id": "tt10799690",
-      "title": "tt10799690",
+      "id": "tt31227572",
+      "title": "tt31227572",
       "username": "wikramsingh4268",
-      "lastActive": 1768227843578
+      "lastActive": 1768229906948
     },
     "154.18.196.106": {
       "type": "series",
@@ -40171,11 +40277,11 @@
       "lastActive": 1768228999368
     },
     "103.212.145.162": {
-      "type": "movie",
-      "id": "tt0209144",
-      "title": "Memento",
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
       "username": "suprememayank",
-      "lastActive": 1768229051588
+      "lastActive": 1768230541710
     },
     "203.192.255.46": {
       "type": "series",
@@ -40214,10 +40320,10 @@
     },
     "2a02:6ea0:d213:5491::15": {
       "type": "series",
-      "id": "tt0343314:1:4",
-      "title": "tt0343314:1:4",
+      "id": "tt0343314:1:5",
+      "title": "tt0343314:1:5",
       "username": "anonymous",
-      "lastActive": 1768229418931
+      "lastActive": 1768230327443
     },
     "205.254.185.14": {
       "type": "movie",
@@ -40232,6 +40338,34 @@
       "title": "tt13911284:2:1",
       "username": "anonymous",
       "lastActive": 1768229472791
+    },
+    "122.176.1.222": {
+      "type": "movie",
+      "id": "tt12300742",
+      "title": "Bugonia",
+      "username": "user_9b",
+      "lastActive": 1768230314790
+    },
+    "197.237.65.55": {
+      "type": "movie",
+      "id": "tt14850054",
+      "title": "tt14850054",
+      "username": "anonymous",
+      "lastActive": 1768230084252
+    },
+    "49.37.9.253": {
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
+      "username": "lazerkey",
+      "lastActive": 1768230580885
+    },
+    "2409:40f0:40d0:a977:40de:5cf5:192f:71e6": {
+      "type": "series",
+      "id": "tt15381716:1:1",
+      "title": "tt15381716:1:1",
+      "username": "anonymous",
+      "lastActive": 1768230609816
     }
   }
 }
