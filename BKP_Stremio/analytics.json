@@ -1,5 +1,5 @@
 {
-  "totalViews": 5311,
+  "totalViews": 5315,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1446,7 +1446,8 @@
     "102.212.197.129",
     "154.251.231.96",
     "105.107.120.206",
-    "2409:40c4:11e2:4cda:da05:a0f1:8068:606f"
+    "2409:40c4:11e2:4cda:da05:a0f1:8068:606f",
+    "2a01:e0a:e2d:1e0:d37e:7c82:21e6:86e1"
   ],
   "views": [
     {
@@ -43926,6 +43927,38 @@
       "timestamp": "2026-01-12T22:58:36.480Z",
       "ip": "105.107.120.206",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:1:7",
+      "title": "tt0106004:1:7",
+      "timestamp": "2026-01-12T23:19:10.321Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt13443470:1:1",
+      "title": "Wednesday",
+      "timestamp": "2026-01-12T23:25:12.479Z",
+      "ip": "2a01:e0a:e2d:1e0:d37e:7c82:21e6:86e1",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-01-12T23:26:39.682Z",
+      "ip": "2a01:e0a:e2d:1e0:d37e:7c82:21e6:86e1",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:1:5",
+      "title": "tt0369179:1:5",
+      "timestamp": "2026-01-12T23:28:58.428Z",
+      "ip": "105.107.120.206",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -44771,10 +44804,10 @@
     },
     "162.212.211.108": {
       "type": "series",
-      "id": "tt0106004:1:6",
-      "title": "tt0106004:1:6",
+      "id": "tt0106004:1:7",
+      "title": "tt0106004:1:7",
       "username": "anonymous",
-      "lastActive": 1768258577439
+      "lastActive": 1768259950321
     },
     "154.208.49.96": {
       "type": "series",
@@ -44855,10 +44888,10 @@
     },
     "105.107.120.206": {
       "type": "series",
-      "id": "tt0369179:1:4",
-      "title": "tt0369179:1:4",
+      "id": "tt0369179:1:5",
+      "title": "tt0369179:1:5",
       "username": "anonymous",
-      "lastActive": 1768258716480
+      "lastActive": 1768260538428
     },
     "2409:40c4:11e2:4cda:da05:a0f1:8068:606f": {
       "type": "movie",
@@ -44866,6 +44899,13 @@
       "title": "Memento",
       "username": "anonymous",
       "lastActive": 1768258072366
+    },
+    "2a01:e0a:e2d:1e0:d37e:7c82:21e6:86e1": {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "username": "anonymous",
+      "lastActive": 1768260399682
     }
   }
 }
