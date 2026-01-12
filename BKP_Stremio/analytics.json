@@ -1,5 +1,5 @@
 {
-  "totalViews": 3957,
+  "totalViews": 3972,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1198,7 +1198,11 @@
     "41.100.43.254",
     "186.44.135.43",
     "196.225.129.230",
-    "154.243.181.97"
+    "154.243.181.97",
+    "83.187.164.130",
+    "2409:40c4:30a3:b278:d63d:a3df:5796:e28e",
+    "213.137.138.179",
+    "156.198.122.103"
   ],
   "views": [
     {
@@ -32846,6 +32850,126 @@
       "timestamp": "2026-01-12T00:27:27.804Z",
       "ip": "154.47.7.100",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10945036:2:5",
+      "title": "tt10945036:2:5",
+      "timestamp": "2026-01-12T00:30:02.192Z",
+      "ip": "67.147.13.201",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0773262:2:1",
+      "title": "tt0773262:2:1",
+      "timestamp": "2026-01-12T00:30:38.531Z",
+      "ip": "176.170.93.160",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0386676:9:18",
+      "title": "tt0386676:9:18",
+      "timestamp": "2026-01-12T00:35:03.211Z",
+      "ip": "103.251.27.32",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0141842:2:4",
+      "title": "The Sopranos",
+      "timestamp": "2026-01-12T00:35:06.418Z",
+      "ip": "2605:59c0:2893:2b10:749c:c4ff:fe67:c059",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1355642:1:54",
+      "title": "tt1355642:1:54",
+      "timestamp": "2026-01-12T00:35:37.212Z",
+      "ip": "92.189.253.133",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt4500922",
+      "title": "Maze Runner: The Death Cure",
+      "timestamp": "2026-01-12T00:36:35.662Z",
+      "ip": "83.187.164.130",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt4500922",
+      "title": "Maze Runner: The Death Cure",
+      "timestamp": "2026-01-12T00:39:22.902Z",
+      "ip": "83.187.164.130",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt4500922",
+      "title": "Maze Runner: The Death Cure",
+      "timestamp": "2026-01-12T00:40:15.427Z",
+      "ip": "83.187.164.130",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0857297:1:1",
+      "title": "tt0857297:1:1",
+      "timestamp": "2026-01-12T00:40:38.784Z",
+      "ip": "2409:40c4:30a3:b278:d63d:a3df:5796:e28e",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1355642:1:53",
+      "title": "tt1355642:1:53",
+      "timestamp": "2026-01-12T00:40:52.125Z",
+      "ip": "92.189.253.133",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0857297:1:2",
+      "title": "tt0857297:1:2",
+      "timestamp": "2026-01-12T00:42:08.723Z",
+      "ip": "2409:40c4:30a3:b278:d63d:a3df:5796:e28e",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt7587890:3:7",
+      "title": "tt7587890:3:7",
+      "timestamp": "2026-01-12T00:42:41.266Z",
+      "ip": "68.12.56.118",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt29712397:1:2",
+      "title": "tt29712397:1:2",
+      "timestamp": "2026-01-12T00:43:23.450Z",
+      "ip": "213.137.138.179",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10332508:1:1",
+      "title": "tt10332508:1:1",
+      "timestamp": "2026-01-12T00:44:10.291Z",
+      "ip": "37.19.211.50",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-12T00:44:27.162Z",
+      "ip": "156.198.122.103",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -33193,11 +33317,11 @@
       "lastActive": 1768176343647
     },
     "37.19.211.50": {
-      "type": "movie",
-      "id": "tt30274401",
-      "title": "tt30274401",
+      "type": "series",
+      "id": "tt10332508:1:1",
+      "title": "tt10332508:1:1",
       "username": "anonymous",
-      "lastActive": 1768162605486
+      "lastActive": 1768178650291
     },
     "165.16.242.151": {
       "type": "series",
@@ -33425,10 +33549,10 @@
     },
     "176.170.93.160": {
       "type": "series",
-      "id": "tt0773262:1:12",
-      "title": "tt0773262:1:12",
+      "id": "tt0773262:2:1",
+      "title": "tt0773262:2:1",
       "username": "anonymous",
-      "lastActive": 1768174578473
+      "lastActive": 1768177838531
     },
     "103.113.2.88": {
       "type": "series",
@@ -33600,10 +33724,10 @@
     },
     "67.147.13.201": {
       "type": "series",
-      "id": "tt10945036:2:4",
-      "title": "tt10945036:2:4",
+      "id": "tt10945036:2:5",
+      "title": "tt10945036:2:5",
       "username": "anonymous",
-      "lastActive": 1768176282019
+      "lastActive": 1768177802192
     },
     "2401:4900:c0ba:3ad:a42b:9683:440d:47c7": {
       "type": "series",
@@ -33932,7 +34056,7 @@
       "id": "tt1355642:1:53",
       "title": "tt1355642:1:53",
       "username": "anonymous",
-      "lastActive": 1768176525705
+      "lastActive": 1768178452125
     },
     "102.209.65.165": {
       "type": "movie",
@@ -33960,7 +34084,7 @@
       "id": "tt0141842:2:4",
       "title": "The Sopranos",
       "username": "anonymous",
-      "lastActive": 1768176352114
+      "lastActive": 1768178106418
     },
     "2001:4bb8:2c2:9e34:b755:847c:c9f6:1fc8": {
       "type": "series",
@@ -34356,10 +34480,10 @@
     },
     "68.12.56.118": {
       "type": "series",
-      "id": "tt7587890:3:6",
-      "title": "tt7587890:3:6",
+      "id": "tt7587890:3:7",
+      "title": "tt7587890:3:7",
       "username": "anonymous",
-      "lastActive": 1768170216881
+      "lastActive": 1768178561266
     },
     "184.145.85.211": {
       "type": "movie",
@@ -34384,10 +34508,10 @@
     },
     "103.251.27.32": {
       "type": "series",
-      "id": "tt0386676:9:17",
-      "title": "tt0386676:9:17",
+      "id": "tt0386676:9:18",
+      "title": "tt0386676:9:18",
       "username": "anonymous",
-      "lastActive": 1768176544769
+      "lastActive": 1768178103211
     },
     "165.16.48.206": {
       "type": "movie",
@@ -34528,6 +34652,34 @@
       "title": "tt2861424:8:10",
       "username": "anonymous",
       "lastActive": 1768177110828
+    },
+    "83.187.164.130": {
+      "type": "movie",
+      "id": "tt4500922",
+      "title": "Maze Runner: The Death Cure",
+      "username": "anonymous",
+      "lastActive": 1768178415427
+    },
+    "2409:40c4:30a3:b278:d63d:a3df:5796:e28e": {
+      "type": "series",
+      "id": "tt0857297:1:2",
+      "title": "tt0857297:1:2",
+      "username": "anonymous",
+      "lastActive": 1768178528723
+    },
+    "213.137.138.179": {
+      "type": "series",
+      "id": "tt29712397:1:2",
+      "title": "tt29712397:1:2",
+      "username": "anonymous",
+      "lastActive": 1768178603450
+    },
+    "156.198.122.103": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "anonymous",
+      "lastActive": 1768178667162
     }
   }
 }
