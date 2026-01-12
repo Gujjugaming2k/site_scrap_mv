@@ -1,5 +1,5 @@
 {
-  "totalViews": 5189,
+  "totalViews": 5204,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1427,7 +1427,9 @@
     "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
     "2402:3a80:164c:6641:3b8f:cf68:bf05:ec46",
     "2409:40c4:11e2:4cda:ee5d:80f0:4e8f:7a95",
-    "152.59.146.60"
+    "152.59.146.60",
+    "1.38.141.57",
+    "2402:3a80:164c:6641:9a9b:e5cd:b2c5:1766"
   ],
   "views": [
     {
@@ -42931,6 +42933,126 @@
       "timestamp": "2026-01-12T19:52:26.306Z",
       "ip": "2409:40c4:11e2:4cda:ee5d:80f0:4e8f:7a95",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt23846482",
+      "title": "tt23846482",
+      "timestamp": "2026-01-12T19:55:06.796Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt5290382:1:1",
+      "title": "tt5290382:1:1",
+      "timestamp": "2026-01-12T19:55:16.897Z",
+      "ip": "1.38.141.57",
+      "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt5290382:1:2",
+      "title": "tt5290382:1:2",
+      "timestamp": "2026-01-12T19:55:16.945Z",
+      "ip": "1.38.141.57",
+      "username": "insnaee99"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-12T19:55:22.367Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt5290382:1:2",
+      "title": "tt5290382:1:2",
+      "timestamp": "2026-01-12T19:56:27.151Z",
+      "ip": "2402:3a80:164c:6641:9a9b:e5cd:b2c5:1766",
+      "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt5290382:1:2",
+      "title": "tt5290382:1:2",
+      "timestamp": "2026-01-12T19:56:27.208Z",
+      "ip": "2402:3a80:164c:6641:9a9b:e5cd:b2c5:1766",
+      "username": "insnaee99"
+    },
+    {
+      "type": "movie",
+      "id": "tt23846482",
+      "title": "tt23846482",
+      "timestamp": "2026-01-12T19:59:22.053Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt2661044:7:5",
+      "title": "tt2661044:7:5",
+      "timestamp": "2026-01-12T20:00:33.617Z",
+      "ip": "2a02:8428:ad10:ae01:4900:1f26:8887:1845",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt23558124",
+      "title": "tt23558124",
+      "timestamp": "2026-01-12T20:02:19.825Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt23846482",
+      "title": "tt23846482",
+      "timestamp": "2026-01-12T20:02:32.760Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt0212671:1:12",
+      "title": "tt0212671:1:12",
+      "timestamp": "2026-01-12T20:02:50.984Z",
+      "ip": "2a06:5906:634:6d00:7032:abd:aa7a:d48b",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt10676052",
+      "title": "The Fantastic 4: First Steps",
+      "timestamp": "2026-01-12T20:03:13.561Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt16428256",
+      "title": "Suzume",
+      "timestamp": "2026-01-12T20:04:39.142Z",
+      "ip": "102.176.75.173",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt9603208",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "timestamp": "2026-01-12T20:04:53.070Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt36388163",
+      "title": "tt36388163",
+      "timestamp": "2026-01-12T20:07:01.838Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
     }
   ],
   "activeNow": {
@@ -43013,10 +43135,10 @@
     },
     "38.134.138.246": {
       "type": "movie",
-      "id": "tt23846482",
-      "title": "tt23846482",
+      "id": "tt36388163",
+      "title": "tt36388163",
       "username": "thala_75",
-      "lastActive": 1768247216272
+      "lastActive": 1768248421838
     },
     "117.196.154.55": {
       "type": "series",
@@ -43272,10 +43394,10 @@
     },
     "102.176.75.173": {
       "type": "movie",
-      "id": "tt30254719",
-      "title": "Omniscient Reader: The Prophecy",
+      "id": "tt16428256",
+      "title": "Suzume",
       "username": "anonymous",
-      "lastActive": 1768233147461
+      "lastActive": 1768248279142
     },
     "2405:201:580a:686b:c29e:204:f4b4:2f02": {
       "type": "series",
@@ -43384,10 +43506,10 @@
     },
     "2a06:5906:634:6d00:7032:abd:aa7a:d48b": {
       "type": "series",
-      "id": "tt0212671:1:11",
-      "title": "tt0212671:1:11",
+      "id": "tt0212671:1:12",
+      "title": "tt0212671:1:12",
       "username": "anonymous",
-      "lastActive": 1768246947500
+      "lastActive": 1768248170984
     },
     "49.36.119.3": {
       "type": "series",
@@ -43615,10 +43737,10 @@
     },
     "2a02:8428:ad10:ae01:4900:1f26:8887:1845": {
       "type": "series",
-      "id": "tt2661044:7:3",
-      "title": "tt2661044:7:3",
+      "id": "tt2661044:7:5",
+      "title": "tt2661044:7:5",
       "username": "anonymous",
-      "lastActive": 1768242852932
+      "lastActive": 1768248033617
     },
     "2a00:a041:e074:d900:58f:4473:d50:57e5": {
       "type": "series",
@@ -43696,6 +43818,20 @@
       "title": "Fallout",
       "username": "ig_sirmour",
       "lastActive": 1768246814204
+    },
+    "1.38.141.57": {
+      "type": "series",
+      "id": "tt5290382:1:2",
+      "title": "tt5290382:1:2",
+      "username": "insnaee99",
+      "lastActive": 1768247716945
+    },
+    "2402:3a80:164c:6641:9a9b:e5cd:b2c5:1766": {
+      "type": "series",
+      "id": "tt5290382:1:2",
+      "title": "tt5290382:1:2",
+      "username": "insnaee99",
+      "lastActive": 1768247787208
     }
   }
 }
