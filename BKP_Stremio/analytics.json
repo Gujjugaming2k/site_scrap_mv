@@ -1,5 +1,5 @@
 {
-  "totalViews": 4359,
+  "totalViews": 4370,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1279,7 +1279,10 @@
     "2a02:6680:110b:4d8f:f025:bce5:7d24:cddc",
     "2601:183:4982:3ec0:182d:b6a1:ef93:a358",
     "2401:4900:8fdf:1b2e:cc99:d66b:dce:de8f",
-    "202.142.105.156"
+    "202.142.105.156",
+    "2401:4900:8838:8908:7104:8598:4252:dca",
+    "115.112.99.50",
+    "2401:4900:c21f:b06e:24a3:9aff:fe7f:467"
   ],
   "views": [
     {
@@ -36143,6 +36146,94 @@
       "timestamp": "2026-01-12T07:25:09.209Z",
       "ip": "2401:4900:8fdf:1b2e:cc99:d66b:dce:de8f",
       "username": "arjun2077"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-01-12T07:25:14.173Z",
+      "ip": "2401:4900:8fdf:1b2e:cc99:d66b:dce:de8f",
+      "username": "arjun2077"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:1:17",
+      "title": "tt0106004:1:17",
+      "timestamp": "2026-01-12T07:26:12.430Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0109830",
+      "title": "Forrest Gump",
+      "timestamp": "2026-01-12T07:26:37.434Z",
+      "ip": "2401:4900:8fdf:1b2e:cc99:d66b:dce:de8f",
+      "username": "arjun2077"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:1:54",
+      "title": "tt0388629:1:54",
+      "timestamp": "2026-01-12T07:28:39.948Z",
+      "ip": "2401:4900:8838:8908:7104:8598:4252:dca",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0807832:1:26",
+      "title": "tt0807832:1:26",
+      "timestamp": "2026-01-12T07:31:41.065Z",
+      "ip": "45.17.204.48",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt38990492:1:1",
+      "title": "tt38990492:1:1",
+      "timestamp": "2026-01-12T07:33:27.335Z",
+      "ip": "115.112.99.50",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt29567915",
+      "title": "tt29567915",
+      "timestamp": "2026-01-12T07:33:46.701Z",
+      "ip": "2401:4900:c21f:b06e:24a3:9aff:fe7f:467",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt38990492:1:2",
+      "title": "tt38990492:1:2",
+      "timestamp": "2026-01-12T07:33:53.724Z",
+      "ip": "115.112.99.50",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt29567915",
+      "title": "tt29567915",
+      "timestamp": "2026-01-12T07:33:54.630Z",
+      "ip": "80.211.133.129",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt38990492:1:2",
+      "title": "tt38990492:1:2",
+      "timestamp": "2026-01-12T07:35:01.072Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt32612521:1:13",
+      "title": "tt32612521:1:13",
+      "timestamp": "2026-01-12T07:39:22.341Z",
+      "ip": "2806:2f0:a781:f8ae:e5dc:a756:313f:f55a",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -36554,10 +36645,10 @@
     },
     "162.212.211.108": {
       "type": "series",
-      "id": "tt0106004:1:16",
-      "title": "tt0106004:1:16",
+      "id": "tt0106004:1:17",
+      "title": "tt0106004:1:17",
       "username": "anonymous",
-      "lastActive": 1768201380186
+      "lastActive": 1768202772430
     },
     "182.48.228.15": {
       "type": "movie",
@@ -37072,10 +37163,10 @@
     },
     "202.173.124.127": {
       "type": "series",
-      "id": "tt38990492:1:1",
-      "title": "tt38990492:1:1",
+      "id": "tt38990492:1:2",
+      "title": "tt38990492:1:2",
       "username": "ryuzaklo26",
-      "lastActive": 1768201114560
+      "lastActive": 1768203301072
     },
     "156.204.34.34": {
       "type": "movie",
@@ -37240,10 +37331,10 @@
     },
     "45.17.204.48": {
       "type": "series",
-      "id": "tt0807832:1:25",
-      "title": "tt0807832:1:25",
+      "id": "tt0807832:1:26",
+      "title": "tt0807832:1:26",
       "username": "anonymous",
-      "lastActive": 1768202264005
+      "lastActive": 1768203101065
     },
     "188.28.100.78": {
       "type": "series",
@@ -37968,10 +38059,10 @@
     },
     "80.211.133.129": {
       "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
+      "id": "tt29567915",
+      "title": "tt29567915",
       "username": "anonymous",
-      "lastActive": 1768183159016
+      "lastActive": 1768203234630
     },
     "2401:4900:8ff3:4120:7099:3ffe:15d0:4635": {
       "type": "movie",
@@ -38080,10 +38171,10 @@
     },
     "2806:2f0:a781:f8ae:e5dc:a756:313f:f55a": {
       "type": "series",
-      "id": "tt32612521:1:12",
-      "title": "tt32612521:1:12",
+      "id": "tt32612521:1:13",
+      "title": "tt32612521:1:13",
       "username": "anonymous",
-      "lastActive": 1768202295954
+      "lastActive": 1768203562341
     },
     "76.72.57.157": {
       "type": "series",
@@ -38451,10 +38542,10 @@
     },
     "2401:4900:8fdf:1b2e:cc99:d66b:dce:de8f": {
       "type": "movie",
-      "id": "tt31495504",
-      "title": "tt31495504",
+      "id": "tt0109830",
+      "title": "Forrest Gump",
       "username": "arjun2077",
-      "lastActive": 1768202709209
+      "lastActive": 1768202797434
     },
     "202.142.105.156": {
       "type": "series",
@@ -38462,6 +38553,27 @@
       "title": "tt30003786:4:4",
       "username": "nobody_ismy_name",
       "lastActive": 1768202527541
+    },
+    "2401:4900:8838:8908:7104:8598:4252:dca": {
+      "type": "series",
+      "id": "tt0388629:1:54",
+      "title": "tt0388629:1:54",
+      "username": "anonymous",
+      "lastActive": 1768202919948
+    },
+    "115.112.99.50": {
+      "type": "series",
+      "id": "tt38990492:1:2",
+      "title": "tt38990492:1:2",
+      "username": "ryuzaklo26",
+      "lastActive": 1768203233724
+    },
+    "2401:4900:c21f:b06e:24a3:9aff:fe7f:467": {
+      "type": "movie",
+      "id": "tt29567915",
+      "title": "tt29567915",
+      "username": "anonymous",
+      "lastActive": 1768203226701
     }
   }
 }
