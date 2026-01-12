@@ -1,5 +1,5 @@
 {
-  "totalViews": 5298,
+  "totalViews": 5309,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1444,7 +1444,9 @@
     "154.247.227.22",
     "2001:861:5442:b720:d898:595f:a975:8f2e",
     "102.212.197.129",
-    "154.251.231.96"
+    "154.251.231.96",
+    "105.107.120.206",
+    "2409:40c4:11e2:4cda:da05:a0f1:8068:606f"
   ],
   "views": [
     {
@@ -43820,6 +43822,94 @@
       "timestamp": "2026-01-12T22:37:47.113Z",
       "ip": "2001:861:5442:b720:d898:595f:a975:8f2e",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:1:3",
+      "title": "tt0369179:1:3",
+      "timestamp": "2026-01-12T22:41:08.103Z",
+      "ip": "105.107.120.206",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-01-12T22:41:54.936Z",
+      "ip": "125.166.8.206",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt6482098",
+      "title": "tt6482098",
+      "timestamp": "2026-01-12T22:43:29.675Z",
+      "ip": "2001:861:5442:b720:d898:595f:a975:8f2e",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:1:1",
+      "title": "tt31938062:1:1",
+      "timestamp": "2026-01-12T22:43:48.724Z",
+      "ip": "125.166.8.206",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt6482098",
+      "title": "tt6482098",
+      "timestamp": "2026-01-12T22:44:08.792Z",
+      "ip": "2001:861:5442:b720:d898:595f:a975:8f2e",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt4896878",
+      "title": "tt4896878",
+      "timestamp": "2026-01-12T22:45:32.793Z",
+      "ip": "2001:861:5442:b720:d898:595f:a975:8f2e",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0209144",
+      "title": "Memento",
+      "timestamp": "2026-01-12T22:47:52.366Z",
+      "ip": "2409:40c4:11e2:4cda:da05:a0f1:8068:606f",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt15026724:1:13",
+      "title": "tt15026724:1:13",
+      "timestamp": "2026-01-12T22:48:05.406Z",
+      "ip": "82.66.125.144",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt37677376:1:8",
+      "title": "tt37677376:1:8",
+      "timestamp": "2026-01-12T22:49:33.280Z",
+      "ip": "2600:1700:75c1:3140:cd3c:c163:6a6d:849",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0168032",
+      "title": "tt0168032",
+      "timestamp": "2026-01-12T22:49:54.296Z",
+      "ip": "2001:861:5442:b720:d898:595f:a975:8f2e",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1830584",
+      "title": "tt1830584",
+      "timestamp": "2026-01-12T22:50:42.457Z",
+      "ip": "2001:861:5442:b720:d898:595f:a975:8f2e",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -44433,18 +44523,18 @@
       "lastActive": 1768240407467
     },
     "125.166.8.206": {
-      "type": "movie",
-      "id": "tt4016934",
-      "title": "tt4016934",
+      "type": "series",
+      "id": "tt31938062:1:1",
+      "title": "tt31938062:1:1",
       "username": "anonymous",
-      "lastActive": 1768257200334
+      "lastActive": 1768257828724
     },
     "82.66.125.144": {
       "type": "series",
-      "id": "tt15026724:1:12",
-      "title": "tt15026724:1:12",
+      "id": "tt15026724:1:13",
+      "title": "tt15026724:1:13",
       "username": "anonymous",
-      "lastActive": 1768241226889
+      "lastActive": 1768258085406
     },
     "2a02:810d:6005:9700:cc6c:46bc:a3fd:ae": {
       "type": "series",
@@ -44686,10 +44776,10 @@
     },
     "2600:1700:75c1:3140:cd3c:c163:6a6d:849": {
       "type": "series",
-      "id": "tt37677376:1:7",
-      "title": "tt37677376:1:7",
+      "id": "tt37677376:1:8",
+      "title": "tt37677376:1:8",
       "username": "anonymous",
-      "lastActive": 1768254863845
+      "lastActive": 1768258173280
     },
     "71.179.184.52": {
       "type": "movie",
@@ -44728,10 +44818,10 @@
     },
     "2001:861:5442:b720:d898:595f:a975:8f2e": {
       "type": "movie",
-      "id": "tt0211303",
-      "title": "tt0211303",
+      "id": "tt1830584",
+      "title": "tt1830584",
       "username": "anonymous",
-      "lastActive": 1768257467113
+      "lastActive": 1768258242457
     },
     "102.212.197.129": {
       "type": "series",
@@ -44746,6 +44836,20 @@
       "title": "tt2741602:3:19",
       "username": "anonymous",
       "lastActive": 1768257155173
+    },
+    "105.107.120.206": {
+      "type": "series",
+      "id": "tt0369179:1:3",
+      "title": "tt0369179:1:3",
+      "username": "anonymous",
+      "lastActive": 1768257668103
+    },
+    "2409:40c4:11e2:4cda:da05:a0f1:8068:606f": {
+      "type": "movie",
+      "id": "tt0209144",
+      "title": "Memento",
+      "username": "anonymous",
+      "lastActive": 1768258072366
     }
   }
 }
