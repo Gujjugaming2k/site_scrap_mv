@@ -1,5 +1,5 @@
 {
-  "totalViews": 5258,
+  "totalViews": 5266,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1435,7 +1435,9 @@
     "205.147.22.25",
     "102.100.126.79",
     "102.78.35.86",
-    "109.77.125.41"
+    "109.77.125.41",
+    "149.40.194.49",
+    "2600:1700:75c1:3140:cd3c:c163:6a6d:849"
   ],
   "views": [
     {
@@ -43491,6 +43493,70 @@
       "timestamp": "2026-01-12T21:07:57.822Z",
       "ip": "154.208.49.96",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0212671:1:15",
+      "title": "tt0212671:1:15",
+      "timestamp": "2026-01-12T21:10:52.106Z",
+      "ip": "2a06:5906:634:6d00:7032:abd:aa7a:d48b",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt38973594:1:3",
+      "title": "tt38973594:1:3",
+      "timestamp": "2026-01-12T21:11:46.972Z",
+      "ip": "149.40.194.49",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2661044:7:5",
+      "title": "tt2661044:7:5",
+      "timestamp": "2026-01-12T21:13:29.907Z",
+      "ip": "2a02:8428:ad10:ae01:4900:1f26:8887:1845",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-12T21:15:30.744Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt37211431:1:4",
+      "title": "tt37211431:1:4",
+      "timestamp": "2026-01-12T21:15:41.684Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt37211431:1:1",
+      "title": "tt37211431:1:1",
+      "timestamp": "2026-01-12T21:15:55.196Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt37677376:1:6",
+      "title": "tt37677376:1:6",
+      "timestamp": "2026-01-12T21:21:41.798Z",
+      "ip": "2600:1700:75c1:3140:cd3c:c163:6a6d:849",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:1:2",
+      "title": "tt0106004:1:2",
+      "timestamp": "2026-01-12T21:22:13.389Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -43929,11 +43995,11 @@
       "lastActive": 1768234314753
     },
     "202.173.124.127": {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
+      "type": "series",
+      "id": "tt37211431:1:1",
+      "title": "tt37211431:1:1",
       "username": "ryuzaklo26",
-      "lastActive": 1768245302440
+      "lastActive": 1768252555196
     },
     "2001:ac8:25:909:258a:68d3:ea62:ae2e": {
       "type": "series",
@@ -43944,10 +44010,10 @@
     },
     "2a06:5906:634:6d00:7032:abd:aa7a:d48b": {
       "type": "series",
-      "id": "tt0212671:1:14",
-      "title": "tt0212671:1:14",
+      "id": "tt0212671:1:15",
+      "title": "tt0212671:1:15",
       "username": "anonymous",
-      "lastActive": 1768250886649
+      "lastActive": 1768252252106
     },
     "49.36.119.3": {
       "type": "series",
@@ -44178,7 +44244,7 @@
       "id": "tt2661044:7:5",
       "title": "tt2661044:7:5",
       "username": "anonymous",
-      "lastActive": 1768250567329
+      "lastActive": 1768252409907
     },
     "2a00:a041:e074:d900:58f:4473:d50:57e5": {
       "type": "series",
@@ -44336,10 +44402,10 @@
     },
     "162.212.211.108": {
       "type": "series",
-      "id": "tt0106004:1:1",
-      "title": "tt0106004:1:1",
+      "id": "tt0106004:1:2",
+      "title": "tt0106004:1:2",
       "username": "anonymous",
-      "lastActive": 1768251739494
+      "lastActive": 1768252933389
     },
     "154.208.49.96": {
       "type": "series",
@@ -44347,6 +44413,20 @@
       "title": "tt5574490:4:12",
       "username": "anonymous",
       "lastActive": 1768252077822
+    },
+    "149.40.194.49": {
+      "type": "series",
+      "id": "tt38973594:1:3",
+      "title": "tt38973594:1:3",
+      "username": "anonymous",
+      "lastActive": 1768252306972
+    },
+    "2600:1700:75c1:3140:cd3c:c163:6a6d:849": {
+      "type": "series",
+      "id": "tt37677376:1:6",
+      "title": "tt37677376:1:6",
+      "username": "anonymous",
+      "lastActive": 1768252901798
     }
   }
 }
