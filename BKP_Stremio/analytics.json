@@ -1,5 +1,5 @@
 {
-  "totalViews": 5292,
+  "totalViews": 5298,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1443,7 +1443,8 @@
     "2a02:6ea0:d411:3110::13",
     "154.247.227.22",
     "2001:861:5442:b720:d898:595f:a975:8f2e",
-    "102.212.197.129"
+    "102.212.197.129",
+    "154.251.231.96"
   ],
   "views": [
     {
@@ -43771,6 +43772,54 @@
       "timestamp": "2026-01-12T22:24:55.526Z",
       "ip": "102.212.197.129",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2654620:2:5",
+      "title": "tt2654620:2:5",
+      "timestamp": "2026-01-12T22:32:24.220Z",
+      "ip": "102.212.197.129",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2741602:3:19",
+      "title": "tt2741602:3:19",
+      "timestamp": "2026-01-12T22:32:35.173Z",
+      "ip": "154.251.231.96",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt4016934",
+      "title": "tt4016934",
+      "timestamp": "2026-01-12T22:33:20.334Z",
+      "ip": "125.166.8.206",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:1:5",
+      "title": "tt0106004:1:5",
+      "timestamp": "2026-01-12T22:33:25.520Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2661044:7:6",
+      "title": "tt2661044:7:6",
+      "timestamp": "2026-01-12T22:35:09.269Z",
+      "ip": "2a02:8428:ad10:ae01:4900:1f26:8887:1845",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0211303",
+      "title": "tt0211303",
+      "timestamp": "2026-01-12T22:37:47.113Z",
+      "ip": "2001:861:5442:b720:d898:595f:a975:8f2e",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -44385,10 +44434,10 @@
     },
     "125.166.8.206": {
       "type": "movie",
-      "id": "tt1790809",
-      "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "id": "tt4016934",
+      "title": "tt4016934",
       "username": "anonymous",
-      "lastActive": 1768244071801
+      "lastActive": 1768257200334
     },
     "82.66.125.144": {
       "type": "series",
@@ -44455,10 +44504,10 @@
     },
     "2a02:8428:ad10:ae01:4900:1f26:8887:1845": {
       "type": "series",
-      "id": "tt2661044:7:5",
-      "title": "tt2661044:7:5",
+      "id": "tt2661044:7:6",
+      "title": "tt2661044:7:6",
       "username": "anonymous",
-      "lastActive": 1768252409907
+      "lastActive": 1768257309269
     },
     "2a00:a041:e074:d900:58f:4473:d50:57e5": {
       "type": "series",
@@ -44616,10 +44665,10 @@
     },
     "162.212.211.108": {
       "type": "series",
-      "id": "tt0106004:1:4",
-      "title": "tt0106004:1:4",
+      "id": "tt0106004:1:5",
+      "title": "tt0106004:1:5",
       "username": "anonymous",
-      "lastActive": 1768255824108
+      "lastActive": 1768257205520
     },
     "154.208.49.96": {
       "type": "series",
@@ -44679,17 +44728,24 @@
     },
     "2001:861:5442:b720:d898:595f:a975:8f2e": {
       "type": "movie",
-      "id": "tt21604586",
-      "title": "tt21604586",
+      "id": "tt0211303",
+      "title": "tt0211303",
       "username": "anonymous",
-      "lastActive": 1768256579286
+      "lastActive": 1768257467113
     },
     "102.212.197.129": {
       "type": "series",
-      "id": "tt2654620:2:4",
-      "title": "tt2654620:2:4",
+      "id": "tt2654620:2:5",
+      "title": "tt2654620:2:5",
       "username": "anonymous",
-      "lastActive": 1768256695526
+      "lastActive": 1768257144220
+    },
+    "154.251.231.96": {
+      "type": "series",
+      "id": "tt2741602:3:19",
+      "title": "tt2741602:3:19",
+      "username": "anonymous",
+      "lastActive": 1768257155173
     }
   }
 }
