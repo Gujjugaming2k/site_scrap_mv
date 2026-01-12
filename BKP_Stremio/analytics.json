@@ -1,5 +1,5 @@
 {
-  "totalViews": 5241,
+  "totalViews": 5252,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1432,7 +1432,9 @@
     "2402:3a80:164c:6641:9a9b:e5cd:b2c5:1766",
     "2a01:e0a:f7f:17b0:5bd8:1c93:91b9:8ce8",
     "2a0c:5a83:9101:e700:e0e1:6d6c:c1f4:e3c4",
-    "205.147.22.25"
+    "205.147.22.25",
+    "102.100.126.79",
+    "102.78.35.86"
   ],
   "views": [
     {
@@ -43352,6 +43354,94 @@
       "timestamp": "2026-01-12T20:34:09.124Z",
       "ip": "205.147.22.25",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt5950044",
+      "title": "Superman",
+      "timestamp": "2026-01-12T20:40:41.487Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
+      "timestamp": "2026-01-12T20:41:41.004Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-01-12T20:41:59.850Z",
+      "ip": "102.100.126.79",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2661044:7:5",
+      "title": "tt2661044:7:5",
+      "timestamp": "2026-01-12T20:42:47.329Z",
+      "ip": "2a02:8428:ad10:ae01:4900:1f26:8887:1845",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "timestamp": "2026-01-12T20:45:31.082Z",
+      "ip": "102.78.35.86",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt11126994:2:2",
+      "title": "Arcane",
+      "timestamp": "2026-01-12T20:45:33.133Z",
+      "ip": "2a02:810a:988:dd00:58a2:6a6f:d959:95bd",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2359704:1:1",
+      "title": "tt2359704:1:1",
+      "timestamp": "2026-01-12T20:46:07.132Z",
+      "ip": "223.185.20.33",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt11032374",
+      "title": "tt11032374",
+      "timestamp": "2026-01-12T20:46:30.461Z",
+      "ip": "223.185.20.33",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt11032374",
+      "title": "tt11032374",
+      "timestamp": "2026-01-12T20:46:50.726Z",
+      "ip": "223.185.20.33",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt11032374",
+      "title": "tt11032374",
+      "timestamp": "2026-01-12T20:46:50.917Z",
+      "ip": "223.185.20.33",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt0212671:1:14",
+      "title": "tt0212671:1:14",
+      "timestamp": "2026-01-12T20:48:06.649Z",
+      "ip": "2a06:5906:634:6d00:7032:abd:aa7a:d48b",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -43433,11 +43523,11 @@
       "lastActive": 1768226595812
     },
     "38.134.138.246": {
-      "type": "movie",
-      "id": "tt32080876",
-      "title": "tt32080876",
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
       "username": "thala_75",
-      "lastActive": 1768249598552
+      "lastActive": 1768250501004
     },
     "117.196.154.55": {
       "type": "series",
@@ -43805,10 +43895,10 @@
     },
     "2a06:5906:634:6d00:7032:abd:aa7a:d48b": {
       "type": "series",
-      "id": "tt0212671:1:13",
-      "title": "tt0212671:1:13",
+      "id": "tt0212671:1:14",
+      "title": "tt0212671:1:14",
       "username": "anonymous",
-      "lastActive": 1768249531832
+      "lastActive": 1768250886649
     },
     "49.36.119.3": {
       "type": "series",
@@ -44039,7 +44129,7 @@
       "id": "tt2661044:7:5",
       "title": "tt2661044:7:5",
       "username": "anonymous",
-      "lastActive": 1768248033617
+      "lastActive": 1768250567329
     },
     "2a00:a041:e074:d900:58f:4473:d50:57e5": {
       "type": "series",
@@ -44134,17 +44224,17 @@
     },
     "2a02:810a:988:dd00:58a2:6a6f:d959:95bd": {
       "type": "series",
-      "id": "tt11126994:2:1",
+      "id": "tt11126994:2:2",
       "title": "Arcane",
       "username": "anonymous",
-      "lastActive": 1768248736272
+      "lastActive": 1768250733133
     },
     "223.185.20.33": {
       "type": "movie",
-      "id": "tt30472557",
-      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "id": "tt11032374",
+      "title": "tt11032374",
       "username": "sinbad1722",
-      "lastActive": 1768250010208
+      "lastActive": 1768250810917
     },
     "2a01:e0a:f7f:17b0:5bd8:1c93:91b9:8ce8": {
       "type": "series",
@@ -44166,6 +44256,20 @@
       "title": "tt0249327:1:13",
       "username": "anonymous",
       "lastActive": 1768250049124
+    },
+    "102.100.126.79": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "anonymous",
+      "lastActive": 1768250519850
+    },
+    "102.78.35.86": {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "username": "anonymous",
+      "lastActive": 1768250731082
     }
   }
 }
