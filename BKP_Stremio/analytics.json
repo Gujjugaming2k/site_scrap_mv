@@ -1,5 +1,5 @@
 {
-  "totalViews": 4214,
+  "totalViews": 4225,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1250,7 +1250,10 @@
     "172.68.234.25,206.53.3.179",
     "2601:642:4e83:e070:5713:100a:c6b8:14cd",
     "2409:40c1:3105:343d:94fd:a7ff:fecb:251a",
-    "103.4.221.252"
+    "103.4.221.252",
+    "223.185.23.218",
+    "2800:560:f4:de00:c8ad:8e85:266d:1324",
+    "2409:40c0:52:14cb:b87a:27ff:fedc:1041"
   ],
   "views": [
     {
@@ -34954,6 +34957,94 @@
       "timestamp": "2026-01-12T04:37:13.821Z",
       "ip": "103.4.221.252",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt7942794:7:2",
+      "title": "tt7942794:7:2",
+      "timestamp": "2026-01-12T04:37:51.600Z",
+      "ip": "2001:569:51d4:8800:75ec:3492:e1e1:b728",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0121955:6:14",
+      "title": "tt0121955:6:14",
+      "timestamp": "2026-01-12T04:38:34.261Z",
+      "ip": "2600:1700:75c1:3140:2c72:7f98:355f:e576",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt5834204:1:3",
+      "title": "tt5834204:1:3",
+      "timestamp": "2026-01-12T04:39:13.812Z",
+      "ip": "2606:6a40:3:7e16:8434:a8e2:986b:b5d2",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "timestamp": "2026-01-12T04:40:15.267Z",
+      "ip": "223.185.23.218",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt21105088:1:9",
+      "title": "tt21105088:1:9",
+      "timestamp": "2026-01-12T04:43:28.625Z",
+      "ip": "2001:818:dd65:8d00:6046:8644:53d9:a439",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "timestamp": "2026-01-12T04:44:29.235Z",
+      "ip": "223.185.23.218",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt2463208",
+      "title": "The Adam Project",
+      "timestamp": "2026-01-12T04:46:01.075Z",
+      "ip": "118.179.84.47",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:1:10",
+      "title": "tt0106004:1:10",
+      "timestamp": "2026-01-12T04:46:18.845Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt32612521:1:5",
+      "title": "tt32612521:1:5",
+      "timestamp": "2026-01-12T04:46:42.751Z",
+      "ip": "2806:2f0:a781:f8ae:e5dc:a756:313f:f55a",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0078846",
+      "title": "tt0078846",
+      "timestamp": "2026-01-12T04:51:08.205Z",
+      "ip": "2800:560:f4:de00:c8ad:8e85:266d:1324",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-12T04:52:26.749Z",
+      "ip": "2409:40c0:52:14cb:b87a:27ff:fedc:1041",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -35365,10 +35456,10 @@
     },
     "162.212.211.108": {
       "type": "series",
-      "id": "tt0106004:1:9",
-      "title": "tt0106004:1:9",
+      "id": "tt0106004:1:10",
+      "title": "tt0106004:1:10",
       "username": "anonymous",
-      "lastActive": 1768191823436
+      "lastActive": 1768193178845
     },
     "182.48.228.15": {
       "type": "movie",
@@ -35582,10 +35673,10 @@
     },
     "2606:6a40:3:7e16:8434:a8e2:986b:b5d2": {
       "type": "series",
-      "id": "tt5834204:1:1",
-      "title": "tt5834204:1:1",
+      "id": "tt5834204:1:3",
+      "title": "tt5834204:1:3",
       "username": "anonymous",
-      "lastActive": 1768167922520
+      "lastActive": 1768192753812
     },
     "2405:201:500c:496b:14d5:614:2264:1c82": {
       "type": "movie",
@@ -36247,10 +36338,10 @@
     },
     "2600:1700:75c1:3140:2c72:7f98:355f:e576": {
       "type": "series",
-      "id": "tt0121955:6:13",
-      "title": "tt0121955:6:13",
+      "id": "tt0121955:6:14",
+      "title": "tt0121955:6:14",
       "username": "anonymous",
-      "lastActive": 1768191254736
+      "lastActive": 1768192714261
     },
     "2a02:9b0:e6:1a37:94e6:1b47:4218:3b96": {
       "type": "movie",
@@ -36891,10 +36982,10 @@
     },
     "2806:2f0:a781:f8ae:e5dc:a756:313f:f55a": {
       "type": "series",
-      "id": "tt32612521:1:1",
-      "title": "tt32612521:1:1",
+      "id": "tt32612521:1:5",
+      "title": "tt32612521:1:5",
       "username": "anonymous",
-      "lastActive": 1768187253130
+      "lastActive": 1768193202751
     },
     "76.72.57.157": {
       "type": "series",
@@ -36929,7 +37020,7 @@
       "id": "tt21105088:1:9",
       "title": "tt21105088:1:9",
       "username": "anonymous",
-      "lastActive": 1768190719651
+      "lastActive": 1768193008625
     },
     "2409:40d0:101c:eec0:ec:9fff:fee5:9f67": {
       "type": "movie",
@@ -36996,10 +37087,10 @@
     },
     "2001:569:51d4:8800:75ec:3492:e1e1:b728": {
       "type": "series",
-      "id": "tt7942794:7:1",
-      "title": "tt7942794:7:1",
+      "id": "tt7942794:7:2",
+      "title": "tt7942794:7:2",
       "username": "anonymous",
-      "lastActive": 1768191519687
+      "lastActive": 1768192671600
     },
     "71.179.184.52": {
       "type": "movie",
@@ -37056,6 +37147,34 @@
       "title": "tt0364845:16:11",
       "username": "anonymous",
       "lastActive": 1768192633821
+    },
+    "223.185.23.218": {
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "username": "anonymous",
+      "lastActive": 1768193069235
+    },
+    "118.179.84.47": {
+      "type": "movie",
+      "id": "tt2463208",
+      "title": "The Adam Project",
+      "username": "anonymous",
+      "lastActive": 1768193161075
+    },
+    "2800:560:f4:de00:c8ad:8e85:266d:1324": {
+      "type": "movie",
+      "id": "tt0078846",
+      "title": "tt0078846",
+      "username": "anonymous",
+      "lastActive": 1768193468205
+    },
+    "2409:40c0:52:14cb:b87a:27ff:fedc:1041": {
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
+      "username": "anonymous",
+      "lastActive": 1768193546749
     }
   }
 }
