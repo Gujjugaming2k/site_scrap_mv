@@ -1,5 +1,5 @@
 {
-  "totalViews": 4056,
+  "totalViews": 4064,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1222,7 +1222,10 @@
     "209.227.153.132",
     "41.144.106.17",
     "189.203.205.227",
-    "142.162.55.132"
+    "142.162.55.132",
+    "41.144.42.20",
+    "2409:40e4:10bb:6687:88b8:84c7:32b0:e256",
+    "181.176.231.132"
   ],
   "views": [
     {
@@ -33662,6 +33665,70 @@
       "timestamp": "2026-01-12T02:29:31.983Z",
       "ip": "142.162.55.132",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt32508210:1:1",
+      "title": "tt32508210:1:1",
+      "timestamp": "2026-01-12T02:32:48.579Z",
+      "ip": "41.144.42.20",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt18225736",
+      "title": "tt18225736",
+      "timestamp": "2026-01-12T02:34:04.613Z",
+      "ip": "79.140.115.229",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt18225736",
+      "title": "tt18225736",
+      "timestamp": "2026-01-12T02:34:04.894Z",
+      "ip": "79.140.115.229",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0017925",
+      "title": "tt0017925",
+      "timestamp": "2026-01-12T02:36:58.015Z",
+      "ip": "2409:40e4:10bb:6687:88b8:84c7:32b0:e256",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt32508210",
+      "title": "Batman Ninja vs. Yakuza League",
+      "timestamp": "2026-01-12T02:37:49.678Z",
+      "ip": "41.144.42.20",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0807832:1:23",
+      "title": "tt0807832:1:23",
+      "timestamp": "2026-01-12T02:39:29.214Z",
+      "ip": "45.17.204.48",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt23488694:1:1",
+      "title": "tt23488694:1:1",
+      "timestamp": "2026-01-12T02:42:10.813Z",
+      "ip": "181.176.231.132",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10945036:3:3",
+      "title": "tt10945036:3:3",
+      "timestamp": "2026-01-12T02:42:16.949Z",
+      "ip": "67.147.13.201",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -34416,10 +34483,10 @@
     },
     "67.147.13.201": {
       "type": "series",
-      "id": "tt10945036:3:2",
-      "title": "tt10945036:3:2",
+      "id": "tt10945036:3:3",
+      "title": "tt10945036:3:3",
       "username": "anonymous",
-      "lastActive": 1768184192650
+      "lastActive": 1768185736949
     },
     "2401:4900:c0ba:3ad:a42b:9683:440d:47c7": {
       "type": "series",
@@ -34762,7 +34829,7 @@
       "id": "tt0807832:1:23",
       "title": "tt0807832:1:23",
       "username": "anonymous",
-      "lastActive": 1768184302268
+      "lastActive": 1768185569214
     },
     "188.28.100.78": {
       "type": "series",
@@ -35476,7 +35543,7 @@
       "id": "tt18225736",
       "title": "tt18225736",
       "username": "anonymous",
-      "lastActive": 1768183068477
+      "lastActive": 1768185244894
     },
     "2401:4900:c21c:baf:286f:19ff:fe3a:551d": {
       "type": "movie",
@@ -35554,6 +35621,27 @@
       "title": "tt0412175:1:2",
       "username": "anonymous",
       "lastActive": 1768184971983
+    },
+    "41.144.42.20": {
+      "type": "movie",
+      "id": "tt32508210",
+      "title": "Batman Ninja vs. Yakuza League",
+      "username": "anonymous",
+      "lastActive": 1768185469678
+    },
+    "2409:40e4:10bb:6687:88b8:84c7:32b0:e256": {
+      "type": "movie",
+      "id": "tt0017925",
+      "title": "tt0017925",
+      "username": "askchm",
+      "lastActive": 1768185418015
+    },
+    "181.176.231.132": {
+      "type": "series",
+      "id": "tt23488694:1:1",
+      "title": "tt23488694:1:1",
+      "username": "anonymous",
+      "lastActive": 1768185730813
     }
   }
 }
