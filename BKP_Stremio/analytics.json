@@ -1,5 +1,5 @@
 {
-  "totalViews": 4623,
+  "totalViews": 4637,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1336,7 +1336,13 @@
     "2405:201:8015:9132:4507:545:5180:11dc",
     "2409:40c0:1035:6273:c405:13ff:fe26:abaf",
     "202.142.105.98",
-    "2405:201:2033:f3:8efb:8303:aa56:4d30"
+    "2405:201:2033:f3:8efb:8303:aa56:4d30",
+    "2401:4900:ac1f:d7c4:5431:abd8:eb4c:bbc9",
+    "2400:1a00:6b2c:4047:de3b:257d:6dfc:e76f",
+    "2401:4900:889d:9e9c:ab3a:67d0:ad12:ff92",
+    "117.196.154.55",
+    "49.37.9.253",
+    "2401:4900:ba69:7a03::289f:54b"
   ],
   "views": [
     {
@@ -38312,6 +38318,118 @@
       "timestamp": "2026-01-12T12:52:01.675Z",
       "ip": "2405:201:500c:496b:2e1b:3aff:fe14:f417",
       "username": "shadowbhaiii"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-12T12:54:17.582Z",
+      "ip": "2405:201:500c:496b:2e1b:3aff:fe14:f417",
+      "username": "shadowbhaiii"
+    },
+    {
+      "type": "movie",
+      "id": "tt32244794",
+      "title": "Lone Samurai",
+      "timestamp": "2026-01-12T12:54:54.025Z",
+      "ip": "103.46.200.249",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt0364845:16:15",
+      "title": "tt0364845:16:15",
+      "timestamp": "2026-01-12T12:55:38.224Z",
+      "ip": "103.4.222.252",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt11773378",
+      "title": "tt11773378",
+      "timestamp": "2026-01-12T12:55:55.910Z",
+      "ip": "2401:4900:ac1f:d7c4:5431:abd8:eb4c:bbc9",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt10945036:4:2",
+      "title": "tt10945036:4:2",
+      "timestamp": "2026-01-12T12:58:46.512Z",
+      "ip": "67.147.13.201",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0351283",
+      "title": "Madagascar",
+      "timestamp": "2026-01-12T13:01:44.919Z",
+      "ip": "103.46.200.249",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt2267968",
+      "title": "Kung Fu Panda 3",
+      "timestamp": "2026-01-12T13:03:29.232Z",
+      "ip": "2400:1a00:6b2c:4047:de3b:257d:6dfc:e76f",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt36931290",
+      "title": "tt36931290",
+      "timestamp": "2026-01-12T13:05:30.692Z",
+      "ip": "2401:4900:889d:9e9c:ab3a:67d0:ad12:ff92",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt36931290",
+      "title": "tt36931290",
+      "timestamp": "2026-01-12T13:06:02.083Z",
+      "ip": "2401:4900:889d:9e9c:ab3a:67d0:ad12:ff92",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0131179:1:1036",
+      "title": "Detective Conan",
+      "timestamp": "2026-01-12T13:06:34.168Z",
+      "ip": "2405:3800:8fe:2fe8:f4ef:85e5:202f:19ab",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:3:5",
+      "title": "tt0412142:3:5",
+      "timestamp": "2026-01-12T13:06:36.301Z",
+      "ip": "117.196.154.55",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:1:56",
+      "title": "tt0388629:1:56",
+      "timestamp": "2026-01-12T13:06:41.002Z",
+      "ip": "2401:4900:8838:8908:b381:dbd:9554:960",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt21626284",
+      "title": "tt21626284",
+      "timestamp": "2026-01-12T13:06:49.201Z",
+      "ip": "49.37.9.253",
+      "username": "lazerkey"
+    },
+    {
+      "type": "movie",
+      "id": "tt35931046",
+      "title": "Bono: Stories of Surrender",
+      "timestamp": "2026-01-12T13:07:58.177Z",
+      "ip": "2401:4900:ba69:7a03::289f:54b",
+      "username": "baljeet_002"
     }
   ],
   "activeNow": {
@@ -38359,10 +38477,10 @@
     },
     "67.147.13.201": {
       "type": "series",
-      "id": "tt10945036:4:1",
-      "title": "tt10945036:4:1",
+      "id": "tt10945036:4:2",
+      "title": "tt10945036:4:2",
       "username": "anonymous",
-      "lastActive": 1768221085595
+      "lastActive": 1768222726512
     },
     "103.249.4.146": {
       "type": "movie",
@@ -38380,10 +38498,10 @@
     },
     "103.4.222.252": {
       "type": "series",
-      "id": "tt0364845:16:14",
-      "title": "tt0364845:16:14",
+      "id": "tt0364845:16:15",
+      "title": "tt0364845:16:15",
       "username": "anonymous",
-      "lastActive": 1768220042572
+      "lastActive": 1768222538224
     },
     "156.155.25.87": {
       "type": "series",
@@ -38506,10 +38624,10 @@
     },
     "2401:4900:8838:8908:b381:dbd:9554:960": {
       "type": "series",
-      "id": "tt0388629:1:55",
-      "title": "tt0388629:1:55",
+      "id": "tt0388629:1:56",
+      "title": "tt0388629:1:56",
       "username": "anonymous",
-      "lastActive": 1768221688250
+      "lastActive": 1768223201002
     },
     "2a01:e0a:fd3:b350:616f:52ea:eee0:ddd2": {
       "type": "movie",
@@ -38548,10 +38666,10 @@
     },
     "103.46.200.249": {
       "type": "movie",
-      "id": "tt0111161",
-      "title": "The Shawshank Redemption",
-      "username": "katdenningssss",
-      "lastActive": 1768221845581
+      "id": "tt0351283",
+      "title": "Madagascar",
+      "username": "brosportses",
+      "lastActive": 1768222904919
     },
     "2409:40e2:201d:6ab6:8000::": {
       "type": "series",
@@ -38569,10 +38687,10 @@
     },
     "2405:3800:8fe:2fe8:f4ef:85e5:202f:19ab": {
       "type": "series",
-      "id": "tt0131179:1:1035",
+      "id": "tt0131179:1:1036",
       "title": "Detective Conan",
       "username": "anonymous",
-      "lastActive": 1768221446757
+      "lastActive": 1768223194168
     },
     "2401:4900:3616:79e2:5182:16d0:6671:a49d": {
       "type": "series",
@@ -38607,7 +38725,7 @@
       "id": "tt28802657",
       "title": "tt28802657",
       "username": "shadowbhaiii",
-      "lastActive": 1768222321675
+      "lastActive": 1768222457582
     },
     "202.142.105.98": {
       "type": "movie",
@@ -38622,6 +38740,48 @@
       "title": "For Your Eyes Only",
       "username": "surti_lala",
       "lastActive": 1768222254654
+    },
+    "2401:4900:ac1f:d7c4:5431:abd8:eb4c:bbc9": {
+      "type": "movie",
+      "id": "tt11773378",
+      "title": "tt11773378",
+      "username": "gendaswammy",
+      "lastActive": 1768222555910
+    },
+    "2400:1a00:6b2c:4047:de3b:257d:6dfc:e76f": {
+      "type": "movie",
+      "id": "tt2267968",
+      "title": "Kung Fu Panda 3",
+      "username": "anonymous",
+      "lastActive": 1768223009232
+    },
+    "2401:4900:889d:9e9c:ab3a:67d0:ad12:ff92": {
+      "type": "movie",
+      "id": "tt36931290",
+      "title": "tt36931290",
+      "username": "anonymous",
+      "lastActive": 1768223162083
+    },
+    "117.196.154.55": {
+      "type": "series",
+      "id": "tt0412142:3:5",
+      "title": "tt0412142:3:5",
+      "username": "anonymous",
+      "lastActive": 1768223196301
+    },
+    "49.37.9.253": {
+      "type": "movie",
+      "id": "tt21626284",
+      "title": "tt21626284",
+      "username": "lazerkey",
+      "lastActive": 1768223209201
+    },
+    "2401:4900:ba69:7a03::289f:54b": {
+      "type": "movie",
+      "id": "tt35931046",
+      "title": "Bono: Stories of Surrender",
+      "username": "baljeet_002",
+      "lastActive": 1768223278177
     }
   }
 }
