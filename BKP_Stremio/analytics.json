@@ -1,5 +1,5 @@
 {
-  "totalViews": 3986,
+  "totalViews": 3989,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -33086,6 +33086,30 @@
       "timestamp": "2026-01-12T00:59:44.776Z",
       "ip": "2a01:799:c5c:2b00:c01b:ef07:d6a8:9027",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1355642:1:55",
+      "title": "tt1355642:1:55",
+      "timestamp": "2026-01-12T01:00:26.161Z",
+      "ip": "92.189.253.133",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0857297:1:3",
+      "title": "tt0857297:1:3",
+      "timestamp": "2026-01-12T01:01:45.903Z",
+      "ip": "2409:40c4:30a3:b278:d63d:a3df:5796:e28e",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt9288030:2:5",
+      "title": "tt9288030:2:5",
+      "timestamp": "2026-01-12T01:11:53.912Z",
+      "ip": "2601:404:0:24d0:b475:a7b0:d40e:cd6",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -34169,10 +34193,10 @@
     },
     "92.189.253.133": {
       "type": "series",
-      "id": "tt1355642:1:53",
-      "title": "tt1355642:1:53",
+      "id": "tt1355642:1:55",
+      "title": "tt1355642:1:55",
       "username": "anonymous",
-      "lastActive": 1768178452125
+      "lastActive": 1768179626161
     },
     "102.209.65.165": {
       "type": "movie",
@@ -34309,10 +34333,10 @@
     },
     "2601:404:0:24d0:b475:a7b0:d40e:cd6": {
       "type": "series",
-      "id": "tt0212671:1:14",
-      "title": "tt0212671:1:14",
+      "id": "tt9288030:2:5",
+      "title": "tt9288030:2:5",
       "username": "anonymous",
-      "lastActive": 1768167461439
+      "lastActive": 1768180313912
     },
     "45.118.166.43": {
       "type": "series",
@@ -34778,10 +34802,10 @@
     },
     "2409:40c4:30a3:b278:d63d:a3df:5796:e28e": {
       "type": "series",
-      "id": "tt0857297:1:2",
-      "title": "tt0857297:1:2",
+      "id": "tt0857297:1:3",
+      "title": "tt0857297:1:3",
       "username": "anonymous",
-      "lastActive": 1768178528723
+      "lastActive": 1768179705903
     },
     "213.137.138.179": {
       "type": "series",
