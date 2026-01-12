@@ -1,5 +1,5 @@
 {
-  "totalViews": 4410,
+  "totalViews": 4422,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1293,7 +1293,9 @@
     "2401:4900:8838:8908:215d:20c9:a1e3:bc6b",
     "2405:201:500c:496b:62c5:3ab0:cc03:e92a",
     "43.234.79.37",
-    "2401:4900:1cb1:36b:44e2:a6e6:c217:9868"
+    "2401:4900:1cb1:36b:44e2:a6e6:c217:9868",
+    "41.97.164.73",
+    "82.197.78.10"
   ],
   "views": [
     {
@@ -36565,6 +36567,102 @@
       "timestamp": "2026-01-12T08:44:42.510Z",
       "ip": "223.185.20.33",
       "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt2359704:2:47",
+      "title": "tt2359704:2:47",
+      "timestamp": "2026-01-12T08:45:28.774Z",
+      "ip": "223.185.20.33",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:3:1",
+      "title": "tt0412142:3:1",
+      "timestamp": "2026-01-12T08:46:15.622Z",
+      "ip": "59.93.5.218",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt9100346:1:1",
+      "title": "tt9100346:1:1",
+      "timestamp": "2026-01-12T08:46:20.626Z",
+      "ip": "41.97.164.73",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt9100346:1:2",
+      "title": "tt9100346:1:2",
+      "timestamp": "2026-01-12T08:47:08.035Z",
+      "ip": "41.97.164.73",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0185937",
+      "title": "tt0185937",
+      "timestamp": "2026-01-12T08:47:54.624Z",
+      "ip": "103.46.200.249",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt0481256:1:42",
+      "title": "Fighting Spirit",
+      "timestamp": "2026-01-12T08:52:35.785Z",
+      "ip": "82.197.78.10",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt33307516",
+      "title": "tt33307516",
+      "timestamp": "2026-01-12T08:53:35.501Z",
+      "ip": "2401:4900:1c60:d616:cbe0:c492:ed9f:a1e",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt33307516",
+      "title": "tt33307516",
+      "timestamp": "2026-01-12T08:53:44.274Z",
+      "ip": "2401:4900:1c60:d616:cbe0:c492:ed9f:a1e",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:3",
+      "title": "tt1399664:2:3",
+      "timestamp": "2026-01-12T08:54:10.706Z",
+      "ip": "2401:4900:3616:79e2:5182:16d0:6671:a49d",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:4",
+      "title": "tt1399664:2:4",
+      "timestamp": "2026-01-12T08:54:30.002Z",
+      "ip": "2401:4900:3616:79e2:5182:16d0:6671:a49d",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt10919420:1:1",
+      "title": "tt10919420:1:1",
+      "timestamp": "2026-01-12T08:54:33.531Z",
+      "ip": "2401:4900:1c60:d616:cbe0:c492:ed9f:a1e",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt21105088:1:12",
+      "title": "tt21105088:1:12",
+      "timestamp": "2026-01-12T08:58:13.800Z",
+      "ip": "2001:818:dd65:8d00:6046:8644:53d9:a439",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -37221,10 +37319,10 @@
     },
     "103.46.200.249": {
       "type": "movie",
-      "id": "tt26581740",
-      "title": "Weapons",
+      "id": "tt0185937",
+      "title": "tt0185937",
       "username": "brosportses",
-      "lastActive": 1768154936470
+      "lastActive": 1768207674624
     },
     "167.58.165.231": {
       "type": "series",
@@ -37518,7 +37616,7 @@
       "id": "tt0412142:3:1",
       "title": "tt0412142:3:1",
       "username": "anonymous",
-      "lastActive": 1768164117816
+      "lastActive": 1768207575622
     },
     "182.77.79.67": {
       "type": "series",
@@ -38537,10 +38635,10 @@
     },
     "2001:818:dd65:8d00:6046:8644:53d9:a439": {
       "type": "series",
-      "id": "tt21105088:1:11",
-      "title": "tt21105088:1:11",
+      "id": "tt21105088:1:12",
+      "title": "tt21105088:1:12",
       "username": "anonymous",
-      "lastActive": 1768207114519
+      "lastActive": 1768208293800
     },
     "2409:40d0:101c:eec0:ec:9fff:fee5:9f67": {
       "type": "movie",
@@ -38704,11 +38802,11 @@
       "lastActive": 1768199517400
     },
     "2401:4900:1c60:d616:cbe0:c492:ed9f:a1e": {
-      "type": "movie",
-      "id": "tt30274401",
-      "title": "tt30274401",
+      "type": "series",
+      "id": "tt10919420:1:1",
+      "title": "tt10919420:1:1",
       "username": "anonymous",
-      "lastActive": 1768206304798
+      "lastActive": 1768208073531
     },
     "2409:40d4:16b:d3b9:c890:22ff:fe58:6e8c": {
       "type": "series",
@@ -38719,10 +38817,10 @@
     },
     "223.185.20.33": {
       "type": "series",
-      "id": "tt2359704:2:48",
-      "title": "tt2359704:2:48",
+      "id": "tt2359704:2:47",
+      "title": "tt2359704:2:47",
       "username": "sinbad1722",
-      "lastActive": 1768207482510
+      "lastActive": 1768207528774
     },
     "115.98.233.139": {
       "type": "series",
@@ -38796,10 +38894,10 @@
     },
     "2401:4900:3616:79e2:5182:16d0:6671:a49d": {
       "type": "series",
-      "id": "tt1399664:2:3",
-      "title": "tt1399664:2:3",
+      "id": "tt1399664:2:4",
+      "title": "tt1399664:2:4",
       "username": "vflix1993",
-      "lastActive": 1768202687499
+      "lastActive": 1768208070002
     },
     "2600:4809:1133:3800:5326:d877:917b:20e9": {
       "type": "movie",
@@ -39003,6 +39101,20 @@
       "title": "tt28802657",
       "username": "shadowbhaiii",
       "lastActive": 1768207015273
+    },
+    "41.97.164.73": {
+      "type": "series",
+      "id": "tt9100346:1:2",
+      "title": "tt9100346:1:2",
+      "username": "anonymous",
+      "lastActive": 1768207628035
+    },
+    "82.197.78.10": {
+      "type": "series",
+      "id": "tt0481256:1:42",
+      "title": "Fighting Spirit",
+      "username": "anonymous",
+      "lastActive": 1768207955785
     }
   }
 }
