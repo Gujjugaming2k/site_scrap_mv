@@ -1,5 +1,5 @@
 {
-  "totalViews": 4003,
+  "totalViews": 4015,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1210,7 +1210,10 @@
     "2600:1001:a110:370f:7ee4:45d1:ca20:8835",
     "49.185.118.239",
     "2600:8800:2b03:c000:fde9:8b25:b370:9904",
-    "41.109.83.137"
+    "41.109.83.137",
+    "157.10.8.219",
+    "2600:1700:40d0:34a0:9537:d619:8bee:b826",
+    "2601:84:837f:efdc:4861:c90b:788f:4ed9"
   ],
   "views": [
     {
@@ -33226,6 +33229,102 @@
       "timestamp": "2026-01-12T01:28:43.615Z",
       "ip": "67.147.13.201",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt31014115:1:4",
+      "title": "tt31014115:1:4",
+      "timestamp": "2026-01-12T01:32:40.366Z",
+      "ip": "154.247.47.122",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:8:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-12T01:34:43.312Z",
+      "ip": "157.10.8.219",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0117752",
+      "title": "tt0117752",
+      "timestamp": "2026-01-12T01:36:03.804Z",
+      "ip": "223.178.83.239",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0857297:1:5",
+      "title": "tt0857297:1:5",
+      "timestamp": "2026-01-12T01:38:43.341Z",
+      "ip": "2409:40c4:30a3:b278:d63d:a3df:5796:e28e",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0117752",
+      "title": "tt0117752",
+      "timestamp": "2026-01-12T01:38:49.845Z",
+      "ip": "223.178.83.239",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt35889144",
+      "title": "tt35889144",
+      "timestamp": "2026-01-12T01:41:38.347Z",
+      "ip": "58.84.91.58",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "null",
+      "title": "null",
+      "timestamp": "2026-01-12T01:42:32.081Z",
+      "ip": "2600:1700:40d0:34a0:9537:d619:8bee:b826",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0898266:6:6",
+      "title": "tt0898266:6:6",
+      "timestamp": "2026-01-12T01:42:38.600Z",
+      "ip": "2a01:799:c5c:2b00:c01b:ef07:d6a8:9027",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt15077646",
+      "title": "tt15077646",
+      "timestamp": "2026-01-12T01:42:39.840Z",
+      "ip": "2601:84:837f:efdc:4861:c90b:788f:4ed9",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:1:2",
+      "title": "tt0106004:1:2",
+      "timestamp": "2026-01-12T01:42:55.241Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt15077646",
+      "title": "tt15077646",
+      "timestamp": "2026-01-12T01:42:57.327Z",
+      "ip": "2601:84:837f:efdc:4861:c90b:788f:4ed9",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt4154796",
+      "title": "Avengers: Endgame",
+      "timestamp": "2026-01-12T01:44:52.660Z",
+      "ip": "58.84.91.58",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -33637,10 +33736,10 @@
     },
     "162.212.211.108": {
       "type": "series",
-      "id": "tt0106004:1:1",
-      "title": "tt0106004:1:1",
+      "id": "tt0106004:1:2",
+      "title": "tt0106004:1:2",
       "username": "anonymous",
-      "lastActive": 1768180996906
+      "lastActive": 1768182175241
     },
     "182.48.228.15": {
       "type": "movie",
@@ -34561,10 +34660,10 @@
     },
     "154.247.47.122": {
       "type": "series",
-      "id": "tt31014115:1:3",
-      "title": "tt31014115:1:3",
+      "id": "tt31014115:1:4",
+      "title": "tt31014115:1:4",
       "username": "anonymous",
-      "lastActive": 1768179247265
+      "lastActive": 1768181560366
     },
     "72.226.49.255": {
       "type": "movie",
@@ -34918,10 +35017,10 @@
     },
     "2409:40c4:30a3:b278:d63d:a3df:5796:e28e": {
       "type": "series",
-      "id": "tt0857297:1:4",
-      "title": "tt0857297:1:4",
+      "id": "tt0857297:1:5",
+      "title": "tt0857297:1:5",
       "username": "anonymous",
-      "lastActive": 1768181152709
+      "lastActive": 1768181923341
     },
     "213.137.138.179": {
       "type": "series",
@@ -34939,10 +35038,10 @@
     },
     "223.178.83.239": {
       "type": "movie",
-      "id": "tt0425253",
-      "title": "tt0425253",
+      "id": "tt0117752",
+      "title": "tt0117752",
       "username": "anonymous",
-      "lastActive": 1768178693144
+      "lastActive": 1768181929845
     },
     "2604:3d09:d7f:1600:69a3:1611:c4cc:6aad": {
       "type": "series",
@@ -34967,10 +35066,10 @@
     },
     "2a01:799:c5c:2b00:c01b:ef07:d6a8:9027": {
       "type": "series",
-      "id": "tt0898266:6:5",
-      "title": "tt0898266:6:5",
+      "id": "tt0898266:6:6",
+      "title": "tt0898266:6:6",
       "username": "anonymous",
-      "lastActive": 1768180867722
+      "lastActive": 1768182158600
     },
     "102.222.235.5": {
       "type": "movie",
@@ -35006,6 +35105,34 @@
       "title": "Sonic the Hedgehog 3",
       "username": "anonymous",
       "lastActive": 1768181244638
+    },
+    "157.10.8.219": {
+      "type": "series",
+      "id": "tt0944947:8:1",
+      "title": "Game of Thrones",
+      "username": "anonymous",
+      "lastActive": 1768181683312
+    },
+    "58.84.91.58": {
+      "type": "movie",
+      "id": "tt4154796",
+      "title": "Avengers: Endgame",
+      "username": "anonymous",
+      "lastActive": 1768182292660
+    },
+    "2600:1700:40d0:34a0:9537:d619:8bee:b826": {
+      "type": "movie",
+      "id": "null",
+      "title": "null",
+      "username": "anonymous",
+      "lastActive": 1768182152081
+    },
+    "2601:84:837f:efdc:4861:c90b:788f:4ed9": {
+      "type": "movie",
+      "id": "tt15077646",
+      "title": "tt15077646",
+      "username": "anonymous",
+      "lastActive": 1768182177327
     }
   }
 }
