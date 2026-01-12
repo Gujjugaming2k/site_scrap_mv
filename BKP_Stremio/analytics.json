@@ -1,5 +1,5 @@
 {
-  "totalViews": 4555,
+  "totalViews": 4562,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1321,7 +1321,10 @@
     "2001:8003:d86a:f500:47b:80c5:dc5e:54b3",
     "165.99.90.17",
     "154.18.196.96",
-    "41.96.112.98"
+    "41.96.112.98",
+    "2401:4900:8fdf:1b2e:7320:8494:d6f0:806f",
+    "2401:4900:1cb1:36b:55fd:dd36:47a5:ab71",
+    "85.190.233.4"
   ],
   "views": [
     {
@@ -37753,6 +37756,62 @@
       "timestamp": "2026-01-12T11:17:22.886Z",
       "ip": "85.154.7.221",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt11866324",
+      "title": "Prey",
+      "timestamp": "2026-01-12T11:19:54.270Z",
+      "ip": "2401:4900:8fdf:1b2e:7320:8494:d6f0:806f",
+      "username": "arjun2077"
+    },
+    {
+      "type": "series",
+      "id": "tt36593026:1:6",
+      "title": "tt36593026:1:6",
+      "timestamp": "2026-01-12T11:21:25.994Z",
+      "ip": "2001:448a:10f0:6353:f071:1b2b:2e5a:4d3a",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt37495011",
+      "title": "tt37495011",
+      "timestamp": "2026-01-12T11:27:51.042Z",
+      "ip": "2401:4900:1cb1:36b:55fd:dd36:47a5:ab71",
+      "username": "srinivasasai"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-12T11:28:04.384Z",
+      "ip": "2409:40c1:3105:343d:94fd:a7ff:fecb:251a",
+      "username": "tips9694"
+    },
+    {
+      "type": "movie",
+      "id": "tt35330748",
+      "title": "tt35330748",
+      "timestamp": "2026-01-12T11:28:09.616Z",
+      "ip": "85.190.233.4",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "null",
+      "title": "null",
+      "timestamp": "2026-01-12T11:29:01.756Z",
+      "ip": "85.190.233.4",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4063800:5:7",
+      "title": "tt4063800:5:7",
+      "timestamp": "2026-01-12T11:32:44.604Z",
+      "ip": "2a01:e0a:f9f:7d40:ad32:ac87:66d5:75af",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -37842,10 +37901,10 @@
     },
     "2a01:e0a:f9f:7d40:ad32:ac87:66d5:75af": {
       "type": "series",
-      "id": "tt4063800:5:6",
-      "title": "tt4063800:5:6",
+      "id": "tt4063800:5:7",
+      "title": "tt4063800:5:7",
       "username": "anonymous",
-      "lastActive": 1768214805308
+      "lastActive": 1768217564604
     },
     "103.224.52.144": {
       "type": "movie",
@@ -37902,6 +37961,41 @@
       "title": "tt0472954:10:7",
       "username": "anonymous",
       "lastActive": 1768216553268
+    },
+    "2401:4900:8fdf:1b2e:7320:8494:d6f0:806f": {
+      "type": "movie",
+      "id": "tt11866324",
+      "title": "Prey",
+      "username": "arjun2077",
+      "lastActive": 1768216794270
+    },
+    "2001:448a:10f0:6353:f071:1b2b:2e5a:4d3a": {
+      "type": "series",
+      "id": "tt36593026:1:6",
+      "title": "tt36593026:1:6",
+      "username": "anonymous",
+      "lastActive": 1768216885994
+    },
+    "2401:4900:1cb1:36b:55fd:dd36:47a5:ab71": {
+      "type": "movie",
+      "id": "tt37495011",
+      "title": "tt37495011",
+      "username": "srinivasasai",
+      "lastActive": 1768217271042
+    },
+    "2409:40c1:3105:343d:94fd:a7ff:fecb:251a": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "tips9694",
+      "lastActive": 1768217284384
+    },
+    "85.190.233.4": {
+      "type": "movie",
+      "id": "null",
+      "title": "null",
+      "username": "anonymous",
+      "lastActive": 1768217341756
     }
   }
 }
