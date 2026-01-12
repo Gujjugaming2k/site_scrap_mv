@@ -1,5 +1,5 @@
 {
-  "totalViews": 4064,
+  "totalViews": 4078,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1225,7 +1225,9 @@
     "142.162.55.132",
     "41.144.42.20",
     "2409:40e4:10bb:6687:88b8:84c7:32b0:e256",
-    "181.176.231.132"
+    "181.176.231.132",
+    "197.211.52.66",
+    "2001:18c0:e520:2600:d5ce:9b72:3054:d492"
   ],
   "views": [
     {
@@ -33729,6 +33731,118 @@
       "timestamp": "2026-01-12T02:42:16.949Z",
       "ip": "67.147.13.201",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0459683:1:1",
+      "title": "tt0459683:1:1",
+      "timestamp": "2026-01-12T02:48:22.071Z",
+      "ip": "2600:1001:a110:370f:7ee4:45d1:ca20:8835",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:1:5",
+      "title": "tt0106004:1:5",
+      "timestamp": "2026-01-12T02:51:47.362Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10332508:3:1",
+      "title": "tt10332508:3:1",
+      "timestamp": "2026-01-12T02:53:36.077Z",
+      "ip": "197.211.52.66",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt31014115:1:6",
+      "title": "tt31014115:1:6",
+      "timestamp": "2026-01-12T02:53:38.365Z",
+      "ip": "154.247.47.122",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10332508:3:2",
+      "title": "tt10332508:3:2",
+      "timestamp": "2026-01-12T02:54:10.790Z",
+      "ip": "197.211.52.66",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "timestamp": "2026-01-12T02:55:15.904Z",
+      "ip": "2600:1700:75c1:3140:2c72:7f98:355f:e576",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:2",
+      "title": "tt33035373:1:2",
+      "timestamp": "2026-01-12T02:55:16.437Z",
+      "ip": "197.211.52.66",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt11564570",
+      "title": "tt11564570",
+      "timestamp": "2026-01-12T02:57:06.906Z",
+      "ip": "2600:1700:75c1:3140:2c72:7f98:355f:e576",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0118401:25:4",
+      "title": "tt0118401:25:4",
+      "timestamp": "2026-01-12T02:58:38.434Z",
+      "ip": "2001:18c0:e520:2600:d5ce:9b72:3054:d492",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0118401:25:4",
+      "title": "tt0118401:25:4",
+      "timestamp": "2026-01-12T02:58:48.342Z",
+      "ip": "2001:18c0:e520:2600:d5ce:9b72:3054:d492",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0807832:1:23",
+      "title": "tt0807832:1:23",
+      "timestamp": "2026-01-12T03:00:50.052Z",
+      "ip": "45.17.204.48",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:3",
+      "title": "tt33035373:1:3",
+      "timestamp": "2026-01-12T03:00:55.154Z",
+      "ip": "2600:8800:2b03:c000:fde9:8b25:b370:9904",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1527793",
+      "title": "No Other Choice",
+      "timestamp": "2026-01-12T03:01:55.187Z",
+      "ip": "197.211.52.66",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt2278388",
+      "title": "The Grand Budapest Hotel",
+      "timestamp": "2026-01-12T03:02:03.949Z",
+      "ip": "2600:1700:75c1:3140:2c72:7f98:355f:e576",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -34140,10 +34254,10 @@
     },
     "162.212.211.108": {
       "type": "series",
-      "id": "tt0106004:1:4",
-      "title": "tt0106004:1:4",
+      "id": "tt0106004:1:5",
+      "title": "tt0106004:1:5",
       "username": "anonymous",
-      "lastActive": 1768184935403
+      "lastActive": 1768186307362
     },
     "182.48.228.15": {
       "type": "movie",
@@ -34829,7 +34943,7 @@
       "id": "tt0807832:1:23",
       "title": "tt0807832:1:23",
       "username": "anonymous",
-      "lastActive": 1768185569214
+      "lastActive": 1768186850052
     },
     "188.28.100.78": {
       "type": "series",
@@ -35021,11 +35135,11 @@
       "lastActive": 1768166245895
     },
     "2600:1700:75c1:3140:2c72:7f98:355f:e576": {
-      "type": "series",
-      "id": "tt0121955:4:17",
-      "title": "tt0121955:4:17",
+      "type": "movie",
+      "id": "tt2278388",
+      "title": "The Grand Budapest Hotel",
       "username": "anonymous",
-      "lastActive": 1768167439130
+      "lastActive": 1768186923949
     },
     "2a02:9b0:e6:1a37:94e6:1b47:4218:3b96": {
       "type": "movie",
@@ -35064,10 +35178,10 @@
     },
     "154.247.47.122": {
       "type": "series",
-      "id": "tt31014115:1:5",
-      "title": "tt31014115:1:5",
+      "id": "tt31014115:1:6",
+      "title": "tt31014115:1:6",
       "username": "anonymous",
-      "lastActive": 1768184006401
+      "lastActive": 1768186418365
     },
     "72.226.49.255": {
       "type": "movie",
@@ -35483,11 +35597,11 @@
       "lastActive": 1768180827808
     },
     "2600:1001:a110:370f:7ee4:45d1:ca20:8835": {
-      "type": "movie",
-      "id": "tt3783958",
-      "title": "La La Land",
+      "type": "series",
+      "id": "tt0459683:1:1",
+      "title": "tt0459683:1:1",
       "username": "anonymous",
-      "lastActive": 1768181076962
+      "lastActive": 1768186102071
     },
     "49.185.118.239": {
       "type": "series",
@@ -35498,10 +35612,10 @@
     },
     "2600:8800:2b03:c000:fde9:8b25:b370:9904": {
       "type": "series",
-      "id": "tt33035373:1:2",
-      "title": "tt33035373:1:2",
+      "id": "tt33035373:1:3",
+      "title": "tt33035373:1:3",
       "username": "anonymous",
-      "lastActive": 1768183933921
+      "lastActive": 1768186855154
     },
     "41.109.83.137": {
       "type": "movie",
@@ -35642,6 +35756,20 @@
       "title": "tt23488694:1:1",
       "username": "anonymous",
       "lastActive": 1768185730813
+    },
+    "197.211.52.66": {
+      "type": "movie",
+      "id": "tt1527793",
+      "title": "No Other Choice",
+      "username": "anonymous",
+      "lastActive": 1768186915187
+    },
+    "2001:18c0:e520:2600:d5ce:9b72:3054:d492": {
+      "type": "series",
+      "id": "tt0118401:25:4",
+      "title": "tt0118401:25:4",
+      "username": "anonymous",
+      "lastActive": 1768186728342
     }
   }
 }
