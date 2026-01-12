@@ -1,5 +1,5 @@
 {
-  "totalViews": 4870,
+  "totalViews": 4882,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1376,7 +1376,9 @@
     "115.98.99.86",
     "2402:3a80:1ac3:6659:3c83:50e3:f18c:f210",
     "2401:4900:88ba:767:ef05:2c00:bde:7c02",
-    "81.17.122.162"
+    "81.17.122.162",
+    "59.152.80.69",
+    "2402:3a80:15b1:17a6:ada9:8784:170b:1cba"
   ],
   "views": [
     {
@@ -40328,6 +40330,102 @@
       "timestamp": "2026-01-12T15:24:27.552Z",
       "ip": "2a02:6ea0:d213:5491::15",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt2625810",
+      "title": "tt2625810",
+      "timestamp": "2026-01-12T15:29:50.835Z",
+      "ip": "49.37.9.253",
+      "username": "lazerkey"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:3",
+      "title": "tt1399664:2:3",
+      "timestamp": "2026-01-12T15:34:49.719Z",
+      "ip": "59.152.80.69",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "timestamp": "2026-01-12T15:35:03.960Z",
+      "ip": "103.46.200.249",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "series",
+      "id": "tt37430949:1:5",
+      "title": "tt37430949:1:5",
+      "timestamp": "2026-01-12T15:37:40.785Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt0343314:1:7",
+      "title": "tt0343314:1:7",
+      "timestamp": "2026-01-12T15:37:46.686Z",
+      "ip": "2a02:6ea0:d213:5491::15",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:1:8",
+      "title": "Fallout",
+      "timestamp": "2026-01-12T15:38:02.667Z",
+      "ip": "2409:40e4:5c:e769:c4a1:b3ff:fe72:19f4",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt37430949:1:6",
+      "title": "tt37430949:1:6",
+      "timestamp": "2026-01-12T15:39:36.500Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt37430949:1:6",
+      "title": "tt37430949:1:6",
+      "timestamp": "2026-01-12T15:40:37.478Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt37430949:1:6",
+      "title": "tt37430949:1:6",
+      "timestamp": "2026-01-12T15:42:37.526Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt37430949:1:6",
+      "title": "tt37430949:1:6",
+      "timestamp": "2026-01-12T15:43:07.355Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt37430949:1:6",
+      "title": "tt37430949:1:6",
+      "timestamp": "2026-01-12T15:43:34.885Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "movie",
+      "id": "tt23558084",
+      "title": "Bad Influence",
+      "timestamp": "2026-01-12T15:44:19.808Z",
+      "ip": "2402:3a80:15b1:17a6:ada9:8784:170b:1cba",
+      "username": "gendaswammy"
     }
   ],
   "activeNow": {
@@ -40340,10 +40438,10 @@
     },
     "103.46.200.249": {
       "type": "movie",
-      "id": "tt6751668",
-      "title": "tt6751668",
-      "username": "brosportses",
-      "lastActive": 1768231029881
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "username": "katdenningssss",
+      "lastActive": 1768232103960
     },
     "115.98.234.103": {
       "type": "movie",
@@ -40557,10 +40655,10 @@
     },
     "2a02:6ea0:d213:5491::15": {
       "type": "series",
-      "id": "tt0343314:1:6",
-      "title": "tt0343314:1:6",
+      "id": "tt0343314:1:7",
+      "title": "tt0343314:1:7",
       "username": "anonymous",
-      "lastActive": 1768231467552
+      "lastActive": 1768232266686
     },
     "205.254.185.14": {
       "type": "movie",
@@ -40592,10 +40690,10 @@
     },
     "49.37.9.253": {
       "type": "movie",
-      "id": "tt21626284",
-      "title": "tt21626284",
+      "id": "tt2625810",
+      "title": "tt2625810",
       "username": "lazerkey",
-      "lastActive": 1768230645819
+      "lastActive": 1768231790835
     },
     "2409:40f0:40d0:a977:40de:5cf5:192f:71e6": {
       "type": "series",
@@ -40613,10 +40711,10 @@
     },
     "115.98.99.86": {
       "type": "series",
-      "id": "tt37430949:1:5",
-      "title": "tt37430949:1:5",
+      "id": "tt37430949:1:6",
+      "title": "tt37430949:1:6",
       "username": "nothing_8888",
-      "lastActive": 1768230869303
+      "lastActive": 1768232614885
     },
     "2402:3a80:1ac3:6659:3c83:50e3:f18c:f210": {
       "type": "series",
@@ -40634,10 +40732,10 @@
     },
     "2409:40e4:5c:e769:c4a1:b3ff:fe72:19f4": {
       "type": "series",
-      "id": "tt12637874:1:7",
+      "id": "tt12637874:1:8",
       "title": "Fallout",
       "username": "cyberboy12321",
-      "lastActive": 1768231016392
+      "lastActive": 1768232282667
     },
     "81.17.122.162": {
       "type": "movie",
@@ -40645,6 +40743,20 @@
       "title": "tt33054635",
       "username": "b1jju",
       "lastActive": 1768231262153
+    },
+    "59.152.80.69": {
+      "type": "series",
+      "id": "tt1399664:2:3",
+      "title": "tt1399664:2:3",
+      "username": "anonymous",
+      "lastActive": 1768232089719
+    },
+    "2402:3a80:15b1:17a6:ada9:8784:170b:1cba": {
+      "type": "movie",
+      "id": "tt23558084",
+      "title": "Bad Influence",
+      "username": "gendaswammy",
+      "lastActive": 1768232659808
     }
   }
 }
