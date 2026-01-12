@@ -1,5 +1,5 @@
 {
-  "totalViews": 4524,
+  "totalViews": 4529,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1314,7 +1314,8 @@
     "154.18.196.105",
     "2401:4900:88c7:7e8b:5092:3ad8:953e:b7a7",
     "2401:4900:8fed:b869:e8e6:f842:aff3:6b6d",
-    "2401:4900:8fed:b869:10f4:455e:de2f:a5a9"
+    "2401:4900:8fed:b869:10f4:455e:de2f:a5a9",
+    "103.4.222.252"
   ],
   "views": [
     {
@@ -37498,6 +37499,46 @@
       "timestamp": "2026-01-12T10:31:51.716Z",
       "ip": "2401:4900:8fed:b869:10f4:455e:de2f:a5a9",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt9603208",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "timestamp": "2026-01-12T10:32:19.737Z",
+      "ip": "2401:4900:8fed:b869:10f4:455e:de2f:a5a9",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0364845:16:13",
+      "title": "tt0364845:16:13",
+      "timestamp": "2026-01-12T10:34:47.207Z",
+      "ip": "103.4.222.252",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12324366:2:1",
+      "title": "tt12324366:2:1",
+      "timestamp": "2026-01-12T10:36:18.084Z",
+      "ip": "156.155.25.87",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:3:3",
+      "title": "tt0412142:3:3",
+      "timestamp": "2026-01-12T10:43:31.753Z",
+      "ip": "59.93.5.218",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4063800:5:6",
+      "title": "tt4063800:5:6",
+      "timestamp": "2026-01-12T10:46:45.308Z",
+      "ip": "2a01:e0a:f9f:7d40:ad32:ac87:66d5:75af",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -37541,7 +37582,7 @@
       "id": "tt9603208",
       "title": "Mission: Impossible - The Final Reckoning",
       "username": "anonymous",
-      "lastActive": 1768213911716
+      "lastActive": 1768213939737
     },
     "67.147.13.201": {
       "type": "series",
@@ -37563,6 +37604,34 @@
       "title": "tt28486669",
       "username": "nabakun24",
       "lastActive": 1768213905812
+    },
+    "103.4.222.252": {
+      "type": "series",
+      "id": "tt0364845:16:13",
+      "title": "tt0364845:16:13",
+      "username": "anonymous",
+      "lastActive": 1768214087207
+    },
+    "156.155.25.87": {
+      "type": "series",
+      "id": "tt12324366:2:1",
+      "title": "tt12324366:2:1",
+      "username": "anonymous",
+      "lastActive": 1768214178084
+    },
+    "59.93.5.218": {
+      "type": "series",
+      "id": "tt0412142:3:3",
+      "title": "tt0412142:3:3",
+      "username": "anonymous",
+      "lastActive": 1768214611753
+    },
+    "2a01:e0a:f9f:7d40:ad32:ac87:66d5:75af": {
+      "type": "series",
+      "id": "tt4063800:5:6",
+      "title": "tt4063800:5:6",
+      "username": "anonymous",
+      "lastActive": 1768214805308
     }
   }
 }
