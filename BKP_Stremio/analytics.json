@@ -1,5 +1,5 @@
 {
-  "totalViews": 4345,
+  "totalViews": 4359,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1275,7 +1275,11 @@
     "5.111.167.34",
     "45.118.105.10",
     "156.155.25.87",
-    "49.42.203.82"
+    "49.42.203.82",
+    "2a02:6680:110b:4d8f:f025:bce5:7d24:cddc",
+    "2601:183:4982:3ec0:182d:b6a1:ef93:a358",
+    "2401:4900:8fdf:1b2e:cc99:d66b:dce:de8f",
+    "202.142.105.156"
   ],
   "views": [
     {
@@ -36027,6 +36031,118 @@
       "timestamp": "2026-01-12T07:09:53.210Z",
       "ip": "156.155.25.87",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt3111906:1:1",
+      "title": "tt3111906:1:1",
+      "timestamp": "2026-01-12T07:09:59.352Z",
+      "ip": "2a02:6680:110b:4d8f:f025:bce5:7d24:cddc",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt5014968",
+      "title": "tt5014968",
+      "timestamp": "2026-01-12T07:15:33.708Z",
+      "ip": "5.111.167.34",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0807832:1:25",
+      "title": "tt0807832:1:25",
+      "timestamp": "2026-01-12T07:17:44.005Z",
+      "ip": "45.17.204.48",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt32612521:1:12",
+      "title": "tt32612521:1:12",
+      "timestamp": "2026-01-12T07:18:15.954Z",
+      "ip": "2806:2f0:a781:f8ae:e5dc:a756:313f:f55a",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12098194:1:1",
+      "title": "tt12098194:1:1",
+      "timestamp": "2026-01-12T07:18:33.491Z",
+      "ip": "2601:183:4982:3ec0:182d:b6a1:ef93:a358",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt11866324",
+      "title": "Prey",
+      "timestamp": "2026-01-12T07:19:36.099Z",
+      "ip": "2401:4900:8fdf:1b2e:cc99:d66b:dce:de8f",
+      "username": "arjun2077"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:2",
+      "title": "tt1399664:2:2",
+      "timestamp": "2026-01-12T07:20:28.562Z",
+      "ip": "2401:4900:3616:79e2:5182:16d0:6671:a49d",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:3",
+      "title": "tt30003786:4:3",
+      "timestamp": "2026-01-12T07:20:57.827Z",
+      "ip": "202.142.105.156",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt0407887",
+      "title": "The Departed",
+      "timestamp": "2026-01-12T07:21:34.043Z",
+      "ip": "2401:4900:8fdf:1b2e:cc99:d66b:dce:de8f",
+      "username": "arjun2077"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:4",
+      "title": "tt30003786:4:4",
+      "timestamp": "2026-01-12T07:22:07.541Z",
+      "ip": "202.142.105.156",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt17526714",
+      "title": "The Substance",
+      "timestamp": "2026-01-12T07:22:11.615Z",
+      "ip": "146.196.34.134",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt11953248",
+      "title": "tt11953248",
+      "timestamp": "2026-01-12T07:23:50.260Z",
+      "ip": "2401:4900:8fdf:1b2e:cc99:d66b:dce:de8f",
+      "username": "arjun2077"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:3",
+      "title": "tt1399664:2:3",
+      "timestamp": "2026-01-12T07:24:47.499Z",
+      "ip": "2401:4900:3616:79e2:5182:16d0:6671:a49d",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt31495504",
+      "title": "tt31495504",
+      "timestamp": "2026-01-12T07:25:09.209Z",
+      "ip": "2401:4900:8fdf:1b2e:cc99:d66b:dce:de8f",
+      "username": "arjun2077"
     }
   ],
   "activeNow": {
@@ -37127,7 +37243,7 @@
       "id": "tt0807832:1:25",
       "title": "tt0807832:1:25",
       "username": "anonymous",
-      "lastActive": 1768200922051
+      "lastActive": 1768202264005
     },
     "188.28.100.78": {
       "type": "series",
@@ -37964,10 +38080,10 @@
     },
     "2806:2f0:a781:f8ae:e5dc:a756:313f:f55a": {
       "type": "series",
-      "id": "tt32612521:1:11",
-      "title": "tt32612521:1:11",
+      "id": "tt32612521:1:12",
+      "title": "tt32612521:1:12",
       "username": "anonymous",
-      "lastActive": 1768200881809
+      "lastActive": 1768202295954
     },
     "76.72.57.157": {
       "type": "series",
@@ -38258,10 +38374,10 @@
     },
     "2401:4900:3616:79e2:5182:16d0:6671:a49d": {
       "type": "series",
-      "id": "tt1399664:2:2",
-      "title": "tt1399664:2:2",
+      "id": "tt1399664:2:3",
+      "title": "tt1399664:2:3",
       "username": "vflix1993",
-      "lastActive": 1768198751761
+      "lastActive": 1768202687499
     },
     "2600:4809:1133:3800:5326:d877:917b:20e9": {
       "type": "movie",
@@ -38272,10 +38388,10 @@
     },
     "146.196.34.134": {
       "type": "movie",
-      "id": "tt12300742",
-      "title": "Bugonia",
+      "id": "tt17526714",
+      "title": "The Substance",
       "username": "gaendaswami",
-      "lastActive": 1768201610538
+      "lastActive": 1768202531615
     },
     "152.59.149.181": {
       "type": "movie",
@@ -38293,10 +38409,10 @@
     },
     "5.111.167.34": {
       "type": "movie",
-      "id": "tt33204550",
-      "title": "tt33204550",
+      "id": "tt5014968",
+      "title": "tt5014968",
       "username": "anonymous",
-      "lastActive": 1768201606513
+      "lastActive": 1768202133708
     },
     "45.118.105.10": {
       "type": "series",
@@ -38318,6 +38434,34 @@
       "title": "tt4786824:1:5",
       "username": "anonymous",
       "lastActive": 1768201664575
+    },
+    "2a02:6680:110b:4d8f:f025:bce5:7d24:cddc": {
+      "type": "series",
+      "id": "tt3111906:1:1",
+      "title": "tt3111906:1:1",
+      "username": "anonymous",
+      "lastActive": 1768201799352
+    },
+    "2601:183:4982:3ec0:182d:b6a1:ef93:a358": {
+      "type": "series",
+      "id": "tt12098194:1:1",
+      "title": "tt12098194:1:1",
+      "username": "anonymous",
+      "lastActive": 1768202313491
+    },
+    "2401:4900:8fdf:1b2e:cc99:d66b:dce:de8f": {
+      "type": "movie",
+      "id": "tt31495504",
+      "title": "tt31495504",
+      "username": "arjun2077",
+      "lastActive": 1768202709209
+    },
+    "202.142.105.156": {
+      "type": "series",
+      "id": "tt30003786:4:4",
+      "title": "tt30003786:4:4",
+      "username": "nobody_ismy_name",
+      "lastActive": 1768202527541
     }
   }
 }
