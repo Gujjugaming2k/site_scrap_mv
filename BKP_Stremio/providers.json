@@ -149,5 +149,16 @@
     "priority": 1,
     "enabled": true,
     "createdAt": "2026-01-13T03:15:16.761Z"
+  },
+  {
+    "id": "1768310303086",
+    "name": "MovieBox",
+    "movieUrl": "https://moviebox.vflix.life/stream/movie/{{id}}.json",
+    "seriesUrl": "https://moviebox.vflix.life/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "timeout": "20000",
+    "priority": "1",
+    "enabled": true,
+    "createdAt": "2026-01-13T13:18:23.086Z",
+    "updatedAt": "2026-01-13T13:18:34.301Z"
   }
 ]
