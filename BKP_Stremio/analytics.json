@@ -1,5 +1,5 @@
 {
-  "totalViews": 6274,
+  "totalViews": 6278,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1602,7 +1602,8 @@
     "152.59.79.214",
     "2405:201:900f:a92b:9c87:beec:4943:820c",
     "79.127.131.207",
-    "146.52.122.247"
+    "146.52.122.247",
+    "2402:a00:188:61:4089:566c:7ebf:b21b"
   ],
   "views": [
     {
@@ -51786,6 +51787,38 @@
       "timestamp": "2026-01-13T19:56:10.655Z",
       "ip": "182.77.73.122",
       "username": "thebatmanbyte"
+    },
+    {
+      "type": "movie",
+      "id": "tt29567915",
+      "title": "tt29567915",
+      "timestamp": "2026-01-13T20:05:35.812Z",
+      "ip": "154.208.49.98",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt27534307",
+      "title": "Speak No Evil",
+      "timestamp": "2026-01-13T20:10:28.082Z",
+      "ip": "122.161.242.88",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "movie",
+      "id": "tt14253846",
+      "title": "Speak No Evil",
+      "timestamp": "2026-01-13T20:10:30.407Z",
+      "ip": "122.161.242.88",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-13T20:11:26.871Z",
+      "ip": "2402:a00:188:61:4089:566c:7ebf:b21b",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -51998,6 +52031,27 @@
       "title": "JUJUTSU KAISEN",
       "username": "hvre2",
       "lastActive": 1768333827238
+    },
+    "154.208.49.98": {
+      "type": "movie",
+      "id": "tt29567915",
+      "title": "tt29567915",
+      "username": "anonymous",
+      "lastActive": 1768334735812
+    },
+    "122.161.242.88": {
+      "type": "movie",
+      "id": "tt14253846",
+      "title": "Speak No Evil",
+      "username": "dawnstar930",
+      "lastActive": 1768335030407
+    },
+    "2402:a00:188:61:4089:566c:7ebf:b21b": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "anonymous",
+      "lastActive": 1768335086871
     }
   }
 }
