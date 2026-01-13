@@ -1,5 +1,5 @@
 {
-  "totalViews": 6029,
+  "totalViews": 6042,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1574,7 +1574,11 @@
     "2401:4900:1c7a:87aa:74eb:2582:5504:2c95",
     "2409:40e4:1040:5b6e:8000::",
     "2409:40e1:1143:bbef:c86f:f981:b1d:6fac",
-    "2409:40c1:1a:9d29:58e0:6f9c:e9f6:1e07"
+    "2409:40c1:1a:9d29:58e0:6f9c:e9f6:1e07",
+    "2409:40e4:1089:1fab:88b8:84c7:32b0:e256",
+    "2409:40d4:3106:c65d:8475:ff:fe98:add3",
+    "2401:4900:ac09:eb6e:ec39:7982:471d:9e34",
+    "2402:a00:10a:815f:3ede:f53a:c2b3:6153"
   ],
   "views": [
     {
@@ -49798,6 +49802,110 @@
       "timestamp": "2026-01-13T17:09:28.977Z",
       "ip": "115.98.234.123",
       "username": "insnaee99"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-01-13T17:11:56.650Z",
+      "ip": "2409:40e4:1089:1fab:88b8:84c7:32b0:e256",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:1:1",
+      "title": "tt31938062:1:1",
+      "timestamp": "2026-01-13T17:12:10.495Z",
+      "ip": "125.166.8.206",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:1:4",
+      "title": "tt28102595:1:4",
+      "timestamp": "2026-01-13T17:14:29.138Z",
+      "ip": "2409:40d4:3106:c65d:8475:ff:fe98:add3",
+      "username": "golu_18vk"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:1:5",
+      "title": "tt28102595:1:5",
+      "timestamp": "2026-01-13T17:15:17.916Z",
+      "ip": "2409:40d4:3106:c65d:8475:ff:fe98:add3",
+      "username": "golu_18vk"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:3",
+      "title": "tt1399664:2:3",
+      "timestamp": "2026-01-13T17:15:37.976Z",
+      "ip": "2401:4900:ac09:eb6e:ec39:7982:471d:9e34",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt15464188",
+      "title": "tt15464188",
+      "timestamp": "2026-01-13T17:16:05.079Z",
+      "ip": "2402:a00:10a:815f:3ede:f53a:c2b3:6153",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt0120737",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "timestamp": "2026-01-13T17:20:12.317Z",
+      "ip": "2401:4900:76c3:9b4d:80bd:d4ff:fe8e:2a78",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-13T17:22:30.174Z",
+      "ip": "49.43.110.148",
+      "username": "karthik"
+    },
+    {
+      "type": "movie",
+      "id": "tt0059246",
+      "title": "tt0059246",
+      "timestamp": "2026-01-13T17:22:55.243Z",
+      "ip": "2409:40e4:4c:2b49:38d3:eeff:fec9:96d9",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt3566834",
+      "title": "A Minecraft Movie",
+      "timestamp": "2026-01-13T17:23:09.683Z",
+      "ip": "2401:4900:76c3:9b4d:80bd:d4ff:fe8e:2a78",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-13T17:24:35.476Z",
+      "ip": "2405:201:500c:496b:6c45:7aab:f8ef:fa44",
+      "username": "karthik"
+    },
+    {
+      "type": "series",
+      "id": "tt14076044:1:1",
+      "title": "WondLa",
+      "timestamp": "2026-01-13T17:24:35.975Z",
+      "ip": "2401:4900:76c3:9b4d:80bd:d4ff:fe8e:2a78",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:4:1",
+      "title": "tt0412142:4:1",
+      "timestamp": "2026-01-13T17:25:14.219Z",
+      "ip": "120.56.163.42",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -49813,7 +49921,7 @@
       "id": "tt28802657",
       "title": "tt28802657",
       "username": "karthik",
-      "lastActive": 1768323344699
+      "lastActive": 1768325075476
     },
     "223.181.46.150": {
       "type": "movie",
@@ -49824,10 +49932,10 @@
     },
     "120.56.163.42": {
       "type": "series",
-      "id": "tt0412142:3:24",
-      "title": "tt0412142:3:24",
+      "id": "tt0412142:4:1",
+      "title": "tt0412142:4:1",
       "username": "anonymous",
-      "lastActive": 1768314496535
+      "lastActive": 1768325114219
     },
     "2001:8f8:1623:278d:5146:c78e:c517:9312": {
       "type": "series",
@@ -49956,11 +50064,11 @@
       "lastActive": 1768315337543
     },
     "2401:4900:76c3:9b4d:80bd:d4ff:fe8e:2a78": {
-      "type": "movie",
-      "id": "tt14905854",
-      "title": "tt14905854",
+      "type": "series",
+      "id": "tt14076044:1:1",
+      "title": "WondLa",
       "username": "nobody_ismy_name",
-      "lastActive": 1768315483847
+      "lastActive": 1768325075975
     },
     "2401:4900:851b:2c3a:6d75:b3d7:642a:dd2f": {
       "type": "movie",
@@ -50117,11 +50225,11 @@
       "lastActive": 1768318464107
     },
     "2409:40e4:4c:2b49:38d3:eeff:fec9:96d9": {
-      "type": "series",
-      "id": "tt12637874:2:1",
-      "title": "Fallout",
+      "type": "movie",
+      "id": "tt0059246",
+      "title": "tt0059246",
       "username": "cyberboy12321",
-      "lastActive": 1768321776069
+      "lastActive": 1768324975243
     },
     "2401:4900:88b8:5b46:8414:2974:7f41:912b": {
       "type": "movie",
@@ -50339,6 +50447,48 @@
       "title": "Stranger Things",
       "username": "gendaswammy",
       "lastActive": 1768323084010
+    },
+    "2409:40e4:1089:1fab:88b8:84c7:32b0:e256": {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "username": "askchm",
+      "lastActive": 1768324316650
+    },
+    "125.166.8.206": {
+      "type": "series",
+      "id": "tt31938062:1:1",
+      "title": "tt31938062:1:1",
+      "username": "anonymous",
+      "lastActive": 1768324330495
+    },
+    "2409:40d4:3106:c65d:8475:ff:fe98:add3": {
+      "type": "series",
+      "id": "tt28102595:1:5",
+      "title": "tt28102595:1:5",
+      "username": "golu_18vk",
+      "lastActive": 1768324517916
+    },
+    "2401:4900:ac09:eb6e:ec39:7982:471d:9e34": {
+      "type": "series",
+      "id": "tt1399664:2:3",
+      "title": "tt1399664:2:3",
+      "username": "vflix1993",
+      "lastActive": 1768324537976
+    },
+    "2402:a00:10a:815f:3ede:f53a:c2b3:6153": {
+      "type": "movie",
+      "id": "tt15464188",
+      "title": "tt15464188",
+      "username": "vflix1993",
+      "lastActive": 1768324565079
+    },
+    "49.43.110.148": {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "username": "karthik",
+      "lastActive": 1768324950174
     }
   }
 }
