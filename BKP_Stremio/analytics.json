@@ -1,5 +1,5 @@
 {
-  "totalViews": 5509,
+  "totalViews": 5512,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1465,7 +1465,8 @@
     "150.107.241.245",
     "51.89.226.48",
     "193.142.201.154",
-    "2409:40e3:5401:380c:8000::"
+    "2409:40e3:5401:380c:8000::",
+    "2409:40e4:109e:2afd:88b8:84c7:32b0:e256"
   ],
   "views": [
     {
@@ -45529,6 +45530,30 @@
       "timestamp": "2026-01-13T05:33:58.997Z",
       "ip": "2a02:6ea0:d213:5491::15",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0351283",
+      "title": "Madagascar",
+      "timestamp": "2026-01-13T05:44:56.133Z",
+      "ip": "2409:40e4:109e:2afd:88b8:84c7:32b0:e256",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:2",
+      "title": "tt30003786:4:2",
+      "timestamp": "2026-01-13T05:48:36.143Z",
+      "ip": "205.254.185.14",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0343314:2:8",
+      "title": "tt0343314:2:8",
+      "timestamp": "2026-01-13T05:55:07.062Z",
+      "ip": "2a02:6ea0:d213:5491::15",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -45761,14 +45786,14 @@
       "id": "tt0343314:2:8",
       "title": "tt0343314:2:8",
       "username": "anonymous",
-      "lastActive": 1768282438997
+      "lastActive": 1768283707062
     },
     "205.254.185.14": {
-      "type": "movie",
-      "id": "tt36642456",
-      "title": "tt36642456",
+      "type": "series",
+      "id": "tt30003786:4:2",
+      "title": "tt30003786:4:2",
       "username": "anonymous",
-      "lastActive": 1768229281850
+      "lastActive": 1768283316143
     },
     "2402:3a80:403e:f469:60f8:4365:63ab:47fc": {
       "type": "series",
@@ -46665,6 +46690,13 @@
       "title": "tt1442464:2:17",
       "username": "anonymous",
       "lastActive": 1768280366174
+    },
+    "2409:40e4:109e:2afd:88b8:84c7:32b0:e256": {
+      "type": "movie",
+      "id": "tt0351283",
+      "title": "Madagascar",
+      "username": "askchm",
+      "lastActive": 1768283096133
     }
   }
 }
