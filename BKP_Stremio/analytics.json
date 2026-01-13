@@ -1,5 +1,5 @@
 {
-  "totalViews": 6015,
+  "totalViews": 6026,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1573,7 +1573,8 @@
     "182.69.178.28",
     "2401:4900:1c7a:87aa:74eb:2582:5504:2c95",
     "2409:40e4:1040:5b6e:8000::",
-    "2409:40e1:1143:bbef:c86f:f981:b1d:6fac"
+    "2409:40e1:1143:bbef:c86f:f981:b1d:6fac",
+    "2409:40c1:1a:9d29:58e0:6f9c:e9f6:1e07"
   ],
   "views": [
     {
@@ -49685,6 +49686,94 @@
       "timestamp": "2026-01-13T16:48:05.709Z",
       "ip": "2409:40e1:1143:bbef:c86f:f981:b1d:6fac",
       "username": "jinwoooooi"
+    },
+    {
+      "type": "movie",
+      "id": "tt0903624",
+      "title": "The Hobbit: An Unexpected Journey",
+      "timestamp": "2026-01-13T16:50:23.532Z",
+      "ip": "197.237.65.55",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0815934",
+      "title": "tt0815934",
+      "timestamp": "2026-01-13T16:50:46.975Z",
+      "ip": "103.172.153.111",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-13T16:51:24.010Z",
+      "ip": "2409:40c1:1a:9d29:58e0:6f9c:e9f6:1e07",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt0903624",
+      "title": "The Hobbit: An Unexpected Journey",
+      "timestamp": "2026-01-13T16:51:34.856Z",
+      "ip": "197.237.65.55",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0903624",
+      "title": "The Hobbit: An Unexpected Journey",
+      "timestamp": "2026-01-13T16:51:36.625Z",
+      "ip": "197.237.65.55",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-13T16:55:44.699Z",
+      "ip": "2405:201:500c:496b:6c45:7aab:f8ef:fa44",
+      "username": "karthik"
+    },
+    {
+      "type": "series",
+      "id": "tt7671070:1:3",
+      "title": "tt7671070:1:3",
+      "timestamp": "2026-01-13T16:57:39.998Z",
+      "ip": "2404:8000:1002:a12d:f44d:9c19:3703:4cad",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-01-13T17:00:29.555Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt9251798:1:3",
+      "title": "tt9251798:1:3",
+      "timestamp": "2026-01-13T17:02:37.014Z",
+      "ip": "2401:4900:1c7a:87aa:74eb:2582:5504:2c95",
+      "username": "user_9b"
+    },
+    {
+      "type": "series",
+      "id": "tt9251798:1:4",
+      "title": "tt9251798:1:4",
+      "timestamp": "2026-01-13T17:03:04.463Z",
+      "ip": "2401:4900:1c7a:87aa:74eb:2582:5504:2c95",
+      "username": "user_9b"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:1:1",
+      "title": "The Night Agent",
+      "timestamp": "2026-01-13T17:04:19.542Z",
+      "ip": "115.98.234.123",
+      "username": "insnaee99"
     }
   ],
   "activeNow": {
@@ -49700,7 +49789,7 @@
       "id": "tt28802657",
       "title": "tt28802657",
       "username": "karthik",
-      "lastActive": 1768320749370
+      "lastActive": 1768323344699
     },
     "223.181.46.150": {
       "type": "movie",
@@ -49858,10 +49947,10 @@
     },
     "38.134.138.246": {
       "type": "movie",
-      "id": "tt5950044",
-      "title": "Superman",
+      "id": "tt16311594",
+      "title": "F1",
       "username": "thala_75",
-      "lastActive": 1768321056305
+      "lastActive": 1768323629555
     },
     "122.161.242.88": {
       "type": "movie",
@@ -49935,10 +50024,10 @@
     },
     "2404:8000:1002:a12d:f44d:9c19:3703:4cad": {
       "type": "series",
-      "id": "tt7671070:1:2",
-      "title": "tt7671070:1:2",
+      "id": "tt7671070:1:3",
+      "title": "tt7671070:1:3",
       "username": "anonymous",
-      "lastActive": 1768321344219
+      "lastActive": 1768323459998
     },
     "2a02:6680:110b:2794:48a3:65c4:627c:3b0a": {
       "type": "series",
@@ -50145,10 +50234,10 @@
     },
     "103.172.153.111": {
       "type": "movie",
-      "id": "tt12299608",
-      "title": "Mickey 17",
+      "id": "tt0815934",
+      "title": "tt0815934",
       "username": "anonymous",
-      "lastActive": 1768322186197
+      "lastActive": 1768323046975
     },
     "122.177.221.13": {
       "type": "series",
@@ -50158,11 +50247,11 @@
       "lastActive": 1768322431016
     },
     "115.98.234.123": {
-      "type": "movie",
-      "id": "tt36642456",
-      "title": "tt36642456",
+      "type": "series",
+      "id": "tt13918776:1:1",
+      "title": "The Night Agent",
       "username": "insnaee99",
-      "lastActive": 1768322469872
+      "lastActive": 1768323859542
     },
     "2409:40c4:3002:2aaa:d8b4:c4ff:fe8e:9b5a": {
       "type": "series",
@@ -50197,14 +50286,14 @@
       "id": "tt0903624",
       "title": "The Hobbit: An Unexpected Journey",
       "username": "anonymous",
-      "lastActive": 1768322764641
+      "lastActive": 1768323096625
     },
     "2401:4900:1c7a:87aa:74eb:2582:5504:2c95": {
       "type": "series",
-      "id": "tt9251798:1:3",
-      "title": "tt9251798:1:3",
+      "id": "tt9251798:1:4",
+      "title": "tt9251798:1:4",
       "username": "user_9b",
-      "lastActive": 1768322713153
+      "lastActive": 1768323784463
     },
     "2409:40e4:1040:5b6e:8000::": {
       "type": "series",
@@ -50219,6 +50308,13 @@
       "title": "It",
       "username": "jinwoooooi",
       "lastActive": 1768322885709
+    },
+    "2409:40c1:1a:9d29:58e0:6f9c:e9f6:1e07": {
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
+      "username": "gendaswammy",
+      "lastActive": 1768323084010
     }
   }
 }
