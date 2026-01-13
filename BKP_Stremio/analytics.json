@@ -1,5 +1,5 @@
 {
-  "totalViews": 5814,
+  "totalViews": 5820,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1527,7 +1527,10 @@
     "2401:4900:84d1:10dc:e0ae:acff:fed6:9a70",
     "223.185.23.42",
     "103.175.9.9",
-    "2a02:6ea0:5601:6472::11"
+    "2a02:6ea0:5601:6472::11",
+    "2402:a00:10a:815f:302c:d29b:993d:c4e2",
+    "2409:40e1:4005:f90c:e4ae:6eff:fe14:bf42",
+    "2409:40d0:102d:6b84:d002:b0ff:fee8:ec16"
   ],
   "views": [
     {
@@ -48031,6 +48034,54 @@
       "timestamp": "2026-01-13T14:01:37.516Z",
       "ip": "2a02:6ea0:5601:6472::11",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:1:1",
+      "title": "tt19854762:1:1",
+      "timestamp": "2026-01-13T14:04:07.332Z",
+      "ip": "2402:a00:10a:815f:302c:d29b:993d:c4e2",
+      "username": "admin"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:1:1",
+      "title": "tt19854762:1:1",
+      "timestamp": "2026-01-13T14:04:10.253Z",
+      "ip": "2402:a00:10a:815f:302c:d29b:993d:c4e2",
+      "username": "admin"
+    },
+    {
+      "type": "movie",
+      "id": "tt0292490",
+      "title": "tt0292490",
+      "timestamp": "2026-01-13T14:06:15.685Z",
+      "ip": "2409:40e1:4005:f90c:e4ae:6eff:fe14:bf42",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt9061402",
+      "title": "tt9061402",
+      "timestamp": "2026-01-13T14:07:21.253Z",
+      "ip": "2a02:6ea0:5601:6472::11",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt34276058",
+      "title": "The Family Plan 2",
+      "timestamp": "2026-01-13T14:10:49.835Z",
+      "ip": "2409:40d0:102d:6b84:d002:b0ff:fee8:ec16",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt27441481",
+      "title": "tt27441481",
+      "timestamp": "2026-01-13T14:16:00.104Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
     }
   ],
   "activeNow": {
@@ -48106,10 +48157,38 @@
     },
     "2a02:6ea0:5601:6472::11": {
       "type": "movie",
-      "id": "tt1130980",
-      "title": "tt1130980",
+      "id": "tt9061402",
+      "title": "tt9061402",
       "username": "anonymous",
-      "lastActive": 1768312897516
+      "lastActive": 1768313241253
+    },
+    "2402:a00:10a:815f:302c:d29b:993d:c4e2": {
+      "type": "series",
+      "id": "tt19854762:1:1",
+      "title": "tt19854762:1:1",
+      "username": "admin",
+      "lastActive": 1768313050253
+    },
+    "2409:40e1:4005:f90c:e4ae:6eff:fe14:bf42": {
+      "type": "movie",
+      "id": "tt0292490",
+      "title": "tt0292490",
+      "username": "anonymous",
+      "lastActive": 1768313175685
+    },
+    "2409:40d0:102d:6b84:d002:b0ff:fee8:ec16": {
+      "type": "movie",
+      "id": "tt34276058",
+      "title": "The Family Plan 2",
+      "username": "ryuzaklo26",
+      "lastActive": 1768313449835
+    },
+    "115.98.99.86": {
+      "type": "movie",
+      "id": "tt27441481",
+      "title": "tt27441481",
+      "username": "nothing_8888",
+      "lastActive": 1768313760104
     }
   }
 }
