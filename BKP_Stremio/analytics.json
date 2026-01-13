@@ -1,5 +1,5 @@
 {
-  "totalViews": 5499,
+  "totalViews": 5504,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -45449,6 +45449,46 @@
       "timestamp": "2026-01-13T05:08:52.828Z",
       "ip": "76.72.57.157",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0343314:2:7",
+      "title": "tt0343314:2:7",
+      "timestamp": "2026-01-13T05:11:59.943Z",
+      "ip": "2a02:6ea0:d213:5491::15",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt3678782",
+      "title": "tt3678782",
+      "timestamp": "2026-01-13T05:16:52.356Z",
+      "ip": "103.212.145.162",
+      "username": "suprememayank"
+    },
+    {
+      "type": "movie",
+      "id": "tt3678782",
+      "title": "tt3678782",
+      "timestamp": "2026-01-13T05:18:17.490Z",
+      "ip": "103.212.145.162",
+      "username": "suprememayank"
+    },
+    {
+      "type": "series",
+      "id": "tt0141842:3:5",
+      "title": "The Sopranos",
+      "timestamp": "2026-01-13T05:23:04.491Z",
+      "ip": "2600:1700:75c1:3140:cd3c:c163:6a6d:849",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:2:3",
+      "title": "tt0106004:2:3",
+      "timestamp": "2026-01-13T05:24:57.157Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -45636,10 +45676,10 @@
     },
     "103.212.145.162": {
       "type": "movie",
-      "id": "tt0209144",
-      "title": "Memento",
+      "id": "tt3678782",
+      "title": "tt3678782",
       "username": "suprememayank",
-      "lastActive": 1768237268871
+      "lastActive": 1768281497490
     },
     "203.192.255.46": {
       "type": "series",
@@ -45678,10 +45718,10 @@
     },
     "2a02:6ea0:d213:5491::15": {
       "type": "series",
-      "id": "tt0343314:2:6",
-      "title": "tt0343314:2:6",
+      "id": "tt0343314:2:7",
+      "title": "tt0343314:2:7",
       "username": "anonymous",
-      "lastActive": 1768279725238
+      "lastActive": 1768281119943
     },
     "205.254.185.14": {
       "type": "movie",
@@ -46294,10 +46334,10 @@
     },
     "162.212.211.108": {
       "type": "series",
-      "id": "tt0106004:2:2",
-      "title": "tt0106004:2:2",
+      "id": "tt0106004:2:3",
+      "title": "tt0106004:2:3",
       "username": "anonymous",
-      "lastActive": 1768280183814
+      "lastActive": 1768281897157
     },
     "154.208.49.96": {
       "type": "series",
@@ -46315,10 +46355,10 @@
     },
     "2600:1700:75c1:3140:cd3c:c163:6a6d:849": {
       "type": "series",
-      "id": "tt0141842:3:4",
+      "id": "tt0141842:3:5",
       "title": "The Sopranos",
       "username": "anonymous",
-      "lastActive": 1768272121327
+      "lastActive": 1768281784491
     },
     "71.179.184.52": {
       "type": "movie",
