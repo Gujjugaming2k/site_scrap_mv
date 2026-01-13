@@ -1,5 +1,5 @@
 {
-  "totalViews": 5568,
+  "totalViews": 5580,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1475,7 +1475,11 @@
     "2600:1700:53d0:43c0:3584:b0dd:310d:1a1b",
     "2405:201:500c:496b:b528:4495:f74e:291c",
     "2401:4900:1cb1:36b:38b5:d9f6:da4b:20c1",
-    "103.148.43.100"
+    "103.148.43.100",
+    "2409:40c2:2055:5110:3c40:b1f4:c51a:3623",
+    "182.77.73.122",
+    "2400:1a00:6b2d:d79f:331c:ec09:6f79:1852",
+    "2409:40f3:20c7:b354:88a7:91be:404e:6b97"
   ],
   "views": [
     {
@@ -46011,6 +46015,102 @@
       "timestamp": "2026-01-13T07:31:34.235Z",
       "ip": "2405:201:500c:496b:b528:4495:f74e:291c",
       "username": "karthik"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629",
+      "title": "tt0388629",
+      "timestamp": "2026-01-13T07:32:01.206Z",
+      "ip": "2405:201:500c:496b:b528:4495:f74e:291c",
+      "username": "karthik"
+    },
+    {
+      "type": "movie",
+      "id": "tt5311514",
+      "title": "Your Name.",
+      "timestamp": "2026-01-13T07:32:15.831Z",
+      "ip": "2405:201:500c:496b:b528:4495:f74e:291c",
+      "username": "karthik"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-13T07:33:13.300Z",
+      "ip": "2409:40e6:20a:4f6f:2050:98ff:fed6:9093",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt30972810",
+      "title": "tt30972810",
+      "timestamp": "2026-01-13T07:34:04.576Z",
+      "ip": "2409:40e4:10ae:360e:88b8:84c7:32b0:e256",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-13T07:35:10.530Z",
+      "ip": "2409:40e6:20a:4f6f:2050:98ff:fed6:9093",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt14142060",
+      "title": "tt14142060",
+      "timestamp": "2026-01-13T07:38:51.054Z",
+      "ip": "205.254.185.14",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt27040807",
+      "title": "tt27040807",
+      "timestamp": "2026-01-13T07:39:47.154Z",
+      "ip": "2409:40c2:2055:5110:3c40:b1f4:c51a:3623",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt27040807",
+      "title": "tt27040807",
+      "timestamp": "2026-01-13T07:40:29.304Z",
+      "ip": "2409:40c2:2055:5110:3c40:b1f4:c51a:3623",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt35727678",
+      "title": "tt35727678",
+      "timestamp": "2026-01-13T07:41:39.764Z",
+      "ip": "182.77.73.122",
+      "username": "thebatmanbyte"
+    },
+    {
+      "type": "movie",
+      "id": "tt1302011",
+      "title": "Kung Fu Panda 2",
+      "timestamp": "2026-01-13T07:43:18.220Z",
+      "ip": "2400:1a00:6b2d:d79f:331c:ec09:6f79:1852",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4570986:1:1",
+      "title": "tt4570986:1:1",
+      "timestamp": "2026-01-13T07:43:50.218Z",
+      "ip": "2409:40f3:20c7:b354:88a7:91be:404e:6b97",
+      "username": "goatedbentennyson"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:2:9",
+      "title": "tt0106004:2:9",
+      "timestamp": "2026-01-13T07:46:29.407Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -46250,7 +46350,7 @@
       "id": "tt14142060",
       "title": "tt14142060",
       "username": "anonymous",
-      "lastActive": 1768286411537
+      "lastActive": 1768289931054
     },
     "2402:3a80:403e:f469:60f8:4365:63ab:47fc": {
       "type": "series",
@@ -46495,7 +46595,7 @@
       "id": "tt31227572",
       "title": "tt31227572",
       "username": "nabakun24",
-      "lastActive": 1768288789025
+      "lastActive": 1768289710530
     },
     "2409:40d6:1019:5e96:e166:be05:642b:72ca": {
       "type": "movie",
@@ -46856,10 +46956,10 @@
     },
     "162.212.211.108": {
       "type": "series",
-      "id": "tt0106004:2:8",
-      "title": "tt0106004:2:8",
+      "id": "tt0106004:2:9",
+      "title": "tt0106004:2:9",
       "username": "anonymous",
-      "lastActive": 1768288576316
+      "lastActive": 1768290389407
     },
     "154.208.49.96": {
       "type": "series",
@@ -47185,10 +47285,10 @@
     },
     "2409:40e4:10ae:360e:88b8:84c7:32b0:e256": {
       "type": "movie",
-      "id": "tt12801262",
-      "title": "Luca",
+      "id": "tt30972810",
+      "title": "tt30972810",
       "username": "askchm",
-      "lastActive": 1768288178647
+      "lastActive": 1768289644576
     },
     "2600:1700:53d0:43c0:3584:b0dd:310d:1a1b": {
       "type": "movie",
@@ -47198,11 +47298,11 @@
       "lastActive": 1768285636101
     },
     "2405:201:500c:496b:b528:4495:f74e:291c": {
-      "type": "series",
-      "id": "tt0388629",
-      "title": "tt0388629",
+      "type": "movie",
+      "id": "tt5311514",
+      "title": "Your Name.",
       "username": "karthik",
-      "lastActive": 1768289494235
+      "lastActive": 1768289535831
     },
     "2401:4900:1cb1:36b:38b5:d9f6:da4b:20c1": {
       "type": "movie",
@@ -47217,6 +47317,34 @@
       "title": "Peacemaker",
       "username": "wikramsingh4268",
       "lastActive": 1768288629417
+    },
+    "2409:40c2:2055:5110:3c40:b1f4:c51a:3623": {
+      "type": "movie",
+      "id": "tt27040807",
+      "title": "tt27040807",
+      "username": "anonymous",
+      "lastActive": 1768290029304
+    },
+    "182.77.73.122": {
+      "type": "movie",
+      "id": "tt35727678",
+      "title": "tt35727678",
+      "username": "thebatmanbyte",
+      "lastActive": 1768290099764
+    },
+    "2400:1a00:6b2d:d79f:331c:ec09:6f79:1852": {
+      "type": "movie",
+      "id": "tt1302011",
+      "title": "Kung Fu Panda 2",
+      "username": "anonymous",
+      "lastActive": 1768290198220
+    },
+    "2409:40f3:20c7:b354:88a7:91be:404e:6b97": {
+      "type": "series",
+      "id": "tt4570986:1:1",
+      "title": "tt4570986:1:1",
+      "username": "goatedbentennyson",
+      "lastActive": 1768290230218
     }
   }
 }
