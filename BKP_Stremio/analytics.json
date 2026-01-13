@@ -1,5 +1,5 @@
 {
-  "totalViews": 5512,
+  "totalViews": 5520,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1466,7 +1466,9 @@
     "51.89.226.48",
     "193.142.201.154",
     "2409:40e3:5401:380c:8000::",
-    "2409:40e4:109e:2afd:88b8:84c7:32b0:e256"
+    "2409:40e4:109e:2afd:88b8:84c7:32b0:e256",
+    "2409:40c1:3101:f423:b8fe:80ff:fef8:cb8f",
+    "2409:40d4:30d3:65fa:b41a:adff:fecb:bb52"
   ],
   "views": [
     {
@@ -45554,6 +45556,70 @@
       "timestamp": "2026-01-13T05:55:07.062Z",
       "ip": "2a02:6ea0:d213:5491::15",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:2:5",
+      "title": "tt0106004:2:5",
+      "timestamp": "2026-01-13T05:56:50.414Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-13T05:59:55.744Z",
+      "ip": "2409:40c1:3101:f423:b8fe:80ff:fef8:cb8f",
+      "username": "tips9694"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:1:4",
+      "title": "tt28102595:1:4",
+      "timestamp": "2026-01-13T06:01:38.013Z",
+      "ip": "2409:40d4:30d3:65fa:b41a:adff:fecb:bb52",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:3:7",
+      "title": "tt30003786:3:7",
+      "timestamp": "2026-01-13T06:01:41.290Z",
+      "ip": "205.254.185.14",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:1:4",
+      "title": "tt28102595:1:4",
+      "timestamp": "2026-01-13T06:01:43.996Z",
+      "ip": "2409:40d4:30d3:65fa:b41a:adff:fecb:bb52",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-13T06:02:56.713Z",
+      "ip": "205.254.185.14",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-13T06:04:21.644Z",
+      "ip": "205.254.185.14",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt28083456",
+      "title": "tt28083456",
+      "timestamp": "2026-01-13T06:09:31.781Z",
+      "ip": "193.142.201.154",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -45789,11 +45855,11 @@
       "lastActive": 1768283707062
     },
     "205.254.185.14": {
-      "type": "series",
-      "id": "tt30003786:4:2",
-      "title": "tt30003786:4:2",
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
       "username": "anonymous",
-      "lastActive": 1768283316143
+      "lastActive": 1768284261644
     },
     "2402:3a80:403e:f469:60f8:4365:63ab:47fc": {
       "type": "series",
@@ -46399,10 +46465,10 @@
     },
     "162.212.211.108": {
       "type": "series",
-      "id": "tt0106004:2:4",
-      "title": "tt0106004:2:4",
+      "id": "tt0106004:2:5",
+      "title": "tt0106004:2:5",
       "username": "anonymous",
-      "lastActive": 1768282367862
+      "lastActive": 1768283810414
     },
     "154.208.49.96": {
       "type": "series",
@@ -46678,11 +46744,11 @@
       "lastActive": 1768279114972
     },
     "193.142.201.154": {
-      "type": "series",
-      "id": "tt1124373:1:9",
-      "title": "tt1124373:1:9",
+      "type": "movie",
+      "id": "tt28083456",
+      "title": "tt28083456",
       "username": "anonymous",
-      "lastActive": 1768279778542
+      "lastActive": 1768284571781
     },
     "2409:40e3:5401:380c:8000::": {
       "type": "series",
@@ -46697,6 +46763,20 @@
       "title": "Madagascar",
       "username": "askchm",
       "lastActive": 1768283096133
+    },
+    "2409:40c1:3101:f423:b8fe:80ff:fef8:cb8f": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "tips9694",
+      "lastActive": 1768283995744
+    },
+    "2409:40d4:30d3:65fa:b41a:adff:fecb:bb52": {
+      "type": "series",
+      "id": "tt28102595:1:4",
+      "title": "tt28102595:1:4",
+      "username": "golu_vk",
+      "lastActive": 1768284103996
     }
   }
 }
