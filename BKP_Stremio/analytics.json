@@ -1,5 +1,5 @@
 {
-  "totalViews": 5802,
+  "totalViews": 5814,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1523,7 +1523,11 @@
     "2401:4900:ac36:6350:acab:d105:48a8:b589",
     "59.184.59.2",
     "2401:4900:1c74:f36d:b40d:57cf:dc0d:f9e4",
-    "223.181.46.150"
+    "223.181.46.150",
+    "2401:4900:84d1:10dc:e0ae:acff:fed6:9a70",
+    "223.185.23.42",
+    "103.175.9.9",
+    "2a02:6ea0:5601:6472::11"
   ],
   "views": [
     {
@@ -47931,6 +47935,102 @@
       "timestamp": "2026-01-13T13:46:14.831Z",
       "ip": "2001:8f8:1623:278d:5146:c78e:c517:9312",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:3",
+      "title": "tt19244304:1:3",
+      "timestamp": "2026-01-13T13:48:45.137Z",
+      "ip": "2401:4900:84d1:10dc:e0ae:acff:fed6:9a70",
+      "username": "pikazesty"
+    },
+    {
+      "type": "series",
+      "id": "tt22248376:1:5",
+      "title": "tt22248376:1:5",
+      "timestamp": "2026-01-13T13:52:26.411Z",
+      "ip": "223.185.23.42",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt2359704:3:1",
+      "title": "tt2359704:3:1",
+      "timestamp": "2026-01-13T13:53:01.294Z",
+      "ip": "223.185.23.42",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt2359704:5:38",
+      "title": "tt2359704:5:38",
+      "timestamp": "2026-01-13T13:53:28.377Z",
+      "ip": "223.185.23.42",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-01-13T13:54:01.754Z",
+      "ip": "103.175.9.9",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt14142060",
+      "title": "tt14142060",
+      "timestamp": "2026-01-13T13:54:41.594Z",
+      "ip": "2.50.199.25",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-13T13:57:27.497Z",
+      "ip": "2401:4900:ac36:6350:acab:d105:48a8:b589",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:4",
+      "title": "tt1399664:2:4",
+      "timestamp": "2026-01-13T13:57:33.865Z",
+      "ip": "2401:4900:ac36:6350:acab:d105:48a8:b589",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:3",
+      "title": "tt1399664:2:3",
+      "timestamp": "2026-01-13T13:57:34.853Z",
+      "ip": "2401:4900:ac36:6350:acab:d105:48a8:b589",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:2",
+      "title": "tt1399664:2:2",
+      "timestamp": "2026-01-13T13:58:48.801Z",
+      "ip": "2401:4900:ac36:6350:acab:d105:48a8:b589",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:3",
+      "title": "tt1399664:2:3",
+      "timestamp": "2026-01-13T13:59:21.440Z",
+      "ip": "2401:4900:ac36:6350:acab:d105:48a8:b589",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt1130980",
+      "title": "tt1130980",
+      "timestamp": "2026-01-13T14:01:37.516Z",
+      "ip": "2a02:6ea0:5601:6472::11",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -47968,6 +48068,48 @@
       "title": "tt1358522:4:9",
       "username": "anonymous",
       "lastActive": 1768311974831
+    },
+    "2401:4900:84d1:10dc:e0ae:acff:fed6:9a70": {
+      "type": "series",
+      "id": "tt19244304:1:3",
+      "title": "tt19244304:1:3",
+      "username": "pikazesty",
+      "lastActive": 1768312125137
+    },
+    "223.185.23.42": {
+      "type": "series",
+      "id": "tt2359704:5:38",
+      "title": "tt2359704:5:38",
+      "username": "sinbad1722",
+      "lastActive": 1768312408377
+    },
+    "103.175.9.9": {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "username": "anonymous",
+      "lastActive": 1768312441754
+    },
+    "2.50.199.25": {
+      "type": "movie",
+      "id": "tt14142060",
+      "title": "tt14142060",
+      "username": "anonymous",
+      "lastActive": 1768312481594
+    },
+    "2401:4900:ac36:6350:acab:d105:48a8:b589": {
+      "type": "series",
+      "id": "tt1399664:2:3",
+      "title": "tt1399664:2:3",
+      "username": "vflix1993",
+      "lastActive": 1768312761440
+    },
+    "2a02:6ea0:5601:6472::11": {
+      "type": "movie",
+      "id": "tt1130980",
+      "title": "tt1130980",
+      "username": "anonymous",
+      "lastActive": 1768312897516
     }
   }
 }
