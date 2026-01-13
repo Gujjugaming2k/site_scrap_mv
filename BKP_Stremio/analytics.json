@@ -1,5 +1,5 @@
 {
-  "totalViews": 6360,
+  "totalViews": 6368,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1621,7 +1621,8 @@
     "152.59.222.40",
     "78.211.211.190",
     "2409:40f3:1:7084:6430:ea5:8585:1aab",
-    "38.85.165.74"
+    "38.85.165.74",
+    "190.218.41.78"
   ],
   "views": [
     {
@@ -52493,15 +52494,79 @@
       "timestamp": "2026-01-13T22:19:21.644Z",
       "ip": "2001:861:e3d6:4cb0:2fe2:7d2:8929:7c79",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-13T22:20:41.675Z",
+      "ip": "190.218.41.78",
+      "username": "ymcine"
+    },
+    {
+      "type": "series",
+      "id": "tt0108757:4:7",
+      "title": "tt0108757:4:7",
+      "timestamp": "2026-01-13T22:23:25.154Z",
+      "ip": "2a02:810d:6005:9700:9e2a:4334:964c:829d",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt14976292:2:1",
+      "title": "tt14976292:2:1",
+      "timestamp": "2026-01-13T22:24:21.261Z",
+      "ip": "2001:861:e3d6:4cb0:2fe2:7d2:8929:7c79",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt6424454:1:12",
+      "title": "tt6424454:1:12",
+      "timestamp": "2026-01-13T22:27:09.645Z",
+      "ip": "78.211.211.190",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0107290",
+      "title": "Jurassic Park",
+      "timestamp": "2026-01-13T22:28:29.030Z",
+      "ip": "2409:40f3:1:7084:6430:ea5:8585:1aab",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0107290",
+      "title": "Jurassic Park",
+      "timestamp": "2026-01-13T22:28:29.059Z",
+      "ip": "2409:40f3:1:7084:6430:ea5:8585:1aab",
+      "username": "sergio_leone96"
+    },
+    {
+      "type": "series",
+      "id": "tt16124614:1:2",
+      "title": "tt16124614:1:2",
+      "timestamp": "2026-01-13T22:28:58.582Z",
+      "ip": "80.192.52.146",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:4:7",
+      "title": "tt0412142:4:7",
+      "timestamp": "2026-01-13T22:34:50.625Z",
+      "ip": "120.56.163.42",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
     "120.56.163.42": {
       "type": "series",
-      "id": "tt0412142:4:6",
-      "title": "tt0412142:4:6",
+      "id": "tt0412142:4:7",
+      "title": "tt0412142:4:7",
       "username": "anonymous",
-      "lastActive": 1768341076547
+      "lastActive": 1768343690625
     },
     "38.134.138.246": {
       "type": "movie",
@@ -52736,10 +52801,10 @@
     },
     "2a02:810d:6005:9700:9e2a:4334:964c:829d": {
       "type": "series",
-      "id": "tt0108757:4:6",
-      "title": "tt0108757:4:6",
+      "id": "tt0108757:4:7",
+      "title": "tt0108757:4:7",
       "username": "anonymous",
-      "lastActive": 1768339144798
+      "lastActive": 1768343005154
     },
     "82.79.141.254": {
       "type": "series",
@@ -52750,10 +52815,10 @@
     },
     "80.192.52.146": {
       "type": "series",
-      "id": "tt16124614:1:1",
-      "title": "tt16124614:1:1",
+      "id": "tt16124614:1:2",
+      "title": "tt16124614:1:2",
       "username": "anonymous",
-      "lastActive": 1768341778943
+      "lastActive": 1768343338582
     },
     "47.15.218.109": {
       "type": "movie",
@@ -52819,11 +52884,11 @@
       "lastActive": 1768340593711
     },
     "2001:861:e3d6:4cb0:2fe2:7d2:8929:7c79": {
-      "type": "movie",
-      "id": "tt33428606",
-      "title": "tt33428606",
+      "type": "series",
+      "id": "tt14976292:2:1",
+      "title": "tt14976292:2:1",
       "username": "anonymous",
-      "lastActive": 1768342761644
+      "lastActive": 1768343061261
     },
     "38.252.222.125": {
       "type": "series",
@@ -52848,17 +52913,17 @@
     },
     "78.211.211.190": {
       "type": "series",
-      "id": "tt6424454:1:11",
-      "title": "tt6424454:1:11",
+      "id": "tt6424454:1:12",
+      "title": "tt6424454:1:12",
       "username": "anonymous",
-      "lastActive": 1768341919325
+      "lastActive": 1768343229645
     },
     "2409:40f3:1:7084:6430:ea5:8585:1aab": {
       "type": "movie",
       "id": "tt0107290",
       "title": "Jurassic Park",
       "username": "sergio_leone96",
-      "lastActive": 1768342207063
+      "lastActive": 1768343309059
     },
     "38.85.165.74": {
       "type": "series",
@@ -52866,6 +52931,13 @@
       "title": "tt1001484:1:1",
       "username": "anonymous",
       "lastActive": 1768342277092
+    },
+    "190.218.41.78": {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "username": "ymcine",
+      "lastActive": 1768342841675
     }
   }
 }
