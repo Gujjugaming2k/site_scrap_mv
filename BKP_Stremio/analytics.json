@@ -1,5 +1,5 @@
 {
-  "totalViews": 5759,
+  "totalViews": 5764,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -47578,6 +47578,46 @@
       "timestamp": "2026-01-13T12:23:57.490Z",
       "ip": "2409:40e2:201d:6ab6:8000::",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1358522:4:8",
+      "title": "tt1358522:4:8",
+      "timestamp": "2026-01-13T12:30:54.005Z",
+      "ip": "2001:8f8:1623:278d:5146:c78e:c517:9312",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt14218830:1:1",
+      "title": "tt14218830:1:1",
+      "timestamp": "2026-01-13T12:32:31.050Z",
+      "ip": "2401:4900:8824:7d34:909e:6e4e:37b:d2fc",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt14218830:1:1",
+      "title": "tt14218830:1:1",
+      "timestamp": "2026-01-13T12:32:41.131Z",
+      "ip": "2401:4900:8824:7d34:909e:6e4e:37b:d2fc",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt14218830:1:1",
+      "title": "tt14218830:1:1",
+      "timestamp": "2026-01-13T12:32:41.304Z",
+      "ip": "2401:4900:8824:7d34:909e:6e4e:37b:d2fc",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt0343314:2:12",
+      "title": "tt0343314:2:12",
+      "timestamp": "2026-01-13T12:33:33.736Z",
+      "ip": "2a02:6ea0:d213:5491::15",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -47807,10 +47847,10 @@
     },
     "2a02:6ea0:d213:5491::15": {
       "type": "series",
-      "id": "tt0343314:2:11",
-      "title": "tt0343314:2:11",
+      "id": "tt0343314:2:12",
+      "title": "tt0343314:2:12",
       "username": "anonymous",
-      "lastActive": 1768306300374
+      "lastActive": 1768307613736
     },
     "205.254.185.14": {
       "type": "movie",
@@ -49032,10 +49072,10 @@
     },
     "2001:8f8:1623:278d:5146:c78e:c517:9312": {
       "type": "series",
-      "id": "tt1358522:4:7",
-      "title": "tt1358522:4:7",
+      "id": "tt1358522:4:8",
+      "title": "tt1358522:4:8",
       "username": "anonymous",
-      "lastActive": 1768305038269
+      "lastActive": 1768307454005
     },
     "2401:4900:1cb1:36b:fc75:364d:31ef:3680": {
       "type": "series",
@@ -49067,10 +49107,10 @@
     },
     "2401:4900:8824:7d34:909e:6e4e:37b:d2fc": {
       "type": "series",
-      "id": "tt5753856:1:1",
-      "title": "tt5753856:1:1",
+      "id": "tt14218830:1:1",
+      "title": "tt14218830:1:1",
       "username": "sinbad1722",
-      "lastActive": 1768306972063
+      "lastActive": 1768307561304
     },
     "140.213.1.204": {
       "type": "movie",
