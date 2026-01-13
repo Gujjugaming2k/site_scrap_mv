@@ -1,5 +1,5 @@
 {
-  "totalViews": 5731,
+  "totalViews": 5746,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1509,7 +1509,10 @@
     "2806:290:a800:8396:8762:7b48:7d22:96c",
     "94.156.30.111",
     "2001:8f8:1623:278d:5146:c78e:c517:9312",
-    "2401:4900:1cb1:36b:fc75:364d:31ef:3680"
+    "2401:4900:1cb1:36b:fc75:364d:31ef:3680",
+    "196.191.72.125",
+    "2409:40e2:2088:2cc6:a72c:920d:dd42:fa5d",
+    "154.18.196.98"
   ],
   "views": [
     {
@@ -47349,6 +47352,126 @@
       "timestamp": "2026-01-13T11:52:48.420Z",
       "ip": "85.154.7.221",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0123740",
+      "title": "tt0123740",
+      "timestamp": "2026-01-13T11:55:01.390Z",
+      "ip": "85.154.7.221",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt39137681:1:1",
+      "title": "tt39137681:1:1",
+      "timestamp": "2026-01-13T11:55:24.746Z",
+      "ip": "2401:4900:1cb1:36b:fc75:364d:31ef:3680",
+      "username": "srinivasasai"
+    },
+    {
+      "type": "series",
+      "id": "tt39137681:1:1",
+      "title": "tt39137681:1:1",
+      "timestamp": "2026-01-13T11:56:17.431Z",
+      "ip": "2401:4900:1cb1:36b:fc75:364d:31ef:3680",
+      "username": "srinivasasai"
+    },
+    {
+      "type": "movie",
+      "id": "tt21103218",
+      "title": "The Lost Bus",
+      "timestamp": "2026-01-13T12:03:08.642Z",
+      "ip": "205.254.185.14",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1757678",
+      "title": "tt1757678",
+      "timestamp": "2026-01-13T12:03:22.850Z",
+      "ip": "196.191.72.125",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1632701:1:1",
+      "title": "tt1632701:1:1",
+      "timestamp": "2026-01-13T12:04:16.865Z",
+      "ip": "2409:40e2:2088:2cc6:a72c:920d:dd42:fa5d",
+      "username": "vflix_admin_1"
+    },
+    {
+      "type": "movie",
+      "id": "tt0119488",
+      "title": "tt0119488",
+      "timestamp": "2026-01-13T12:05:15.418Z",
+      "ip": "205.254.185.14",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0079197",
+      "title": "tt0079197",
+      "timestamp": "2026-01-13T12:06:39.293Z",
+      "ip": "85.154.7.221",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:1:6",
+      "title": "Fallout",
+      "timestamp": "2026-01-13T12:07:06.716Z",
+      "ip": "154.18.196.98",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0101534",
+      "title": "tt0101534",
+      "timestamp": "2026-01-13T12:07:15.365Z",
+      "ip": "85.154.7.221",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt27714581",
+      "title": "tt27714581",
+      "timestamp": "2026-01-13T12:08:01.257Z",
+      "ip": "205.254.185.14",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0069914",
+      "title": "tt0069914",
+      "timestamp": "2026-01-13T12:08:14.241Z",
+      "ip": "85.154.7.221",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0126467",
+      "title": "tt0126467",
+      "timestamp": "2026-01-13T12:09:09.301Z",
+      "ip": "85.154.7.221",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0063176",
+      "title": "tt0063176",
+      "timestamp": "2026-01-13T12:09:34.871Z",
+      "ip": "85.154.7.221",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0061833",
+      "title": "tt0061833",
+      "timestamp": "2026-01-13T12:10:11.795Z",
+      "ip": "85.154.7.221",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -47585,10 +47708,10 @@
     },
     "205.254.185.14": {
       "type": "movie",
-      "id": "tt15387182",
-      "title": "tt15387182",
+      "id": "tt27714581",
+      "title": "tt27714581",
       "username": "anonymous",
-      "lastActive": 1768304616047
+      "lastActive": 1768306081257
     },
     "2402:3a80:403e:f469:60f8:4365:63ab:47fc": {
       "type": "series",
@@ -48635,10 +48758,10 @@
     },
     "85.154.7.221": {
       "type": "movie",
-      "id": "tt0067145",
-      "title": "tt0067145",
+      "id": "tt0061833",
+      "title": "tt0061833",
       "username": "anonymous",
-      "lastActive": 1768305168420
+      "lastActive": 1768306211795
     },
     "110.136.219.213": {
       "type": "movie",
@@ -48809,11 +48932,32 @@
       "lastActive": 1768305038269
     },
     "2401:4900:1cb1:36b:fc75:364d:31ef:3680": {
-      "type": "movie",
-      "id": "tt22740896",
-      "title": "tt22740896",
+      "type": "series",
+      "id": "tt39137681:1:1",
+      "title": "tt39137681:1:1",
       "username": "srinivasasai",
-      "lastActive": 1768305157749
+      "lastActive": 1768305377431
+    },
+    "196.191.72.125": {
+      "type": "movie",
+      "id": "tt1757678",
+      "title": "tt1757678",
+      "username": "anonymous",
+      "lastActive": 1768305802850
+    },
+    "2409:40e2:2088:2cc6:a72c:920d:dd42:fa5d": {
+      "type": "series",
+      "id": "tt1632701:1:1",
+      "title": "tt1632701:1:1",
+      "username": "vflix_admin_1",
+      "lastActive": 1768305856865
+    },
+    "154.18.196.98": {
+      "type": "series",
+      "id": "tt12637874:1:6",
+      "title": "Fallout",
+      "username": "anonymous",
+      "lastActive": 1768306026716
     }
   }
 }
