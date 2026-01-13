@@ -1,5 +1,5 @@
 {
-  "totalViews": 6335,
+  "totalViews": 6350,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1614,7 +1614,12 @@
     "119.234.17.26",
     "2a06:5900:5d5:b500:756c:ca7:f93d:3b12",
     "105.97.155.4",
-    "2a06:c701:475e:b100:4539:89ff:f1c2:3425"
+    "2a06:c701:475e:b100:4539:89ff:f1c2:3425",
+    "2001:861:e3d6:4cb0:2fe2:7d2:8929:7c79",
+    "38.252.222.125",
+    "2409:40c4:13:1532:8000::",
+    "152.59.222.40",
+    "78.211.211.190"
   ],
   "views": [
     {
@@ -52286,15 +52291,135 @@
       "timestamp": "2026-01-13T21:43:13.711Z",
       "ip": "2a06:c701:475e:b100:4539:89ff:f1c2:3425",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:4:6",
+      "title": "tt0412142:4:6",
+      "timestamp": "2026-01-13T21:51:16.547Z",
+      "ip": "120.56.163.42",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt38980285:1:1",
+      "title": "tt38980285:1:1",
+      "timestamp": "2026-01-13T21:53:44.492Z",
+      "ip": "2001:861:e3d6:4cb0:2fe2:7d2:8929:7c79",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt15248880:1:1",
+      "title": "tt15248880:1:1",
+      "timestamp": "2026-01-13T21:56:28.970Z",
+      "ip": "38.252.222.125",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:5",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-13T21:59:26.768Z",
+      "ip": "2409:40c4:13:1532:8000::",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:4",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-13T21:59:29.311Z",
+      "ip": "2409:40c4:13:1532:8000::",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:5",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-13T21:59:29.345Z",
+      "ip": "2409:40c4:13:1532:8000::",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "timestamp": "2026-01-13T21:59:50.464Z",
+      "ip": "72.255.11.154",
+      "username": "hvre2"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-13T22:01:36.666Z",
+      "ip": "72.255.11.154",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt14142060",
+      "title": "tt14142060",
+      "timestamp": "2026-01-13T22:02:28.829Z",
+      "ip": "72.255.11.154",
+      "username": "hvre2"
+    },
+    {
+      "type": "series",
+      "id": "tt16124614:1:1",
+      "title": "tt16124614:1:1",
+      "timestamp": "2026-01-13T22:02:58.943Z",
+      "ip": "80.192.52.146",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:2",
+      "title": "tt35335046:1:2",
+      "timestamp": "2026-01-13T22:03:01.116Z",
+      "ip": "109.77.124.116",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:3",
+      "title": "tt35335046:1:3",
+      "timestamp": "2026-01-13T22:03:29.099Z",
+      "ip": "109.77.124.116",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt0107290",
+      "title": "Jurassic Park",
+      "timestamp": "2026-01-13T22:04:14.184Z",
+      "ip": "152.59.222.40",
+      "username": "sergio_leone96"
+    },
+    {
+      "type": "movie",
+      "id": "tt0107290",
+      "title": "Jurassic Park",
+      "timestamp": "2026-01-13T22:04:14.246Z",
+      "ip": "152.59.222.40",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt6424454:1:11",
+      "title": "tt6424454:1:11",
+      "timestamp": "2026-01-13T22:05:19.325Z",
+      "ip": "78.211.211.190",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
     "120.56.163.42": {
       "type": "series",
-      "id": "tt0412142:4:4",
-      "title": "tt0412142:4:4",
+      "id": "tt0412142:4:6",
+      "title": "tt0412142:4:6",
       "username": "anonymous",
-      "lastActive": 1768335758599
+      "lastActive": 1768341076547
     },
     "38.134.138.246": {
       "type": "movie",
@@ -52493,11 +52618,11 @@
       "lastActive": 1768333670171
     },
     "72.255.11.154": {
-      "type": "series",
-      "id": "tt12343534:1:1",
-      "title": "JUJUTSU KAISEN",
+      "type": "movie",
+      "id": "tt14142060",
+      "title": "tt14142060",
       "username": "hvre2",
-      "lastActive": 1768333827238
+      "lastActive": 1768341748829
     },
     "154.208.49.98": {
       "type": "movie",
@@ -52543,10 +52668,10 @@
     },
     "80.192.52.146": {
       "type": "series",
-      "id": "tt7587890:8:2",
-      "title": "tt7587890:8:2",
+      "id": "tt16124614:1:1",
+      "title": "tt16124614:1:1",
       "username": "anonymous",
-      "lastActive": 1768338453355
+      "lastActive": 1768341778943
     },
     "47.15.218.109": {
       "type": "movie",
@@ -52571,10 +52696,10 @@
     },
     "109.77.124.116": {
       "type": "series",
-      "id": "tt35335046:1:2",
-      "title": "tt35335046:1:2",
+      "id": "tt35335046:1:3",
+      "title": "tt35335046:1:3",
       "username": "vflix1993",
-      "lastActive": 1768339369146
+      "lastActive": 1768341809099
     },
     "119.234.17.26": {
       "type": "series",
@@ -52610,6 +52735,41 @@
       "title": "tt2309295:3:9",
       "username": "anonymous",
       "lastActive": 1768340593711
+    },
+    "2001:861:e3d6:4cb0:2fe2:7d2:8929:7c79": {
+      "type": "series",
+      "id": "tt38980285:1:1",
+      "title": "tt38980285:1:1",
+      "username": "anonymous",
+      "lastActive": 1768341224492
+    },
+    "38.252.222.125": {
+      "type": "series",
+      "id": "tt15248880:1:1",
+      "title": "tt15248880:1:1",
+      "username": "anonymous",
+      "lastActive": 1768341388970
+    },
+    "2409:40c4:13:1532:8000::": {
+      "type": "series",
+      "id": "tt4574334:5:5",
+      "title": "Stranger Things",
+      "username": "anonymous",
+      "lastActive": 1768341569345
+    },
+    "152.59.222.40": {
+      "type": "movie",
+      "id": "tt0107290",
+      "title": "Jurassic Park",
+      "username": "anonymous",
+      "lastActive": 1768341854246
+    },
+    "78.211.211.190": {
+      "type": "series",
+      "id": "tt6424454:1:11",
+      "title": "tt6424454:1:11",
+      "username": "anonymous",
+      "lastActive": 1768341919325
     }
   }
 }
