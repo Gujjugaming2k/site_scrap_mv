@@ -1,5 +1,5 @@
 {
-  "totalViews": 6330,
+  "totalViews": 6335,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1612,7 +1612,9 @@
     "31.145.220.134",
     "109.77.124.116",
     "119.234.17.26",
-    "2a06:5900:5d5:b500:756c:ca7:f93d:3b12"
+    "2a06:5900:5d5:b500:756c:ca7:f93d:3b12",
+    "105.97.155.4",
+    "2a06:c701:475e:b100:4539:89ff:f1c2:3425"
   ],
   "views": [
     {
@@ -52244,6 +52246,46 @@
       "timestamp": "2026-01-13T21:28:30.519Z",
       "ip": "41.103.229.114",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2661044:7:7",
+      "title": "tt2661044:7:7",
+      "timestamp": "2026-01-13T21:37:13.344Z",
+      "ip": "2a02:8428:ad10:ae01:4900:1f26:8887:1845",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:1:4",
+      "title": "tt0369179:1:4",
+      "timestamp": "2026-01-13T21:41:34.891Z",
+      "ip": "105.97.155.4",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:1:5",
+      "title": "tt0369179:1:5",
+      "timestamp": "2026-01-13T21:42:03.940Z",
+      "ip": "105.97.155.4",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:1:5",
+      "title": "tt0369179:1:5",
+      "timestamp": "2026-01-13T21:42:04.986Z",
+      "ip": "105.97.155.4",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2309295:3:9",
+      "title": "tt2309295:3:9",
+      "timestamp": "2026-01-13T21:43:13.711Z",
+      "ip": "2a06:c701:475e:b100:4539:89ff:f1c2:3425",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -52547,6 +52589,27 @@
       "title": "Fallout",
       "username": "anonymous",
       "lastActive": 1768338910993
+    },
+    "2a02:8428:ad10:ae01:4900:1f26:8887:1845": {
+      "type": "series",
+      "id": "tt2661044:7:7",
+      "title": "tt2661044:7:7",
+      "username": "anonymous",
+      "lastActive": 1768340233344
+    },
+    "105.97.155.4": {
+      "type": "series",
+      "id": "tt0369179:1:5",
+      "title": "tt0369179:1:5",
+      "username": "anonymous",
+      "lastActive": 1768340524986
+    },
+    "2a06:c701:475e:b100:4539:89ff:f1c2:3425": {
+      "type": "series",
+      "id": "tt2309295:3:9",
+      "title": "tt2309295:3:9",
+      "username": "anonymous",
+      "lastActive": 1768340593711
     }
   }
 }
