@@ -1,5 +1,5 @@
 {
-  "totalViews": 5383,
+  "totalViews": 5386,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -44511,6 +44511,30 @@
       "timestamp": "2026-01-13T02:28:04.710Z",
       "ip": "162.212.211.108",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:3:18",
+      "title": "tt0412142:3:18",
+      "timestamp": "2026-01-13T02:41:19.676Z",
+      "ip": "117.196.154.55",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt34610311",
+      "title": "The Shadow's Edge",
+      "timestamp": "2026-01-13T02:41:40.718Z",
+      "ip": "2405:8d40:4066:2028:8428:48be:1c4a:88d0",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0141842:3:4",
+      "title": "The Sopranos",
+      "timestamp": "2026-01-13T02:42:01.327Z",
+      "ip": "2600:1700:75c1:3140:cd3c:c163:6a6d:849",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -44603,7 +44627,7 @@
       "id": "tt0412142:3:18",
       "title": "tt0412142:3:18",
       "username": "anonymous",
-      "lastActive": 1768265975720
+      "lastActive": 1768272079676
     },
     "2001:448a:10f0:6353:f071:1b2b:2e5a:4d3a": {
       "type": "series",
@@ -45377,10 +45401,10 @@
     },
     "2600:1700:75c1:3140:cd3c:c163:6a6d:849": {
       "type": "series",
-      "id": "tt0141842:3:3",
+      "id": "tt0141842:3:4",
       "title": "The Sopranos",
       "username": "anonymous",
-      "lastActive": 1768268602042
+      "lastActive": 1768272121327
     },
     "71.179.184.52": {
       "type": "movie",
@@ -45478,7 +45502,7 @@
       "id": "tt34610311",
       "title": "The Shadow's Edge",
       "username": "anonymous",
-      "lastActive": 1768267014908
+      "lastActive": 1768272100718
     },
     "2401:4900:3616:79e2:f5b4:1e4f:19b0:dede": {
       "type": "movie",
