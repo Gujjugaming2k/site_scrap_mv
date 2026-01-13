@@ -1,5 +1,5 @@
 {
-  "totalViews": 5322,
+  "totalViews": 5323,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -44015,6 +44015,14 @@
       "timestamp": "2026-01-12T23:44:14.367Z",
       "ip": "2600:1700:75c1:3140:cd3c:c163:6a6d:849",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:9",
+      "title": "tt14186672:2:9",
+      "timestamp": "2026-01-12T23:58:36.428Z",
+      "ip": "2605:59c0:2893:2b10:749c:c4ff:fe67:c059",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -44962,6 +44970,13 @@
       "title": "Avatar: The Way of Water",
       "username": "anonymous",
       "lastActive": 1768260863187
+    },
+    "2605:59c0:2893:2b10:749c:c4ff:fe67:c059": {
+      "type": "series",
+      "id": "tt14186672:2:9",
+      "title": "tt14186672:2:9",
+      "username": "anonymous",
+      "lastActive": 1768262316428
     }
   }
 }
