@@ -1,5 +1,5 @@
 {
-  "totalViews": 5332,
+  "totalViews": 5337,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -44095,6 +44095,46 @@
       "timestamp": "2026-01-13T00:16:24.081Z",
       "ip": "117.196.154.55",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:1:12",
+      "title": "tt0106004:1:12",
+      "timestamp": "2026-01-13T00:16:48.767Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:1:13",
+      "title": "tt0106004:1:13",
+      "timestamp": "2026-01-13T00:17:36.322Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:1:14",
+      "title": "tt0106004:1:14",
+      "timestamp": "2026-01-13T00:20:01.321Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:1:14",
+      "title": "tt0106004:1:14",
+      "timestamp": "2026-01-13T00:20:04.759Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:1:15",
+      "title": "tt0106004:1:15",
+      "timestamp": "2026-01-13T00:21:01.175Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -44940,10 +44980,10 @@
     },
     "162.212.211.108": {
       "type": "series",
-      "id": "tt0106004:1:11",
-      "title": "tt0106004:1:11",
+      "id": "tt0106004:1:15",
+      "title": "tt0106004:1:15",
       "username": "anonymous",
-      "lastActive": 1768263376812
+      "lastActive": 1768263661175
     },
     "154.208.49.96": {
       "type": "series",
