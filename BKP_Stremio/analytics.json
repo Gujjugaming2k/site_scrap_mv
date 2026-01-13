@@ -1,5 +1,5 @@
 {
-  "totalViews": 5580,
+  "totalViews": 5589,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1479,7 +1479,10 @@
     "2409:40c2:2055:5110:3c40:b1f4:c51a:3623",
     "182.77.73.122",
     "2400:1a00:6b2d:d79f:331c:ec09:6f79:1852",
-    "2409:40f3:20c7:b354:88a7:91be:404e:6b97"
+    "2409:40f3:20c7:b354:88a7:91be:404e:6b97",
+    "41.101.225.11",
+    "2406:7400:63:cb60:5edc:bcb:6cd3:186d",
+    "2409:40c1:3151:2b3b:30d3:62ff:fe9c:7744"
   ],
   "views": [
     {
@@ -46111,6 +46114,78 @@
       "timestamp": "2026-01-13T07:46:29.407Z",
       "ip": "162.212.211.108",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2071322:1:1",
+      "title": "tt2071322:1:1",
+      "timestamp": "2026-01-13T07:47:32.468Z",
+      "ip": "41.101.225.11",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0177443:1:1",
+      "title": "tt0177443:1:1",
+      "timestamp": "2026-01-13T07:49:11.758Z",
+      "ip": "2409:40f3:20c7:b354:88a7:91be:404e:6b97",
+      "username": "goatedbentennyson"
+    },
+    {
+      "type": "movie",
+      "id": "tt3806618",
+      "title": "tt3806618",
+      "timestamp": "2026-01-13T07:49:14.153Z",
+      "ip": "41.101.225.11",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0177443:1:1",
+      "title": "tt0177443:1:1",
+      "timestamp": "2026-01-13T07:49:49.509Z",
+      "ip": "2409:40f3:20c7:b354:88a7:91be:404e:6b97",
+      "username": "goatedbentennyson"
+    },
+    {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "timestamp": "2026-01-13T07:51:50.799Z",
+      "ip": "2401:4900:1cb1:36b:38b5:d9f6:da4b:20c1",
+      "username": "srinivasasai"
+    },
+    {
+      "type": "series",
+      "id": "tt13159924:1:8",
+      "title": "Gen V",
+      "timestamp": "2026-01-13T07:57:58.040Z",
+      "ip": "103.148.43.100",
+      "username": "wikramsingh4268"
+    },
+    {
+      "type": "movie",
+      "id": "tt5362988",
+      "title": "Wind River",
+      "timestamp": "2026-01-13T08:00:14.020Z",
+      "ip": "2406:7400:63:cb60:5edc:bcb:6cd3:186d",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-13T08:01:23.886Z",
+      "ip": "2409:40e6:20a:4f6f:2050:98ff:fed6:9093",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-13T08:02:18.451Z",
+      "ip": "2409:40c1:3151:2b3b:30d3:62ff:fe9c:7744",
+      "username": "tips9694"
     }
   ],
   "activeNow": {
@@ -46595,7 +46670,7 @@
       "id": "tt31227572",
       "title": "tt31227572",
       "username": "nabakun24",
-      "lastActive": 1768289710530
+      "lastActive": 1768291283886
     },
     "2409:40d6:1019:5e96:e166:be05:642b:72ca": {
       "type": "movie",
@@ -47309,14 +47384,14 @@
       "id": "tt22740896",
       "title": "tt22740896",
       "username": "srinivasasai",
-      "lastActive": 1768288475343
+      "lastActive": 1768290710799
     },
     "103.148.43.100": {
       "type": "series",
-      "id": "tt13146488:1:1",
-      "title": "Peacemaker",
+      "id": "tt13159924:1:8",
+      "title": "Gen V",
       "username": "wikramsingh4268",
-      "lastActive": 1768288629417
+      "lastActive": 1768291078040
     },
     "2409:40c2:2055:5110:3c40:b1f4:c51a:3623": {
       "type": "movie",
@@ -47341,10 +47416,31 @@
     },
     "2409:40f3:20c7:b354:88a7:91be:404e:6b97": {
       "type": "series",
-      "id": "tt4570986:1:1",
-      "title": "tt4570986:1:1",
+      "id": "tt0177443:1:1",
+      "title": "tt0177443:1:1",
       "username": "goatedbentennyson",
-      "lastActive": 1768290230218
+      "lastActive": 1768290589509
+    },
+    "41.101.225.11": {
+      "type": "movie",
+      "id": "tt3806618",
+      "title": "tt3806618",
+      "username": "anonymous",
+      "lastActive": 1768290554153
+    },
+    "2406:7400:63:cb60:5edc:bcb:6cd3:186d": {
+      "type": "movie",
+      "id": "tt5362988",
+      "title": "Wind River",
+      "username": "anonymous",
+      "lastActive": 1768291214020
+    },
+    "2409:40c1:3151:2b3b:30d3:62ff:fe9c:7744": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "tips9694",
+      "lastActive": 1768291338451
     }
   }
 }
