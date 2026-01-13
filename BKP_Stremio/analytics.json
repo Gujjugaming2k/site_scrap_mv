@@ -1,5 +1,5 @@
 {
-  "totalViews": 6242,
+  "totalViews": 6256,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1595,7 +1595,12 @@
     "152.59.148.62",
     "2402:3a80:165b:ed6d:aa37:84d8:fe63:fa74",
     "104.28.199.190",
-    "2409:40c1:10bd:18f7:90b1:b75:2fb4:b5d3"
+    "2409:40c1:10bd:18f7:90b1:b75:2fb4:b5d3",
+    "213.240.195.35",
+    "2a09:bac1:3680:68::2a6:7d",
+    "2401:4900:56d3:8441:9846:4cff:fe69:af79",
+    "152.59.79.214",
+    "2405:201:900f:a92b:9c87:beec:4943:820c"
   ],
   "views": [
     {
@@ -51523,6 +51528,118 @@
       "timestamp": "2026-01-13T19:25:56.293Z",
       "ip": "93.159.40.218",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1757678",
+      "title": "tt1757678",
+      "timestamp": "2026-01-13T19:28:51.603Z",
+      "ip": "213.240.195.35",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-13T19:28:56.501Z",
+      "ip": "2401:4900:1cb1:36b:1dc4:8df5:78a0:20ce",
+      "username": "srinivasasai"
+    },
+    {
+      "type": "movie",
+      "id": "tt0190641",
+      "title": "tt0190641",
+      "timestamp": "2026-01-13T19:29:10.087Z",
+      "ip": "2a09:bac1:3680:68::2a6:7d",
+      "username": "anti_force_69"
+    },
+    {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "timestamp": "2026-01-13T19:29:23.399Z",
+      "ip": "2a09:bac1:3680:68::2a6:7d",
+      "username": "anti_force_69"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-13T19:30:15.173Z",
+      "ip": "2401:4900:1cb1:36b:1dc4:8df5:78a0:20ce",
+      "username": "srinivasasai"
+    },
+    {
+      "type": "series",
+      "id": "tt1520211:9:8",
+      "title": "tt1520211:9:8",
+      "timestamp": "2026-01-13T19:30:24.327Z",
+      "ip": "41.103.229.114",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt24950660",
+      "title": "tt24950660",
+      "timestamp": "2026-01-13T19:30:36.879Z",
+      "ip": "213.240.195.35",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-13T19:31:03.033Z",
+      "ip": "2401:4900:56d3:8441:9846:4cff:fe69:af79",
+      "username": "insnaee99"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-13T19:31:10.593Z",
+      "ip": "2401:4900:56d3:8441:9846:4cff:fe69:af79",
+      "username": "insnaee99"
+    },
+    {
+      "type": "movie",
+      "id": "tt5884052",
+      "title": "tt5884052",
+      "timestamp": "2026-01-13T19:32:18.324Z",
+      "ip": "2a09:bac1:3680:68::2a6:7d",
+      "username": "anti_force_69"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-13T19:39:26.244Z",
+      "ip": "2401:4900:1cb1:36b:1dc4:8df5:78a0:20ce",
+      "username": "srinivasasai"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-13T19:41:13.342Z",
+      "ip": "152.59.79.214",
+      "username": "aasimkhilji"
+    },
+    {
+      "type": "movie",
+      "id": "tt1527793",
+      "title": "No Other Choice",
+      "timestamp": "2026-01-13T19:42:02.481Z",
+      "ip": "2405:201:900f:a92b:9c87:beec:4943:820c",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt29768334",
+      "title": "Train Dreams",
+      "timestamp": "2026-01-13T19:42:37.856Z",
+      "ip": "2405:201:900f:a92b:9c87:beec:4943:820c",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -51584,10 +51701,10 @@
     },
     "41.103.229.114": {
       "type": "series",
-      "id": "tt1520211:9:7",
-      "title": "tt1520211:9:7",
+      "id": "tt1520211:9:8",
+      "title": "tt1520211:9:8",
       "username": "anonymous",
-      "lastActive": 1768332165813
+      "lastActive": 1768332624327
     },
     "2a09:bac5:3c0a:1a46::29e:84": {
       "type": "series",
@@ -51653,11 +51770,11 @@
       "lastActive": 1768332075489
     },
     "2401:4900:1cb1:36b:1dc4:8df5:78a0:20ce": {
-      "type": "movie",
-      "id": "tt22740896",
-      "title": "tt22740896",
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
       "username": "srinivasasai",
-      "lastActive": 1768332309495
+      "lastActive": 1768333166244
     },
     "93.159.40.218": {
       "type": "series",
@@ -51672,6 +51789,41 @@
       "title": "Stranger Things",
       "username": "gendaswammy",
       "lastActive": 1768332281698
+    },
+    "213.240.195.35": {
+      "type": "movie",
+      "id": "tt24950660",
+      "title": "tt24950660",
+      "username": "anonymous",
+      "lastActive": 1768332636879
+    },
+    "2a09:bac1:3680:68::2a6:7d": {
+      "type": "movie",
+      "id": "tt5884052",
+      "title": "tt5884052",
+      "username": "anti_force_69",
+      "lastActive": 1768332738324
+    },
+    "2401:4900:56d3:8441:9846:4cff:fe69:af79": {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "username": "insnaee99",
+      "lastActive": 1768332670593
+    },
+    "152.59.79.214": {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "username": "aasimkhilji",
+      "lastActive": 1768333273342
+    },
+    "2405:201:900f:a92b:9c87:beec:4943:820c": {
+      "type": "movie",
+      "id": "tt29768334",
+      "title": "Train Dreams",
+      "username": "theonlyfreak",
+      "lastActive": 1768333357856
     }
   }
 }
