@@ -1,5 +1,5 @@
 {
-  "totalViews": 5531,
+  "totalViews": 5535,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -45713,6 +45713,38 @@
       "timestamp": "2026-01-13T06:40:11.537Z",
       "ip": "205.254.185.14",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:2:7",
+      "title": "tt0106004:2:7",
+      "timestamp": "2026-01-13T06:51:41.187Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12324366:2:6",
+      "title": "tt12324366:2:6",
+      "timestamp": "2026-01-13T06:54:56.546Z",
+      "ip": "2806:2f0:a721:e967:81dc:8ca6:8dd8:a908",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:1:4",
+      "title": "tt28102595:1:4",
+      "timestamp": "2026-01-13T06:55:31.226Z",
+      "ip": "2409:40d4:30d3:65fa:b41a:adff:fecb:bb52",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:1:4",
+      "title": "tt28102595:1:4",
+      "timestamp": "2026-01-13T06:55:37.095Z",
+      "ip": "2409:40d4:30d3:65fa:b41a:adff:fecb:bb52",
+      "username": "golu_vk"
     }
   ],
   "activeNow": {
@@ -46312,11 +46344,11 @@
       "lastActive": 1768240136928
     },
     "2806:2f0:a721:e967:81dc:8ca6:8dd8:a908": {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
+      "type": "series",
+      "id": "tt12324366:2:6",
+      "title": "tt12324366:2:6",
       "username": "anonymous",
-      "lastActive": 1768277674490
+      "lastActive": 1768287296546
     },
     "63.135.161.68": {
       "type": "movie",
@@ -46558,10 +46590,10 @@
     },
     "162.212.211.108": {
       "type": "series",
-      "id": "tt0106004:2:6",
-      "title": "tt0106004:2:6",
+      "id": "tt0106004:2:7",
+      "title": "tt0106004:2:7",
       "username": "anonymous",
-      "lastActive": 1768285568355
+      "lastActive": 1768287101187
     },
     "154.208.49.96": {
       "type": "series",
@@ -46869,7 +46901,7 @@
       "id": "tt28102595:1:4",
       "title": "tt28102595:1:4",
       "username": "golu_vk",
-      "lastActive": 1768284103996
+      "lastActive": 1768287337095
     },
     "2409:40e4:105d:345d:74ee:5bff:fec1:81d8": {
       "type": "series",
