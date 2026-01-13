@@ -139,5 +139,15 @@
     "enabled": true,
     "createdAt": "2026-01-11T07:21:27.098Z",
     "updatedAt": "2026-01-11T07:25:06.438Z"
+  },
+  {
+    "id": "1768274116761",
+    "name": "anime 2",
+    "movieUrl": "https://anime.vflix.life/stream/movie/{{id}}.json",
+    "seriesUrl": "https://anime.vflix.life/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "timeout": 10000,
+    "priority": 1,
+    "enabled": true,
+    "createdAt": "2026-01-13T03:15:16.761Z"
   }
 ]
