@@ -1,5 +1,5 @@
 {
-  "totalViews": 6026,
+  "totalViews": 6029,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -49774,6 +49774,30 @@
       "timestamp": "2026-01-13T17:04:19.542Z",
       "ip": "115.98.234.123",
       "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:1:2",
+      "title": "The Night Agent",
+      "timestamp": "2026-01-13T17:08:59.012Z",
+      "ip": "115.98.234.123",
+      "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:1:1",
+      "title": "The Night Agent",
+      "timestamp": "2026-01-13T17:09:15.342Z",
+      "ip": "115.98.234.123",
+      "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:1:2",
+      "title": "The Night Agent",
+      "timestamp": "2026-01-13T17:09:28.977Z",
+      "ip": "115.98.234.123",
+      "username": "insnaee99"
     }
   ],
   "activeNow": {
@@ -50248,10 +50272,10 @@
     },
     "115.98.234.123": {
       "type": "series",
-      "id": "tt13918776:1:1",
+      "id": "tt13918776:1:2",
       "title": "The Night Agent",
       "username": "insnaee99",
-      "lastActive": 1768323859542
+      "lastActive": 1768324168977
     },
     "2409:40c4:3002:2aaa:d8b4:c4ff:fe8e:9b5a": {
       "type": "series",
