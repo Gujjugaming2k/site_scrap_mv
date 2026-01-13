@@ -1,5 +1,5 @@
 {
-  "totalViews": 5703,
+  "totalViews": 5714,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1502,7 +1502,11 @@
     "223.228.56.124",
     "2405:201:500c:496b:e2ac:258f:f7ec:49b6",
     "2a00:7c80:0:3b3::11",
-    "2a02:6ea0:d101:6225::20"
+    "2a02:6ea0:d101:6225::20",
+    "185.111.157.241",
+    "120.56.163.42",
+    "2406:7400:63:cb60:16ad:351e:4683:d779",
+    "2806:290:a800:8396:8762:7b48:7d22:96c"
   ],
   "views": [
     {
@@ -47118,6 +47122,94 @@
       "timestamp": "2026-01-13T11:22:37.204Z",
       "ip": "2a02:6ea0:d101:6225::20",
       "username": "golu_18vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "timestamp": "2026-01-13T11:25:10.098Z",
+      "ip": "185.111.157.241",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:3:21",
+      "title": "tt0412142:3:21",
+      "timestamp": "2026-01-13T11:26:34.776Z",
+      "ip": "120.56.163.42",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0343314:2:9",
+      "title": "tt0343314:2:9",
+      "timestamp": "2026-01-13T11:26:45.191Z",
+      "ip": "2a02:6ea0:d213:5491::15",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:1:5",
+      "title": "Fallout",
+      "timestamp": "2026-01-13T11:28:28.149Z",
+      "ip": "154.18.196.100",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt7559180",
+      "title": "tt7559180",
+      "timestamp": "2026-01-13T11:28:42.289Z",
+      "ip": "2401:4900:1cb1:36b:1dc4:8df5:78a0:20ce",
+      "username": "srinivasasai"
+    },
+    {
+      "type": "series",
+      "id": "tt13207736:3:2",
+      "title": "tt13207736:3:2",
+      "timestamp": "2026-01-13T11:30:12.290Z",
+      "ip": "2406:7400:63:cb60:16ad:351e:4683:d779",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt28607951",
+      "title": "tt28607951",
+      "timestamp": "2026-01-13T11:31:38.375Z",
+      "ip": "2401:4900:8838:8908:5177:9ea3:9245:7209",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0220880:1:1",
+      "title": "tt0220880:1:1",
+      "timestamp": "2026-01-13T11:32:54.623Z",
+      "ip": "2806:290:a800:8396:8762:7b48:7d22:96c",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt2204918",
+      "title": "tt2204918",
+      "timestamp": "2026-01-13T11:38:04.382Z",
+      "ip": "85.154.7.221",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1853728",
+      "title": "Django Unchained",
+      "timestamp": "2026-01-13T11:38:32.389Z",
+      "ip": "205.254.185.14",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0067175",
+      "title": "tt0067175",
+      "timestamp": "2026-01-13T11:39:31.917Z",
+      "ip": "85.154.7.221",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -47347,17 +47439,17 @@
     },
     "2a02:6ea0:d213:5491::15": {
       "type": "series",
-      "id": "tt0343314:2:8",
-      "title": "tt0343314:2:8",
+      "id": "tt0343314:2:9",
+      "title": "tt0343314:2:9",
       "username": "anonymous",
-      "lastActive": 1768302346942
+      "lastActive": 1768303605191
     },
     "205.254.185.14": {
       "type": "movie",
-      "id": "tt14364480",
-      "title": "tt14364480",
+      "id": "tt1853728",
+      "title": "Django Unchained",
       "username": "anonymous",
-      "lastActive": 1768303323582
+      "lastActive": 1768304312389
     },
     "2402:3a80:403e:f469:60f8:4365:63ab:47fc": {
       "type": "series",
@@ -48201,10 +48293,10 @@
     },
     "2401:4900:1cb1:36b:1dc4:8df5:78a0:20ce": {
       "type": "movie",
-      "id": "tt28629017",
-      "title": "tt28629017",
+      "id": "tt7559180",
+      "title": "tt7559180",
       "username": "srinivasasai",
-      "lastActive": 1768277217413
+      "lastActive": 1768303722289
     },
     "76.72.57.157": {
       "type": "series",
@@ -48404,10 +48496,10 @@
     },
     "85.154.7.221": {
       "type": "movie",
-      "id": "tt6436082",
-      "title": "tt6436082",
+      "id": "tt0067175",
+      "title": "tt0067175",
       "username": "anonymous",
-      "lastActive": 1768301113259
+      "lastActive": 1768304371917
     },
     "110.136.219.213": {
       "type": "movie",
@@ -48438,11 +48530,11 @@
       "lastActive": 1768295435417
     },
     "2401:4900:8838:8908:5177:9ea3:9245:7209": {
-      "type": "series",
-      "id": "tt0388629:1:58",
-      "title": "tt0388629:1:58",
+      "type": "movie",
+      "id": "tt28607951",
+      "title": "tt28607951",
       "username": "anonymous",
-      "lastActive": 1768298289990
+      "lastActive": 1768303898375
     },
     "2406:7400:63:cb60:e43f:c792:fa44:5bc4": {
       "type": "series",
@@ -48527,6 +48619,41 @@
       "title": "tt28102595:1:5",
       "username": "golu_18vk",
       "lastActive": 1768303357204
+    },
+    "185.111.157.241": {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "username": "anonymous",
+      "lastActive": 1768303510098
+    },
+    "120.56.163.42": {
+      "type": "series",
+      "id": "tt0412142:3:21",
+      "title": "tt0412142:3:21",
+      "username": "anonymous",
+      "lastActive": 1768303594776
+    },
+    "154.18.196.100": {
+      "type": "series",
+      "id": "tt12637874:1:5",
+      "title": "Fallout",
+      "username": "anonymous",
+      "lastActive": 1768303708149
+    },
+    "2406:7400:63:cb60:16ad:351e:4683:d779": {
+      "type": "series",
+      "id": "tt13207736:3:2",
+      "title": "tt13207736:3:2",
+      "username": "anonymous",
+      "lastActive": 1768303812290
+    },
+    "2806:290:a800:8396:8762:7b48:7d22:96c": {
+      "type": "series",
+      "id": "tt0220880:1:1",
+      "title": "tt0220880:1:1",
+      "username": "anonymous",
+      "lastActive": 1768303974623
     }
   }
 }
