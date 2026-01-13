@@ -1,5 +1,5 @@
 {
-  "totalViews": 6368,
+  "totalViews": 6372,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -52558,6 +52558,38 @@
       "timestamp": "2026-01-13T22:34:50.625Z",
       "ip": "120.56.163.42",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt15026724:1:14",
+      "title": "tt15026724:1:14",
+      "timestamp": "2026-01-13T22:39:06.739Z",
+      "ip": "82.66.125.144",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt14976292:2:2",
+      "title": "tt14976292:2:2",
+      "timestamp": "2026-01-13T22:43:32.604Z",
+      "ip": "2001:861:e3d6:4cb0:2fe2:7d2:8929:7c79",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt6424454:1:13",
+      "title": "tt6424454:1:13",
+      "timestamp": "2026-01-13T22:50:23.214Z",
+      "ip": "78.211.211.190",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:0:27",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-13T22:50:42.639Z",
+      "ip": "2401:4900:84d1:10dc:c017:f3ff:fe60:260d",
+      "username": "pikazesty"
     }
   ],
   "activeNow": {
@@ -52598,10 +52630,10 @@
     },
     "82.66.125.144": {
       "type": "series",
-      "id": "tt15026724:1:13",
-      "title": "tt15026724:1:13",
+      "id": "tt15026724:1:14",
+      "title": "tt15026724:1:14",
       "username": "anonymous",
-      "lastActive": 1768330583674
+      "lastActive": 1768343946739
     },
     "2401:4900:8fd0:4e4f:c942:3424:968:26c": {
       "type": "movie",
@@ -52885,10 +52917,10 @@
     },
     "2001:861:e3d6:4cb0:2fe2:7d2:8929:7c79": {
       "type": "series",
-      "id": "tt14976292:2:1",
-      "title": "tt14976292:2:1",
+      "id": "tt14976292:2:2",
+      "title": "tt14976292:2:2",
       "username": "anonymous",
-      "lastActive": 1768343061261
+      "lastActive": 1768344212604
     },
     "38.252.222.125": {
       "type": "series",
@@ -52913,10 +52945,10 @@
     },
     "78.211.211.190": {
       "type": "series",
-      "id": "tt6424454:1:12",
-      "title": "tt6424454:1:12",
+      "id": "tt6424454:1:13",
+      "title": "tt6424454:1:13",
       "username": "anonymous",
-      "lastActive": 1768343229645
+      "lastActive": 1768344623214
     },
     "2409:40f3:1:7084:6430:ea5:8585:1aab": {
       "type": "movie",
@@ -52938,6 +52970,13 @@
       "title": "tt35335046:1:1",
       "username": "ymcine",
       "lastActive": 1768342841675
+    },
+    "2401:4900:84d1:10dc:c017:f3ff:fe60:260d": {
+      "type": "series",
+      "id": "tt4574334:0:27",
+      "title": "Stranger Things",
+      "username": "pikazesty",
+      "lastActive": 1768344642639
     }
   }
 }
