@@ -1,5 +1,5 @@
 {
-  "totalViews": 5353,
+  "totalViews": 5356,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1448,7 +1448,8 @@
     "105.107.120.206",
     "2409:40c4:11e2:4cda:da05:a0f1:8068:606f",
     "2a01:e0a:e2d:1e0:d37e:7c82:21e6:86e1",
-    "2405:8d40:4066:2028:8428:48be:1c4a:88d0"
+    "2405:8d40:4066:2028:8428:48be:1c4a:88d0",
+    "2401:4900:3616:79e2:f5b4:1e4f:19b0:dede"
   ],
   "views": [
     {
@@ -44264,6 +44265,30 @@
       "timestamp": "2026-01-13T01:16:54.908Z",
       "ip": "2405:8d40:4066:2028:8428:48be:1c4a:88d0",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt28629017",
+      "title": "tt28629017",
+      "timestamp": "2026-01-13T01:18:26.717Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt0118751",
+      "title": "tt0118751",
+      "timestamp": "2026-01-13T01:21:17.134Z",
+      "ip": "2401:4900:3616:79e2:f5b4:1e4f:19b0:dede",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt0367279:1:1",
+      "title": "tt0367279:1:1",
+      "timestamp": "2026-01-13T01:21:37.978Z",
+      "ip": "154.208.49.96",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -44486,10 +44511,10 @@
     },
     "103.24.85.161": {
       "type": "movie",
-      "id": "tt37897558",
-      "title": "tt37897558",
+      "id": "tt28629017",
+      "title": "tt28629017",
       "username": "william097",
-      "lastActive": 1768233883287
+      "lastActive": 1768267106717
     },
     "2a02:6ea0:d213:5491::15": {
       "type": "series",
@@ -45116,10 +45141,10 @@
     },
     "154.208.49.96": {
       "type": "series",
-      "id": "tt5574490:4:12",
-      "title": "tt5574490:4:12",
+      "id": "tt0367279:1:1",
+      "title": "tt0367279:1:1",
       "username": "anonymous",
-      "lastActive": 1768252077822
+      "lastActive": 1768267297978
     },
     "149.40.194.49": {
       "type": "series",
@@ -45232,6 +45257,13 @@
       "title": "The Shadow's Edge",
       "username": "anonymous",
       "lastActive": 1768267014908
+    },
+    "2401:4900:3616:79e2:f5b4:1e4f:19b0:dede": {
+      "type": "movie",
+      "id": "tt0118751",
+      "title": "tt0118751",
+      "username": "vflix1993",
+      "lastActive": 1768267277134
     }
   }
 }
