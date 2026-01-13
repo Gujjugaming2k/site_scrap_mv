@@ -1,5 +1,5 @@
 {
-  "totalViews": 5858,
+  "totalViews": 5883,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1541,7 +1541,10 @@
     "2401:4900:1c60:d0cd:30c6:1487:7736:88ca",
     "2409:40e0:12:558c:381c:4a0f:bf16:5814",
     "104.159.69.94",
-    "223.181.18.192"
+    "223.181.18.192",
+    "2404:8000:1002:a12d:f44d:9c19:3703:4cad",
+    "2a02:6680:110b:2794:48a3:65c4:627c:3b0a",
+    "103.214.60.5"
   ],
   "views": [
     {
@@ -48397,15 +48400,215 @@
       "timestamp": "2026-01-13T15:03:06.333Z",
       "ip": "223.181.18.192",
       "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt21309170",
+      "title": "tt21309170",
+      "timestamp": "2026-01-13T15:03:41.399Z",
+      "ip": "223.181.18.192",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt38854883",
+      "title": "tt38854883",
+      "timestamp": "2026-01-13T15:05:41.585Z",
+      "ip": "94.156.30.111",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt38854883",
+      "title": "tt38854883",
+      "timestamp": "2026-01-13T15:05:44.805Z",
+      "ip": "80.211.133.129",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-01-13T15:06:36.774Z",
+      "ip": "72.255.11.154",
+      "username": "hvre2"
+    },
+    {
+      "type": "movie",
+      "id": "tt29271622",
+      "title": "tt29271622",
+      "timestamp": "2026-01-13T15:08:03.824Z",
+      "ip": "2001:ac8:2:1::16",
+      "username": "golu_18vk"
+    },
+    {
+      "type": "series",
+      "id": "tt7671070:1:1",
+      "title": "tt7671070:1:1",
+      "timestamp": "2026-01-13T15:08:41.507Z",
+      "ip": "2404:8000:1002:a12d:f44d:9c19:3703:4cad",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt3526078:3:2",
+      "title": "tt3526078:3:2",
+      "timestamp": "2026-01-13T15:08:43.288Z",
+      "ip": "2a02:6680:110b:2794:48a3:65c4:627c:3b0a",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt39137681:1:1",
+      "title": "tt39137681:1:1",
+      "timestamp": "2026-01-13T15:08:44.451Z",
+      "ip": "2401:4900:1cb1:36b:fc75:364d:31ef:3680",
+      "username": "srinivasasai"
+    },
+    {
+      "type": "series",
+      "id": "tt3526078:3:3",
+      "title": "tt3526078:3:3",
+      "timestamp": "2026-01-13T15:08:48.362Z",
+      "ip": "2a02:6680:110b:2794:48a3:65c4:627c:3b0a",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt36017918",
+      "title": "tt36017918",
+      "timestamp": "2026-01-13T15:08:53.415Z",
+      "ip": "2401:4900:1cb1:36b:fc75:364d:31ef:3680",
+      "username": "srinivasasai"
+    },
+    {
+      "type": "series",
+      "id": "tt3526078:3:2",
+      "title": "tt3526078:3:2",
+      "timestamp": "2026-01-13T15:08:56.127Z",
+      "ip": "2a02:6680:110b:2794:48a3:65c4:627c:3b0a",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt3526078:3:2",
+      "title": "tt3526078:3:2",
+      "timestamp": "2026-01-13T15:09:03.885Z",
+      "ip": "2a02:6680:110b:2794:48a3:65c4:627c:3b0a",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt3526078:3:2",
+      "title": "tt3526078:3:2",
+      "timestamp": "2026-01-13T15:09:10.493Z",
+      "ip": "2a02:6680:110b:2794:48a3:65c4:627c:3b0a",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:3",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-13T15:09:28.217Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt21209876:2:1",
+      "title": "tt21209876:2:1",
+      "timestamp": "2026-01-13T15:09:34.494Z",
+      "ip": "2401:4900:8824:7d34:34df:38d0:5a4a:22fa",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt14905854",
+      "title": "tt14905854",
+      "timestamp": "2026-01-13T15:10:05.631Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt36017918",
+      "title": "tt36017918",
+      "timestamp": "2026-01-13T15:12:10.895Z",
+      "ip": "2401:4900:1cb1:36b:fc75:364d:31ef:3680",
+      "username": "srinivasasai"
+    },
+    {
+      "type": "series",
+      "id": "tt21209876:2:1",
+      "title": "tt21209876:2:1",
+      "timestamp": "2026-01-13T15:13:22.513Z",
+      "ip": "2401:4900:8824:7d34:34df:38d0:5a4a:22fa",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-01-13T15:14:31.318Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt35009463",
+      "title": "tt35009463",
+      "timestamp": "2026-01-13T15:15:49.896Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-01-13T15:16:01.993Z",
+      "ip": "205.254.185.14",
+      "username": "space_forca"
+    },
+    {
+      "type": "series",
+      "id": "tt0364845:16:15",
+      "title": "tt0364845:16:15",
+      "timestamp": "2026-01-13T15:16:50.694Z",
+      "ip": "103.4.222.252",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-13T15:17:16.257Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-01-13T15:17:29.550Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-13T15:18:18.782Z",
+      "ip": "2001:ac8:2:1::16",
+      "username": "golu_18vk"
     }
   ],
   "activeNow": {
     "205.254.185.14": {
       "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
+      "id": "tt15387182",
+      "title": "tt15387182",
       "username": "space_forca",
-      "lastActive": 1768315963855
+      "lastActive": 1768317361993
     },
     "2405:201:500c:496b:6c45:7aab:f8ef:fa44": {
       "type": "movie",
@@ -48514,10 +48717,10 @@
     },
     "2401:4900:8824:7d34:34df:38d0:5a4a:22fa": {
       "type": "series",
-      "id": "tt22248376:1:5",
-      "title": "tt22248376:1:5",
+      "id": "tt21209876:2:1",
+      "title": "tt21209876:2:1",
       "username": "sinbad1722",
-      "lastActive": 1768315446431
+      "lastActive": 1768317202513
     },
     "2409:40e2:201d:6ab6:8000::": {
       "type": "series",
@@ -48534,11 +48737,11 @@
       "lastActive": 1768314531348
     },
     "2001:ac8:2:1::16": {
-      "type": "series",
-      "id": "tt28102595:1:4",
-      "title": "tt28102595:1:4",
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
       "username": "golu_18vk",
-      "lastActive": 1768315130533
+      "lastActive": 1768317498782
     },
     "103.249.4.146": {
       "type": "movie",
@@ -48619,10 +48822,66 @@
     },
     "223.181.18.192": {
       "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
+      "id": "tt21309170",
+      "title": "tt21309170",
       "username": "ashwanileon",
-      "lastActive": 1768316586333
+      "lastActive": 1768316621399
+    },
+    "94.156.30.111": {
+      "type": "movie",
+      "id": "tt38854883",
+      "title": "tt38854883",
+      "username": "b1jju",
+      "lastActive": 1768316741585
+    },
+    "80.211.133.129": {
+      "type": "movie",
+      "id": "tt38854883",
+      "title": "tt38854883",
+      "username": "anonymous",
+      "lastActive": 1768316744805
+    },
+    "72.255.11.154": {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "username": "hvre2",
+      "lastActive": 1768316796774
+    },
+    "2404:8000:1002:a12d:f44d:9c19:3703:4cad": {
+      "type": "series",
+      "id": "tt7671070:1:1",
+      "title": "tt7671070:1:1",
+      "username": "anonymous",
+      "lastActive": 1768316921507
+    },
+    "2a02:6680:110b:2794:48a3:65c4:627c:3b0a": {
+      "type": "series",
+      "id": "tt3526078:3:2",
+      "title": "tt3526078:3:2",
+      "username": "anonymous",
+      "lastActive": 1768316950493
+    },
+    "2401:4900:1cb1:36b:fc75:364d:31ef:3680": {
+      "type": "movie",
+      "id": "tt36017918",
+      "title": "tt36017918",
+      "username": "srinivasasai",
+      "lastActive": 1768317130895
+    },
+    "103.214.60.5": {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "username": "gaendaswami",
+      "lastActive": 1768317449550
+    },
+    "103.4.222.252": {
+      "type": "series",
+      "id": "tt0364845:16:15",
+      "title": "tt0364845:16:15",
+      "username": "anonymous",
+      "lastActive": 1768317410694
     }
   }
 }
