@@ -1,5 +1,5 @@
 {
-  "totalViews": 5820,
+  "totalViews": 5825,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1530,7 +1530,10 @@
     "2a02:6ea0:5601:6472::11",
     "2402:a00:10a:815f:302c:d29b:993d:c4e2",
     "2409:40e1:4005:f90c:e4ae:6eff:fe14:bf42",
-    "2409:40d0:102d:6b84:d002:b0ff:fee8:ec16"
+    "2409:40d0:102d:6b84:d002:b0ff:fee8:ec16",
+    "2401:4900:84d1:10dc:c017:f3ff:fe60:260d",
+    "2401:4900:8824:7d34:34df:38d0:5a4a:22fa",
+    "103.149.121.18"
   ],
   "views": [
     {
@@ -48082,6 +48085,46 @@
       "timestamp": "2026-01-13T14:16:00.104Z",
       "ip": "115.98.99.86",
       "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:3",
+      "title": "tt19244304:1:3",
+      "timestamp": "2026-01-13T14:18:30.012Z",
+      "ip": "2401:4900:84d1:10dc:c017:f3ff:fe60:260d",
+      "username": "pikazesty"
+    },
+    {
+      "type": "series",
+      "id": "tt2359704:5:38",
+      "title": "tt2359704:5:38",
+      "timestamp": "2026-01-13T14:25:15.515Z",
+      "ip": "2401:4900:8824:7d34:34df:38d0:5a4a:22fa",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt4786824:2:1",
+      "title": "tt4786824:2:1",
+      "timestamp": "2026-01-13T14:25:22.130Z",
+      "ip": "2409:40e2:201d:6ab6:8000::",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:3:24",
+      "title": "tt0412142:3:24",
+      "timestamp": "2026-01-13T14:28:16.535Z",
+      "ip": "120.56.163.42",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0195715",
+      "title": "tt0195715",
+      "timestamp": "2026-01-13T14:28:51.348Z",
+      "ip": "103.149.121.18",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -48108,10 +48151,10 @@
     },
     "120.56.163.42": {
       "type": "series",
-      "id": "tt0412142:3:23",
-      "title": "tt0412142:3:23",
+      "id": "tt0412142:3:24",
+      "title": "tt0412142:3:24",
       "username": "anonymous",
-      "lastActive": 1768311922060
+      "lastActive": 1768314496535
     },
     "2001:8f8:1623:278d:5146:c78e:c517:9312": {
       "type": "series",
@@ -48189,6 +48232,34 @@
       "title": "tt27441481",
       "username": "nothing_8888",
       "lastActive": 1768313760104
+    },
+    "2401:4900:84d1:10dc:c017:f3ff:fe60:260d": {
+      "type": "series",
+      "id": "tt19244304:1:3",
+      "title": "tt19244304:1:3",
+      "username": "pikazesty",
+      "lastActive": 1768313910012
+    },
+    "2401:4900:8824:7d34:34df:38d0:5a4a:22fa": {
+      "type": "series",
+      "id": "tt2359704:5:38",
+      "title": "tt2359704:5:38",
+      "username": "sinbad1722",
+      "lastActive": 1768314315515
+    },
+    "2409:40e2:201d:6ab6:8000::": {
+      "type": "series",
+      "id": "tt4786824:2:1",
+      "title": "tt4786824:2:1",
+      "username": "anonymous",
+      "lastActive": 1768314322130
+    },
+    "103.149.121.18": {
+      "type": "movie",
+      "id": "tt0195715",
+      "title": "tt0195715",
+      "username": "anonymous",
+      "lastActive": 1768314531348
     }
   }
 }
