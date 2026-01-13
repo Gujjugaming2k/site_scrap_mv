@@ -1,5 +1,5 @@
 {
-  "totalViews": 5687,
+  "totalViews": 5694,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -46989,6 +46989,62 @@
       "timestamp": "2026-01-13T10:53:34.435Z",
       "ip": "2a00:7c80:0:3b3::11",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4644488",
+      "title": "tt4644488",
+      "timestamp": "2026-01-13T10:59:42.084Z",
+      "ip": "2405:201:500c:496b:e2ac:258f:f7ec:49b6",
+      "username": "karthik"
+    },
+    {
+      "type": "movie",
+      "id": "tt7961060",
+      "title": "tt7961060",
+      "timestamp": "2026-01-13T10:59:55.214Z",
+      "ip": "2405:201:500c:496b:e2ac:258f:f7ec:49b6",
+      "username": "karthik"
+    },
+    {
+      "type": "series",
+      "id": "tt0988824",
+      "title": "tt0988824",
+      "timestamp": "2026-01-13T11:00:27.290Z",
+      "ip": "2405:201:500c:496b:e2ac:258f:f7ec:49b6",
+      "username": "karthik"
+    },
+    {
+      "type": "movie",
+      "id": "tt2263944",
+      "title": "tt2263944",
+      "timestamp": "2026-01-13T11:02:12.838Z",
+      "ip": "2405:201:500c:496b:2e1b:3aff:fe14:f417",
+      "username": "karthik"
+    },
+    {
+      "type": "movie",
+      "id": "tt11027850",
+      "title": "tt11027850",
+      "timestamp": "2026-01-13T11:03:11.759Z",
+      "ip": "2405:201:500c:496b:e2ac:258f:f7ec:49b6",
+      "username": "karthik"
+    },
+    {
+      "type": "movie",
+      "id": "tt2263944",
+      "title": "tt2263944",
+      "timestamp": "2026-01-13T11:05:29.273Z",
+      "ip": "2405:201:500c:496b:2e1b:3aff:fe14:f417",
+      "username": "karthik"
+    },
+    {
+      "type": "series",
+      "id": "tt0343314:2:8",
+      "title": "tt0343314:2:8",
+      "timestamp": "2026-01-13T11:05:46.942Z",
+      "ip": "2a02:6ea0:d213:5491::15",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -47119,11 +47175,11 @@
       "lastActive": 1768227229240
     },
     "2405:201:500c:496b:2e1b:3aff:fe14:f417": {
-      "type": "series",
-      "id": "tt0988824",
-      "title": "tt0988824",
+      "type": "movie",
+      "id": "tt2263944",
+      "title": "tt2263944",
       "username": "karthik",
-      "lastActive": 1768301054973
+      "lastActive": 1768302329273
     },
     "2406:7400:61:1dc5:b0a3:1b25:e3f3:1657": {
       "type": "movie",
@@ -47221,7 +47277,7 @@
       "id": "tt0343314:2:8",
       "title": "tt0343314:2:8",
       "username": "anonymous",
-      "lastActive": 1768283707062
+      "lastActive": 1768302346942
     },
     "205.254.185.14": {
       "type": "movie",
@@ -48373,10 +48429,10 @@
     },
     "2405:201:500c:496b:e2ac:258f:f7ec:49b6": {
       "type": "movie",
-      "id": "tt7961060",
-      "title": "tt7961060",
+      "id": "tt11027850",
+      "title": "tt11027850",
       "username": "karthik",
-      "lastActive": 1768301399722
+      "lastActive": 1768302191759
     },
     "2a00:7c80:0:3b3::11": {
       "type": "series",
