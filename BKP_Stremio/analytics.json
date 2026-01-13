@@ -1,5 +1,5 @@
 {
-  "totalViews": 5771,
+  "totalViews": 5777,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1517,7 +1517,9 @@
     "140.213.1.204",
     "2406:7400:61:1dc5:4c63:6e61:579f:88d1",
     "2401:4900:1cbd:d2d9:e58c:bf7d:ce21:d1cd",
-    "2401:4900:8832:3004:3d72:7ae8:42b8:8b99"
+    "2401:4900:8832:3004:3d72:7ae8:42b8:8b99",
+    "103.216.223.41",
+    "2405:201:500c:496b:6c45:7aab:f8ef:fa44"
   ],
   "views": [
     {
@@ -47677,6 +47679,54 @@
       "timestamp": "2026-01-13T12:52:37.636Z",
       "ip": "2401:4900:8832:3004:3d72:7ae8:42b8:8b99",
       "username": "imareallygoodlawyer"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-01-13T12:57:48.726Z",
+      "ip": "2406:7400:61:1dc5:4c63:6e61:579f:88d1",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0343314:2:13",
+      "title": "tt0343314:2:13",
+      "timestamp": "2026-01-13T13:04:29.619Z",
+      "ip": "2a02:6ea0:d213:5491::15",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:1:5",
+      "title": "tt28102595:1:5",
+      "timestamp": "2026-01-13T13:06:49.609Z",
+      "ip": "103.216.223.41",
+      "username": "golu_18vk"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:1:4",
+      "title": "tt28102595:1:4",
+      "timestamp": "2026-01-13T13:06:58.026Z",
+      "ip": "103.216.223.41",
+      "username": "golu_18vk"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:1:7",
+      "title": "Fallout",
+      "timestamp": "2026-01-13T13:07:19.188Z",
+      "ip": "154.18.196.101",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt11027850",
+      "title": "tt11027850",
+      "timestamp": "2026-01-13T13:10:55.712Z",
+      "ip": "2405:201:500c:496b:6c45:7aab:f8ef:fa44",
+      "username": "karthik"
     }
   ],
   "activeNow": {
@@ -47906,10 +47956,10 @@
     },
     "2a02:6ea0:d213:5491::15": {
       "type": "series",
-      "id": "tt0343314:2:12",
-      "title": "tt0343314:2:12",
+      "id": "tt0343314:2:13",
+      "title": "tt0343314:2:13",
       "username": "anonymous",
-      "lastActive": 1768307613736
+      "lastActive": 1768309469619
     },
     "205.254.185.14": {
       "type": "movie",
@@ -49183,7 +49233,7 @@
       "id": "tt15387182",
       "title": "tt15387182",
       "username": "anonymous",
-      "lastActive": 1768308234059
+      "lastActive": 1768309068726
     },
     "2401:4900:1cbd:d2d9:e58c:bf7d:ce21:d1cd": {
       "type": "movie",
@@ -49198,6 +49248,27 @@
       "title": "tt26439764",
       "username": "imareallygoodlawyer",
       "lastActive": 1768308757636
+    },
+    "103.216.223.41": {
+      "type": "series",
+      "id": "tt28102595:1:4",
+      "title": "tt28102595:1:4",
+      "username": "golu_18vk",
+      "lastActive": 1768309618026
+    },
+    "154.18.196.101": {
+      "type": "series",
+      "id": "tt12637874:1:7",
+      "title": "Fallout",
+      "username": "anonymous",
+      "lastActive": 1768309639188
+    },
+    "2405:201:500c:496b:6c45:7aab:f8ef:fa44": {
+      "type": "movie",
+      "id": "tt11027850",
+      "title": "tt11027850",
+      "username": "karthik",
+      "lastActive": 1768309855712
     }
   }
 }
