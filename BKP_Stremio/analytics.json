@@ -1,5 +1,5 @@
 {
-  "totalViews": 6322,
+  "totalViews": 6328,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1611,7 +1611,8 @@
     "2409:40f0:2419:4138:604f:ecff:fe3d:616f",
     "31.145.220.134",
     "109.77.124.116",
-    "119.234.17.26"
+    "119.234.17.26",
+    "2a06:5900:5d5:b500:756c:ca7:f93d:3b12"
   ],
   "views": [
     {
@@ -52179,6 +52180,54 @@
       "timestamp": "2026-01-13T20:58:36.294Z",
       "ip": "109.77.124.116",
       "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt7587890:8:2",
+      "title": "tt7587890:8:2",
+      "timestamp": "2026-01-13T21:07:33.355Z",
+      "ip": "80.192.52.146",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1520211:9:8",
+      "title": "tt1520211:9:8",
+      "timestamp": "2026-01-13T21:11:38.542Z",
+      "ip": "41.103.229.114",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:4",
+      "title": "Fallout",
+      "timestamp": "2026-01-13T21:14:33.014Z",
+      "ip": "2a06:5900:5d5:b500:756c:ca7:f93d:3b12",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:4",
+      "title": "Fallout",
+      "timestamp": "2026-01-13T21:15:10.993Z",
+      "ip": "2a06:5900:5d5:b500:756c:ca7:f93d:3b12",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:8:10",
+      "title": "tt0412142:8:10",
+      "timestamp": "2026-01-13T21:17:18.013Z",
+      "ip": "82.79.141.254",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0108757:4:6",
+      "title": "tt0108757:4:6",
+      "timestamp": "2026-01-13T21:19:04.798Z",
+      "ip": "2a02:810d:6005:9700:9e2a:4334:964c:829d",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -52240,10 +52289,10 @@
     },
     "41.103.229.114": {
       "type": "series",
-      "id": "tt1520211:9:7",
-      "title": "tt1520211:9:7",
+      "id": "tt1520211:9:8",
+      "title": "tt1520211:9:8",
       "username": "anonymous",
-      "lastActive": 1768336043761
+      "lastActive": 1768338698542
     },
     "2a09:bac5:3c0a:1a46::29e:84": {
       "type": "series",
@@ -52422,24 +52471,24 @@
     },
     "2a02:810d:6005:9700:9e2a:4334:964c:829d": {
       "type": "series",
-      "id": "tt0108757:4:5",
-      "title": "tt0108757:4:5",
+      "id": "tt0108757:4:6",
+      "title": "tt0108757:4:6",
       "username": "anonymous",
-      "lastActive": 1768336198803
+      "lastActive": 1768339144798
     },
     "82.79.141.254": {
       "type": "series",
-      "id": "tt0412142:8:9",
-      "title": "tt0412142:8:9",
+      "id": "tt0412142:8:10",
+      "title": "tt0412142:8:10",
       "username": "anonymous",
-      "lastActive": 1768336307480
+      "lastActive": 1768339038013
     },
     "80.192.52.146": {
       "type": "series",
-      "id": "tt7587890:8:1",
-      "title": "tt7587890:8:1",
+      "id": "tt7587890:8:2",
+      "title": "tt7587890:8:2",
       "username": "anonymous",
-      "lastActive": 1768336376751
+      "lastActive": 1768338453355
     },
     "47.15.218.109": {
       "type": "movie",
@@ -52475,6 +52524,13 @@
       "title": "tt35335046:1:1",
       "username": "sheik",
       "lastActive": 1768337771778
+    },
+    "2a06:5900:5d5:b500:756c:ca7:f93d:3b12": {
+      "type": "series",
+      "id": "tt12637874:2:4",
+      "title": "Fallout",
+      "username": "anonymous",
+      "lastActive": 1768338910993
     }
   }
 }
