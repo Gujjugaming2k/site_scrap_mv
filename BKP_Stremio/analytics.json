@@ -1,5 +1,5 @@
 {
-  "totalViews": 5608,
+  "totalViews": 5620,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1486,7 +1486,9 @@
     "2405:201:c01d:e86d:b4ec:6f32:d8e0:97e1",
     "2401:4900:8827:c852:fd15:e36e:6504:173b",
     "2a09:bac1:7ac0:10::3c3:f",
-    "45.131.193.235"
+    "45.131.193.235",
+    "110.136.219.213",
+    "2405:201:6025:a88d:6253:44a0:6390:df97"
   ],
   "views": [
     {
@@ -46342,6 +46344,102 @@
       "timestamp": "2026-01-13T08:47:21.728Z",
       "ip": "2a09:bac1:7ac0:10::3c3:f",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1609123",
+      "title": "tt1609123",
+      "timestamp": "2026-01-13T08:53:27.397Z",
+      "ip": "110.136.219.213",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt14142060",
+      "title": "tt14142060",
+      "timestamp": "2026-01-13T08:56:03.036Z",
+      "ip": "205.254.185.14",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt27412343:1:2",
+      "title": "tt27412343:1:2",
+      "timestamp": "2026-01-13T08:58:20.173Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt0279600:1:1",
+      "title": "tt0279600:1:1",
+      "timestamp": "2026-01-13T08:59:39.052Z",
+      "ip": "2405:201:6025:a88d:6253:44a0:6390:df97",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "series",
+      "id": "tt0279600:0:2",
+      "title": "tt0279600:0:2",
+      "timestamp": "2026-01-13T08:59:53.365Z",
+      "ip": "2405:201:6025:a88d:6253:44a0:6390:df97",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "series",
+      "id": "tt0279600:10:1",
+      "title": "tt0279600:10:1",
+      "timestamp": "2026-01-13T08:59:56.805Z",
+      "ip": "2405:201:6025:a88d:6253:44a0:6390:df97",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "series",
+      "id": "tt16385150:1:2",
+      "title": "tt16385150:1:2",
+      "timestamp": "2026-01-13T09:01:24.886Z",
+      "ip": "2405:201:6025:a88d:6253:44a0:6390:df97",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "series",
+      "id": "tt16385150:1:1",
+      "title": "tt16385150:1:1",
+      "timestamp": "2026-01-13T09:01:27.279Z",
+      "ip": "2405:201:6025:a88d:6253:44a0:6390:df97",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "timestamp": "2026-01-13T09:01:45.380Z",
+      "ip": "2405:201:6025:a88d:6253:44a0:6390:df97",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt9362736",
+      "title": "Die My Love",
+      "timestamp": "2026-01-13T09:01:55.562Z",
+      "ip": "2405:201:6025:a88d:6253:44a0:6390:df97",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt0371751",
+      "title": "tt0371751",
+      "timestamp": "2026-01-13T09:02:22.211Z",
+      "ip": "2405:201:6025:a88d:6253:44a0:6390:df97",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt9362736",
+      "title": "Die My Love",
+      "timestamp": "2026-01-13T09:02:38.685Z",
+      "ip": "2405:201:6025:a88d:6253:44a0:6390:df97",
+      "username": "infinityseeker"
     }
   ],
   "activeNow": {
@@ -46581,7 +46679,7 @@
       "id": "tt14142060",
       "title": "tt14142060",
       "username": "anonymous",
-      "lastActive": 1768289931054
+      "lastActive": 1768294563036
     },
     "2402:3a80:403e:f469:60f8:4365:63ab:47fc": {
       "type": "series",
@@ -46626,11 +46724,11 @@
       "lastActive": 1768230860796
     },
     "115.98.99.86": {
-      "type": "movie",
-      "id": "tt15387182",
-      "title": "tt15387182",
+      "type": "series",
+      "id": "tt27412343:1:2",
+      "title": "tt27412343:1:2",
       "username": "nothing_8888",
-      "lastActive": 1768275492974
+      "lastActive": 1768294700173
     },
     "2402:3a80:1ac3:6659:3c83:50e3:f18c:f210": {
       "type": "series",
@@ -47632,6 +47730,20 @@
       "title": "tt0417123",
       "username": "anonymous",
       "lastActive": 1768293904508
+    },
+    "110.136.219.213": {
+      "type": "movie",
+      "id": "tt1609123",
+      "title": "tt1609123",
+      "username": "anonymous",
+      "lastActive": 1768294407397
+    },
+    "2405:201:6025:a88d:6253:44a0:6390:df97": {
+      "type": "movie",
+      "id": "tt9362736",
+      "title": "Die My Love",
+      "username": "infinityseeker",
+      "lastActive": 1768294958685
     }
   }
 }
