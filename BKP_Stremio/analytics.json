@@ -1,5 +1,5 @@
 {
-  "totalViews": 5661,
+  "totalViews": 5664,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1497,7 +1497,9 @@
     "2409:40e4:50:7bda:d065:c6ff:fe15:f582",
     "85.190.233.144",
     "2401:4900:ac23:d94f:e5bf:f758:91c2:f18b",
-    "2401:4900:76cf:c1a:d8a2:27ff:fe80:6a37"
+    "2401:4900:76cf:c1a:d8a2:27ff:fe80:6a37",
+    "157.49.181.243",
+    "223.228.56.124"
   ],
   "views": [
     {
@@ -46777,6 +46779,30 @@
       "timestamp": "2026-01-13T10:18:07.018Z",
       "ip": "2401:4900:76cf:c1a:d8a2:27ff:fe80:6a37",
       "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt5755238",
+      "title": "tt5755238",
+      "timestamp": "2026-01-13T10:25:05.999Z",
+      "ip": "157.49.181.243",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:9",
+      "title": "tt14186672:2:9",
+      "timestamp": "2026-01-13T10:26:23.147Z",
+      "ip": "223.228.56.124",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:8",
+      "title": "tt14186672:2:8",
+      "timestamp": "2026-01-13T10:26:30.670Z",
+      "ip": "223.228.56.124",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -48144,6 +48170,20 @@
       "title": "tt8946378",
       "username": "nobody_ismy_name",
       "lastActive": 1768299487018
+    },
+    "157.49.181.243": {
+      "type": "movie",
+      "id": "tt5755238",
+      "title": "tt5755238",
+      "username": "anonymous",
+      "lastActive": 1768299905999
+    },
+    "223.228.56.124": {
+      "type": "series",
+      "id": "tt14186672:2:8",
+      "title": "tt14186672:2:8",
+      "username": "chetan_b2",
+      "lastActive": 1768299990670
     }
   }
 }
