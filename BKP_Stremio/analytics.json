@@ -1,5 +1,5 @@
 {
-  "totalViews": 5599,
+  "totalViews": 5608,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1483,7 +1483,10 @@
     "41.101.225.11",
     "2406:7400:63:cb60:5edc:bcb:6cd3:186d",
     "2409:40c1:3151:2b3b:30d3:62ff:fe9c:7744",
-    "2405:201:c01d:e86d:b4ec:6f32:d8e0:97e1"
+    "2405:201:c01d:e86d:b4ec:6f32:d8e0:97e1",
+    "2401:4900:8827:c852:fd15:e36e:6504:173b",
+    "2a09:bac1:7ac0:10::3c3:f",
+    "45.131.193.235"
   ],
   "views": [
     {
@@ -46267,6 +46270,78 @@
       "timestamp": "2026-01-13T08:31:39.120Z",
       "ip": "38.134.138.246",
       "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt2359704:3:1",
+      "title": "tt2359704:3:1",
+      "timestamp": "2026-01-13T08:36:43.758Z",
+      "ip": "2401:4900:8827:c852:fd15:e36e:6504:173b",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt5950044",
+      "title": "Superman",
+      "timestamp": "2026-01-13T08:37:50.237Z",
+      "ip": "2a09:bac1:7ac0:10::3c3:f",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt5950044",
+      "title": "Superman",
+      "timestamp": "2026-01-13T08:38:28.724Z",
+      "ip": "2a09:bac1:7ac0:10::3c3:f",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:1:23",
+      "title": "tt6354518:1:23",
+      "timestamp": "2026-01-13T08:39:44.666Z",
+      "ip": "2401:4900:8827:c852:fd15:e36e:6504:173b",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:1:23",
+      "title": "tt6354518:1:23",
+      "timestamp": "2026-01-13T08:41:01.963Z",
+      "ip": "2401:4900:8827:c852:fd15:e36e:6504:173b",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-13T08:44:22.362Z",
+      "ip": "45.131.193.235",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt1076251",
+      "title": "tt1076251",
+      "timestamp": "2026-01-13T08:44:23.866Z",
+      "ip": "85.154.7.221",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0417123",
+      "title": "tt0417123",
+      "timestamp": "2026-01-13T08:45:04.508Z",
+      "ip": "85.154.7.221",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt5950044",
+      "title": "Superman",
+      "timestamp": "2026-01-13T08:47:21.728Z",
+      "ip": "2a09:bac1:7ac0:10::3c3:f",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -47529,6 +47604,34 @@
       "title": "Stranger Things",
       "username": "mr_anonymous_0004",
       "lastActive": 1768292408412
+    },
+    "2401:4900:8827:c852:fd15:e36e:6504:173b": {
+      "type": "series",
+      "id": "tt6354518:1:23",
+      "title": "tt6354518:1:23",
+      "username": "sinbad1722",
+      "lastActive": 1768293661963
+    },
+    "2a09:bac1:7ac0:10::3c3:f": {
+      "type": "movie",
+      "id": "tt5950044",
+      "title": "Superman",
+      "username": "anonymous",
+      "lastActive": 1768294041728
+    },
+    "45.131.193.235": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "theonlyfreak",
+      "lastActive": 1768293862362
+    },
+    "85.154.7.221": {
+      "type": "movie",
+      "id": "tt0417123",
+      "title": "tt0417123",
+      "username": "anonymous",
+      "lastActive": 1768293904508
     }
   }
 }
