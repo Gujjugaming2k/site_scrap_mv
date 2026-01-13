@@ -1,5 +1,5 @@
 {
-  "totalViews": 5845,
+  "totalViews": 5858,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1538,7 +1538,10 @@
     "2401:4900:76c3:9b4d:80bd:d4ff:fe8e:2a78",
     "2401:4900:851b:2c3a:6d75:b3d7:642a:dd2f",
     "122.161.242.88",
-    "2401:4900:1c60:d0cd:30c6:1487:7736:88ca"
+    "2401:4900:1c60:d0cd:30c6:1487:7736:88ca",
+    "2409:40e0:12:558c:381c:4a0f:bf16:5814",
+    "104.159.69.94",
+    "223.181.18.192"
   ],
   "views": [
     {
@@ -48290,15 +48293,119 @@
       "timestamp": "2026-01-13T14:47:10.588Z",
       "ip": "2401:4900:1c60:d0cd:30c6:1487:7736:88ca",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:3",
+      "title": "tt30003786:4:3",
+      "timestamp": "2026-01-13T14:48:25.315Z",
+      "ip": "2409:40e0:12:558c:381c:4a0f:bf16:5814",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-13T14:48:36.278Z",
+      "ip": "2401:4900:851b:2c3a:6d75:b3d7:642a:dd2f",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-13T14:48:36.409Z",
+      "ip": "2401:4900:851b:2c3a:6d75:b3d7:642a:dd2f",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:4",
+      "title": "tt30003786:4:4",
+      "timestamp": "2026-01-13T14:48:51.730Z",
+      "ip": "2409:40e0:12:558c:381c:4a0f:bf16:5814",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt35009463",
+      "title": "tt35009463",
+      "timestamp": "2026-01-13T14:49:53.043Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt1853728",
+      "title": "Django Unchained",
+      "timestamp": "2026-01-13T14:50:02.150Z",
+      "ip": "205.254.185.14",
+      "username": "space_forca"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-13T14:52:43.855Z",
+      "ip": "205.254.185.14",
+      "username": "space_forca"
+    },
+    {
+      "type": "movie",
+      "id": "tt39109036",
+      "title": "tt39109036",
+      "timestamp": "2026-01-13T14:52:44.853Z",
+      "ip": "122.161.242.88",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt2661044:7:6",
+      "title": "tt2661044:7:6",
+      "timestamp": "2026-01-13T14:55:16.196Z",
+      "ip": "2a02:8428:ad10:ae01:4900:1f26:8887:1845",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:6",
+      "title": "tt14186672:1:6",
+      "timestamp": "2026-01-13T14:55:22.627Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:4",
+      "title": "tt30003786:4:4",
+      "timestamp": "2026-01-13T14:56:04.086Z",
+      "ip": "2409:40e0:12:558c:381c:4a0f:bf16:5814",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "series",
+      "id": "tt0368530:2:20",
+      "title": "tt0368530:2:20",
+      "timestamp": "2026-01-13T14:59:37.749Z",
+      "ip": "104.159.69.94",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-13T15:03:06.333Z",
+      "ip": "223.181.18.192",
+      "username": "ashwanileon"
     }
   ],
   "activeNow": {
     "205.254.185.14": {
-      "type": "series",
-      "id": "tt31938062:1:1",
-      "title": "tt31938062:1:1",
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
       "username": "space_forca",
-      "lastActive": 1768315597662
+      "lastActive": 1768315963855
     },
     "2405:201:500c:496b:6c45:7aab:f8ef:fa44": {
       "type": "movie",
@@ -48459,21 +48566,21 @@
       "id": "tt31227572",
       "title": "tt31227572",
       "username": "anonymous",
-      "lastActive": 1768315505635
+      "lastActive": 1768315716409
     },
     "38.134.138.246": {
       "type": "movie",
-      "id": "tt2302966",
-      "title": "tt2302966",
+      "id": "tt35009463",
+      "title": "tt35009463",
       "username": "thala_75",
-      "lastActive": 1768315608012
+      "lastActive": 1768315793043
     },
     "122.161.242.88": {
       "type": "movie",
       "id": "tt39109036",
       "title": "tt39109036",
       "username": "dawnstar930",
-      "lastActive": 1768315621097
+      "lastActive": 1768315964853
     },
     "2401:4900:1c60:d0cd:30c6:1487:7736:88ca": {
       "type": "series",
@@ -48481,6 +48588,41 @@
       "title": "tt4236770:3:5",
       "username": "anonymous",
       "lastActive": 1768315630588
+    },
+    "2409:40e0:12:558c:381c:4a0f:bf16:5814": {
+      "type": "series",
+      "id": "tt30003786:4:4",
+      "title": "tt30003786:4:4",
+      "username": "nobody_ismy_name",
+      "lastActive": 1768316164086
+    },
+    "2a02:8428:ad10:ae01:4900:1f26:8887:1845": {
+      "type": "series",
+      "id": "tt2661044:7:6",
+      "title": "tt2661044:7:6",
+      "username": "anonymous",
+      "lastActive": 1768316116196
+    },
+    "203.192.255.46": {
+      "type": "series",
+      "id": "tt14186672:1:6",
+      "title": "tt14186672:1:6",
+      "username": "chetan_b2",
+      "lastActive": 1768316122627
+    },
+    "104.159.69.94": {
+      "type": "series",
+      "id": "tt0368530:2:20",
+      "title": "tt0368530:2:20",
+      "username": "anonymous",
+      "lastActive": 1768316377749
+    },
+    "223.181.18.192": {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "username": "ashwanileon",
+      "lastActive": 1768316586333
     }
   }
 }
