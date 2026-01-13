@@ -1,5 +1,5 @@
 {
-  "totalViews": 5526,
+  "totalViews": 5531,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1471,7 +1471,9 @@
     "2409:40d4:30d3:65fa:b41a:adff:fecb:bb52",
     "2409:40e4:105d:345d:74ee:5bff:fec1:81d8",
     "103.172.203.190",
-    "2409:40e4:10ae:360e:88b8:84c7:32b0:e256"
+    "2409:40e4:10ae:360e:88b8:84c7:32b0:e256",
+    "2600:1700:53d0:43c0:3584:b0dd:310d:1a1b",
+    "2405:201:500c:496b:b528:4495:f74e:291c"
   ],
   "views": [
     {
@@ -45671,6 +45673,46 @@
       "timestamp": "2026-01-13T06:26:08.355Z",
       "ip": "162.212.211.108",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt37180807",
+      "title": "tt37180807",
+      "timestamp": "2026-01-13T06:27:16.101Z",
+      "ip": "2600:1700:53d0:43c0:3584:b0dd:310d:1a1b",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt6559996",
+      "title": "tt6559996",
+      "timestamp": "2026-01-13T06:34:25.616Z",
+      "ip": "2405:201:500c:496b:b528:4495:f74e:291c",
+      "username": "shadowbhaiii"
+    },
+    {
+      "type": "series",
+      "id": "tt1629042",
+      "title": "tt1629042",
+      "timestamp": "2026-01-13T06:34:53.413Z",
+      "ip": "2405:201:500c:496b:b528:4495:f74e:291c",
+      "username": "shadowbhaiii"
+    },
+    {
+      "type": "movie",
+      "id": "tt14142060",
+      "title": "tt14142060",
+      "timestamp": "2026-01-13T06:38:43.542Z",
+      "ip": "205.254.185.14",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt14142060",
+      "title": "tt14142060",
+      "timestamp": "2026-01-13T06:40:11.537Z",
+      "ip": "205.254.185.14",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -45907,10 +45949,10 @@
     },
     "205.254.185.14": {
       "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
+      "id": "tt14142060",
+      "title": "tt14142060",
       "username": "anonymous",
-      "lastActive": 1768284261644
+      "lastActive": 1768286411537
     },
     "2402:3a80:403e:f469:60f8:4365:63ab:47fc": {
       "type": "series",
@@ -46849,6 +46891,20 @@
       "title": "tt0338751",
       "username": "askchm",
       "lastActive": 1768285277552
+    },
+    "2600:1700:53d0:43c0:3584:b0dd:310d:1a1b": {
+      "type": "movie",
+      "id": "tt37180807",
+      "title": "tt37180807",
+      "username": "anonymous",
+      "lastActive": 1768285636101
+    },
+    "2405:201:500c:496b:b528:4495:f74e:291c": {
+      "type": "series",
+      "id": "tt1629042",
+      "title": "tt1629042",
+      "username": "shadowbhaiii",
+      "lastActive": 1768286093413
     }
   }
 }
