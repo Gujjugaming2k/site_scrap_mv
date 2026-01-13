@@ -1,5 +1,5 @@
 {
-  "totalViews": 5386,
+  "totalViews": 5395,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -44535,6 +44535,78 @@
       "timestamp": "2026-01-13T02:42:01.327Z",
       "ip": "2600:1700:75c1:3140:cd3c:c163:6a6d:849",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0106004:1:21",
+      "title": "tt0106004:1:21",
+      "timestamp": "2026-01-13T02:52:30.223Z",
+      "ip": "162.212.211.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-13T02:54:13.950Z",
+      "ip": "2409:40e6:20a:4f6f:2050:98ff:fed6:9093",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-13T02:55:32.583Z",
+      "ip": "2409:40e6:20a:4f6f:2050:98ff:fed6:9093",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt31495504",
+      "title": "tt31495504",
+      "timestamp": "2026-01-13T02:59:59.813Z",
+      "ip": "2402:a00:10a:815f:c0fd:4293:5dae:a0a8",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt31495504",
+      "title": "tt31495504",
+      "timestamp": "2026-01-13T03:00:40.174Z",
+      "ip": "2402:a00:10a:815f:c0fd:4293:5dae:a0a8",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-01-13T03:01:04.979Z",
+      "ip": "2402:a00:10a:815f:c0fd:4293:5dae:a0a8",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-01-13T03:01:39.278Z",
+      "ip": "2402:a00:10a:815f:c0fd:4293:5dae:a0a8",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-13T03:02:26.565Z",
+      "ip": "2402:a00:10a:815f:9097:cd45:4eb4:237",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-01-13T03:02:55.333Z",
+      "ip": "2402:a00:10a:815f:9097:cd45:4eb4:237",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -45016,10 +45088,10 @@
     },
     "2409:40e6:20a:4f6f:2050:98ff:fed6:9093": {
       "type": "movie",
-      "id": "tt16233642",
-      "title": "tt16233642",
+      "id": "tt31227572",
+      "title": "tt31227572",
       "username": "nabakun24",
-      "lastActive": 1768236960176
+      "lastActive": 1768272932583
     },
     "2409:40d6:1019:5e96:e166:be05:642b:72ca": {
       "type": "movie",
@@ -45380,10 +45452,10 @@
     },
     "162.212.211.108": {
       "type": "series",
-      "id": "tt0106004:1:20",
-      "title": "tt0106004:1:20",
+      "id": "tt0106004:1:21",
+      "title": "tt0106004:1:21",
       "username": "anonymous",
-      "lastActive": 1768271284710
+      "lastActive": 1768272750223
     },
     "154.208.49.96": {
       "type": "series",
@@ -45547,18 +45619,18 @@
       "lastActive": 1768269603370
     },
     "2402:a00:10a:815f:9097:cd45:4eb4:237": {
-      "type": "series",
-      "id": "tt4508902:1:10",
-      "title": "tt4508902:1:10",
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
       "username": "vflix1993",
-      "lastActive": 1768270006720
+      "lastActive": 1768273375333
     },
     "2402:a00:10a:815f:c0fd:4293:5dae:a0a8": {
       "type": "movie",
-      "id": "tt18939362",
-      "title": "tt18939362",
+      "id": "tt33244668",
+      "title": "tt33244668",
       "username": "vflix1993",
-      "lastActive": 1768270497960
+      "lastActive": 1768273299278
     },
     "5.38.8.160": {
       "type": "movie",
