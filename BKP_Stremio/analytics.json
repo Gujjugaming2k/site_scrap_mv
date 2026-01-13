@@ -1,5 +1,5 @@
 {
-  "totalViews": 6278,
+  "totalViews": 6284,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1603,7 +1603,8 @@
     "2405:201:900f:a92b:9c87:beec:4943:820c",
     "79.127.131.207",
     "146.52.122.247",
-    "2402:a00:188:61:4089:566c:7ebf:b21b"
+    "2402:a00:188:61:4089:566c:7ebf:b21b",
+    "223.184.222.113"
   ],
   "views": [
     {
@@ -51819,15 +51820,63 @@
       "timestamp": "2026-01-13T20:11:26.871Z",
       "ip": "2402:a00:188:61:4089:566c:7ebf:b21b",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt14253846",
+      "title": "Speak No Evil",
+      "timestamp": "2026-01-13T20:20:18.423Z",
+      "ip": "223.184.222.113",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "movie",
+      "id": "tt14253846",
+      "title": "Speak No Evil",
+      "timestamp": "2026-01-13T20:20:40.996Z",
+      "ip": "223.184.222.113",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "movie",
+      "id": "tt14253846",
+      "title": "Speak No Evil",
+      "timestamp": "2026-01-13T20:20:47.373Z",
+      "ip": "223.184.222.113",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:4:4",
+      "title": "tt0412142:4:4",
+      "timestamp": "2026-01-13T20:22:38.599Z",
+      "ip": "120.56.163.42",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0364845:16:18",
+      "title": "tt0364845:16:18",
+      "timestamp": "2026-01-13T20:27:04.254Z",
+      "ip": "103.4.222.252",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1520211:9:7",
+      "title": "tt1520211:9:7",
+      "timestamp": "2026-01-13T20:27:23.761Z",
+      "ip": "41.103.229.114",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
     "120.56.163.42": {
       "type": "series",
-      "id": "tt0412142:4:3",
-      "title": "tt0412142:4:3",
+      "id": "tt0412142:4:4",
+      "title": "tt0412142:4:4",
       "username": "anonymous",
-      "lastActive": 1768333651850
+      "lastActive": 1768335758599
     },
     "38.134.138.246": {
       "type": "movie",
@@ -51880,10 +51929,10 @@
     },
     "41.103.229.114": {
       "type": "series",
-      "id": "tt1520211:9:8",
-      "title": "tt1520211:9:8",
+      "id": "tt1520211:9:7",
+      "title": "tt1520211:9:7",
       "username": "anonymous",
-      "lastActive": 1768332624327
+      "lastActive": 1768336043761
     },
     "2a09:bac5:3c0a:1a46::29e:84": {
       "type": "series",
@@ -51901,10 +51950,10 @@
     },
     "103.4.222.252": {
       "type": "series",
-      "id": "tt0364845:16:17",
-      "title": "tt0364845:16:17",
+      "id": "tt0364845:16:18",
+      "title": "tt0364845:16:18",
       "username": "anonymous",
-      "lastActive": 1768333733564
+      "lastActive": 1768336024254
     },
     "172.69.86.90,206.53.3.179": {
       "type": "movie",
@@ -52052,6 +52101,13 @@
       "title": "tt31227572",
       "username": "anonymous",
       "lastActive": 1768335086871
+    },
+    "223.184.222.113": {
+      "type": "movie",
+      "id": "tt14253846",
+      "title": "Speak No Evil",
+      "username": "dawnstar930",
+      "lastActive": 1768335647373
     }
   }
 }
