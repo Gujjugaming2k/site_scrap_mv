@@ -1,5 +1,5 @@
 {
-  "totalViews": 5685,
+  "totalViews": 5687,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1500,7 +1500,8 @@
     "2401:4900:76cf:c1a:d8a2:27ff:fe80:6a37",
     "157.49.181.243",
     "223.228.56.124",
-    "2405:201:500c:496b:e2ac:258f:f7ec:49b6"
+    "2405:201:500c:496b:e2ac:258f:f7ec:49b6",
+    "2a00:7c80:0:3b3::11"
   ],
   "views": [
     {
@@ -46972,6 +46973,22 @@
       "timestamp": "2026-01-13T10:49:59.722Z",
       "ip": "2405:201:500c:496b:e2ac:258f:f7ec:49b6",
       "username": "karthik"
+    },
+    {
+      "type": "movie",
+      "id": "tt19847976",
+      "title": "tt19847976",
+      "timestamp": "2026-01-13T10:53:19.996Z",
+      "ip": "205.254.185.14",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2861424:2:8",
+      "title": "tt2861424:2:8",
+      "timestamp": "2026-01-13T10:53:34.435Z",
+      "ip": "2a00:7c80:0:3b3::11",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -47208,10 +47225,10 @@
     },
     "205.254.185.14": {
       "type": "movie",
-      "id": "tt29567915",
-      "title": "tt29567915",
+      "id": "tt19847976",
+      "title": "tt19847976",
       "username": "anonymous",
-      "lastActive": 1768298748214
+      "lastActive": 1768301599996
     },
     "2402:3a80:403e:f469:60f8:4365:63ab:47fc": {
       "type": "series",
@@ -48360,6 +48377,13 @@
       "title": "tt7961060",
       "username": "karthik",
       "lastActive": 1768301399722
+    },
+    "2a00:7c80:0:3b3::11": {
+      "type": "series",
+      "id": "tt2861424:2:8",
+      "title": "tt2861424:2:8",
+      "username": "anonymous",
+      "lastActive": 1768301614435
     }
   }
 }
