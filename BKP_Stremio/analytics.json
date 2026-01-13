@@ -1,5 +1,5 @@
 {
-  "totalViews": 6219,
+  "totalViews": 6242,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1590,7 +1590,12 @@
     "103.123.168.109",
     "2a0d:5600:4d:100c:2278:2ec:ad48:d64b",
     "2401:4900:8fd0:4e4f:c942:3424:968:26c",
-    "2a09:bac5:3c0a:1a46::29e:84"
+    "2a09:bac5:3c0a:1a46::29e:84",
+    "172.69.86.90,206.53.3.179",
+    "152.59.148.62",
+    "2402:3a80:165b:ed6d:aa37:84d8:fe63:fa74",
+    "104.28.199.190",
+    "2409:40c1:10bd:18f7:90b1:b75:2fb4:b5d3"
   ],
   "views": [
     {
@@ -51334,6 +51339,190 @@
       "timestamp": "2026-01-13T19:09:20.168Z",
       "ip": "103.123.168.109",
       "username": "demo"
+    },
+    {
+      "type": "movie",
+      "id": "tt4139588",
+      "title": "Polar",
+      "timestamp": "2026-01-13T19:14:05.565Z",
+      "ip": "103.123.168.109",
+      "username": "demo"
+    },
+    {
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
+      "timestamp": "2026-01-13T19:14:53.460Z",
+      "ip": "172.69.86.90,206.53.3.179",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt21272942",
+      "title": "tt21272942",
+      "timestamp": "2026-01-13T19:15:15.442Z",
+      "ip": "152.59.148.62",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-13T19:15:39.592Z",
+      "ip": "2402:3a80:165b:ed6d:aa37:84d8:fe63:fa74",
+      "username": "insnaee99"
+    },
+    {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "timestamp": "2026-01-13T19:15:42.304Z",
+      "ip": "152.59.148.62",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "timestamp": "2026-01-13T19:15:50.127Z",
+      "ip": "152.59.148.62",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-13T19:17:38.208Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt11198330:1:1",
+      "title": "House of the Dragon",
+      "timestamp": "2026-01-13T19:20:13.891Z",
+      "ip": "182.77.73.122",
+      "username": "thebatmanbyte"
+    },
+    {
+      "type": "movie",
+      "id": "tt7483340",
+      "title": "tt7483340",
+      "timestamp": "2026-01-13T19:20:48.222Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt1983079:1:1",
+      "title": "tt1983079:1:1",
+      "timestamp": "2026-01-13T19:21:15.489Z",
+      "ip": "104.28.199.190",
+      "username": "ig_sirmour"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:4",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-13T19:21:17.428Z",
+      "ip": "2401:4900:1cb1:36b:1dc4:8df5:78a0:20ce",
+      "username": "srinivasasai"
+    },
+    {
+      "type": "series",
+      "id": "tt11198330:1:2",
+      "title": "House of the Dragon",
+      "timestamp": "2026-01-13T19:21:21.819Z",
+      "ip": "182.77.73.122",
+      "username": "thebatmanbyte"
+    },
+    {
+      "type": "series",
+      "id": "tt11198330:1:1",
+      "title": "House of the Dragon",
+      "timestamp": "2026-01-13T19:21:29.767Z",
+      "ip": "182.77.73.122",
+      "username": "thebatmanbyte"
+    },
+    {
+      "type": "series",
+      "id": "tt10577736:2:1",
+      "title": "Tehran",
+      "timestamp": "2026-01-13T19:21:39.361Z",
+      "ip": "93.159.40.218",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:5",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-13T19:22:31.542Z",
+      "ip": "2401:4900:1cb1:36b:1dc4:8df5:78a0:20ce",
+      "username": "srinivasasai"
+    },
+    {
+      "type": "series",
+      "id": "tt1520211:9:7",
+      "title": "tt1520211:9:7",
+      "timestamp": "2026-01-13T19:22:45.813Z",
+      "ip": "41.103.229.114",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:6",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-13T19:23:21.750Z",
+      "ip": "2401:4900:1cb1:36b:1dc4:8df5:78a0:20ce",
+      "username": "srinivasasai"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:6",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-13T19:23:26.498Z",
+      "ip": "2401:4900:1cb1:36b:1dc4:8df5:78a0:20ce",
+      "username": "srinivasasai"
+    },
+    {
+      "type": "series",
+      "id": "tt11198330:1:1",
+      "title": "House of the Dragon",
+      "timestamp": "2026-01-13T19:23:53.550Z",
+      "ip": "182.77.73.122",
+      "username": "thebatmanbyte"
+    },
+    {
+      "type": "movie",
+      "id": "tt4712810",
+      "title": "tt4712810",
+      "timestamp": "2026-01-13T19:24:15.407Z",
+      "ip": "93.159.40.218",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-13T19:24:41.698Z",
+      "ip": "2409:40c1:10bd:18f7:90b1:b75:2fb4:b5d3",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "timestamp": "2026-01-13T19:25:09.495Z",
+      "ip": "2401:4900:1cb1:36b:1dc4:8df5:78a0:20ce",
+      "username": "srinivasasai"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:1",
+      "title": "Fallout",
+      "timestamp": "2026-01-13T19:25:56.293Z",
+      "ip": "93.159.40.218",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -51363,7 +51552,7 @@
       "id": "tt4139588",
       "title": "Polar",
       "username": "demo",
-      "lastActive": 1768331360168
+      "lastActive": 1768331645565
     },
     "2a0d:5600:4d:100c:2278:2ec:ad48:d64b": {
       "type": "series",
@@ -51398,7 +51587,7 @@
       "id": "tt1520211:9:7",
       "title": "tt1520211:9:7",
       "username": "anonymous",
-      "lastActive": 1768330878389
+      "lastActive": 1768332165813
     },
     "2a09:bac5:3c0a:1a46::29e:84": {
       "type": "series",
@@ -51420,6 +51609,69 @@
       "title": "tt0364845:16:16",
       "username": "anonymous",
       "lastActive": 1768331059474
+    },
+    "172.69.86.90,206.53.3.179": {
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
+      "username": "anonymous",
+      "lastActive": 1768331693460
+    },
+    "152.59.148.62": {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "username": "nabakun24",
+      "lastActive": 1768331750127
+    },
+    "2402:3a80:165b:ed6d:aa37:84d8:fe63:fa74": {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "username": "insnaee99",
+      "lastActive": 1768331739592
+    },
+    "103.214.60.5": {
+      "type": "movie",
+      "id": "tt7483340",
+      "title": "tt7483340",
+      "username": "gaendaswami",
+      "lastActive": 1768332048222
+    },
+    "182.77.73.122": {
+      "type": "series",
+      "id": "tt11198330:1:1",
+      "title": "House of the Dragon",
+      "username": "thebatmanbyte",
+      "lastActive": 1768332233550
+    },
+    "104.28.199.190": {
+      "type": "series",
+      "id": "tt1983079:1:1",
+      "title": "tt1983079:1:1",
+      "username": "ig_sirmour",
+      "lastActive": 1768332075489
+    },
+    "2401:4900:1cb1:36b:1dc4:8df5:78a0:20ce": {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "username": "srinivasasai",
+      "lastActive": 1768332309495
+    },
+    "93.159.40.218": {
+      "type": "series",
+      "id": "tt12637874:2:1",
+      "title": "Fallout",
+      "username": "anonymous",
+      "lastActive": 1768332356293
+    },
+    "2409:40c1:10bd:18f7:90b1:b75:2fb4:b5d3": {
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
+      "username": "gendaswammy",
+      "lastActive": 1768332281698
     }
   }
 }
