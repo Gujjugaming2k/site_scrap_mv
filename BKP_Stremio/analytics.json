@@ -1,5 +1,5 @@
 {
-  "totalViews": 6485,
+  "totalViews": 6489,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -53511,6 +53511,38 @@
       "timestamp": "2026-01-14T03:13:42.550Z",
       "ip": "2600:1702:4a71:a80f:949f:59ce:8532:add4",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:2",
+      "title": "tt1399664:1:2",
+      "timestamp": "2026-01-14T03:18:55.546Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:2",
+      "title": "tt1399664:1:2",
+      "timestamp": "2026-01-14T03:19:17.325Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt0133093",
+      "title": "The Matrix",
+      "timestamp": "2026-01-14T03:23:14.899Z",
+      "ip": "163.223.52.102",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0133093",
+      "title": "The Matrix",
+      "timestamp": "2026-01-14T03:24:34.650Z",
+      "ip": "163.223.52.102",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -54013,10 +54045,10 @@
     },
     "103.24.85.161": {
       "type": "series",
-      "id": "tt1399664:1:1",
-      "title": "tt1399664:1:1",
+      "id": "tt1399664:1:2",
+      "title": "tt1399664:1:2",
       "username": "william097",
-      "lastActive": 1768360147536
+      "lastActive": 1768360757325
     },
     "49.37.112.210": {
       "type": "series",
@@ -54058,7 +54090,7 @@
       "id": "tt0133093",
       "title": "The Matrix",
       "username": "anonymous",
-      "lastActive": 1768360258079
+      "lastActive": 1768361074650
     },
     "152.56.134.52": {
       "type": "series",
