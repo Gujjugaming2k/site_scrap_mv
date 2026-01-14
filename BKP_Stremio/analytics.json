@@ -1,5 +1,5 @@
 {
-  "totalViews": 6632,
+  "totalViews": 6658,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1668,7 +1668,11 @@
     "2401:4900:ab87:b819:3868:a5ff:fe3b:8109",
     "2401:4900:aaf3:8ef6:c404:f1e2:3f38:fbec",
     "152.59.148.30",
-    "2401:4900:b9f8:cdb4::29a0:c5da"
+    "2401:4900:b9f8:cdb4::29a0:c5da",
+    "152.56.134.226",
+    "157.48.89.96",
+    "152.59.171.156",
+    "2409:40e4:1349:4b63:acdb:a8ff:fe56:44c0"
   ],
   "views": [
     {
@@ -54716,6 +54720,214 @@
       "timestamp": "2026-01-14T08:07:27.966Z",
       "ip": "2401:4900:b9f8:cdb4::29a0:c5da",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "timestamp": "2026-01-14T08:08:29.285Z",
+      "ip": "152.56.134.226",
+      "username": "ig_sirmour"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-14T08:08:43.331Z",
+      "ip": "152.59.148.30",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-01-14T08:08:51.315Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt23172090",
+      "title": "tt23172090",
+      "timestamp": "2026-01-14T08:09:16.875Z",
+      "ip": "152.59.148.30",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "timestamp": "2026-01-14T08:11:52.749Z",
+      "ip": "2401:4900:b9f8:cdb4::29a0:c5da",
+      "username": "abhi231511"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:1",
+      "title": "tt14186672:2:1",
+      "timestamp": "2026-01-14T08:12:04.534Z",
+      "ip": "157.48.89.96",
+      "username": "golu_18vk"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-14T08:12:48.700Z",
+      "ip": "2401:4900:b9f8:cdb4::29a0:c5da",
+      "username": "abhi231511"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:8",
+      "title": "tt17069148:1:8",
+      "timestamp": "2026-01-14T08:13:00.907Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:2",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-14T08:13:04.224Z",
+      "ip": "2401:4900:b9f8:cdb4::29a0:c5da",
+      "username": "abhi231511"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-14T08:13:07.420Z",
+      "ip": "157.48.89.96",
+      "username": "golu_18vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt8647400",
+      "title": "tt8647400",
+      "timestamp": "2026-01-14T08:13:40.788Z",
+      "ip": "157.48.89.96",
+      "username": "golu_18vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-14T08:13:47.825Z",
+      "ip": "152.59.171.156",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:11",
+      "title": "tt17069148:1:11",
+      "timestamp": "2026-01-14T08:13:47.875Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt0050083",
+      "title": "12 Angry Men",
+      "timestamp": "2026-01-14T08:13:53.866Z",
+      "ip": "152.59.148.30",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:13",
+      "title": "tt17069148:1:13",
+      "timestamp": "2026-01-14T08:13:56.489Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:14",
+      "title": "tt17069148:1:14",
+      "timestamp": "2026-01-14T08:15:13.331Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt6604188",
+      "title": "TRON: Ares",
+      "timestamp": "2026-01-14T08:15:17.062Z",
+      "ip": "2409:40e4:1349:4b63:acdb:a8ff:fe56:44c0",
+      "username": "ig_sirmour"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-14T08:15:39.391Z",
+      "ip": "152.59.171.156",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:14",
+      "title": "tt17069148:1:14",
+      "timestamp": "2026-01-14T08:16:01.533Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:15",
+      "title": "tt17069148:1:15",
+      "timestamp": "2026-01-14T08:16:06.346Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:15",
+      "title": "tt17069148:1:15",
+      "timestamp": "2026-01-14T08:16:11.589Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:16",
+      "title": "tt17069148:1:16",
+      "timestamp": "2026-01-14T08:16:16.679Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:16",
+      "title": "tt17069148:1:16",
+      "timestamp": "2026-01-14T08:16:23.136Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:17",
+      "title": "tt17069148:1:17",
+      "timestamp": "2026-01-14T08:16:27.070Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:17",
+      "title": "tt17069148:1:17",
+      "timestamp": "2026-01-14T08:16:33.328Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:14",
+      "title": "tt17069148:1:14",
+      "timestamp": "2026-01-14T08:17:34.079Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -54728,10 +54940,10 @@
     },
     "38.134.138.246": {
       "type": "movie",
-      "id": "tt5950044",
-      "title": "Superman",
+      "id": "tt16311594",
+      "title": "F1",
       "username": "thala_75",
-      "lastActive": 1768330224452
+      "lastActive": 1768378131315
     },
     "182.69.178.28": {
       "type": "series",
@@ -54826,10 +55038,10 @@
     },
     "103.214.60.5": {
       "type": "series",
-      "id": "tt17069148:1:13",
-      "title": "tt17069148:1:13",
+      "id": "tt17069148:1:14",
+      "title": "tt17069148:1:14",
       "username": "gaendaswami",
-      "lastActive": 1768373313164
+      "lastActive": 1768378654079
     },
     "182.77.73.122": {
       "type": "series",
@@ -55498,17 +55710,45 @@
     },
     "152.59.148.30": {
       "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
+      "id": "tt0050083",
+      "title": "12 Angry Men",
       "username": "nabakun24",
-      "lastActive": 1768378040687
+      "lastActive": 1768378433866
     },
     "2401:4900:b9f8:cdb4::29a0:c5da": {
       "type": "series",
       "id": "tt0944947:1:2",
       "title": "Game of Thrones",
-      "username": "anonymous",
-      "lastActive": 1768378047966
+      "username": "abhi231511",
+      "lastActive": 1768378384224
+    },
+    "152.56.134.226": {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "username": "ig_sirmour",
+      "lastActive": 1768378109285
+    },
+    "157.48.89.96": {
+      "type": "movie",
+      "id": "tt8647400",
+      "title": "tt8647400",
+      "username": "golu_18vk",
+      "lastActive": 1768378420788
+    },
+    "152.59.171.156": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "cyberboy12321",
+      "lastActive": 1768378539391
+    },
+    "2409:40e4:1349:4b63:acdb:a8ff:fe56:44c0": {
+      "type": "movie",
+      "id": "tt6604188",
+      "title": "TRON: Ares",
+      "username": "ig_sirmour",
+      "lastActive": 1768378517062
     }
   }
 }
