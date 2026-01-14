@@ -1,5 +1,5 @@
 {
-  "totalViews": 6908,
+  "totalViews": 6916,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1716,7 +1716,12 @@
     "2401:4900:8f56:8145:a1ae:1840:ce95:6e19",
     "2409:40f3:2086:170c:9469:be9b:80e0:dc45",
     "157.51.235.8",
-    "2401:4900:1c54:c0ce:b854:f186:c864:6e8a,38.147.106.38"
+    "2401:4900:1c54:c0ce:b854:f186:c864:6e8a,38.147.106.38",
+    "46.197.124.98",
+    "2401:4900:b00c:83e4:58e9:50ff:fe13:a390",
+    "2409:40e2:20ae:7a4f:de3f:d974:d0aa:ed34",
+    "2409:40e4:1083:35b6:39e5:35ff:968e:ba70",
+    "154.18.196.104"
   ],
   "views": [
     {
@@ -56972,6 +56977,70 @@
       "timestamp": "2026-01-14T13:30:50.596Z",
       "ip": "38.134.138.246",
       "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt0050083",
+      "title": "12 Angry Men",
+      "timestamp": "2026-01-14T13:37:09.241Z",
+      "ip": "2409:40e4:1359:8ada:c484:a2ff:fe49:926e",
+      "username": "ig_sirmour"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-14T13:38:10.913Z",
+      "ip": "46.197.124.98",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-14T13:39:49.222Z",
+      "ip": "46.197.124.98",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt27263807",
+      "title": "tt27263807",
+      "timestamp": "2026-01-14T13:43:14.129Z",
+      "ip": "2401:4900:b00c:83e4:58e9:50ff:fe13:a390",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt27263807",
+      "title": "tt27263807",
+      "timestamp": "2026-01-14T13:47:50.280Z",
+      "ip": "2401:4900:b00c:83e4:58e9:50ff:fe13:a390",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0468569",
+      "title": "The Dark Knight",
+      "timestamp": "2026-01-14T13:49:19.950Z",
+      "ip": "2409:40e2:20ae:7a4f:de3f:d974:d0aa:ed34",
+      "username": "johnwick"
+    },
+    {
+      "type": "movie",
+      "id": "tt12801262",
+      "title": "Luca",
+      "timestamp": "2026-01-14T13:49:28.617Z",
+      "ip": "2409:40e4:1083:35b6:39e5:35ff:968e:ba70",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:1:7",
+      "title": "Fallout",
+      "timestamp": "2026-01-14T13:49:35.770Z",
+      "ip": "154.18.196.104",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -57866,10 +57935,10 @@
     },
     "2409:40e4:1359:8ada:c484:a2ff:fe49:926e": {
       "type": "movie",
-      "id": "tt7131622",
-      "title": "Once Upon a Time... in Hollywood",
+      "id": "tt0050083",
+      "title": "12 Angry Men",
       "username": "ig_sirmour",
-      "lastActive": 1768384750063
+      "lastActive": 1768397829241
     },
     "2401:4900:8832:3004:9d5b:9111:f804:dc30": {
       "type": "movie",
@@ -58136,6 +58205,41 @@
       "title": "tt37893389",
       "username": "dillon_ka_shooter",
       "lastActive": 1768397053445
+    },
+    "46.197.124.98": {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "username": "anonymous",
+      "lastActive": 1768397989222
+    },
+    "2401:4900:b00c:83e4:58e9:50ff:fe13:a390": {
+      "type": "movie",
+      "id": "tt27263807",
+      "title": "tt27263807",
+      "username": "anonymous",
+      "lastActive": 1768398470280
+    },
+    "2409:40e2:20ae:7a4f:de3f:d974:d0aa:ed34": {
+      "type": "movie",
+      "id": "tt0468569",
+      "title": "The Dark Knight",
+      "username": "johnwick",
+      "lastActive": 1768398559950
+    },
+    "2409:40e4:1083:35b6:39e5:35ff:968e:ba70": {
+      "type": "movie",
+      "id": "tt12801262",
+      "title": "Luca",
+      "username": "askchm",
+      "lastActive": 1768398568617
+    },
+    "154.18.196.104": {
+      "type": "series",
+      "id": "tt12637874:1:7",
+      "title": "Fallout",
+      "username": "anonymous",
+      "lastActive": 1768398575770
     }
   }
 }
