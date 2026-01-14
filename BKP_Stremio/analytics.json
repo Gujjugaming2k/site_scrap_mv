@@ -1,5 +1,5 @@
 {
-  "totalViews": 6939,
+  "totalViews": 6944,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1725,7 +1725,9 @@
     "38.137.58.166",
     "2406:7400:61:1dc5:f4fc:d3cf:aea5:df85",
     "2401:4900:8fd0:4ab4:9f7:602b:4319:9f85",
-    "2409:40e4:1083:35b6:88b8:84c7:32b0:e256"
+    "2409:40e4:1083:35b6:88b8:84c7:32b0:e256",
+    "2401:4900:ac13:9b2:4d59:a966:bfb6:f0d6",
+    "2a02:9b0:106:827:e5de:20d1:d347:8db9"
   ],
   "views": [
     {
@@ -57229,6 +57231,46 @@
       "timestamp": "2026-01-14T14:35:56.989Z",
       "ip": "154.18.196.104",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:1:7",
+      "title": "Fallout",
+      "timestamp": "2026-01-14T14:37:05.243Z",
+      "ip": "154.18.196.104",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:1:8",
+      "title": "Fallout",
+      "timestamp": "2026-01-14T14:37:49.365Z",
+      "ip": "154.18.196.100",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:1:7",
+      "title": "Fallout",
+      "timestamp": "2026-01-14T14:39:29.596Z",
+      "ip": "154.18.196.104",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt7631058:1:1",
+      "title": "tt7631058:1:1",
+      "timestamp": "2026-01-14T14:44:15.771Z",
+      "ip": "2401:4900:ac13:9b2:4d59:a966:bfb6:f0d6",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt6604188",
+      "title": "TRON: Ares",
+      "timestamp": "2026-01-14T14:50:57.608Z",
+      "ip": "2a02:9b0:106:827:e5de:20d1:d347:8db9",
+      "username": "hoosa500"
     }
   ],
   "activeNow": {
@@ -58427,7 +58469,7 @@
       "id": "tt12637874:1:7",
       "title": "Fallout",
       "username": "anonymous",
-      "lastActive": 1768401356989
+      "lastActive": 1768401569596
     },
     "38.137.58.166": {
       "type": "movie",
@@ -58476,7 +58518,21 @@
       "id": "tt12637874:1:8",
       "title": "Fallout",
       "username": "anonymous",
-      "lastActive": 1768401297727
+      "lastActive": 1768401469365
+    },
+    "2401:4900:ac13:9b2:4d59:a966:bfb6:f0d6": {
+      "type": "series",
+      "id": "tt7631058:1:1",
+      "title": "tt7631058:1:1",
+      "username": "gendaswammy",
+      "lastActive": 1768401855771
+    },
+    "2a02:9b0:106:827:e5de:20d1:d347:8db9": {
+      "type": "movie",
+      "id": "tt6604188",
+      "title": "TRON: Ares",
+      "username": "hoosa500",
+      "lastActive": 1768402257608
     }
   }
 }
