@@ -1,5 +1,5 @@
 {
-  "totalViews": 6594,
+  "totalViews": 6597,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1657,7 +1657,8 @@
     "152.57.127.48",
     "157.51.221.80",
     "2001:ac8:22:23:4210:84d5:1b18:f47d",
-    "2405:201:2000:ca9e:3e39:982e:fe04:4a4b"
+    "2405:201:2000:ca9e:3e39:982e:fe04:4a4b",
+    "49.42.203.152"
   ],
   "views": [
     {
@@ -54401,6 +54402,30 @@
       "timestamp": "2026-01-14T06:35:23.752Z",
       "ip": "182.77.73.122",
       "username": "thebatmanbyte"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:13",
+      "title": "tt17069148:1:13",
+      "timestamp": "2026-01-14T06:47:45.458Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:13",
+      "title": "tt17069148:1:13",
+      "timestamp": "2026-01-14T06:48:33.164Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt4786824:2:1",
+      "title": "tt4786824:2:1",
+      "timestamp": "2026-01-14T06:49:18.736Z",
+      "ip": "49.42.203.152",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -54511,10 +54536,10 @@
     },
     "103.214.60.5": {
       "type": "series",
-      "id": "tt17069148:1:12",
-      "title": "tt17069148:1:12",
+      "id": "tt17069148:1:13",
+      "title": "tt17069148:1:13",
       "username": "gaendaswami",
-      "lastActive": 1768372127551
+      "lastActive": 1768373313164
     },
     "182.77.73.122": {
       "type": "series",
@@ -55103,6 +55128,13 @@
       "title": "Tehran",
       "username": "anonymous",
       "lastActive": 1768371971658
+    },
+    "49.42.203.152": {
+      "type": "series",
+      "id": "tt4786824:2:1",
+      "title": "tt4786824:2:1",
+      "username": "anonymous",
+      "lastActive": 1768373358736
     }
   }
 }
