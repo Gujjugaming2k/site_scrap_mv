@@ -1,5 +1,5 @@
 {
-  "totalViews": 6980,
+  "totalViews": 6995,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1736,7 +1736,8 @@
     "2409:40e4:10bf:e433:88b8:84c7:32b0:e256",
     "2a09:bac5:3c0f:a82::10c:58",
     "154.18.196.102",
-    "2a02:8428:ad10:ae01:c13c:4186:8388:4d9"
+    "2a02:8428:ad10:ae01:c13c:4186:8388:4d9",
+    "2400:1a00:6b20:c415:c782:72f7:8caf:673f"
   ],
   "views": [
     {
@@ -57568,6 +57569,126 @@
       "timestamp": "2026-01-14T15:49:50.486Z",
       "ip": "2401:4900:1c60:d0cd:30c6:1487:7736:88ca",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:7",
+      "title": "tt14186672:1:7",
+      "timestamp": "2026-01-14T15:54:05.303Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:1",
+      "title": "tt19244304:1:1",
+      "timestamp": "2026-01-14T15:54:44.413Z",
+      "ip": "2401:4900:1cbd:d2d9:e58c:bf7d:ce21:d1cd",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:2",
+      "title": "tt19244304:1:2",
+      "timestamp": "2026-01-14T15:54:54.701Z",
+      "ip": "2401:4900:1cbd:d2d9:e58c:bf7d:ce21:d1cd",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt36052818",
+      "title": "tt36052818",
+      "timestamp": "2026-01-14T15:54:54.984Z",
+      "ip": "103.160.26.43",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:1",
+      "title": "tt19244304:1:1",
+      "timestamp": "2026-01-14T15:55:01.062Z",
+      "ip": "2401:4900:1cbd:d2d9:e58c:bf7d:ce21:d1cd",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:2",
+      "title": "tt19244304:1:2",
+      "timestamp": "2026-01-14T15:55:11.725Z",
+      "ip": "2401:4900:1cbd:d2d9:e58c:bf7d:ce21:d1cd",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:1",
+      "title": "tt19244304:1:1",
+      "timestamp": "2026-01-14T15:55:16.517Z",
+      "ip": "2401:4900:1cbd:d2d9:e58c:bf7d:ce21:d1cd",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:0:1",
+      "title": "tt14186672:0:1",
+      "timestamp": "2026-01-14T15:55:28.973Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt12324366:1:4",
+      "title": "tt12324366:1:4",
+      "timestamp": "2026-01-14T15:56:43.517Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt12324366:1:5",
+      "title": "tt12324366:1:5",
+      "timestamp": "2026-01-14T15:56:48.094Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt12324366:1:5",
+      "title": "tt12324366:1:5",
+      "timestamp": "2026-01-14T15:57:10.984Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt12324366:1:6",
+      "title": "tt12324366:1:6",
+      "timestamp": "2026-01-14T15:57:31.928Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt8302382",
+      "title": "tt8302382",
+      "timestamp": "2026-01-14T15:58:14.794Z",
+      "ip": "2400:1a00:6b20:c415:c782:72f7:8caf:673f",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:1",
+      "title": "tt19244304:1:1",
+      "timestamp": "2026-01-14T15:58:38.782Z",
+      "ip": "2401:4900:1cbd:d2d9:e58c:bf7d:ce21:d1cd",
+      "username": "elite_user13"
+    },
+    {
+      "type": "movie",
+      "id": "tt10548174",
+      "title": "28 Years Later",
+      "timestamp": "2026-01-14T16:01:44.702Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -58104,11 +58225,11 @@
       "lastActive": 1768395358171
     },
     "203.192.255.46": {
-      "type": "series",
-      "id": "tt14186672:1:6",
-      "title": "tt14186672:1:6",
+      "type": "movie",
+      "id": "tt10548174",
+      "title": "28 Years Later",
       "username": "chetan_b2",
-      "lastActive": 1768404229582
+      "lastActive": 1768406504702
     },
     "163.223.52.102": {
       "type": "movie",
@@ -58907,6 +59028,27 @@
       "title": "tt2661044:7:9",
       "username": "anonymous",
       "lastActive": 1768405380673
+    },
+    "2401:4900:1cbd:d2d9:e58c:bf7d:ce21:d1cd": {
+      "type": "series",
+      "id": "tt19244304:1:1",
+      "title": "tt19244304:1:1",
+      "username": "elite_user13",
+      "lastActive": 1768406318782
+    },
+    "103.160.26.43": {
+      "type": "movie",
+      "id": "tt36052818",
+      "title": "tt36052818",
+      "username": "anonymous",
+      "lastActive": 1768406094984
+    },
+    "2400:1a00:6b20:c415:c782:72f7:8caf:673f": {
+      "type": "movie",
+      "id": "tt8302382",
+      "title": "tt8302382",
+      "username": "anonymous",
+      "lastActive": 1768406294794
     }
   }
 }
