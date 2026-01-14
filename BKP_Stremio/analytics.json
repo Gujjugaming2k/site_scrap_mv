@@ -1,5 +1,5 @@
 {
-  "totalViews": 6782,
+  "totalViews": 6795,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1695,7 +1695,8 @@
     "2406:8800:9015:f619:c80f:e9b9:a928:3f07",
     "41.96.224.214",
     "2409:40e1:4058:a35d:c84a:27ff:fe39:9d73",
-    "2401:4900:ba6d:c699::29c1:ec4e"
+    "2401:4900:ba6d:c699::29c1:ec4e",
+    "2a02:6ea0:de10:3595::12"
   ],
   "views": [
     {
@@ -55943,6 +55944,110 @@
       "timestamp": "2026-01-14T10:29:14.363Z",
       "ip": "38.134.138.246",
       "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt31036941",
+      "title": "Jurassic World Rebirth",
+      "timestamp": "2026-01-14T10:31:15.460Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-01-14T10:31:45.336Z",
+      "ip": "72.255.11.154",
+      "username": "hvre2"
+    },
+    {
+      "type": "movie",
+      "id": "tt31036941",
+      "title": "Jurassic World Rebirth",
+      "timestamp": "2026-01-14T10:36:48.472Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt4786824:2:2",
+      "title": "tt4786824:2:2",
+      "timestamp": "2026-01-14T10:37:07.200Z",
+      "ip": "2409:40e2:201d:6ab6:8000::",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:4",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-14T10:37:13.560Z",
+      "ip": "2401:4900:ba6d:c699::29c1:ec4e",
+      "username": "abhi231511"
+    },
+    {
+      "type": "movie",
+      "id": "tt10676052",
+      "title": "The Fantastic 4: First Steps",
+      "timestamp": "2026-01-14T10:37:30.011Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt10676052",
+      "title": "The Fantastic 4: First Steps",
+      "timestamp": "2026-01-14T10:38:14.371Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-01-14T10:38:25.261Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt1396484",
+      "title": "It",
+      "timestamp": "2026-01-14T10:38:49.645Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-14T10:39:08.704Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-14T10:39:25.635Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt9603208",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "timestamp": "2026-01-14T10:40:00.110Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt1219024:1:2",
+      "title": "tt1219024:1:2",
+      "timestamp": "2026-01-14T10:44:45.839Z",
+      "ip": "2a02:6ea0:de10:3595::12",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -55955,10 +56060,10 @@
     },
     "38.134.138.246": {
       "type": "movie",
-      "id": "tt10676052",
-      "title": "The Fantastic 4: First Steps",
+      "id": "tt9603208",
+      "title": "Mission: Impossible - The Final Reckoning",
       "username": "thala_75",
-      "lastActive": 1768386554363
+      "lastActive": 1768387200110
     },
     "182.69.178.28": {
       "type": "series",
@@ -56151,10 +56256,10 @@
     },
     "72.255.11.154": {
       "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
+      "id": "tt32916440",
+      "title": "tt32916440",
       "username": "hvre2",
-      "lastActive": 1768386475963
+      "lastActive": 1768386705336
     },
     "154.208.49.98": {
       "type": "movie",
@@ -56931,7 +57036,21 @@
       "id": "tt0944947:1:4",
       "title": "Game of Thrones",
       "username": "abhi231511",
-      "lastActive": 1768386309313
+      "lastActive": 1768387033560
+    },
+    "2409:40e2:201d:6ab6:8000::": {
+      "type": "series",
+      "id": "tt4786824:2:2",
+      "title": "tt4786824:2:2",
+      "username": "anonymous",
+      "lastActive": 1768387027200
+    },
+    "2a02:6ea0:de10:3595::12": {
+      "type": "series",
+      "id": "tt1219024:1:2",
+      "title": "tt1219024:1:2",
+      "username": "anonymous",
+      "lastActive": 1768387485839
     }
   }
 }
