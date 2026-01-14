@@ -1,5 +1,5 @@
 {
-  "totalViews": 6398,
+  "totalViews": 6400,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -52802,6 +52802,22 @@
       "timestamp": "2026-01-14T00:22:36.882Z",
       "ip": "152.58.182.184",
       "username": "tejmani"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:4:7",
+      "title": "tt0903747:4:7",
+      "timestamp": "2026-01-14T00:22:49.272Z",
+      "ip": "152.58.182.184",
+      "username": "tejmani"
+    },
+    {
+      "type": "series",
+      "id": "tt2661044:7:7",
+      "title": "tt2661044:7:7",
+      "timestamp": "2026-01-14T00:33:38.170Z",
+      "ip": "2a02:8428:ad10:ae01:4900:1f26:8887:1845",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -53111,7 +53127,7 @@
       "id": "tt2661044:7:7",
       "title": "tt2661044:7:7",
       "username": "anonymous",
-      "lastActive": 1768340233344
+      "lastActive": 1768350818170
     },
     "105.97.155.4": {
       "type": "series",
@@ -53220,10 +53236,10 @@
     },
     "152.58.182.184": {
       "type": "series",
-      "id": "tt0903747:4:6",
-      "title": "tt0903747:4:6",
+      "id": "tt0903747:4:7",
+      "title": "tt0903747:4:7",
       "username": "tejmani",
-      "lastActive": 1768350156882
+      "lastActive": 1768350169272
     },
     "2409:40e0:c:770d:8000::": {
       "type": "series",
