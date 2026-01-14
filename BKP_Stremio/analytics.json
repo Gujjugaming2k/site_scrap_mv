@@ -1,5 +1,5 @@
 {
-  "totalViews": 7030,
+  "totalViews": 7046,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1743,7 +1743,9 @@
     "2401:4900:597a:145e:cc7e:2340:3a5f:5e9a",
     "27.57.111.57",
     "2401:4900:77a8:edf:24ee:d7ff:fe3c:e7e0",
-    "2a09:bac5:3b58:254b::3b7:15,38.147.106.38"
+    "2a09:bac5:3b58:254b::3b7:15,38.147.106.38",
+    "2409:40d0:c:4ad3:ccb5:29ff:fee3:e42",
+    "105.111.232.53"
   ],
   "views": [
     {
@@ -57975,6 +57977,134 @@
       "timestamp": "2026-01-14T16:41:54.911Z",
       "ip": "2.50.199.25",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-14T16:43:44.770Z",
+      "ip": "27.57.111.57",
+      "username": "user_9b"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-14T16:44:09.945Z",
+      "ip": "94.156.30.111",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-14T16:44:12.578Z",
+      "ip": "80.211.133.129",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0250875:17:1",
+      "title": "tt0250875:17:1",
+      "timestamp": "2026-01-14T16:45:57.261Z",
+      "ip": "2409:40d0:c:4ad3:ccb5:29ff:fee3:e42",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt0250875:17:1",
+      "title": "tt0250875:17:1",
+      "timestamp": "2026-01-14T16:46:57.556Z",
+      "ip": "2409:40d0:c:4ad3:ccb5:29ff:fee3:e42",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt0250875:16:1",
+      "title": "tt0250875:16:1",
+      "timestamp": "2026-01-14T16:47:34.686Z",
+      "ip": "2409:40d0:c:4ad3:ccb5:29ff:fee3:e42",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt3501632",
+      "title": "Thor: Ragnarok",
+      "timestamp": "2026-01-14T16:47:36.818Z",
+      "ip": "2409:40c4:3107:ab1c:542f:94ff:fef1:b44f",
+      "username": "napsteerr"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:4",
+      "title": "Fallout",
+      "timestamp": "2026-01-14T16:48:08.681Z",
+      "ip": "2600:1702:4a71:a80f:949f:59ce:8532:add4",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:5",
+      "title": "Fallout",
+      "timestamp": "2026-01-14T16:48:21.748Z",
+      "ip": "2600:1702:4a71:a80f:949f:59ce:8532:add4",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt12908150",
+      "title": "The Life of Chuck",
+      "timestamp": "2026-01-14T16:48:33.824Z",
+      "ip": "2409:40c4:3107:ab1c:542f:94ff:fef1:b44f",
+      "username": "napsteerr"
+    },
+    {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "timestamp": "2026-01-14T16:50:02.705Z",
+      "ip": "2409:40c4:3107:ab1c:542f:94ff:fef1:b44f",
+      "username": "napsteerr"
+    },
+    {
+      "type": "series",
+      "id": "tt38689878:1:1",
+      "title": "tt38689878:1:1",
+      "timestamp": "2026-01-14T16:50:22.808Z",
+      "ip": "2.50.199.25",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:2:1",
+      "title": "tt31938062:2:1",
+      "timestamp": "2026-01-14T16:52:13.159Z",
+      "ip": "2409:40c4:3107:ab1c:542f:94ff:fef1:b44f",
+      "username": "napsteerr"
+    },
+    {
+      "type": "movie",
+      "id": "tt0073115",
+      "title": "tt0073115",
+      "timestamp": "2026-01-14T16:52:44.328Z",
+      "ip": "2409:40c4:3107:ab1c:542f:94ff:fef1:b44f",
+      "username": "napsteerr"
+    },
+    {
+      "type": "movie",
+      "id": "null",
+      "title": "null",
+      "timestamp": "2026-01-14T16:56:49.834Z",
+      "ip": "105.111.232.53",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0262699",
+      "title": "tt0262699",
+      "timestamp": "2026-01-14T16:57:08.057Z",
+      "ip": "105.111.232.53",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -58504,11 +58634,11 @@
       "lastActive": 1768359077664
     },
     "80.211.133.129": {
-      "type": "movie",
-      "id": "tt30742355",
-      "title": "tt30742355",
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
       "username": "anonymous",
-      "lastActive": 1768395358171
+      "lastActive": 1768409052578
     },
     "203.192.255.46": {
       "type": "movie",
@@ -58533,10 +58663,10 @@
     },
     "2600:1702:4a71:a80f:949f:59ce:8532:add4": {
       "type": "series",
-      "id": "tt12637874:2:4",
+      "id": "tt12637874:2:5",
       "title": "Fallout",
       "username": "anonymous",
-      "lastActive": 1768360422550
+      "lastActive": 1768409301748
     },
     "135.0.192.28": {
       "type": "series",
@@ -59345,10 +59475,10 @@
     },
     "2409:40c4:3107:ab1c:542f:94ff:fef1:b44f": {
       "type": "movie",
-      "id": "tt3501632",
-      "title": "Thor: Ragnarok",
+      "id": "tt0073115",
+      "title": "tt0073115",
       "username": "napsteerr",
-      "lastActive": 1768407414183
+      "lastActive": 1768409564328
     },
     "2401:4900:597a:145e:cc7e:2340:3a5f:5e9a": {
       "type": "movie",
@@ -59362,7 +59492,7 @@
       "id": "tt35335046:1:1",
       "title": "tt35335046:1:1",
       "username": "user_9b",
-      "lastActive": 1768407503692
+      "lastActive": 1768409024770
     },
     "2401:4900:77a8:edf:24ee:d7ff:fe3c:e7e0": {
       "type": "series",
@@ -59373,10 +59503,10 @@
     },
     "2.50.199.25": {
       "type": "series",
-      "id": "tt39133077:1:1",
-      "title": "tt39133077:1:1",
+      "id": "tt38689878:1:1",
+      "title": "tt38689878:1:1",
       "username": "anonymous",
-      "lastActive": 1768408914911
+      "lastActive": 1768409422808
     },
     "2a09:bac5:3b58:254b::3b7:15,38.147.106.38": {
       "type": "series",
@@ -59384,6 +59514,27 @@
       "title": "tt5607616:2:5",
       "username": "dillon_ka_shooter",
       "lastActive": 1768408444331
+    },
+    "94.156.30.111": {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "username": "b1jju",
+      "lastActive": 1768409049945
+    },
+    "2409:40d0:c:4ad3:ccb5:29ff:fee3:e42": {
+      "type": "series",
+      "id": "tt0250875:16:1",
+      "title": "tt0250875:16:1",
+      "username": "ryuzaklo26",
+      "lastActive": 1768409254686
+    },
+    "105.111.232.53": {
+      "type": "movie",
+      "id": "tt0262699",
+      "title": "tt0262699",
+      "username": "anonymous",
+      "lastActive": 1768409828057
     }
   }
 }
