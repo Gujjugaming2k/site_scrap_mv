@@ -1,5 +1,5 @@
 {
-  "totalViews": 6675,
+  "totalViews": 6683,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1677,7 +1677,12 @@
     "2a09:bac5:3c0f:1aaa::2a8:66",
     "2401:4900:1c54:c0ce:2d37:18e0:47a3:d42d",
     "2405:201:900f:a92b:1c06:ba2c:5fe1:be43",
-    "152.58.187.85"
+    "152.58.187.85",
+    "152.59.171.50",
+    "152.59.25.76",
+    "2409:40e4:204a:fe9:2c5d:68ff:fed6:d0c7",
+    "2600:1013:b02d:cf7b:0:16:6592:ab01",
+    "152.58.180.214"
   ],
   "views": [
     {
@@ -55069,6 +55074,70 @@
       "timestamp": "2026-01-14T08:38:19.325Z",
       "ip": "2401:4900:1c54:c0ce:2d37:18e0:47a3:d42d",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
+      "timestamp": "2026-01-14T08:48:14.972Z",
+      "ip": "2401:4900:1c54:c0ce:2d37:18e0:47a3:d42d",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:3",
+      "title": "tt0903747:5:3",
+      "timestamp": "2026-01-14T08:49:27.458Z",
+      "ip": "2401:4900:1c54:c0ce:2d37:18e0:47a3:d42d",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:3",
+      "title": "tt0903747:5:3",
+      "timestamp": "2026-01-14T08:49:38.222Z",
+      "ip": "2401:4900:1c54:c0ce:2d37:18e0:47a3:d42d",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt9680440:1:1",
+      "title": "tt9680440:1:1",
+      "timestamp": "2026-01-14T08:50:35.785Z",
+      "ip": "152.59.171.50",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt3501632",
+      "title": "Thor: Ragnarok",
+      "timestamp": "2026-01-14T08:52:10.745Z",
+      "ip": "152.59.25.76",
+      "username": "napsteerr"
+    },
+    {
+      "type": "series",
+      "id": "tt9680440:1:1",
+      "title": "tt9680440:1:1",
+      "timestamp": "2026-01-14T08:53:16.495Z",
+      "ip": "2409:40e4:204a:fe9:2c5d:68ff:fed6:d0c7",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:3",
+      "title": "Fallout",
+      "timestamp": "2026-01-14T08:54:51.290Z",
+      "ip": "2600:1013:b02d:cf7b:0:16:6592:ab01",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt2267998",
+      "title": "Gone Girl",
+      "timestamp": "2026-01-14T08:55:26.915Z",
+      "ip": "152.58.180.214",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -55907,10 +55976,10 @@
     },
     "2401:4900:1c54:c0ce:2d37:18e0:47a3:d42d": {
       "type": "series",
-      "id": "tt9335498:1:1",
-      "title": "tt9335498:1:1",
+      "id": "tt0903747:5:3",
+      "title": "tt0903747:5:3",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768379899325
+      "lastActive": 1768380578222
     },
     "2405:201:900f:a92b:1c06:ba2c:5fe1:be43": {
       "type": "series",
@@ -55925,6 +55994,41 @@
       "title": "It",
       "username": "ig_sirmour",
       "lastActive": 1768379845945
+    },
+    "152.59.171.50": {
+      "type": "series",
+      "id": "tt9680440:1:1",
+      "title": "tt9680440:1:1",
+      "username": "cyberboy12321",
+      "lastActive": 1768380635785
+    },
+    "152.59.25.76": {
+      "type": "movie",
+      "id": "tt3501632",
+      "title": "Thor: Ragnarok",
+      "username": "napsteerr",
+      "lastActive": 1768380730745
+    },
+    "2409:40e4:204a:fe9:2c5d:68ff:fed6:d0c7": {
+      "type": "series",
+      "id": "tt9680440:1:1",
+      "title": "tt9680440:1:1",
+      "username": "cyberboy12321",
+      "lastActive": 1768380796495
+    },
+    "2600:1013:b02d:cf7b:0:16:6592:ab01": {
+      "type": "series",
+      "id": "tt12637874:2:3",
+      "title": "Fallout",
+      "username": "anonymous",
+      "lastActive": 1768380891290
+    },
+    "152.58.180.214": {
+      "type": "movie",
+      "id": "tt2267998",
+      "title": "Gone Girl",
+      "username": "anonymous",
+      "lastActive": 1768380926915
     }
   }
 }
