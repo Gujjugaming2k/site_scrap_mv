@@ -1,5 +1,5 @@
 {
-  "totalViews": 6944,
+  "totalViews": 6946,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -57271,6 +57271,22 @@
       "timestamp": "2026-01-14T14:50:57.608Z",
       "ip": "2a02:9b0:106:827:e5de:20d1:d347:8db9",
       "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt6604188",
+      "title": "TRON: Ares",
+      "timestamp": "2026-01-14T14:54:29.309Z",
+      "ip": "2a02:9b0:106:827:e5de:20d1:d347:8db9",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tt4236770:3:5",
+      "title": "tt4236770:3:5",
+      "timestamp": "2026-01-14T15:04:24.147Z",
+      "ip": "2401:4900:1c60:d0cd:30c6:1487:7736:88ca",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -58532,7 +58548,14 @@
       "id": "tt6604188",
       "title": "TRON: Ares",
       "username": "hoosa500",
-      "lastActive": 1768402257608
+      "lastActive": 1768402469309
+    },
+    "2401:4900:1c60:d0cd:30c6:1487:7736:88ca": {
+      "type": "series",
+      "id": "tt4236770:3:5",
+      "title": "tt4236770:3:5",
+      "username": "anonymous",
+      "lastActive": 1768403064147
     }
   }
 }
