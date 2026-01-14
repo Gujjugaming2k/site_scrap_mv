@@ -1,5 +1,5 @@
 {
-  "totalViews": 7123,
+  "totalViews": 7137,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1765,7 +1765,8 @@
     "94.20.42.0",
     "2409:40e0:27:5d38:bca8:b3ff:fec5:a63",
     "2401:4900:8fdf:96e3:6690:af44:7e0a:95a7",
-    "129.126.99.250"
+    "129.126.99.250",
+    "65.95.97.146"
   ],
   "views": [
     {
@@ -58741,6 +58742,118 @@
       "timestamp": "2026-01-14T18:29:08.804Z",
       "ip": "82.66.125.144",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-01-14T18:32:23.035Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-01-14T18:33:15.529Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt32590226:3:6",
+      "title": "tt32590226:3:6",
+      "timestamp": "2026-01-14T18:33:49.149Z",
+      "ip": "65.95.97.146",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-14T18:34:27.710Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt32590226:3:16",
+      "title": "tt32590226:3:16",
+      "timestamp": "2026-01-14T18:34:56.399Z",
+      "ip": "65.95.97.146",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt9362736",
+      "title": "Die My Love",
+      "timestamp": "2026-01-14T18:35:47.267Z",
+      "ip": "2401:4900:8fdf:96e3:6690:af44:7e0a:95a7",
+      "username": "arjun2077"
+    },
+    {
+      "type": "movie",
+      "id": "tt8244784",
+      "title": "The Hunt",
+      "timestamp": "2026-01-14T18:36:13.075Z",
+      "ip": "2401:4900:8fdf:96e3:6690:af44:7e0a:95a7",
+      "username": "arjun2077"
+    },
+    {
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "timestamp": "2026-01-14T18:36:28.458Z",
+      "ip": "2401:4900:8fdf:96e3:6690:af44:7e0a:95a7",
+      "username": "arjun2077"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:1:59",
+      "title": "tt0388629:1:59",
+      "timestamp": "2026-01-14T18:37:10.859Z",
+      "ip": "2401:4900:8838:8908:15a8:5b1a:e015:c31b",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-01-14T18:38:21.880Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt21103218",
+      "title": "The Lost Bus",
+      "timestamp": "2026-01-14T18:43:12.835Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-01-14T18:44:00.949Z",
+      "ip": "103.181.65.39",
+      "username": "mutti9"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-01-14T18:44:01.041Z",
+      "ip": "103.181.65.39",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-14T18:44:08.234Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
     }
   ],
   "activeNow": {
@@ -58753,10 +58866,10 @@
     },
     "38.134.138.246": {
       "type": "movie",
-      "id": "tt21103218",
-      "title": "The Lost Bus",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
       "username": "thala_75",
-      "lastActive": 1768415334206
+      "lastActive": 1768416248234
     },
     "182.69.178.28": {
       "type": "series",
@@ -60293,10 +60406,10 @@
     },
     "2401:4900:8838:8908:15a8:5b1a:e015:c31b": {
       "type": "series",
-      "id": "tt0388629:1:58",
-      "title": "tt0388629:1:58",
+      "id": "tt0388629:1:59",
+      "title": "tt0388629:1:59",
       "username": "anonymous",
-      "lastActive": 1768414599340
+      "lastActive": 1768415830859
     },
     "94.20.42.0": {
       "type": "movie",
@@ -60314,10 +60427,10 @@
     },
     "2401:4900:8fdf:96e3:6690:af44:7e0a:95a7": {
       "type": "movie",
-      "id": "tt8946378",
-      "title": "tt8946378",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
       "username": "arjun2077",
-      "lastActive": 1768415290241
+      "lastActive": 1768415788458
     },
     "129.126.99.250": {
       "type": "movie",
@@ -60325,6 +60438,20 @@
       "title": "tt3416536",
       "username": "sheik",
       "lastActive": 1768415113633
+    },
+    "65.95.97.146": {
+      "type": "series",
+      "id": "tt32590226:3:16",
+      "title": "tt32590226:3:16",
+      "username": "anonymous",
+      "lastActive": 1768415696399
+    },
+    "103.181.65.39": {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "username": "anonymous",
+      "lastActive": 1768416241041
     }
   }
 }
