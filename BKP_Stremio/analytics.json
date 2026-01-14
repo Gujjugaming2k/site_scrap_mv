@@ -1,5 +1,5 @@
 {
-  "totalViews": 6628,
+  "totalViews": 6632,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1666,7 +1666,9 @@
     "2600:4040:2811:8700:2896:7b9b:482:350b",
     "2409:40e4:10b0:e5fc:88b8:84c7:32b0:e256",
     "2401:4900:ab87:b819:3868:a5ff:fe3b:8109",
-    "2401:4900:aaf3:8ef6:c404:f1e2:3f38:fbec"
+    "2401:4900:aaf3:8ef6:c404:f1e2:3f38:fbec",
+    "152.59.148.30",
+    "2401:4900:b9f8:cdb4::29a0:c5da"
   ],
   "views": [
     {
@@ -54682,6 +54684,38 @@
       "timestamp": "2026-01-14T07:48:14.402Z",
       "ip": "157.48.78.6",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-01-14T08:07:14.237Z",
+      "ip": "152.59.148.30",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-14T08:07:20.687Z",
+      "ip": "152.59.148.30",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-14T08:07:25.561Z",
+      "ip": "2401:4900:b9f8:cdb4::29a0:c5da",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:2",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-14T08:07:27.966Z",
+      "ip": "2401:4900:b9f8:cdb4::29a0:c5da",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -55461,6 +55495,20 @@
       "title": "Stranger Things",
       "username": "explorerindia",
       "lastActive": 1768376764409
+    },
+    "152.59.148.30": {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "username": "nabakun24",
+      "lastActive": 1768378040687
+    },
+    "2401:4900:b9f8:cdb4::29a0:c5da": {
+      "type": "series",
+      "id": "tt0944947:1:2",
+      "title": "Game of Thrones",
+      "username": "anonymous",
+      "lastActive": 1768378047966
     }
   }
 }
