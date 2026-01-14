@@ -1,5 +1,5 @@
 {
-  "totalViews": 7161,
+  "totalViews": 7163,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -59048,6 +59048,22 @@
       "timestamp": "2026-01-14T19:26:22.504Z",
       "ip": "2401:4900:8838:8908:15a8:5b1a:e015:c31b",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt7587890:8:3",
+      "title": "tt7587890:8:3",
+      "timestamp": "2026-01-14T19:35:59.713Z",
+      "ip": "80.192.52.146",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0364845:16:21",
+      "title": "tt0364845:16:21",
+      "timestamp": "2026-01-14T19:38:31.865Z",
+      "ip": "103.4.221.252",
+      "username": "sexhabibi"
     }
   ],
   "activeNow": {
@@ -59305,10 +59321,10 @@
     },
     "80.192.52.146": {
       "type": "series",
-      "id": "tt7587890:8:2",
-      "title": "tt7587890:8:2",
+      "id": "tt7587890:8:3",
+      "title": "tt7587890:8:3",
       "username": "anonymous",
-      "lastActive": 1768417242889
+      "lastActive": 1768419359713
     },
     "47.15.218.109": {
       "type": "movie",
@@ -60131,10 +60147,10 @@
     },
     "103.4.221.252": {
       "type": "series",
-      "id": "tt0364845:16:19",
-      "title": "tt0364845:16:19",
+      "id": "tt0364845:16:21",
+      "title": "tt0364845:16:21",
       "username": "sexhabibi",
-      "lastActive": 1768414765978
+      "lastActive": 1768419511865
     },
     "2401:4900:8509:2c10::39c2:b5e9": {
       "type": "movie",
