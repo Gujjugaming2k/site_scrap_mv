@@ -1,5 +1,5 @@
 {
-  "totalViews": 6862,
+  "totalViews": 6873,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1705,7 +1705,9 @@
     "2001:ac8:2:1::11",
     "2409:40d2:2019:dad9:15bc:3dd2:2298:3f4",
     "2401:4900:8fdf:96e3:430c:2992:bc58:63cb",
-    "115.98.234.188"
+    "115.98.234.188",
+    "2405:201:6818:e957:5c1d:dddf:e8b3:f2f4",
+    "2401:4900:8509:2c10::39c2:b5e9"
   ],
   "views": [
     {
@@ -56593,6 +56595,94 @@
       "timestamp": "2026-01-14T12:00:57.074Z",
       "ip": "115.98.234.188",
       "username": "insnaee99"
+    },
+    {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "timestamp": "2026-01-14T12:01:10.917Z",
+      "ip": "2401:4900:8fdf:96e3:430c:2992:bc58:63cb",
+      "username": "arjun2077"
+    },
+    {
+      "type": "series",
+      "id": "tt24053860:1:3",
+      "title": "tt24053860:1:3",
+      "timestamp": "2026-01-14T12:02:10.221Z",
+      "ip": "115.98.234.188",
+      "username": "insnaee99"
+    },
+    {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "timestamp": "2026-01-14T12:04:16.844Z",
+      "ip": "2401:4900:8fdf:96e3:430c:2992:bc58:63cb",
+      "username": "arjun2077"
+    },
+    {
+      "type": "movie",
+      "id": "tt27425164",
+      "title": "tt27425164",
+      "timestamp": "2026-01-14T12:04:59.366Z",
+      "ip": "2405:201:6818:e957:5c1d:dddf:e8b3:f2f4",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1192169:2:12",
+      "title": "tt1192169:2:12",
+      "timestamp": "2026-01-14T12:07:29.777Z",
+      "ip": "2001:ac8:2:1::11",
+      "username": "jinwoooooi"
+    },
+    {
+      "type": "movie",
+      "id": "tt36017918",
+      "title": "tt36017918",
+      "timestamp": "2026-01-14T12:07:37.031Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt1192169:2:13",
+      "title": "tt1192169:2:13",
+      "timestamp": "2026-01-14T12:09:02.308Z",
+      "ip": "2001:ac8:2:1::11",
+      "username": "jinwoooooi"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-14T12:09:45.281Z",
+      "ip": "103.4.221.252",
+      "username": "sexhabibi"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:2",
+      "title": "tt35335046:1:2",
+      "timestamp": "2026-01-14T12:10:20.227Z",
+      "ip": "103.4.221.252",
+      "username": "sexhabibi"
+    },
+    {
+      "type": "series",
+      "id": "tt1192169:2:13",
+      "title": "tt1192169:2:13",
+      "timestamp": "2026-01-14T12:11:50.447Z",
+      "ip": "2001:ac8:2:1::11",
+      "username": "jinwoooooi"
+    },
+    {
+      "type": "movie",
+      "id": "tt8946378",
+      "title": "tt8946378",
+      "timestamp": "2026-01-14T12:12:43.535Z",
+      "ip": "2401:4900:8509:2c10::39c2:b5e9",
+      "username": "baljeet_002"
     }
   ],
   "activeNow": {
@@ -57095,10 +57185,10 @@
     },
     "103.24.85.161": {
       "type": "movie",
-      "id": "tt37897558",
-      "title": "tt37897558",
+      "id": "tt36017918",
+      "title": "tt36017918",
       "username": "william097",
-      "lastActive": 1768382909251
+      "lastActive": 1768392457031
     },
     "49.37.112.210": {
       "type": "series",
@@ -57633,11 +57723,11 @@
       "lastActive": 1768389403981
     },
     "2001:ac8:2:1::11": {
-      "type": "movie",
-      "id": "tt4154756",
-      "title": "Avengers: Infinity War",
+      "type": "series",
+      "id": "tt1192169:2:13",
+      "title": "tt1192169:2:13",
       "username": "jinwoooooi",
-      "lastActive": 1768390166052
+      "lastActive": 1768392710447
     },
     "157.49.181.243": {
       "type": "movie",
@@ -57655,17 +57745,38 @@
     },
     "2401:4900:8fdf:96e3:430c:2992:bc58:63cb": {
       "type": "movie",
-      "id": "tt0137523",
-      "title": "Fight Club",
+      "id": "tt14364480",
+      "title": "tt14364480",
       "username": "arjun2077",
-      "lastActive": 1768391566598
+      "lastActive": 1768392256844
     },
     "115.98.234.188": {
       "type": "series",
       "id": "tt24053860:1:3",
       "title": "tt24053860:1:3",
       "username": "insnaee99",
-      "lastActive": 1768392057074
+      "lastActive": 1768392130221
+    },
+    "2405:201:6818:e957:5c1d:dddf:e8b3:f2f4": {
+      "type": "movie",
+      "id": "tt27425164",
+      "title": "tt27425164",
+      "username": "anonymous",
+      "lastActive": 1768392299366
+    },
+    "103.4.221.252": {
+      "type": "series",
+      "id": "tt35335046:1:2",
+      "title": "tt35335046:1:2",
+      "username": "sexhabibi",
+      "lastActive": 1768392620227
+    },
+    "2401:4900:8509:2c10::39c2:b5e9": {
+      "type": "movie",
+      "id": "tt8946378",
+      "title": "tt8946378",
+      "username": "baljeet_002",
+      "lastActive": 1768392763535
     }
   }
 }
