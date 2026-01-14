@@ -1,5 +1,5 @@
 {
-  "totalViews": 6928,
+  "totalViews": 6935,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1724,7 +1724,8 @@
     "154.18.196.104",
     "38.137.58.166",
     "2406:7400:61:1dc5:f4fc:d3cf:aea5:df85",
-    "2401:4900:8fd0:4ab4:9f7:602b:4319:9f85"
+    "2401:4900:8fd0:4ab4:9f7:602b:4319:9f85",
+    "2409:40e4:1083:35b6:88b8:84c7:32b0:e256"
   ],
   "views": [
     {
@@ -57140,6 +57141,62 @@
       "timestamp": "2026-01-14T14:04:53.875Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt25406500",
+      "title": "tt25406500",
+      "timestamp": "2026-01-14T14:07:48.613Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt34702901:1:1",
+      "title": "tt34702901:1:1",
+      "timestamp": "2026-01-14T14:08:27.722Z",
+      "ip": "2a09:bac1:7aa0:10::3c5:1b",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt8647400",
+      "title": "tt8647400",
+      "timestamp": "2026-01-14T14:08:55.850Z",
+      "ip": "103.216.223.41",
+      "username": "golu_18vk"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:6",
+      "title": "Fallout",
+      "timestamp": "2026-01-14T14:11:40.863Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt32423736",
+      "title": "tt32423736",
+      "timestamp": "2026-01-14T14:12:46.014Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt11083552",
+      "title": "tt11083552",
+      "timestamp": "2026-01-14T14:12:48.313Z",
+      "ip": "2409:40e4:1083:35b6:88b8:84c7:32b0:e256",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-14T14:18:02.285Z",
+      "ip": "2409:40e4:1359:8ada:c484:a2ff:fe49:926e",
+      "username": "ig_sirmour"
     }
   ],
   "activeNow": {
@@ -57152,10 +57209,10 @@
     },
     "38.134.138.246": {
       "type": "movie",
-      "id": "tt21103218",
-      "title": "The Lost Bus",
+      "id": "tt32423736",
+      "title": "tt32423736",
       "username": "thala_75",
-      "lastActive": 1768397450596
+      "lastActive": 1768399966014
     },
     "182.69.178.28": {
       "type": "series",
@@ -57680,7 +57737,7 @@
       "id": "tt12637874:2:6",
       "title": "Fallout",
       "username": "chetan_b2",
-      "lastActive": 1768399493875
+      "lastActive": 1768399900863
     },
     "163.223.52.102": {
       "type": "movie",
@@ -57711,11 +57768,11 @@
       "lastActive": 1768362411308
     },
     "2a09:bac1:7aa0:10::3c5:1b": {
-      "type": "movie",
-      "id": "tt5950044",
-      "title": "Superman",
+      "type": "series",
+      "id": "tt34702901:1:1",
+      "title": "tt34702901:1:1",
       "username": "anonymous",
-      "lastActive": 1768362485965
+      "lastActive": 1768399707722
     },
     "163.53.179.125": {
       "type": "series",
@@ -58034,10 +58091,10 @@
     },
     "2409:40e4:1359:8ada:c484:a2ff:fe49:926e": {
       "type": "movie",
-      "id": "tt0050083",
-      "title": "12 Angry Men",
+      "id": "tt28802657",
+      "title": "tt28802657",
       "username": "ig_sirmour",
-      "lastActive": 1768397829241
+      "lastActive": 1768400282285
     },
     "2401:4900:8832:3004:9d5b:9111:f804:dc30": {
       "type": "movie",
@@ -58360,6 +58417,20 @@
       "title": "tt37893389",
       "username": "anonymous",
       "lastActive": 1768399346251
+    },
+    "103.216.223.41": {
+      "type": "movie",
+      "id": "tt8647400",
+      "title": "tt8647400",
+      "username": "golu_18vk",
+      "lastActive": 1768399735850
+    },
+    "2409:40e4:1083:35b6:88b8:84c7:32b0:e256": {
+      "type": "movie",
+      "id": "tt11083552",
+      "title": "tt11083552",
+      "username": "askchm",
+      "lastActive": 1768399968313
     }
   }
 }
