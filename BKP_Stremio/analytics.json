@@ -1,5 +1,5 @@
 {
-  "totalViews": 6423,
+  "totalViews": 6428,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1633,7 +1633,8 @@
     "2409:40e2:10f8:b24f:68c3:cf7a:5ad3:ff87",
     "152.58.182.84",
     "152.56.175.59",
-    "86.104.23.109"
+    "86.104.23.109",
+    "2409:40f0:1030:be69:6c:27ff:fea2:e1f3"
   ],
   "views": [
     {
@@ -53009,6 +53010,46 @@
       "timestamp": "2026-01-14T01:17:58.937Z",
       "ip": "86.104.23.109",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-14T01:29:56.215Z",
+      "ip": "2409:40e4:1089:1fab:88b8:84c7:32b0:e256",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-14T01:34:40.152Z",
+      "ip": "2409:40e2:10f8:b24f:68c3:cf7a:5ad3:ff87",
+      "username": "adr7000"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-14T01:38:42.724Z",
+      "ip": "2409:40f0:1030:be69:6c:27ff:fea2:e1f3",
+      "username": "rick"
+    },
+    {
+      "type": "series",
+      "id": "tt6090814:1:1",
+      "title": "tt6090814:1:1",
+      "timestamp": "2026-01-14T01:39:18.150Z",
+      "ip": "2409:40f0:1030:be69:6c:27ff:fea2:e1f3",
+      "username": "rick"
+    },
+    {
+      "type": "series",
+      "id": "tt0141842:1:1",
+      "title": "The Sopranos",
+      "timestamp": "2026-01-14T01:39:48.318Z",
+      "ip": "2409:40f0:1030:be69:6c:27ff:fea2:e1f3",
+      "username": "rick"
     }
   ],
   "activeNow": {
@@ -53461,11 +53502,11 @@
       "lastActive": 1768352605055
     },
     "2409:40e2:10f8:b24f:68c3:cf7a:5ad3:ff87": {
-      "type": "series",
-      "id": "tt12343534:3:1",
-      "title": "JUJUTSU KAISEN",
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
       "username": "adr7000",
-      "lastActive": 1768353407733
+      "lastActive": 1768354480152
     },
     "152.58.182.84": {
       "type": "series",
@@ -53494,6 +53535,20 @@
       "title": "tt31938062:1:15",
       "username": "anonymous",
       "lastActive": 1768353478937
+    },
+    "2409:40e4:1089:1fab:88b8:84c7:32b0:e256": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "askchm",
+      "lastActive": 1768354196215
+    },
+    "2409:40f0:1030:be69:6c:27ff:fea2:e1f3": {
+      "type": "series",
+      "id": "tt0141842:1:1",
+      "title": "The Sopranos",
+      "username": "rick",
+      "lastActive": 1768354788318
     }
   }
 }
