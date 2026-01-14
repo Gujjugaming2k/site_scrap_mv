@@ -1,5 +1,5 @@
 {
-  "totalViews": 7073,
+  "totalViews": 7083,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1750,7 +1750,10 @@
     "223.227.51.227",
     "2401:4900:b58e:59e0:eda7:e0ef:9de1:eb9a",
     "2402:3a80:4404:c694:94c7:d49a:a4a4:17dc",
-    "61.3.100.218"
+    "61.3.100.218",
+    "123.201.155.139",
+    "2409:40e1:11a7:e692:592b:b75a:6c7d:ffa4",
+    "223.178.87.87"
   ],
   "views": [
     {
@@ -58326,6 +58329,86 @@
       "timestamp": "2026-01-14T17:25:39.769Z",
       "ip": "38.134.138.246",
       "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-01-14T17:29:10.580Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt28629017",
+      "title": "tt28629017",
+      "timestamp": "2026-01-14T17:30:05.600Z",
+      "ip": "61.3.100.218",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-01-14T17:31:53.036Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt28629017",
+      "title": "tt28629017",
+      "timestamp": "2026-01-14T17:33:00.272Z",
+      "ip": "61.3.100.218",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt36538449",
+      "title": "tt36538449",
+      "timestamp": "2026-01-14T17:33:07.771Z",
+      "ip": "123.201.155.139",
+      "username": "surti_lala"
+    },
+    {
+      "type": "movie",
+      "id": "tt0012349",
+      "title": "tt0012349",
+      "timestamp": "2026-01-14T17:33:17.876Z",
+      "ip": "2409:40e1:11a7:e692:592b:b75a:6c7d:ffa4",
+      "username": "jinwoooooi"
+    },
+    {
+      "type": "movie",
+      "id": "tt30387012",
+      "title": "tt30387012",
+      "timestamp": "2026-01-14T17:39:21.581Z",
+      "ip": "223.178.87.87",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0306414:1:1",
+      "title": "tt0306414:1:1",
+      "timestamp": "2026-01-14T17:40:06.563Z",
+      "ip": "103.4.221.252",
+      "username": "sexhabibi"
+    },
+    {
+      "type": "movie",
+      "id": "tt28629017",
+      "title": "tt28629017",
+      "timestamp": "2026-01-14T17:41:04.063Z",
+      "ip": "61.3.100.218",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt8962124:5:3",
+      "title": "tt8962124:5:3",
+      "timestamp": "2026-01-14T17:42:43.182Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -58337,11 +58420,11 @@
       "lastActive": 1768348869451
     },
     "38.134.138.246": {
-      "type": "series",
-      "id": "tt9335498:1:1",
-      "title": "tt9335498:1:1",
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
       "username": "thala_75",
-      "lastActive": 1768411539769
+      "lastActive": 1768411913036
     },
     "182.69.178.28": {
       "type": "series",
@@ -58863,10 +58946,10 @@
     },
     "203.192.255.46": {
       "type": "series",
-      "id": "tt8962124:5:2",
-      "title": "tt8962124:5:2",
+      "id": "tt8962124:5:3",
+      "title": "tt8962124:5:3",
       "username": "chetan_b2",
-      "lastActive": 1768410645023
+      "lastActive": 1768412563182
     },
     "163.223.52.102": {
       "type": "movie",
@@ -59408,11 +59491,11 @@
       "lastActive": 1768392299366
     },
     "103.4.221.252": {
-      "type": "movie",
-      "id": "tt1275863",
-      "title": "tt1275863",
+      "type": "series",
+      "id": "tt0306414:1:1",
+      "title": "tt0306414:1:1",
       "username": "sexhabibi",
-      "lastActive": 1768410853011
+      "lastActive": 1768412406563
     },
     "2401:4900:8509:2c10::39c2:b5e9": {
       "type": "movie",
@@ -59797,7 +59880,28 @@
       "id": "tt28629017",
       "title": "tt28629017",
       "username": "anonymous",
-      "lastActive": 1768411536975
+      "lastActive": 1768412464063
+    },
+    "123.201.155.139": {
+      "type": "movie",
+      "id": "tt36538449",
+      "title": "tt36538449",
+      "username": "surti_lala",
+      "lastActive": 1768411987771
+    },
+    "2409:40e1:11a7:e692:592b:b75a:6c7d:ffa4": {
+      "type": "movie",
+      "id": "tt0012349",
+      "title": "tt0012349",
+      "username": "jinwoooooi",
+      "lastActive": 1768411997876
+    },
+    "223.178.87.87": {
+      "type": "movie",
+      "id": "tt30387012",
+      "title": "tt30387012",
+      "username": "anonymous",
+      "lastActive": 1768412361581
     }
   }
 }
