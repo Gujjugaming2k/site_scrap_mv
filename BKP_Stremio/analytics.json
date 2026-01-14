@@ -1,5 +1,5 @@
 {
-  "totalViews": 7089,
+  "totalViews": 7093,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1754,7 +1754,10 @@
     "123.201.155.139",
     "2409:40e1:11a7:e692:592b:b75a:6c7d:ffa4",
     "223.178.87.87",
-    "152.56.157.10"
+    "152.56.157.10",
+    "14.139.226.3",
+    "103.123.235.122",
+    "157.48.90.105"
   ],
   "views": [
     {
@@ -58458,6 +58461,38 @@
       "timestamp": "2026-01-14T17:56:22.096Z",
       "ip": "71.179.184.52",
       "username": "anupambabu_97"
+    },
+    {
+      "type": "movie",
+      "id": "tt29567915",
+      "title": "tt29567915",
+      "timestamp": "2026-01-14T18:03:21.879Z",
+      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:22",
+      "title": "Death Note",
+      "timestamp": "2026-01-14T18:05:46.089Z",
+      "ip": "14.139.226.3",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt7335184:1:1",
+      "title": "tt7335184:1:1",
+      "timestamp": "2026-01-14T18:13:00.322Z",
+      "ip": "103.123.235.122",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt8647400",
+      "title": "tt8647400",
+      "timestamp": "2026-01-14T18:13:19.457Z",
+      "ip": "157.48.90.105",
+      "username": "golu_18vk"
     }
   ],
   "activeNow": {
@@ -59958,6 +59993,34 @@
       "title": "tt28013708:1:2",
       "username": "anonymous",
       "lastActive": 1768413323827
+    },
+    "2405:201:300c:213:1ef4:3fff:fe0f:1b78": {
+      "type": "movie",
+      "id": "tt29567915",
+      "title": "tt29567915",
+      "username": "gendaswammy",
+      "lastActive": 1768413801879
+    },
+    "14.139.226.3": {
+      "type": "series",
+      "id": "tt0877057:1:22",
+      "title": "Death Note",
+      "username": "anonymous",
+      "lastActive": 1768413946089
+    },
+    "103.123.235.122": {
+      "type": "series",
+      "id": "tt7335184:1:1",
+      "title": "tt7335184:1:1",
+      "username": "anonymous",
+      "lastActive": 1768414380322
+    },
+    "157.48.90.105": {
+      "type": "movie",
+      "id": "tt8647400",
+      "title": "tt8647400",
+      "username": "golu_18vk",
+      "lastActive": 1768414399457
     }
   }
 }
