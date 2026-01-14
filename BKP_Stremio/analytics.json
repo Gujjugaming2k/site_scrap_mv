@@ -1,5 +1,5 @@
 {
-  "totalViews": 6581,
+  "totalViews": 6583,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -54295,6 +54295,22 @@
       "timestamp": "2026-01-14T06:05:41.604Z",
       "ip": "103.214.60.5",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:8",
+      "title": "tt17069148:1:8",
+      "timestamp": "2026-01-14T06:07:38.249Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:9",
+      "title": "tt17069148:1:9",
+      "timestamp": "2026-01-14T06:08:19.568Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -54405,10 +54421,10 @@
     },
     "103.214.60.5": {
       "type": "series",
-      "id": "tt0328733:1:4",
-      "title": "tt0328733:1:4",
+      "id": "tt17069148:1:9",
+      "title": "tt17069148:1:9",
       "username": "gaendaswami",
-      "lastActive": 1768370741604
+      "lastActive": 1768370899568
     },
     "182.77.73.122": {
       "type": "series",
