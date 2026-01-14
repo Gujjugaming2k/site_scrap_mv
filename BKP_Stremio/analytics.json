@@ -1,5 +1,5 @@
 {
-  "totalViews": 6428,
+  "totalViews": 6439,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1634,7 +1634,9 @@
     "152.58.182.84",
     "152.56.175.59",
     "86.104.23.109",
-    "2409:40f0:1030:be69:6c:27ff:fea2:e1f3"
+    "2409:40f0:1030:be69:6c:27ff:fea2:e1f3",
+    "49.37.112.210",
+    "2409:40e2:20aa:4028:f724:b579:ee8c:f223"
   ],
   "views": [
     {
@@ -53050,6 +53052,94 @@
       "timestamp": "2026-01-14T01:39:48.318Z",
       "ip": "2409:40f0:1030:be69:6c:27ff:fea2:e1f3",
       "username": "rick"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
+      "timestamp": "2026-01-14T01:58:47.920Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
+      "timestamp": "2026-01-14T02:00:01.780Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt29471573",
+      "title": "tt29471573",
+      "timestamp": "2026-01-14T02:03:27.048Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt36815135",
+      "title": "tt36815135",
+      "timestamp": "2026-01-14T02:05:16.472Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt37273405",
+      "title": "tt37273405",
+      "timestamp": "2026-01-14T02:05:59.985Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-14T02:06:17.253Z",
+      "ip": "49.37.112.210",
+      "username": "muktikanta_007"
+    },
+    {
+      "type": "movie",
+      "id": "tt0063350",
+      "title": "tt0063350",
+      "timestamp": "2026-01-14T02:06:29.800Z",
+      "ip": "49.37.112.210",
+      "username": "muktikanta_007"
+    },
+    {
+      "type": "movie",
+      "id": "tt0108052",
+      "title": "Schindler's List",
+      "timestamp": "2026-01-14T02:06:56.771Z",
+      "ip": "49.37.112.210",
+      "username": "muktikanta_007"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:2:1",
+      "title": "tt31938062:2:1",
+      "timestamp": "2026-01-14T02:08:36.974Z",
+      "ip": "86.104.23.109",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt37495011",
+      "title": "tt37495011",
+      "timestamp": "2026-01-14T02:09:50.586Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt3606888",
+      "title": "tt3606888",
+      "timestamp": "2026-01-14T02:12:56.955Z",
+      "ip": "2409:40e2:20aa:4028:f724:b579:ee8c:f223",
+      "username": "johnwick"
     }
   ],
   "activeNow": {
@@ -53531,10 +53621,10 @@
     },
     "86.104.23.109": {
       "type": "series",
-      "id": "tt31938062:1:15",
-      "title": "tt31938062:1:15",
+      "id": "tt31938062:2:1",
+      "title": "tt31938062:2:1",
       "username": "anonymous",
-      "lastActive": 1768353478937
+      "lastActive": 1768356516974
     },
     "2409:40e4:1089:1fab:88b8:84c7:32b0:e256": {
       "type": "movie",
@@ -53549,6 +53639,27 @@
       "title": "The Sopranos",
       "username": "rick",
       "lastActive": 1768354788318
+    },
+    "103.24.85.161": {
+      "type": "movie",
+      "id": "tt37495011",
+      "title": "tt37495011",
+      "username": "william097",
+      "lastActive": 1768356590586
+    },
+    "49.37.112.210": {
+      "type": "movie",
+      "id": "tt0108052",
+      "title": "Schindler's List",
+      "username": "muktikanta_007",
+      "lastActive": 1768356416771
+    },
+    "2409:40e2:20aa:4028:f724:b579:ee8c:f223": {
+      "type": "movie",
+      "id": "tt3606888",
+      "title": "tt3606888",
+      "username": "johnwick",
+      "lastActive": 1768356776955
     }
   }
 }
