@@ -1,5 +1,5 @@
 {
-  "totalViews": 6658,
+  "totalViews": 6675,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1672,7 +1672,12 @@
     "152.56.134.226",
     "157.48.89.96",
     "152.59.171.156",
-    "2409:40e4:1349:4b63:acdb:a8ff:fe56:44c0"
+    "2409:40e4:1349:4b63:acdb:a8ff:fe56:44c0",
+    "2401:4900:b87f:68e7:addd:27a3:9a1e:b7c9",
+    "2a09:bac5:3c0f:1aaa::2a8:66",
+    "2401:4900:1c54:c0ce:2d37:18e0:47a3:d42d",
+    "2405:201:900f:a92b:1c06:ba2c:5fe1:be43",
+    "152.58.187.85"
   ],
   "views": [
     {
@@ -54928,6 +54933,142 @@
       "timestamp": "2026-01-14T08:17:34.079Z",
       "ip": "103.214.60.5",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-01-14T08:26:41.843Z",
+      "ip": "2401:4900:b87f:68e7:addd:27a3:9a1e:b7c9",
+      "username": "reaper54x"
+    },
+    {
+      "type": "movie",
+      "id": "tt37896655",
+      "title": "tt37896655",
+      "timestamp": "2026-01-14T08:26:59.189Z",
+      "ip": "2401:4900:b87f:68e7:addd:27a3:9a1e:b7c9",
+      "username": "reaper54x"
+    },
+    {
+      "type": "series",
+      "id": "tt14420552:1:1",
+      "title": "tt14420552:1:1",
+      "timestamp": "2026-01-14T08:29:51.912Z",
+      "ip": "2a09:bac5:3c0f:1aaa::2a8:66",
+      "username": "ig_sirmour"
+    },
+    {
+      "type": "series",
+      "id": "tt9544034:3:1",
+      "title": "tt9544034:3:1",
+      "timestamp": "2026-01-14T08:30:27.274Z",
+      "ip": "2a09:bac5:3c0f:1aaa::2a8:66",
+      "username": "ig_sirmour"
+    },
+    {
+      "type": "series",
+      "id": "tt2560140:1:1",
+      "title": "tt2560140:1:1",
+      "timestamp": "2026-01-14T08:30:58.147Z",
+      "ip": "2401:4900:1c54:c0ce:2d37:18e0:47a3:d42d",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt32536168:1:1",
+      "title": "tt32536168:1:1",
+      "timestamp": "2026-01-14T08:31:26.281Z",
+      "ip": "2405:201:900f:a92b:1c06:ba2c:5fe1:be43",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt2560140:1:2",
+      "title": "tt2560140:1:2",
+      "timestamp": "2026-01-14T08:31:44.804Z",
+      "ip": "2401:4900:1c54:c0ce:2d37:18e0:47a3:d42d",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "timestamp": "2026-01-14T08:31:59.169Z",
+      "ip": "2a09:bac5:3c0f:1aaa::2a8:66",
+      "username": "ig_sirmour"
+    },
+    {
+      "type": "series",
+      "id": "tt3322312:3:11",
+      "title": "tt3322312:3:11",
+      "timestamp": "2026-01-14T08:32:46.217Z",
+      "ip": "157.48.78.6",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2560140:1:2",
+      "title": "tt2560140:1:2",
+      "timestamp": "2026-01-14T08:34:39.850Z",
+      "ip": "2401:4900:1c54:c0ce:2d37:18e0:47a3:d42d",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt2560140:1:1",
+      "title": "tt2560140:1:1",
+      "timestamp": "2026-01-14T08:34:58.627Z",
+      "ip": "2401:4900:1c54:c0ce:2d37:18e0:47a3:d42d",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt2560140:1:2",
+      "title": "tt2560140:1:2",
+      "timestamp": "2026-01-14T08:35:37.391Z",
+      "ip": "2401:4900:1c54:c0ce:2d37:18e0:47a3:d42d",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt2560140:1:2",
+      "title": "tt2560140:1:2",
+      "timestamp": "2026-01-14T08:35:42.540Z",
+      "ip": "2401:4900:1c54:c0ce:2d37:18e0:47a3:d42d",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt2560140:1:3",
+      "title": "tt2560140:1:3",
+      "timestamp": "2026-01-14T08:36:09.778Z",
+      "ip": "2401:4900:1c54:c0ce:2d37:18e0:47a3:d42d",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt1396484",
+      "title": "It",
+      "timestamp": "2026-01-14T08:37:25.945Z",
+      "ip": "152.58.187.85",
+      "username": "ig_sirmour"
+    },
+    {
+      "type": "series",
+      "id": "tt2560140:1:4",
+      "title": "tt2560140:1:4",
+      "timestamp": "2026-01-14T08:38:05.207Z",
+      "ip": "2401:4900:1c54:c0ce:2d37:18e0:47a3:d42d",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt9335498:1:1",
+      "title": "tt9335498:1:1",
+      "timestamp": "2026-01-14T08:38:19.325Z",
+      "ip": "2401:4900:1c54:c0ce:2d37:18e0:47a3:d42d",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -55661,10 +55802,10 @@
     },
     "157.48.78.6": {
       "type": "series",
-      "id": "tt3322312:3:10",
-      "title": "tt3322312:3:10",
+      "id": "tt3322312:3:11",
+      "title": "tt3322312:3:11",
       "username": "anonymous",
-      "lastActive": 1768376894402
+      "lastActive": 1768379566217
     },
     "85.154.7.221": {
       "type": "movie",
@@ -55749,6 +55890,41 @@
       "title": "TRON: Ares",
       "username": "ig_sirmour",
       "lastActive": 1768378517062
+    },
+    "2401:4900:b87f:68e7:addd:27a3:9a1e:b7c9": {
+      "type": "movie",
+      "id": "tt37896655",
+      "title": "tt37896655",
+      "username": "reaper54x",
+      "lastActive": 1768379219189
+    },
+    "2a09:bac5:3c0f:1aaa::2a8:66": {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "username": "ig_sirmour",
+      "lastActive": 1768379519169
+    },
+    "2401:4900:1c54:c0ce:2d37:18e0:47a3:d42d": {
+      "type": "series",
+      "id": "tt9335498:1:1",
+      "title": "tt9335498:1:1",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1768379899325
+    },
+    "2405:201:900f:a92b:1c06:ba2c:5fe1:be43": {
+      "type": "series",
+      "id": "tt32536168:1:1",
+      "title": "tt32536168:1:1",
+      "username": "theonlyfreak",
+      "lastActive": 1768379486281
+    },
+    "152.58.187.85": {
+      "type": "movie",
+      "id": "tt1396484",
+      "title": "It",
+      "username": "ig_sirmour",
+      "lastActive": 1768379845945
     }
   }
 }
