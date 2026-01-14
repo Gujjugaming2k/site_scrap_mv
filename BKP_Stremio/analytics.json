@@ -1,5 +1,5 @@
 {
-  "totalViews": 6505,
+  "totalViews": 6514,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1639,7 +1639,11 @@
     "2409:40e2:20aa:4028:f724:b579:ee8c:f223",
     "2401:4900:88b8:5b46:6edd:f8f2:ff8a:8c57",
     "163.223.52.102",
-    "152.56.134.52"
+    "152.56.134.52",
+    "135.0.192.28",
+    "2a09:bac1:7aa0:10::3c5:1b",
+    "163.53.179.125",
+    "152.58.179.176"
   ],
   "views": [
     {
@@ -53671,6 +53675,78 @@
       "timestamp": "2026-01-14T03:42:36.149Z",
       "ip": "163.223.52.102",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0133093",
+      "title": "The Matrix",
+      "timestamp": "2026-01-14T03:46:49.504Z",
+      "ip": "163.223.52.102",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt33040785:2:13",
+      "title": "tt33040785:2:13",
+      "timestamp": "2026-01-14T03:46:51.308Z",
+      "ip": "135.0.192.28",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt5950044",
+      "title": "Superman",
+      "timestamp": "2026-01-14T03:48:05.965Z",
+      "ip": "2a09:bac1:7aa0:10::3c5:1b",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:1:6",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-01-14T03:56:26.584Z",
+      "ip": "163.53.179.125",
+      "username": "jamesbond_pistolman"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:1:7",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-01-14T03:56:57.778Z",
+      "ip": "163.53.179.125",
+      "username": "jamesbond_pistolman"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:1:7",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-01-14T03:57:25.089Z",
+      "ip": "163.53.179.125",
+      "username": "jamesbond_pistolman"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:1:7",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-01-14T03:57:42.092Z",
+      "ip": "163.53.179.125",
+      "username": "jamesbond_pistolman"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:1:8",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-01-14T03:57:44.143Z",
+      "ip": "163.53.179.125",
+      "username": "jamesbond_pistolman"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:1:1",
+      "title": "tt17220216:1:1",
+      "timestamp": "2026-01-14T03:59:09.217Z",
+      "ip": "152.58.179.176",
+      "username": "nobody_ismy_name"
     }
   ],
   "activeNow": {
@@ -54218,7 +54294,7 @@
       "id": "tt0133093",
       "title": "The Matrix",
       "username": "anonymous",
-      "lastActive": 1768362156149
+      "lastActive": 1768362409504
     },
     "152.56.134.52": {
       "type": "series",
@@ -54233,6 +54309,34 @@
       "title": "Fallout",
       "username": "anonymous",
       "lastActive": 1768360422550
+    },
+    "135.0.192.28": {
+      "type": "series",
+      "id": "tt33040785:2:13",
+      "title": "tt33040785:2:13",
+      "username": "anonymous",
+      "lastActive": 1768362411308
+    },
+    "2a09:bac1:7aa0:10::3c5:1b": {
+      "type": "movie",
+      "id": "tt5950044",
+      "title": "Superman",
+      "username": "anonymous",
+      "lastActive": 1768362485965
+    },
+    "163.53.179.125": {
+      "type": "series",
+      "id": "tt13706018:1:8",
+      "title": "SPY x FAMILY",
+      "username": "jamesbond_pistolman",
+      "lastActive": 1768363064143
+    },
+    "152.58.179.176": {
+      "type": "series",
+      "id": "tt17220216:1:1",
+      "title": "tt17220216:1:1",
+      "username": "nobody_ismy_name",
+      "lastActive": 1768363149217
     }
   }
 }
