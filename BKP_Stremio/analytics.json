@@ -1,5 +1,5 @@
 {
-  "totalViews": 6409,
+  "totalViews": 6416,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1628,7 +1628,10 @@
     "93.150.244.159",
     "152.58.182.184",
     "176.97.206.43",
-    "147.93.215.44"
+    "147.93.215.44",
+    "2a02:9b0:106:827:4d3e:cc1f:ac3a:63c",
+    "2409:40e2:10f8:b24f:68c3:cf7a:5ad3:ff87",
+    "152.58.182.84"
   ],
   "views": [
     {
@@ -52892,6 +52895,62 @@
       "timestamp": "2026-01-14T00:44:19.253Z",
       "ip": "147.93.215.44",
       "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt0816692",
+      "title": "Interstellar",
+      "timestamp": "2026-01-14T01:03:07.989Z",
+      "ip": "147.93.215.44",
+      "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt0816692",
+      "title": "Interstellar",
+      "timestamp": "2026-01-14T01:03:20.404Z",
+      "ip": "2a02:9b0:106:827:4d3e:cc1f:ac3a:63c",
+      "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt0816692",
+      "title": "Interstellar",
+      "timestamp": "2026-01-14T01:03:25.055Z",
+      "ip": "2a02:9b0:106:827:4d3e:cc1f:ac3a:63c",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tt26009468:1:1",
+      "title": "tt26009468:1:1",
+      "timestamp": "2026-01-14T01:05:06.508Z",
+      "ip": "2409:40e2:10f8:b24f:68c3:cf7a:5ad3:ff87",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt26009468:1:2",
+      "title": "tt26009468:1:2",
+      "timestamp": "2026-01-14T01:05:27.363Z",
+      "ip": "2409:40e2:10f8:b24f:68c3:cf7a:5ad3:ff87",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:4:7",
+      "title": "tt0903747:4:7",
+      "timestamp": "2026-01-14T01:10:57.062Z",
+      "ip": "152.58.182.84",
+      "username": "tejmani"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:4:8",
+      "title": "tt0903747:4:8",
+      "timestamp": "2026-01-14T01:11:09.216Z",
+      "ip": "152.58.182.84",
+      "username": "tejmani"
     }
   ],
   "activeNow": {
@@ -53331,10 +53390,31 @@
     },
     "147.93.215.44": {
       "type": "movie",
-      "id": "tt4712810",
-      "title": "tt4712810",
+      "id": "tt0816692",
+      "title": "Interstellar",
       "username": "hoosa500",
-      "lastActive": 1768351459253
+      "lastActive": 1768352587989
+    },
+    "2a02:9b0:106:827:4d3e:cc1f:ac3a:63c": {
+      "type": "movie",
+      "id": "tt0816692",
+      "title": "Interstellar",
+      "username": "hoosa500",
+      "lastActive": 1768352605055
+    },
+    "2409:40e2:10f8:b24f:68c3:cf7a:5ad3:ff87": {
+      "type": "series",
+      "id": "tt26009468:1:2",
+      "title": "tt26009468:1:2",
+      "username": "anonymous",
+      "lastActive": 1768352727363
+    },
+    "152.58.182.84": {
+      "type": "series",
+      "id": "tt0903747:4:8",
+      "title": "tt0903747:4:8",
+      "username": "tejmani",
+      "lastActive": 1768353069216
     }
   }
 }
