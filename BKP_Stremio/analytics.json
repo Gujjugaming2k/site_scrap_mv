@@ -1,5 +1,5 @@
 {
-  "totalViews": 6443,
+  "totalViews": 6449,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1636,7 +1636,8 @@
     "86.104.23.109",
     "2409:40f0:1030:be69:6c:27ff:fea2:e1f3",
     "49.37.112.210",
-    "2409:40e2:20aa:4028:f724:b579:ee8c:f223"
+    "2409:40e2:20aa:4028:f724:b579:ee8c:f223",
+    "2401:4900:88b8:5b46:6edd:f8f2:ff8a:8c57"
   ],
   "views": [
     {
@@ -53172,6 +53173,54 @@
       "timestamp": "2026-01-14T02:28:38.928Z",
       "ip": "103.24.85.161",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:1",
+      "title": "tt1399664:2:1",
+      "timestamp": "2026-01-14T02:29:17.341Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:1",
+      "title": "tt1399664:2:1",
+      "timestamp": "2026-01-14T02:29:39.076Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt1670345",
+      "title": "Now You See Me",
+      "timestamp": "2026-01-14T02:30:22.217Z",
+      "ip": "49.37.112.210",
+      "username": "muktikanta_007"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-14T02:40:50.345Z",
+      "ip": "2401:4900:88b8:5b46:6edd:f8f2:ff8a:8c57",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-14T02:40:53.176Z",
+      "ip": "80.211.133.129",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt11712058:1:8",
+      "title": "Mayor of Kingstown",
+      "timestamp": "2026-01-14T02:41:01.763Z",
+      "ip": "2600:1702:6820:a800:20b8:7856:d4fb:93be",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -53565,7 +53614,7 @@
       "id": "tt11712058:1:8",
       "title": "Mayor of Kingstown",
       "username": "anonymous",
-      "lastActive": 1768357185308
+      "lastActive": 1768358461763
     },
     "2a01:e0a:e2d:1e0:d37e:7c82:21e6:86e1": {
       "type": "movie",
@@ -53674,17 +53723,17 @@
     },
     "103.24.85.161": {
       "type": "series",
-      "id": "tt1399664:1:1",
-      "title": "tt1399664:1:1",
+      "id": "tt1399664:2:1",
+      "title": "tt1399664:2:1",
       "username": "william097",
-      "lastActive": 1768357718928
+      "lastActive": 1768357779076
     },
     "49.37.112.210": {
       "type": "movie",
-      "id": "tt0108052",
-      "title": "Schindler's List",
+      "id": "tt1670345",
+      "title": "Now You See Me",
       "username": "muktikanta_007",
-      "lastActive": 1768356416771
+      "lastActive": 1768357822217
     },
     "2409:40e2:20aa:4028:f724:b579:ee8c:f223": {
       "type": "movie",
@@ -53692,6 +53741,20 @@
       "title": "tt3606888",
       "username": "johnwick",
       "lastActive": 1768356776955
+    },
+    "2401:4900:88b8:5b46:6edd:f8f2:ff8a:8c57": {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "username": "anonymous",
+      "lastActive": 1768358450345
+    },
+    "80.211.133.129": {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "username": "anonymous",
+      "lastActive": 1768358453176
     }
   }
 }
