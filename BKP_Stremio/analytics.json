@@ -1,5 +1,5 @@
 {
-  "totalViews": 6878,
+  "totalViews": 6887,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1708,7 +1708,10 @@
     "115.98.234.188",
     "2405:201:6818:e957:5c1d:dddf:e8b3:f2f4",
     "2401:4900:8509:2c10::39c2:b5e9",
-    "2409:40c0:2c:b7f8:243e:1ff:fe68:fd77"
+    "2409:40c0:2c:b7f8:243e:1ff:fe68:fd77",
+    "2401:4900:1c54:c0ce:b854:f186:c864:6e8a",
+    "2401:4900:88b9:a420:58b4:bcc0:e907:cbd7",
+    "2409:40d0:103b:55c6:1462:daff:fe2a:10ce"
   ],
   "views": [
     {
@@ -56724,6 +56727,78 @@
       "timestamp": "2026-01-14T12:34:45.549Z",
       "ip": "2001:ac8:2:1::11",
       "username": "jinwoooooi"
+    },
+    {
+      "type": "series",
+      "id": "tt1192169:3:1",
+      "title": "tt1192169:3:1",
+      "timestamp": "2026-01-14T12:35:05.873Z",
+      "ip": "2001:ac8:2:1::11",
+      "username": "jinwoooooi"
+    },
+    {
+      "type": "movie",
+      "id": "tt38525492",
+      "title": "tt38525492",
+      "timestamp": "2026-01-14T12:41:59.693Z",
+      "ip": "2401:4900:1c54:c0ce:b854:f186:c864:6e8a",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-14T12:45:55.705Z",
+      "ip": "2401:4900:88b9:a420:58b4:bcc0:e907:cbd7",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-14T12:45:58.823Z",
+      "ip": "80.211.133.129",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35674970:1:2",
+      "title": "tt35674970:1:2",
+      "timestamp": "2026-01-14T12:47:16.917Z",
+      "ip": "2409:40d0:103b:55c6:1462:daff:fe2a:10ce",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35674970:1:1",
+      "title": "tt35674970:1:1",
+      "timestamp": "2026-01-14T12:47:22.347Z",
+      "ip": "2409:40d0:103b:55c6:1462:daff:fe2a:10ce",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35674970:1:2",
+      "title": "tt35674970:1:2",
+      "timestamp": "2026-01-14T12:47:32.742Z",
+      "ip": "2409:40d0:103b:55c6:1462:daff:fe2a:10ce",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
+      "timestamp": "2026-01-14T12:50:14.188Z",
+      "ip": "2401:4900:88b9:a420:58b4:bcc0:e907:cbd7",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
+      "timestamp": "2026-01-14T12:50:16.034Z",
+      "ip": "80.211.133.129",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -57254,10 +57329,10 @@
     },
     "80.211.133.129": {
       "type": "movie",
-      "id": "tt15387182",
-      "title": "tt15387182",
+      "id": "tt36642456",
+      "title": "tt36642456",
       "username": "anonymous",
-      "lastActive": 1768359010195
+      "lastActive": 1768395016034
     },
     "203.192.255.46": {
       "type": "series",
@@ -57765,10 +57840,10 @@
     },
     "2001:ac8:2:1::11": {
       "type": "series",
-      "id": "tt1192169:2:13",
-      "title": "tt1192169:2:13",
+      "id": "tt1192169:3:1",
+      "title": "tt1192169:3:1",
       "username": "jinwoooooi",
-      "lastActive": 1768394085549
+      "lastActive": 1768394105873
     },
     "157.49.181.243": {
       "type": "movie",
@@ -57832,6 +57907,27 @@
       "title": "tt28299608:1:1",
       "username": "ryuzaklo26",
       "lastActive": 1768393761108
+    },
+    "2401:4900:1c54:c0ce:b854:f186:c864:6e8a": {
+      "type": "movie",
+      "id": "tt38525492",
+      "title": "tt38525492",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1768394519693
+    },
+    "2401:4900:88b9:a420:58b4:bcc0:e907:cbd7": {
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
+      "username": "anonymous",
+      "lastActive": 1768395014188
+    },
+    "2409:40d0:103b:55c6:1462:daff:fe2a:10ce": {
+      "type": "series",
+      "id": "tt35674970:1:2",
+      "title": "tt35674970:1:2",
+      "username": "anonymous",
+      "lastActive": 1768394852742
     }
   }
 }
