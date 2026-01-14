@@ -1,5 +1,5 @@
 {
-  "totalViews": 6575,
+  "totalViews": 6576,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -54245,6 +54245,14 @@
       "timestamp": "2026-01-14T05:24:48.991Z",
       "ip": "2401:4900:8fd0:4ab4:f6d0:5548:ee30:6d7f",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:3",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-14T05:48:57.167Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -54354,11 +54362,11 @@
       "lastActive": 1768331739592
     },
     "103.214.60.5": {
-      "type": "movie",
-      "id": "tt7483340",
-      "title": "tt7483340",
+      "type": "series",
+      "id": "tt12343534:3:3",
+      "title": "JUJUTSU KAISEN",
       "username": "gaendaswami",
-      "lastActive": 1768332048222
+      "lastActive": 1768369737167
     },
     "182.77.73.122": {
       "type": "series",
