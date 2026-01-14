@@ -1,5 +1,5 @@
 {
-  "totalViews": 6449,
+  "totalViews": 6466,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -53221,6 +53221,142 @@
       "timestamp": "2026-01-14T02:41:01.763Z",
       "ip": "2600:1702:6820:a800:20b8:7856:d4fb:93be",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-14T02:45:44.580Z",
+      "ip": "2401:4900:88b8:5b46:6edd:f8f2:ff8a:8c57",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-01-14T02:50:08.154Z",
+      "ip": "2401:4900:88b8:5b46:6edd:f8f2:ff8a:8c57",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-01-14T02:50:10.195Z",
+      "ip": "80.211.133.129",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt2361509",
+      "title": "The Intern",
+      "timestamp": "2026-01-14T02:51:01.876Z",
+      "ip": "49.37.112.210",
+      "username": "muktikanta_007"
+    },
+    {
+      "type": "movie",
+      "id": "tt2361509",
+      "title": "The Intern",
+      "timestamp": "2026-01-14T02:51:14.642Z",
+      "ip": "49.37.112.210",
+      "username": "muktikanta_007"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-01-14T02:51:17.664Z",
+      "ip": "2401:4900:88b8:5b46:6edd:f8f2:ff8a:8c57",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt3566834",
+      "title": "A Minecraft Movie",
+      "timestamp": "2026-01-14T02:55:37.310Z",
+      "ip": "49.37.112.210",
+      "username": "muktikanta_007"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
+      "timestamp": "2026-01-14T02:56:19.222Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:6",
+      "title": "tt33035373:1:6",
+      "timestamp": "2026-01-14T02:56:25.243Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:5",
+      "title": "tt33035373:1:5",
+      "timestamp": "2026-01-14T02:56:29.021Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:1",
+      "title": "tt1399664:1:1",
+      "timestamp": "2026-01-14T02:56:43.750Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:2",
+      "title": "tt1399664:1:2",
+      "timestamp": "2026-01-14T02:57:03.228Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt17538632",
+      "title": "Hot Milk",
+      "timestamp": "2026-01-14T02:57:05.656Z",
+      "ip": "49.37.112.210",
+      "username": "muktikanta_007"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:6",
+      "title": "tt14186672:1:6",
+      "timestamp": "2026-01-14T02:57:20.254Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:1",
+      "title": "tt1399664:1:1",
+      "timestamp": "2026-01-14T02:58:20.828Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:2",
+      "title": "tt1399664:1:2",
+      "timestamp": "2026-01-14T02:58:36.872Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:1:1",
+      "title": "tt0412142:1:1",
+      "timestamp": "2026-01-14T02:58:59.322Z",
+      "ip": "49.37.112.210",
+      "username": "muktikanta_007"
     }
   ],
   "activeNow": {
@@ -53723,17 +53859,17 @@
     },
     "103.24.85.161": {
       "type": "series",
-      "id": "tt1399664:2:1",
-      "title": "tt1399664:2:1",
+      "id": "tt1399664:1:2",
+      "title": "tt1399664:1:2",
       "username": "william097",
-      "lastActive": 1768357779076
+      "lastActive": 1768359516872
     },
     "49.37.112.210": {
-      "type": "movie",
-      "id": "tt1670345",
-      "title": "Now You See Me",
+      "type": "series",
+      "id": "tt0412142:1:1",
+      "title": "tt0412142:1:1",
       "username": "muktikanta_007",
-      "lastActive": 1768357822217
+      "lastActive": 1768359539322
     },
     "2409:40e2:20aa:4028:f724:b579:ee8c:f223": {
       "type": "movie",
@@ -53744,17 +53880,24 @@
     },
     "2401:4900:88b8:5b46:6edd:f8f2:ff8a:8c57": {
       "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
-      "username": "anonymous",
-      "lastActive": 1768358450345
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "username": "b1jju",
+      "lastActive": 1768359077664
     },
     "80.211.133.129": {
       "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
+      "id": "tt15387182",
+      "title": "tt15387182",
       "username": "anonymous",
-      "lastActive": 1768358453176
+      "lastActive": 1768359010195
+    },
+    "203.192.255.46": {
+      "type": "series",
+      "id": "tt14186672:1:6",
+      "title": "tt14186672:1:6",
+      "username": "chetan_b2",
+      "lastActive": 1768359440254
     }
   }
 }
