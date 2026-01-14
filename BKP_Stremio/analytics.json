@@ -1,5 +1,5 @@
 {
-  "totalViews": 7163,
+  "totalViews": 7164,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1768,7 +1768,8 @@
     "129.126.99.250",
     "65.95.97.146",
     "102.216.66.70",
-    "135.125.202.78"
+    "135.125.202.78",
+    "130.179.243.184"
   ],
   "views": [
     {
@@ -59064,6 +59065,14 @@
       "timestamp": "2026-01-14T19:38:31.865Z",
       "ip": "103.4.221.252",
       "username": "sexhabibi"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-14T20:03:08.000Z",
+      "ip": "130.179.243.184",
+      "username": "taufiqulislamkhan"
     }
   ],
   "activeNow": {
@@ -60676,6 +60685,13 @@
       "title": "tt1155053",
       "username": "anonymous",
       "lastActive": 1768418665868
+    },
+    "130.179.243.184": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "taufiqulislamkhan",
+      "lastActive": 1768420988000
     }
   }
 }
