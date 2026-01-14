@@ -1,5 +1,5 @@
 {
-  "totalViews": 7025,
+  "totalViews": 7030,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1742,7 +1742,8 @@
     "2409:40c4:3107:ab1c:542f:94ff:fef1:b44f",
     "2401:4900:597a:145e:cc7e:2340:3a5f:5e9a",
     "27.57.111.57",
-    "2401:4900:77a8:edf:24ee:d7ff:fe3c:e7e0"
+    "2401:4900:77a8:edf:24ee:d7ff:fe3c:e7e0",
+    "2a09:bac5:3b58:254b::3b7:15,38.147.106.38"
   ],
   "views": [
     {
@@ -57934,6 +57935,46 @@
       "timestamp": "2026-01-14T16:23:24.244Z",
       "ip": "2401:4900:1c54:c0ce:b854:f186:c864:6e8a",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt38648925:1:2",
+      "title": "tt38648925:1:2",
+      "timestamp": "2026-01-14T16:33:15.359Z",
+      "ip": "2.50.199.25",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0431557:1:1",
+      "title": "tt0431557:1:1",
+      "timestamp": "2026-01-14T16:33:52.675Z",
+      "ip": "2.50.199.25",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt5607616:2:5",
+      "title": "tt5607616:2:5",
+      "timestamp": "2026-01-14T16:34:04.331Z",
+      "ip": "2a09:bac5:3b58:254b::3b7:15,38.147.106.38",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt2021319:1:1",
+      "title": "tt2021319:1:1",
+      "timestamp": "2026-01-14T16:38:18.617Z",
+      "ip": "2.50.199.25",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt39133077:1:1",
+      "title": "tt39133077:1:1",
+      "timestamp": "2026-01-14T16:41:54.911Z",
+      "ip": "2.50.199.25",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -59329,6 +59370,20 @@
       "title": "tt5622316:1:2",
       "username": "nobody_ismy_name",
       "lastActive": 1768407583446
+    },
+    "2.50.199.25": {
+      "type": "series",
+      "id": "tt39133077:1:1",
+      "title": "tt39133077:1:1",
+      "username": "anonymous",
+      "lastActive": 1768408914911
+    },
+    "2a09:bac5:3b58:254b::3b7:15,38.147.106.38": {
+      "type": "series",
+      "id": "tt5607616:2:5",
+      "title": "tt5607616:2:5",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1768408444331
     }
   }
 }
