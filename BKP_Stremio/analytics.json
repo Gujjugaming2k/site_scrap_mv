@@ -1,5 +1,5 @@
 {
-  "totalViews": 7046,
+  "totalViews": 7053,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1745,7 +1745,8 @@
     "2401:4900:77a8:edf:24ee:d7ff:fe3c:e7e0",
     "2a09:bac5:3b58:254b::3b7:15,38.147.106.38",
     "2409:40d0:c:4ad3:ccb5:29ff:fee3:e42",
-    "105.111.232.53"
+    "105.111.232.53",
+    "2401:4900:8fdf:96e3:5086:1b92:5ca5:cdb4"
   ],
   "views": [
     {
@@ -58105,6 +58106,62 @@
       "timestamp": "2026-01-14T16:57:08.057Z",
       "ip": "105.111.232.53",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-14T17:01:07.869Z",
+      "ip": "27.57.111.57",
+      "username": "user_9b"
+    },
+    {
+      "type": "series",
+      "id": "tt5607616:2:4",
+      "title": "tt5607616:2:4",
+      "timestamp": "2026-01-14T17:05:16.229Z",
+      "ip": "2a09:bac5:3b58:254b::3b7:15,38.147.106.38",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt8962124:5:2",
+      "title": "tt8962124:5:2",
+      "timestamp": "2026-01-14T17:10:45.023Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt31015496",
+      "title": "tt31015496",
+      "timestamp": "2026-01-14T17:11:25.150Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-01-14T17:12:02.998Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "timestamp": "2026-01-14T17:12:14.353Z",
+      "ip": "2401:4900:8fdf:96e3:5086:1b92:5ca5:cdb4",
+      "username": "arjun2077"
+    },
+    {
+      "type": "movie",
+      "id": "tt21272942",
+      "title": "tt21272942",
+      "timestamp": "2026-01-14T17:12:29.476Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -58215,10 +58272,10 @@
     },
     "103.214.60.5": {
       "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
+      "id": "tt21272942",
+      "title": "tt21272942",
       "username": "gaendaswami",
-      "lastActive": 1768404738551
+      "lastActive": 1768410749476
     },
     "182.77.73.122": {
       "type": "series",
@@ -58641,11 +58698,11 @@
       "lastActive": 1768409052578
     },
     "203.192.255.46": {
-      "type": "movie",
-      "id": "tt10548174",
-      "title": "28 Years Later",
+      "type": "series",
+      "id": "tt8962124:5:2",
+      "title": "tt8962124:5:2",
       "username": "chetan_b2",
-      "lastActive": 1768406504702
+      "lastActive": 1768410645023
     },
     "163.223.52.102": {
       "type": "movie",
@@ -59492,7 +59549,7 @@
       "id": "tt35335046:1:1",
       "title": "tt35335046:1:1",
       "username": "user_9b",
-      "lastActive": 1768409024770
+      "lastActive": 1768410067869
     },
     "2401:4900:77a8:edf:24ee:d7ff:fe3c:e7e0": {
       "type": "series",
@@ -59510,10 +59567,10 @@
     },
     "2a09:bac5:3b58:254b::3b7:15,38.147.106.38": {
       "type": "series",
-      "id": "tt5607616:2:5",
-      "title": "tt5607616:2:5",
+      "id": "tt5607616:2:4",
+      "title": "tt5607616:2:4",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768408444331
+      "lastActive": 1768410316229
     },
     "94.156.30.111": {
       "type": "series",
@@ -59535,6 +59592,13 @@
       "title": "tt0262699",
       "username": "anonymous",
       "lastActive": 1768409828057
+    },
+    "2401:4900:8fdf:96e3:5086:1b92:5ca5:cdb4": {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "username": "arjun2077",
+      "lastActive": 1768410734353
     }
   }
 }
