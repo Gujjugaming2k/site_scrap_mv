@@ -1,5 +1,5 @@
 {
-  "totalViews": 6848,
+  "totalViews": 6856,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -56478,6 +56478,70 @@
       "timestamp": "2026-01-14T11:29:49.091Z",
       "ip": "2a02:8428:ad10:ae01:4900:1f26:8887:1845",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4786824:2:3",
+      "title": "tt4786824:2:3",
+      "timestamp": "2026-01-14T11:34:08.782Z",
+      "ip": "2409:40e2:201d:6ab6:8000::",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-14T11:37:12.976Z",
+      "ip": "2409:40e6:203:d9cb:4c51:44ff:fed4:c340",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt23172090",
+      "title": "tt23172090",
+      "timestamp": "2026-01-14T11:40:54.190Z",
+      "ip": "2409:40e6:203:d9cb:4c51:44ff:fed4:c340",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt0338348",
+      "title": "The Polar Express",
+      "timestamp": "2026-01-14T11:41:29.943Z",
+      "ip": "157.49.181.243",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-14T11:43:24.392Z",
+      "ip": "2409:40e6:203:d9cb:4c51:44ff:fed4:c340",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:4",
+      "title": "tt19244304:1:4",
+      "timestamp": "2026-01-14T11:44:31.734Z",
+      "ip": "2401:4900:84d1:10dc:c017:f3ff:fe60:260d",
+      "username": "pikazesty"
+    },
+    {
+      "type": "movie",
+      "id": "tt0120917",
+      "title": "tt0120917",
+      "timestamp": "2026-01-14T11:45:40.607Z",
+      "ip": "157.49.181.243",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-14T11:45:44.892Z",
+      "ip": "2409:40e6:203:d9cb:4c51:44ff:fed4:c340",
+      "username": "nabakun24"
     }
   ],
   "activeNow": {
@@ -56553,10 +56617,10 @@
     },
     "2409:40e6:203:d9cb:4c51:44ff:fed4:c340": {
       "type": "movie",
-      "id": "tt14364480",
-      "title": "tt14364480",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
       "username": "nabakun24",
-      "lastActive": 1768389087506
+      "lastActive": 1768391144892
     },
     "103.4.222.252": {
       "type": "series",
@@ -56864,7 +56928,7 @@
       "id": "tt19244304:1:4",
       "title": "tt19244304:1:4",
       "username": "pikazesty",
-      "lastActive": 1768344670688
+      "lastActive": 1768391071734
     },
     "2600:1702:6820:a800:20b8:7856:d4fb:93be": {
       "type": "series",
@@ -57470,10 +57534,10 @@
     },
     "2409:40e2:201d:6ab6:8000::": {
       "type": "series",
-      "id": "tt4786824:2:2",
-      "title": "tt4786824:2:2",
+      "id": "tt4786824:2:3",
+      "title": "tt4786824:2:3",
       "username": "anonymous",
-      "lastActive": 1768387027200
+      "lastActive": 1768390448782
     },
     "2a02:6ea0:de10:3595::12": {
       "type": "series",
@@ -57523,6 +57587,13 @@
       "title": "Avengers: Infinity War",
       "username": "jinwoooooi",
       "lastActive": 1768390166052
+    },
+    "157.49.181.243": {
+      "type": "movie",
+      "id": "tt0120917",
+      "title": "tt0120917",
+      "username": "anonymous",
+      "lastActive": 1768391140607
     }
   }
 }
