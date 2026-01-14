@@ -1,5 +1,5 @@
 {
-  "totalViews": 6387,
+  "totalViews": 6393,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1625,7 +1625,8 @@
     "190.218.41.78",
     "2600:1702:6820:a800:20b8:7856:d4fb:93be",
     "51.37.225.19",
-    "93.150.244.159"
+    "93.150.244.159",
+    "152.58.182.184"
   ],
   "views": [
     {
@@ -52713,15 +52714,63 @@
       "timestamp": "2026-01-13T23:47:56.227Z",
       "ip": "2600:1702:6820:a800:20b8:7856:d4fb:93be",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:4:6",
+      "title": "tt0903747:4:6",
+      "timestamp": "2026-01-13T23:59:42.602Z",
+      "ip": "152.58.182.184",
+      "username": "tejmani"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:4:5",
+      "title": "tt0903747:4:5",
+      "timestamp": "2026-01-14T00:00:19.492Z",
+      "ip": "152.58.182.184",
+      "username": "tejmani"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:4:6",
+      "title": "tt0903747:4:6",
+      "timestamp": "2026-01-14T00:00:32.068Z",
+      "ip": "2409:40e0:c:770d:8000::",
+      "username": "tejmani"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:4:5",
+      "title": "tt0903747:4:5",
+      "timestamp": "2026-01-14T00:00:34.568Z",
+      "ip": "2409:40e0:c:770d:8000::",
+      "username": "tejmani"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:4:5",
+      "title": "tt0903747:4:5",
+      "timestamp": "2026-01-14T00:00:39.647Z",
+      "ip": "2409:40e0:c:770d:8000::",
+      "username": "tejmani"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:4:9",
+      "title": "tt0412142:4:9",
+      "timestamp": "2026-01-14T00:01:09.451Z",
+      "ip": "120.56.163.42",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
     "120.56.163.42": {
       "type": "series",
-      "id": "tt0412142:4:8",
-      "title": "tt0412142:4:8",
+      "id": "tt0412142:4:9",
+      "title": "tt0412142:4:9",
       "username": "anonymous",
-      "lastActive": 1768346268430
+      "lastActive": 1768348869451
     },
     "38.134.138.246": {
       "type": "movie",
@@ -53128,6 +53177,20 @@
       "title": "Ballerina",
       "username": "anonymous",
       "lastActive": 1768347599765
+    },
+    "152.58.182.184": {
+      "type": "series",
+      "id": "tt0903747:4:5",
+      "title": "tt0903747:4:5",
+      "username": "tejmani",
+      "lastActive": 1768348819492
+    },
+    "2409:40e0:c:770d:8000::": {
+      "type": "series",
+      "id": "tt0903747:4:5",
+      "title": "tt0903747:4:5",
+      "username": "tejmani",
+      "lastActive": 1768348839647
     }
   }
 }
