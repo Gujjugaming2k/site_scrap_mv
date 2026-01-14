@@ -1,5 +1,5 @@
 {
-  "totalViews": 6837,
+  "totalViews": 6848,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1699,7 +1699,10 @@
     "2a02:6ea0:de10:3595::12",
     "2401:4900:1c54:c0ce:c196:b50f:7359:506b",
     "2401:4900:1c54:c0ce:b8f2:4771:b31f:f39",
-    "2401:4900:ba35:d796::29c6:af0a"
+    "2401:4900:ba35:d796::29c6:af0a",
+    "203.99.54.234",
+    "2401:4900:8fe3:e178:7dfc:2c43:7540:3088",
+    "2001:ac8:2:1::11"
   ],
   "views": [
     {
@@ -56387,6 +56390,94 @@
       "timestamp": "2026-01-14T11:11:27.506Z",
       "ip": "2409:40e6:203:d9cb:4c51:44ff:fed4:c340",
       "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt29137778",
+      "title": "tt29137778",
+      "timestamp": "2026-01-14T11:15:34.486Z",
+      "ip": "203.99.54.234",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt29137778",
+      "title": "tt29137778",
+      "timestamp": "2026-01-14T11:15:37.825Z",
+      "ip": "203.99.54.234",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:4",
+      "title": "tt31812476:2:4",
+      "timestamp": "2026-01-14T11:16:06.917Z",
+      "ip": "2401:4900:8fe3:e178:7dfc:2c43:7540:3088",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:5",
+      "title": "tt31812476:2:5",
+      "timestamp": "2026-01-14T11:16:19.981Z",
+      "ip": "2401:4900:8fe3:e178:7dfc:2c43:7540:3088",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:4",
+      "title": "tt31812476:2:4",
+      "timestamp": "2026-01-14T11:16:43.981Z",
+      "ip": "2401:4900:8fe3:e178:7dfc:2c43:7540:3088",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt4154756",
+      "title": "Avengers: Infinity War",
+      "timestamp": "2026-01-14T11:17:05.139Z",
+      "ip": "2001:ac8:2:1::11",
+      "username": "jinwoooooi"
+    },
+    {
+      "type": "movie",
+      "id": "tt1468313",
+      "title": "tt1468313",
+      "timestamp": "2026-01-14T11:17:59.605Z",
+      "ip": "85.154.7.221",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt4154756",
+      "title": "Avengers: Infinity War",
+      "timestamp": "2026-01-14T11:18:24.196Z",
+      "ip": "2001:ac8:2:1::11",
+      "username": "jinwoooooi"
+    },
+    {
+      "type": "series",
+      "id": "tt2661044:7:7",
+      "title": "tt2661044:7:7",
+      "timestamp": "2026-01-14T11:22:05.247Z",
+      "ip": "2a02:8428:ad10:ae01:4900:1f26:8887:1845",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt4154756",
+      "title": "Avengers: Infinity War",
+      "timestamp": "2026-01-14T11:29:26.052Z",
+      "ip": "2001:ac8:2:1::11",
+      "username": "jinwoooooi"
+    },
+    {
+      "type": "series",
+      "id": "tt2661044:7:8",
+      "title": "tt2661044:7:8",
+      "timestamp": "2026-01-14T11:29:49.091Z",
+      "ip": "2a02:8428:ad10:ae01:4900:1f26:8887:1845",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -56693,10 +56784,10 @@
     },
     "2a02:8428:ad10:ae01:4900:1f26:8887:1845": {
       "type": "series",
-      "id": "tt2661044:7:7",
-      "title": "tt2661044:7:7",
+      "id": "tt2661044:7:8",
+      "title": "tt2661044:7:8",
       "username": "anonymous",
-      "lastActive": 1768350818170
+      "lastActive": 1768390189091
     },
     "105.97.155.4": {
       "type": "series",
@@ -57127,10 +57218,10 @@
     },
     "85.154.7.221": {
       "type": "movie",
-      "id": "tt0186797",
-      "title": "tt0186797",
+      "id": "tt1468313",
+      "title": "tt1468313",
       "username": "anonymous",
-      "lastActive": 1768376041287
+      "lastActive": 1768389479605
     },
     "152.59.170.159": {
       "type": "movie",
@@ -57411,6 +57502,27 @@
       "title": "tt1754386",
       "username": "abhi231511",
       "lastActive": 1768388897428
+    },
+    "203.99.54.234": {
+      "type": "movie",
+      "id": "tt29137778",
+      "title": "tt29137778",
+      "username": "anonymous",
+      "lastActive": 1768389337825
+    },
+    "2401:4900:8fe3:e178:7dfc:2c43:7540:3088": {
+      "type": "series",
+      "id": "tt31812476:2:4",
+      "title": "tt31812476:2:4",
+      "username": "ashwanileon",
+      "lastActive": 1768389403981
+    },
+    "2001:ac8:2:1::11": {
+      "type": "movie",
+      "id": "tt4154756",
+      "title": "Avengers: Infinity War",
+      "username": "jinwoooooi",
+      "lastActive": 1768390166052
     }
   }
 }
