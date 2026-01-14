@@ -1,5 +1,5 @@
 {
-  "totalViews": 6887,
+  "totalViews": 6895,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1711,7 +1711,9 @@
     "2409:40c0:2c:b7f8:243e:1ff:fe68:fd77",
     "2401:4900:1c54:c0ce:b854:f186:c864:6e8a",
     "2401:4900:88b9:a420:58b4:bcc0:e907:cbd7",
-    "2409:40d0:103b:55c6:1462:daff:fe2a:10ce"
+    "2409:40d0:103b:55c6:1462:daff:fe2a:10ce",
+    "2401:4900:1c54:c0ce:b854:f186:c864:6e8a,116.202.210.198",
+    "2401:4900:8f56:8145:a1ae:1840:ce95:6e19"
   ],
   "views": [
     {
@@ -56799,6 +56801,70 @@
       "timestamp": "2026-01-14T12:50:16.034Z",
       "ip": "80.211.133.129",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:3",
+      "title": "tt0903747:5:3",
+      "timestamp": "2026-01-14T12:52:16.122Z",
+      "ip": "2401:4900:1c54:c0ce:b854:f186:c864:6e8a",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:3",
+      "title": "tt0903747:5:3",
+      "timestamp": "2026-01-14T12:52:16.213Z",
+      "ip": "2401:4900:1c54:c0ce:b854:f186:c864:6e8a,116.202.210.198",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt30742355",
+      "title": "tt30742355",
+      "timestamp": "2026-01-14T12:55:57.241Z",
+      "ip": "2401:4900:88b9:a420:58b4:bcc0:e907:cbd7",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt30742355",
+      "title": "tt30742355",
+      "timestamp": "2026-01-14T12:55:58.171Z",
+      "ip": "80.211.133.129",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-01-14T12:56:36.349Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-14T12:58:30.865Z",
+      "ip": "2401:4900:8f56:8145:a1ae:1840:ce95:6e19",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt39227709",
+      "title": "tt39227709",
+      "timestamp": "2026-01-14T13:01:25.985Z",
+      "ip": "2401:4900:8f56:8145:a1ae:1840:ce95:6e19",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-14T13:04:51.644Z",
+      "ip": "2401:4900:8f56:8145:a1ae:1840:ce95:6e19",
+      "username": "redhat2199"
     }
   ],
   "activeNow": {
@@ -57329,10 +57395,10 @@
     },
     "80.211.133.129": {
       "type": "movie",
-      "id": "tt36642456",
-      "title": "tt36642456",
+      "id": "tt30742355",
+      "title": "tt30742355",
       "username": "anonymous",
-      "lastActive": 1768395016034
+      "lastActive": 1768395358171
     },
     "203.192.255.46": {
       "type": "series",
@@ -57392,10 +57458,10 @@
     },
     "115.98.99.86": {
       "type": "movie",
-      "id": "tt27441481",
-      "title": "tt27441481",
+      "id": "tt15387182",
+      "title": "tt15387182",
       "username": "nothing_8888",
-      "lastActive": 1768375624861
+      "lastActive": 1768395396349
     },
     "152.56.156.0": {
       "type": "series",
@@ -57909,18 +57975,18 @@
       "lastActive": 1768393761108
     },
     "2401:4900:1c54:c0ce:b854:f186:c864:6e8a": {
-      "type": "movie",
-      "id": "tt38525492",
-      "title": "tt38525492",
+      "type": "series",
+      "id": "tt0903747:5:3",
+      "title": "tt0903747:5:3",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768394519693
+      "lastActive": 1768395136122
     },
     "2401:4900:88b9:a420:58b4:bcc0:e907:cbd7": {
       "type": "movie",
-      "id": "tt36642456",
-      "title": "tt36642456",
+      "id": "tt30742355",
+      "title": "tt30742355",
       "username": "anonymous",
-      "lastActive": 1768395014188
+      "lastActive": 1768395357241
     },
     "2409:40d0:103b:55c6:1462:daff:fe2a:10ce": {
       "type": "series",
@@ -57928,6 +57994,20 @@
       "title": "tt35674970:1:2",
       "username": "anonymous",
       "lastActive": 1768394852742
+    },
+    "2401:4900:1c54:c0ce:b854:f186:c864:6e8a,116.202.210.198": {
+      "type": "series",
+      "id": "tt0903747:5:3",
+      "title": "tt0903747:5:3",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1768395136213
+    },
+    "2401:4900:8f56:8145:a1ae:1840:ce95:6e19": {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "username": "redhat2199",
+      "lastActive": 1768395891644
     }
   }
 }
