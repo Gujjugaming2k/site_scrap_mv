@@ -1,5 +1,5 @@
 {
-  "totalViews": 7164,
+  "totalViews": 7167,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1769,7 +1769,8 @@
     "65.95.97.146",
     "102.216.66.70",
     "135.125.202.78",
-    "130.179.243.184"
+    "130.179.243.184",
+    "2405:201:c01d:e86d:9b4d:7422:4e2c:bbcd"
   ],
   "views": [
     {
@@ -59073,6 +59074,30 @@
       "timestamp": "2026-01-14T20:03:08.000Z",
       "ip": "130.179.243.184",
       "username": "taufiqulislamkhan"
+    },
+    {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "timestamp": "2026-01-14T20:21:14.749Z",
+      "ip": "2405:201:c01d:e86d:9b4d:7422:4e2c:bbcd",
+      "username": "mr_anonymous_0004"
+    },
+    {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "timestamp": "2026-01-14T20:23:29.651Z",
+      "ip": "2a01:e0a:e2d:1e0:d37e:7c82:21e6:86e1",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt5574490:5:1",
+      "title": "tt5574490:5:1",
+      "timestamp": "2026-01-14T20:29:20.383Z",
+      "ip": "154.208.49.98",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -59287,11 +59312,11 @@
       "lastActive": 1768386705336
     },
     "154.208.49.98": {
-      "type": "movie",
-      "id": "tt29567915",
-      "title": "tt29567915",
+      "type": "series",
+      "id": "tt5574490:5:1",
+      "title": "tt5574490:5:1",
       "username": "anonymous",
-      "lastActive": 1768334735812
+      "lastActive": 1768422560383
     },
     "122.161.242.88": {
       "type": "movie",
@@ -59473,7 +59498,7 @@
       "id": "tt22740896",
       "title": "tt22740896",
       "username": "anonymous",
-      "lastActive": 1768345657804
+      "lastActive": 1768422209651
     },
     "51.37.225.19": {
       "type": "series",
@@ -60692,6 +60717,13 @@
       "title": "Dhurandhar",
       "username": "taufiqulislamkhan",
       "lastActive": 1768420988000
+    },
+    "2405:201:c01d:e86d:9b4d:7422:4e2c:bbcd": {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "username": "mr_anonymous_0004",
+      "lastActive": 1768422074749
     }
   }
 }
