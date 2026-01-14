@@ -1,5 +1,5 @@
 {
-  "totalViews": 6600,
+  "totalViews": 6604,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1658,7 +1658,10 @@
     "157.51.221.80",
     "2001:ac8:22:23:4210:84d5:1b18:f47d",
     "2405:201:2000:ca9e:3e39:982e:fe04:4a4b",
-    "49.42.203.152"
+    "49.42.203.152",
+    "2401:4900:1c5e:4184:cbbc:98f3:f54b:f5a1",
+    "49.42.200.88",
+    "157.48.78.6"
   ],
   "views": [
     {
@@ -54450,6 +54453,38 @@
       "timestamp": "2026-01-14T07:03:13.652Z",
       "ip": "51.37.225.19",
       "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt33028778",
+      "title": "tt33028778",
+      "timestamp": "2026-01-14T07:09:25.511Z",
+      "ip": "2401:4900:1c5e:4184:cbbc:98f3:f54b:f5a1",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-01-14T07:11:35.628Z",
+      "ip": "2401:4900:1c5e:4184:cbbc:98f3:f54b:f5a1",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4786824:2:1",
+      "title": "tt4786824:2:1",
+      "timestamp": "2026-01-14T07:17:09.097Z",
+      "ip": "49.42.200.88",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt9603208",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "timestamp": "2026-01-14T07:19:52.561Z",
+      "ip": "157.48.78.6",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -55166,6 +55201,27 @@
       "title": "tt39013436:1:1",
       "username": "anonymous",
       "lastActive": 1768374155438
+    },
+    "2401:4900:1c5e:4184:cbbc:98f3:f54b:f5a1": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "anonymous",
+      "lastActive": 1768374695628
+    },
+    "49.42.200.88": {
+      "type": "series",
+      "id": "tt4786824:2:1",
+      "title": "tt4786824:2:1",
+      "username": "anonymous",
+      "lastActive": 1768375029097
+    },
+    "157.48.78.6": {
+      "type": "movie",
+      "id": "tt9603208",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "username": "anonymous",
+      "lastActive": 1768375192561
     }
   }
 }
