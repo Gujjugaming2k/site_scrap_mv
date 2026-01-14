@@ -1,5 +1,5 @@
 {
-  "totalViews": 6416,
+  "totalViews": 6423,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1631,7 +1631,9 @@
     "147.93.215.44",
     "2a02:9b0:106:827:4d3e:cc1f:ac3a:63c",
     "2409:40e2:10f8:b24f:68c3:cf7a:5ad3:ff87",
-    "152.58.182.84"
+    "152.58.182.84",
+    "152.56.175.59",
+    "86.104.23.109"
   ],
   "views": [
     {
@@ -52951,6 +52953,62 @@
       "timestamp": "2026-01-14T01:11:09.216Z",
       "ip": "152.58.182.84",
       "username": "tejmani"
+    },
+    {
+      "type": "series",
+      "id": "tt12477660:1:16",
+      "title": "tt12477660:1:16",
+      "timestamp": "2026-01-14T01:13:26.561Z",
+      "ip": "152.56.175.59",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12477660:1:16",
+      "title": "tt12477660:1:16",
+      "timestamp": "2026-01-14T01:13:48.750Z",
+      "ip": "152.56.175.59",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt6604188",
+      "title": "TRON: Ares",
+      "timestamp": "2026-01-14T01:15:00.271Z",
+      "ip": "2409:40e2:10f8:b24f:68c3:cf7a:5ad3:ff87",
+      "username": "adr7000"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-14T01:15:54.478Z",
+      "ip": "181.197.11.6",
+      "username": "ymcine"
+    },
+    {
+      "type": "movie",
+      "id": "tt38121182",
+      "title": "tt38121182",
+      "timestamp": "2026-01-14T01:16:35.417Z",
+      "ip": "2409:40e2:10f8:b24f:68c3:cf7a:5ad3:ff87",
+      "username": "adr7000"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:1",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-14T01:16:47.733Z",
+      "ip": "2409:40e2:10f8:b24f:68c3:cf7a:5ad3:ff87",
+      "username": "adr7000"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:1:15",
+      "title": "tt31938062:1:15",
+      "timestamp": "2026-01-14T01:17:58.937Z",
+      "ip": "86.104.23.109",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -53404,10 +53462,10 @@
     },
     "2409:40e2:10f8:b24f:68c3:cf7a:5ad3:ff87": {
       "type": "series",
-      "id": "tt26009468:1:2",
-      "title": "tt26009468:1:2",
-      "username": "anonymous",
-      "lastActive": 1768352727363
+      "id": "tt12343534:3:1",
+      "title": "JUJUTSU KAISEN",
+      "username": "adr7000",
+      "lastActive": 1768353407733
     },
     "152.58.182.84": {
       "type": "series",
@@ -53415,6 +53473,27 @@
       "title": "tt0903747:4:8",
       "username": "tejmani",
       "lastActive": 1768353069216
+    },
+    "152.56.175.59": {
+      "type": "series",
+      "id": "tt12477660:1:16",
+      "title": "tt12477660:1:16",
+      "username": "anonymous",
+      "lastActive": 1768353228750
+    },
+    "181.197.11.6": {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "username": "ymcine",
+      "lastActive": 1768353354478
+    },
+    "86.104.23.109": {
+      "type": "series",
+      "id": "tt31938062:1:15",
+      "title": "tt31938062:1:15",
+      "username": "anonymous",
+      "lastActive": 1768353478937
     }
   }
 }
