@@ -1,5 +1,5 @@
 {
-  "totalViews": 6400,
+  "totalViews": 6409,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1626,7 +1626,9 @@
     "2600:1702:6820:a800:20b8:7856:d4fb:93be",
     "51.37.225.19",
     "93.150.244.159",
-    "152.58.182.184"
+    "152.58.182.184",
+    "176.97.206.43",
+    "147.93.215.44"
   ],
   "views": [
     {
@@ -52818,6 +52820,78 @@
       "timestamp": "2026-01-14T00:33:38.170Z",
       "ip": "2a02:8428:ad10:ae01:4900:1f26:8887:1845",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt13654226",
+      "title": "The Gorge",
+      "timestamp": "2026-01-14T00:39:28.108Z",
+      "ip": "176.97.206.43",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-14T00:40:40.492Z",
+      "ip": "147.93.215.44",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-14T00:42:19.830Z",
+      "ip": "147.93.215.44",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-14T00:42:19.907Z",
+      "ip": "147.93.215.44",
+      "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt13654226",
+      "title": "The Gorge",
+      "timestamp": "2026-01-14T00:42:23.749Z",
+      "ip": "176.97.206.43",
+      "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt31844586",
+      "title": "tt31844586",
+      "timestamp": "2026-01-14T00:42:44.385Z",
+      "ip": "176.97.206.43",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "ttps://ak.sv/series/5152/المحتالون-مدبلج:1:1",
+      "title": "ttps://ak.sv/series/5152/المحتالون-مدبلج:1:1",
+      "timestamp": "2026-01-14T00:43:47.931Z",
+      "ip": "147.93.215.44",
+      "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt4712810",
+      "title": "tt4712810",
+      "timestamp": "2026-01-14T00:44:16.814Z",
+      "ip": "147.93.215.44",
+      "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt4712810",
+      "title": "tt4712810",
+      "timestamp": "2026-01-14T00:44:19.253Z",
+      "ip": "147.93.215.44",
+      "username": "hoosa500"
     }
   ],
   "activeNow": {
@@ -53247,6 +53321,20 @@
       "title": "tt0903747:4:5",
       "username": "tejmani",
       "lastActive": 1768348839647
+    },
+    "176.97.206.43": {
+      "type": "movie",
+      "id": "tt31844586",
+      "title": "tt31844586",
+      "username": "hoosa500",
+      "lastActive": 1768351364385
+    },
+    "147.93.215.44": {
+      "type": "movie",
+      "id": "tt4712810",
+      "title": "tt4712810",
+      "username": "hoosa500",
+      "lastActive": 1768351459253
     }
   }
 }
