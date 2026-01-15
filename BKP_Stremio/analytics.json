@@ -1,5 +1,5 @@
 {
-  "totalViews": 7803,
+  "totalViews": 7808,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1897,7 +1897,8 @@
     "197.94.210.167",
     "2a01:e0a:e2d:1e0:4f09:889f:8ac0:b4b0",
     "154.254.124.247",
-    "196.176.146.176"
+    "196.176.146.176",
+    "41.104.187.63"
   ],
   "views": [
     {
@@ -64313,6 +64314,46 @@
       "timestamp": "2026-01-15T23:11:01.520Z",
       "ip": "154.254.124.247",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt5189944:1:14",
+      "title": "tt5189944:1:14",
+      "timestamp": "2026-01-15T23:17:00.869Z",
+      "ip": "115.164.77.28",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0364435",
+      "title": "tt0364435",
+      "timestamp": "2026-01-15T23:24:34.448Z",
+      "ip": "41.104.187.63",
+      "username": "hkhhjj"
+    },
+    {
+      "type": "movie",
+      "id": "tt0364435",
+      "title": "tt0364435",
+      "timestamp": "2026-01-15T23:24:54.947Z",
+      "ip": "41.104.187.63",
+      "username": "hkhhjj"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-01-15T23:25:40.729Z",
+      "ip": "41.104.187.63",
+      "username": "hkhhjj"
+    },
+    {
+      "type": "movie",
+      "id": "tt31495504",
+      "title": "tt31495504",
+      "timestamp": "2026-01-15T23:26:00.414Z",
+      "ip": "41.104.187.63",
+      "username": "hkhhjj"
     }
   ],
   "activeNow": {
@@ -66645,7 +66686,7 @@
       "id": "tt5189944:1:14",
       "title": "tt5189944:1:14",
       "username": "anonymous",
-      "lastActive": 1768514909938
+      "lastActive": 1768519020869
     },
     "67.193.97.3": {
       "type": "movie",
@@ -66863,6 +66904,13 @@
       "title": "null",
       "username": "anonymous",
       "lastActive": 1768518224112
+    },
+    "41.104.187.63": {
+      "type": "movie",
+      "id": "tt31495504",
+      "title": "tt31495504",
+      "username": "hkhhjj",
+      "lastActive": 1768519560414
     }
   }
 }
