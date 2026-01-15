@@ -1,5 +1,5 @@
 {
-  "totalViews": 7331,
+  "totalViews": 7335,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1811,7 +1811,8 @@
     "2401:4900:b8ef:bd2e:a5b9:5bf9:93e5:658b",
     "2401:4900:add7:f015:bc11:4aff:fe5e:e027",
     "2401:4900:8838:8908:10b9:8132:3556:ee76",
-    "176.97.206.35"
+    "176.97.206.35",
+    "182.77.76.8"
   ],
   "views": [
     {
@@ -60451,6 +60452,38 @@
       "timestamp": "2026-01-15T07:40:13.900Z",
       "ip": "176.97.206.35",
       "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-15T07:40:48.255Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-15T07:45:07.751Z",
+      "ip": "176.97.206.35",
+      "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "timestamp": "2026-01-15T07:52:19.610Z",
+      "ip": "182.77.76.8",
+      "username": "thebatmanbyte"
+    },
+    {
+      "type": "movie",
+      "id": "tt38238651",
+      "title": "tt38238651",
+      "timestamp": "2026-01-15T07:52:58.403Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -60463,10 +60496,10 @@
     },
     "38.134.138.246": {
       "type": "movie",
-      "id": "tt21103218",
-      "title": "The Lost Bus",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
       "username": "thala_75",
-      "lastActive": 1768462809382
+      "lastActive": 1768462848255
     },
     "182.69.178.28": {
       "type": "series",
@@ -60987,11 +61020,11 @@
       "lastActive": 1768438744368
     },
     "203.192.255.46": {
-      "type": "series",
-      "id": "tt8962124:5:3",
-      "title": "tt8962124:5:3",
+      "type": "movie",
+      "id": "tt38238651",
+      "title": "tt38238651",
       "username": "chetan_b2",
-      "lastActive": 1768412563182
+      "lastActive": 1768463578403
     },
     "163.223.52.102": {
       "type": "movie",
@@ -62363,7 +62396,14 @@
       "id": "tt30144839",
       "title": "One Battle After Another",
       "username": "hoosa500",
-      "lastActive": 1768462813900
+      "lastActive": 1768463107751
+    },
+    "182.77.76.8": {
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "username": "thebatmanbyte",
+      "lastActive": 1768463539610
     }
   }
 }
