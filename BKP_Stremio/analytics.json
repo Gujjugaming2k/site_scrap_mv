@@ -1,5 +1,5 @@
 {
-  "totalViews": 7695,
+  "totalViews": 7701,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1883,7 +1883,8 @@
     "49.37.131.22",
     "2401:4900:8fdf:96e3:c9bf:8510:2eaf:93f2",
     "31.171.153.103",
-    "2401:4900:91c4:84fd:4663:c1f8:d8ed:d948"
+    "2401:4900:91c4:84fd:4663:c1f8:d8ed:d948",
+    "49.207.193.58"
   ],
   "views": [
     {
@@ -63435,6 +63436,54 @@
       "timestamp": "2026-01-15T18:03:23.043Z",
       "ip": "2401:4900:91c4:84fd:4663:c1f8:d8ed:d948",
       "username": "elite_user13"
+    },
+    {
+      "type": "movie",
+      "id": "tt1659343",
+      "title": "tt1659343",
+      "timestamp": "2026-01-15T18:05:18.628Z",
+      "ip": "2401:4900:91c4:84fd:4663:c1f8:d8ed:d948",
+      "username": "elite_user13"
+    },
+    {
+      "type": "movie",
+      "id": "tt1659343",
+      "title": "tt1659343",
+      "timestamp": "2026-01-15T18:07:46.994Z",
+      "ip": "2401:4900:91c4:84fd:4663:c1f8:d8ed:d948",
+      "username": "elite_user13"
+    },
+    {
+      "type": "series",
+      "id": "tt5626028:6:10",
+      "title": "tt5626028:6:10",
+      "timestamp": "2026-01-15T18:11:31.122Z",
+      "ip": "89.189.91.90",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt13207736:3:3",
+      "title": "tt13207736:3:3",
+      "timestamp": "2026-01-15T18:13:51.894Z",
+      "ip": "49.207.193.58",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt29764006:1:6",
+      "title": "tt29764006:1:6",
+      "timestamp": "2026-01-15T18:15:06.188Z",
+      "ip": "103.181.65.39",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt29764006:1:6",
+      "title": "tt29764006:1:6",
+      "timestamp": "2026-01-15T18:15:06.235Z",
+      "ip": "103.181.65.39",
+      "username": "mutti9"
     }
   ],
   "activeNow": {
@@ -65032,7 +65081,7 @@
       "id": "tt29764006:1:6",
       "title": "tt29764006:1:6",
       "username": "mutti9",
-      "lastActive": 1768499509388
+      "lastActive": 1768500906235
     },
     "102.216.66.70": {
       "type": "series",
@@ -65799,10 +65848,10 @@
     },
     "89.189.91.90": {
       "type": "series",
-      "id": "tt5626028:6:9",
-      "title": "tt5626028:6:9",
+      "id": "tt5626028:6:10",
+      "title": "tt5626028:6:10",
       "username": "anonymous",
-      "lastActive": 1768499326693
+      "lastActive": 1768500691122
     },
     "5.133.46.216": {
       "type": "movie",
@@ -65879,7 +65928,14 @@
       "id": "tt1659343",
       "title": "tt1659343",
       "username": "elite_user13",
-      "lastActive": 1768500203043
+      "lastActive": 1768500466994
+    },
+    "49.207.193.58": {
+      "type": "series",
+      "id": "tt13207736:3:3",
+      "title": "tt13207736:3:3",
+      "username": "anonymous",
+      "lastActive": 1768500831894
     }
   }
 }
