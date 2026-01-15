@@ -1,5 +1,5 @@
 {
-  "totalViews": 7800,
+  "totalViews": 7803,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1896,7 +1896,8 @@
     "103.186.219.243",
     "197.94.210.167",
     "2a01:e0a:e2d:1e0:4f09:889f:8ac0:b4b0",
-    "154.254.124.247"
+    "154.254.124.247",
+    "196.176.146.176"
   ],
   "views": [
     {
@@ -64288,6 +64289,30 @@
       "timestamp": "2026-01-15T22:55:43.465Z",
       "ip": "82.66.125.144",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "null",
+      "title": "null",
+      "timestamp": "2026-01-15T23:03:44.112Z",
+      "ip": "196.176.146.176",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt36491653",
+      "title": "tt36491653",
+      "timestamp": "2026-01-15T23:07:42.674Z",
+      "ip": "2a01:e0a:e2d:1e0:4f09:889f:8ac0:b4b0",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:1:21",
+      "title": "tt0369179:1:21",
+      "timestamp": "2026-01-15T23:11:01.520Z",
+      "ip": "154.254.124.247",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -66823,14 +66848,21 @@
       "id": "tt36491653",
       "title": "tt36491653",
       "username": "anonymous",
-      "lastActive": 1768517455493
+      "lastActive": 1768518462674
     },
     "154.254.124.247": {
       "type": "series",
-      "id": "tt0369179:1:20",
-      "title": "tt0369179:1:20",
+      "id": "tt0369179:1:21",
+      "title": "tt0369179:1:21",
       "username": "anonymous",
-      "lastActive": 1768517596150
+      "lastActive": 1768518661520
+    },
+    "196.176.146.176": {
+      "type": "movie",
+      "id": "null",
+      "title": "null",
+      "username": "anonymous",
+      "lastActive": 1768518224112
     }
   }
 }
