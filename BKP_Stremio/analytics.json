@@ -1,5 +1,5 @@
 {
-  "totalViews": 7320,
+  "totalViews": 7331,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1808,7 +1808,10 @@
     "182.69.179.223,38.147.106.38",
     "27.6.142.19",
     "2404:bd00:3:d2bf:7c18:3a15:520e:75da",
-    "2401:4900:b8ef:bd2e:a5b9:5bf9:93e5:658b"
+    "2401:4900:b8ef:bd2e:a5b9:5bf9:93e5:658b",
+    "2401:4900:add7:f015:bc11:4aff:fe5e:e027",
+    "2401:4900:8838:8908:10b9:8132:3556:ee76",
+    "176.97.206.35"
   ],
   "views": [
     {
@@ -60360,6 +60363,94 @@
       "timestamp": "2026-01-15T07:24:04.918Z",
       "ip": "2401:4900:b8ef:bd2e:a5b9:5bf9:93e5:658b",
       "username": "reaper54x"
+    },
+    {
+      "type": "movie",
+      "id": "tt27302088",
+      "title": "tt27302088",
+      "timestamp": "2026-01-15T07:25:15.025Z",
+      "ip": "2401:4900:b8ef:bd2e:a5b9:5bf9:93e5:658b",
+      "username": "reaper54x"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-01-15T07:26:00.549Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-01-15T07:27:02.744Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt20452454",
+      "title": "tt20452454",
+      "timestamp": "2026-01-15T07:27:12.387Z",
+      "ip": "27.6.142.19",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-15T07:28:55.980Z",
+      "ip": "2401:4900:add7:f015:bc11:4aff:fe5e:e027",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt0063950:1:11",
+      "title": "tt0063950:1:11",
+      "timestamp": "2026-01-15T07:30:30.216Z",
+      "ip": "2404:bd00:3:d2bf:7c18:3a15:520e:75da",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-01-15T07:38:39.353Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-01-15T07:39:07.424Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:1:61",
+      "title": "tt0388629:1:61",
+      "timestamp": "2026-01-15T07:39:49.199Z",
+      "ip": "2401:4900:8838:8908:10b9:8132:3556:ee76",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt21103218",
+      "title": "The Lost Bus",
+      "timestamp": "2026-01-15T07:40:09.382Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-15T07:40:13.900Z",
+      "ip": "176.97.206.35",
+      "username": "hoosa500"
     }
   ],
   "activeNow": {
@@ -60372,10 +60463,10 @@
     },
     "38.134.138.246": {
       "type": "movie",
-      "id": "tt16311594",
-      "title": "F1",
+      "id": "tt21103218",
+      "title": "The Lost Bus",
       "username": "thala_75",
-      "lastActive": 1768461034010
+      "lastActive": 1768462809382
     },
     "182.69.178.28": {
       "type": "series",
@@ -60470,10 +60561,10 @@
     },
     "103.214.60.5": {
       "type": "movie",
-      "id": "tt14107334",
-      "title": "tt14107334",
+      "id": "tt26443597",
+      "title": "tt26443597",
       "username": "gaendaswami",
-      "lastActive": 1768411345186
+      "lastActive": 1768462022744
     },
     "182.77.73.122": {
       "type": "series",
@@ -62234,24 +62325,45 @@
     },
     "27.6.142.19": {
       "type": "movie",
-      "id": "tt28754073",
-      "title": "tt28754073",
+      "id": "tt20452454",
+      "title": "tt20452454",
       "username": "anonymous",
-      "lastActive": 1768461697154
+      "lastActive": 1768462032387
     },
     "2404:bd00:3:d2bf:7c18:3a15:520e:75da": {
       "type": "series",
-      "id": "tt0063950:1:10",
-      "title": "tt0063950:1:10",
+      "id": "tt0063950:1:11",
+      "title": "tt0063950:1:11",
       "username": "anonymous",
-      "lastActive": 1768461784755
+      "lastActive": 1768462230216
     },
     "2401:4900:b8ef:bd2e:a5b9:5bf9:93e5:658b": {
       "type": "movie",
       "id": "tt27302088",
       "title": "tt27302088",
       "username": "reaper54x",
-      "lastActive": 1768461844918
+      "lastActive": 1768461915025
+    },
+    "2401:4900:add7:f015:bc11:4aff:fe5e:e027": {
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
+      "username": "b1jju",
+      "lastActive": 1768462135980
+    },
+    "2401:4900:8838:8908:10b9:8132:3556:ee76": {
+      "type": "series",
+      "id": "tt0388629:1:61",
+      "title": "tt0388629:1:61",
+      "username": "anonymous",
+      "lastActive": 1768462789199
+    },
+    "176.97.206.35": {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "username": "hoosa500",
+      "lastActive": 1768462813900
     }
   }
 }
