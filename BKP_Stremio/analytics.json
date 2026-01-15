@@ -1,5 +1,5 @@
 {
-  "totalViews": 7284,
+  "totalViews": 7297,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1797,7 +1797,10 @@
     "202.179.159.154",
     "2405:201:6820:a83c:50dc:306e:e8b1:7245",
     "49.36.217.235",
-    "2001:4490:488d:6341:66e4:a5ff:fe15:d00b"
+    "2001:4490:488d:6341:66e4:a5ff:fe15:d00b",
+    "117.235.161.245",
+    "152.58.180.30",
+    "2409:40e0:16:bc83:1816:e8c6:fc41:640a"
   ],
   "views": [
     {
@@ -60061,6 +60064,110 @@
       "timestamp": "2026-01-15T06:06:19.548Z",
       "ip": "2001:4490:488d:6341:66e4:a5ff:fe15:d00b",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt8178634",
+      "title": "tt8178634",
+      "timestamp": "2026-01-15T06:12:36.797Z",
+      "ip": "117.235.161.245",
+      "username": "itsdoom50"
+    },
+    {
+      "type": "movie",
+      "id": "tt8178634",
+      "title": "tt8178634",
+      "timestamp": "2026-01-15T06:13:05.574Z",
+      "ip": "117.235.161.245",
+      "username": "itsdoom50"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:3",
+      "title": "tt30003786:4:3",
+      "timestamp": "2026-01-15T06:14:09.629Z",
+      "ip": "152.58.180.30",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:4",
+      "title": "tt30003786:4:4",
+      "timestamp": "2026-01-15T06:14:16.419Z",
+      "ip": "152.58.180.30",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:4",
+      "title": "tt30003786:4:4",
+      "timestamp": "2026-01-15T06:15:10.123Z",
+      "ip": "152.58.180.30",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:4",
+      "title": "tt30003786:4:4",
+      "timestamp": "2026-01-15T06:16:00.320Z",
+      "ip": "152.58.180.30",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt8178634",
+      "title": "tt8178634",
+      "timestamp": "2026-01-15T06:16:02.725Z",
+      "ip": "2001:4490:488d:6341:66e4:a5ff:fe15:d00b",
+      "username": "itsdoom50"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:4",
+      "title": "tt30003786:4:4",
+      "timestamp": "2026-01-15T06:16:45.700Z",
+      "ip": "152.58.180.30",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt27922706",
+      "title": "tt27922706",
+      "timestamp": "2026-01-15T06:17:25.185Z",
+      "ip": "2001:4490:488d:6341:66e4:a5ff:fe15:d00b",
+      "username": "itsdoom50"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:3",
+      "title": "tt30003786:4:3",
+      "timestamp": "2026-01-15T06:18:24.375Z",
+      "ip": "2409:40e0:16:bc83:1816:e8c6:fc41:640a",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:3",
+      "title": "tt30003786:4:3",
+      "timestamp": "2026-01-15T06:18:45.022Z",
+      "ip": "2409:40e0:16:bc83:1816:e8c6:fc41:640a",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-15T06:19:36.967Z",
+      "ip": "2001:4490:488d:6341:66e4:a5ff:fe15:d00b",
+      "username": "itsdoom50"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-15T06:21:43.938Z",
+      "ip": "2001:4490:488d:6341:66e4:a5ff:fe15:d00b",
+      "username": "itsdoom50"
     }
   ],
   "activeNow": {
@@ -61872,10 +61979,31 @@
     },
     "2001:4490:488d:6341:66e4:a5ff:fe15:d00b": {
       "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "itsdoom50",
+      "lastActive": 1768458103938
+    },
+    "117.235.161.245": {
+      "type": "movie",
       "id": "tt8178634",
       "title": "tt8178634",
-      "username": "anonymous",
-      "lastActive": 1768457179548
+      "username": "itsdoom50",
+      "lastActive": 1768457585574
+    },
+    "152.58.180.30": {
+      "type": "series",
+      "id": "tt30003786:4:4",
+      "title": "tt30003786:4:4",
+      "username": "nobody_ismy_name",
+      "lastActive": 1768457805700
+    },
+    "2409:40e0:16:bc83:1816:e8c6:fc41:640a": {
+      "type": "series",
+      "id": "tt30003786:4:3",
+      "title": "tt30003786:4:3",
+      "username": "nobody_ismy_name",
+      "lastActive": 1768457925022
     }
   }
 }
