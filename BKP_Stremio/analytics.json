@@ -1,5 +1,5 @@
 {
-  "totalViews": 7301,
+  "totalViews": 7304,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1800,7 +1800,8 @@
     "2001:4490:488d:6341:66e4:a5ff:fe15:d00b",
     "117.235.161.245",
     "152.58.180.30",
-    "2409:40e0:16:bc83:1816:e8c6:fc41:640a"
+    "2409:40e0:16:bc83:1816:e8c6:fc41:640a",
+    "2401:4900:1c26:24e9:81de:e522:12bb:7879"
   ],
   "views": [
     {
@@ -60200,6 +60201,30 @@
       "timestamp": "2026-01-15T06:33:47.396Z",
       "ip": "202.179.159.154",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt38221085:1:10",
+      "title": "tt38221085:1:10",
+      "timestamp": "2026-01-15T06:48:43.058Z",
+      "ip": "2405:201:6820:a83c:50dc:306e:e8b1:7245",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt0404032",
+      "title": "The Exorcism of Emily Rose",
+      "timestamp": "2026-01-15T06:48:43.548Z",
+      "ip": "2401:4900:1c26:24e9:81de:e522:12bb:7879",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt29471573",
+      "title": "tt29471573",
+      "timestamp": "2026-01-15T06:52:01.693Z",
+      "ip": "2401:4900:1c26:24e9:81de:e522:12bb:7879",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -61997,10 +62022,10 @@
     },
     "2405:201:6820:a83c:50dc:306e:e8b1:7245": {
       "type": "series",
-      "id": "tt38221085:1:9",
-      "title": "tt38221085:1:9",
+      "id": "tt38221085:1:10",
+      "title": "tt38221085:1:10",
       "username": "demon18319",
-      "lastActive": 1768456908918
+      "lastActive": 1768459723058
     },
     "49.36.217.235": {
       "type": "series",
@@ -62036,6 +62061,13 @@
       "title": "tt30003786:4:3",
       "username": "nobody_ismy_name",
       "lastActive": 1768458740481
+    },
+    "2401:4900:1c26:24e9:81de:e522:12bb:7879": {
+      "type": "movie",
+      "id": "tt29471573",
+      "title": "tt29471573",
+      "username": "anonymous",
+      "lastActive": 1768459921693
     }
   }
 }
