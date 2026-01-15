@@ -1,5 +1,5 @@
 {
-  "totalViews": 7336,
+  "totalViews": 7341,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1812,7 +1812,9 @@
     "2401:4900:add7:f015:bc11:4aff:fe5e:e027",
     "2401:4900:8838:8908:10b9:8132:3556:ee76",
     "176.97.206.35",
-    "182.77.76.8"
+    "182.77.76.8",
+    "223.188.125.133",
+    "2a09:bac5:3af7:11c3::1c5:22"
   ],
   "views": [
     {
@@ -60492,6 +60494,46 @@
       "timestamp": "2026-01-15T08:00:25.073Z",
       "ip": "2401:4900:8838:8908:10b9:8132:3556:ee76",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt29567915",
+      "title": "tt29567915",
+      "timestamp": "2026-01-15T08:09:03.047Z",
+      "ip": "223.188.125.133",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt35047134:1:1",
+      "title": "tt35047134:1:1",
+      "timestamp": "2026-01-15T08:09:10.043Z",
+      "ip": "2a09:bac5:3af7:11c3::1c5:22",
+      "username": "switchoff0099"
+    },
+    {
+      "type": "movie",
+      "id": "tt29567915",
+      "title": "tt29567915",
+      "timestamp": "2026-01-15T08:10:55.513Z",
+      "ip": "223.188.125.133",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "movie",
+      "id": "tt29567915",
+      "title": "tt29567915",
+      "timestamp": "2026-01-15T08:11:15.473Z",
+      "ip": "223.188.125.133",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "movie",
+      "id": "tt29567915",
+      "title": "tt29567915",
+      "timestamp": "2026-01-15T08:13:17.334Z",
+      "ip": "223.188.125.133",
+      "username": "dawnstar930"
     }
   ],
   "activeNow": {
@@ -62412,6 +62454,20 @@
       "title": "Chainsaw Man - The Movie: Reze Arc",
       "username": "thebatmanbyte",
       "lastActive": 1768463539610
+    },
+    "223.188.125.133": {
+      "type": "movie",
+      "id": "tt29567915",
+      "title": "tt29567915",
+      "username": "dawnstar930",
+      "lastActive": 1768464797334
+    },
+    "2a09:bac5:3af7:11c3::1c5:22": {
+      "type": "series",
+      "id": "tt35047134:1:1",
+      "title": "tt35047134:1:1",
+      "username": "switchoff0099",
+      "lastActive": 1768464550043
     }
   }
 }
