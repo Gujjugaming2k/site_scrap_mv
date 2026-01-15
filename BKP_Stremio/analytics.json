@@ -1,5 +1,5 @@
 {
-  "totalViews": 7264,
+  "totalViews": 7268,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1791,7 +1791,8 @@
     "2409:40e0:101a:b77c:58cd:e5ff:fe11:4741",
     "2409:40c4:10b6:46a1:d8ba:6cff:fe51:322d",
     "42.106.184.165",
-    "2409:40e6:5:b8b4:d492:f8ff:fe80:7c30"
+    "2409:40e6:5:b8b4:d492:f8ff:fe80:7c30",
+    "64.43.168.186"
   ],
   "views": [
     {
@@ -59895,6 +59896,38 @@
       "timestamp": "2026-01-15T04:11:50.556Z",
       "ip": "64.238.204.203",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:1:17",
+      "title": "tt0369179:1:17",
+      "timestamp": "2026-01-15T04:23:04.472Z",
+      "ip": "105.111.110.138",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-01-15T04:25:58.459Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-15T04:34:51.073Z",
+      "ip": "64.43.168.186",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:4",
+      "title": "tt35335046:1:4",
+      "timestamp": "2026-01-15T04:35:22.314Z",
+      "ip": "64.43.168.186",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -59907,10 +59940,10 @@
     },
     "38.134.138.246": {
       "type": "movie",
-      "id": "tt26581740",
-      "title": "Weapons",
+      "id": "tt16311594",
+      "title": "F1",
       "username": "thala_75",
-      "lastActive": 1768416540778
+      "lastActive": 1768451158459
     },
     "182.69.178.28": {
       "type": "series",
@@ -61566,10 +61599,10 @@
     },
     "105.111.110.138": {
       "type": "series",
-      "id": "tt0369179:1:16",
-      "title": "tt0369179:1:16",
+      "id": "tt0369179:1:17",
+      "title": "tt0369179:1:17",
       "username": "anonymous",
-      "lastActive": 1768449652601
+      "lastActive": 1768450984472
     },
     "143.44.197.145": {
       "type": "series",
@@ -61668,6 +61701,13 @@
       "title": "tt31227572",
       "username": "nabakun24",
       "lastActive": 1768449650194
+    },
+    "64.43.168.186": {
+      "type": "series",
+      "id": "tt35335046:1:4",
+      "title": "tt35335046:1:4",
+      "username": "vflix1993",
+      "lastActive": 1768451722314
     }
   }
 }
