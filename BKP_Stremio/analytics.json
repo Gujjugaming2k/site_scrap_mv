@@ -1,5 +1,5 @@
 {
-  "totalViews": 7711,
+  "totalViews": 7716,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1884,7 +1884,8 @@
     "2401:4900:8fdf:96e3:c9bf:8510:2eaf:93f2",
     "31.171.153.103",
     "2401:4900:91c4:84fd:4663:c1f8:d8ed:d948",
-    "49.207.193.58"
+    "49.207.193.58",
+    "105.103.251.182"
   ],
   "views": [
     {
@@ -63564,6 +63565,46 @@
       "timestamp": "2026-01-15T18:50:05.575Z",
       "ip": "103.4.220.252",
       "username": "sexhabibi"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-01-15T18:55:10.568Z",
+      "ip": "105.103.251.182",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt5886440",
+      "title": "tt5886440",
+      "timestamp": "2026-01-15T18:57:49.322Z",
+      "ip": "103.181.65.39",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt5886440",
+      "title": "tt5886440",
+      "timestamp": "2026-01-15T18:57:49.370Z",
+      "ip": "103.181.65.39",
+      "username": "mutti9"
+    },
+    {
+      "type": "series",
+      "id": "tt5189944:1:8",
+      "title": "tt5189944:1:8",
+      "timestamp": "2026-01-15T18:58:00.094Z",
+      "ip": "115.164.77.28",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt5189944:1:8",
+      "title": "tt5189944:1:8",
+      "timestamp": "2026-01-15T19:05:33.088Z",
+      "ip": "115.164.77.28",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -65158,10 +65199,10 @@
     },
     "103.181.65.39": {
       "type": "movie",
-      "id": "tt21272942",
-      "title": "tt21272942",
-      "username": "anonymous",
-      "lastActive": 1768502920601
+      "id": "tt5886440",
+      "title": "tt5886440",
+      "username": "mutti9",
+      "lastActive": 1768503469370
     },
     "102.216.66.70": {
       "type": "series",
@@ -65893,10 +65934,10 @@
     },
     "115.164.77.28": {
       "type": "series",
-      "id": "tt5189944:1:7",
-      "title": "tt5189944:1:7",
+      "id": "tt5189944:1:8",
+      "title": "tt5189944:1:8",
       "username": "anonymous",
-      "lastActive": 1768500116629
+      "lastActive": 1768503933088
     },
     "67.193.97.3": {
       "type": "movie",
@@ -66016,6 +66057,13 @@
       "title": "tt13207736:3:3",
       "username": "anonymous",
       "lastActive": 1768500831894
+    },
+    "105.103.251.182": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "anonymous",
+      "lastActive": 1768503310568
     }
   }
 }
