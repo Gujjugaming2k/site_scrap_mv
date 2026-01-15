@@ -1,5 +1,5 @@
 {
-  "totalViews": 7245,
+  "totalViews": 7248,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1786,7 +1786,9 @@
     "2405:201:6025:a88d:50a3:a7a1:7c21:e523",
     "152.58.62.94",
     "2c0e:6040:30a:6113:e407:9556:76f5:96b2",
-    "2409:40e2:20aa:8e11:2cdb:3457:5a8d:a0c3"
+    "2409:40e2:20aa:8e11:2cdb:3457:5a8d:a0c3",
+    "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+    "2409:40e0:101a:b77c:58cd:e5ff:fe11:4741"
   ],
   "views": [
     {
@@ -59738,6 +59740,30 @@
       "timestamp": "2026-01-15T02:41:05.455Z",
       "ip": "2409:40e2:20aa:8e11:2cdb:3457:5a8d:a0c3",
       "username": "adr7000"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:1:13",
+      "title": "tt0369179:1:13",
+      "timestamp": "2026-01-15T02:54:37.877Z",
+      "ip": "105.111.110.138",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-15T02:57:15.423Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt17543592:1:1",
+      "title": "tt17543592:1:1",
+      "timestamp": "2026-01-15T03:00:09.459Z",
+      "ip": "2409:40e0:101a:b77c:58cd:e5ff:fe11:4741",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -61409,10 +61435,10 @@
     },
     "105.111.110.138": {
       "type": "series",
-      "id": "tt0369179:1:12",
-      "title": "tt0369179:1:12",
+      "id": "tt0369179:1:13",
+      "title": "tt0369179:1:13",
       "username": "anonymous",
-      "lastActive": 1768444351826
+      "lastActive": 1768445677877
     },
     "143.44.197.145": {
       "type": "series",
@@ -61476,6 +61502,20 @@
       "title": "Bugonia",
       "username": "adr7000",
       "lastActive": 1768444865455
+    },
+    "2405:201:6820:a83c:bdef:55c1:5b2d:3408": {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "username": "demon18319",
+      "lastActive": 1768445835423
+    },
+    "2409:40e0:101a:b77c:58cd:e5ff:fe11:4741": {
+      "type": "series",
+      "id": "tt17543592:1:1",
+      "title": "tt17543592:1:1",
+      "username": "anonymous",
+      "lastActive": 1768446009459
     }
   }
 }
