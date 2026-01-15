@@ -1,5 +1,5 @@
 {
-  "totalViews": 7516,
+  "totalViews": 7522,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1848,7 +1848,8 @@
     "2409:40e5:19:6099:a8dc:54ff:fedd:652a",
     "2409:40d4:40db:ad3e:6104:f33a:1735:467a",
     "2409:40c1:3157:92cb:ac9f:bdff:fedb:23a",
-    "2a06:c701:98f3:1500:b5ce:cf03:5459:9251"
+    "2a06:c701:98f3:1500:b5ce:cf03:5459:9251",
+    "183.83.146.164"
   ],
   "views": [
     {
@@ -61968,6 +61969,54 @@
       "timestamp": "2026-01-15T13:08:51.945Z",
       "ip": "2a06:c701:98f3:1500:b5ce:cf03:5459:9251",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0351283",
+      "title": "Madagascar",
+      "timestamp": "2026-01-15T13:12:25.264Z",
+      "ip": "152.56.135.185",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:1",
+      "title": "tt31812476:2:1",
+      "timestamp": "2026-01-15T13:13:31.024Z",
+      "ip": "183.83.146.164",
+      "username": "imjk"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:2",
+      "title": "tt31812476:2:2",
+      "timestamp": "2026-01-15T13:14:04.206Z",
+      "ip": "183.83.146.164",
+      "username": "imjk"
+    },
+    {
+      "type": "movie",
+      "id": "tt1226837",
+      "title": "tt1226837",
+      "timestamp": "2026-01-15T13:14:45.705Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:5",
+      "title": "Death Note",
+      "timestamp": "2026-01-15T13:22:33.360Z",
+      "ip": "2409:40d4:40db:ad3e:6104:f33a:1735:467a",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1226837",
+      "title": "tt1226837",
+      "timestamp": "2026-01-15T13:24:36.497Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -63709,10 +63758,10 @@
     },
     "2405:201:6820:a83c:bdef:55c1:5b2d:3408": {
       "type": "movie",
-      "id": "tt14364480",
-      "title": "tt14364480",
+      "id": "tt1226837",
+      "title": "tt1226837",
       "username": "demon18319",
-      "lastActive": 1768448253216
+      "lastActive": 1768483476497
     },
     "2409:40e0:101a:b77c:58cd:e5ff:fe11:4741": {
       "type": "series",
@@ -64059,10 +64108,10 @@
     },
     "152.56.135.185": {
       "type": "movie",
-      "id": "tt15387182",
-      "title": "tt15387182",
+      "id": "tt0351283",
+      "title": "Madagascar",
       "username": "askchm",
-      "lastActive": 1768476490229
+      "lastActive": 1768482745264
     },
     "2401:4900:7789:3a70:5c18:5d43:4aa2:210b": {
       "type": "movie",
@@ -64122,10 +64171,10 @@
     },
     "2409:40d4:40db:ad3e:6104:f33a:1735:467a": {
       "type": "series",
-      "id": "tt0877057:1:4",
+      "id": "tt0877057:1:5",
       "title": "Death Note",
       "username": "anonymous",
-      "lastActive": 1768481981284
+      "lastActive": 1768483353360
     },
     "2409:40c1:3157:92cb:ac9f:bdff:fedb:23a": {
       "type": "series",
@@ -64140,6 +64189,13 @@
       "title": "tt3526078:3:2",
       "username": "anonymous",
       "lastActive": 1768482531945
+    },
+    "183.83.146.164": {
+      "type": "series",
+      "id": "tt31812476:2:2",
+      "title": "tt31812476:2:2",
+      "username": "imjk",
+      "lastActive": 1768482844206
     }
   }
 }
