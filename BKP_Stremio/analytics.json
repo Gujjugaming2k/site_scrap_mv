@@ -1,5 +1,5 @@
 {
-  "totalViews": 7444,
+  "totalViews": 7446,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1835,7 +1835,8 @@
     "191.7.95.132",
     "104.28.241.158,51.89.197.91",
     "49.36.81.187",
-    "2401:4900:1c54:c0ce:a510:27ca:4c17:8114"
+    "2401:4900:1c54:c0ce:a510:27ca:4c17:8114",
+    "2409:40e4:1098:e840:88b8:84c7:32b0:e256"
   ],
   "views": [
     {
@@ -61379,6 +61380,22 @@
       "timestamp": "2026-01-15T10:58:07.582Z",
       "ip": "182.77.76.8",
       "username": "thebatmanbyte"
+    },
+    {
+      "type": "movie",
+      "id": "tt27441481",
+      "title": "tt27441481",
+      "timestamp": "2026-01-15T11:06:25.838Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-01-15T11:15:28.395Z",
+      "ip": "2409:40e4:1098:e840:88b8:84c7:32b0:e256",
+      "username": "askchm"
     }
   ],
   "activeNow": {
@@ -61972,10 +61989,10 @@
     },
     "115.98.99.86": {
       "type": "movie",
-      "id": "tt15387182",
-      "title": "tt15387182",
+      "id": "tt27441481",
+      "title": "tt27441481",
       "username": "nothing_8888",
-      "lastActive": 1768399422395
+      "lastActive": 1768475185838
     },
     "152.56.156.0": {
       "type": "series",
@@ -63460,6 +63477,13 @@
       "title": "Dhurandhar",
       "username": "dillon_ka_shooter",
       "lastActive": 1768473805433
+    },
+    "2409:40e4:1098:e840:88b8:84c7:32b0:e256": {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "username": "askchm",
+      "lastActive": 1768475728395
     }
   }
 }
