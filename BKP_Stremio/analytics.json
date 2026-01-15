@@ -1,5 +1,5 @@
 {
-  "totalViews": 7522,
+  "totalViews": 7533,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1849,7 +1849,8 @@
     "2409:40d4:40db:ad3e:6104:f33a:1735:467a",
     "2409:40c1:3157:92cb:ac9f:bdff:fedb:23a",
     "2a06:c701:98f3:1500:b5ce:cf03:5459:9251",
-    "183.83.146.164"
+    "183.83.146.164",
+    "49.37.117.243"
   ],
   "views": [
     {
@@ -62017,6 +62018,94 @@
       "timestamp": "2026-01-15T13:24:36.497Z",
       "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
       "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt22091076:1:8",
+      "title": "tt22091076:1:8",
+      "timestamp": "2026-01-15T13:26:43.253Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "timestamp": "2026-01-15T13:27:16.990Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "timestamp": "2026-01-15T13:27:39.735Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt22091076:1:8",
+      "title": "tt22091076:1:8",
+      "timestamp": "2026-01-15T13:27:57.981Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt0351283",
+      "title": "Madagascar",
+      "timestamp": "2026-01-15T13:29:37.329Z",
+      "ip": "2409:40e4:1098:e840:88b8:84c7:32b0:e256",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt28230296",
+      "title": "tt28230296",
+      "timestamp": "2026-01-15T13:30:01.327Z",
+      "ip": "119.42.57.23",
+      "username": "amit suryavanshi"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-01-15T13:33:29.394Z",
+      "ip": "2409:40e4:1098:e840:39e5:35ff:968e:ba70",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:4",
+      "title": "tt30003786:4:4",
+      "timestamp": "2026-01-15T13:35:30.895Z",
+      "ip": "2409:40e4:1098:e840:88b8:84c7:32b0:e256",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt29927663",
+      "title": "tt29927663",
+      "timestamp": "2026-01-15T13:36:45.708Z",
+      "ip": "49.37.117.243",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt32820897",
+      "title": "tt32820897",
+      "timestamp": "2026-01-15T13:37:10.686Z",
+      "ip": "49.37.117.243",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt32820897",
+      "title": "tt32820897",
+      "timestamp": "2026-01-15T13:38:14.742Z",
+      "ip": "49.37.117.243",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -63757,11 +63846,11 @@
       "lastActive": 1768444865455
     },
     "2405:201:6820:a83c:bdef:55c1:5b2d:3408": {
-      "type": "movie",
-      "id": "tt1226837",
-      "title": "tt1226837",
+      "type": "series",
+      "id": "tt22091076:1:8",
+      "title": "tt22091076:1:8",
       "username": "demon18319",
-      "lastActive": 1768483476497
+      "lastActive": 1768483677981
     },
     "2409:40e0:101a:b77c:58cd:e5ff:fe11:4741": {
       "type": "series",
@@ -64100,11 +64189,11 @@
       "lastActive": 1768473805433
     },
     "2409:40e4:1098:e840:88b8:84c7:32b0:e256": {
-      "type": "movie",
-      "id": "tt15387182",
-      "title": "tt15387182",
+      "type": "series",
+      "id": "tt30003786:4:4",
+      "title": "tt30003786:4:4",
       "username": "askchm",
-      "lastActive": 1768475728395
+      "lastActive": 1768484130895
     },
     "152.56.135.185": {
       "type": "movie",
@@ -64139,7 +64228,7 @@
       "id": "tt26443597",
       "title": "tt26443597",
       "username": "askchm",
-      "lastActive": 1768481615429
+      "lastActive": 1768484009394
     },
     "2409:40d4:4035:9827:6104:f33a:1735:467a": {
       "type": "series",
@@ -64196,6 +64285,20 @@
       "title": "tt31812476:2:2",
       "username": "imjk",
       "lastActive": 1768482844206
+    },
+    "119.42.57.23": {
+      "type": "movie",
+      "id": "tt28230296",
+      "title": "tt28230296",
+      "username": "amit suryavanshi",
+      "lastActive": 1768483801327
+    },
+    "49.37.117.243": {
+      "type": "movie",
+      "id": "tt32820897",
+      "title": "tt32820897",
+      "username": "william097",
+      "lastActive": 1768484294742
     }
   }
 }
