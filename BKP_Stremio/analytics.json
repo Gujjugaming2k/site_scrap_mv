@@ -1,5 +1,5 @@
 {
-  "totalViews": 7642,
+  "totalViews": 7648,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1872,7 +1872,8 @@
     "67.193.97.3",
     "152.58.61.9",
     "183.171.242.193",
-    "103.125.163.193"
+    "103.125.163.193",
+    "89.189.91.90"
   ],
   "views": [
     {
@@ -63000,6 +63001,54 @@
       "timestamp": "2026-01-15T16:29:34.399Z",
       "ip": "103.125.163.193",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:5",
+      "title": "Fallout",
+      "timestamp": "2026-01-15T16:39:31.902Z",
+      "ip": "2600:1702:4a71:a80f:949f:59ce:8532:add4",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt5626028:6:6",
+      "title": "tt5626028:6:6",
+      "timestamp": "2026-01-15T16:43:01.543Z",
+      "ip": "89.189.91.90",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-15T16:43:05.540Z",
+      "ip": "94.156.30.102",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt22091076:2:3",
+      "title": "tt22091076:2:3",
+      "timestamp": "2026-01-15T16:43:51.305Z",
+      "ip": "122.167.97.49",
+      "username": "zindha"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-01-15T16:43:51.924Z",
+      "ip": "94.156.30.102",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt22091076:2:4",
+      "title": "tt22091076:2:4",
+      "timestamp": "2026-01-15T16:44:19.271Z",
+      "ip": "122.167.97.49",
+      "username": "zindha"
     }
   ],
   "activeNow": {
@@ -63561,7 +63610,7 @@
       "id": "tt12637874:2:5",
       "title": "Fallout",
       "username": "anonymous",
-      "lastActive": 1768409301748
+      "lastActive": 1768495171902
     },
     "135.0.192.28": {
       "type": "series",
@@ -65276,7 +65325,7 @@
       "id": "tt1187043",
       "title": "3 Idiots",
       "username": "b1jju",
-      "lastActive": 1768492779533
+      "lastActive": 1768495431924
     },
     "94.156.30.105": {
       "type": "movie",
@@ -65307,11 +65356,11 @@
       "lastActive": 1768490807218
     },
     "122.167.97.49": {
-      "type": "movie",
-      "id": "tt33500164",
-      "title": "tt33500164",
+      "type": "series",
+      "id": "tt22091076:2:4",
+      "title": "tt22091076:2:4",
       "username": "zindha",
-      "lastActive": 1768491503117
+      "lastActive": 1768495459271
     },
     "2409:40e6:16:d8:70c1:8bff:fe40:9835": {
       "type": "movie",
@@ -65361,6 +65410,13 @@
       "title": "Fallout",
       "username": "anonymous",
       "lastActive": 1768494574399
+    },
+    "89.189.91.90": {
+      "type": "series",
+      "id": "tt5626028:6:6",
+      "title": "tt5626028:6:6",
+      "username": "anonymous",
+      "lastActive": 1768495381543
     }
   }
 }
