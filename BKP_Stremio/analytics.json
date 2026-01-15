@@ -1,5 +1,5 @@
 {
-  "totalViews": 7203,
+  "totalViews": 7209,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1778,7 +1778,8 @@
     "2402:3a80:164e:f959:7779:b71f:ad8d:b378",
     "188.152.174.80",
     "105.111.110.138",
-    "143.44.197.145"
+    "143.44.197.145",
+    "2401:4900:88b9:a420:51fe:4d6a:9a94:9152"
   ],
   "views": [
     {
@@ -59394,6 +59395,54 @@
       "timestamp": "2026-01-15T00:30:54.964Z",
       "ip": "188.152.174.80",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2661044:7:12",
+      "title": "tt2661044:7:12",
+      "timestamp": "2026-01-15T00:45:10.693Z",
+      "ip": "2a02:8428:ad10:ae01:c13c:4186:8388:4d9",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-01-15T00:58:17.305Z",
+      "ip": "2401:4900:88b9:a420:51fe:4d6a:9a94:9152",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-01-15T00:58:18.842Z",
+      "ip": "80.211.133.129",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-15T00:58:37.049Z",
+      "ip": "2401:4900:88b9:a420:51fe:4d6a:9a94:9152",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-15T00:58:37.941Z",
+      "ip": "80.211.133.129",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:2",
+      "title": "tt35335046:1:2",
+      "timestamp": "2026-01-15T00:59:04.368Z",
+      "ip": "80.211.133.129",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -59924,10 +59973,10 @@
     },
     "80.211.133.129": {
       "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
+      "id": "tt35335046:1:2",
+      "title": "tt35335046:1:2",
       "username": "anonymous",
-      "lastActive": 1768409052578
+      "lastActive": 1768438744368
     },
     "203.192.255.46": {
       "type": "series",
@@ -60729,10 +60778,10 @@
     },
     "2a02:8428:ad10:ae01:c13c:4186:8388:4d9": {
       "type": "series",
-      "id": "tt2661044:7:11",
-      "title": "tt2661044:7:11",
+      "id": "tt2661044:7:12",
+      "title": "tt2661044:7:12",
       "username": "anonymous",
-      "lastActive": 1768435349000
+      "lastActive": 1768437910693
     },
     "2401:4900:1cbd:d2d9:e58c:bf7d:ce21:d1cd": {
       "type": "series",
@@ -61076,6 +61125,13 @@
       "title": "Fallout",
       "username": "anonymous",
       "lastActive": 1768436952359
+    },
+    "2401:4900:88b9:a420:51fe:4d6a:9a94:9152": {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "username": "b1jju",
+      "lastActive": 1768438717049
     }
   }
 }
