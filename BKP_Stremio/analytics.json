@@ -1,5 +1,5 @@
 {
-  "totalViews": 7274,
+  "totalViews": 7277,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -59978,6 +59978,30 @@
       "timestamp": "2026-01-15T04:53:43.917Z",
       "ip": "202.179.159.154",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:1:19",
+      "title": "tt0369179:1:19",
+      "timestamp": "2026-01-15T05:07:42.763Z",
+      "ip": "105.111.110.138",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt28623191:1:4",
+      "title": "tt28623191:1:4",
+      "timestamp": "2026-01-15T05:09:45.869Z",
+      "ip": "2409:40e6:5:b8b4:d492:f8ff:fe80:7c30",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:2",
+      "title": "Death Note",
+      "timestamp": "2026-01-15T05:11:42.451Z",
+      "ip": "2409:40d4:40db:ad3e:6c7f:3bce:2f80:cad9",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -61649,10 +61673,10 @@
     },
     "105.111.110.138": {
       "type": "series",
-      "id": "tt0369179:1:18",
-      "title": "tt0369179:1:18",
+      "id": "tt0369179:1:19",
+      "title": "tt0369179:1:19",
       "username": "anonymous",
-      "lastActive": 1768452228200
+      "lastActive": 1768453662763
     },
     "143.44.197.145": {
       "type": "series",
@@ -61746,11 +61770,11 @@
       "lastActive": 1768448889911
     },
     "2409:40e6:5:b8b4:d492:f8ff:fe80:7c30": {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
+      "type": "series",
+      "id": "tt28623191:1:4",
+      "title": "tt28623191:1:4",
       "username": "nabakun24",
-      "lastActive": 1768449650194
+      "lastActive": 1768453785869
     },
     "64.43.168.186": {
       "type": "series",
@@ -61764,7 +61788,7 @@
       "id": "tt0877057:1:2",
       "title": "Death Note",
       "username": "anonymous",
-      "lastActive": 1768452136133
+      "lastActive": 1768453902451
     },
     "202.179.159.154": {
       "type": "series",
