@@ -1,5 +1,5 @@
 {
-  "totalViews": 7790,
+  "totalViews": 7793,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -64205,6 +64205,30 @@
       "timestamp": "2026-01-15T21:38:25.151Z",
       "ip": "115.164.77.28",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-15T21:59:30.626Z",
+      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt1520211:9:9",
+      "title": "tt1520211:9:9",
+      "timestamp": "2026-01-15T21:59:52.844Z",
+      "ip": "41.103.119.116",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt5189944:1:14",
+      "title": "tt5189944:1:14",
+      "timestamp": "2026-01-15T22:08:29.938Z",
+      "ip": "115.164.77.28",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -65707,11 +65731,11 @@
       "lastActive": 1768413323827
     },
     "2405:201:300c:213:1ef4:3fff:fe0f:1b78": {
-      "type": "series",
-      "id": "tt2356777:4:1",
-      "title": "tt2356777:4:1",
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "gendaswammy",
-      "lastActive": 1768512686635
+      "lastActive": 1768514370626
     },
     "14.139.226.3": {
       "type": "series",
@@ -66534,10 +66558,10 @@
     },
     "115.164.77.28": {
       "type": "series",
-      "id": "tt5189944:1:13",
-      "title": "tt5189944:1:13",
+      "id": "tt5189944:1:14",
+      "title": "tt5189944:1:14",
       "username": "anonymous",
-      "lastActive": 1768513105151
+      "lastActive": 1768514909938
     },
     "67.193.97.3": {
       "type": "movie",
@@ -66709,10 +66733,10 @@
     },
     "41.103.119.116": {
       "type": "series",
-      "id": "tt1520211:9:8",
-      "title": "tt1520211:9:8",
+      "id": "tt1520211:9:9",
+      "title": "tt1520211:9:9",
       "username": "anonymous",
-      "lastActive": 1768511554342
+      "lastActive": 1768514392844
     },
     "154.208.49.96": {
       "type": "series",
