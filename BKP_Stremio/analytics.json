@@ -1,5 +1,5 @@
 {
-  "totalViews": 7626,
+  "totalViews": 7632,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1867,7 +1867,9 @@
     "106.200.83.225",
     "122.167.97.49",
     "2409:40e6:16:d8:70c1:8bff:fe40:9835",
-    "103.4.220.252"
+    "103.4.220.252",
+    "115.164.77.28",
+    "67.193.97.3"
   ],
   "views": [
     {
@@ -62867,6 +62869,54 @@
       "timestamp": "2026-01-15T16:00:58.360Z",
       "ip": "103.4.220.252",
       "username": "sexhabibi"
+    },
+    {
+      "type": "movie",
+      "id": "tt0499375",
+      "title": "tt0499375",
+      "timestamp": "2026-01-15T16:03:17.604Z",
+      "ip": "104.28.241.157,51.89.197.91",
+      "username": "switchoff0099"
+    },
+    {
+      "type": "series",
+      "id": "tt5189944:1:5",
+      "title": "tt5189944:1:5",
+      "timestamp": "2026-01-15T16:09:53.664Z",
+      "ip": "115.164.77.28",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt33028778",
+      "title": "tt33028778",
+      "timestamp": "2026-01-15T16:10:49.723Z",
+      "ip": "67.193.97.3",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt28230296",
+      "title": "tt28230296",
+      "timestamp": "2026-01-15T16:12:25.228Z",
+      "ip": "103.46.200.248",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt5189944:1:5",
+      "title": "tt5189944:1:5",
+      "timestamp": "2026-01-15T16:13:04.358Z",
+      "ip": "115.164.77.28",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt38807583",
+      "title": "tt38807583",
+      "timestamp": "2026-01-15T16:16:25.864Z",
+      "ip": "104.28.209.158,51.89.197.91",
+      "username": "switchoff0099"
     }
   ],
   "activeNow": {
@@ -64825,17 +64875,17 @@
     },
     "104.28.209.158,51.89.197.91": {
       "type": "movie",
-      "id": "tt34762360",
-      "title": "tt34762360",
+      "id": "tt38807583",
+      "title": "tt38807583",
       "username": "switchoff0099",
-      "lastActive": 1768474335580
+      "lastActive": 1768493785864
     },
     "104.28.241.157,51.89.197.91": {
       "type": "movie",
       "id": "tt0499375",
       "title": "tt0499375",
       "username": "switchoff0099",
-      "lastActive": 1768491491512
+      "lastActive": 1768492997604
     },
     "2001:4490:4e65:6f29:7230:1479:966d:a731": {
       "type": "movie",
@@ -65126,10 +65176,10 @@
     },
     "103.46.200.248": {
       "type": "movie",
-      "id": "tt33028778",
-      "title": "tt33028778",
+      "id": "tt28230296",
+      "title": "tt28230296",
       "username": "brosportses",
-      "lastActive": 1768492354621
+      "lastActive": 1768493545228
     },
     "2401:4900:1f3a:589d:cdcf:c:15c0:a703": {
       "type": "series",
@@ -65193,6 +65243,20 @@
       "title": "tt0364845:17:2",
       "username": "sexhabibi",
       "lastActive": 1768492858360
+    },
+    "115.164.77.28": {
+      "type": "series",
+      "id": "tt5189944:1:5",
+      "title": "tt5189944:1:5",
+      "username": "anonymous",
+      "lastActive": 1768493584358
+    },
+    "67.193.97.3": {
+      "type": "movie",
+      "id": "tt33028778",
+      "title": "tt33028778",
+      "username": "anonymous",
+      "lastActive": 1768493449723
     }
   }
 }
