@@ -1,5 +1,5 @@
 {
-  "totalViews": 7808,
+  "totalViews": 7809,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -64354,6 +64354,14 @@
       "timestamp": "2026-01-15T23:26:00.414Z",
       "ip": "41.104.187.63",
       "username": "hkhhjj"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:1:22",
+      "title": "tt0369179:1:22",
+      "timestamp": "2026-01-15T23:31:50.972Z",
+      "ip": "154.254.124.247",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -66893,10 +66901,10 @@
     },
     "154.254.124.247": {
       "type": "series",
-      "id": "tt0369179:1:21",
-      "title": "tt0369179:1:21",
+      "id": "tt0369179:1:22",
+      "title": "tt0369179:1:22",
       "username": "anonymous",
-      "lastActive": 1768518661520
+      "lastActive": 1768519910972
     },
     "196.176.146.176": {
       "type": "movie",
