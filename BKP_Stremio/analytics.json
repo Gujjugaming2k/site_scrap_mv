@@ -1,5 +1,5 @@
 {
-  "totalViews": 7401,
+  "totalViews": 7403,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1829,7 +1829,9 @@
     "152.59.18.192",
     "103.38.204.130",
     "2405:201:203e:b01c:4c12:3c1e:ccf9:5f96",
-    "2401:4900:5f9f:1a01:a16e:6d17:3334:caa5"
+    "2401:4900:5f9f:1a01:a16e:6d17:3334:caa5",
+    "194.120.133.105",
+    "2402:8100:273d:3164:2d77:4cdf:7139:bcd1"
   ],
   "views": [
     {
@@ -61029,6 +61031,22 @@
       "timestamp": "2026-01-15T09:42:28.821Z",
       "ip": "2401:4900:5f9f:1a01:a16e:6d17:3334:caa5",
       "username": "reaper54x"
+    },
+    {
+      "type": "series",
+      "id": "tt0085106:1:1",
+      "title": "tt0085106:1:1",
+      "timestamp": "2026-01-15T09:58:22.046Z",
+      "ip": "194.120.133.105",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt3019620",
+      "title": "tt3019620",
+      "timestamp": "2026-01-15T10:00:34.572Z",
+      "ip": "2402:8100:273d:3164:2d77:4cdf:7139:bcd1",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -63068,6 +63086,20 @@
       "title": "tt37896655",
       "username": "reaper54x",
       "lastActive": 1768470148821
+    },
+    "194.120.133.105": {
+      "type": "series",
+      "id": "tt0085106:1:1",
+      "title": "tt0085106:1:1",
+      "username": "anonymous",
+      "lastActive": 1768471102046
+    },
+    "2402:8100:273d:3164:2d77:4cdf:7139:bcd1": {
+      "type": "movie",
+      "id": "tt3019620",
+      "title": "tt3019620",
+      "username": "anonymous",
+      "lastActive": 1768471234572
     }
   }
 }
