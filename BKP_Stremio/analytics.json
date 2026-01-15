@@ -1,5 +1,5 @@
 {
-  "totalViews": 7504,
+  "totalViews": 7516,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1843,7 +1843,12 @@
     "103.171.246.245",
     "2409:40e4:1098:e840:39e5:35ff:968e:ba70",
     "2409:40d4:4035:9827:6104:f33a:1735:467a",
-    "2401:4900:5f9f:1a01:f1a3:1f1:50b5:6b94"
+    "2401:4900:5f9f:1a01:f1a3:1f1:50b5:6b94",
+    "49.42.199.68",
+    "2409:40e5:19:6099:a8dc:54ff:fedd:652a",
+    "2409:40d4:40db:ad3e:6104:f33a:1735:467a",
+    "2409:40c1:3157:92cb:ac9f:bdff:fedb:23a",
+    "2a06:c701:98f3:1500:b5ce:cf03:5459:9251"
   ],
   "views": [
     {
@@ -61867,6 +61872,102 @@
       "timestamp": "2026-01-15T12:53:35.429Z",
       "ip": "2409:40e4:1098:e840:39e5:35ff:968e:ba70",
       "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt0468569",
+      "title": "The Dark Knight",
+      "timestamp": "2026-01-15T12:55:45.186Z",
+      "ip": "49.42.199.68",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt21433690:1:1",
+      "title": "tt21433690:1:1",
+      "timestamp": "2026-01-15T12:58:20.274Z",
+      "ip": "2409:40e5:19:6099:a8dc:54ff:fedd:652a",
+      "username": "ig_sirmour"
+    },
+    {
+      "type": "series",
+      "id": "tt21433690:1:2",
+      "title": "tt21433690:1:2",
+      "timestamp": "2026-01-15T12:59:18.768Z",
+      "ip": "2409:40e5:19:6099:a8dc:54ff:fedd:652a",
+      "username": "ig_sirmour"
+    },
+    {
+      "type": "series",
+      "id": "tt21433690:1:3",
+      "title": "tt21433690:1:3",
+      "timestamp": "2026-01-15T12:59:39.395Z",
+      "ip": "2409:40e5:19:6099:a8dc:54ff:fedd:652a",
+      "username": "ig_sirmour"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:4",
+      "title": "Death Note",
+      "timestamp": "2026-01-15T12:59:41.284Z",
+      "ip": "2409:40d4:40db:ad3e:6104:f33a:1735:467a",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:4",
+      "title": "tt19244304:1:4",
+      "timestamp": "2026-01-15T13:00:31.884Z",
+      "ip": "2401:4900:84d1:10dc:e883:38ff:fe9a:e045",
+      "username": "pikazesty"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:4",
+      "title": "tt19244304:1:4",
+      "timestamp": "2026-01-15T13:00:32.126Z",
+      "ip": "2401:4900:84d1:10dc:e883:38ff:fe9a:e045",
+      "username": "pikazesty"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:4",
+      "title": "tt19244304:1:4",
+      "timestamp": "2026-01-15T13:01:12.331Z",
+      "ip": "2401:4900:84d1:10dc:e883:38ff:fe9a:e045",
+      "username": "pikazesty"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:4",
+      "title": "tt19244304:1:4",
+      "timestamp": "2026-01-15T13:01:27.030Z",
+      "ip": "2401:4900:84d1:10dc:e883:38ff:fe9a:e045",
+      "username": "pikazesty"
+    },
+    {
+      "type": "series",
+      "id": "tt14169960:1:1",
+      "title": "All of Us Are Dead",
+      "timestamp": "2026-01-15T13:04:45.953Z",
+      "ip": "2409:40c1:3157:92cb:ac9f:bdff:fedb:23a",
+      "username": "tips9694"
+    },
+    {
+      "type": "series",
+      "id": "tt14169960:1:2",
+      "title": "All of Us Are Dead",
+      "timestamp": "2026-01-15T13:05:35.970Z",
+      "ip": "2409:40c1:3157:92cb:ac9f:bdff:fedb:23a",
+      "username": "tips9694"
+    },
+    {
+      "type": "series",
+      "id": "tt3526078:3:2",
+      "title": "tt3526078:3:2",
+      "timestamp": "2026-01-15T13:08:51.945Z",
+      "ip": "2a06:c701:98f3:1500:b5ce:cf03:5459:9251",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -63723,7 +63824,7 @@
       "id": "tt19244304:1:4",
       "title": "tt19244304:1:4",
       "username": "pikazesty",
-      "lastActive": 1768480243128
+      "lastActive": 1768482087030
     },
     "182.69.179.223": {
       "type": "series",
@@ -64004,6 +64105,41 @@
       "title": "tt30387012",
       "username": "reaper54x",
       "lastActive": 1768481389892
+    },
+    "49.42.199.68": {
+      "type": "movie",
+      "id": "tt0468569",
+      "title": "The Dark Knight",
+      "username": "anonymous",
+      "lastActive": 1768481745186
+    },
+    "2409:40e5:19:6099:a8dc:54ff:fedd:652a": {
+      "type": "series",
+      "id": "tt21433690:1:3",
+      "title": "tt21433690:1:3",
+      "username": "ig_sirmour",
+      "lastActive": 1768481979395
+    },
+    "2409:40d4:40db:ad3e:6104:f33a:1735:467a": {
+      "type": "series",
+      "id": "tt0877057:1:4",
+      "title": "Death Note",
+      "username": "anonymous",
+      "lastActive": 1768481981284
+    },
+    "2409:40c1:3157:92cb:ac9f:bdff:fedb:23a": {
+      "type": "series",
+      "id": "tt14169960:1:2",
+      "title": "All of Us Are Dead",
+      "username": "tips9694",
+      "lastActive": 1768482335970
+    },
+    "2a06:c701:98f3:1500:b5ce:cf03:5459:9251": {
+      "type": "series",
+      "id": "tt3526078:3:2",
+      "title": "tt3526078:3:2",
+      "username": "anonymous",
+      "lastActive": 1768482531945
     }
   }
 }
