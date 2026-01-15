@@ -1,5 +1,5 @@
 {
-  "totalViews": 7669,
+  "totalViews": 7676,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1875,7 +1875,8 @@
     "103.125.163.193",
     "89.189.91.90",
     "139.5.196.103",
-    "2001:8f8:1c61:10e:6d22:2f71:69c0:7c12"
+    "2001:8f8:1c61:10e:6d22:2f71:69c0:7c12",
+    "41.96.197.38"
   ],
   "views": [
     {
@@ -63219,6 +63220,62 @@
       "timestamp": "2026-01-15T17:03:23.780Z",
       "ip": "89.189.91.90",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:15",
+      "title": "tt17069148:1:15",
+      "timestamp": "2026-01-15T17:04:17.425Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:16",
+      "title": "tt17069148:1:16",
+      "timestamp": "2026-01-15T17:04:24.146Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt2166616:1:2",
+      "title": "tt2166616:1:2",
+      "timestamp": "2026-01-15T17:09:07.223Z",
+      "ip": "41.96.197.38",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:6",
+      "title": "tt35335046:1:6",
+      "timestamp": "2026-01-15T17:11:10.953Z",
+      "ip": "2401:4900:aaf3:8ef6:c404:f1e2:3f38:fbec",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt2166616:1:1",
+      "title": "tt2166616:1:1",
+      "timestamp": "2026-01-15T17:12:33.301Z",
+      "ip": "41.96.197.38",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt5189944:1:5",
+      "title": "tt5189944:1:5",
+      "timestamp": "2026-01-15T17:12:51.040Z",
+      "ip": "115.164.77.28",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt5189944:1:6",
+      "title": "tt5189944:1:6",
+      "timestamp": "2026-01-15T17:16:36.535Z",
+      "ip": "115.164.77.28",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -63332,7 +63389,7 @@
       "id": "tt17069148:1:16",
       "title": "tt17069148:1:16",
       "username": "gaendaswami",
-      "lastActive": 1768495928498
+      "lastActive": 1768496664146
     },
     "182.77.73.122": {
       "type": "series",
@@ -63997,7 +64054,7 @@
       "id": "tt35335046:1:6",
       "title": "tt35335046:1:6",
       "username": "vflix1993",
-      "lastActive": 1768494498293
+      "lastActive": 1768497070953
     },
     "152.59.148.30": {
       "type": "movie",
@@ -65551,7 +65608,7 @@
       "id": "tt5189944:1:6",
       "title": "tt5189944:1:6",
       "username": "anonymous",
-      "lastActive": 1768496333047
+      "lastActive": 1768497396535
     },
     "67.193.97.3": {
       "type": "movie",
@@ -65608,6 +65665,13 @@
       "title": "Harry Potter and the Philosopher's Stone",
       "username": "anonymous",
       "lastActive": 1768496438194
+    },
+    "41.96.197.38": {
+      "type": "series",
+      "id": "tt2166616:1:1",
+      "title": "tt2166616:1:1",
+      "username": "anonymous",
+      "lastActive": 1768497153301
     }
   }
 }
