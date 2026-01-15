@@ -1,5 +1,5 @@
 {
-  "totalViews": 7260,
+  "totalViews": 7263,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1789,7 +1789,9 @@
     "2409:40e2:20aa:8e11:2cdb:3457:5a8d:a0c3",
     "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
     "2409:40e0:101a:b77c:58cd:e5ff:fe11:4741",
-    "2409:40c4:10b6:46a1:d8ba:6cff:fe51:322d"
+    "2409:40c4:10b6:46a1:d8ba:6cff:fe51:322d",
+    "42.106.184.165",
+    "2409:40e6:5:b8b4:d492:f8ff:fe80:7c30"
   ],
   "views": [
     {
@@ -59861,6 +59863,30 @@
       "timestamp": "2026-01-15T03:37:33.216Z",
       "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt32881480",
+      "title": "tt32881480",
+      "timestamp": "2026-01-15T03:48:09.911Z",
+      "ip": "42.106.184.165",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-15T04:00:50.194Z",
+      "ip": "2409:40e6:5:b8b4:d492:f8ff:fe80:7c30",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:1:16",
+      "title": "tt0369179:1:16",
+      "timestamp": "2026-01-15T04:00:52.601Z",
+      "ip": "105.111.110.138",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -61532,10 +61558,10 @@
     },
     "105.111.110.138": {
       "type": "series",
-      "id": "tt0369179:1:15",
-      "title": "tt0369179:1:15",
+      "id": "tt0369179:1:16",
+      "title": "tt0369179:1:16",
       "username": "anonymous",
-      "lastActive": 1768448218810
+      "lastActive": 1768449652601
     },
     "143.44.197.145": {
       "type": "series",
@@ -61620,6 +61646,20 @@
       "title": "Stranger Things",
       "username": "b1jju",
       "lastActive": 1768447820305
+    },
+    "42.106.184.165": {
+      "type": "movie",
+      "id": "tt32881480",
+      "title": "tt32881480",
+      "username": "anonymous",
+      "lastActive": 1768448889911
+    },
+    "2409:40e6:5:b8b4:d492:f8ff:fe80:7c30": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "nabakun24",
+      "lastActive": 1768449650194
     }
   }
 }
