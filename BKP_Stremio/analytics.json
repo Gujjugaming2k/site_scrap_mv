@@ -1,5 +1,5 @@
 {
-  "totalViews": 7553,
+  "totalViews": 7559,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1851,7 +1851,11 @@
     "2a06:c701:98f3:1500:b5ce:cf03:5459:9251",
     "183.83.146.164",
     "49.37.117.243",
-    "2401:4900:88b8:f165:2e2a:9d59:331f:776b"
+    "2401:4900:88b8:f165:2e2a:9d59:331f:776b",
+    "106.202.53.237",
+    "2401:4900:7dd1:3a02:4cb6:fcff:fe40:b973",
+    "49.42.205.213",
+    "2402:e280:3e71:368:e2e7:a723:9427:c21"
   ],
   "views": [
     {
@@ -62267,6 +62271,54 @@
       "timestamp": "2026-01-15T14:09:49.920Z",
       "ip": "2401:4900:84d1:10dc:e883:38ff:fe9a:e045",
       "username": "pikazesty"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-15T14:13:05.658Z",
+      "ip": "106.202.53.237",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt14142060",
+      "title": "tt14142060",
+      "timestamp": "2026-01-15T14:15:08.939Z",
+      "ip": "2401:4900:7dd1:3a02:4cb6:fcff:fe40:b973",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-15T14:16:08.004Z",
+      "ip": "106.202.53.237",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4786824:2:7",
+      "title": "tt4786824:2:7",
+      "timestamp": "2026-01-15T14:17:47.698Z",
+      "ip": "49.42.205.213",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:3",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-15T14:23:05.767Z",
+      "ip": "106.202.53.237",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-15T14:23:35.976Z",
+      "ip": "2402:e280:3e71:368:e2e7:a723:9427:c21",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -64474,6 +64526,34 @@
       "title": "tt0108778:3:1",
       "username": "anonymous050100",
       "lastActive": 1768486057180
+    },
+    "106.202.53.237": {
+      "type": "series",
+      "id": "tt4574334:5:3",
+      "title": "Stranger Things",
+      "username": "anonymous",
+      "lastActive": 1768486985767
+    },
+    "2401:4900:7dd1:3a02:4cb6:fcff:fe40:b973": {
+      "type": "movie",
+      "id": "tt14142060",
+      "title": "tt14142060",
+      "username": "chetan_b2",
+      "lastActive": 1768486508939
+    },
+    "49.42.205.213": {
+      "type": "series",
+      "id": "tt4786824:2:7",
+      "title": "tt4786824:2:7",
+      "username": "anonymous",
+      "lastActive": 1768486667698
+    },
+    "2402:e280:3e71:368:e2e7:a723:9427:c21": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "anonymous",
+      "lastActive": 1768487015976
     }
   }
 }
