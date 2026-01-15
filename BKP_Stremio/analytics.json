@@ -1,5 +1,5 @@
 {
-  "totalViews": 7278,
+  "totalViews": 7280,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -60010,6 +60010,22 @@
       "timestamp": "2026-01-15T05:28:53.585Z",
       "ip": "105.111.110.138",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:3",
+      "title": "Death Note",
+      "timestamp": "2026-01-15T05:43:06.195Z",
+      "ip": "2409:40d4:40db:ad3e:6c7f:3bce:2f80:cad9",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1934231",
+      "title": "tt1934231",
+      "timestamp": "2026-01-15T05:49:02.163Z",
+      "ip": "64.43.168.186",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -61785,18 +61801,18 @@
       "lastActive": 1768453785869
     },
     "64.43.168.186": {
-      "type": "series",
-      "id": "tt35335046:1:4",
-      "title": "tt35335046:1:4",
+      "type": "movie",
+      "id": "tt1934231",
+      "title": "tt1934231",
       "username": "vflix1993",
-      "lastActive": 1768451722314
+      "lastActive": 1768456142163
     },
     "2409:40d4:40db:ad3e:6c7f:3bce:2f80:cad9": {
       "type": "series",
-      "id": "tt0877057:1:2",
+      "id": "tt0877057:1:3",
       "title": "Death Note",
       "username": "anonymous",
-      "lastActive": 1768453902451
+      "lastActive": 1768455786195
     },
     "202.179.159.154": {
       "type": "series",
