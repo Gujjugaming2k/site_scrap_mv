@@ -1,5 +1,5 @@
 {
-  "totalViews": 7231,
+  "totalViews": 7239,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1783,7 +1783,9 @@
     "197.211.63.77",
     "2409:4085:aec1:f33c:e22a:21cb:7eb2:d3f0",
     "64.238.204.203",
-    "2405:201:6025:a88d:50a3:a7a1:7c21:e523"
+    "2405:201:6025:a88d:50a3:a7a1:7c21:e523",
+    "152.58.62.94",
+    "2c0e:6040:30a:6113:e407:9556:76f5:96b2"
   ],
   "views": [
     {
@@ -59623,6 +59625,70 @@
       "timestamp": "2026-01-15T01:57:43.287Z",
       "ip": "2405:201:6025:a88d:50a3:a7a1:7c21:e523",
       "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt28083456",
+      "title": "tt28083456",
+      "timestamp": "2026-01-15T02:02:27.774Z",
+      "ip": "64.238.204.203",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt36491653",
+      "title": "tt36491653",
+      "timestamp": "2026-01-15T02:04:48.682Z",
+      "ip": "64.238.204.203",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt35727678",
+      "title": "tt35727678",
+      "timestamp": "2026-01-15T02:06:05.970Z",
+      "ip": "152.58.62.94",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-15T02:06:19.662Z",
+      "ip": "152.58.62.94",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-15T02:06:33.990Z",
+      "ip": "152.58.62.94",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-15T02:08:30.344Z",
+      "ip": "152.58.62.94",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:1:11",
+      "title": "tt0369179:1:11",
+      "timestamp": "2026-01-15T02:10:14.750Z",
+      "ip": "105.111.110.138",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-01-15T02:11:40.206Z",
+      "ip": "2c0e:6040:30a:6113:e407:9556:76f5:96b2",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -61294,10 +61360,10 @@
     },
     "105.111.110.138": {
       "type": "series",
-      "id": "tt0369179:1:9",
-      "title": "tt0369179:1:9",
+      "id": "tt0369179:1:11",
+      "title": "tt0369179:1:11",
       "username": "anonymous",
-      "lastActive": 1768440108983
+      "lastActive": 1768443014750
     },
     "143.44.197.145": {
       "type": "series",
@@ -61328,11 +61394,11 @@
       "lastActive": 1768440665997
     },
     "64.238.204.203": {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
+      "type": "movie",
+      "id": "tt36491653",
+      "title": "tt36491653",
       "username": "anonymous",
-      "lastActive": 1768442159015
+      "lastActive": 1768442688682
     },
     "2405:201:6025:a88d:50a3:a7a1:7c21:e523": {
       "type": "movie",
@@ -61340,6 +61406,20 @@
       "title": "Black Clover: Sword of the Wizard King",
       "username": "infinityseeker",
       "lastActive": 1768442263287
+    },
+    "152.58.62.94": {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "username": "anonymous",
+      "lastActive": 1768442910344
+    },
+    "2c0e:6040:30a:6113:e407:9556:76f5:96b2": {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "username": "anonymous",
+      "lastActive": 1768443100206
     }
   }
 }
