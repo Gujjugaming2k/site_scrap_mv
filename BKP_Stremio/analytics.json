@@ -1,5 +1,5 @@
 {
-  "totalViews": 7371,
+  "totalViews": 7386,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1821,7 +1821,13 @@
     "104.28.209.158,51.89.197.91",
     "104.28.241.157,51.89.197.91",
     "2001:4490:4e65:6f29:7230:1479:966d:a731",
-    "49.36.66.134"
+    "49.36.66.134",
+    "104.28.209.157,51.89.197.91",
+    "2401:4900:8148:eff2::e3c:1733",
+    "49.42.203.126",
+    "2401:4900:8f54:2fa8:95b2:a984:c6b6:6ee8",
+    "152.59.18.192",
+    "103.38.204.130"
   ],
   "views": [
     {
@@ -60781,6 +60787,126 @@
       "timestamp": "2026-01-15T08:46:31.349Z",
       "ip": "2401:4900:ae46:a971:6951:c7f9:3011:c471",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt3863552",
+      "title": "tt3863552",
+      "timestamp": "2026-01-15T08:47:35.935Z",
+      "ip": "104.28.209.157,51.89.197.91",
+      "username": "switchoff0099"
+    },
+    {
+      "type": "movie",
+      "id": "tt3863552",
+      "title": "tt3863552",
+      "timestamp": "2026-01-15T08:48:41.725Z",
+      "ip": "104.28.209.157,51.89.197.91",
+      "username": "switchoff0099"
+    },
+    {
+      "type": "movie",
+      "id": "tt6580564",
+      "title": "tt6580564",
+      "timestamp": "2026-01-15T08:50:15.385Z",
+      "ip": "104.28.209.157,51.89.197.91",
+      "username": "switchoff0099"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:4",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-15T08:53:13.013Z",
+      "ip": "2401:4900:8148:eff2::e3c:1733",
+      "username": "abhi231511"
+    },
+    {
+      "type": "series",
+      "id": "tt4786824:2:5",
+      "title": "tt4786824:2:5",
+      "timestamp": "2026-01-15T08:53:41.324Z",
+      "ip": "49.42.203.126",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-15T08:57:42.597Z",
+      "ip": "2401:4900:8f54:2fa8:95b2:a984:c6b6:6ee8",
+      "username": "redhat2199"
+    },
+    {
+      "type": "series",
+      "id": "tt0364845:16:23",
+      "title": "tt0364845:16:23",
+      "timestamp": "2026-01-15T08:58:30.453Z",
+      "ip": "59.152.80.69",
+      "username": "sexhabibi"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-15T08:58:38.478Z",
+      "ip": "2401:4900:8f54:2fa8:95b2:a984:c6b6:6ee8",
+      "username": "redhat2199"
+    },
+    {
+      "type": "series",
+      "id": "tt39227709",
+      "title": "tt39227709",
+      "timestamp": "2026-01-15T08:59:20.249Z",
+      "ip": "2401:4900:8f54:2fa8:95b2:a984:c6b6:6ee8",
+      "username": "redhat2199"
+    },
+    {
+      "type": "movie",
+      "id": "tt22022452",
+      "title": "Inside Out 2",
+      "timestamp": "2026-01-15T08:59:51.451Z",
+      "ip": "2401:4900:8f54:2fa8:95b2:a984:c6b6:6ee8",
+      "username": "redhat2199"
+    },
+    {
+      "type": "movie",
+      "id": "tt14539740",
+      "title": "Godzilla x Kong: The New Empire",
+      "timestamp": "2026-01-15T08:59:57.985Z",
+      "ip": "2401:4900:8f54:2fa8:95b2:a984:c6b6:6ee8",
+      "username": "redhat2199"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-15T09:00:18.299Z",
+      "ip": "2401:4900:8f54:2fa8:95b2:a984:c6b6:6ee8",
+      "username": "redhat2199"
+    },
+    {
+      "type": "series",
+      "id": "tt10795658:3:1",
+      "title": "Alice in Borderland",
+      "timestamp": "2026-01-15T09:00:21.802Z",
+      "ip": "152.59.18.192",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt10795658:3:1",
+      "title": "Alice in Borderland",
+      "timestamp": "2026-01-15T09:01:02.820Z",
+      "ip": "103.38.204.130",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt10795658:3:2",
+      "title": "Alice in Borderland",
+      "timestamp": "2026-01-15T09:02:34.649Z",
+      "ip": "103.38.204.130",
+      "username": "pingmenoone"
     }
   ],
   "activeNow": {
@@ -61493,10 +61619,10 @@
     },
     "59.152.80.69": {
       "type": "series",
-      "id": "tt39013436:1:2",
-      "title": "tt39013436:1:2",
+      "id": "tt0364845:16:23",
+      "title": "tt0364845:16:23",
       "username": "sexhabibi",
-      "lastActive": 1768375625340
+      "lastActive": 1768467510453
     },
     "2401:4900:1c5e:4184:cbbc:98f3:f54b:f5a1": {
       "type": "movie",
@@ -62764,6 +62890,48 @@
       "title": "tt35674970:1:1",
       "username": "pingmenoone",
       "lastActive": 1768466620127
+    },
+    "104.28.209.157,51.89.197.91": {
+      "type": "movie",
+      "id": "tt6580564",
+      "title": "tt6580564",
+      "username": "switchoff0099",
+      "lastActive": 1768467015385
+    },
+    "2401:4900:8148:eff2::e3c:1733": {
+      "type": "series",
+      "id": "tt0944947:1:4",
+      "title": "Game of Thrones",
+      "username": "abhi231511",
+      "lastActive": 1768467193013
+    },
+    "49.42.203.126": {
+      "type": "series",
+      "id": "tt4786824:2:5",
+      "title": "tt4786824:2:5",
+      "username": "anonymous",
+      "lastActive": 1768467221324
+    },
+    "2401:4900:8f54:2fa8:95b2:a984:c6b6:6ee8": {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "username": "redhat2199",
+      "lastActive": 1768467618299
+    },
+    "152.59.18.192": {
+      "type": "series",
+      "id": "tt10795658:3:1",
+      "title": "Alice in Borderland",
+      "username": "pingmenoone",
+      "lastActive": 1768467621802
+    },
+    "103.38.204.130": {
+      "type": "series",
+      "id": "tt10795658:3:2",
+      "title": "Alice in Borderland",
+      "username": "pingmenoone",
+      "lastActive": 1768467754649
     }
   }
 }
