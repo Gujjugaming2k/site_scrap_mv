@@ -1,5 +1,5 @@
 {
-  "totalViews": 7280,
+  "totalViews": 7284,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1794,7 +1794,10 @@
     "2409:40e6:5:b8b4:d492:f8ff:fe80:7c30",
     "64.43.168.186",
     "2409:40d4:40db:ad3e:6c7f:3bce:2f80:cad9",
-    "202.179.159.154"
+    "202.179.159.154",
+    "2405:201:6820:a83c:50dc:306e:e8b1:7245",
+    "49.36.217.235",
+    "2001:4490:488d:6341:66e4:a5ff:fe15:d00b"
   ],
   "views": [
     {
@@ -60026,6 +60029,38 @@
       "timestamp": "2026-01-15T05:49:02.163Z",
       "ip": "64.43.168.186",
       "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:4",
+      "title": "tt35335046:1:4",
+      "timestamp": "2026-01-15T05:58:54.152Z",
+      "ip": "64.43.168.186",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt38221085:1:9",
+      "title": "tt38221085:1:9",
+      "timestamp": "2026-01-15T06:01:48.918Z",
+      "ip": "2405:201:6820:a83c:50dc:306e:e8b1:7245",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt38221085:1:9",
+      "title": "tt38221085:1:9",
+      "timestamp": "2026-01-15T06:02:33.614Z",
+      "ip": "49.36.217.235",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt8178634",
+      "title": "tt8178634",
+      "timestamp": "2026-01-15T06:06:19.548Z",
+      "ip": "2001:4490:488d:6341:66e4:a5ff:fe15:d00b",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -61801,11 +61836,11 @@
       "lastActive": 1768453785869
     },
     "64.43.168.186": {
-      "type": "movie",
-      "id": "tt1934231",
-      "title": "tt1934231",
-      "username": "vflix1993",
-      "lastActive": 1768456142163
+      "type": "series",
+      "id": "tt35335046:1:4",
+      "title": "tt35335046:1:4",
+      "username": "ryuzaklo26",
+      "lastActive": 1768456734152
     },
     "2409:40d4:40db:ad3e:6c7f:3bce:2f80:cad9": {
       "type": "series",
@@ -61820,6 +61855,27 @@
       "title": "tt30003786:4:1",
       "username": "anonymous",
       "lastActive": 1768452823917
+    },
+    "2405:201:6820:a83c:50dc:306e:e8b1:7245": {
+      "type": "series",
+      "id": "tt38221085:1:9",
+      "title": "tt38221085:1:9",
+      "username": "demon18319",
+      "lastActive": 1768456908918
+    },
+    "49.36.217.235": {
+      "type": "series",
+      "id": "tt38221085:1:9",
+      "title": "tt38221085:1:9",
+      "username": "demon18319",
+      "lastActive": 1768456953614
+    },
+    "2001:4490:488d:6341:66e4:a5ff:fe15:d00b": {
+      "type": "movie",
+      "id": "tt8178634",
+      "title": "tt8178634",
+      "username": "anonymous",
+      "lastActive": 1768457179548
     }
   }
 }
