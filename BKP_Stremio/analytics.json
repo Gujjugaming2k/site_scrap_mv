@@ -1,5 +1,5 @@
 {
-  "totalViews": 7273,
+  "totalViews": 7274,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1793,7 +1793,8 @@
     "42.106.184.165",
     "2409:40e6:5:b8b4:d492:f8ff:fe80:7c30",
     "64.43.168.186",
-    "2409:40d4:40db:ad3e:6c7f:3bce:2f80:cad9"
+    "2409:40d4:40db:ad3e:6c7f:3bce:2f80:cad9",
+    "202.179.159.154"
   ],
   "views": [
     {
@@ -59969,6 +59970,14 @@
       "timestamp": "2026-01-15T04:43:48.200Z",
       "ip": "105.111.110.138",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:1",
+      "title": "tt30003786:4:1",
+      "timestamp": "2026-01-15T04:53:43.917Z",
+      "ip": "202.179.159.154",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -61756,6 +61765,13 @@
       "title": "Death Note",
       "username": "anonymous",
       "lastActive": 1768452136133
+    },
+    "202.179.159.154": {
+      "type": "series",
+      "id": "tt30003786:4:1",
+      "title": "tt30003786:4:1",
+      "username": "anonymous",
+      "lastActive": 1768452823917
     }
   }
 }
