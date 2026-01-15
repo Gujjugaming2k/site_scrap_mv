@@ -1,5 +1,5 @@
 {
-  "totalViews": 7243,
+  "totalViews": 7245,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1785,7 +1785,8 @@
     "64.238.204.203",
     "2405:201:6025:a88d:50a3:a7a1:7c21:e523",
     "152.58.62.94",
-    "2c0e:6040:30a:6113:e407:9556:76f5:96b2"
+    "2c0e:6040:30a:6113:e407:9556:76f5:96b2",
+    "2409:40e2:20aa:8e11:2cdb:3457:5a8d:a0c3"
   ],
   "views": [
     {
@@ -59721,6 +59722,22 @@
       "timestamp": "2026-01-15T02:21:42.636Z",
       "ip": "64.238.204.203",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:1:12",
+      "title": "tt0369179:1:12",
+      "timestamp": "2026-01-15T02:32:31.826Z",
+      "ip": "105.111.110.138",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt12300742",
+      "title": "Bugonia",
+      "timestamp": "2026-01-15T02:41:05.455Z",
+      "ip": "2409:40e2:20aa:8e11:2cdb:3457:5a8d:a0c3",
+      "username": "adr7000"
     }
   ],
   "activeNow": {
@@ -61392,10 +61409,10 @@
     },
     "105.111.110.138": {
       "type": "series",
-      "id": "tt0369179:1:11",
-      "title": "tt0369179:1:11",
+      "id": "tt0369179:1:12",
+      "title": "tt0369179:1:12",
       "username": "anonymous",
-      "lastActive": 1768443014750
+      "lastActive": 1768444351826
     },
     "143.44.197.145": {
       "type": "series",
@@ -61452,6 +61469,13 @@
       "title": "tt22740896",
       "username": "anonymous",
       "lastActive": 1768443504576
+    },
+    "2409:40e2:20aa:8e11:2cdb:3457:5a8d:a0c3": {
+      "type": "movie",
+      "id": "tt12300742",
+      "title": "Bugonia",
+      "username": "adr7000",
+      "lastActive": 1768444865455
     }
   }
 }
