@@ -1,5 +1,5 @@
 {
-  "totalViews": 8048,
+  "totalViews": 8060,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1945,7 +1945,10 @@
     "111.65.37.230",
     "152.58.182.199",
     "2401:4900:51e2:7341:d8e7:c5ff:fe3e:541c",
-    "2409:40e2:1156:f748:2cdb:3457:5a8d:a0c3"
+    "2409:40e2:1156:f748:2cdb:3457:5a8d:a0c3",
+    "2401:4900:b01a:d88b:4879:94ff:fe65:41a1",
+    "2401:4900:7dc9:8f94:8c31:2cff:fe79:51fb",
+    "111.65.49.254"
   ],
   "views": [
     {
@@ -66321,6 +66324,102 @@
       "timestamp": "2026-01-16T07:48:23.859Z",
       "ip": "2409:40e2:1156:f748:2cdb:3457:5a8d:a0c3",
       "username": "adr7000"
+    },
+    {
+      "type": "series",
+      "id": "tt13911284:2:2",
+      "title": "tt13911284:2:2",
+      "timestamp": "2026-01-16T07:50:11.454Z",
+      "ip": "2409:40e2:1156:f748:2cdb:3457:5a8d:a0c3",
+      "username": "adr7000"
+    },
+    {
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "timestamp": "2026-01-16T07:51:29.070Z",
+      "ip": "2409:40e2:1156:f748:2cdb:3457:5a8d:a0c3",
+      "username": "adr7000"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:4",
+      "title": "tt30003786:4:4",
+      "timestamp": "2026-01-16T07:51:33.344Z",
+      "ip": "2401:4900:b01a:d88b:4879:94ff:fe65:41a1",
+      "username": "SumanSubhash143"
+    },
+    {
+      "type": "movie",
+      "id": "tt28258888",
+      "title": "tt28258888",
+      "timestamp": "2026-01-16T07:52:09.162Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-16T07:53:15.999Z",
+      "ip": "2409:40e2:1156:f748:2cdb:3457:5a8d:a0c3",
+      "username": "adr7000"
+    },
+    {
+      "type": "movie",
+      "id": "tt11773378",
+      "title": "tt11773378",
+      "timestamp": "2026-01-16T07:53:17.890Z",
+      "ip": "2401:4900:b01a:d88b:4879:94ff:fe65:41a1",
+      "username": "SumanSubhash143"
+    },
+    {
+      "type": "movie",
+      "id": "tt12801262",
+      "title": "Luca",
+      "timestamp": "2026-01-16T07:54:26.598Z",
+      "ip": "2401:4900:b01a:d88b:4879:94ff:fe65:41a1",
+      "username": "SumanSubhash143"
+    },
+    {
+      "type": "movie",
+      "id": "tt20249418",
+      "title": "tt20249418",
+      "timestamp": "2026-01-16T07:54:30.195Z",
+      "ip": "2401:4900:7dc9:8f94:8c31:2cff:fe79:51fb",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt2375692:1:1",
+      "title": "tt2375692:1:1",
+      "timestamp": "2026-01-16T07:57:18.312Z",
+      "ip": "111.65.49.254",
+      "username": "sheik"
+    },
+    {
+      "type": "movie",
+      "id": "tt32820897",
+      "title": "tt32820897",
+      "timestamp": "2026-01-16T07:59:18.993Z",
+      "ip": "2409:40e2:1156:f748:2cdb:3457:5a8d:a0c3",
+      "username": "adr7000"
+    },
+    {
+      "type": "movie",
+      "id": "tt2798920",
+      "title": "tt2798920",
+      "timestamp": "2026-01-16T08:00:14.917Z",
+      "ip": "111.65.49.254",
+      "username": "sheik"
+    },
+    {
+      "type": "movie",
+      "id": "tt2798920",
+      "title": "tt2798920",
+      "timestamp": "2026-01-16T08:00:50.422Z",
+      "ip": "111.65.49.254",
+      "username": "sheik"
     }
   ],
   "activeNow": {
@@ -66917,7 +67016,7 @@
       "id": "tt28258888",
       "title": "tt28258888",
       "username": "nothing_8888",
-      "lastActive": 1768548276843
+      "lastActive": 1768549929162
     },
     "152.56.156.0": {
       "type": "series",
@@ -69209,11 +69308,32 @@
       "lastActive": 1768549604986
     },
     "2409:40e2:1156:f748:2cdb:3457:5a8d:a0c3": {
-      "type": "series",
-      "id": "tt13911284:2:1",
-      "title": "tt13911284:2:1",
+      "type": "movie",
+      "id": "tt32820897",
+      "title": "tt32820897",
       "username": "adr7000",
-      "lastActive": 1768549703859
+      "lastActive": 1768550358993
+    },
+    "2401:4900:b01a:d88b:4879:94ff:fe65:41a1": {
+      "type": "movie",
+      "id": "tt12801262",
+      "title": "Luca",
+      "username": "SumanSubhash143",
+      "lastActive": 1768550066598
+    },
+    "2401:4900:7dc9:8f94:8c31:2cff:fe79:51fb": {
+      "type": "movie",
+      "id": "tt20249418",
+      "title": "tt20249418",
+      "username": "chetan_b2",
+      "lastActive": 1768550070195
+    },
+    "111.65.49.254": {
+      "type": "movie",
+      "id": "tt2798920",
+      "title": "tt2798920",
+      "username": "sheik",
+      "lastActive": 1768550450422
     }
   }
 }
