@@ -1,5 +1,5 @@
 {
-  "totalViews": 8521,
+  "totalViews": 8536,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2045,7 +2045,11 @@
     "94.156.30.218",
     "2405:201:202d:d014:7972:376c:9f34:c46d",
     "2405:201:202d:d014:e47b:e67b:c2ca:358f",
-    "2400:1a00:7b4c:192a:1d8f:9ed3:a166:b902"
+    "2400:1a00:7b4c:192a:1d8f:9ed3:a166:b902",
+    "2402:a00:10a:815f:5223:f6f5:f351:ccb",
+    "2405:201:6025:a88d:1184:11f7:ad00:1e79",
+    "2401:4900:b538:d355:6193:3f38:8f3e:734e",
+    "2409:40e4:11f1:62bd:fcf0:feff:fe84:7171"
   ],
   "views": [
     {
@@ -70205,6 +70209,126 @@
       "timestamp": "2026-01-16T16:21:36.830Z",
       "ip": "122.167.97.49",
       "username": "zindha"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
+      "timestamp": "2026-01-16T16:24:01.947Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt9169516:1:1",
+      "title": "tt9169516:1:1",
+      "timestamp": "2026-01-16T16:24:23.599Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt9169516:1:2",
+      "title": "tt9169516:1:2",
+      "timestamp": "2026-01-16T16:25:03.337Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-16T16:27:13.001Z",
+      "ip": "2402:a00:10a:815f:5223:f6f5:f351:ccb",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:3",
+      "title": "tt35335046:1:3",
+      "timestamp": "2026-01-16T16:28:24.873Z",
+      "ip": "202.71.3.253",
+      "username": "dilipc403"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:4",
+      "title": "tt35335046:1:4",
+      "timestamp": "2026-01-16T16:29:03.107Z",
+      "ip": "202.71.3.253",
+      "username": "dilipc403"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-01-16T16:29:44.815Z",
+      "ip": "2405:201:6025:a88d:1184:11f7:ad00:1e79",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "timestamp": "2026-01-16T16:30:01.452Z",
+      "ip": "115.98.234.161",
+      "username": "insnaee99"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-01-16T16:30:35.258Z",
+      "ip": "2401:4900:b538:d355:6193:3f38:8f3e:734e",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:3",
+      "title": "tt35335046:1:3",
+      "timestamp": "2026-01-16T16:32:06.450Z",
+      "ip": "202.71.3.253",
+      "username": "dilipc403"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:2:1",
+      "title": "tt0903747:2:1",
+      "timestamp": "2026-01-16T16:33:35.840Z",
+      "ip": "2409:40e4:11f1:62bd:fcf0:feff:fe84:7171",
+      "username": "ig_sirmour"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:2:13",
+      "title": "tt0903747:2:13",
+      "timestamp": "2026-01-16T16:35:33.119Z",
+      "ip": "2409:40e4:11f1:62bd:fcf0:feff:fe84:7171",
+      "username": "ig_sirmour"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:2:1",
+      "title": "tt0903747:2:1",
+      "timestamp": "2026-01-16T16:35:44.261Z",
+      "ip": "2409:40e4:11f1:62bd:fcf0:feff:fe84:7171",
+      "username": "ig_sirmour"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:2:2",
+      "title": "tt0903747:2:2",
+      "timestamp": "2026-01-16T16:35:50.139Z",
+      "ip": "2409:40e4:11f1:62bd:fcf0:feff:fe84:7171",
+      "username": "ig_sirmour"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:2:3",
+      "title": "tt0903747:2:3",
+      "timestamp": "2026-01-16T16:35:59.999Z",
+      "ip": "2409:40e4:11f1:62bd:fcf0:feff:fe84:7171",
+      "username": "ig_sirmour"
     }
   ],
   "activeNow": {
@@ -70742,10 +70866,10 @@
     },
     "203.192.255.46": {
       "type": "series",
-      "id": "tt12324366:2:6",
-      "title": "tt12324366:2:6",
+      "id": "tt9169516:1:2",
+      "title": "tt9169516:1:2",
       "username": "chetan_b2",
-      "lastActive": 1768532249207
+      "lastActive": 1768580703337
     },
     "163.223.52.102": {
       "type": "movie",
@@ -73569,11 +73693,11 @@
       "lastActive": 1768571277033
     },
     "115.98.234.161": {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
       "username": "insnaee99",
-      "lastActive": 1768571385818
+      "lastActive": 1768581001452
     },
     "2a09:bac5:40b1:1aaa::2a8:80": {
       "type": "series",
@@ -73608,7 +73732,7 @@
       "id": "tt35335046:1:3",
       "title": "tt35335046:1:3",
       "username": "dilipc403",
-      "lastActive": 1768579060933
+      "lastActive": 1768581126450
     },
     "2404:bd00:3:dc97:4c2e:e505:c850:180a": {
       "type": "movie",
@@ -73819,6 +73943,34 @@
       "title": "SPY x FAMILY",
       "username": "anonymous",
       "lastActive": 1768580018769
+    },
+    "2402:a00:10a:815f:5223:f6f5:f351:ccb": {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "username": "vflix1993",
+      "lastActive": 1768580833001
+    },
+    "2405:201:6025:a88d:1184:11f7:ad00:1e79": {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "username": "infinityseeker",
+      "lastActive": 1768580984815
+    },
+    "2401:4900:b538:d355:6193:3f38:8f3e:734e": {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "username": "askchm",
+      "lastActive": 1768581035258
+    },
+    "2409:40e4:11f1:62bd:fcf0:feff:fe84:7171": {
+      "type": "series",
+      "id": "tt0903747:2:3",
+      "title": "tt0903747:2:3",
+      "username": "ig_sirmour",
+      "lastActive": 1768581359999
     }
   }
 }
