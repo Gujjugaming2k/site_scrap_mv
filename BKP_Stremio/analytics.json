@@ -1,5 +1,5 @@
 {
-  "totalViews": 8756,
+  "totalViews": 8758,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2082,7 +2082,8 @@
     "2402:3a80:18db:3c5b:33cb:272a:7d09:3b80",
     "2401:4900:1c0a:1745:1387:b114:f9d9:38cb",
     "15.160.63.217",
-    "41.141.168.231"
+    "41.141.168.231",
+    "2a06:c701:474f:e900:2c5a:38c5:4aac:c6ca"
   ],
   "views": [
     {
@@ -72122,6 +72123,22 @@
       "timestamp": "2026-01-16T22:10:30.090Z",
       "ip": "182.69.179.223",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt2365946:1:1",
+      "title": "tt2365946:1:1",
+      "timestamp": "2026-01-16T22:33:38.166Z",
+      "ip": "2a06:c701:474f:e900:2c5a:38c5:4aac:c6ca",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
+      "timestamp": "2026-01-16T22:46:34.731Z",
+      "ip": "109.77.31.204",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -74787,10 +74804,10 @@
     },
     "109.77.31.204": {
       "type": "series",
-      "id": "tt35335046:1:6",
-      "title": "tt35335046:1:6",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
       "username": "vflix1993",
-      "lastActive": 1768601313056
+      "lastActive": 1768603594731
     },
     "89.187.187.67": {
       "type": "series",
@@ -76002,6 +76019,13 @@
       "title": "tt22202452:1:2",
       "username": "anonymous",
       "lastActive": 1768600608217
+    },
+    "2a06:c701:474f:e900:2c5a:38c5:4aac:c6ca": {
+      "type": "series",
+      "id": "tt2365946:1:1",
+      "title": "tt2365946:1:1",
+      "username": "anonymous",
+      "lastActive": 1768602818166
     }
   }
 }
