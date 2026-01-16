@@ -1,5 +1,5 @@
 {
-  "totalViews": 7926,
+  "totalViews": 7928,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1918,7 +1918,8 @@
     "2409:40d4:40db:ad3e:4d83:1609:c6d1:8671",
     "2401:4900:b01a:d88b:24ee:26ff:fef2:a7dd",
     "169.150.203.247",
-    "2401:4900:ab05:c619:bcc0:816c:2307:e82a"
+    "2401:4900:ab05:c619:bcc0:816c:2307:e82a",
+    "2401:4900:ab01:ebe8:b4a2:c1d3:f4ad:a6d4"
   ],
   "views": [
     {
@@ -65318,6 +65319,22 @@
       "timestamp": "2026-01-16T05:11:32.665Z",
       "ip": "2409:40d4:40db:ad3e:4d83:1609:c6d1:8671",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:6",
+      "title": "tt35335046:1:6",
+      "timestamp": "2026-01-16T05:18:14.461Z",
+      "ip": "2401:4900:ab01:ebe8:b4a2:c1d3:f4ad:a6d4",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
+      "timestamp": "2026-01-16T05:18:30.865Z",
+      "ip": "2401:4900:ab01:ebe8:b4a2:c1d3:f4ad:a6d4",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -68022,6 +68039,13 @@
       "title": "Gone Girl",
       "username": "gendaswammy",
       "lastActive": 1768539866214
+    },
+    "2401:4900:ab01:ebe8:b4a2:c1d3:f4ad:a6d4": {
+      "type": "series",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
+      "username": "vflix1993",
+      "lastActive": 1768540710865
     }
   }
 }
