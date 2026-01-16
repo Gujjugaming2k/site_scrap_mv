@@ -1,5 +1,5 @@
 {
-  "totalViews": 7945,
+  "totalViews": 7956,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1925,7 +1925,10 @@
     "2409:40e5:9d:c7ca:7057:b1ff:fe94:5dbe",
     "152.58.159.137",
     "157.48.78.76",
-    "2409:40e4:104f:26fc:d46f:8cff:feb5:b382"
+    "2409:40e4:104f:26fc:d46f:8cff:feb5:b382",
+    "2409:40d4:3114:6808:c098:1eff:fef0:3a37",
+    "2409:40e4:10ac:40c4:88b8:84c7:32b0:e256",
+    "156.197.120.196"
   ],
   "views": [
     {
@@ -65477,6 +65480,94 @@
       "timestamp": "2026-01-16T06:09:46.191Z",
       "ip": "2409:40e6:16:d8:70c1:8bff:fe40:9835",
       "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:6",
+      "title": "Fallout",
+      "timestamp": "2026-01-16T06:14:49.770Z",
+      "ip": "2600:1702:4a71:a80f:949f:59ce:8532:add4",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-16T06:17:50.023Z",
+      "ip": "2409:40d4:3114:6808:c098:1eff:fef0:3a37",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt5766194:1:1",
+      "title": "tt5766194:1:1",
+      "timestamp": "2026-01-16T06:21:44.289Z",
+      "ip": "2409:40e4:10ac:40c4:88b8:84c7:32b0:e256",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-01-16T06:22:03.416Z",
+      "ip": "103.46.200.248",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-01-16T06:22:09.587Z",
+      "ip": "103.46.200.248",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt14940390",
+      "title": "tt14940390",
+      "timestamp": "2026-01-16T06:22:19.424Z",
+      "ip": "103.46.200.248",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-01-16T06:23:03.039Z",
+      "ip": "103.46.200.248",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt20254992",
+      "title": "tt20254992",
+      "timestamp": "2026-01-16T06:23:12.582Z",
+      "ip": "103.46.200.248",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "series",
+      "id": "tt26693803:1:5",
+      "title": "tt26693803:1:5",
+      "timestamp": "2026-01-16T06:25:21.705Z",
+      "ip": "2409:40e4:10ac:40c4:88b8:84c7:32b0:e256",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt5290382:1:1",
+      "title": "tt5290382:1:1",
+      "timestamp": "2026-01-16T06:27:39.996Z",
+      "ip": "156.197.120.196",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0338013",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "timestamp": "2026-01-16T06:28:22.930Z",
+      "ip": "2401:4900:ab05:c619:bcc0:816c:2307:e82a",
+      "username": "gendaswammy"
     }
   ],
   "activeNow": {
@@ -66038,7 +66129,7 @@
       "id": "tt12637874:2:6",
       "title": "Fallout",
       "username": "anonymous",
-      "lastActive": 1768534206980
+      "lastActive": 1768544089770
     },
     "135.0.192.28": {
       "type": "series",
@@ -67735,11 +67826,11 @@
       "lastActive": 1768489158369
     },
     "103.46.200.248": {
-      "type": "series",
-      "id": "tt29780951:1:1",
-      "title": "tt29780951:1:1",
+      "type": "movie",
+      "id": "tt20254992",
+      "title": "tt20254992",
       "username": "katdenningssss",
-      "lastActive": 1768537393663
+      "lastActive": 1768544592582
     },
     "2401:4900:1f3a:589d:cdcf:c:15c0:a703": {
       "type": "series",
@@ -68177,10 +68268,10 @@
     },
     "2401:4900:ab05:c619:bcc0:816c:2307:e82a": {
       "type": "movie",
-      "id": "tt2267998",
-      "title": "Gone Girl",
+      "id": "tt0338013",
+      "title": "Eternal Sunshine of the Spotless Mind",
       "username": "gendaswammy",
-      "lastActive": 1768539866214
+      "lastActive": 1768544902930
     },
     "2401:4900:ab01:ebe8:b4a2:c1d3:f4ad:a6d4": {
       "type": "series",
@@ -68230,6 +68321,27 @@
       "title": "Bugonia",
       "username": "cyberboy12321",
       "lastActive": 1768543362640
+    },
+    "2409:40d4:3114:6808:c098:1eff:fef0:3a37": {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "username": "golu_vk",
+      "lastActive": 1768544270023
+    },
+    "2409:40e4:10ac:40c4:88b8:84c7:32b0:e256": {
+      "type": "series",
+      "id": "tt26693803:1:5",
+      "title": "tt26693803:1:5",
+      "username": "askchm",
+      "lastActive": 1768544721705
+    },
+    "156.197.120.196": {
+      "type": "series",
+      "id": "tt5290382:1:1",
+      "title": "tt5290382:1:1",
+      "username": "anonymous",
+      "lastActive": 1768544859996
     }
   }
 }
