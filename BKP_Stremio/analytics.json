@@ -1,5 +1,5 @@
 {
-  "totalViews": 8723,
+  "totalViews": 8739,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2080,7 +2080,9 @@
     "49.36.117.21",
     "2409:40c1:10df:ccc:8000::",
     "2402:3a80:18db:3c5b:33cb:272a:7d09:3b80",
-    "2401:4900:1c0a:1745:1387:b114:f9d9:38cb"
+    "2401:4900:1c0a:1745:1387:b114:f9d9:38cb",
+    "15.160.63.217",
+    "41.141.168.231"
   ],
   "views": [
     {
@@ -71856,6 +71858,134 @@
       "timestamp": "2026-01-16T20:54:21.886Z",
       "ip": "2401:4900:93be:631c:a4b7:9bd4:74a9:d74b",
       "username": "elite_user13"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-16T21:02:13.099Z",
+      "ip": "72.255.11.154",
+      "username": "hvre2"
+    },
+    {
+      "type": "movie",
+      "id": "tt1630029",
+      "title": "Avatar: The Way of Water",
+      "timestamp": "2026-01-16T21:04:50.912Z",
+      "ip": "72.255.11.154",
+      "username": "hvre2"
+    },
+    {
+      "type": "movie",
+      "id": "tt12908150",
+      "title": "The Life of Chuck",
+      "timestamp": "2026-01-16T21:10:04.782Z",
+      "ip": "72.255.11.154",
+      "username": "hvre2"
+    },
+    {
+      "type": "series",
+      "id": "tt5574490:5:10",
+      "title": "tt5574490:5:10",
+      "timestamp": "2026-01-16T21:10:43.259Z",
+      "ip": "154.208.49.96",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt5574490:5:12",
+      "title": "tt5574490:5:12",
+      "timestamp": "2026-01-16T21:10:55.866Z",
+      "ip": "154.208.49.96",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt5574490:5:10",
+      "title": "tt5574490:5:10",
+      "timestamp": "2026-01-16T21:11:14.049Z",
+      "ip": "154.208.49.96",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "timestamp": "2026-01-16T21:11:27.082Z",
+      "ip": "15.160.63.217",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt12908150",
+      "title": "The Life of Chuck",
+      "timestamp": "2026-01-16T21:11:31.249Z",
+      "ip": "15.160.63.217",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt12908150",
+      "title": "The Life of Chuck",
+      "timestamp": "2026-01-16T21:11:37.832Z",
+      "ip": "15.160.63.217",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt12908150",
+      "title": "The Life of Chuck",
+      "timestamp": "2026-01-16T21:11:42.130Z",
+      "ip": "72.255.11.154",
+      "username": "hvre2"
+    },
+    {
+      "type": "series",
+      "id": "tt22202452:1:1",
+      "title": "tt22202452:1:1",
+      "timestamp": "2026-01-16T21:12:04.282Z",
+      "ip": "41.141.168.231",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0265208",
+      "title": "The Girl Next Door",
+      "timestamp": "2026-01-16T21:12:08.086Z",
+      "ip": "15.160.63.217",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:5",
+      "title": "tt35335046:1:5",
+      "timestamp": "2026-01-16T21:12:30.351Z",
+      "ip": "109.77.31.204",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt6604188",
+      "title": "TRON: Ares",
+      "timestamp": "2026-01-16T21:12:46.237Z",
+      "ip": "15.160.63.217",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:5",
+      "title": "tt35335046:1:5",
+      "timestamp": "2026-01-16T21:12:52.479Z",
+      "ip": "109.77.31.204",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-16T21:13:19.045Z",
+      "ip": "15.160.63.217",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -72064,10 +72194,10 @@
     },
     "72.255.11.154": {
       "type": "movie",
-      "id": "tt29567915",
-      "title": "tt29567915",
+      "id": "tt12908150",
+      "title": "The Life of Chuck",
       "username": "hvre2",
-      "lastActive": 1768596093321
+      "lastActive": 1768597902130
     },
     "154.208.49.98": {
       "type": "series",
@@ -74367,10 +74497,10 @@
     },
     "154.208.49.96": {
       "type": "series",
-      "id": "tt5574490:5:7",
-      "title": "tt5574490:5:7",
+      "id": "tt5574490:5:10",
+      "title": "tt5574490:5:10",
       "username": "anonymous",
-      "lastActive": 1768511563896
+      "lastActive": 1768597874049
     },
     "103.186.219.243": {
       "type": "series",
@@ -74523,8 +74653,8 @@
       "type": "series",
       "id": "tt35335046:1:5",
       "title": "tt35335046:1:5",
-      "username": "ryuzaklo26",
-      "lastActive": 1768536154214
+      "username": "vflix1993",
+      "lastActive": 1768597972479
     },
     "89.187.187.67": {
       "type": "series",
@@ -75722,6 +75852,20 @@
       "title": "tt9544034:1:1",
       "username": "dillon_ka_shooter",
       "lastActive": 1768595862277
+    },
+    "15.160.63.217": {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "username": "anonymous",
+      "lastActive": 1768597999045
+    },
+    "41.141.168.231": {
+      "type": "series",
+      "id": "tt22202452:1:1",
+      "title": "tt22202452:1:1",
+      "username": "anonymous",
+      "lastActive": 1768597924282
     }
   }
 }
