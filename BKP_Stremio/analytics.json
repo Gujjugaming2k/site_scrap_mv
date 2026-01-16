@@ -1,5 +1,5 @@
 {
-  "totalViews": 7991,
+  "totalViews": 8006,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1934,7 +1934,8 @@
     "103.215.54.246",
     "43.229.88.29",
     "2604:3d09:d7f:1600:cc3d:bb94:8f7d:83fa",
-    "146.70.142.141"
+    "146.70.142.141",
+    "2401:4900:ba6d:e7e5::2aa2:f135"
   ],
   "views": [
     {
@@ -65854,6 +65855,126 @@
       "timestamp": "2026-01-16T06:59:07.313Z",
       "ip": "103.215.54.246",
       "username": "abelboby"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-16T06:59:48.100Z",
+      "ip": "146.70.142.141",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:17",
+      "title": "tt17069148:1:17",
+      "timestamp": "2026-01-16T07:00:33.676Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:17",
+      "title": "tt17069148:1:17",
+      "timestamp": "2026-01-16T07:00:55.201Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:17",
+      "title": "tt17069148:1:17",
+      "timestamp": "2026-01-16T07:01:00.408Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:18",
+      "title": "tt17069148:1:18",
+      "timestamp": "2026-01-16T07:01:01.036Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:18",
+      "title": "tt17069148:1:18",
+      "timestamp": "2026-01-16T07:01:05.487Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:19",
+      "title": "tt17069148:1:19",
+      "timestamp": "2026-01-16T07:01:11.367Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:19",
+      "title": "tt17069148:1:19",
+      "timestamp": "2026-01-16T07:01:15.360Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:20",
+      "title": "tt17069148:1:20",
+      "timestamp": "2026-01-16T07:01:21.330Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:20",
+      "title": "tt17069148:1:20",
+      "timestamp": "2026-01-16T07:01:26.536Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-16T07:06:47.374Z",
+      "ip": "146.70.142.141",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-16T07:09:05.514Z",
+      "ip": "2401:4900:ba6d:e7e5::2aa2:f135",
+      "username": "baljeet_002"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:2",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-16T07:09:21.893Z",
+      "ip": "2401:4900:ba6d:e7e5::2aa2:f135",
+      "username": "baljeet_002"
+    },
+    {
+      "type": "movie",
+      "id": "tt11657662",
+      "title": "The Witcher: Nightmare of the Wolf",
+      "timestamp": "2026-01-16T07:09:48.099Z",
+      "ip": "146.70.142.141",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt27431598",
+      "title": "tt27431598",
+      "timestamp": "2026-01-16T07:12:03.255Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
     }
   ],
   "activeNow": {
@@ -65964,10 +66085,10 @@
     },
     "103.214.60.5": {
       "type": "series",
-      "id": "tt17069148:1:16",
-      "title": "tt17069148:1:16",
+      "id": "tt17069148:1:20",
+      "title": "tt17069148:1:20",
       "username": "gaendaswami",
-      "lastActive": 1768546323272
+      "lastActive": 1768546886536
     },
     "182.77.73.122": {
       "type": "series",
@@ -66447,10 +66568,10 @@
     },
     "115.98.99.86": {
       "type": "movie",
-      "id": "tt10187680",
-      "title": "tt10187680",
+      "id": "tt27431598",
+      "title": "tt27431598",
       "username": "nothing_8888",
-      "lastActive": 1768546715202
+      "lastActive": 1768547523255
     },
     "152.56.156.0": {
       "type": "series",
@@ -68666,10 +68787,17 @@
     },
     "146.70.142.141": {
       "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
+      "id": "tt11657662",
+      "title": "The Witcher: Nightmare of the Wolf",
       "username": "golu_vk",
-      "lastActive": 1768546610557
+      "lastActive": 1768547388099
+    },
+    "2401:4900:ba6d:e7e5::2aa2:f135": {
+      "type": "series",
+      "id": "tt0944947:1:2",
+      "title": "Game of Thrones",
+      "username": "baljeet_002",
+      "lastActive": 1768547361893
     }
   }
 }
