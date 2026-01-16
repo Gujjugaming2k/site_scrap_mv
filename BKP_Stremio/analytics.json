@@ -1,5 +1,5 @@
 {
-  "totalViews": 8384,
+  "totalViews": 8394,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2022,7 +2022,14 @@
     "2a06:c701:98f3:1500:347c:6906:c8bb:55a9",
     "2409:40f2:307:c317:2dcc:82e7:ab7e:82f",
     "2405:201:203e:b800:e311:2031:3724:7f56",
-    "217.216.103.78"
+    "217.216.103.78",
+    "104.28.209.151,51.89.197.91",
+    "152.59.153.40",
+    "2401:4900:7b27:3a81:58db:fbff:fe0d:8f18",
+    "2401:4900:8fe2:4c46:1d5c:6316:70f9:2f3c",
+    "2a01:cb18:8808:1a00:a9b4:eb42:6a7a:72da",
+    "2409:40c1:5011:3a4d:4baa:46a4:daf2:d1cf",
+    "2a09:bac1:3680:10::ca:60,51.89.197.91"
   ],
   "views": [
     {
@@ -69086,6 +69093,86 @@
       "timestamp": "2026-01-16T14:28:31.888Z",
       "ip": "217.216.103.78",
       "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-01-16T14:30:27.401Z",
+      "ip": "104.28.209.151,51.89.197.91",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-16T14:32:38.509Z",
+      "ip": "152.59.153.40",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-01-16T14:33:15.947Z",
+      "ip": "2401:4900:7b27:3a81:58db:fbff:fe0d:8f18",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt38938222",
+      "title": "tt38938222",
+      "timestamp": "2026-01-16T14:36:15.009Z",
+      "ip": "2401:4900:8fe2:4c46:1d5c:6316:70f9:2f3c",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "series",
+      "id": "null:1:1",
+      "title": "null:1:1",
+      "timestamp": "2026-01-16T14:36:18.439Z",
+      "ip": "2a01:cb18:8808:1a00:a9b4:eb42:6a7a:72da",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt9307686:1:1",
+      "title": "tt9307686:1:1",
+      "timestamp": "2026-01-16T14:41:58.570Z",
+      "ip": "2a09:bac5:3fdb:eaa::176:7b",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-16T14:42:22.466Z",
+      "ip": "2409:40c1:5011:3a4d:4baa:46a4:daf2:d1cf",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt14513804",
+      "title": "Captain America: Brave New World",
+      "timestamp": "2026-01-16T14:43:01.042Z",
+      "ip": "2a09:bac1:3680:10::ca:60,51.89.197.91",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt0816692",
+      "title": "Interstellar",
+      "timestamp": "2026-01-16T14:44:30.157Z",
+      "ip": "2a09:bac1:3680:10::ca:60,51.89.197.91",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-16T14:44:32.152Z",
+      "ip": "152.59.153.40",
+      "username": "nabakun24"
     }
   ],
   "activeNow": {
@@ -72317,11 +72404,11 @@
       "lastActive": 1768564012488
     },
     "2a09:bac5:3fdb:eaa::176:7b": {
-      "type": "movie",
-      "id": "tt5311514",
-      "title": "Your Name.",
+      "type": "series",
+      "id": "tt9307686:1:1",
+      "title": "tt9307686:1:1",
       "username": "sinbad1722",
-      "lastActive": 1768571550882
+      "lastActive": 1768574518570
     },
     "2409:40d4:40db:ad3e:68ef:43e6:79f0:1f0d": {
       "type": "series",
@@ -72532,6 +72619,55 @@
       "title": "tt28802657",
       "username": "b1jju",
       "lastActive": 1768573711888
+    },
+    "104.28.209.151,51.89.197.91": {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "username": "switchoff009",
+      "lastActive": 1768573827401
+    },
+    "152.59.153.40": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "nabakun24",
+      "lastActive": 1768574672152
+    },
+    "2401:4900:7b27:3a81:58db:fbff:fe0d:8f18": {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "username": "b1jju",
+      "lastActive": 1768573995947
+    },
+    "2401:4900:8fe2:4c46:1d5c:6316:70f9:2f3c": {
+      "type": "movie",
+      "id": "tt38938222",
+      "title": "tt38938222",
+      "username": "ashwanileon",
+      "lastActive": 1768574175009
+    },
+    "2a01:cb18:8808:1a00:a9b4:eb42:6a7a:72da": {
+      "type": "series",
+      "id": "null:1:1",
+      "title": "null:1:1",
+      "username": "anonymous",
+      "lastActive": 1768574178439
+    },
+    "2409:40c1:5011:3a4d:4baa:46a4:daf2:d1cf": {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "username": "anonymous",
+      "lastActive": 1768574542466
+    },
+    "2a09:bac1:3680:10::ca:60,51.89.197.91": {
+      "type": "movie",
+      "id": "tt0816692",
+      "title": "Interstellar",
+      "username": "switchoff009",
+      "lastActive": 1768574670157
     }
   }
 }
