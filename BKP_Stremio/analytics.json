@@ -1,5 +1,5 @@
 {
-  "totalViews": 8072,
+  "totalViews": 8085,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1954,7 +1954,9 @@
     "149.34.244.163",
     "2a09:bac1:3680:248::2a8:73",
     "2a09:bac1:7ac0:10::3c2:16",
-    "27.34.71.16"
+    "27.34.71.16",
+    "2400:1a00:7b4c:192a:81cc:bd4b:d5c2:572e",
+    "2405:201:900f:a92b:98f4:be9d:dd5d:32c3"
   ],
   "views": [
     {
@@ -66522,6 +66524,110 @@
       "timestamp": "2026-01-16T08:17:04.824Z",
       "ip": "27.34.71.16",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt3104114:1:4",
+      "title": "tt3104114:1:4",
+      "timestamp": "2026-01-16T08:19:32.141Z",
+      "ip": "2400:1a00:7b4c:192a:81cc:bd4b:d5c2:572e",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0073115",
+      "title": "tt0073115",
+      "timestamp": "2026-01-16T08:20:01.284Z",
+      "ip": "111.65.37.230",
+      "username": "sheik"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-01-16T08:20:40.554Z",
+      "ip": "111.65.37.230",
+      "username": "sheik"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-16T08:22:07.735Z",
+      "ip": "149.34.244.163",
+      "username": "angrybirdsneha"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-01-16T08:23:58.726Z",
+      "ip": "111.65.37.230",
+      "username": "sheik"
+    },
+    {
+      "type": "movie",
+      "id": "tt1375666",
+      "title": "Inception",
+      "timestamp": "2026-01-16T08:25:51.717Z",
+      "ip": "2401:4900:51e2:7341:d8e7:c5ff:fe3e:541c",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt32536168:1:2",
+      "title": "tt32536168:1:2",
+      "timestamp": "2026-01-16T08:27:29.360Z",
+      "ip": "2405:201:900f:a92b:98f4:be9d:dd5d:32c3",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt8948436:1:107",
+      "title": "tt8948436:1:107",
+      "timestamp": "2026-01-16T08:29:05.145Z",
+      "ip": "49.36.81.187",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-01-16T08:31:05.804Z",
+      "ip": "111.65.49.254",
+      "username": "sheik"
+    },
+    {
+      "type": "movie",
+      "id": "tt0372183",
+      "title": "The Bourne Supremacy",
+      "timestamp": "2026-01-16T08:31:15.076Z",
+      "ip": "59.152.80.69",
+      "username": "sexhabibi"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-01-16T08:32:37.533Z",
+      "ip": "2401:4900:51e2:7341:d8e7:c5ff:fe3e:541c",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt13444912:1:1",
+      "title": "tt13444912:1:1",
+      "timestamp": "2026-01-16T08:33:46.993Z",
+      "ip": "182.77.72.137",
+      "username": "thebatmanbyte"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-01-16T08:33:49.992Z",
+      "ip": "2401:4900:51e2:7341:d8e7:c5ff:fe3e:541c",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -67233,11 +67339,11 @@
       "lastActive": 1768373358736
     },
     "59.152.80.69": {
-      "type": "series",
-      "id": "tt0364845:17:1",
-      "title": "tt0364845:17:1",
+      "type": "movie",
+      "id": "tt0372183",
+      "title": "The Bourne Supremacy",
       "username": "sexhabibi",
-      "lastActive": 1768480970903
+      "lastActive": 1768552275076
     },
     "2401:4900:1c5e:4184:cbbc:98f3:f54b:f5a1": {
       "type": "movie",
@@ -68592,10 +68698,10 @@
     },
     "49.36.81.187": {
       "type": "series",
-      "id": "tt28804856:1:2",
-      "title": "tt28804856:1:2",
+      "id": "tt8948436:1:107",
+      "title": "tt8948436:1:107",
       "username": "anonymous",
-      "lastActive": 1768472849390
+      "lastActive": 1768552145145
     },
     "2401:4900:1c54:c0ce:a510:27ca:4c17:8114": {
       "type": "movie",
@@ -69299,10 +69405,10 @@
     },
     "182.77.72.137": {
       "type": "series",
-      "id": "tt10062292:1:1",
-      "title": "Never Have I Ever",
+      "id": "tt13444912:1:1",
+      "title": "tt13444912:1:1",
       "username": "thebatmanbyte",
-      "lastActive": 1768545506801
+      "lastActive": 1768552426993
     },
     "2409:40f3:2092:86c9:c5e1:502f:83d2:246d": {
       "type": "series",
@@ -69390,10 +69496,10 @@
     },
     "111.65.37.230": {
       "type": "movie",
-      "id": "tt21221514",
-      "title": "Eric LaRue",
+      "id": "tt31193180",
+      "title": "Sinners",
       "username": "sheik",
-      "lastActive": 1768549541228
+      "lastActive": 1768551838726
     },
     "152.58.182.199": {
       "type": "series",
@@ -69404,10 +69510,10 @@
     },
     "2401:4900:51e2:7341:d8e7:c5ff:fe3e:541c": {
       "type": "movie",
-      "id": "tt1375666",
-      "title": "Inception",
+      "id": "tt1187043",
+      "title": "3 Idiots",
       "username": "anonymous",
-      "lastActive": 1768549604986
+      "lastActive": 1768552429992
     },
     "2409:40e2:1156:f748:2cdb:3457:5a8d:a0c3": {
       "type": "movie",
@@ -69432,10 +69538,10 @@
     },
     "111.65.49.254": {
       "type": "movie",
-      "id": "tt2798920",
-      "title": "tt2798920",
+      "id": "tt31193180",
+      "title": "Sinners",
       "username": "sheik",
-      "lastActive": 1768550450422
+      "lastActive": 1768552265804
     },
     "149.34.244.163,51.89.197.91": {
       "type": "series",
@@ -69452,11 +69558,11 @@
       "lastActive": 1768551079179
     },
     "149.34.244.163": {
-      "type": "series",
-      "id": "tt26453092:1:8",
-      "title": "tt26453092:1:8",
-      "username": "switchoff0099",
-      "lastActive": 1768551422149
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "username": "angrybirdsneha",
+      "lastActive": 1768551727735
     },
     "2a09:bac1:3680:248::2a8:73": {
       "type": "series",
@@ -69478,6 +69584,20 @@
       "title": "tt3104114:1:5",
       "username": "anonymous",
       "lastActive": 1768551424824
+    },
+    "2400:1a00:7b4c:192a:81cc:bd4b:d5c2:572e": {
+      "type": "series",
+      "id": "tt3104114:1:4",
+      "title": "tt3104114:1:4",
+      "username": "anonymous",
+      "lastActive": 1768551572141
+    },
+    "2405:201:900f:a92b:98f4:be9d:dd5d:32c3": {
+      "type": "series",
+      "id": "tt32536168:1:2",
+      "title": "tt32536168:1:2",
+      "username": "theonlyfreak",
+      "lastActive": 1768552049360
     }
   }
 }
