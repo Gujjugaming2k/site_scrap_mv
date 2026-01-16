@@ -1,5 +1,5 @@
 {
-  "totalViews": 8749,
+  "totalViews": 8750,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -72066,6 +72066,14 @@
       "timestamp": "2026-01-16T21:32:15.857Z",
       "ip": "182.69.179.223",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt22202452:1:2",
+      "title": "tt22202452:1:2",
+      "timestamp": "2026-01-16T21:56:48.217Z",
+      "ip": "41.141.168.231",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -75942,10 +75950,10 @@
     },
     "41.141.168.231": {
       "type": "series",
-      "id": "tt22202452:1:1",
-      "title": "tt22202452:1:1",
+      "id": "tt22202452:1:2",
+      "title": "tt22202452:1:2",
       "username": "anonymous",
-      "lastActive": 1768597924282
+      "lastActive": 1768600608217
     }
   }
 }
