@@ -160,5 +160,16 @@
     "enabled": true,
     "createdAt": "2026-01-13T13:18:23.086Z",
     "updatedAt": "2026-01-13T14:16:38.856Z"
+  },
+  {
+    "id": "1768577233209",
+    "name": "multitamil",
+    "movieUrl": "https://multitamil.vflix.life/stream/movie/{{id}}.json",
+    "seriesUrl": "https://multitamil.vflix.life/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "timeout": "20000",
+    "priority": "6",
+    "enabled": true,
+    "createdAt": "2026-01-16T15:27:13.209Z",
+    "updatedAt": "2026-01-16T15:33:06.374Z"
   }
 ]
