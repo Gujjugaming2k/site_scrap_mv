@@ -1,5 +1,5 @@
 {
-  "totalViews": 8085,
+  "totalViews": 8095,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1956,7 +1956,9 @@
     "2a09:bac1:7ac0:10::3c2:16",
     "27.34.71.16",
     "2400:1a00:7b4c:192a:81cc:bd4b:d5c2:572e",
-    "2405:201:900f:a92b:98f4:be9d:dd5d:32c3"
+    "2405:201:900f:a92b:98f4:be9d:dd5d:32c3",
+    "37.19.205.208,51.89.197.91",
+    "2401:4900:b558:1fd1:88b8:84c7:32b0:e256"
   ],
   "views": [
     {
@@ -66628,6 +66630,86 @@
       "timestamp": "2026-01-16T08:33:49.992Z",
       "ip": "2401:4900:51e2:7341:d8e7:c5ff:fe3e:541c",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:3:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-16T08:34:50.813Z",
+      "ip": "2401:4900:51e2:7341:d8e7:c5ff:fe3e:541c",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt11126994:2:1",
+      "title": "Arcane",
+      "timestamp": "2026-01-16T08:34:58.832Z",
+      "ip": "37.19.205.208,51.89.197.91",
+      "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-16T08:45:22.616Z",
+      "ip": "37.19.205.208,51.89.197.91",
+      "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-16T08:45:40.532Z",
+      "ip": "37.19.205.208,51.89.197.91",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt2990140",
+      "title": "tt2990140",
+      "timestamp": "2026-01-16T08:46:53.649Z",
+      "ip": "2401:4900:b558:1fd1:88b8:84c7:32b0:e256",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt34610311",
+      "title": "The Shadow's Edge",
+      "timestamp": "2026-01-16T08:46:53.928Z",
+      "ip": "2401:4900:ab01:ebe8:b4a2:c1d3:f4ad:a6d4",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt23172090",
+      "title": "tt23172090",
+      "timestamp": "2026-01-16T08:46:55.139Z",
+      "ip": "37.19.205.208,51.89.197.91",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt15239678",
+      "title": "Dune: Part Two",
+      "timestamp": "2026-01-16T08:47:28.296Z",
+      "ip": "37.19.205.208,51.89.197.91",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-16T08:47:54.169Z",
+      "ip": "2401:4900:ab01:ebe8:b4a2:c1d3:f4ad:a6d4",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt27203727:1:1",
+      "title": "tt27203727:1:1",
+      "timestamp": "2026-01-16T08:48:35.793Z",
+      "ip": "2401:4900:b558:1fd1:88b8:84c7:32b0:e256",
+      "username": "askchm"
     }
   ],
   "activeNow": {
@@ -69334,11 +69416,11 @@
       "lastActive": 1768545061946
     },
     "2401:4900:ab01:ebe8:b4a2:c1d3:f4ad:a6d4": {
-      "type": "series",
-      "id": "tt35335046:1:7",
-      "title": "tt35335046:1:7",
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
       "username": "vflix1993",
-      "lastActive": 1768548706656
+      "lastActive": 1768553274169
     },
     "2401:4900:7068:bbc6:74e3:c2ff:feb6:85e5": {
       "type": "movie",
@@ -69509,11 +69591,11 @@
       "lastActive": 1768549659353
     },
     "2401:4900:51e2:7341:d8e7:c5ff:fe3e:541c": {
-      "type": "movie",
-      "id": "tt1187043",
-      "title": "3 Idiots",
-      "username": "anonymous",
-      "lastActive": 1768552429992
+      "type": "series",
+      "id": "tt4574334:3:2",
+      "title": "Stranger Things",
+      "username": "b1jju",
+      "lastActive": 1768552490813
     },
     "2409:40e2:1156:f748:2cdb:3457:5a8d:a0c3": {
       "type": "movie",
@@ -69598,6 +69680,20 @@
       "title": "tt32536168:1:2",
       "username": "theonlyfreak",
       "lastActive": 1768552049360
+    },
+    "37.19.205.208,51.89.197.91": {
+      "type": "movie",
+      "id": "tt15239678",
+      "title": "Dune: Part Two",
+      "username": "switchoff009",
+      "lastActive": 1768553248296
+    },
+    "2401:4900:b558:1fd1:88b8:84c7:32b0:e256": {
+      "type": "series",
+      "id": "tt27203727:1:1",
+      "title": "tt27203727:1:1",
+      "username": "askchm",
+      "lastActive": 1768553315793
     }
   }
 }
