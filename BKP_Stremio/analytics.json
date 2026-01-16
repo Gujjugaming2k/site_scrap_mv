@@ -1,5 +1,5 @@
 {
-  "totalViews": 8006,
+  "totalViews": 8021,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1935,7 +1935,11 @@
     "43.229.88.29",
     "2604:3d09:d7f:1600:cc3d:bb94:8f7d:83fa",
     "146.70.142.141",
-    "2401:4900:ba6d:e7e5::2aa2:f135"
+    "2401:4900:ba6d:e7e5::2aa2:f135",
+    "102.113.175.240",
+    "2409:40c1:3024:5157:9c6c:5eff:fe10:8648",
+    "194.61.40.72",
+    "2409:40e5:1175:53ba:54b5:8dff:fe63:6dfe"
   ],
   "views": [
     {
@@ -65975,6 +65979,126 @@
       "timestamp": "2026-01-16T07:12:03.255Z",
       "ip": "115.98.99.86",
       "username": "nothing_8888"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-16T07:19:45.949Z",
+      "ip": "102.113.175.240",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:6:20",
+      "title": "tt0460649:6:20",
+      "timestamp": "2026-01-16T07:22:50.532Z",
+      "ip": "103.44.117.19",
+      "username": "anonymous050100"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:6:21",
+      "title": "tt0460649:6:21",
+      "timestamp": "2026-01-16T07:23:00.412Z",
+      "ip": "103.44.117.19",
+      "username": "anonymous050100"
+    },
+    {
+      "type": "series",
+      "id": "tt5290382:1:2",
+      "title": "tt5290382:1:2",
+      "timestamp": "2026-01-16T07:23:45.636Z",
+      "ip": "156.197.120.196",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt28258888",
+      "title": "tt28258888",
+      "timestamp": "2026-01-16T07:24:36.843Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "movie",
+      "id": "tt1502397",
+      "title": "Bad Boys for Life",
+      "timestamp": "2026-01-16T07:24:54.718Z",
+      "ip": "2409:40c1:3024:5157:9c6c:5eff:fe10:8648",
+      "username": "tips9694"
+    },
+    {
+      "type": "movie",
+      "id": "tt0112442",
+      "title": "Bad Boys",
+      "timestamp": "2026-01-16T07:25:15.749Z",
+      "ip": "2409:40c1:3024:5157:9c6c:5eff:fe10:8648",
+      "username": "tips9694"
+    },
+    {
+      "type": "series",
+      "id": "tt9096108:1:1",
+      "title": "tt9096108:1:1",
+      "timestamp": "2026-01-16T07:26:14.333Z",
+      "ip": "103.249.4.146",
+      "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt1502397",
+      "title": "Bad Boys for Life",
+      "timestamp": "2026-01-16T07:26:42.226Z",
+      "ip": "2409:40c1:3024:5157:9c6c:5eff:fe10:8648",
+      "username": "tips9694"
+    },
+    {
+      "type": "movie",
+      "id": "tt16301164",
+      "title": "tt16301164",
+      "timestamp": "2026-01-16T07:27:07.911Z",
+      "ip": "103.249.4.146",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:6:22",
+      "title": "tt0460649:6:22",
+      "timestamp": "2026-01-16T07:28:15.983Z",
+      "ip": "194.61.40.72",
+      "username": "anonymous050100"
+    },
+    {
+      "type": "movie",
+      "id": "tt15239678",
+      "title": "Dune: Part Two",
+      "timestamp": "2026-01-16T07:29:26.553Z",
+      "ip": "104.28.241.158,51.89.197.91",
+      "username": "switchoff0099"
+    },
+    {
+      "type": "series",
+      "id": "tt31974288:1:1",
+      "title": "tt31974288:1:1",
+      "timestamp": "2026-01-16T07:29:49.025Z",
+      "ip": "2409:40e5:1175:53ba:54b5:8dff:fe63:6dfe",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt0343230:1:1",
+      "title": "tt0343230:1:1",
+      "timestamp": "2026-01-16T07:30:51.240Z",
+      "ip": "2409:40e5:1175:53ba:54b5:8dff:fe63:6dfe",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
+      "timestamp": "2026-01-16T07:31:46.656Z",
+      "ip": "2401:4900:ab01:ebe8:b4a2:c1d3:f4ad:a6d4",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -66169,10 +66293,10 @@
     },
     "103.249.4.146": {
       "type": "movie",
-      "id": "tt32447918",
-      "title": "tt32447918",
+      "id": "tt16301164",
+      "title": "tt16301164",
       "username": "tgh2r",
-      "lastActive": 1768512624401
+      "lastActive": 1768548427911
     },
     "146.52.122.247": {
       "type": "series",
@@ -66568,10 +66692,10 @@
     },
     "115.98.99.86": {
       "type": "movie",
-      "id": "tt27431598",
-      "title": "tt27431598",
+      "id": "tt28258888",
+      "title": "tt28258888",
       "username": "nothing_8888",
-      "lastActive": 1768547523255
+      "lastActive": 1768548276843
     },
     "152.56.156.0": {
       "type": "series",
@@ -68038,10 +68162,10 @@
     },
     "104.28.241.158,51.89.197.91": {
       "type": "movie",
-      "id": "tt0499375",
-      "title": "tt0499375",
+      "id": "tt15239678",
+      "title": "Dune: Part Two",
       "username": "switchoff0099",
-      "lastActive": 1768492396663
+      "lastActive": 1768548566553
     },
     "49.36.81.187": {
       "type": "series",
@@ -68178,10 +68302,10 @@
     },
     "103.44.117.19": {
       "type": "series",
-      "id": "tt0108778:3:1",
-      "title": "tt0108778:3:1",
+      "id": "tt0460649:6:21",
+      "title": "tt0460649:6:21",
       "username": "anonymous050100",
-      "lastActive": 1768486057180
+      "lastActive": 1768548180412
     },
     "106.202.53.237": {
       "type": "series",
@@ -68685,7 +68809,7 @@
       "id": "tt35335046:1:7",
       "title": "tt35335046:1:7",
       "username": "vflix1993",
-      "lastActive": 1768540710865
+      "lastActive": 1768548706656
     },
     "2401:4900:7068:bbc6:74e3:c2ff:feb6:85e5": {
       "type": "movie",
@@ -68745,10 +68869,10 @@
     },
     "156.197.120.196": {
       "type": "series",
-      "id": "tt5290382:1:1",
-      "title": "tt5290382:1:1",
+      "id": "tt5290382:1:2",
+      "title": "tt5290382:1:2",
       "username": "anonymous",
-      "lastActive": 1768544859996
+      "lastActive": 1768548225636
     },
     "182.77.72.137": {
       "type": "series",
@@ -68798,6 +68922,34 @@
       "title": "Game of Thrones",
       "username": "baljeet_002",
       "lastActive": 1768547361893
+    },
+    "102.113.175.240": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "anonymous",
+      "lastActive": 1768547985949
+    },
+    "2409:40c1:3024:5157:9c6c:5eff:fe10:8648": {
+      "type": "movie",
+      "id": "tt1502397",
+      "title": "Bad Boys for Life",
+      "username": "tips9694",
+      "lastActive": 1768548402226
+    },
+    "194.61.40.72": {
+      "type": "series",
+      "id": "tt0460649:6:22",
+      "title": "tt0460649:6:22",
+      "username": "anonymous050100",
+      "lastActive": 1768548495983
+    },
+    "2409:40e5:1175:53ba:54b5:8dff:fe63:6dfe": {
+      "type": "series",
+      "id": "tt0343230:1:1",
+      "title": "tt0343230:1:1",
+      "username": "cyberboy12321",
+      "lastActive": 1768548651240
     }
   }
 }
