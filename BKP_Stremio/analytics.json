@@ -1,5 +1,5 @@
 {
-  "totalViews": 7880,
+  "totalViews": 7882,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -64942,6 +64942,22 @@
       "timestamp": "2026-01-16T03:05:17.594Z",
       "ip": "2409:40e4:1098:e840:88b8:84c7:32b0:e256",
       "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt28434143",
+      "title": "tt28434143",
+      "timestamp": "2026-01-16T03:10:11.096Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:4",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-16T03:13:06.731Z",
+      "ip": "206.172.124.207",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -65534,11 +65550,11 @@
       "lastActive": 1768363149217
     },
     "115.98.99.86": {
-      "type": "series",
-      "id": "tt15529076:2:4",
-      "title": "tt15529076:2:4",
+      "type": "movie",
+      "id": "tt28434143",
+      "title": "tt28434143",
       "username": "nothing_8888",
-      "lastActive": 1768530327518
+      "lastActive": 1768533011096
     },
     "152.56.156.0": {
       "type": "series",
@@ -67530,10 +67546,10 @@
     },
     "206.172.124.207": {
       "type": "series",
-      "id": "tt12343534:3:3",
+      "id": "tt12343534:3:4",
       "title": "JUJUTSU KAISEN",
       "username": "anonymous",
-      "lastActive": 1768527958049
+      "lastActive": 1768533186731
     },
     "138.199.35.3": {
       "type": "series",
