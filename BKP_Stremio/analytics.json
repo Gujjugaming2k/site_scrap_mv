@@ -1,5 +1,5 @@
 {
-  "totalViews": 8705,
+  "totalViews": 8710,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2078,7 +2078,8 @@
     "2a02:842b:8f97:bb01:7173:f022:65e4:4316",
     "2401:4900:93be:631c:a4b7:9bd4:74a9:d74b",
     "49.36.117.21",
-    "2409:40c1:10df:ccc:8000::"
+    "2409:40c1:10df:ccc:8000::",
+    "2402:3a80:18db:3c5b:33cb:272a:7d09:3b80"
   ],
   "views": [
     {
@@ -71710,6 +71711,46 @@
       "timestamp": "2026-01-16T20:11:00.518Z",
       "ip": "202.173.124.127",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "null:3:3",
+      "title": "null:3:3",
+      "timestamp": "2026-01-16T20:15:34.497Z",
+      "ip": "49.36.117.21",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1196946:2:6",
+      "title": "tt1196946:2:6",
+      "timestamp": "2026-01-16T20:21:43.365Z",
+      "ip": "2402:3a80:18db:3c5b:33cb:272a:7d09:3b80",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1196946:2:6",
+      "title": "tt1196946:2:6",
+      "timestamp": "2026-01-16T20:21:52.322Z",
+      "ip": "2402:3a80:18db:3c5b:33cb:272a:7d09:3b80",
+      "username": "schnom153"
+    },
+    {
+      "type": "series",
+      "id": "tt1196946:2:6",
+      "title": "tt1196946:2:6",
+      "timestamp": "2026-01-16T20:23:25.781Z",
+      "ip": "2402:3a80:18db:3c5b:33cb:272a:7d09:3b80",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1196946:2:5",
+      "title": "tt1196946:2:5",
+      "timestamp": "2026-01-16T20:23:33.814Z",
+      "ip": "2402:3a80:18db:3c5b:33cb:272a:7d09:3b80",
+      "username": "schnom153"
     }
   ],
   "activeNow": {
@@ -75551,10 +75592,10 @@
     },
     "49.36.117.21": {
       "type": "series",
-      "id": "null:3:2",
-      "title": "null:3:2",
+      "id": "null:3:3",
+      "title": "null:3:3",
       "username": "anonymous",
-      "lastActive": 1768593248576
+      "lastActive": 1768594534497
     },
     "2409:40c1:10df:ccc:8000::": {
       "type": "movie",
@@ -75562,6 +75603,13 @@
       "title": "tt1133985",
       "username": "rahul_officialx",
       "lastActive": 1768593475869
+    },
+    "2402:3a80:18db:3c5b:33cb:272a:7d09:3b80": {
+      "type": "series",
+      "id": "tt1196946:2:5",
+      "title": "tt1196946:2:5",
+      "username": "schnom153",
+      "lastActive": 1768595013814
     }
   }
 }
