@@ -1,5 +1,5 @@
 {
-  "totalViews": 8270,
+  "totalViews": 8280,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1993,7 +1993,10 @@
     "2409:40e0:101e:e892:4c67:dbff:fe6a:14d6",
     "202.142.105.140",
     "2401:4900:88b8:e518:ebdb:32e2:8a7f:e59b",
-    "2401:4900:8832:6a3a:684c:b02f:30a:5ed0"
+    "2401:4900:8832:6a3a:684c:b02f:30a:5ed0",
+    "2a09:bac5:3fdb:eaa::176:7b",
+    "2409:40d4:40db:ad3e:68ef:43e6:79f0:1f0d",
+    "2401:4900:1c54:67f7:8099:3356:cab8:4339"
   ],
   "views": [
     {
@@ -68145,6 +68148,86 @@
       "timestamp": "2026-01-16T11:56:03.314Z",
       "ip": "2401:4900:8fdf:96e3:13b4:a0d0:b270:9cc8",
       "username": "arjun2077"
+    },
+    {
+      "type": "series",
+      "id": "tt10233448:1:2",
+      "title": "Vinland Saga",
+      "timestamp": "2026-01-16T11:57:47.179Z",
+      "ip": "2401:4900:8fdf:96e3:13b4:a0d0:b270:9cc8",
+      "username": "arjun2077"
+    },
+    {
+      "type": "series",
+      "id": "tt10233448:1:2",
+      "title": "Vinland Saga",
+      "timestamp": "2026-01-16T11:58:02.508Z",
+      "ip": "2401:4900:8fdf:96e3:13b4:a0d0:b270:9cc8",
+      "username": "arjun2077"
+    },
+    {
+      "type": "series",
+      "id": "tt10233448:1:2",
+      "title": "Vinland Saga",
+      "timestamp": "2026-01-16T12:01:38.163Z",
+      "ip": "2401:4900:8fdf:96e3:13b4:a0d0:b270:9cc8",
+      "username": "arjun2077"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:1:24",
+      "title": "tt6354518:1:24",
+      "timestamp": "2026-01-16T12:06:16.000Z",
+      "ip": "2a09:bac5:3fdb:eaa::176:7b",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:1",
+      "title": "tt6354518:2:1",
+      "timestamp": "2026-01-16T12:06:16.089Z",
+      "ip": "2a09:bac5:3fdb:eaa::176:7b",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:3",
+      "title": "tt35335046:1:3",
+      "timestamp": "2026-01-16T12:06:59.320Z",
+      "ip": "110.235.219.255",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:13",
+      "title": "Death Note",
+      "timestamp": "2026-01-16T12:07:31.820Z",
+      "ip": "2409:40d4:40db:ad3e:68ef:43e6:79f0:1f0d",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt32537124:1:2",
+      "title": "tt32537124:1:2",
+      "timestamp": "2026-01-16T12:10:52.674Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt32537124:1:3",
+      "title": "tt32537124:1:3",
+      "timestamp": "2026-01-16T12:11:08.362Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt0371735",
+      "title": "tt0371735",
+      "timestamp": "2026-01-16T12:11:15.792Z",
+      "ip": "2401:4900:1c54:67f7:8099:3356:cab8:4339",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -70523,10 +70606,10 @@
     },
     "139.5.196.103": {
       "type": "series",
-      "id": "tt16085542:1:2",
-      "title": "tt16085542:1:2",
+      "id": "tt32537124:1:3",
+      "title": "tt32537124:1:3",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768496051736
+      "lastActive": 1768565468362
     },
     "2001:8f8:1c61:10e:6d22:2f71:69c0:7c12": {
       "type": "movie",
@@ -71251,10 +71334,10 @@
     },
     "110.235.219.255": {
       "type": "series",
-      "id": "tt35335046:1:2",
-      "title": "tt35335046:1:2",
+      "id": "tt35335046:1:3",
+      "title": "tt35335046:1:3",
       "username": "anonymous",
-      "lastActive": 1768560193074
+      "lastActive": 1768565219320
     },
     "2404:bd00:3:dc97:b65e:cb71:f094:70f7": {
       "type": "movie",
@@ -71310,7 +71393,7 @@
       "id": "tt10233448:1:2",
       "title": "Vinland Saga",
       "username": "arjun2077",
-      "lastActive": 1768564563314
+      "lastActive": 1768564898163
     },
     "2401:4900:1c54:67f7:c9db:7e54:b682:a660": {
       "type": "movie",
@@ -71374,6 +71457,27 @@
       "title": "tt0388629:16:15",
       "username": "anonymous",
       "lastActive": 1768564012488
+    },
+    "2a09:bac5:3fdb:eaa::176:7b": {
+      "type": "series",
+      "id": "tt6354518:2:1",
+      "title": "tt6354518:2:1",
+      "username": "sinbad1722",
+      "lastActive": 1768565176089
+    },
+    "2409:40d4:40db:ad3e:68ef:43e6:79f0:1f0d": {
+      "type": "series",
+      "id": "tt0877057:1:13",
+      "title": "Death Note",
+      "username": "anonymous",
+      "lastActive": 1768565251820
+    },
+    "2401:4900:1c54:67f7:8099:3356:cab8:4339": {
+      "type": "movie",
+      "id": "tt0371735",
+      "title": "tt0371735",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1768565475792
     }
   }
 }
