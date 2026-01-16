@@ -1,5 +1,5 @@
 {
-  "totalViews": 7835,
+  "totalViews": 7839,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1902,7 +1902,8 @@
     "197.14.190.152",
     "2a01:e0a:dec:b940:68c3:4e01:fdba:4203",
     "2401:4900:88ba:451f:8b61:a1d:8efb:5ec4",
-    "105.72.51.190"
+    "105.72.51.190",
+    "206.172.124.207"
   ],
   "views": [
     {
@@ -64574,6 +64575,38 @@
       "timestamp": "2026-01-16T01:26:24.527Z",
       "ip": "103.24.85.161",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
+      "timestamp": "2026-01-16T01:44:30.004Z",
+      "ip": "2401:4900:aaf3:8ef6:c404:f1e2:3f38:fbec",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:5",
+      "title": "tt35335046:1:5",
+      "timestamp": "2026-01-16T01:44:59.105Z",
+      "ip": "2401:4900:aaf3:8ef6:c404:f1e2:3f38:fbec",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:6",
+      "title": "tt35335046:1:6",
+      "timestamp": "2026-01-16T01:45:13.033Z",
+      "ip": "2401:4900:aaf3:8ef6:c404:f1e2:3f38:fbec",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:3",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-16T01:45:58.049Z",
+      "ip": "206.172.124.207",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -65352,7 +65385,7 @@
       "id": "tt35335046:1:6",
       "title": "tt35335046:1:6",
       "username": "vflix1993",
-      "lastActive": 1768497070953
+      "lastActive": 1768527913033
     },
     "152.59.148.30": {
       "type": "movie",
@@ -67159,6 +67192,13 @@
       "title": "tt7335184:1:5",
       "username": "anonymous",
       "lastActive": 1768524842759
+    },
+    "206.172.124.207": {
+      "type": "series",
+      "id": "tt12343534:3:3",
+      "title": "JUJUTSU KAISEN",
+      "username": "anonymous",
+      "lastActive": 1768527958049
     }
   }
 }
