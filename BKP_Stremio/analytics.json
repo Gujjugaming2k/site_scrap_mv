@@ -1,5 +1,5 @@
 {
-  "totalViews": 8282,
+  "totalViews": 8293,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1996,7 +1996,10 @@
     "2401:4900:8832:6a3a:684c:b02f:30a:5ed0",
     "2a09:bac5:3fdb:eaa::176:7b",
     "2409:40d4:40db:ad3e:68ef:43e6:79f0:1f0d",
-    "2401:4900:1c54:67f7:8099:3356:cab8:4339"
+    "2401:4900:1c54:67f7:8099:3356:cab8:4339",
+    "2402:a00:10a:815f:25d7:5734:db7:e3be",
+    "49.43.109.4",
+    "2409:40d4:40db:ad3e:7de6:32d7:fd92:bca6"
   ],
   "views": [
     {
@@ -68244,6 +68247,94 @@
       "timestamp": "2026-01-16T12:27:09.502Z",
       "ip": "104.28.205.70",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-01-16T12:27:30.068Z",
+      "ip": "2402:a00:10a:815f:25d7:5734:db7:e3be",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt15239678",
+      "title": "Dune: Part Two",
+      "timestamp": "2026-01-16T12:28:27.230Z",
+      "ip": "104.28.241.158,51.89.197.91",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt15239678",
+      "title": "Dune: Part Two",
+      "timestamp": "2026-01-16T12:28:41.395Z",
+      "ip": "104.28.241.158,51.89.197.91",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-01-16T12:28:41.622Z",
+      "ip": "2402:a00:10a:815f:25d7:5734:db7:e3be",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-01-16T12:28:49.253Z",
+      "ip": "2402:a00:10a:815f:25d7:5734:db7:e3be",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt15239678",
+      "title": "Dune: Part Two",
+      "timestamp": "2026-01-16T12:29:02.252Z",
+      "ip": "104.28.241.158,51.89.197.91",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt14107334",
+      "title": "tt14107334",
+      "timestamp": "2026-01-16T12:31:25.506Z",
+      "ip": "2402:a00:10a:815f:25d7:5734:db7:e3be",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-16T12:31:30.057Z",
+      "ip": "2405:201:500c:496b:2e1b:3aff:fe14:f417",
+      "username": "karthik"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-16T12:34:23.065Z",
+      "ip": "49.43.109.4",
+      "username": "karthik"
+    },
+    {
+      "type": "series",
+      "id": "tt4508902",
+      "title": "tt4508902",
+      "timestamp": "2026-01-16T12:35:00.586Z",
+      "ip": "2405:201:500c:496b:2e1b:3aff:fe14:f417",
+      "username": "karthik"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:13",
+      "title": "Death Note",
+      "timestamp": "2026-01-16T12:39:13.802Z",
+      "ip": "2409:40d4:40db:ad3e:7de6:32d7:fd92:bca6",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -70309,8 +70400,8 @@
       "type": "movie",
       "id": "tt15239678",
       "title": "Dune: Part Two",
-      "username": "switchoff0099",
-      "lastActive": 1768548566553
+      "username": "switchoff009",
+      "lastActive": 1768566542252
     },
     "49.36.81.187": {
       "type": "series",
@@ -71501,6 +71592,34 @@
       "title": "Stranger Things",
       "username": "anonymous",
       "lastActive": 1768566429502
+    },
+    "2402:a00:10a:815f:25d7:5734:db7:e3be": {
+      "type": "movie",
+      "id": "tt14107334",
+      "title": "tt14107334",
+      "username": "vflix1993",
+      "lastActive": 1768566685506
+    },
+    "2405:201:500c:496b:2e1b:3aff:fe14:f417": {
+      "type": "series",
+      "id": "tt4508902",
+      "title": "tt4508902",
+      "username": "karthik",
+      "lastActive": 1768566900586
+    },
+    "49.43.109.4": {
+      "type": "series",
+      "id": "tt12343534",
+      "title": "JUJUTSU KAISEN",
+      "username": "karthik",
+      "lastActive": 1768566863065
+    },
+    "2409:40d4:40db:ad3e:7de6:32d7:fd92:bca6": {
+      "type": "series",
+      "id": "tt0877057:1:13",
+      "title": "Death Note",
+      "username": "anonymous",
+      "lastActive": 1768567153802
     }
   }
 }
