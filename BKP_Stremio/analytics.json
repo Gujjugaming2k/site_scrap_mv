@@ -1,5 +1,5 @@
 {
-  "totalViews": 8189,
+  "totalViews": 8203,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1979,7 +1979,9 @@
     "110.235.219.255",
     "2404:bd00:3:dc97:b65e:cb71:f094:70f7",
     "2409:40d4:40db:ad3e:a889:e215:30b8:64d5",
-    "2409:40f0:240b:6643:b0f6:ceff:fef0:7f9f"
+    "2409:40f0:240b:6643:b0f6:ceff:fef0:7f9f",
+    "2400:1a00:7b4c:192a:70cf:7fb9:4679:dae0",
+    "2405:201:6025:a88d:7c08:80b1:56fc:2bc1"
   ],
   "views": [
     {
@@ -67483,6 +67485,118 @@
       "timestamp": "2026-01-16T10:21:10.683Z",
       "ip": "2404:bd00:3:dc97:b65e:cb71:f094:70f7",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-01-16T10:21:22.915Z",
+      "ip": "2409:40f0:240b:6643:b0f6:ceff:fef0:7f9f",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt21272942",
+      "title": "tt21272942",
+      "timestamp": "2026-01-16T10:21:24.975Z",
+      "ip": "2409:40f0:240b:6643:b0f6:ceff:fef0:7f9f",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt0425112",
+      "title": "tt0425112",
+      "timestamp": "2026-01-16T10:22:01.547Z",
+      "ip": "2404:bd00:3:dc97:b65e:cb71:f094:70f7",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt3104114:1:4",
+      "title": "tt3104114:1:4",
+      "timestamp": "2026-01-16T10:22:58.921Z",
+      "ip": "2400:1a00:7b4c:192a:70cf:7fb9:4679:dae0",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0978553:0:1",
+      "title": "tt0978553:0:1",
+      "timestamp": "2026-01-16T10:23:17.439Z",
+      "ip": "2400:1a00:7b4c:192a:70cf:7fb9:4679:dae0",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0978553:0:3",
+      "title": "tt0978553:0:3",
+      "timestamp": "2026-01-16T10:25:17.456Z",
+      "ip": "2400:1a00:7b4c:192a:70cf:7fb9:4679:dae0",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0978553:0:4",
+      "title": "tt0978553:0:4",
+      "timestamp": "2026-01-16T10:26:31.844Z",
+      "ip": "2400:1a00:7b4c:192a:70cf:7fb9:4679:dae0",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0295297",
+      "title": "Harry Potter and the Chamber of Secrets",
+      "timestamp": "2026-01-16T10:26:36.301Z",
+      "ip": "2001:8f8:1c61:10e:6d22:2f71:69c0:7c12",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0978553:0:7",
+      "title": "tt0978553:0:7",
+      "timestamp": "2026-01-16T10:27:06.659Z",
+      "ip": "2400:1a00:7b4c:192a:70cf:7fb9:4679:dae0",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0978553:2:9",
+      "title": "tt0978553:2:9",
+      "timestamp": "2026-01-16T10:27:56.098Z",
+      "ip": "2400:1a00:7b4c:192a:70cf:7fb9:4679:dae0",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0978553:1:7",
+      "title": "tt0978553:1:7",
+      "timestamp": "2026-01-16T10:29:12.203Z",
+      "ip": "2400:1a00:7b4c:192a:70cf:7fb9:4679:dae0",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-01-16T10:33:16.166Z",
+      "ip": "2405:201:6025:a88d:7c08:80b1:56fc:2bc1",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:12",
+      "title": "Death Note",
+      "timestamp": "2026-01-16T10:33:57.352Z",
+      "ip": "2409:40d4:40db:ad3e:a889:e215:30b8:64d5",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0159206:4:3",
+      "title": "tt0159206:4:3",
+      "timestamp": "2026-01-16T10:34:47.927Z",
+      "ip": "2a06:c701:98f3:1500:b5ce:cf03:5459:9251",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -69651,10 +69765,10 @@
     },
     "2a06:c701:98f3:1500:b5ce:cf03:5459:9251": {
       "type": "series",
-      "id": "tt0159206:4:2",
-      "title": "tt0159206:4:2",
+      "id": "tt0159206:4:3",
+      "title": "tt0159206:4:3",
       "username": "anonymous",
-      "lastActive": 1768558018947
+      "lastActive": 1768559687927
     },
     "183.83.146.164": {
       "type": "series",
@@ -69868,10 +69982,10 @@
     },
     "2001:8f8:1c61:10e:6d22:2f71:69c0:7c12": {
       "type": "movie",
-      "id": "tt0241527",
-      "title": "Harry Potter and the Philosopher's Stone",
+      "id": "tt0295297",
+      "title": "Harry Potter and the Chamber of Secrets",
       "username": "anonymous",
-      "lastActive": 1768496438194
+      "lastActive": 1768559196301
     },
     "41.96.197.38": {
       "type": "series",
@@ -70599,21 +70713,35 @@
       "id": "tt0425112",
       "title": "tt0425112",
       "username": "anonymous",
-      "lastActive": 1768558870683
+      "lastActive": 1768558921547
     },
     "2409:40d4:40db:ad3e:a889:e215:30b8:64d5": {
       "type": "series",
-      "id": "tt0877057:1:11",
+      "id": "tt0877057:1:12",
       "title": "Death Note",
       "username": "anonymous",
-      "lastActive": 1768558308611
+      "lastActive": 1768559637352
     },
     "2409:40f0:240b:6643:b0f6:ceff:fef0:7f9f": {
       "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
+      "id": "tt21272942",
+      "title": "tt21272942",
       "username": "sachinprem1",
-      "lastActive": 1768558791209
+      "lastActive": 1768558884975
+    },
+    "2400:1a00:7b4c:192a:70cf:7fb9:4679:dae0": {
+      "type": "series",
+      "id": "tt0978553:1:7",
+      "title": "tt0978553:1:7",
+      "username": "anonymous",
+      "lastActive": 1768559352203
+    },
+    "2405:201:6025:a88d:7c08:80b1:56fc:2bc1": {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "username": "infinityseeker",
+      "lastActive": 1768559596166
     }
   }
 }
