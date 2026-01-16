@@ -1,5 +1,5 @@
 {
-  "totalViews": 8293,
+  "totalViews": 8301,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1999,7 +1999,11 @@
     "2401:4900:1c54:67f7:8099:3356:cab8:4339",
     "2402:a00:10a:815f:25d7:5734:db7:e3be",
     "49.43.109.4",
-    "2409:40d4:40db:ad3e:7de6:32d7:fd92:bca6"
+    "2409:40d4:40db:ad3e:7de6:32d7:fd92:bca6",
+    "2409:40f3:2081:197:d43f:3c95:da23:d35b",
+    "2405:201:6820:a83c:2139:365:dba9:c237",
+    "152.59.163.118",
+    "103.175.168.106"
   ],
   "views": [
     {
@@ -68335,6 +68339,70 @@
       "timestamp": "2026-01-16T12:39:13.802Z",
       "ip": "2409:40d4:40db:ad3e:7de6:32d7:fd92:bca6",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10233448:1:1",
+      "title": "Vinland Saga",
+      "timestamp": "2026-01-16T12:43:22.766Z",
+      "ip": "2401:4900:8fdf:96e3:13b4:a0d0:b270:9cc8",
+      "username": "arjun2077"
+    },
+    {
+      "type": "movie",
+      "id": "tt2555958",
+      "title": "tt2555958",
+      "timestamp": "2026-01-16T12:43:38.049Z",
+      "ip": "2409:40f3:2081:197:d43f:3c95:da23:d35b",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt21272942",
+      "title": "tt21272942",
+      "timestamp": "2026-01-16T12:47:59.491Z",
+      "ip": "2405:201:6820:a83c:2139:365:dba9:c237",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt5580390",
+      "title": "tt5580390",
+      "timestamp": "2026-01-16T12:48:35.662Z",
+      "ip": "152.59.163.118",
+      "username": "jinwoooooi"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:14",
+      "title": "Death Note",
+      "timestamp": "2026-01-16T12:49:18.587Z",
+      "ip": "2409:40d4:40db:ad3e:7de6:32d7:fd92:bca6",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "timestamp": "2026-01-16T12:54:21.935Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "timestamp": "2026-01-16T12:56:24.748Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "movie",
+      "id": "tt14107334",
+      "title": "tt14107334",
+      "timestamp": "2026-01-16T12:57:16.030Z",
+      "ip": "103.249.4.146",
+      "username": "tgh2r"
     }
   ],
   "activeNow": {
@@ -68529,10 +68597,10 @@
     },
     "103.249.4.146": {
       "type": "movie",
-      "id": "tt16301164",
-      "title": "tt16301164",
+      "id": "tt14107334",
+      "title": "tt14107334",
       "username": "tgh2r",
-      "lastActive": 1768548427911
+      "lastActive": 1768568236030
     },
     "146.52.122.247": {
       "type": "series",
@@ -71497,10 +71565,10 @@
     },
     "2401:4900:8fdf:96e3:13b4:a0d0:b270:9cc8": {
       "type": "series",
-      "id": "tt10233448:1:2",
+      "id": "tt10233448:1:1",
       "title": "Vinland Saga",
       "username": "arjun2077",
-      "lastActive": 1768564898163
+      "lastActive": 1768567402766
     },
     "2401:4900:1c54:67f7:c9db:7e54:b682:a660": {
       "type": "movie",
@@ -71616,10 +71684,38 @@
     },
     "2409:40d4:40db:ad3e:7de6:32d7:fd92:bca6": {
       "type": "series",
-      "id": "tt0877057:1:13",
+      "id": "tt0877057:1:14",
       "title": "Death Note",
       "username": "anonymous",
-      "lastActive": 1768567153802
+      "lastActive": 1768567758587
+    },
+    "2409:40f3:2081:197:d43f:3c95:da23:d35b": {
+      "type": "movie",
+      "id": "tt2555958",
+      "title": "tt2555958",
+      "username": "anonymous",
+      "lastActive": 1768567418049
+    },
+    "2405:201:6820:a83c:2139:365:dba9:c237": {
+      "type": "movie",
+      "id": "tt21272942",
+      "title": "tt21272942",
+      "username": "demon18319",
+      "lastActive": 1768567679491
+    },
+    "152.59.163.118": {
+      "type": "movie",
+      "id": "tt5580390",
+      "title": "tt5580390",
+      "username": "jinwoooooi",
+      "lastActive": 1768567715662
+    },
+    "103.175.168.106": {
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "username": "un0fficial_itachi",
+      "lastActive": 1768568184748
     }
   }
 }
