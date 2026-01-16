@@ -1,5 +1,5 @@
 {
-  "totalViews": 8150,
+  "totalViews": 8159,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1971,7 +1971,9 @@
     "2401:4900:188a:e1d7:2878:bdff:fe5c:823a",
     "2409:40c1:102a:3369:10a0:af28:2bfd:d47",
     "2409:40e0:19:f032:2168:2927:c02a:ffba",
-    "47.15.113.2"
+    "47.15.113.2",
+    "2a02:6ea0:d101:6224::14",
+    "152.59.184.200"
   ],
   "views": [
     {
@@ -67163,6 +67165,78 @@
       "timestamp": "2026-01-16T09:32:24.948Z",
       "ip": "2401:4900:8838:8908:9507:cc0d:5fec:129c",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt36926733",
+      "title": "tt36926733",
+      "timestamp": "2026-01-16T09:37:26.712Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt36926733",
+      "title": "tt36926733",
+      "timestamp": "2026-01-16T09:37:45.938Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-16T09:40:29.338Z",
+      "ip": "49.207.193.58",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0159206:4:1",
+      "title": "tt0159206:4:1",
+      "timestamp": "2026-01-16T09:47:32.014Z",
+      "ip": "2a06:c701:98f3:1500:b5ce:cf03:5459:9251",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0159206:4:2",
+      "title": "tt0159206:4:2",
+      "timestamp": "2026-01-16T09:47:35.630Z",
+      "ip": "2a06:c701:98f3:1500:b5ce:cf03:5459:9251",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt33500164",
+      "title": "tt33500164",
+      "timestamp": "2026-01-16T09:49:06.029Z",
+      "ip": "2a02:6ea0:d101:6224::14",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt15239678",
+      "title": "Dune: Part Two",
+      "timestamp": "2026-01-16T09:49:14.368Z",
+      "ip": "104.28.241.157,51.89.197.91",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt1130884",
+      "title": "Shutter Island",
+      "timestamp": "2026-01-16T09:49:49.142Z",
+      "ip": "2401:4900:51e2:7341:d8e7:c5ff:fe3e:541c",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt16385150:1:1",
+      "title": "tt16385150:1:1",
+      "timestamp": "2026-01-16T09:50:24.917Z",
+      "ip": "152.59.184.200",
+      "username": "infinityseeker"
     }
   ],
   "activeNow": {
@@ -67175,10 +67249,10 @@
     },
     "38.134.138.246": {
       "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
+      "id": "tt36926733",
+      "title": "tt36926733",
       "username": "thala_75",
-      "lastActive": 1768462848255
+      "lastActive": 1768556265938
     },
     "182.69.178.28": {
       "type": "series",
@@ -69128,10 +69202,10 @@
     },
     "104.28.241.157,51.89.197.91": {
       "type": "movie",
-      "id": "tt0499375",
-      "title": "tt0499375",
-      "username": "switchoff0099",
-      "lastActive": 1768492997604
+      "id": "tt15239678",
+      "title": "Dune: Part Two",
+      "username": "switchoff009",
+      "lastActive": 1768556954368
     },
     "2001:4490:4e65:6f29:7230:1479:966d:a731": {
       "type": "movie",
@@ -69331,10 +69405,10 @@
     },
     "2a06:c701:98f3:1500:b5ce:cf03:5459:9251": {
       "type": "series",
-      "id": "tt3526078:3:2",
-      "title": "tt3526078:3:2",
+      "id": "tt0159206:4:2",
+      "title": "tt0159206:4:2",
       "username": "anonymous",
-      "lastActive": 1768482531945
+      "lastActive": 1768556855630
     },
     "183.83.146.164": {
       "type": "series",
@@ -69611,10 +69685,10 @@
     },
     "49.207.193.58": {
       "type": "movie",
-      "id": "tt28551273",
-      "title": "tt28551273",
+      "id": "tt32642706",
+      "title": "tt32642706",
       "username": "anonymous",
-      "lastActive": 1768545017628
+      "lastActive": 1768556429338
     },
     "105.103.251.182": {
       "type": "movie",
@@ -70048,7 +70122,7 @@
       "id": "tt1130884",
       "title": "Shutter Island",
       "username": "anonymous",
-      "lastActive": 1768555391793
+      "lastActive": 1768556989142
     },
     "2409:40e2:1156:f748:2cdb:3457:5a8d:a0c3": {
       "type": "movie",
@@ -70238,6 +70312,20 @@
       "title": "Fallout",
       "username": "demon18319",
       "lastActive": 1768555396665
+    },
+    "2a02:6ea0:d101:6224::14": {
+      "type": "movie",
+      "id": "tt33500164",
+      "title": "tt33500164",
+      "username": "golu_vk",
+      "lastActive": 1768556946029
+    },
+    "152.59.184.200": {
+      "type": "series",
+      "id": "tt16385150:1:1",
+      "title": "tt16385150:1:1",
+      "username": "infinityseeker",
+      "lastActive": 1768557024917
     }
   }
 }
