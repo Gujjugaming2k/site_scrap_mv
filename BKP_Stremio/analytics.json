@@ -1,5 +1,5 @@
 {
-  "totalViews": 8686,
+  "totalViews": 8691,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2071,7 +2071,9 @@
     "2409:40c2:3c:427f:283b:89ff:fe03:5420",
     "2402:3a80:4434:696c:3c51:e307:140d:3a12",
     "2a09:bac5:3fd8:eaa::176:ae",
-    "2a09:bac5:3af3:7eb::ca:19e,51.89.197.91"
+    "2a09:bac5:3af3:7eb::ca:19e,51.89.197.91",
+    "2001:ac8:31:f020:145e:d833:ca:826b",
+    "2409:40c1:103c:6445:8000::"
   ],
   "views": [
     {
@@ -71551,6 +71553,46 @@
       "timestamp": "2026-01-16T19:09:11.982Z",
       "ip": "2409:40c2:3c:427f:283b:89ff:fe03:5420",
       "username": "agentmj47"
+    },
+    {
+      "type": "series",
+      "id": "tt2384811:1:1",
+      "title": "tt2384811:1:1",
+      "timestamp": "2026-01-16T19:18:33.579Z",
+      "ip": "59.152.80.69",
+      "username": "sexhabibi"
+    },
+    {
+      "type": "movie",
+      "id": "tt30395619",
+      "title": "tt30395619",
+      "timestamp": "2026-01-16T19:18:37.687Z",
+      "ip": "159.26.115.38",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt5332206:1:1",
+      "title": "tt5332206:1:1",
+      "timestamp": "2026-01-16T19:19:03.860Z",
+      "ip": "2001:ac8:31:f020:145e:d833:ca:826b",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt5332206:1:1",
+      "title": "tt5332206:1:1",
+      "timestamp": "2026-01-16T19:25:44.926Z",
+      "ip": "2001:ac8:31:f020:145e:d833:ca:826b",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt2405470",
+      "title": "tt2405470",
+      "timestamp": "2026-01-16T19:25:51.899Z",
+      "ip": "2409:40c1:103c:6445:8000::",
+      "username": "rahul_officialx"
     }
   ],
   "activeNow": {
@@ -72262,11 +72304,11 @@
       "lastActive": 1768373358736
     },
     "59.152.80.69": {
-      "type": "movie",
-      "id": "tt0372183",
-      "title": "The Bourne Supremacy",
+      "type": "series",
+      "id": "tt2384811:1:1",
+      "title": "tt2384811:1:1",
       "username": "sexhabibi",
-      "lastActive": 1768552275076
+      "lastActive": 1768591113579
     },
     "2401:4900:1c5e:4184:cbbc:98f3:f54b:f5a1": {
       "type": "movie",
@@ -75293,11 +75335,11 @@
       "lastActive": 1768586323908
     },
     "159.26.115.38": {
-      "type": "series",
-      "id": "tt12343534:3:2",
-      "title": "JUJUTSU KAISEN",
+      "type": "movie",
+      "id": "tt30395619",
+      "title": "tt30395619",
       "username": "golu_vk",
-      "lastActive": 1768590509774
+      "lastActive": 1768591117687
     },
     "49.37.11.94": {
       "type": "series",
@@ -75354,6 +75396,20 @@
       "title": "tt33244668",
       "username": "switchoff009",
       "lastActive": 1768590161238
+    },
+    "2001:ac8:31:f020:145e:d833:ca:826b": {
+      "type": "series",
+      "id": "tt5332206:1:1",
+      "title": "tt5332206:1:1",
+      "username": "anonymous",
+      "lastActive": 1768591544926
+    },
+    "2409:40c1:103c:6445:8000::": {
+      "type": "movie",
+      "id": "tt2405470",
+      "title": "tt2405470",
+      "username": "rahul_officialx",
+      "lastActive": 1768591551899
     }
   }
 }
