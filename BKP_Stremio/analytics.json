@@ -1,5 +1,5 @@
 {
-  "totalViews": 8762,
+  "totalViews": 8770,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2084,7 +2084,9 @@
     "15.160.63.217",
     "41.141.168.231",
     "2a06:c701:474f:e900:2c5a:38c5:4aac:c6ca",
-    "185.111.157.253"
+    "185.111.157.253",
+    "154.254.216.18",
+    "2a02:ce0:2002:cfbc:9cfa:ebc7:34f3:8960"
   ],
   "views": [
     {
@@ -72172,6 +72174,70 @@
       "timestamp": "2026-01-16T22:59:08.978Z",
       "ip": "185.111.157.253",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:2:1",
+      "title": "tt0369179:2:1",
+      "timestamp": "2026-01-16T23:22:09.409Z",
+      "ip": "154.254.216.18",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt22202452:1:4",
+      "title": "tt22202452:1:4",
+      "timestamp": "2026-01-16T23:33:03.298Z",
+      "ip": "41.141.168.231",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2365946:1:2",
+      "title": "tt2365946:1:2",
+      "timestamp": "2026-01-16T23:33:39.507Z",
+      "ip": "2a06:c701:474f:e900:2c5a:38c5:4aac:c6ca",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0199007",
+      "title": "tt0199007",
+      "timestamp": "2026-01-16T23:33:54.768Z",
+      "ip": "2a02:ce0:2002:cfbc:9cfa:ebc7:34f3:8960",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2365946:1:3",
+      "title": "tt2365946:1:3",
+      "timestamp": "2026-01-16T23:34:47.682Z",
+      "ip": "2a06:c701:474f:e900:2c5a:38c5:4aac:c6ca",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2365946:1:2",
+      "title": "tt2365946:1:2",
+      "timestamp": "2026-01-16T23:35:57.445Z",
+      "ip": "2a06:c701:474f:e900:2c5a:38c5:4aac:c6ca",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2365946:1:3",
+      "title": "tt2365946:1:3",
+      "timestamp": "2026-01-16T23:36:06.692Z",
+      "ip": "2a06:c701:474f:e900:2c5a:38c5:4aac:c6ca",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2365946:1:2",
+      "title": "tt2365946:1:2",
+      "timestamp": "2026-01-16T23:36:22.149Z",
+      "ip": "2a06:c701:474f:e900:2c5a:38c5:4aac:c6ca",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -76048,17 +76114,17 @@
     },
     "41.141.168.231": {
       "type": "series",
-      "id": "tt22202452:1:3",
-      "title": "tt22202452:1:3",
+      "id": "tt22202452:1:4",
+      "title": "tt22202452:1:4",
       "username": "anonymous",
-      "lastActive": 1768604043151
+      "lastActive": 1768606383298
     },
     "2a06:c701:474f:e900:2c5a:38c5:4aac:c6ca": {
       "type": "series",
-      "id": "tt2365946:1:1",
-      "title": "tt2365946:1:1",
+      "id": "tt2365946:1:2",
+      "title": "tt2365946:1:2",
       "username": "anonymous",
-      "lastActive": 1768602818166
+      "lastActive": 1768606582149
     },
     "185.111.157.253": {
       "type": "movie",
@@ -76066,6 +76132,20 @@
       "title": "The Shawshank Redemption",
       "username": "anonymous",
       "lastActive": 1768604348978
+    },
+    "154.254.216.18": {
+      "type": "series",
+      "id": "tt0369179:2:1",
+      "title": "tt0369179:2:1",
+      "username": "anonymous",
+      "lastActive": 1768605729409
+    },
+    "2a02:ce0:2002:cfbc:9cfa:ebc7:34f3:8960": {
+      "type": "movie",
+      "id": "tt0199007",
+      "title": "tt0199007",
+      "username": "anonymous",
+      "lastActive": 1768606434768
     }
   }
 }
