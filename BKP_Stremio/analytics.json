@@ -1,5 +1,5 @@
 {
-  "totalViews": 8721,
+  "totalViews": 8723,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -71840,6 +71840,22 @@
       "timestamp": "2026-01-16T20:41:33.321Z",
       "ip": "72.255.11.154",
       "username": "hvre2"
+    },
+    {
+      "type": "series",
+      "id": "tt0364845:17:3",
+      "title": "tt0364845:17:3",
+      "timestamp": "2026-01-16T20:49:41.054Z",
+      "ip": "59.152.80.69",
+      "username": "sexhabibi"
+    },
+    {
+      "type": "movie",
+      "id": "tt1659343",
+      "title": "tt1659343",
+      "timestamp": "2026-01-16T20:54:21.886Z",
+      "ip": "2401:4900:93be:631c:a4b7:9bd4:74a9:d74b",
+      "username": "elite_user13"
     }
   ],
   "activeNow": {
@@ -72552,10 +72568,10 @@
     },
     "59.152.80.69": {
       "type": "series",
-      "id": "tt2384811:1:1",
-      "title": "tt2384811:1:1",
+      "id": "tt0364845:17:3",
+      "title": "tt0364845:17:3",
       "username": "sexhabibi",
-      "lastActive": 1768591113579
+      "lastActive": 1768596581054
     },
     "2401:4900:1c5e:4184:cbbc:98f3:f54b:f5a1": {
       "type": "movie",
@@ -75677,7 +75693,7 @@
       "id": "tt1659343",
       "title": "tt1659343",
       "username": "elite_user13",
-      "lastActive": 1768592634820
+      "lastActive": 1768596861886
     },
     "49.36.117.21": {
       "type": "series",
