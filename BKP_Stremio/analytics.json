@@ -1,5 +1,5 @@
 {
-  "totalViews": 8660,
+  "totalViews": 8670,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2068,7 +2068,10 @@
     "194.220.58.6",
     "2001:1308:2647:6d00:8cb2:ed61:732f:998d",
     "2409:40c1:10be:91b3:8000::",
-    "2409:40c2:3c:427f:283b:89ff:fe03:5420"
+    "2409:40c2:3c:427f:283b:89ff:fe03:5420",
+    "2402:3a80:4434:696c:3c51:e307:140d:3a12",
+    "2a09:bac5:3fd8:eaa::176:ae",
+    "2a09:bac5:3af3:7eb::ca:19e,51.89.197.91"
   ],
   "views": [
     {
@@ -71340,6 +71343,86 @@
       "timestamp": "2026-01-16T18:39:00.675Z",
       "ip": "2409:40c2:3c:427f:283b:89ff:fe03:5420",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:4",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-16T18:39:13.397Z",
+      "ip": "2409:40c2:3c:427f:283b:89ff:fe03:5420",
+      "username": "agentmj47"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:4",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-16T18:39:13.504Z",
+      "ip": "2409:40c2:3c:427f:283b:89ff:fe03:5420",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:3",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-16T18:41:20.290Z",
+      "ip": "2409:40c2:3c:427f:283b:89ff:fe03:5420",
+      "username": "agentmj47"
+    },
+    {
+      "type": "movie",
+      "id": "tt38121182",
+      "title": "tt38121182",
+      "timestamp": "2026-01-16T18:42:18.193Z",
+      "ip": "2409:40c2:3c:427f:283b:89ff:fe03:5420",
+      "username": "agentmj47"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-16T18:42:21.509Z",
+      "ip": "2409:40c2:3c:427f:283b:89ff:fe03:5420",
+      "username": "agentmj47"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:3",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-16T18:46:56.287Z",
+      "ip": "2402:3a80:4434:696c:3c51:e307:140d:3a12",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:2",
+      "title": "tt6354518:2:2",
+      "timestamp": "2026-01-16T18:49:28.345Z",
+      "ip": "2a09:bac5:3fd8:eaa::176:ae",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:2",
+      "title": "tt6354518:2:2",
+      "timestamp": "2026-01-16T18:49:48.538Z",
+      "ip": "2a09:bac5:3fd8:eaa::176:ae",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:2",
+      "title": "tt6354518:2:2",
+      "timestamp": "2026-01-16T18:49:48.602Z",
+      "ip": "2a09:bac5:3fd8:eaa::176:ae",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-16T18:53:30.232Z",
+      "ip": "2a09:bac5:3af3:7eb::ca:19e,51.89.197.91",
+      "username": "switchoff009"
     }
   ],
   "activeNow": {
@@ -75117,11 +75200,32 @@
       "lastActive": 1768588030949
     },
     "2409:40c2:3c:427f:283b:89ff:fe03:5420": {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "username": "agentmj47",
+      "lastActive": 1768588941509
+    },
+    "2402:3a80:4434:696c:3c51:e307:140d:3a12": {
       "type": "series",
-      "id": "tt12343534:3:4",
+      "id": "tt12343534:3:3",
       "title": "JUJUTSU KAISEN",
-      "username": "anonymous",
-      "lastActive": 1768588740675
+      "username": "gendaswammy",
+      "lastActive": 1768589216287
+    },
+    "2a09:bac5:3fd8:eaa::176:ae": {
+      "type": "series",
+      "id": "tt6354518:2:2",
+      "title": "tt6354518:2:2",
+      "username": "sinbad1722",
+      "lastActive": 1768589388602
+    },
+    "2a09:bac5:3af3:7eb::ca:19e,51.89.197.91": {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "username": "switchoff009",
+      "lastActive": 1768589610232
     }
   }
 }
