@@ -1,5 +1,5 @@
 {
-  "totalViews": 8280,
+  "totalViews": 8282,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -68228,6 +68228,22 @@
       "timestamp": "2026-01-16T12:11:15.792Z",
       "ip": "2401:4900:1c54:67f7:8099:3356:cab8:4339",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt0371735",
+      "title": "tt0371735",
+      "timestamp": "2026-01-16T12:15:59.824Z",
+      "ip": "2401:4900:1c54:67f7:8099:3356:cab8:4339",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-16T12:27:09.502Z",
+      "ip": "104.28.205.70",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -71477,7 +71493,14 @@
       "id": "tt0371735",
       "title": "tt0371735",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768565475792
+      "lastActive": 1768565759824
+    },
+    "104.28.205.70": {
+      "type": "series",
+      "id": "tt4574334:5:1",
+      "title": "Stranger Things",
+      "username": "anonymous",
+      "lastActive": 1768566429502
     }
   }
 }
