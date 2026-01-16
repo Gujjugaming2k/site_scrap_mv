@@ -1,5 +1,5 @@
 {
-  "totalViews": 7915,
+  "totalViews": 7923,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1914,7 +1914,10 @@
     "2a02:9b0:106:3b5f:c121:70e2:5a81:1e2",
     "43.229.89.84",
     "109.77.31.204",
-    "89.187.187.67"
+    "89.187.187.67",
+    "2409:40d4:40db:ad3e:4d83:1609:c6d1:8671",
+    "2401:4900:b01a:d88b:24ee:26ff:fef2:a7dd",
+    "169.150.203.247"
   ],
   "views": [
     {
@@ -65226,6 +65229,70 @@
       "timestamp": "2026-01-16T04:23:44.072Z",
       "ip": "43.229.89.84",
       "username": "itcheefeet"
+    },
+    {
+      "type": "movie",
+      "id": "tt34276058",
+      "title": "The Family Plan 2",
+      "timestamp": "2026-01-16T04:48:26.383Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:7",
+      "title": "Death Note",
+      "timestamp": "2026-01-16T04:49:13.661Z",
+      "ip": "2409:40d4:40db:ad3e:4d83:1609:c6d1:8671",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35674970:1:1",
+      "title": "tt35674970:1:1",
+      "timestamp": "2026-01-16T04:51:07.908Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt0351283",
+      "title": "Madagascar",
+      "timestamp": "2026-01-16T04:51:12.086Z",
+      "ip": "2401:4900:b01a:d88b:24ee:26ff:fef2:a7dd",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt0351283",
+      "title": "Madagascar",
+      "timestamp": "2026-01-16T04:54:05.352Z",
+      "ip": "2401:4900:b01a:d88b:24ee:26ff:fef2:a7dd",
+      "username": "SumanSubhash143"
+    },
+    {
+      "type": "movie",
+      "id": "tt0351283",
+      "title": "Madagascar",
+      "timestamp": "2026-01-16T04:54:33.780Z",
+      "ip": "2401:4900:b01a:d88b:24ee:26ff:fef2:a7dd",
+      "username": "SumanSubhash143"
+    },
+    {
+      "type": "movie",
+      "id": "tt0468569",
+      "title": "The Dark Knight",
+      "timestamp": "2026-01-16T04:55:34.710Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt10266874:1:6",
+      "title": "tt10266874:1:6",
+      "timestamp": "2026-01-16T04:56:54.608Z",
+      "ip": "169.150.203.247",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -66330,10 +66397,10 @@
     },
     "202.173.124.127": {
       "type": "movie",
-      "id": "tt33996113",
-      "title": "tt33996113",
+      "id": "tt0468569",
+      "title": "The Dark Knight",
       "username": "ryuzaklo26",
-      "lastActive": 1768536622900
+      "lastActive": 1768539334710
     },
     "2401:4900:1c54:c0ce:b854:f186:c864:6e8a": {
       "type": "series",
@@ -67902,6 +67969,27 @@
       "title": "tt10266874:1:5",
       "username": "anonymous",
       "lastActive": 1768536819027
+    },
+    "2409:40d4:40db:ad3e:4d83:1609:c6d1:8671": {
+      "type": "series",
+      "id": "tt0877057:1:7",
+      "title": "Death Note",
+      "username": "anonymous",
+      "lastActive": 1768538953661
+    },
+    "2401:4900:b01a:d88b:24ee:26ff:fef2:a7dd": {
+      "type": "movie",
+      "id": "tt0351283",
+      "title": "Madagascar",
+      "username": "SumanSubhash143",
+      "lastActive": 1768539273780
+    },
+    "169.150.203.247": {
+      "type": "series",
+      "id": "tt10266874:1:6",
+      "title": "tt10266874:1:6",
+      "username": "anonymous",
+      "lastActive": 1768539414608
     }
   }
 }
