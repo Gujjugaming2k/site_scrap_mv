@@ -1,5 +1,5 @@
 {
-  "totalViews": 7811,
+  "totalViews": 7815,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1899,7 +1899,9 @@
     "154.254.124.247",
     "196.176.146.176",
     "41.104.187.63",
-    "197.14.190.152"
+    "197.14.190.152",
+    "2a01:e0a:dec:b940:68c3:4e01:fdba:4203",
+    "2401:4900:88ba:451f:8b61:a1d:8efb:5ec4"
   ],
   "views": [
     {
@@ -64379,6 +64381,38 @@
       "timestamp": "2026-01-15T23:59:19.678Z",
       "ip": "115.164.77.28",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0472043",
+      "title": "tt0472043",
+      "timestamp": "2026-01-16T00:06:53.417Z",
+      "ip": "41.104.187.63",
+      "username": "hkhhjj"
+    },
+    {
+      "type": "series",
+      "id": "tt31131310:1:1",
+      "title": "tt31131310:1:1",
+      "timestamp": "2026-01-16T00:11:28.786Z",
+      "ip": "2a01:e0a:dec:b940:68c3:4e01:fdba:4203",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1226837",
+      "title": "tt1226837",
+      "timestamp": "2026-01-16T00:17:40.305Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt29567915",
+      "title": "tt29567915",
+      "timestamp": "2026-01-16T00:18:00.505Z",
+      "ip": "2401:4900:88ba:451f:8b61:a1d:8efb:5ec4",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -66123,7 +66157,7 @@
       "id": "tt1226837",
       "title": "tt1226837",
       "username": "demon18319",
-      "lastActive": 1768489814097
+      "lastActive": 1768522660305
     },
     "2409:40e0:101a:b77c:58cd:e5ff:fe11:4741": {
       "type": "series",
@@ -66932,10 +66966,10 @@
     },
     "41.104.187.63": {
       "type": "movie",
-      "id": "tt31495504",
-      "title": "tt31495504",
+      "id": "tt0472043",
+      "title": "tt0472043",
       "username": "hkhhjj",
-      "lastActive": 1768519560414
+      "lastActive": 1768522013417
     },
     "197.14.190.152": {
       "type": "series",
@@ -66943,6 +66977,20 @@
       "title": "tt38867942:1:4",
       "username": "anonymous",
       "lastActive": 1768521180769
+    },
+    "2a01:e0a:dec:b940:68c3:4e01:fdba:4203": {
+      "type": "series",
+      "id": "tt31131310:1:1",
+      "title": "tt31131310:1:1",
+      "username": "anonymous",
+      "lastActive": 1768522288786
+    },
+    "2401:4900:88ba:451f:8b61:a1d:8efb:5ec4": {
+      "type": "movie",
+      "id": "tt29567915",
+      "title": "tt29567915",
+      "username": "anonymous",
+      "lastActive": 1768522680505
     }
   }
 }
