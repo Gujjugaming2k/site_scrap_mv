@@ -1,5 +1,5 @@
 {
-  "totalViews": 7942,
+  "totalViews": 7945,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -65453,6 +65453,30 @@
       "timestamp": "2026-01-16T05:57:58.092Z",
       "ip": "2409:40e4:104f:26fc:d46f:8cff:feb5:b382",
       "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt12300742",
+      "title": "Bugonia",
+      "timestamp": "2026-01-16T06:02:42.640Z",
+      "ip": "2409:40e4:104f:26fc:d46f:8cff:feb5:b382",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt23172090",
+      "title": "tt23172090",
+      "timestamp": "2026-01-16T06:09:40.897Z",
+      "ip": "2409:40e6:16:d8:70c1:8bff:fe40:9835",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt23172090",
+      "title": "tt23172090",
+      "timestamp": "2026-01-16T06:09:46.191Z",
+      "ip": "2409:40e6:16:d8:70c1:8bff:fe40:9835",
+      "username": "nabakun24"
     }
   ],
   "activeNow": {
@@ -67768,10 +67792,10 @@
     },
     "2409:40e6:16:d8:70c1:8bff:fe40:9835": {
       "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
+      "id": "tt23172090",
+      "title": "tt23172090",
       "username": "nabakun24",
-      "lastActive": 1768492479184
+      "lastActive": 1768543786191
     },
     "103.4.220.252": {
       "type": "movie",
@@ -68201,11 +68225,11 @@
       "lastActive": 1768543035167
     },
     "2409:40e4:104f:26fc:d46f:8cff:feb5:b382": {
-      "type": "series",
-      "id": "tt31812476:2:1",
-      "title": "tt31812476:2:1",
+      "type": "movie",
+      "id": "tt12300742",
+      "title": "Bugonia",
       "username": "cyberboy12321",
-      "lastActive": 1768543078092
+      "lastActive": 1768543362640
     }
   }
 }
