@@ -1,5 +1,5 @@
 {
-  "totalViews": 8698,
+  "totalViews": 8703,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2076,7 +2076,9 @@
     "2409:40c1:103c:6445:8000::",
     "2401:4900:902e:a43:edd7:51b8:4449:78db",
     "2a02:842b:8f97:bb01:7173:f022:65e4:4316",
-    "2401:4900:93be:631c:a4b7:9bd4:74a9:d74b"
+    "2401:4900:93be:631c:a4b7:9bd4:74a9:d74b",
+    "49.36.117.21",
+    "2409:40c1:10df:ccc:8000::"
   ],
   "views": [
     {
@@ -71652,6 +71654,46 @@
       "timestamp": "2026-01-16T19:43:54.820Z",
       "ip": "2401:4900:93be:631c:a4b7:9bd4:74a9:d74b",
       "username": "elite_user13"
+    },
+    {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "timestamp": "2026-01-16T19:51:39.973Z",
+      "ip": "202.173.124.127",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "null:3:2",
+      "title": "null:3:2",
+      "timestamp": "2026-01-16T19:54:08.576Z",
+      "ip": "49.36.117.21",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "timestamp": "2026-01-16T19:54:25.546Z",
+      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt1133985",
+      "title": "tt1133985",
+      "timestamp": "2026-01-16T19:55:15.379Z",
+      "ip": "2409:40c1:10df:ccc:8000::",
+      "username": "rahul_officialx"
+    },
+    {
+      "type": "movie",
+      "id": "tt1133985",
+      "title": "tt1133985",
+      "timestamp": "2026-01-16T19:57:55.869Z",
+      "ip": "2409:40c1:10df:ccc:8000::",
+      "username": "rahul_officialx"
     }
   ],
   "activeNow": {
@@ -72755,11 +72797,11 @@
       "lastActive": 1768393528943
     },
     "202.173.124.127": {
-      "type": "series",
-      "id": "tt13930822:2:3",
-      "title": "tt13930822:2:3",
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
       "username": "ryuzaklo26",
-      "lastActive": 1768586500726
+      "lastActive": 1768593099973
     },
     "2401:4900:1c54:c0ce:b854:f186:c864:6e8a": {
       "type": "series",
@@ -73155,10 +73197,10 @@
     },
     "2405:201:300c:213:1ef4:3fff:fe0f:1b78": {
       "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "id": "tt32141377",
+      "title": "tt32141377",
       "username": "gendaswammy",
-      "lastActive": 1768514370626
+      "lastActive": 1768593265546
     },
     "14.139.226.3": {
       "type": "series",
@@ -75490,6 +75532,20 @@
       "title": "tt1659343",
       "username": "elite_user13",
       "lastActive": 1768592634820
+    },
+    "49.36.117.21": {
+      "type": "series",
+      "id": "null:3:2",
+      "title": "null:3:2",
+      "username": "anonymous",
+      "lastActive": 1768593248576
+    },
+    "2409:40c1:10df:ccc:8000::": {
+      "type": "movie",
+      "id": "tt1133985",
+      "title": "tt1133985",
+      "username": "rahul_officialx",
+      "lastActive": 1768593475869
     }
   }
 }
