@@ -1,5 +1,5 @@
 {
-  "totalViews": 7930,
+  "totalViews": 7942,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -1920,7 +1920,12 @@
     "169.150.203.247",
     "2401:4900:ab05:c619:bcc0:816c:2307:e82a",
     "2401:4900:ab01:ebe8:b4a2:c1d3:f4ad:a6d4",
-    "2401:4900:7068:bbc6:74e3:c2ff:feb6:85e5"
+    "2401:4900:7068:bbc6:74e3:c2ff:feb6:85e5",
+    "2405:201:5502:51af:4867:eac4:1713:5767",
+    "2409:40e5:9d:c7ca:7057:b1ff:fe94:5dbe",
+    "152.58.159.137",
+    "157.48.78.76",
+    "2409:40e4:104f:26fc:d46f:8cff:feb5:b382"
   ],
   "views": [
     {
@@ -65352,6 +65357,102 @@
       "timestamp": "2026-01-16T05:39:18.472Z",
       "ip": "2401:4900:7068:bbc6:74e3:c2ff:feb6:85e5",
       "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt29567915",
+      "title": "tt29567915",
+      "timestamp": "2026-01-16T05:45:55.279Z",
+      "ip": "2405:201:5502:51af:4867:eac4:1713:5767",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "movie",
+      "id": "tt32820897",
+      "title": "tt32820897",
+      "timestamp": "2026-01-16T05:48:01.510Z",
+      "ip": "2409:40e5:9d:c7ca:7057:b1ff:fe94:5dbe",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-16T05:48:55.072Z",
+      "ip": "2405:201:5502:51af:4867:eac4:1713:5767",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt0988824:1:1",
+      "title": "tt0988824:1:1",
+      "timestamp": "2026-01-16T05:50:04.738Z",
+      "ip": "2409:40e5:9d:c7ca:7057:b1ff:fe94:5dbe",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt0988824:1:2",
+      "title": "tt0988824:1:2",
+      "timestamp": "2026-01-16T05:50:41.656Z",
+      "ip": "2409:40e5:9d:c7ca:7057:b1ff:fe94:5dbe",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:1",
+      "title": "tt31812476:2:1",
+      "timestamp": "2026-01-16T05:51:57.652Z",
+      "ip": "152.58.159.137",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt29567915",
+      "title": "tt29567915",
+      "timestamp": "2026-01-16T05:52:36.576Z",
+      "ip": "2405:201:5502:51af:4867:eac4:1713:5767",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:1:1",
+      "title": "tt31812476:1:1",
+      "timestamp": "2026-01-16T05:52:58.343Z",
+      "ip": "152.58.159.137",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt39109036",
+      "title": "tt39109036",
+      "timestamp": "2026-01-16T05:55:41.158Z",
+      "ip": "2405:201:5502:51af:4867:eac4:1713:5767",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt16385150:1:2",
+      "title": "tt16385150:1:2",
+      "timestamp": "2026-01-16T05:56:46.168Z",
+      "ip": "2405:201:6025:a88d:ff6e:790:42be:acf7",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:10",
+      "title": "Death Note",
+      "timestamp": "2026-01-16T05:57:15.167Z",
+      "ip": "157.48.78.76",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:1",
+      "title": "tt31812476:2:1",
+      "timestamp": "2026-01-16T05:57:58.092Z",
+      "ip": "2409:40e4:104f:26fc:d46f:8cff:feb5:b382",
+      "username": "cyberboy12321"
     }
   ],
   "activeNow": {
@@ -67981,11 +68082,11 @@
       "lastActive": 1768530817988
     },
     "2405:201:6025:a88d:ff6e:790:42be:acf7": {
-      "type": "movie",
-      "id": "tt22740896",
-      "title": "tt22740896",
+      "type": "series",
+      "id": "tt16385150:1:2",
+      "title": "tt16385150:1:2",
       "username": "infinityseeker",
-      "lastActive": 1768535490499
+      "lastActive": 1768543006168
     },
     "49.42.165.99": {
       "type": "series",
@@ -68070,6 +68171,41 @@
       "title": "tt0384793",
       "username": "nobody_ismy_name",
       "lastActive": 1768541958472
+    },
+    "2405:201:5502:51af:4867:eac4:1713:5767": {
+      "type": "movie",
+      "id": "tt39109036",
+      "title": "tt39109036",
+      "username": "dawnstar930",
+      "lastActive": 1768542941158
+    },
+    "2409:40e5:9d:c7ca:7057:b1ff:fe94:5dbe": {
+      "type": "series",
+      "id": "tt0988824:1:2",
+      "title": "tt0988824:1:2",
+      "username": "cyberboy12321",
+      "lastActive": 1768542641656
+    },
+    "152.58.159.137": {
+      "type": "series",
+      "id": "tt31812476:1:1",
+      "title": "tt31812476:1:1",
+      "username": "cyberboy12321",
+      "lastActive": 1768542778343
+    },
+    "157.48.78.76": {
+      "type": "series",
+      "id": "tt0877057:1:10",
+      "title": "Death Note",
+      "username": "anonymous",
+      "lastActive": 1768543035167
+    },
+    "2409:40e4:104f:26fc:d46f:8cff:feb5:b382": {
+      "type": "series",
+      "id": "tt31812476:2:1",
+      "title": "tt31812476:2:1",
+      "username": "cyberboy12321",
+      "lastActive": 1768543078092
     }
   }
 }
