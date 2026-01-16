@@ -1,5 +1,5 @@
 {
-  "totalViews": 8536,
+  "totalViews": 8549,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2049,7 +2049,9 @@
     "2402:a00:10a:815f:5223:f6f5:f351:ccb",
     "2405:201:6025:a88d:1184:11f7:ad00:1e79",
     "2401:4900:b538:d355:6193:3f38:8f3e:734e",
-    "2409:40e4:11f1:62bd:fcf0:feff:fe84:7171"
+    "2409:40e4:11f1:62bd:fcf0:feff:fe84:7171",
+    "2401:4900:8833:1c28:6099:7bba:48ea:2791",
+    "2401:4900:1c0a:1745:8ce2:28ed:934f:fe8f"
   ],
   "views": [
     {
@@ -70329,6 +70331,110 @@
       "timestamp": "2026-01-16T16:35:59.999Z",
       "ip": "2409:40e4:11f1:62bd:fcf0:feff:fe84:7171",
       "username": "ig_sirmour"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
+      "timestamp": "2026-01-16T16:37:24.621Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:2:1",
+      "title": "tt31938062:2:1",
+      "timestamp": "2026-01-16T16:38:19.151Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt35019998",
+      "title": "tt35019998",
+      "timestamp": "2026-01-16T16:39:25.908Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:16:15",
+      "title": "tt0388629:16:15",
+      "timestamp": "2026-01-16T16:40:03.889Z",
+      "ip": "2401:4900:8833:1c28:6099:7bba:48ea:2791",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt5440700",
+      "title": "tt5440700",
+      "timestamp": "2026-01-16T16:40:23.469Z",
+      "ip": "122.167.97.49",
+      "username": "zindha"
+    },
+    {
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "timestamp": "2026-01-16T16:40:31.629Z",
+      "ip": "2401:4900:8833:1c28:6099:7bba:48ea:2791",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt11253090",
+      "title": "tt11253090",
+      "timestamp": "2026-01-16T16:40:33.869Z",
+      "ip": "122.167.97.49",
+      "username": "zindha"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-16T16:40:51.140Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-01-16T16:40:52.749Z",
+      "ip": "94.156.30.218",
+      "username": "arju"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:8",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-16T16:41:46.691Z",
+      "ip": "163.223.52.102",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:2:1",
+      "title": "tt31938062:2:1",
+      "timestamp": "2026-01-16T16:42:09.412Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:8:11",
+      "title": "tt0412142:8:11",
+      "timestamp": "2026-01-16T16:42:57.017Z",
+      "ip": "82.79.141.254",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt32537124:1:3",
+      "title": "tt32537124:1:3",
+      "timestamp": "2026-01-16T16:48:03.159Z",
+      "ip": "2401:4900:1c0a:1745:8ce2:28ed:934f:fe8f",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -70340,11 +70446,11 @@
       "lastActive": 1768348869451
     },
     "38.134.138.246": {
-      "type": "movie",
-      "id": "tt35019998",
-      "title": "tt35019998",
+      "type": "series",
+      "id": "tt31938062:2:1",
+      "title": "tt31938062:2:1",
       "username": "thala_75",
-      "lastActive": 1768564093759
+      "lastActive": 1768581729412
     },
     "182.69.178.28": {
       "type": "series",
@@ -70582,7 +70688,7 @@
       "id": "tt0412142:8:11",
       "title": "tt0412142:8:11",
       "username": "anonymous",
-      "lastActive": 1768579494598
+      "lastActive": 1768581777017
     },
     "80.192.52.146": {
       "type": "series",
@@ -70872,11 +70978,11 @@
       "lastActive": 1768580703337
     },
     "163.223.52.102": {
-      "type": "movie",
-      "id": "tt0133093",
-      "title": "The Matrix",
+      "type": "series",
+      "id": "tt4574334:1:8",
+      "title": "Stranger Things",
       "username": "anonymous",
-      "lastActive": 1768370733173
+      "lastActive": 1768581706691
     },
     "152.56.134.52": {
       "type": "series",
@@ -72637,10 +72743,10 @@
     },
     "122.167.97.49": {
       "type": "movie",
-      "id": "tt5440700",
-      "title": "tt5440700",
+      "id": "tt11253090",
+      "title": "tt11253090",
       "username": "zindha",
-      "lastActive": 1768580496830
+      "lastActive": 1768581633869
     },
     "2409:40e6:16:d8:70c1:8bff:fe40:9835": {
       "type": "movie",
@@ -73921,7 +74027,7 @@
       "id": "tt1187043",
       "title": "3 Idiots",
       "username": "arju",
-      "lastActive": 1768578845385
+      "lastActive": 1768581652749
     },
     "2405:201:202d:d014:7972:376c:9f34:c46d": {
       "type": "series",
@@ -73971,6 +74077,20 @@
       "title": "tt0903747:2:3",
       "username": "ig_sirmour",
       "lastActive": 1768581359999
+    },
+    "2401:4900:8833:1c28:6099:7bba:48ea:2791": {
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "username": "anonymous",
+      "lastActive": 1768581631629
+    },
+    "2401:4900:1c0a:1745:8ce2:28ed:934f:fe8f": {
+      "type": "series",
+      "id": "tt32537124:1:3",
+      "title": "tt32537124:1:3",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1768582083159
     }
   }
 }
