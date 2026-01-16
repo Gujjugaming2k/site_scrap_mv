@@ -1,5 +1,5 @@
 {
-  "totalViews": 8301,
+  "totalViews": 8311,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2003,7 +2003,9 @@
     "2409:40f3:2081:197:d43f:3c95:da23:d35b",
     "2405:201:6820:a83c:2139:365:dba9:c237",
     "152.59.163.118",
-    "103.175.168.106"
+    "103.175.168.106",
+    "160.238.73.7",
+    "2401:4900:88b8:e518:8e2a:d394:c34d:51d3"
   ],
   "views": [
     {
@@ -68403,6 +68405,86 @@
       "timestamp": "2026-01-16T12:57:16.030Z",
       "ip": "103.249.4.146",
       "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt0409591:1:7",
+      "title": "Naruto",
+      "timestamp": "2026-01-16T13:01:55.532Z",
+      "ip": "2402:a00:10a:815f:25d7:5734:db7:e3be",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt1622696:1:1",
+      "title": "tt1622696:1:1",
+      "timestamp": "2026-01-16T13:02:46.637Z",
+      "ip": "160.238.73.7",
+      "username": "mr_anonymous_0004"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:4:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-16T13:03:47.719Z",
+      "ip": "2401:4900:88b8:e518:8e2a:d394:c34d:51d3",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:3:5",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-16T13:05:20.922Z",
+      "ip": "2401:4900:88b8:e518:8e2a:d394:c34d:51d3",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt1622696:1:2",
+      "title": "tt1622696:1:2",
+      "timestamp": "2026-01-16T13:05:27.054Z",
+      "ip": "160.238.73.160",
+      "username": "mr_anonymous_0004"
+    },
+    {
+      "type": "series",
+      "id": "tt1622696:1:2",
+      "title": "tt1622696:1:2",
+      "timestamp": "2026-01-16T13:06:10.508Z",
+      "ip": "160.238.73.160",
+      "username": "mr_anonymous_0004"
+    },
+    {
+      "type": "movie",
+      "id": "tt4627382",
+      "title": "Roofman",
+      "timestamp": "2026-01-16T13:06:57.743Z",
+      "ip": "160.238.73.160",
+      "username": "mr_anonymous_0004"
+    },
+    {
+      "type": "movie",
+      "id": "tt0104431",
+      "title": "Home Alone 2: Lost in New York",
+      "timestamp": "2026-01-16T13:08:30.487Z",
+      "ip": "103.46.200.248",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:3:3",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-16T13:09:27.788Z",
+      "ip": "2401:4900:88b8:e518:8e2a:d394:c34d:51d3",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "timestamp": "2026-01-16T13:10:13.604Z",
+      "ip": "2401:4900:88b8:e518:8e2a:d394:c34d:51d3",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -70662,10 +70744,10 @@
     },
     "103.46.200.248": {
       "type": "movie",
-      "id": "tt29954526",
-      "title": "tt29954526",
-      "username": "katdenningssss",
-      "lastActive": 1768545466194
+      "id": "tt0104431",
+      "title": "Home Alone 2: Lost in New York",
+      "username": "brosportses",
+      "lastActive": 1768568910487
     },
     "2401:4900:1f3a:589d:cdcf:c:15c0:a703": {
       "type": "series",
@@ -71501,11 +71583,11 @@
       "lastActive": 1768557054712
     },
     "160.238.73.160": {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
+      "type": "movie",
+      "id": "tt4627382",
+      "title": "Roofman",
       "username": "mr_anonymous_0004",
-      "lastActive": 1768557767681
+      "lastActive": 1768568817743
     },
     "110.235.219.255": {
       "type": "series",
@@ -71662,11 +71744,11 @@
       "lastActive": 1768566429502
     },
     "2402:a00:10a:815f:25d7:5734:db7:e3be": {
-      "type": "movie",
-      "id": "tt14107334",
-      "title": "tt14107334",
+      "type": "series",
+      "id": "tt0409591:1:7",
+      "title": "Naruto",
       "username": "vflix1993",
-      "lastActive": 1768566685506
+      "lastActive": 1768568515532
     },
     "2405:201:500c:496b:2e1b:3aff:fe14:f417": {
       "type": "series",
@@ -71716,6 +71798,20 @@
       "title": "Chainsaw Man - The Movie: Reze Arc",
       "username": "un0fficial_itachi",
       "lastActive": 1768568184748
+    },
+    "160.238.73.7": {
+      "type": "series",
+      "id": "tt1622696:1:1",
+      "title": "tt1622696:1:1",
+      "username": "mr_anonymous_0004",
+      "lastActive": 1768568566637
+    },
+    "2401:4900:88b8:e518:8e2a:d394:c34d:51d3": {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "username": "b1jju",
+      "lastActive": 1768569013604
     }
   }
 }
