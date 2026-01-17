@@ -1,5 +1,5 @@
 {
-  "totalViews": 9220,
+  "totalViews": 9258,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2157,7 +2157,13 @@
     "2409:40e4:2050:19ce:988a:e5ff:fe2a:e0ef",
     "2405:201:500c:496b:fc34:77be:1f9d:5d59",
     "2a09:bac5:3fdf:eaa::176:76",
-    "2404:1c40:9e:56e0:ae7e:2c3e:1c4:7fc4"
+    "2404:1c40:9e:56e0:ae7e:2c3e:1c4:7fc4",
+    "103.175.9.0",
+    "152.59.168.14",
+    "2402:a00:10a:815f:cb5e:3812:bb38:b46e",
+    "2401:4900:8fe2:4c46:2404:c970:f486:901d",
+    "2409:40e4:10a6:bdb3:88b8:84c7:32b0:e256",
+    "2402:a00:10a:815f:419d:66a4:f9b3:9357"
   ],
   "views": [
     {
@@ -75909,6 +75915,310 @@
       "timestamp": "2026-01-17T12:16:27.390Z",
       "ip": "27.6.114.125",
       "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt0168366:1:1",
+      "title": "tt0168366:1:1",
+      "timestamp": "2026-01-17T12:17:56.674Z",
+      "ip": "103.175.9.0",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0168366:1:2",
+      "title": "tt0168366:1:2",
+      "timestamp": "2026-01-17T12:18:00.387Z",
+      "ip": "103.175.9.0",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0168366:1:2",
+      "title": "tt0168366:1:2",
+      "timestamp": "2026-01-17T12:18:12.699Z",
+      "ip": "103.175.9.0",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0168366:1:3",
+      "title": "tt0168366:1:3",
+      "timestamp": "2026-01-17T12:18:19.331Z",
+      "ip": "103.175.9.0",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0168366:1:3",
+      "title": "tt0168366:1:3",
+      "timestamp": "2026-01-17T12:18:32.444Z",
+      "ip": "103.175.9.0",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0168366:1:3",
+      "title": "tt0168366:1:3",
+      "timestamp": "2026-01-17T12:20:35.585Z",
+      "ip": "103.175.9.0",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0168366:1:3",
+      "title": "tt0168366:1:3",
+      "timestamp": "2026-01-17T12:20:39.027Z",
+      "ip": "103.175.9.0",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0168366:1:4",
+      "title": "tt0168366:1:4",
+      "timestamp": "2026-01-17T12:20:40.821Z",
+      "ip": "103.175.9.0",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt9680440:1:6",
+      "title": "tt9680440:1:6",
+      "timestamp": "2026-01-17T12:20:56.546Z",
+      "ip": "152.59.168.14",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt9680440:1:6",
+      "title": "tt9680440:1:6",
+      "timestamp": "2026-01-17T12:20:56.632Z",
+      "ip": "152.59.168.14",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt9680440:1:6",
+      "title": "tt9680440:1:6",
+      "timestamp": "2026-01-17T12:20:57.010Z",
+      "ip": "152.59.168.14",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt0168366:1:4",
+      "title": "tt0168366:1:4",
+      "timestamp": "2026-01-17T12:23:53.985Z",
+      "ip": "103.175.9.0",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0168366:1:3",
+      "title": "tt0168366:1:3",
+      "timestamp": "2026-01-17T12:23:59.236Z",
+      "ip": "103.175.9.0",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "series",
+      "id": "tt0168366:1:4",
+      "title": "tt0168366:1:4",
+      "timestamp": "2026-01-17T12:24:17.722Z",
+      "ip": "103.175.9.0",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "series",
+      "id": "tt0168366:1:4",
+      "title": "tt0168366:1:4",
+      "timestamp": "2026-01-17T12:24:20.230Z",
+      "ip": "103.175.9.0",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "series",
+      "id": "tt0168366:1:5",
+      "title": "tt0168366:1:5",
+      "timestamp": "2026-01-17T12:24:49.724Z",
+      "ip": "103.175.9.0",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "series",
+      "id": "tt0168366:1:5",
+      "title": "tt0168366:1:5",
+      "timestamp": "2026-01-17T12:24:52.866Z",
+      "ip": "103.175.9.0",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "series",
+      "id": "tt0168366:1:1",
+      "title": "tt0168366:1:1",
+      "timestamp": "2026-01-17T12:24:56.992Z",
+      "ip": "103.175.9.0",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "series",
+      "id": "tt0259141:1:1",
+      "title": "tt0259141:1:1",
+      "timestamp": "2026-01-17T12:25:20.032Z",
+      "ip": "103.175.9.0",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "series",
+      "id": "tt0259141:1:2",
+      "title": "tt0259141:1:2",
+      "timestamp": "2026-01-17T12:25:49.112Z",
+      "ip": "103.175.9.0",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "series",
+      "id": "tt0259141:1:2",
+      "title": "tt0259141:1:2",
+      "timestamp": "2026-01-17T12:25:51.924Z",
+      "ip": "103.175.9.0",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "series",
+      "id": "tt0259141:1:3",
+      "title": "tt0259141:1:3",
+      "timestamp": "2026-01-17T12:26:01.957Z",
+      "ip": "103.175.9.0",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-17T12:26:03.158Z",
+      "ip": "2402:a00:10a:815f:cb5e:3812:bb38:b46e",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt0259141:1:2",
+      "title": "tt0259141:1:2",
+      "timestamp": "2026-01-17T12:26:31.534Z",
+      "ip": "103.175.9.0",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "series",
+      "id": "tt0259141:1:2",
+      "title": "tt0259141:1:2",
+      "timestamp": "2026-01-17T12:26:33.846Z",
+      "ip": "103.175.9.0",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-17T12:26:45.553Z",
+      "ip": "2402:a00:10a:815f:cb5e:3812:bb38:b46e",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt0259141:1:3",
+      "title": "tt0259141:1:3",
+      "timestamp": "2026-01-17T12:26:47.178Z",
+      "ip": "103.175.9.0",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "movie",
+      "id": "tt35466607",
+      "title": "tt35466607",
+      "timestamp": "2026-01-17T12:26:59.777Z",
+      "ip": "2401:4900:8fe2:4c46:2404:c970:f486:901d",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "timestamp": "2026-01-17T12:27:20.040Z",
+      "ip": "2400:1a00:7b4c:192a:32ab:ba55:ae29:f771",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt27203727:1:6",
+      "title": "tt27203727:1:6",
+      "timestamp": "2026-01-17T12:27:34.708Z",
+      "ip": "2409:40e4:10a6:bdb3:88b8:84c7:32b0:e256",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-17T12:27:45.349Z",
+      "ip": "2402:a00:10a:815f:cb5e:3812:bb38:b46e",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt0259141:1:1",
+      "title": "tt0259141:1:1",
+      "timestamp": "2026-01-17T12:27:50.641Z",
+      "ip": "103.175.9.0",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "movie",
+      "id": "tt35466607",
+      "title": "tt35466607",
+      "timestamp": "2026-01-17T12:27:57.343Z",
+      "ip": "2401:4900:8fe2:4c46:2404:c970:f486:901d",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "series",
+      "id": "tt0259141:1:2",
+      "title": "tt0259141:1:2",
+      "timestamp": "2026-01-17T12:28:03.819Z",
+      "ip": "103.175.9.0",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
+      "timestamp": "2026-01-17T12:30:10.929Z",
+      "ip": "109.77.47.28",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-17T12:31:01.891Z",
+      "ip": "2402:a00:10a:815f:419d:66a4:f9b3:9357",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-17T12:31:37.450Z",
+      "ip": "2402:a00:10a:815f:419d:66a4:f9b3:9357",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:2",
+      "title": "tt33035373:1:2",
+      "timestamp": "2026-01-17T12:31:59.487Z",
+      "ip": "109.77.47.28",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -76018,11 +76328,11 @@
       "lastActive": 1768650186878
     },
     "2400:1a00:7b4c:192a:32ab:ba55:ae29:f771": {
-      "type": "series",
-      "id": "tt13706018:3:13",
-      "title": "SPY x FAMILY",
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
       "username": "anonymous",
-      "lastActive": 1768650648091
+      "lastActive": 1768652840040
     },
     "122.168.3.234": {
       "type": "series",
@@ -76114,6 +76424,55 @@
       "title": "tt10885406:1:33",
       "username": "nothing_8888",
       "lastActive": 1768652187390
+    },
+    "103.175.9.0": {
+      "type": "series",
+      "id": "tt0259141:1:2",
+      "title": "tt0259141:1:2",
+      "username": "chouhanji007",
+      "lastActive": 1768652883819
+    },
+    "152.59.168.14": {
+      "type": "series",
+      "id": "tt9680440:1:6",
+      "title": "tt9680440:1:6",
+      "username": "cyberboy12321",
+      "lastActive": 1768652457010
+    },
+    "2402:a00:10a:815f:cb5e:3812:bb38:b46e": {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "username": "vflix1993",
+      "lastActive": 1768652865349
+    },
+    "2401:4900:8fe2:4c46:2404:c970:f486:901d": {
+      "type": "movie",
+      "id": "tt35466607",
+      "title": "tt35466607",
+      "username": "ashwanileon",
+      "lastActive": 1768652877343
+    },
+    "2409:40e4:10a6:bdb3:88b8:84c7:32b0:e256": {
+      "type": "series",
+      "id": "tt27203727:1:6",
+      "title": "tt27203727:1:6",
+      "username": "askchm",
+      "lastActive": 1768652854708
+    },
+    "109.77.47.28": {
+      "type": "series",
+      "id": "tt33035373:1:2",
+      "title": "tt33035373:1:2",
+      "username": "vflix1993",
+      "lastActive": 1768653119487
+    },
+    "2402:a00:10a:815f:419d:66a4:f9b3:9357": {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "username": "vflix1993",
+      "lastActive": 1768653097450
     }
   }
 }
