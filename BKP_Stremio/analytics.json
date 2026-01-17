@@ -1,5 +1,5 @@
 {
-  "totalViews": 9617,
+  "totalViews": 9627,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2223,7 +2223,10 @@
     "111.92.74.105",
     "2401:4900:aac9:d47e:c9ce:4adf:e586:8ce2",
     "2405:201:202d:d014:90ec:45e5:c8d2:5628",
-    "2405:201:203e:b800:a712:ac3c:9625:8f3a"
+    "2405:201:203e:b800:a712:ac3c:9625:8f3a",
+    "2401:4900:5c58:ef94::e3b:eea",
+    "93.152.220.232",
+    "2a09:bac1:36a0:560::176:8d"
   ],
   "views": [
     {
@@ -79151,6 +79154,86 @@
       "timestamp": "2026-01-17T18:18:31.906Z",
       "ip": "2401:4900:aac9:d47e:c9ce:4adf:e586:8ce2",
       "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:6",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-17T18:20:26.938Z",
+      "ip": "2401:4900:5c58:ef94::e3b:eea",
+      "username": "abhi231511"
+    },
+    {
+      "type": "series",
+      "id": "tt10266874:1:6",
+      "title": "tt10266874:1:6",
+      "timestamp": "2026-01-17T18:21:12.869Z",
+      "ip": "93.152.220.232",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1375670",
+      "title": "Grown Ups",
+      "timestamp": "2026-01-17T18:23:11.060Z",
+      "ip": "2401:4900:aac9:d47e:c9ce:4adf:e586:8ce2",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt2293002:3:10",
+      "title": "tt2293002:3:10",
+      "timestamp": "2026-01-17T18:27:15.490Z",
+      "ip": "2a09:bac1:36a0:560::176:8d",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:3:13",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-01-17T18:27:51.569Z",
+      "ip": "2a09:bac1:36a0:560::176:8d",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:2",
+      "title": "tt1399664:2:2",
+      "timestamp": "2026-01-17T18:28:11.613Z",
+      "ip": "2405:201:202d:d014:90ec:45e5:c8d2:5628",
+      "username": "explorerindia"
+    },
+    {
+      "type": "movie",
+      "id": "tt0848228",
+      "title": "The Avengers",
+      "timestamp": "2026-01-17T18:28:22.983Z",
+      "ip": "2a09:bac1:36a0:560::176:8d",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt0848228",
+      "title": "The Avengers",
+      "timestamp": "2026-01-17T18:30:07.200Z",
+      "ip": "2a09:bac1:36a0:560::176:8d",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:3",
+      "title": "tt1399664:2:3",
+      "timestamp": "2026-01-17T18:32:33.282Z",
+      "ip": "2405:201:202d:d014:90ec:45e5:c8d2:5628",
+      "username": "explorerindia"
+    },
+    {
+      "type": "series",
+      "id": "tt38990492:1:1",
+      "title": "tt38990492:1:1",
+      "timestamp": "2026-01-17T18:33:38.232Z",
+      "ip": "109.77.47.28",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -79393,11 +79476,11 @@
       "lastActive": 1768659942990
     },
     "109.77.47.28": {
-      "type": "movie",
-      "id": "tt16311594",
-      "title": "F1",
+      "type": "series",
+      "id": "tt38990492:1:1",
+      "title": "tt38990492:1:1",
       "username": "vflix1993",
-      "lastActive": 1768662987192
+      "lastActive": 1768674818232
     },
     "2402:a00:10a:815f:419d:66a4:f9b3:9357": {
       "type": "series",
@@ -79926,17 +80009,17 @@
     },
     "2401:4900:aac9:d47e:c9ce:4adf:e586:8ce2": {
       "type": "movie",
-      "id": "tt0075314",
-      "title": "Taxi Driver",
+      "id": "tt1375670",
+      "title": "Grown Ups",
       "username": "gendaswammy",
-      "lastActive": 1768673911906
+      "lastActive": 1768674191060
     },
     "2405:201:202d:d014:90ec:45e5:c8d2:5628": {
-      "type": "movie",
-      "id": "tt0338013",
-      "title": "Eternal Sunshine of the Spotless Mind",
+      "type": "series",
+      "id": "tt1399664:2:3",
+      "title": "tt1399664:2:3",
       "username": "explorerindia",
-      "lastActive": 1768673137011
+      "lastActive": 1768674753282
     },
     "2405:201:203e:b800:a712:ac3c:9625:8f3a": {
       "type": "movie",
@@ -79944,6 +80027,27 @@
       "title": "Interstellar",
       "username": "pingmenoone",
       "lastActive": 1768673907014
+    },
+    "2401:4900:5c58:ef94::e3b:eea": {
+      "type": "series",
+      "id": "tt0944947:1:6",
+      "title": "Game of Thrones",
+      "username": "abhi231511",
+      "lastActive": 1768674026938
+    },
+    "93.152.220.232": {
+      "type": "series",
+      "id": "tt10266874:1:6",
+      "title": "tt10266874:1:6",
+      "username": "anonymous",
+      "lastActive": 1768674072869
+    },
+    "2a09:bac1:36a0:560::176:8d": {
+      "type": "movie",
+      "id": "tt0848228",
+      "title": "The Avengers",
+      "username": "sinbad1722",
+      "lastActive": 1768674607200
     }
   }
 }
