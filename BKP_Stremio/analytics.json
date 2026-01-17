@@ -1,5 +1,5 @@
 {
-  "totalViews": 8890,
+  "totalViews": 8905,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2099,7 +2099,9 @@
     "2409:40f0:34:80b0:a0b8:aff:fe5e:efd2",
     "2402:a00:10a:815f:9593:1fe9:7be3:8756",
     "2409:40e4:10bf:a33:88b8:84c7:32b0:e256",
-    "103.215.54.136"
+    "103.215.54.136",
+    "186.188.150.139",
+    "2604:3d09:d7f:1600:8dd3:f950:d7c9:bdbd"
   ],
   "views": [
     {
@@ -73211,6 +73213,126 @@
       "timestamp": "2026-01-17T04:29:40.918Z",
       "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
       "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-17T04:31:46.888Z",
+      "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:1",
+      "title": "Fallout",
+      "timestamp": "2026-01-17T04:32:30.027Z",
+      "ip": "154.18.196.106",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-17T04:34:06.281Z",
+      "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-17T04:38:32.040Z",
+      "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt0117331",
+      "title": "tt0117331",
+      "timestamp": "2026-01-17T04:38:37.111Z",
+      "ip": "186.188.150.139",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt3469244",
+      "title": "tt3469244",
+      "timestamp": "2026-01-17T04:39:02.819Z",
+      "ip": "186.188.150.139",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt14142060",
+      "title": "tt14142060",
+      "timestamp": "2026-01-17T04:39:17.298Z",
+      "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt22202452:1:6",
+      "title": "tt22202452:1:6",
+      "timestamp": "2026-01-17T04:40:25.761Z",
+      "ip": "2604:3d09:d7f:1600:8dd3:f950:d7c9:bdbd",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt22202452:1:5",
+      "title": "tt22202452:1:5",
+      "timestamp": "2026-01-17T04:40:28.965Z",
+      "ip": "2604:3d09:d7f:1600:8dd3:f950:d7c9:bdbd",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1240538",
+      "title": "tt1240538",
+      "timestamp": "2026-01-17T04:41:34.451Z",
+      "ip": "2409:40c1:10df:ccc:8000::",
+      "username": "rahul_officialx"
+    },
+    {
+      "type": "series",
+      "id": "tt0367279:1:1",
+      "title": "tt0367279:1:1",
+      "timestamp": "2026-01-17T04:41:44.826Z",
+      "ip": "2409:40c1:10df:ccc:8000::",
+      "username": "rahul_officialx"
+    },
+    {
+      "type": "series",
+      "id": "tt0367279:1:2",
+      "title": "tt0367279:1:2",
+      "timestamp": "2026-01-17T04:42:07.480Z",
+      "ip": "2409:40c1:10df:ccc:8000::",
+      "username": "rahul_officialx"
+    },
+    {
+      "type": "series",
+      "id": "tt0367279:1:3",
+      "title": "tt0367279:1:3",
+      "timestamp": "2026-01-17T04:42:24.250Z",
+      "ip": "2409:40c1:10df:ccc:8000::",
+      "username": "rahul_officialx"
+    },
+    {
+      "type": "series",
+      "id": "tt0367279:1:4",
+      "title": "tt0367279:1:4",
+      "timestamp": "2026-01-17T04:42:36.498Z",
+      "ip": "2409:40c1:10df:ccc:8000::",
+      "username": "rahul_officialx"
+    },
+    {
+      "type": "movie",
+      "id": "tt33514451",
+      "title": "tt33514451",
+      "timestamp": "2026-01-17T04:45:49.392Z",
+      "ip": "103.215.54.136",
+      "username": "abelboby"
     }
   ],
   "activeNow": {
@@ -77058,11 +77180,11 @@
       "lastActive": 1768594534497
     },
     "2409:40c1:10df:ccc:8000::": {
-      "type": "movie",
-      "id": "tt1133985",
-      "title": "tt1133985",
+      "type": "series",
+      "id": "tt0367279:1:4",
+      "title": "tt0367279:1:4",
       "username": "rahul_officialx",
-      "lastActive": 1768593475869
+      "lastActive": 1768624956498
     },
     "2402:3a80:18db:3c5b:33cb:272a:7d09:3b80": {
       "type": "series",
@@ -77150,10 +77272,10 @@
     },
     "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08": {
       "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
+      "id": "tt14142060",
+      "title": "tt14142060",
       "username": "nabakun24",
-      "lastActive": 1768624180918
+      "lastActive": 1768624757298
     },
     "205.217.227.47": {
       "type": "series",
@@ -77209,7 +77331,28 @@
       "id": "tt33514451",
       "title": "tt33514451",
       "username": "abelboby",
-      "lastActive": 1768623224131
+      "lastActive": 1768625149392
+    },
+    "154.18.196.106": {
+      "type": "series",
+      "id": "tt12637874:2:1",
+      "title": "Fallout",
+      "username": "anonymous",
+      "lastActive": 1768624350027
+    },
+    "186.188.150.139": {
+      "type": "movie",
+      "id": "tt3469244",
+      "title": "tt3469244",
+      "username": "anonymous",
+      "lastActive": 1768624742819
+    },
+    "2604:3d09:d7f:1600:8dd3:f950:d7c9:bdbd": {
+      "type": "series",
+      "id": "tt22202452:1:5",
+      "title": "tt22202452:1:5",
+      "username": "anonymous",
+      "lastActive": 1768624828965
     }
   }
 }
