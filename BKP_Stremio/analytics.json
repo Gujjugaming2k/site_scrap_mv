@@ -1,5 +1,5 @@
 {
-  "totalViews": 9604,
+  "totalViews": 9614,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2221,7 +2221,9 @@
     "103.181.65.117",
     "2401:4900:5f25:d0b6:6ca:9d8c:6152:348c",
     "111.92.74.105",
-    "2401:4900:aac9:d47e:c9ce:4adf:e586:8ce2"
+    "2401:4900:aac9:d47e:c9ce:4adf:e586:8ce2",
+    "2405:201:202d:d014:90ec:45e5:c8d2:5628",
+    "2405:201:203e:b800:a712:ac3c:9625:8f3a"
   ],
   "views": [
     {
@@ -79045,15 +79047,95 @@
       "timestamp": "2026-01-17T17:57:15.270Z",
       "ip": "182.69.179.223",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt32536168:1:1",
+      "title": "tt32536168:1:1",
+      "timestamp": "2026-01-17T18:04:28.881Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt38646055:1:1",
+      "title": "tt38646055:1:1",
+      "timestamp": "2026-01-17T18:04:55.621Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "movie",
+      "id": "tt0338013",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "timestamp": "2026-01-17T18:05:37.011Z",
+      "ip": "2405:201:202d:d014:90ec:45e5:c8d2:5628",
+      "username": "explorerindia"
+    },
+    {
+      "type": "series",
+      "id": "tt32536168:1:1",
+      "title": "tt32536168:1:1",
+      "timestamp": "2026-01-17T18:05:49.354Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt38646055:1:1",
+      "title": "tt38646055:1:1",
+      "timestamp": "2026-01-17T18:06:49.505Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt35636246:2:2",
+      "title": "tt35636246:2:2",
+      "timestamp": "2026-01-17T18:07:52.031Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt10795658:3:1",
+      "title": "Alice in Borderland",
+      "timestamp": "2026-01-17T18:11:22.959Z",
+      "ip": "2405:201:203e:b800:a712:ac3c:9625:8f3a",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt6897680:1:5",
+      "title": "tt6897680:1:5",
+      "timestamp": "2026-01-17T18:12:30.274Z",
+      "ip": "103.168.30.70",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt0073115",
+      "title": "tt0073115",
+      "timestamp": "2026-01-17T18:13:22.044Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "movie",
+      "id": "tt0073115",
+      "title": "tt0073115",
+      "timestamp": "2026-01-17T18:13:26.357Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
     }
   ],
   "activeNow": {
     "103.175.168.106": {
-      "type": "series",
-      "id": "tt12343534:3:2",
-      "title": "JUJUTSU KAISEN",
+      "type": "movie",
+      "id": "tt0073115",
+      "title": "tt0073115",
       "username": "un0fficial_itachi",
-      "lastActive": 1768645700509
+      "lastActive": 1768673606357
     },
     "115.98.234.187": {
       "type": "movie",
@@ -79176,10 +79258,10 @@
     },
     "103.168.30.70": {
       "type": "series",
-      "id": "tt6897680:1:4",
-      "title": "tt6897680:1:4",
+      "id": "tt6897680:1:5",
+      "title": "tt6897680:1:5",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768671570301
+      "lastActive": 1768673550274
     },
     "202.173.124.39": {
       "type": "series",
@@ -79824,6 +79906,20 @@
       "title": "The Truman Show",
       "username": "gendaswammy",
       "lastActive": 1768671265759
+    },
+    "2405:201:202d:d014:90ec:45e5:c8d2:5628": {
+      "type": "movie",
+      "id": "tt0338013",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "username": "explorerindia",
+      "lastActive": 1768673137011
+    },
+    "2405:201:203e:b800:a712:ac3c:9625:8f3a": {
+      "type": "series",
+      "id": "tt10795658:3:1",
+      "title": "Alice in Borderland",
+      "username": "pingmenoone",
+      "lastActive": 1768673482959
     }
   }
 }
