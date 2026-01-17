@@ -182,5 +182,15 @@
     "enabled": true,
     "createdAt": "2026-01-17T11:44:09.373Z",
     "updatedAt": "2026-01-17T11:45:09.663Z"
+  },
+  {
+    "id": "1768652578794",
+    "name": "moviesdrive",
+    "movieUrl": "https://moviesdrive-api.vflixprime.workers.dev/stream/movie/{{id}}.json",
+    "seriesUrl": "https://moviesdrive-api.vflixprime.workers.dev/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "timeout": 10000,
+    "priority": 2,
+    "enabled": true,
+    "createdAt": "2026-01-17T12:22:58.794Z"
   }
 ]
