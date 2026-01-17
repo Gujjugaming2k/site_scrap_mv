@@ -1,5 +1,5 @@
 {
-  "totalViews": 9812,
+  "totalViews": 9814,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -80742,6 +80742,22 @@
       "timestamp": "2026-01-17T23:15:31.054Z",
       "ip": "181.188.179.66",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt38990492:1:2",
+      "title": "tt38990492:1:2",
+      "timestamp": "2026-01-17T23:18:35.794Z",
+      "ip": "109.77.47.28",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:2:13",
+      "title": "tt0369179:2:13",
+      "timestamp": "2026-01-17T23:22:56.144Z",
+      "ip": "105.106.82.228",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -80985,10 +81001,10 @@
     },
     "109.77.47.28": {
       "type": "series",
-      "id": "tt38990492:1:1",
-      "title": "tt38990492:1:1",
+      "id": "tt38990492:1:2",
+      "title": "tt38990492:1:2",
       "username": "vflix1993",
-      "lastActive": 1768686776677
+      "lastActive": 1768691915794
     },
     "2402:a00:10a:815f:419d:66a4:f9b3:9357": {
       "type": "series",
@@ -81167,10 +81183,10 @@
     },
     "105.106.82.228": {
       "type": "series",
-      "id": "tt0369179:2:10",
-      "title": "tt0369179:2:10",
+      "id": "tt0369179:2:13",
+      "title": "tt0369179:2:13",
       "username": "anonymous",
-      "lastActive": 1768687543996
+      "lastActive": 1768692176144
     },
     "2405:201:201c:5078:51ff:4b57:92ac:6a19": {
       "type": "series",
