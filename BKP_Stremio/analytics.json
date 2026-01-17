@@ -1,5 +1,5 @@
 {
-  "totalViews": 9680,
+  "totalViews": 9684,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2242,7 +2242,8 @@
     "41.96.4.106",
     "197.184.104.40",
     "46.116.123.215",
-    "2409:40f0:2028:6315:e83d:99ff:fef5:7054"
+    "2409:40f0:2028:6315:e83d:99ff:fef5:7054",
+    "2401:4900:1c0a:1745:d34c:5b0e:da90:1348"
   ],
   "views": [
     {
@@ -79674,6 +79675,38 @@
       "timestamp": "2026-01-17T19:48:24.587Z",
       "ip": "182.77.72.137",
       "username": "thebatmanbyte"
+    },
+    {
+      "type": "movie",
+      "id": "tt27996020",
+      "title": "tt27996020",
+      "timestamp": "2026-01-17T19:50:16.091Z",
+      "ip": "202.173.124.39",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt35521922",
+      "title": "Good Boy",
+      "timestamp": "2026-01-17T19:51:56.582Z",
+      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-17T19:56:03.877Z",
+      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:6",
+      "title": "tt0903747:5:6",
+      "timestamp": "2026-01-17T20:02:35.646Z",
+      "ip": "2401:4900:1c0a:1745:d34c:5b0e:da90:1348",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -79700,10 +79733,10 @@
     },
     "2405:201:300c:213:1ef4:3fff:fe0f:1b78": {
       "type": "movie",
-      "id": "tt7574556",
-      "title": "Dead of Winter",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
       "username": "gendaswammy",
-      "lastActive": 1768679295390
+      "lastActive": 1768679763877
     },
     "103.44.117.19": {
       "type": "series",
@@ -79815,7 +79848,7 @@
       "id": "tt27996020",
       "title": "tt27996020",
       "username": "ryuzaklo26",
-      "lastActive": 1768676433614
+      "lastActive": 1768679416091
     },
     "2409:40f0:3182:4f52:c41e:41ff:fed6:348a": {
       "type": "series",
@@ -80607,6 +80640,13 @@
       "title": "tt0482629",
       "username": "sachinprem1",
       "lastActive": 1768679050065
+    },
+    "2401:4900:1c0a:1745:d34c:5b0e:da90:1348": {
+      "type": "series",
+      "id": "tt0903747:5:6",
+      "title": "tt0903747:5:6",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1768680155646
     }
   }
 }
