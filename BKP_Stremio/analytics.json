@@ -1,5 +1,5 @@
 {
-  "totalViews": 8965,
+  "totalViews": 8971,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2113,7 +2113,8 @@
     "2409:4041:6e18:f210:83ea:582c:ba32:9010",
     "103.168.30.70",
     "2409:40e4:100a:9dc9:d2cc:60ff:16eb:6b43",
-    "2402:a00:10a:815f:6559:ef09:90c0:e6c4"
+    "2402:a00:10a:815f:6559:ef09:90c0:e6c4",
+    "2401:4900:ac2c:6c20:a5cc:c308:86d5:d5a8"
   ],
   "views": [
     {
@@ -73825,6 +73826,54 @@
       "timestamp": "2026-01-17T06:27:55.023Z",
       "ip": "2402:a00:10a:815f:6559:ef09:90c0:e6c4",
       "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:4",
+      "title": "tt35335046:1:4",
+      "timestamp": "2026-01-17T06:39:26.289Z",
+      "ip": "110.235.219.255",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt7631058:1:1",
+      "title": "tt7631058:1:1",
+      "timestamp": "2026-01-17T06:39:55.212Z",
+      "ip": "2401:4900:ac2c:6c20:a5cc:c308:86d5:d5a8",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt7631058:1:2",
+      "title": "tt7631058:1:2",
+      "timestamp": "2026-01-17T06:40:55.459Z",
+      "ip": "2401:4900:ac2c:6c20:a5cc:c308:86d5:d5a8",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt7631058:1:1",
+      "title": "tt7631058:1:1",
+      "timestamp": "2026-01-17T06:41:26.024Z",
+      "ip": "2401:4900:ac2c:6c20:a5cc:c308:86d5:d5a8",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:7",
+      "title": "tt14186672:1:7",
+      "timestamp": "2026-01-17T06:46:43.195Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:6",
+      "title": "tt14186672:1:6",
+      "timestamp": "2026-01-17T06:46:49.517Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -74362,10 +74411,10 @@
     },
     "203.192.255.46": {
       "type": "series",
-      "id": "tt14186672:1:7",
-      "title": "tt14186672:1:7",
+      "id": "tt14186672:1:6",
+      "title": "tt14186672:1:6",
       "username": "chetan_b2",
-      "lastActive": 1768630945220
+      "lastActive": 1768632409517
     },
     "163.223.52.102": {
       "type": "movie",
@@ -76931,10 +76980,10 @@
     },
     "110.235.219.255": {
       "type": "series",
-      "id": "tt35335046:1:3",
-      "title": "tt35335046:1:3",
+      "id": "tt35335046:1:4",
+      "title": "tt35335046:1:4",
       "username": "anonymous",
-      "lastActive": 1768565219320
+      "lastActive": 1768631966289
     },
     "2404:bd00:3:dc97:b65e:cb71:f094:70f7": {
       "type": "movie",
@@ -77936,6 +77985,13 @@
       "title": "tt26225038:1:1",
       "username": "vflix1993",
       "lastActive": 1768631275023
+    },
+    "2401:4900:ac2c:6c20:a5cc:c308:86d5:d5a8": {
+      "type": "series",
+      "id": "tt7631058:1:1",
+      "title": "tt7631058:1:1",
+      "username": "gendaswammy",
+      "lastActive": 1768632086024
     }
   }
 }
