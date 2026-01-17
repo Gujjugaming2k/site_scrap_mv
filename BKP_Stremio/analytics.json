@@ -1,5 +1,5 @@
 {
-  "totalViews": 8945,
+  "totalViews": 8954,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2108,7 +2108,10 @@
     "154.18.196.99",
     "2409:40e4:10b1:413e:39e5:35ff:968e:ba70",
     "103.161.98.176,51.89.197.91",
-    "2401:4900:8fdf:96e3:9103:169:f831:58cc"
+    "2401:4900:8fdf:96e3:9103:169:f831:58cc",
+    "202.142.105.241",
+    "2409:4041:6e18:f210:83ea:582c:ba32:9010",
+    "103.168.30.70"
   ],
   "views": [
     {
@@ -73660,6 +73663,78 @@
       "timestamp": "2026-01-17T05:47:27.735Z",
       "ip": "2401:4900:8fdf:96e3:9103:169:f831:58cc",
       "username": "arjun2077"
+    },
+    {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "timestamp": "2026-01-17T05:48:03.379Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:4",
+      "title": "tt30003786:4:4",
+      "timestamp": "2026-01-17T05:52:44.341Z",
+      "ip": "202.142.105.241",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt0109190",
+      "title": "tt0109190",
+      "timestamp": "2026-01-17T05:54:13.175Z",
+      "ip": "2409:4041:6e18:f210:83ea:582c:ba32:9010",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:3",
+      "title": "tt30003786:4:3",
+      "timestamp": "2026-01-17T05:54:55.563Z",
+      "ip": "202.142.105.241",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:3",
+      "title": "tt30003786:4:3",
+      "timestamp": "2026-01-17T05:55:16.294Z",
+      "ip": "202.142.105.241",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:4",
+      "title": "tt30003786:4:4",
+      "timestamp": "2026-01-17T05:55:23.662Z",
+      "ip": "202.142.105.241",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "series",
+      "id": "tt36188448:1:10",
+      "title": "tt36188448:1:10",
+      "timestamp": "2026-01-17T05:56:36.600Z",
+      "ip": "103.215.54.136",
+      "username": "abelboby"
+    },
+    {
+      "type": "series",
+      "id": "tt16085542:1:2",
+      "title": "tt16085542:1:2",
+      "timestamp": "2026-01-17T05:56:53.661Z",
+      "ip": "103.168.30.70",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt36188448:1:11",
+      "title": "tt36188448:1:11",
+      "timestamp": "2026-01-17T05:56:57.014Z",
+      "ip": "103.215.54.136",
+      "username": "abelboby"
     }
   ],
   "activeNow": {
@@ -73770,10 +73845,10 @@
     },
     "103.214.60.5": {
       "type": "movie",
-      "id": "tt32245870",
-      "title": "tt32245870",
+      "id": "tt32141377",
+      "title": "tt32141377",
       "username": "gaendaswami",
-      "lastActive": 1768628821426
+      "lastActive": 1768628883379
     },
     "182.77.73.122": {
       "type": "series",
@@ -77655,10 +77730,10 @@
     },
     "103.215.54.136": {
       "type": "series",
-      "id": "tt36188448:1:10",
-      "title": "tt36188448:1:10",
+      "id": "tt36188448:1:11",
+      "title": "tt36188448:1:11",
       "username": "abelboby",
-      "lastActive": 1768625890581
+      "lastActive": 1768629417014
     },
     "154.18.196.106": {
       "type": "series",
@@ -77729,6 +77804,27 @@
       "title": "Vinland Saga",
       "username": "arjun2077",
       "lastActive": 1768628847735
+    },
+    "202.142.105.241": {
+      "type": "series",
+      "id": "tt30003786:4:4",
+      "title": "tt30003786:4:4",
+      "username": "nobody_ismy_name",
+      "lastActive": 1768629323662
+    },
+    "2409:4041:6e18:f210:83ea:582c:ba32:9010": {
+      "type": "movie",
+      "id": "tt0109190",
+      "title": "tt0109190",
+      "username": "anonymous",
+      "lastActive": 1768629253175
+    },
+    "103.168.30.70": {
+      "type": "series",
+      "id": "tt16085542:1:2",
+      "title": "tt16085542:1:2",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1768629413661
     }
   }
 }
