@@ -1,5 +1,5 @@
 {
-  "totalViews": 9684,
+  "totalViews": 9698,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2243,7 +2243,10 @@
     "197.184.104.40",
     "46.116.123.215",
     "2409:40f0:2028:6315:e83d:99ff:fef5:7054",
-    "2401:4900:1c0a:1745:d34c:5b0e:da90:1348"
+    "2401:4900:1c0a:1745:d34c:5b0e:da90:1348",
+    "160.202.38.198",
+    "2a06:c701:98f3:1500:9578:1d9a:86fd:d451",
+    "2409:40c4:3157:30ee:e034:a7ff:fe83:7a9"
   ],
   "views": [
     {
@@ -79707,6 +79710,118 @@
       "timestamp": "2026-01-17T20:02:35.646Z",
       "ip": "2401:4900:1c0a:1745:d34c:5b0e:da90:1348",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:6",
+      "title": "tt0903747:5:6",
+      "timestamp": "2026-01-17T20:05:31.199Z",
+      "ip": "182.69.179.223",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt9820556",
+      "title": "tt9820556",
+      "timestamp": "2026-01-17T20:10:10.858Z",
+      "ip": "103.4.220.252",
+      "username": "sexhabibi"
+    },
+    {
+      "type": "movie",
+      "id": "tt0401997",
+      "title": "tt0401997",
+      "timestamp": "2026-01-17T20:10:14.420Z",
+      "ip": "103.4.220.252",
+      "username": "sexhabibi"
+    },
+    {
+      "type": "series",
+      "id": "tt1679482:1:1",
+      "title": "tt1679482:1:1",
+      "timestamp": "2026-01-17T20:11:04.926Z",
+      "ip": "160.202.38.198",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0159206:4:3",
+      "title": "tt0159206:4:3",
+      "timestamp": "2026-01-17T20:12:07.571Z",
+      "ip": "2a06:c701:98f3:1500:9578:1d9a:86fd:d451",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0159206:4:4",
+      "title": "tt0159206:4:4",
+      "timestamp": "2026-01-17T20:12:11.231Z",
+      "ip": "2a06:c701:98f3:1500:9578:1d9a:86fd:d451",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0159206:4:4",
+      "title": "tt0159206:4:4",
+      "timestamp": "2026-01-17T20:12:13.898Z",
+      "ip": "2a06:c701:98f3:1500:9578:1d9a:86fd:d451",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0159206:4:3",
+      "title": "tt0159206:4:3",
+      "timestamp": "2026-01-17T20:12:16.212Z",
+      "ip": "2a06:c701:98f3:1500:9578:1d9a:86fd:d451",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt9544034:1:1",
+      "title": "tt9544034:1:1",
+      "timestamp": "2026-01-17T20:13:16.207Z",
+      "ip": "182.69.179.223",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0139774:3:1",
+      "title": "tt0139774:3:1",
+      "timestamp": "2026-01-17T20:14:26.200Z",
+      "ip": "2409:40c4:3157:30ee:e034:a7ff:fe83:7a9",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:7",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-17T20:18:14.523Z",
+      "ip": "2401:4900:5c58:fb32::e3b:7d31",
+      "username": "abhi231511"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:7",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-17T20:18:23.563Z",
+      "ip": "2401:4900:5c58:fb32::e3b:7d31",
+      "username": "abhi231511"
+    },
+    {
+      "type": "movie",
+      "id": "tt1588170",
+      "title": "I Saw the Devil",
+      "timestamp": "2026-01-17T20:18:36.086Z",
+      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:8",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-17T20:18:44.610Z",
+      "ip": "2401:4900:5c58:fb32::e3b:7d31",
+      "username": "abhi231511"
     }
   ],
   "activeNow": {
@@ -79733,10 +79848,10 @@
     },
     "2405:201:300c:213:1ef4:3fff:fe0f:1b78": {
       "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
+      "id": "tt1588170",
+      "title": "I Saw the Devil",
       "username": "gendaswammy",
-      "lastActive": 1768679763877
+      "lastActive": 1768681116086
     },
     "103.44.117.19": {
       "type": "series",
@@ -79901,10 +80016,10 @@
     },
     "182.69.179.223": {
       "type": "series",
-      "id": "tt0903747:5:6",
-      "title": "tt0903747:5:6",
+      "id": "tt9544034:1:1",
+      "title": "tt9544034:1:1",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768672635270
+      "lastActive": 1768680796207
     },
     "27.6.114.125": {
       "type": "series",
@@ -80244,10 +80359,10 @@
     },
     "103.4.220.252": {
       "type": "movie",
-      "id": "tt4196776",
-      "title": "Jason Bourne",
+      "id": "tt0401997",
+      "title": "tt0401997",
       "username": "sexhabibi",
-      "lastActive": 1768678609821
+      "lastActive": 1768680614420
     },
     "2409:40f3:205d:daf6:9802:343:71af:491": {
       "type": "series",
@@ -80608,10 +80723,10 @@
     },
     "2401:4900:5c58:fb32::e3b:7d31": {
       "type": "series",
-      "id": "tt0944947:1:7",
+      "id": "tt0944947:1:8",
       "title": "Game of Thrones",
       "username": "abhi231511",
-      "lastActive": 1768677241667
+      "lastActive": 1768681124610
     },
     "41.96.4.106": {
       "type": "series",
@@ -80647,6 +80762,27 @@
       "title": "tt0903747:5:6",
       "username": "dillon_ka_shooter",
       "lastActive": 1768680155646
+    },
+    "160.202.38.198": {
+      "type": "series",
+      "id": "tt1679482:1:1",
+      "title": "tt1679482:1:1",
+      "username": "anonymous",
+      "lastActive": 1768680664926
+    },
+    "2a06:c701:98f3:1500:9578:1d9a:86fd:d451": {
+      "type": "series",
+      "id": "tt0159206:4:3",
+      "title": "tt0159206:4:3",
+      "username": "anonymous",
+      "lastActive": 1768680736212
+    },
+    "2409:40c4:3157:30ee:e034:a7ff:fe83:7a9": {
+      "type": "series",
+      "id": "tt0139774:3:1",
+      "title": "tt0139774:3:1",
+      "username": "anonymous",
+      "lastActive": 1768680866200
     }
   }
 }
