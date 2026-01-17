@@ -171,5 +171,16 @@
     "enabled": true,
     "createdAt": "2026-01-16T15:27:13.209Z",
     "updatedAt": "2026-01-16T15:33:06.374Z"
+  },
+  {
+    "id": "1768650249373",
+    "name": "moviesda",
+    "movieUrl": "https://moviesda-worker.vflixprime.workers.dev/stream/movie/{{id}}.json",
+    "seriesUrl": "https://moviesda-worker.vflixprime.workers.dev/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "timeout": "10000",
+    "priority": "5",
+    "enabled": true,
+    "createdAt": "2026-01-17T11:44:09.373Z",
+    "updatedAt": "2026-01-17T11:45:09.663Z"
   }
 ]
