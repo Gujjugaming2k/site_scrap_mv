@@ -1,5 +1,5 @@
 {
-  "totalViews": 8823,
+  "totalViews": 8826,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2088,7 +2088,8 @@
     "154.254.216.18",
     "2a02:ce0:2002:cfbc:9cfa:ebc7:34f3:8960",
     "2a06:c701:474f:e900:1160:37c4:f951:e159",
-    "5.90.241.83"
+    "5.90.241.83",
+    "2a09:bac5:3fda:eaa::176:5b"
   ],
   "views": [
     {
@@ -72664,6 +72665,30 @@
       "timestamp": "2026-01-17T01:07:21.651Z",
       "ip": "154.254.216.18",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt22202452:1:7",
+      "title": "tt22202452:1:7",
+      "timestamp": "2026-01-17T01:13:09.422Z",
+      "ip": "41.141.168.231",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:2",
+      "title": "tt6354518:2:2",
+      "timestamp": "2026-01-17T01:15:22.673Z",
+      "ip": "2a09:bac5:3fda:eaa::176:5b",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt32612521:1:23",
+      "title": "tt32612521:1:23",
+      "timestamp": "2026-01-17T01:18:55.025Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -74405,10 +74430,10 @@
     },
     "2405:201:6820:a83c:bdef:55c1:5b2d:3408": {
       "type": "series",
-      "id": "tt32612521:1:22",
-      "title": "tt32612521:1:22",
+      "id": "tt32612521:1:23",
+      "title": "tt32612521:1:23",
       "username": "demon18319",
-      "lastActive": 1768575188028
+      "lastActive": 1768612735025
     },
     "2409:40e0:101a:b77c:58cd:e5ff:fe11:4741": {
       "type": "series",
@@ -76540,10 +76565,10 @@
     },
     "41.141.168.231": {
       "type": "series",
-      "id": "tt22202452:1:5",
-      "title": "tt22202452:1:5",
+      "id": "tt22202452:1:7",
+      "title": "tt22202452:1:7",
       "username": "anonymous",
-      "lastActive": 1768608601257
+      "lastActive": 1768612389422
     },
     "2a06:c701:474f:e900:2c5a:38c5:4aac:c6ca": {
       "type": "series",
@@ -76586,6 +76611,13 @@
       "title": "Lost in Starlight",
       "username": "anonymous",
       "lastActive": 1768611731396
+    },
+    "2a09:bac5:3fda:eaa::176:5b": {
+      "type": "series",
+      "id": "tt6354518:2:2",
+      "title": "tt6354518:2:2",
+      "username": "sinbad1722",
+      "lastActive": 1768612522673
     }
   }
 }
