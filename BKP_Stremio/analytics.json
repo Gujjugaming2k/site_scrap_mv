@@ -1,5 +1,5 @@
 {
-  "totalViews": 8883,
+  "totalViews": 8890,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -73155,6 +73155,62 @@
       "timestamp": "2026-01-17T04:13:44.131Z",
       "ip": "103.215.54.136",
       "username": "abelboby"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-17T04:17:11.337Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-17T04:19:08.848Z",
+      "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt12300742",
+      "title": "Bugonia",
+      "timestamp": "2026-01-17T04:20:50.688Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-17T04:23:57.707Z",
+      "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:19",
+      "title": "tt17069148:1:19",
+      "timestamp": "2026-01-17T04:29:14.860Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:19",
+      "title": "tt17069148:1:19",
+      "timestamp": "2026-01-17T04:29:14.974Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-17T04:29:40.918Z",
+      "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
+      "username": "nabakun24"
     }
   ],
   "activeNow": {
@@ -73265,10 +73321,10 @@
     },
     "103.214.60.5": {
       "type": "series",
-      "id": "tt17069148:1:18",
-      "title": "tt17069148:1:18",
+      "id": "tt17069148:1:19",
+      "title": "tt17069148:1:19",
       "username": "gaendaswami",
-      "lastActive": 1768622743487
+      "lastActive": 1768624154974
     },
     "182.77.73.122": {
       "type": "series",
@@ -73656,11 +73712,11 @@
       "lastActive": 1768354788318
     },
     "103.24.85.161": {
-      "type": "series",
-      "id": "tt33035373:1:4",
-      "title": "tt33035373:1:4",
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
       "username": "william097",
-      "lastActive": 1768621888777
+      "lastActive": 1768623431337
     },
     "49.37.112.210": {
       "type": "series",
@@ -74895,11 +74951,11 @@
       "lastActive": 1768444865455
     },
     "2405:201:6820:a83c:bdef:55c1:5b2d:3408": {
-      "type": "series",
-      "id": "tt22248376:2:1",
-      "title": "tt22248376:2:1",
+      "type": "movie",
+      "id": "tt12300742",
+      "title": "Bugonia",
       "username": "demon18319",
-      "lastActive": 1768623126767
+      "lastActive": 1768623650688
     },
     "2409:40e0:101a:b77c:58cd:e5ff:fe11:4741": {
       "type": "series",
@@ -77097,7 +77153,7 @@
       "id": "tt31227572",
       "title": "tt31227572",
       "username": "nabakun24",
-      "lastActive": 1768622953317
+      "lastActive": 1768624180918
     },
     "205.217.227.47": {
       "type": "series",
