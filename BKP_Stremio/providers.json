@@ -198,9 +198,10 @@
     "name": "meowtv",
     "movieUrl": "https://meowtv.vflix.life/stream/movie/{{id}}.json",
     "seriesUrl": "https://meowtv.vflix.life/stream/series/{{id}}:{{season}}:{{episode}}.json",
-    "timeout": 10000,
-    "priority": 1,
+    "timeout": "10000",
+    "priority": "10",
     "enabled": true,
-    "createdAt": "2026-01-17T14:28:39.070Z"
+    "createdAt": "2026-01-17T14:28:39.070Z",
+    "updatedAt": "2026-01-17T14:41:18.312Z"
   }
 ]
