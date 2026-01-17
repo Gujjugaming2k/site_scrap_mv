@@ -1,5 +1,5 @@
 {
-  "totalViews": 8975,
+  "totalViews": 8982,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2118,7 +2118,10 @@
     "109.77.47.28",
     "2402:a00:10a:815f:5b30:6482:eb28:bdfa",
     "103.50.150.7",
-    "2001:4490:4e65:97b:9433:8201:feed:682e"
+    "2001:4490:4e65:97b:9433:8201:feed:682e",
+    "152.59.149.84",
+    "2409:40d4:40c5:3e4b:d4a8:b71b:882b:e72d",
+    "2401:4900:1c5e:948c:cdcf:c:15c0:a703"
   ],
   "views": [
     {
@@ -73910,6 +73913,62 @@
       "timestamp": "2026-01-17T07:17:10.534Z",
       "ip": "2001:4490:4e65:97b:9433:8201:feed:682e",
       "username": "adiyogivishwanath"
+    },
+    {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "timestamp": "2026-01-17T07:25:09.058Z",
+      "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "timestamp": "2026-01-17T07:25:59.197Z",
+      "ip": "152.59.149.84",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "timestamp": "2026-01-17T07:27:52.285Z",
+      "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-17T07:28:04.098Z",
+      "ip": "2409:40d4:40c5:3e4b:d4a8:b71b:882b:e72d",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:4",
+      "title": "tt35335046:1:4",
+      "timestamp": "2026-01-17T07:31:20.098Z",
+      "ip": "110.235.219.255",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:5",
+      "title": "tt35335046:1:5",
+      "timestamp": "2026-01-17T07:35:34.965Z",
+      "ip": "110.235.219.255",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4236770:3:6",
+      "title": "tt4236770:3:6",
+      "timestamp": "2026-01-17T07:36:27.908Z",
+      "ip": "2401:4900:1c5e:948c:cdcf:c:15c0:a703",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -77016,10 +77075,10 @@
     },
     "110.235.219.255": {
       "type": "series",
-      "id": "tt35335046:1:4",
-      "title": "tt35335046:1:4",
+      "id": "tt35335046:1:5",
+      "title": "tt35335046:1:5",
       "username": "anonymous",
-      "lastActive": 1768631966289
+      "lastActive": 1768635334965
     },
     "2404:bd00:3:dc97:b65e:cb71:f094:70f7": {
       "type": "movie",
@@ -77849,10 +77908,10 @@
     },
     "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08": {
       "type": "movie",
-      "id": "tt23172090",
-      "title": "tt23172090",
+      "id": "tt14364480",
+      "title": "tt14364480",
       "username": "nabakun24",
-      "lastActive": 1768631145854
+      "lastActive": 1768634872285
     },
     "205.217.227.47": {
       "type": "series",
@@ -78056,6 +78115,27 @@
       "title": "tt28551273",
       "username": "adiyogivishwanath",
       "lastActive": 1768634230534
+    },
+    "152.59.149.84": {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "username": "nabakun24",
+      "lastActive": 1768634759197
+    },
+    "2409:40d4:40c5:3e4b:d4a8:b71b:882b:e72d": {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "username": "anonymous",
+      "lastActive": 1768634884098
+    },
+    "2401:4900:1c5e:948c:cdcf:c:15c0:a703": {
+      "type": "series",
+      "id": "tt4236770:3:6",
+      "title": "tt4236770:3:6",
+      "username": "anonymous",
+      "lastActive": 1768635387908
     }
   }
 }
