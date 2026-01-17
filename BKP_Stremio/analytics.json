@@ -1,5 +1,5 @@
 {
-  "totalViews": 9057,
+  "totalViews": 9074,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2131,7 +2131,12 @@
     "152.59.49.241",
     "2409:40d4:40db:ad3e:209e:62f3:7bcd:5ece",
     "43.231.236.82",
-    "2401:4900:78e9:2746:a407:186e:6b01:ffca"
+    "2401:4900:78e9:2746:a407:186e:6b01:ffca",
+    "2405:201:6820:a83c:94d4:e7bb:d56a:9f6e",
+    "223.233.75.7",
+    "2407:5400:201:7001:f056:2616:dd45:619a",
+    "31.171.154.186",
+    "47.15.114.209"
   ],
   "views": [
     {
@@ -74579,6 +74584,142 @@
       "timestamp": "2026-01-17T09:08:06.899Z",
       "ip": "2401:4900:78e9:2746:a407:186e:6b01:ffca",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
+      "timestamp": "2026-01-17T09:10:12.699Z",
+      "ip": "109.77.47.28",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
+      "timestamp": "2026-01-17T09:10:30.167Z",
+      "ip": "109.77.47.28",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt15911108",
+      "title": "tt15911108",
+      "timestamp": "2026-01-17T09:10:49.955Z",
+      "ip": "109.77.47.28",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt28262653:1:1",
+      "title": "tt28262653:1:1",
+      "timestamp": "2026-01-17T09:11:50.730Z",
+      "ip": "2405:201:6820:a83c:94d4:e7bb:d56a:9f6e",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt1934231",
+      "title": "tt1934231",
+      "timestamp": "2026-01-17T09:13:10.100Z",
+      "ip": "109.77.47.28",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-01-17T09:13:25.853Z",
+      "ip": "109.77.47.28",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt37660887",
+      "title": "tt37660887",
+      "timestamp": "2026-01-17T09:14:01.657Z",
+      "ip": "109.77.47.28",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt27990591:1:3",
+      "title": "tt27990591:1:3",
+      "timestamp": "2026-01-17T09:14:17.951Z",
+      "ip": "223.233.75.7",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt27990591:1:4",
+      "title": "tt27990591:1:4",
+      "timestamp": "2026-01-17T09:14:26.831Z",
+      "ip": "223.233.75.7",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt27990591:1:5",
+      "title": "tt27990591:1:5",
+      "timestamp": "2026-01-17T09:14:32.938Z",
+      "ip": "223.233.75.7",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt31522415",
+      "title": "tt31522415",
+      "timestamp": "2026-01-17T09:15:32.022Z",
+      "ip": "109.77.47.28",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt18923048",
+      "title": "tt18923048",
+      "timestamp": "2026-01-17T09:15:57.068Z",
+      "ip": "109.77.47.28",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt32864316:1:1",
+      "title": "tt32864316:1:1",
+      "timestamp": "2026-01-17T09:18:19.901Z",
+      "ip": "2407:5400:201:7001:f056:2616:dd45:619a",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-17T09:19:06.096Z",
+      "ip": "31.171.154.186",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt12300742",
+      "title": "Bugonia",
+      "timestamp": "2026-01-17T09:22:35.603Z",
+      "ip": "47.15.114.209",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt6897680:1:1",
+      "title": "tt6897680:1:1",
+      "timestamp": "2026-01-17T09:23:13.347Z",
+      "ip": "103.168.30.70",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt12300742",
+      "title": "Bugonia",
+      "timestamp": "2026-01-17T09:23:59.361Z",
+      "ip": "47.15.114.209",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -78665,10 +78806,10 @@
     },
     "103.168.30.70": {
       "type": "series",
-      "id": "tt16085542:1:2",
-      "title": "tt16085542:1:2",
+      "id": "tt6897680:1:1",
+      "title": "tt6897680:1:1",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768629413661
+      "lastActive": 1768641793347
     },
     "2409:40e4:100a:9dc9:d2cc:60ff:16eb:6b43": {
       "type": "series",
@@ -78699,11 +78840,11 @@
       "lastActive": 1768632086024
     },
     "109.77.47.28": {
-      "type": "series",
-      "id": "tt35335046:1:7",
-      "title": "tt35335046:1:7",
+      "type": "movie",
+      "id": "tt18923048",
+      "title": "tt18923048",
       "username": "vflix1993",
-      "lastActive": 1768633065972
+      "lastActive": 1768641357068
     },
     "2402:a00:10a:815f:5b30:6482:eb28:bdfa": {
       "type": "movie",
@@ -78816,6 +78957,41 @@
       "title": "tt26744890",
       "username": "anonymous",
       "lastActive": 1768640886899
+    },
+    "2405:201:6820:a83c:94d4:e7bb:d56a:9f6e": {
+      "type": "series",
+      "id": "tt28262653:1:1",
+      "title": "tt28262653:1:1",
+      "username": "demon18319",
+      "lastActive": 1768641110730
+    },
+    "223.233.75.7": {
+      "type": "series",
+      "id": "tt27990591:1:5",
+      "title": "tt27990591:1:5",
+      "username": "anonymous",
+      "lastActive": 1768641272938
+    },
+    "2407:5400:201:7001:f056:2616:dd45:619a": {
+      "type": "series",
+      "id": "tt32864316:1:1",
+      "title": "tt32864316:1:1",
+      "username": "anonymous",
+      "lastActive": 1768641499901
+    },
+    "31.171.154.186": {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "username": "theonlyfreak",
+      "lastActive": 1768641546096
+    },
+    "47.15.114.209": {
+      "type": "movie",
+      "id": "tt12300742",
+      "title": "Bugonia",
+      "username": "demon18319",
+      "lastActive": 1768641839361
     }
   }
 }
