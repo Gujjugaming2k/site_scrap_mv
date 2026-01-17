@@ -1,5 +1,5 @@
 {
-  "totalViews": 9808,
+  "totalViews": 9812,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2253,7 +2253,8 @@
     "146.70.246.108",
     "80.114.161.107",
     "84.15.183.116",
-    "2401:4900:8820:8915:97cd:364f:6d84:cedb"
+    "2401:4900:8820:8915:97cd:364f:6d84:cedb",
+    "1.47.205.76"
   ],
   "views": [
     {
@@ -80709,6 +80710,38 @@
       "timestamp": "2026-01-17T23:00:34.908Z",
       "ip": "154.208.49.98",
       "username": "cutepupper"
+    },
+    {
+      "type": "series",
+      "id": "tt0809497:1:7",
+      "title": "tt0809497:1:7",
+      "timestamp": "2026-01-17T23:02:59.295Z",
+      "ip": "146.70.246.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1763264",
+      "title": "tt1763264",
+      "timestamp": "2026-01-17T23:10:14.259Z",
+      "ip": "1.47.205.76",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1757678",
+      "title": "tt1757678",
+      "timestamp": "2026-01-17T23:10:14.628Z",
+      "ip": "162.247.55.241",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt24640580:1:5",
+      "title": "tt24640580:1:5",
+      "timestamp": "2026-01-17T23:15:31.054Z",
+      "ip": "181.188.179.66",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -81036,10 +81069,10 @@
     },
     "181.188.179.66": {
       "type": "series",
-      "id": "tt0118375:2:23",
-      "title": "tt0118375:2:23",
+      "id": "tt24640580:1:5",
+      "title": "tt24640580:1:5",
       "username": "anonymous",
-      "lastActive": 1768656142314
+      "lastActive": 1768691731054
     },
     "2401:4900:8820:8915:557d:7a03:8e6c:6203": {
       "type": "movie",
@@ -81694,10 +81727,10 @@
     },
     "146.70.246.108": {
       "type": "series",
-      "id": "tt0809497:1:6",
-      "title": "tt0809497:1:6",
+      "id": "tt0809497:1:7",
+      "title": "tt0809497:1:7",
       "username": "anonymous",
-      "lastActive": 1768690184164
+      "lastActive": 1768690979295
     },
     "80.114.161.107": {
       "type": "movie",
@@ -81729,10 +81762,10 @@
     },
     "162.247.55.241": {
       "type": "movie",
-      "id": "tt22740896",
-      "title": "tt22740896",
+      "id": "tt1757678",
+      "title": "tt1757678",
       "username": "anonymous",
-      "lastActive": 1768689188294
+      "lastActive": 1768691414628
     },
     "154.208.49.98": {
       "type": "series",
@@ -81740,6 +81773,13 @@
       "title": "tt5574490:6:2",
       "username": "cutepupper",
       "lastActive": 1768690834908
+    },
+    "1.47.205.76": {
+      "type": "movie",
+      "id": "tt1763264",
+      "title": "tt1763264",
+      "username": "anonymous",
+      "lastActive": 1768691414259
     }
   }
 }
