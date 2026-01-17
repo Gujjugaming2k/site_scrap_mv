@@ -192,5 +192,15 @@
     "priority": 2,
     "enabled": true,
     "createdAt": "2026-01-17T12:22:58.794Z"
+  },
+  {
+    "id": "1768660119070",
+    "name": "meowtv",
+    "movieUrl": "https://meowtv.vflix.life/stream/movie/{{id}}.json",
+    "seriesUrl": "https://meowtv.vflix.life/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "timeout": 10000,
+    "priority": 1,
+    "enabled": true,
+    "createdAt": "2026-01-17T14:28:39.070Z"
   }
 ]
