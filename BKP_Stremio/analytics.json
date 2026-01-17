@@ -1,5 +1,5 @@
 {
-  "totalViews": 8959,
+  "totalViews": 8965,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2112,7 +2112,8 @@
     "202.142.105.241",
     "2409:4041:6e18:f210:83ea:582c:ba32:9010",
     "103.168.30.70",
-    "2409:40e4:100a:9dc9:d2cc:60ff:16eb:6b43"
+    "2409:40e4:100a:9dc9:d2cc:60ff:16eb:6b43",
+    "2402:a00:10a:815f:6559:ef09:90c0:e6c4"
   ],
   "views": [
     {
@@ -73776,6 +73777,54 @@
       "timestamp": "2026-01-17T06:15:06.737Z",
       "ip": "154.18.196.101",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:7",
+      "title": "tt14186672:1:7",
+      "timestamp": "2026-01-17T06:22:25.220Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:4",
+      "title": "tt30003786:4:4",
+      "timestamp": "2026-01-17T06:24:03.051Z",
+      "ip": "202.142.105.241",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:5",
+      "title": "tt30003786:4:5",
+      "timestamp": "2026-01-17T06:24:26.102Z",
+      "ip": "202.142.105.241",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt28690468",
+      "title": "tt28690468",
+      "timestamp": "2026-01-17T06:25:27.963Z",
+      "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt23172090",
+      "title": "tt23172090",
+      "timestamp": "2026-01-17T06:25:45.854Z",
+      "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt26225038:1:1",
+      "title": "tt26225038:1:1",
+      "timestamp": "2026-01-17T06:27:55.023Z",
+      "ip": "2402:a00:10a:815f:6559:ef09:90c0:e6c4",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -74312,11 +74361,11 @@
       "lastActive": 1768438744368
     },
     "203.192.255.46": {
-      "type": "movie",
-      "id": "tt33039440",
-      "title": "The Wrong Paris",
+      "type": "series",
+      "id": "tt14186672:1:7",
+      "title": "tt14186672:1:7",
       "username": "chetan_b2",
-      "lastActive": 1768628312975
+      "lastActive": 1768630945220
     },
     "163.223.52.102": {
       "type": "movie",
@@ -77714,11 +77763,11 @@
       "lastActive": 1768613769783
     },
     "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08": {
-      "type": "series",
-      "id": "tt2356777:1:2",
-      "title": "tt2356777:1:2",
+      "type": "movie",
+      "id": "tt23172090",
+      "title": "tt23172090",
       "username": "nabakun24",
-      "lastActive": 1768626918478
+      "lastActive": 1768631145854
     },
     "205.217.227.47": {
       "type": "series",
@@ -77848,10 +77897,10 @@
     },
     "202.142.105.241": {
       "type": "series",
-      "id": "tt30003786:4:4",
-      "title": "tt30003786:4:4",
+      "id": "tt30003786:4:5",
+      "title": "tt30003786:4:5",
       "username": "nobody_ismy_name",
-      "lastActive": 1768629323662
+      "lastActive": 1768631066102
     },
     "2409:4041:6e18:f210:83ea:582c:ba32:9010": {
       "type": "movie",
@@ -77880,6 +77929,13 @@
       "title": "Fallout",
       "username": "anonymous",
       "lastActive": 1768630506737
+    },
+    "2402:a00:10a:815f:6559:ef09:90c0:e6c4": {
+      "type": "series",
+      "id": "tt26225038:1:1",
+      "title": "tt26225038:1:1",
+      "username": "vflix1993",
+      "lastActive": 1768631275023
     }
   }
 }
