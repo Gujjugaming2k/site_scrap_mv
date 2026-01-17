@@ -1,5 +1,5 @@
 {
-  "totalViews": 8928,
+  "totalViews": 8933,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2103,7 +2103,10 @@
     "186.188.150.139",
     "2604:3d09:d7f:1600:8dd3:f950:d7c9:bdbd",
     "72.255.15.66",
-    "2001:4490:488d:5454:66e4:a5ff:fe15:d00b"
+    "2001:4490:488d:5454:66e4:a5ff:fe15:d00b",
+    "2401:4900:8fe2:4c46:8847:477f:a4b8:6df4",
+    "154.18.196.99",
+    "2409:40e4:10b1:413e:39e5:35ff:968e:ba70"
   ],
   "views": [
     {
@@ -73519,6 +73522,46 @@
       "timestamp": "2026-01-17T05:15:18.478Z",
       "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
       "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt24053860:1:8",
+      "title": "tt24053860:1:8",
+      "timestamp": "2026-01-17T05:17:45.025Z",
+      "ip": "122.167.97.49",
+      "username": "zindha"
+    },
+    {
+      "type": "series",
+      "id": "tt24053860:1:9",
+      "title": "tt24053860:1:9",
+      "timestamp": "2026-01-17T05:18:14.968Z",
+      "ip": "122.167.97.49",
+      "username": "zindha"
+    },
+    {
+      "type": "movie",
+      "id": "tt32447918",
+      "title": "tt32447918",
+      "timestamp": "2026-01-17T05:21:59.032Z",
+      "ip": "2401:4900:8fe2:4c46:8847:477f:a4b8:6df4",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:2",
+      "title": "Fallout",
+      "timestamp": "2026-01-17T05:22:52.413Z",
+      "ip": "154.18.196.99",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0382932",
+      "title": "Ratatouille",
+      "timestamp": "2026-01-17T05:28:40.204Z",
+      "ip": "2409:40e4:10b1:413e:39e5:35ff:968e:ba70",
+      "username": "askchm"
     }
   ],
   "activeNow": {
@@ -75827,10 +75870,10 @@
     },
     "122.167.97.49": {
       "type": "series",
-      "id": "tt24053860:1:8",
-      "title": "tt24053860:1:8",
+      "id": "tt24053860:1:9",
+      "title": "tt24053860:1:9",
       "username": "zindha",
-      "lastActive": 1768626533076
+      "lastActive": 1768627094968
     },
     "2409:40e6:16:d8:70c1:8bff:fe40:9835": {
       "type": "movie",
@@ -77553,6 +77596,27 @@
       "title": "One Battle After Another",
       "username": "itsdoom50",
       "lastActive": 1768626824851
+    },
+    "2401:4900:8fe2:4c46:8847:477f:a4b8:6df4": {
+      "type": "movie",
+      "id": "tt32447918",
+      "title": "tt32447918",
+      "username": "ashwanileon",
+      "lastActive": 1768627319032
+    },
+    "154.18.196.99": {
+      "type": "series",
+      "id": "tt12637874:2:2",
+      "title": "Fallout",
+      "username": "anonymous",
+      "lastActive": 1768627372413
+    },
+    "2409:40e4:10b1:413e:39e5:35ff:968e:ba70": {
+      "type": "movie",
+      "id": "tt0382932",
+      "title": "Ratatouille",
+      "username": "askchm",
+      "lastActive": 1768627720204
     }
   }
 }
