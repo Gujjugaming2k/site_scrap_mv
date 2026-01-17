@@ -1,5 +1,5 @@
 {
-  "totalViews": 9007,
+  "totalViews": 9012,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -74176,6 +74176,46 @@
       "timestamp": "2026-01-17T08:06:44.442Z",
       "ip": "152.59.49.241",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt13623632:1:1",
+      "title": "Alien: Earth",
+      "timestamp": "2026-01-17T08:09:52.615Z",
+      "ip": "2409:40d4:40c5:3e4b:d4a8:b71b:882b:e72d",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt10698680",
+      "title": "tt10698680",
+      "timestamp": "2026-01-17T08:10:44.080Z",
+      "ip": "2409:40d4:40c5:3e4b:d4a8:b71b:882b:e72d",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt22247450",
+      "title": "tt22247450",
+      "timestamp": "2026-01-17T08:11:21.108Z",
+      "ip": "205.254.185.192",
+      "username": "space_forca"
+    },
+    {
+      "type": "movie",
+      "id": "tt26439764",
+      "title": "tt26439764",
+      "timestamp": "2026-01-17T08:12:05.464Z",
+      "ip": "2409:40d4:40c5:3e4b:d4a8:b71b:882b:e72d",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "null:3:3",
+      "title": "null:3:3",
+      "timestamp": "2026-01-17T08:17:18.756Z",
+      "ip": "49.36.117.21",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -77373,10 +77413,10 @@
     },
     "205.254.185.192": {
       "type": "movie",
-      "id": "tt0115734",
-      "title": "tt0115734",
+      "id": "tt22247450",
+      "title": "tt22247450",
       "username": "space_forca",
-      "lastActive": 1768562275631
+      "lastActive": 1768637481108
     },
     "2409:40e0:101e:e892:4c67:dbff:fe6a:14d6": {
       "type": "series",
@@ -78020,7 +78060,7 @@
       "id": "null:3:3",
       "title": "null:3:3",
       "username": "anonymous",
-      "lastActive": 1768594534497
+      "lastActive": 1768637838756
     },
     "2409:40c1:10df:ccc:8000::": {
       "type": "movie",
@@ -78331,11 +78371,11 @@
       "lastActive": 1768636744000
     },
     "2409:40d4:40c5:3e4b:d4a8:b71b:882b:e72d": {
-      "type": "series",
-      "id": "tt0944947:8:2",
-      "title": "Game of Thrones",
+      "type": "movie",
+      "id": "tt26439764",
+      "title": "tt26439764",
       "username": "anonymous",
-      "lastActive": 1768637191135
+      "lastActive": 1768637525464
     },
     "2401:4900:1c5e:948c:cdcf:c:15c0:a703": {
       "type": "series",
