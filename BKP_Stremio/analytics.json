@@ -1,5 +1,5 @@
 {
-  "totalViews": 9504,
+  "totalViews": 9512,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2200,7 +2200,9 @@
     "194.88.96.145",
     "197.89.40.100",
     "2409:40f3:2012:ec86:e893:1dd1:26eb:4d46",
-    "119.73.114.153"
+    "119.73.114.153",
+    "2401:4900:b9fc:d76d::2b49:b07a",
+    "2409:40c2:10d:9188:b891:3fff:febf:c1eb"
   ],
   "views": [
     {
@@ -78224,6 +78226,70 @@
       "timestamp": "2026-01-17T15:40:05.802Z",
       "ip": "119.73.114.153",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:1:1",
+      "title": "tt31938062:1:1",
+      "timestamp": "2026-01-17T15:43:20.267Z",
+      "ip": "2409:40e4:2050:19ce:988a:e5ff:fe2a:e0ef",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:5",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-17T15:44:29.194Z",
+      "ip": "2401:4900:b9fc:d76d::2b49:b07a",
+      "username": "abhi231511"
+    },
+    {
+      "type": "movie",
+      "id": "tt36256256",
+      "title": "tt36256256",
+      "timestamp": "2026-01-17T15:46:34.276Z",
+      "ip": "194.88.96.145",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt32537124:1:8",
+      "title": "tt32537124:1:8",
+      "timestamp": "2026-01-17T15:47:53.298Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt32537124:1:9",
+      "title": "tt32537124:1:9",
+      "timestamp": "2026-01-17T15:49:39.086Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:6",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-17T15:53:39.498Z",
+      "ip": "2409:40c2:10d:9188:b891:3fff:febf:c1eb",
+      "username": "agentmj47"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:4",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-17T15:54:22.345Z",
+      "ip": "2401:4900:b9fc:d76d::2b49:b07a",
+      "username": "abhi231511"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:5",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-17T15:54:33.753Z",
+      "ip": "2401:4900:b9fc:d76d::2b49:b07a",
+      "username": "abhi231511"
     }
   ],
   "activeNow": {
@@ -78376,10 +78442,10 @@
     },
     "2409:40e4:2050:19ce:988a:e5ff:fe2a:e0ef": {
       "type": "series",
-      "id": "tt9680440:1:4",
-      "title": "tt9680440:1:4",
+      "id": "tt31938062:1:1",
+      "title": "tt31938062:1:1",
       "username": "cyberboy12321",
-      "lastActive": 1768663948034
+      "lastActive": 1768664600267
     },
     "154.18.196.105": {
       "type": "series",
@@ -78530,10 +78596,10 @@
     },
     "139.5.196.103": {
       "type": "series",
-      "id": "tt32537124:1:8",
-      "title": "tt32537124:1:8",
+      "id": "tt32537124:1:9",
+      "title": "tt32537124:1:9",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768663149312
+      "lastActive": 1768664979086
     },
     "202.71.3.32": {
       "type": "series",
@@ -78810,10 +78876,10 @@
     },
     "194.88.96.145": {
       "type": "movie",
-      "id": "tt26439764",
-      "title": "tt26439764",
+      "id": "tt36256256",
+      "title": "tt36256256",
       "username": "b1jju",
-      "lastActive": 1768663320936
+      "lastActive": 1768664794276
     },
     "197.89.40.100": {
       "type": "movie",
@@ -78842,6 +78908,20 @@
       "title": "tt33035373:1:2",
       "username": "anonymous",
       "lastActive": 1768664405802
+    },
+    "2401:4900:b9fc:d76d::2b49:b07a": {
+      "type": "series",
+      "id": "tt0944947:1:5",
+      "title": "Game of Thrones",
+      "username": "abhi231511",
+      "lastActive": 1768665273753
+    },
+    "2409:40c2:10d:9188:b891:3fff:febf:c1eb": {
+      "type": "series",
+      "id": "tt4574334:5:6",
+      "title": "Stranger Things",
+      "username": "agentmj47",
+      "lastActive": 1768665219498
     }
   }
 }
