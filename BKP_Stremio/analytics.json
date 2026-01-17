@@ -1,5 +1,5 @@
 {
-  "totalViews": 9016,
+  "totalViews": 9030,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2129,7 +2129,8 @@
     "2409:40d4:35:b5b9:8bf:83ff:fecd:d7e5",
     "2409:40c1:10bb:c12c:989f:7e7:4b93:ad3f",
     "152.59.49.241",
-    "2409:40d4:40db:ad3e:209e:62f3:7bcd:5ece"
+    "2409:40d4:40db:ad3e:209e:62f3:7bcd:5ece",
+    "43.231.236.82"
   ],
   "views": [
     {
@@ -74249,6 +74250,118 @@
       "timestamp": "2026-01-17T08:38:31.934Z",
       "ip": "202.179.159.154",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "null:3:3",
+      "title": "null:3:3",
+      "timestamp": "2026-01-17T08:40:35.938Z",
+      "ip": "49.36.117.21",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt14142060",
+      "title": "tt14142060",
+      "timestamp": "2026-01-17T08:42:35.153Z",
+      "ip": "205.254.185.192",
+      "username": "space_forca"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-17T08:47:58.797Z",
+      "ip": "43.231.236.82",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:6",
+      "title": "tt35335046:1:6",
+      "timestamp": "2026-01-17T08:52:31.047Z",
+      "ip": "110.235.219.255",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:1",
+      "title": "tt1399664:2:1",
+      "timestamp": "2026-01-17T08:52:52.522Z",
+      "ip": "43.231.236.82",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:2",
+      "title": "tt1399664:2:2",
+      "timestamp": "2026-01-17T08:52:56.461Z",
+      "ip": "43.231.236.82",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:2",
+      "title": "tt1399664:2:2",
+      "timestamp": "2026-01-17T08:53:08.086Z",
+      "ip": "43.231.236.82",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:1",
+      "title": "tt1399664:2:1",
+      "timestamp": "2026-01-17T08:53:11.290Z",
+      "ip": "43.231.236.82",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:1:7",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-01-17T08:54:11.253Z",
+      "ip": "163.53.179.125",
+      "username": "jamesbond_pistolman"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:2",
+      "title": "tt1399664:2:2",
+      "timestamp": "2026-01-17T08:54:28.094Z",
+      "ip": "43.231.236.82",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:1:8",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-01-17T08:54:31.356Z",
+      "ip": "163.53.179.125",
+      "username": "jamesbond_pistolman"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:1:8",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-01-17T08:54:34.848Z",
+      "ip": "163.53.179.125",
+      "username": "jamesbond_pistolman"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:1:9",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-01-17T08:54:38.360Z",
+      "ip": "163.53.179.125",
+      "username": "jamesbond_pistolman"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:1:9",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-01-17T08:54:39.928Z",
+      "ip": "163.53.179.125",
+      "username": "jamesbond_pistolman"
     }
   ],
   "activeNow": {
@@ -74828,10 +74941,10 @@
     },
     "163.53.179.125": {
       "type": "series",
-      "id": "tt13706018:1:8",
+      "id": "tt13706018:1:9",
       "title": "SPY x FAMILY",
       "username": "jamesbond_pistolman",
-      "lastActive": 1768363064143
+      "lastActive": 1768640079928
     },
     "152.58.179.176": {
       "type": "series",
@@ -77355,10 +77468,10 @@
     },
     "110.235.219.255": {
       "type": "series",
-      "id": "tt35335046:1:5",
-      "title": "tt35335046:1:5",
+      "id": "tt35335046:1:6",
+      "title": "tt35335046:1:6",
       "username": "anonymous",
-      "lastActive": 1768635334965
+      "lastActive": 1768639951047
     },
     "2404:bd00:3:dc97:b65e:cb71:f094:70f7": {
       "type": "movie",
@@ -77446,10 +77559,10 @@
     },
     "205.254.185.192": {
       "type": "movie",
-      "id": "tt32447918",
-      "title": "tt32447918",
+      "id": "tt14142060",
+      "title": "tt14142060",
       "username": "space_forca",
-      "lastActive": 1768638609471
+      "lastActive": 1768639355153
     },
     "2409:40e0:101e:e892:4c67:dbff:fe6a:14d6": {
       "type": "series",
@@ -78093,7 +78206,7 @@
       "id": "null:3:3",
       "title": "null:3:3",
       "username": "anonymous",
-      "lastActive": 1768637838756
+      "lastActive": 1768639235938
     },
     "2409:40c1:10df:ccc:8000::": {
       "type": "movie",
@@ -78472,6 +78585,13 @@
       "title": "Death Note",
       "username": "anonymous",
       "lastActive": 1768638726990
+    },
+    "43.231.236.82": {
+      "type": "series",
+      "id": "tt1399664:2:2",
+      "title": "tt1399664:2:2",
+      "username": "anonymous",
+      "lastActive": 1768640068094
     }
   }
 }
