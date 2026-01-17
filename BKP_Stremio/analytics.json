@@ -1,5 +1,5 @@
 {
-  "totalViews": 8915,
+  "totalViews": 8928,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2101,7 +2101,9 @@
     "2409:40e4:10bf:a33:88b8:84c7:32b0:e256",
     "103.215.54.136",
     "186.188.150.139",
-    "2604:3d09:d7f:1600:8dd3:f950:d7c9:bdbd"
+    "2604:3d09:d7f:1600:8dd3:f950:d7c9:bdbd",
+    "72.255.15.66",
+    "2001:4490:488d:5454:66e4:a5ff:fe15:d00b"
   ],
   "views": [
     {
@@ -73413,6 +73415,110 @@
       "timestamp": "2026-01-17T04:58:10.581Z",
       "ip": "103.215.54.136",
       "username": "abelboby"
+    },
+    {
+      "type": "movie",
+      "id": "tt38080078",
+      "title": "tt38080078",
+      "timestamp": "2026-01-17T05:03:45.528Z",
+      "ip": "72.255.15.66",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-17T05:04:14.078Z",
+      "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "timestamp": "2026-01-17T05:04:33.518Z",
+      "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:20",
+      "title": "tt17069148:1:20",
+      "timestamp": "2026-01-17T05:07:15.120Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:20",
+      "title": "tt17069148:1:20",
+      "timestamp": "2026-01-17T05:07:33.985Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt39227709:1:1",
+      "title": "tt39227709:1:1",
+      "timestamp": "2026-01-17T05:07:41.119Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt24053860:1:7",
+      "title": "tt24053860:1:7",
+      "timestamp": "2026-01-17T05:08:15.034Z",
+      "ip": "122.167.97.49",
+      "username": "zindha"
+    },
+    {
+      "type": "series",
+      "id": "tt24053860:1:8",
+      "title": "tt24053860:1:8",
+      "timestamp": "2026-01-17T05:08:53.076Z",
+      "ip": "122.167.97.49",
+      "username": "zindha"
+    },
+    {
+      "type": "series",
+      "id": "tt39227709:1:4",
+      "title": "tt39227709:1:4",
+      "timestamp": "2026-01-17T05:11:15.645Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt39227709:1:5",
+      "title": "tt39227709:1:5",
+      "timestamp": "2026-01-17T05:11:40.794Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt2356777:1:2",
+      "title": "tt2356777:1:2",
+      "timestamp": "2026-01-17T05:13:16.679Z",
+      "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-17T05:13:44.851Z",
+      "ip": "2001:4490:488d:5454:66e4:a5ff:fe15:d00b",
+      "username": "itsdoom50"
+    },
+    {
+      "type": "series",
+      "id": "tt2356777:1:2",
+      "title": "tt2356777:1:2",
+      "timestamp": "2026-01-17T05:15:18.478Z",
+      "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
+      "username": "nabakun24"
     }
   ],
   "activeNow": {
@@ -73523,10 +73629,10 @@
     },
     "103.214.60.5": {
       "type": "series",
-      "id": "tt17069148:1:19",
-      "title": "tt17069148:1:19",
+      "id": "tt39227709:1:5",
+      "title": "tt39227709:1:5",
       "username": "gaendaswami",
-      "lastActive": 1768624154974
+      "lastActive": 1768626700794
     },
     "182.77.73.122": {
       "type": "series",
@@ -75720,11 +75826,11 @@
       "lastActive": 1768490807218
     },
     "122.167.97.49": {
-      "type": "movie",
-      "id": "tt11253090",
-      "title": "tt11253090",
+      "type": "series",
+      "id": "tt24053860:1:8",
+      "title": "tt24053860:1:8",
       "username": "zindha",
-      "lastActive": 1768581633869
+      "lastActive": 1768626533076
     },
     "2409:40e6:16:d8:70c1:8bff:fe40:9835": {
       "type": "movie",
@@ -77351,11 +77457,11 @@
       "lastActive": 1768613769783
     },
     "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08": {
-      "type": "movie",
-      "id": "tt14142060",
-      "title": "tt14142060",
+      "type": "series",
+      "id": "tt2356777:1:2",
+      "title": "tt2356777:1:2",
       "username": "nabakun24",
-      "lastActive": 1768625326426
+      "lastActive": 1768626918478
     },
     "205.217.227.47": {
       "type": "series",
@@ -77433,6 +77539,20 @@
       "title": "tt22202452:1:5",
       "username": "anonymous",
       "lastActive": 1768624828965
+    },
+    "72.255.15.66": {
+      "type": "movie",
+      "id": "tt38080078",
+      "title": "tt38080078",
+      "username": "anonymous",
+      "lastActive": 1768626225528
+    },
+    "2001:4490:488d:5454:66e4:a5ff:fe15:d00b": {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "username": "itsdoom50",
+      "lastActive": 1768626824851
     }
   }
 }
