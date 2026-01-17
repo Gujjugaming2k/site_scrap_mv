@@ -171,15 +171,5 @@
     "enabled": true,
     "createdAt": "2026-01-16T15:27:13.209Z",
     "updatedAt": "2026-01-16T15:33:06.374Z"
-  },
-  {
-    "id": "1768621363195",
-    "name": "tamil",
-    "movieUrl": "https://gentle-star-9ae7.vflixprime.workers.dev/?id={{id}}&type=movie",
-    "seriesUrl": "https://gentle-star-9ae7.vflixprime.workers.dev/?id={{id}}&type=tv&season={{season}}&episode={{episode}}",
-    "timeout": 10000,
-    "priority": 5,
-    "enabled": true,
-    "createdAt": "2026-01-17T03:42:43.195Z"
   }
 ]
