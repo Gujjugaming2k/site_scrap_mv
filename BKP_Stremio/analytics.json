@@ -1,5 +1,5 @@
 {
-  "totalViews": 9668,
+  "totalViews": 9673,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2239,7 +2239,9 @@
     "2409:40e6:18:765e:d0fc:d8ff:fec3:70b8",
     "93.152.220.248",
     "2401:4900:5c58:fb32::e3b:7d31",
-    "41.96.4.106"
+    "41.96.4.106",
+    "197.184.104.40",
+    "46.116.123.215"
   ],
   "views": [
     {
@@ -79575,6 +79577,46 @@
       "timestamp": "2026-01-17T19:17:11.050Z",
       "ip": "2409:40e1:4011:cf1e:2c08:aeff:feca:60fb",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0119250",
+      "title": "tt0119250",
+      "timestamp": "2026-01-17T19:24:15.515Z",
+      "ip": "197.184.104.40",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt4196776",
+      "title": "Jason Bourne",
+      "timestamp": "2026-01-17T19:24:56.340Z",
+      "ip": "103.4.220.252",
+      "username": "sexhabibi"
+    },
+    {
+      "type": "movie",
+      "id": "tt2191701",
+      "title": "Grown Ups 2",
+      "timestamp": "2026-01-17T19:32:45.728Z",
+      "ip": "2401:4900:aac9:d47e:c9ce:4adf:e586:8ce2",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt2365946:1:3",
+      "title": "tt2365946:1:3",
+      "timestamp": "2026-01-17T19:33:24.777Z",
+      "ip": "46.116.123.215",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2365946:1:3",
+      "title": "tt2365946:1:3",
+      "timestamp": "2026-01-17T19:33:24.833Z",
+      "ip": "46.116.123.215",
+      "username": "aviv"
     }
   ],
   "activeNow": {
@@ -80112,10 +80154,10 @@
     },
     "103.4.220.252": {
       "type": "movie",
-      "id": "tt1194173",
-      "title": "The Bourne Legacy",
+      "id": "tt4196776",
+      "title": "Jason Bourne",
       "username": "sexhabibi",
-      "lastActive": 1768668997049
+      "lastActive": 1768677896340
     },
     "2409:40f3:205d:daf6:9802:343:71af:491": {
       "type": "series",
@@ -80350,10 +80392,10 @@
     },
     "2401:4900:aac9:d47e:c9ce:4adf:e586:8ce2": {
       "type": "movie",
-      "id": "tt1375670",
-      "title": "Grown Ups",
+      "id": "tt2191701",
+      "title": "Grown Ups 2",
       "username": "gendaswammy",
-      "lastActive": 1768674191060
+      "lastActive": 1768678365728
     },
     "2405:201:202d:d014:90ec:45e5:c8d2:5628": {
       "type": "series",
@@ -80487,6 +80529,20 @@
       "title": "tt27494665:1:1",
       "username": "anonymous",
       "lastActive": 1768677287944
+    },
+    "197.184.104.40": {
+      "type": "movie",
+      "id": "tt0119250",
+      "title": "tt0119250",
+      "username": "anonymous",
+      "lastActive": 1768677855515
+    },
+    "46.116.123.215": {
+      "type": "series",
+      "id": "tt2365946:1:3",
+      "title": "tt2365946:1:3",
+      "username": "aviv",
+      "lastActive": 1768678404833
     }
   }
 }
