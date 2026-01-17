@@ -1,5 +1,5 @@
 {
-  "totalViews": 8973,
+  "totalViews": 8975,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2116,7 +2116,9 @@
     "2402:a00:10a:815f:6559:ef09:90c0:e6c4",
     "2401:4900:ac2c:6c20:a5cc:c308:86d5:d5a8",
     "109.77.47.28",
-    "2402:a00:10a:815f:5b30:6482:eb28:bdfa"
+    "2402:a00:10a:815f:5b30:6482:eb28:bdfa",
+    "103.50.150.7",
+    "2001:4490:4e65:97b:9433:8201:feed:682e"
   ],
   "views": [
     {
@@ -73892,6 +73894,22 @@
       "timestamp": "2026-01-17T06:59:30.152Z",
       "ip": "2402:a00:10a:815f:5b30:6482:eb28:bdfa",
       "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt1641395",
+      "title": "tt1641395",
+      "timestamp": "2026-01-17T07:11:50.776Z",
+      "ip": "103.50.150.7",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt28551273",
+      "title": "tt28551273",
+      "timestamp": "2026-01-17T07:17:10.534Z",
+      "ip": "2001:4490:4e65:97b:9433:8201:feed:682e",
+      "username": "adiyogivishwanath"
     }
   ],
   "activeNow": {
@@ -78024,6 +78042,20 @@
       "title": "tt32642706",
       "username": "vflix1993",
       "lastActive": 1768633170152
+    },
+    "103.50.150.7": {
+      "type": "movie",
+      "id": "tt1641395",
+      "title": "tt1641395",
+      "username": "ryuzaklo26",
+      "lastActive": 1768633910776
+    },
+    "2001:4490:4e65:97b:9433:8201:feed:682e": {
+      "type": "movie",
+      "id": "tt28551273",
+      "title": "tt28551273",
+      "username": "adiyogivishwanath",
+      "lastActive": 1768634230534
     }
   }
 }
