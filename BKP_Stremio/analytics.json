@@ -1,5 +1,5 @@
 {
-  "totalViews": 9801,
+  "totalViews": 9803,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -80653,6 +80653,22 @@
       "timestamp": "2026-01-17T22:28:14.257Z",
       "ip": "84.15.183.116",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0809497:1:5",
+      "title": "tt0809497:1:5",
+      "timestamp": "2026-01-17T22:31:34.629Z",
+      "ip": "146.70.246.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "timestamp": "2026-01-17T22:33:08.294Z",
+      "ip": "162.247.55.241",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -81638,10 +81654,10 @@
     },
     "146.70.246.108": {
       "type": "series",
-      "id": "tt0809497:1:4",
-      "title": "tt0809497:1:4",
+      "id": "tt0809497:1:5",
+      "title": "tt0809497:1:5",
       "username": "anonymous",
-      "lastActive": 1768687107184
+      "lastActive": 1768689094629
     },
     "80.114.161.107": {
       "type": "movie",
@@ -81670,6 +81686,13 @@
       "title": "Dhurandhar",
       "username": "anonymous_rare",
       "lastActive": 1768688500922
+    },
+    "162.247.55.241": {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "username": "anonymous",
+      "lastActive": 1768689188294
     }
   }
 }
