@@ -1,5 +1,5 @@
 {
-  "totalViews": 9074,
+  "totalViews": 9078,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2136,7 +2136,9 @@
     "223.233.75.7",
     "2407:5400:201:7001:f056:2616:dd45:619a",
     "31.171.154.186",
-    "47.15.114.209"
+    "47.15.114.209",
+    "2401:4900:ac2c:6c20:938:52e9:2e26:9956",
+    "31.171.154.188"
   ],
   "views": [
     {
@@ -74720,6 +74722,38 @@
       "timestamp": "2026-01-17T09:23:59.361Z",
       "ip": "47.15.114.209",
       "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
+      "timestamp": "2026-01-17T09:27:18.648Z",
+      "ip": "110.235.219.255",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:2:1",
+      "title": "tt31938062:2:1",
+      "timestamp": "2026-01-17T09:28:29.977Z",
+      "ip": "2401:4900:ac2c:6c20:938:52e9:2e26:9956",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:1",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-17T09:34:24.160Z",
+      "ip": "31.171.154.188",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt6340502:1:2",
+      "title": "tt6340502:1:2",
+      "timestamp": "2026-01-17T09:39:15.191Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
     }
   ],
   "activeNow": {
@@ -77826,10 +77860,10 @@
     },
     "110.235.219.255": {
       "type": "series",
-      "id": "tt35335046:1:6",
-      "title": "tt35335046:1:6",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
       "username": "anonymous",
-      "lastActive": 1768639951047
+      "lastActive": 1768642038648
     },
     "2404:bd00:3:dc97:b65e:cb71:f094:70f7": {
       "type": "movie",
@@ -78028,11 +78062,11 @@
       "lastActive": 1768567715662
     },
     "103.175.168.106": {
-      "type": "movie",
-      "id": "tt30472557",
-      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "type": "series",
+      "id": "tt6340502:1:2",
+      "title": "tt6340502:1:2",
       "username": "un0fficial_itachi",
-      "lastActive": 1768568184748
+      "lastActive": 1768642755191
     },
     "160.238.73.7": {
       "type": "series",
@@ -78992,6 +79026,20 @@
       "title": "Bugonia",
       "username": "demon18319",
       "lastActive": 1768641839361
+    },
+    "2401:4900:ac2c:6c20:938:52e9:2e26:9956": {
+      "type": "series",
+      "id": "tt31938062:2:1",
+      "title": "tt31938062:2:1",
+      "username": "gendaswammy",
+      "lastActive": 1768642109977
+    },
+    "31.171.154.188": {
+      "type": "series",
+      "id": "tt12343534:3:1",
+      "title": "JUJUTSU KAISEN",
+      "username": "theonlyfreak",
+      "lastActive": 1768642464160
     }
   }
 }
