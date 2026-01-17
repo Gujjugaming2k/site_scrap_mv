@@ -1,5 +1,5 @@
 {
-  "totalViews": 8954,
+  "totalViews": 8959,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2111,7 +2111,8 @@
     "2401:4900:8fdf:96e3:9103:169:f831:58cc",
     "202.142.105.241",
     "2409:4041:6e18:f210:83ea:582c:ba32:9010",
-    "103.168.30.70"
+    "103.168.30.70",
+    "2409:40e4:100a:9dc9:d2cc:60ff:16eb:6b43"
   ],
   "views": [
     {
@@ -73735,6 +73736,46 @@
       "timestamp": "2026-01-17T05:56:57.014Z",
       "ip": "103.215.54.136",
       "username": "abelboby"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:4",
+      "title": "tt31812476:2:4",
+      "timestamp": "2026-01-17T06:05:54.304Z",
+      "ip": "2409:40e4:100a:9dc9:d2cc:60ff:16eb:6b43",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:5",
+      "title": "tt31812476:2:5",
+      "timestamp": "2026-01-17T06:05:59.673Z",
+      "ip": "2409:40e4:100a:9dc9:d2cc:60ff:16eb:6b43",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:4",
+      "title": "tt31812476:2:4",
+      "timestamp": "2026-01-17T06:12:55.633Z",
+      "ip": "2409:40e4:100a:9dc9:d2cc:60ff:16eb:6b43",
+      "username": "golu_8340"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:5",
+      "title": "tt31812476:2:5",
+      "timestamp": "2026-01-17T06:13:43.217Z",
+      "ip": "2409:40e4:100a:9dc9:d2cc:60ff:16eb:6b43",
+      "username": "golu_8340"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:3",
+      "title": "Fallout",
+      "timestamp": "2026-01-17T06:15:06.737Z",
+      "ip": "154.18.196.101",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -77825,6 +77866,20 @@
       "title": "tt16085542:1:2",
       "username": "dillon_ka_shooter",
       "lastActive": 1768629413661
+    },
+    "2409:40e4:100a:9dc9:d2cc:60ff:16eb:6b43": {
+      "type": "series",
+      "id": "tt31812476:2:5",
+      "title": "tt31812476:2:5",
+      "username": "golu_8340",
+      "lastActive": 1768630423217
+    },
+    "154.18.196.101": {
+      "type": "series",
+      "id": "tt12637874:2:3",
+      "title": "Fallout",
+      "username": "anonymous",
+      "lastActive": 1768630506737
     }
   }
 }
