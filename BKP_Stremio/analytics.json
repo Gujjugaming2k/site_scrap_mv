@@ -1,5 +1,5 @@
 {
-  "totalViews": 8933,
+  "totalViews": 8945,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2106,7 +2106,9 @@
     "2001:4490:488d:5454:66e4:a5ff:fe15:d00b",
     "2401:4900:8fe2:4c46:8847:477f:a4b8:6df4",
     "154.18.196.99",
-    "2409:40e4:10b1:413e:39e5:35ff:968e:ba70"
+    "2409:40e4:10b1:413e:39e5:35ff:968e:ba70",
+    "103.161.98.176,51.89.197.91",
+    "2401:4900:8fdf:96e3:9103:169:f831:58cc"
   ],
   "views": [
     {
@@ -73562,6 +73564,102 @@
       "timestamp": "2026-01-17T05:28:40.204Z",
       "ip": "2409:40e4:10b1:413e:39e5:35ff:968e:ba70",
       "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt5440700",
+      "title": "tt5440700",
+      "timestamp": "2026-01-17T05:36:21.338Z",
+      "ip": "122.167.97.49",
+      "username": "zindha"
+    },
+    {
+      "type": "movie",
+      "id": "tt32360696",
+      "title": "French Lover",
+      "timestamp": "2026-01-17T05:37:35.108Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt33039440",
+      "title": "The Wrong Paris",
+      "timestamp": "2026-01-17T05:38:32.975Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt39227709:1:3",
+      "title": "tt39227709:1:3",
+      "timestamp": "2026-01-17T05:39:31.511Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt39227709:1:4",
+      "title": "tt39227709:1:4",
+      "timestamp": "2026-01-17T05:39:56.387Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt32767869",
+      "title": "tt32767869",
+      "timestamp": "2026-01-17T05:41:36.591Z",
+      "ip": "103.161.98.176,51.89.197.91",
+      "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt10233448:1:2",
+      "title": "Vinland Saga",
+      "timestamp": "2026-01-17T05:46:42.770Z",
+      "ip": "2401:4900:8fdf:96e3:9103:169:f831:58cc",
+      "username": "arjun2077"
+    },
+    {
+      "type": "series",
+      "id": "tt10233448:1:2",
+      "title": "Vinland Saga",
+      "timestamp": "2026-01-17T05:46:58.637Z",
+      "ip": "2401:4900:8fdf:96e3:9103:169:f831:58cc",
+      "username": "arjun2077"
+    },
+    {
+      "type": "movie",
+      "id": "tt32245870",
+      "title": "tt32245870",
+      "timestamp": "2026-01-17T05:47:01.426Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt10233448:1:2",
+      "title": "Vinland Saga",
+      "timestamp": "2026-01-17T05:47:02.306Z",
+      "ip": "2401:4900:8fdf:96e3:9103:169:f831:58cc",
+      "username": "arjun2077"
+    },
+    {
+      "type": "series",
+      "id": "tt10233448:1:3",
+      "title": "Vinland Saga",
+      "timestamp": "2026-01-17T05:47:12.834Z",
+      "ip": "2401:4900:8fdf:96e3:9103:169:f831:58cc",
+      "username": "arjun2077"
+    },
+    {
+      "type": "series",
+      "id": "tt10233448:1:3",
+      "title": "Vinland Saga",
+      "timestamp": "2026-01-17T05:47:27.735Z",
+      "ip": "2401:4900:8fdf:96e3:9103:169:f831:58cc",
+      "username": "arjun2077"
     }
   ],
   "activeNow": {
@@ -73671,11 +73769,11 @@
       "lastActive": 1768331739592
     },
     "103.214.60.5": {
-      "type": "series",
-      "id": "tt39227709:1:5",
-      "title": "tt39227709:1:5",
+      "type": "movie",
+      "id": "tt32245870",
+      "title": "tt32245870",
       "username": "gaendaswami",
-      "lastActive": 1768626700794
+      "lastActive": 1768628821426
     },
     "182.77.73.122": {
       "type": "series",
@@ -74098,11 +74196,11 @@
       "lastActive": 1768438744368
     },
     "203.192.255.46": {
-      "type": "series",
-      "id": "tt14186672:1:7",
-      "title": "tt14186672:1:7",
+      "type": "movie",
+      "id": "tt33039440",
+      "title": "The Wrong Paris",
       "username": "chetan_b2",
-      "lastActive": 1768620707201
+      "lastActive": 1768628312975
     },
     "163.223.52.102": {
       "type": "movie",
@@ -75869,11 +75967,11 @@
       "lastActive": 1768490807218
     },
     "122.167.97.49": {
-      "type": "series",
-      "id": "tt24053860:1:9",
-      "title": "tt24053860:1:9",
+      "type": "movie",
+      "id": "tt5440700",
+      "title": "tt5440700",
       "username": "zindha",
-      "lastActive": 1768627094968
+      "lastActive": 1768628181338
     },
     "2409:40e6:16:d8:70c1:8bff:fe40:9835": {
       "type": "movie",
@@ -77617,6 +77715,20 @@
       "title": "Ratatouille",
       "username": "askchm",
       "lastActive": 1768627720204
+    },
+    "103.161.98.176,51.89.197.91": {
+      "type": "movie",
+      "id": "tt32767869",
+      "title": "tt32767869",
+      "username": "switchoff009",
+      "lastActive": 1768628496591
+    },
+    "2401:4900:8fdf:96e3:9103:169:f831:58cc": {
+      "type": "series",
+      "id": "tt10233448:1:3",
+      "title": "Vinland Saga",
+      "username": "arjun2077",
+      "lastActive": 1768628847735
     }
   }
 }
