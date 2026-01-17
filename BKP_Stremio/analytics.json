@@ -1,5 +1,5 @@
 {
-  "totalViews": 9795,
+  "totalViews": 9801,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2252,7 +2252,8 @@
     "190.2.154.222",
     "146.70.246.108",
     "80.114.161.107",
-    "84.15.183.116"
+    "84.15.183.116",
+    "2401:4900:8820:8915:97cd:364f:6d84:cedb"
   ],
   "views": [
     {
@@ -80604,6 +80605,54 @@
       "timestamp": "2026-01-17T22:07:09.641Z",
       "ip": "84.15.183.116",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt5574490:6:2",
+      "title": "tt5574490:6:2",
+      "timestamp": "2026-01-17T22:17:42.031Z",
+      "ip": "154.208.49.96",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt5574490:6:3",
+      "title": "tt5574490:6:3",
+      "timestamp": "2026-01-17T22:18:02.917Z",
+      "ip": "154.208.49.96",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt23172090",
+      "title": "tt23172090",
+      "timestamp": "2026-01-17T22:18:38.332Z",
+      "ip": "154.208.49.96",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt5574490:6:2",
+      "title": "tt5574490:6:2",
+      "timestamp": "2026-01-17T22:21:34.208Z",
+      "ip": "154.208.49.96",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-17T22:21:40.922Z",
+      "ip": "2401:4900:8820:8915:97cd:364f:6d84:cedb",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt0421357:1:6",
+      "title": "tt0421357:1:6",
+      "timestamp": "2026-01-17T22:28:14.257Z",
+      "ip": "84.15.183.116",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -81603,10 +81652,24 @@
     },
     "84.15.183.116": {
       "type": "series",
-      "id": "tt0421357:1:5",
-      "title": "tt0421357:1:5",
+      "id": "tt0421357:1:6",
+      "title": "tt0421357:1:6",
       "username": "anonymous",
-      "lastActive": 1768687629641
+      "lastActive": 1768688894257
+    },
+    "154.208.49.96": {
+      "type": "series",
+      "id": "tt5574490:6:2",
+      "title": "tt5574490:6:2",
+      "username": "anonymous",
+      "lastActive": 1768688494208
+    },
+    "2401:4900:8820:8915:97cd:364f:6d84:cedb": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "anonymous_rare",
+      "lastActive": 1768688500922
     }
   }
 }
