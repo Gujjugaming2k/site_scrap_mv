@@ -1,5 +1,5 @@
 {
-  "totalViews": 9012,
+  "totalViews": 9016,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2128,7 +2128,8 @@
     "2401:4900:8ff3:325f:f1d8:95fc:32ee:7e1e",
     "2409:40d4:35:b5b9:8bf:83ff:fecd:d7e5",
     "2409:40c1:10bb:c12c:989f:7e7:4b93:ad3f",
-    "152.59.49.241"
+    "152.59.49.241",
+    "2409:40d4:40db:ad3e:209e:62f3:7bcd:5ece"
   ],
   "views": [
     {
@@ -74216,6 +74217,38 @@
       "timestamp": "2026-01-17T08:17:18.756Z",
       "ip": "49.36.117.21",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt25404536:1:1",
+      "title": "tt25404536:1:1",
+      "timestamp": "2026-01-17T08:28:12.386Z",
+      "ip": "2401:4900:8ff3:325f:f1d8:95fc:32ee:7e1e",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt32447918",
+      "title": "tt32447918",
+      "timestamp": "2026-01-17T08:30:09.471Z",
+      "ip": "205.254.185.192",
+      "username": "space_forca"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:15",
+      "title": "Death Note",
+      "timestamp": "2026-01-17T08:32:06.990Z",
+      "ip": "2409:40d4:40db:ad3e:209e:62f3:7bcd:5ece",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt14107334",
+      "title": "tt14107334",
+      "timestamp": "2026-01-17T08:38:31.934Z",
+      "ip": "202.179.159.154",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -76006,10 +76039,10 @@
     },
     "202.179.159.154": {
       "type": "movie",
-      "id": "tt0211934",
-      "title": "tt0211934",
+      "id": "tt14107334",
+      "title": "tt14107334",
       "username": "anonymous",
-      "lastActive": 1768458827396
+      "lastActive": 1768639111934
     },
     "2405:201:6820:a83c:50dc:306e:e8b1:7245": {
       "type": "movie",
@@ -77413,10 +77446,10 @@
     },
     "205.254.185.192": {
       "type": "movie",
-      "id": "tt22247450",
-      "title": "tt22247450",
+      "id": "tt32447918",
+      "title": "tt32447918",
       "username": "space_forca",
-      "lastActive": 1768637481108
+      "lastActive": 1768638609471
     },
     "2409:40e0:101e:e892:4c67:dbff:fe6a:14d6": {
       "type": "series",
@@ -78410,7 +78443,7 @@
       "id": "tt25404536:1:1",
       "title": "tt25404536:1:1",
       "username": "anonymous",
-      "lastActive": 1768637010277
+      "lastActive": 1768638492386
     },
     "2409:40d4:35:b5b9:8bf:83ff:fecd:d7e5": {
       "type": "movie",
@@ -78432,6 +78465,13 @@
       "title": "tt1467304",
       "username": "anonymous",
       "lastActive": 1768637204442
+    },
+    "2409:40d4:40db:ad3e:209e:62f3:7bcd:5ece": {
+      "type": "series",
+      "id": "tt0877057:1:15",
+      "title": "Death Note",
+      "username": "anonymous",
+      "lastActive": 1768638726990
     }
   }
 }
