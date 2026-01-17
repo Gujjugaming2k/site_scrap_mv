@@ -1,5 +1,5 @@
 {
-  "totalViews": 9093,
+  "totalViews": 9107,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2140,7 +2140,8 @@
     "2401:4900:ac2c:6c20:938:52e9:2e26:9956",
     "31.171.154.188",
     "2401:4900:1c0a:1745:51d9:72d8:47d8:1ef0",
-    "2405:201:900f:a92b:8803:f586:2062:e59e"
+    "2405:201:900f:a92b:8803:f586:2062:e59e",
+    "117.203.156.181"
   ],
   "views": [
     {
@@ -74876,6 +74877,118 @@
       "timestamp": "2026-01-17T09:55:27.636Z",
       "ip": "103.214.60.5",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:20",
+      "title": "tt17069148:1:20",
+      "timestamp": "2026-01-17T09:55:44.825Z",
+      "ip": "103.214.60.5",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt32537124:1:3",
+      "title": "tt32537124:1:3",
+      "timestamp": "2026-01-17T09:56:49.741Z",
+      "ip": "2401:4900:1c0a:1745:51d9:72d8:47d8:1ef0",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt32537124:1:4",
+      "title": "tt32537124:1:4",
+      "timestamp": "2026-01-17T09:56:54.988Z",
+      "ip": "2401:4900:1c0a:1745:51d9:72d8:47d8:1ef0",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt32537124:1:5",
+      "title": "tt32537124:1:5",
+      "timestamp": "2026-01-17T09:57:01.318Z",
+      "ip": "2401:4900:1c0a:1745:51d9:72d8:47d8:1ef0",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt33028778",
+      "title": "tt33028778",
+      "timestamp": "2026-01-17T09:58:41.932Z",
+      "ip": "47.15.114.209",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:1:1",
+      "title": "tt31938062:1:1",
+      "timestamp": "2026-01-17T09:58:59.053Z",
+      "ip": "47.15.114.209",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt32537124:1:4",
+      "title": "tt32537124:1:4",
+      "timestamp": "2026-01-17T09:59:05.285Z",
+      "ip": "2401:4900:1c0a:1745:51d9:72d8:47d8:1ef0",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:1:1",
+      "title": "tt31938062:1:1",
+      "timestamp": "2026-01-17T09:59:08.187Z",
+      "ip": "47.15.114.209",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt32537124:1:3",
+      "title": "tt32537124:1:3",
+      "timestamp": "2026-01-17T10:00:32.399Z",
+      "ip": "2401:4900:1c0a:1745:51d9:72d8:47d8:1ef0",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt32537124:1:25",
+      "title": "tt32537124:1:25",
+      "timestamp": "2026-01-17T10:00:36.755Z",
+      "ip": "2401:4900:1c0a:1745:51d9:72d8:47d8:1ef0",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt9307686:3:2",
+      "title": "tt9307686:3:2",
+      "timestamp": "2026-01-17T10:03:57.292Z",
+      "ip": "47.15.114.209",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-17T10:04:06.797Z",
+      "ip": "2.50.199.25",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:2",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-17T10:07:09.976Z",
+      "ip": "2405:201:900f:a92b:8803:f586:2062:e59e",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt1630029",
+      "title": "Avatar: The Way of Water",
+      "timestamp": "2026-01-17T10:10:55.439Z",
+      "ip": "117.203.156.181",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -74986,10 +75099,10 @@
     },
     "103.214.60.5": {
       "type": "series",
-      "id": "tt17069148:1:19",
-      "title": "tt17069148:1:19",
+      "id": "tt17069148:1:20",
+      "title": "tt17069148:1:20",
       "username": "gaendaswami",
-      "lastActive": 1768643727636
+      "lastActive": 1768643744825
     },
     "182.77.73.122": {
       "type": "series",
@@ -76273,11 +76386,11 @@
       "lastActive": 1768407583446
     },
     "2.50.199.25": {
-      "type": "series",
-      "id": "tt38689878:1:1",
-      "title": "tt38689878:1:1",
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
       "username": "anonymous",
-      "lastActive": 1768487593814
+      "lastActive": 1768644246797
     },
     "2a09:bac5:3b58:254b::3b7:15,38.147.106.38": {
       "type": "series",
@@ -79144,10 +79257,10 @@
     },
     "47.15.114.209": {
       "type": "series",
-      "id": "tt22248376:2:1",
-      "title": "tt22248376:2:1",
+      "id": "tt9307686:3:2",
+      "title": "tt9307686:3:2",
       "username": "demon18319",
-      "lastActive": 1768643208251
+      "lastActive": 1768644237292
     },
     "2401:4900:ac2c:6c20:938:52e9:2e26:9956": {
       "type": "series",
@@ -79165,17 +79278,24 @@
     },
     "2401:4900:1c0a:1745:51d9:72d8:47d8:1ef0": {
       "type": "series",
-      "id": "tt32537124:1:3",
-      "title": "tt32537124:1:3",
+      "id": "tt32537124:1:25",
+      "title": "tt32537124:1:25",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768643623102
+      "lastActive": 1768644036755
     },
     "2405:201:900f:a92b:8803:f586:2062:e59e": {
       "type": "series",
       "id": "tt12343534:3:2",
       "title": "JUJUTSU KAISEN",
       "username": "theonlyfreak",
-      "lastActive": 1768643710759
+      "lastActive": 1768644429976
+    },
+    "117.203.156.181": {
+      "type": "movie",
+      "id": "tt1630029",
+      "title": "Avatar: The Way of Water",
+      "username": "anonymous",
+      "lastActive": 1768644655439
     }
   }
 }
