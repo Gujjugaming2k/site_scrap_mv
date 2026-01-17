@@ -1,5 +1,5 @@
 {
-  "totalViews": 9595,
+  "totalViews": 9599,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2219,7 +2219,9 @@
     "38.199.5.35",
     "2401:4900:1d07:aa48:347f:51ff:feb6:2971",
     "103.181.65.117",
-    "2401:4900:5f25:d0b6:6ca:9d8c:6152:348c"
+    "2401:4900:5f25:d0b6:6ca:9d8c:6152:348c",
+    "111.92.74.105",
+    "2401:4900:aac9:d47e:c9ce:4adf:e586:8ce2"
   ],
   "views": [
     {
@@ -78971,6 +78973,38 @@
       "timestamp": "2026-01-17T17:28:45.973Z",
       "ip": "2401:4900:889b:e55c:5065:ab85:1f8c:8b29",
       "username": "user_9b"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-17T17:29:17.262Z",
+      "ip": "111.92.74.105",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "movie",
+      "id": "tt0120382",
+      "title": "The Truman Show",
+      "timestamp": "2026-01-17T17:32:02.099Z",
+      "ip": "2401:4900:aac9:d47e:c9ce:4adf:e586:8ce2",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt0120382",
+      "title": "The Truman Show",
+      "timestamp": "2026-01-17T17:34:25.759Z",
+      "ip": "2401:4900:aac9:d47e:c9ce:4adf:e586:8ce2",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt6897680:1:4",
+      "title": "tt6897680:1:4",
+      "timestamp": "2026-01-17T17:39:30.301Z",
+      "ip": "103.168.30.70",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -79102,10 +79136,10 @@
     },
     "103.168.30.70": {
       "type": "series",
-      "id": "tt6897680:1:3",
-      "title": "tt6897680:1:3",
+      "id": "tt6897680:1:4",
+      "title": "tt6897680:1:4",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768650699876
+      "lastActive": 1768671570301
     },
     "202.173.124.39": {
       "type": "series",
@@ -79736,6 +79770,20 @@
       "title": "Game of Thrones",
       "username": "abhi231511",
       "lastActive": 1768670875667
+    },
+    "111.92.74.105": {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "username": "un0fficial_itachi",
+      "lastActive": 1768670957262
+    },
+    "2401:4900:aac9:d47e:c9ce:4adf:e586:8ce2": {
+      "type": "movie",
+      "id": "tt0120382",
+      "title": "The Truman Show",
+      "username": "gendaswammy",
+      "lastActive": 1768671265759
     }
   }
 }
