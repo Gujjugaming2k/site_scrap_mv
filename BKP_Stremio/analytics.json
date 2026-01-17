@@ -1,5 +1,5 @@
 {
-  "totalViews": 8982,
+  "totalViews": 8989,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2121,7 +2121,10 @@
     "2001:4490:4e65:97b:9433:8201:feed:682e",
     "152.59.149.84",
     "2409:40d4:40c5:3e4b:d4a8:b71b:882b:e72d",
-    "2401:4900:1c5e:948c:cdcf:c:15c0:a703"
+    "2401:4900:1c5e:948c:cdcf:c:15c0:a703",
+    "165.231.183.15",
+    "85.154.16.157",
+    "125.166.9.191"
   ],
   "views": [
     {
@@ -73969,6 +73972,62 @@
       "timestamp": "2026-01-17T07:36:27.908Z",
       "ip": "2401:4900:1c5e:948c:cdcf:c:15c0:a703",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1266020:2:15",
+      "title": "tt1266020:2:15",
+      "timestamp": "2026-01-17T07:39:58.339Z",
+      "ip": "165.231.183.15",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0095417",
+      "title": "tt0095417",
+      "timestamp": "2026-01-17T07:47:00.808Z",
+      "ip": "85.154.16.157",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4236770:3:7",
+      "title": "tt4236770:3:7",
+      "timestamp": "2026-01-17T07:50:21.771Z",
+      "ip": "2401:4900:1c5e:948c:cdcf:c:15c0:a703",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0988824:1:1",
+      "title": "tt0988824:1:1",
+      "timestamp": "2026-01-17T07:51:12.284Z",
+      "ip": "72.255.11.154",
+      "username": "hvre2"
+    },
+    {
+      "type": "movie",
+      "id": "tt31844586",
+      "title": "tt31844586",
+      "timestamp": "2026-01-17T07:51:49.085Z",
+      "ip": "125.166.9.191",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0988824:17:1",
+      "title": "tt0988824:17:1",
+      "timestamp": "2026-01-17T07:51:56.265Z",
+      "ip": "72.255.11.154",
+      "username": "hvre2"
+    },
+    {
+      "type": "series",
+      "id": "tt0988824:1:1",
+      "title": "tt0988824:1:1",
+      "timestamp": "2026-01-17T07:52:20.803Z",
+      "ip": "72.255.11.154",
+      "username": "hvre2"
     }
   ],
   "activeNow": {
@@ -74176,11 +74235,11 @@
       "lastActive": 1768414562072
     },
     "72.255.11.154": {
-      "type": "movie",
-      "id": "tt12908150",
-      "title": "The Life of Chuck",
+      "type": "series",
+      "id": "tt0988824:1:1",
+      "title": "tt0988824:1:1",
       "username": "hvre2",
-      "lastActive": 1768597902130
+      "lastActive": 1768636340803
     },
     "154.208.49.98": {
       "type": "series",
@@ -78132,10 +78191,31 @@
     },
     "2401:4900:1c5e:948c:cdcf:c:15c0:a703": {
       "type": "series",
-      "id": "tt4236770:3:6",
-      "title": "tt4236770:3:6",
+      "id": "tt4236770:3:7",
+      "title": "tt4236770:3:7",
       "username": "anonymous",
-      "lastActive": 1768635387908
+      "lastActive": 1768636221771
+    },
+    "165.231.183.15": {
+      "type": "series",
+      "id": "tt1266020:2:15",
+      "title": "tt1266020:2:15",
+      "username": "anonymous",
+      "lastActive": 1768635598339
+    },
+    "85.154.16.157": {
+      "type": "movie",
+      "id": "tt0095417",
+      "title": "tt0095417",
+      "username": "anonymous",
+      "lastActive": 1768636020808
+    },
+    "125.166.9.191": {
+      "type": "movie",
+      "id": "tt31844586",
+      "title": "tt31844586",
+      "username": "anonymous",
+      "lastActive": 1768636309085
     }
   }
 }
