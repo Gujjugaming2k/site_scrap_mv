@@ -1,5 +1,5 @@
 {
-  "totalViews": 9512,
+  "totalViews": 9527,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2202,7 +2202,11 @@
     "2409:40f3:2012:ec86:e893:1dd1:26eb:4d46",
     "119.73.114.153",
     "2401:4900:b9fc:d76d::2b49:b07a",
-    "2409:40c2:10d:9188:b891:3fff:febf:c1eb"
+    "2409:40c2:10d:9188:b891:3fff:febf:c1eb",
+    "2a09:bac5:3af3:1a46::29e:39,51.89.197.91",
+    "2401:4900:595f:1a8e:7911:dbba:fb26:4e21",
+    "223.185.52.219",
+    "2409:40e0:102e:661a:f52c:b53:da71:f37b"
   ],
   "views": [
     {
@@ -78290,6 +78294,126 @@
       "timestamp": "2026-01-17T15:54:33.753Z",
       "ip": "2401:4900:b9fc:d76d::2b49:b07a",
       "username": "abhi231511"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:20",
+      "title": "Death Note",
+      "timestamp": "2026-01-17T15:59:43.873Z",
+      "ip": "2409:40d4:40db:ad3e:f148:1265:1b72:1e6d",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1375666",
+      "title": "Inception",
+      "timestamp": "2026-01-17T16:00:06.973Z",
+      "ip": "2a09:bac5:3af3:1a46::29e:39,51.89.197.91",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt0816692",
+      "title": "Interstellar",
+      "timestamp": "2026-01-17T16:00:09.340Z",
+      "ip": "2a09:bac5:3af3:1a46::29e:39,51.89.197.91",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt3659388",
+      "title": "tt3659388",
+      "timestamp": "2026-01-17T16:00:15.888Z",
+      "ip": "2a09:bac5:3af3:1a46::29e:39,51.89.197.91",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt3659388",
+      "title": "tt3659388",
+      "timestamp": "2026-01-17T16:00:31.634Z",
+      "ip": "2a09:bac5:3af3:1a46::29e:39,51.89.197.91",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt27302088",
+      "title": "tt27302088",
+      "timestamp": "2026-01-17T16:08:00.939Z",
+      "ip": "2401:4900:595f:1a8e:7911:dbba:fb26:4e21",
+      "username": "reaper54x"
+    },
+    {
+      "type": "movie",
+      "id": "tt27302088",
+      "title": "tt27302088",
+      "timestamp": "2026-01-17T16:08:16.210Z",
+      "ip": "223.185.52.219",
+      "username": "reaper54x"
+    },
+    {
+      "type": "movie",
+      "id": "tt27302088",
+      "title": "tt27302088",
+      "timestamp": "2026-01-17T16:08:16.640Z",
+      "ip": "223.185.52.219",
+      "username": "reaper54x"
+    },
+    {
+      "type": "movie",
+      "id": "tt27302088",
+      "title": "tt27302088",
+      "timestamp": "2026-01-17T16:08:28.498Z",
+      "ip": "2401:4900:595f:1a8e:7911:dbba:fb26:4e21",
+      "username": "reaper54x"
+    },
+    {
+      "type": "movie",
+      "id": "tt27302088",
+      "title": "tt27302088",
+      "timestamp": "2026-01-17T16:08:28.551Z",
+      "ip": "2401:4900:595f:1a8e:7911:dbba:fb26:4e21",
+      "username": "reaper54x"
+    },
+    {
+      "type": "movie",
+      "id": "tt27302088",
+      "title": "tt27302088",
+      "timestamp": "2026-01-17T16:08:31.445Z",
+      "ip": "223.185.52.219",
+      "username": "reaper54x"
+    },
+    {
+      "type": "movie",
+      "id": "tt27302088",
+      "title": "tt27302088",
+      "timestamp": "2026-01-17T16:08:39.985Z",
+      "ip": "223.185.52.219",
+      "username": "reaper54x"
+    },
+    {
+      "type": "movie",
+      "id": "tt27302088",
+      "title": "tt27302088",
+      "timestamp": "2026-01-17T16:09:08.064Z",
+      "ip": "223.185.52.219",
+      "username": "reaper54x"
+    },
+    {
+      "type": "movie",
+      "id": "tt34956443",
+      "title": "Ne Zha 2",
+      "timestamp": "2026-01-17T16:10:20.165Z",
+      "ip": "2409:40e0:102e:661a:f52c:b53:da71:f37b",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-17T16:12:07.827Z",
+      "ip": "2409:40e0:102e:661a:f52c:b53:da71:f37b",
+      "username": "nobody_ismy_name"
     }
   ],
   "activeNow": {
@@ -78869,10 +78993,10 @@
     },
     "2409:40d4:40db:ad3e:f148:1265:1b72:1e6d": {
       "type": "series",
-      "id": "tt0877057:1:19",
+      "id": "tt0877057:1:20",
       "title": "Death Note",
       "username": "anonymous",
-      "lastActive": 1768664243224
+      "lastActive": 1768665583873
     },
     "194.88.96.145": {
       "type": "movie",
@@ -78922,6 +79046,34 @@
       "title": "Stranger Things",
       "username": "agentmj47",
       "lastActive": 1768665219498
+    },
+    "2a09:bac5:3af3:1a46::29e:39,51.89.197.91": {
+      "type": "movie",
+      "id": "tt3659388",
+      "title": "tt3659388",
+      "username": "switchoff009",
+      "lastActive": 1768665631634
+    },
+    "2401:4900:595f:1a8e:7911:dbba:fb26:4e21": {
+      "type": "movie",
+      "id": "tt27302088",
+      "title": "tt27302088",
+      "username": "reaper54x",
+      "lastActive": 1768666108551
+    },
+    "223.185.52.219": {
+      "type": "movie",
+      "id": "tt27302088",
+      "title": "tt27302088",
+      "username": "reaper54x",
+      "lastActive": 1768666148064
+    },
+    "2409:40e0:102e:661a:f52c:b53:da71:f37b": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "nobody_ismy_name",
+      "lastActive": 1768666327827
     }
   }
 }
