@@ -1,5 +1,5 @@
 {
-  "totalViews": 10576,
+  "totalViews": 10581,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2337,49 +2337,11 @@
     "2800:320:c0b2:cf00:fcd5:e3bb:e6b:7472",
     "2401:4900:aca0:3b3e:48e7:6eff:fe56:ea7",
     "2401:4900:8820:8915:93d:bf21:58cc:ff54",
-    "103.165.20.181"
+    "103.165.20.181",
+    "2405:201:6820:a06d:bdef:55c1:5b2d:3408",
+    "2401:4900:88c5:1dfb:d404:7696:aba3:790"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4644488:1:6",
-      "title": "tt4644488:1:6",
-      "timestamp": "2026-01-11T05:11:40.943Z",
-      "ip": "2405:201:500c:496b:76ef:5562:7312:126",
-      "username": "shadowbhaiii"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:1:1",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-11T05:11:41.283Z",
-      "ip": "136.158.11.228",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt4712810",
-      "title": "tt4712810",
-      "timestamp": "2026-01-11T05:11:42.553Z",
-      "ip": "2001:56a:719f:4d00:553:d47:87c4:de20",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt33035373:1:3",
-      "title": "tt33035373:1:3",
-      "timestamp": "2026-01-11T05:11:56.295Z",
-      "ip": "136.158.60.174",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt24950660",
-      "title": "tt24950660",
-      "timestamp": "2026-01-11T05:12:02.034Z",
-      "ip": "2402:a00:10a:815f:10ec:9314:827f:6dad",
-      "username": "vflix1993"
-    },
     {
       "type": "series",
       "id": "tt0423731:1:18",
@@ -82339,15 +82301,55 @@
       "timestamp": "2026-01-18T13:40:41.876Z",
       "ip": "103.165.20.181",
       "username": "anupambabu_97"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-18T13:53:23.434Z",
+      "ip": "2401:4900:8820:8915:93d:bf21:58cc:ff54",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-18T13:53:57.031Z",
+      "ip": "2401:4900:8820:8915:93d:bf21:58cc:ff54",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-01-18T13:56:18.913Z",
+      "ip": "2405:201:6820:a06d:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-18T14:00:34.733Z",
+      "ip": "2401:4900:88c5:1dfb:d404:7696:aba3:790",
+      "username": "baljeet_002"
+    },
+    {
+      "type": "series",
+      "id": "tt1475582:1:3",
+      "title": "tt1475582:1:3",
+      "timestamp": "2026-01-18T14:01:41.623Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
     }
   ],
   "activeNow": {
     "103.175.168.106": {
       "type": "series",
-      "id": "tt1475582:1:2",
-      "title": "tt1475582:1:2",
+      "id": "tt1475582:1:3",
+      "title": "tt1475582:1:3",
       "username": "un0fficial_itachi",
-      "lastActive": 1768739531458
+      "lastActive": 1768744901623
     },
     "115.98.234.187": {
       "type": "movie",
@@ -84017,10 +84019,10 @@
     },
     "2401:4900:8820:8915:93d:bf21:58cc:ff54": {
       "type": "series",
-      "id": "tt0877057:1:2",
-      "title": "Death Note",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
       "username": "anonymous_rare",
-      "lastActive": 1768743372033
+      "lastActive": 1768744437031
     },
     "103.165.20.181": {
       "type": "movie",
@@ -84028,6 +84030,20 @@
       "title": "tt28551273",
       "username": "anupambabu_97",
       "lastActive": 1768743641876
+    },
+    "2405:201:6820:a06d:bdef:55c1:5b2d:3408": {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "username": "demon18319",
+      "lastActive": 1768744578913
+    },
+    "2401:4900:88c5:1dfb:d404:7696:aba3:790": {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "username": "baljeet_002",
+      "lastActive": 1768744834733
     }
   }
 }
