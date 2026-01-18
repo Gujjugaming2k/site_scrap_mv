@@ -1,5 +1,5 @@
 {
-  "totalViews": 9819,
+  "totalViews": 9822,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2255,7 +2255,9 @@
     "84.15.183.116",
     "2401:4900:8820:8915:97cd:364f:6d84:cedb",
     "1.47.205.76",
-    "41.227.225.106"
+    "41.227.225.106",
+    "82.134.254.76",
+    "103.150.207.186"
   ],
   "views": [
     {
@@ -80799,6 +80801,30 @@
       "timestamp": "2026-01-17T23:43:52.765Z",
       "ip": "109.77.47.28",
       "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt0809497:1:9",
+      "title": "tt0809497:1:9",
+      "timestamp": "2026-01-17T23:53:33.638Z",
+      "ip": "146.70.246.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt38876090:1:3",
+      "title": "tt38876090:1:3",
+      "timestamp": "2026-01-17T23:53:44.021Z",
+      "ip": "82.134.254.76",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1130884",
+      "title": "Shutter Island",
+      "timestamp": "2026-01-17T23:59:32.701Z",
+      "ip": "103.150.207.186",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -81784,10 +81810,10 @@
     },
     "146.70.246.108": {
       "type": "series",
-      "id": "tt0809497:1:8",
-      "title": "tt0809497:1:8",
+      "id": "tt0809497:1:9",
+      "title": "tt0809497:1:9",
       "username": "anonymous",
-      "lastActive": 1768693237716
+      "lastActive": 1768694013638
     },
     "80.114.161.107": {
       "type": "movie",
@@ -81844,6 +81870,20 @@
       "title": "tt27497448:1:1",
       "username": "anonymous",
       "lastActive": 1768693267205
+    },
+    "82.134.254.76": {
+      "type": "series",
+      "id": "tt38876090:1:3",
+      "title": "tt38876090:1:3",
+      "username": "anonymous",
+      "lastActive": 1768694024021
+    },
+    "103.150.207.186": {
+      "type": "movie",
+      "id": "tt1130884",
+      "title": "Shutter Island",
+      "username": "anonymous",
+      "lastActive": 1768694372701
     }
   }
 }
