@@ -1,5 +1,5 @@
 {
-  "totalViews": 9822,
+  "totalViews": 9829,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2257,7 +2257,9 @@
     "1.47.205.76",
     "41.227.225.106",
     "82.134.254.76",
-    "103.150.207.186"
+    "103.150.207.186",
+    "93.47.121.138",
+    "41.104.155.234"
   ],
   "views": [
     {
@@ -80825,6 +80827,62 @@
       "timestamp": "2026-01-17T23:59:32.701Z",
       "ip": "103.150.207.186",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1302006",
+      "title": "The Irishman",
+      "timestamp": "2026-01-18T00:02:22.262Z",
+      "ip": "162.247.55.241",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0809497:1:10",
+      "title": "tt0809497:1:10",
+      "timestamp": "2026-01-18T00:02:32.784Z",
+      "ip": "146.70.246.108",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt11126994:1:1",
+      "title": "Arcane",
+      "timestamp": "2026-01-18T00:04:30.264Z",
+      "ip": "93.47.121.138",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt2762334",
+      "title": "tt2762334",
+      "timestamp": "2026-01-18T00:05:01.443Z",
+      "ip": "93.47.121.138",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt3565486:1:1",
+      "title": "tt3565486:1:1",
+      "timestamp": "2026-01-18T00:08:03.900Z",
+      "ip": "93.47.121.138",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0118528",
+      "title": "tt0118528",
+      "timestamp": "2026-01-18T00:13:19.696Z",
+      "ip": "162.247.55.241",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1527793",
+      "title": "No Other Choice",
+      "timestamp": "2026-01-18T00:15:55.608Z",
+      "ip": "41.104.155.234",
+      "username": "hkhhjj"
     }
   ],
   "activeNow": {
@@ -81810,10 +81868,10 @@
     },
     "146.70.246.108": {
       "type": "series",
-      "id": "tt0809497:1:9",
-      "title": "tt0809497:1:9",
+      "id": "tt0809497:1:10",
+      "title": "tt0809497:1:10",
       "username": "anonymous",
-      "lastActive": 1768694013638
+      "lastActive": 1768694552784
     },
     "80.114.161.107": {
       "type": "movie",
@@ -81845,10 +81903,10 @@
     },
     "162.247.55.241": {
       "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
+      "id": "tt0118528",
+      "title": "tt0118528",
       "username": "anonymous",
-      "lastActive": 1768693301614
+      "lastActive": 1768695199696
     },
     "154.208.49.98": {
       "type": "series",
@@ -81884,6 +81942,20 @@
       "title": "Shutter Island",
       "username": "anonymous",
       "lastActive": 1768694372701
+    },
+    "93.47.121.138": {
+      "type": "series",
+      "id": "tt3565486:1:1",
+      "title": "tt3565486:1:1",
+      "username": "anonymous",
+      "lastActive": 1768694883900
+    },
+    "41.104.155.234": {
+      "type": "movie",
+      "id": "tt1527793",
+      "title": "No Other Choice",
+      "username": "hkhhjj",
+      "lastActive": 1768695355608
     }
   }
 }
