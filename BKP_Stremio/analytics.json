@@ -1,5 +1,5 @@
 {
-  "totalViews": 9915,
+  "totalViews": 9927,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2266,7 +2266,8 @@
     "82.132.246.128",
     "2409:40c1:c:78d9:e498:4585:394f:90cf",
     "2409:40e4:10a6:bdb3:78e5:1a90:3c08:a675",
-    "146.196.32.227"
+    "146.196.32.227",
+    "2402:a00:10a:815f:f42a:ae4e:41c3:5c7"
   ],
   "views": [
     {
@@ -81578,6 +81579,102 @@
       "timestamp": "2026-01-18T03:19:44.814Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:8",
+      "title": "tt14186672:1:8",
+      "timestamp": "2026-01-18T03:28:18.375Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:7",
+      "title": "tt14186672:1:7",
+      "timestamp": "2026-01-18T03:28:28.634Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:7",
+      "title": "tt14186672:1:7",
+      "timestamp": "2026-01-18T03:28:35.744Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt3566834",
+      "title": "A Minecraft Movie",
+      "timestamp": "2026-01-18T03:32:18.668Z",
+      "ip": "2402:a00:10a:815f:f42a:ae4e:41c3:5c7",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:8",
+      "title": "tt14186672:1:8",
+      "timestamp": "2026-01-18T03:32:40.104Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "timestamp": "2026-01-18T03:32:47.484Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt31323988:3:1",
+      "title": "tt31323988:3:1",
+      "timestamp": "2026-01-18T03:34:46.413Z",
+      "ip": "197.3.23.236",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt26692417:1:50",
+      "title": "tt26692417:1:50",
+      "timestamp": "2026-01-18T03:38:21.498Z",
+      "ip": "146.196.32.227",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt26692417:1:35",
+      "title": "tt26692417:1:35",
+      "timestamp": "2026-01-18T03:38:36.748Z",
+      "ip": "146.196.32.227",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt26692417:1:36",
+      "title": "tt26692417:1:36",
+      "timestamp": "2026-01-18T03:38:59.270Z",
+      "ip": "146.196.32.227",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt26692417:1:36",
+      "title": "tt26692417:1:36",
+      "timestamp": "2026-01-18T03:39:05.419Z",
+      "ip": "146.196.32.227",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt17526714",
+      "title": "The Substance",
+      "timestamp": "2026-01-18T03:39:26.624Z",
+      "ip": "146.196.32.227",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -81988,11 +82085,11 @@
       "lastActive": 1768659071180
     },
     "203.192.255.46": {
-      "type": "series",
-      "id": "tt14186672:1:7",
-      "title": "tt14186672:1:7",
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
       "username": "chetan_b2",
-      "lastActive": 1768706384814
+      "lastActive": 1768707167484
     },
     "2.50.199.25": {
       "type": "series",
@@ -82716,11 +82813,25 @@
       "lastActive": 1768705633950
     },
     "146.196.32.227": {
-      "type": "series",
-      "id": "tt22297722:1:8",
-      "title": "tt22297722:1:8",
+      "type": "movie",
+      "id": "tt17526714",
+      "title": "The Substance",
       "username": "gaendaswami",
-      "lastActive": 1768705864306
+      "lastActive": 1768707566624
+    },
+    "2402:a00:10a:815f:f42a:ae4e:41c3:5c7": {
+      "type": "movie",
+      "id": "tt3566834",
+      "title": "A Minecraft Movie",
+      "username": "vflix1993",
+      "lastActive": 1768707138668
+    },
+    "197.3.23.236": {
+      "type": "series",
+      "id": "tt31323988:3:1",
+      "title": "tt31323988:3:1",
+      "username": "anonymous",
+      "lastActive": 1768707286413
     }
   }
 }
