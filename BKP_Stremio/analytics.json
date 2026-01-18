@@ -1,5 +1,5 @@
 {
-  "totalViews": 9903,
+  "totalViews": 9910,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2264,7 +2264,8 @@
     "2401:4900:761a:d959:945d:7aff:fe36:8624",
     "72.14.148.7",
     "82.132.246.128",
-    "2409:40c1:c:78d9:e498:4585:394f:90cf"
+    "2409:40c1:c:78d9:e498:4585:394f:90cf",
+    "2409:40e4:10a6:bdb3:78e5:1a90:3c08:a675"
   ],
   "views": [
     {
@@ -81480,6 +81481,62 @@
       "timestamp": "2026-01-18T02:39:48.550Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:7",
+      "title": "tt14186672:1:7",
+      "timestamp": "2026-01-18T02:46:20.802Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt29954526",
+      "title": "tt29954526",
+      "timestamp": "2026-01-18T02:46:44.687Z",
+      "ip": "103.46.200.248",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt2084989",
+      "title": "tt2084989",
+      "timestamp": "2026-01-18T02:47:13.605Z",
+      "ip": "103.46.200.248",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt1386703",
+      "title": "tt1386703",
+      "timestamp": "2026-01-18T02:48:04.157Z",
+      "ip": "2409:40e4:10a6:bdb3:78e5:1a90:3c08:a675",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt29954526",
+      "title": "tt29954526",
+      "timestamp": "2026-01-18T02:50:14.989Z",
+      "ip": "103.46.200.248",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt29954526",
+      "title": "tt29954526",
+      "timestamp": "2026-01-18T02:50:59.403Z",
+      "ip": "103.46.200.248",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt29954526",
+      "title": "tt29954526",
+      "timestamp": "2026-01-18T02:51:36.234Z",
+      "ip": "103.46.200.248",
+      "username": "katdenningssss"
     }
   ],
   "activeNow": {
@@ -81894,7 +81951,7 @@
       "id": "tt14186672:1:7",
       "title": "tt14186672:1:7",
       "username": "chetan_b2",
-      "lastActive": 1768703988550
+      "lastActive": 1768704380802
     },
     "2.50.199.25": {
       "type": "series",
@@ -82173,8 +82230,8 @@
       "type": "movie",
       "id": "tt29954526",
       "title": "tt29954526",
-      "username": "brosportses",
-      "lastActive": 1768703852241
+      "username": "katdenningssss",
+      "lastActive": 1768704696234
     },
     "2401:4900:b57f:8795:6193:3f38:8f3e:734e": {
       "type": "movie",
@@ -82602,6 +82659,13 @@
       "title": "tt1757678",
       "username": "zealousninja",
       "lastActive": 1768703340929
+    },
+    "2409:40e4:10a6:bdb3:78e5:1a90:3c08:a675": {
+      "type": "movie",
+      "id": "tt1386703",
+      "title": "tt1386703",
+      "username": "askchm",
+      "lastActive": 1768704484157
     }
   }
 }
