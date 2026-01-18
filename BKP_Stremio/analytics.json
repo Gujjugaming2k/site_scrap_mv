@@ -1,5 +1,5 @@
 {
-  "totalViews": 10013,
+  "totalViews": 10017,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2284,38 +2284,6 @@
     "170.238.46.194"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "Unknown",
-      "timestamp": "2026-01-10T15:45:23.261Z",
-      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
-      "username": "demo"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "Unknown",
-      "timestamp": "2026-01-10T15:46:17.848Z",
-      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
-      "username": "demo"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "Unknown",
-      "timestamp": "2026-01-10T15:58:28.572Z",
-      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
-      "username": "demo"
-    },
-    {
-      "type": "movie",
-      "id": "tt30472557",
-      "title": "Unknown",
-      "timestamp": "2026-01-10T16:32:27.824Z",
-      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
-      "username": "demo"
-    },
     {
       "type": "movie",
       "id": "tt5066556",
@@ -82283,6 +82251,38 @@
       "timestamp": "2026-01-18T05:42:16.328Z",
       "ip": "103.181.126.106",
       "username": "dilipc403"
+    },
+    {
+      "type": "series",
+      "id": "tt7942794:7:8",
+      "title": "tt7942794:7:8",
+      "timestamp": "2026-01-18T05:45:16.896Z",
+      "ip": "2001:569:51d4:8800:75ec:3492:e1e1:b728",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-18T05:47:48.693Z",
+      "ip": "2401:4900:8fe2:4c46:f01d:e4c6:f7b2:823e",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt17526714",
+      "title": "The Substance",
+      "timestamp": "2026-01-18T05:54:15.732Z",
+      "ip": "146.196.32.227",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-18T05:56:43.400Z",
+      "ip": "43.248.152.196",
+      "username": "ryuzaklo26"
     }
   ],
   "activeNow": {
@@ -82749,11 +82749,11 @@
       "lastActive": 1768667362897
     },
     "2401:4900:8fe2:4c46:f01d:e4c6:f7b2:823e": {
-      "type": "movie",
-      "id": "tt35466607",
-      "title": "tt35466607",
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
       "username": "ashwanileon",
-      "lastActive": 1768660158240
+      "lastActive": 1768715268693
     },
     "152.59.149.84": {
       "type": "movie",
@@ -83127,11 +83127,11 @@
       "lastActive": 1768675412960
     },
     "43.248.152.196": {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
       "username": "ryuzaklo26",
-      "lastActive": 1768675754206
+      "lastActive": 1768715803400
     },
     "93.152.220.163": {
       "type": "series",
@@ -83425,7 +83425,7 @@
       "id": "tt17526714",
       "title": "The Substance",
       "username": "gaendaswami",
-      "lastActive": 1768707566624
+      "lastActive": 1768715655732
     },
     "2402:a00:10a:815f:f42a:ae4e:41c3:5c7": {
       "type": "movie",
@@ -83478,10 +83478,10 @@
     },
     "2001:569:51d4:8800:75ec:3492:e1e1:b728": {
       "type": "series",
-      "id": "tt7942794:7:7",
-      "title": "tt7942794:7:7",
+      "id": "tt7942794:7:8",
+      "title": "tt7942794:7:8",
       "username": "anonymous",
-      "lastActive": 1768714151534
+      "lastActive": 1768715116896
     },
     "2409:40d2:2065:6b3f:c5e:6a20:b35b:939e": {
       "type": "movie",
