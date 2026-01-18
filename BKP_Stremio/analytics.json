@@ -1,5 +1,5 @@
 {
-  "totalViews": 10960,
+  "totalViews": 10962,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2398,22 +2398,6 @@
     "154.254.210.90"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt38973594:1:4",
-      "title": "tt38973594:1:4",
-      "timestamp": "2026-01-11T05:58:35.569Z",
-      "ip": "154.84.247.147",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt30446847",
-      "title": "Jay Kelly",
-      "timestamp": "2026-01-11T05:58:54.900Z",
-      "ip": "136.144.35.146",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt33244668",
@@ -82397,6 +82381,22 @@
       "timestamp": "2026-01-18T22:10:09.636Z",
       "ip": "154.254.210.90",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0106677",
+      "title": "tt0106677",
+      "timestamp": "2026-01-18T22:35:38.795Z",
+      "ip": "185.111.157.253",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0993846",
+      "title": "The Wolf of Wall Street",
+      "timestamp": "2026-01-18T22:48:16.317Z",
+      "ip": "162.247.55.241",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -83417,10 +83417,10 @@
     },
     "162.247.55.241": {
       "type": "movie",
-      "id": "tt0118528",
-      "title": "tt0118528",
+      "id": "tt0993846",
+      "title": "The Wolf of Wall Street",
       "username": "anonymous",
-      "lastActive": 1768695199696
+      "lastActive": 1768776496317
     },
     "154.208.49.98": {
       "type": "series",
@@ -84513,6 +84513,13 @@
       "title": "tt0369179:2:14",
       "username": "anonymous",
       "lastActive": 1768774209636
+    },
+    "185.111.157.253": {
+      "type": "movie",
+      "id": "tt0106677",
+      "title": "tt0106677",
+      "username": "anonymous",
+      "lastActive": 1768775738795
     }
   }
 }
