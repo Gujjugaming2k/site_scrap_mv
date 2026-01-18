@@ -1,5 +1,5 @@
 {
-  "totalViews": 9910,
+  "totalViews": 9913,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2265,7 +2265,8 @@
     "72.14.148.7",
     "82.132.246.128",
     "2409:40c1:c:78d9:e498:4585:394f:90cf",
-    "2409:40e4:10a6:bdb3:78e5:1a90:3c08:a675"
+    "2409:40e4:10a6:bdb3:78e5:1a90:3c08:a675",
+    "146.196.32.227"
   ],
   "views": [
     {
@@ -81537,6 +81538,30 @@
       "timestamp": "2026-01-18T02:51:36.234Z",
       "ip": "103.46.200.248",
       "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt1745960",
+      "title": "Top Gun: Maverick",
+      "timestamp": "2026-01-18T03:07:13.950Z",
+      "ip": "186.188.150.139",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt39227709:1:5",
+      "title": "tt39227709:1:5",
+      "timestamp": "2026-01-18T03:09:12.222Z",
+      "ip": "146.196.32.227",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17069148:1:22",
+      "title": "tt17069148:1:22",
+      "timestamp": "2026-01-18T03:09:16.608Z",
+      "ip": "146.196.32.227",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -82666,6 +82691,20 @@
       "title": "tt1386703",
       "username": "askchm",
       "lastActive": 1768704484157
+    },
+    "186.188.150.139": {
+      "type": "movie",
+      "id": "tt1745960",
+      "title": "Top Gun: Maverick",
+      "username": "anonymous",
+      "lastActive": 1768705633950
+    },
+    "146.196.32.227": {
+      "type": "series",
+      "id": "tt17069148:1:22",
+      "title": "tt17069148:1:22",
+      "username": "gaendaswami",
+      "lastActive": 1768705756608
     }
   }
 }
