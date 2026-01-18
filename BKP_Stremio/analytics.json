@@ -1,5 +1,5 @@
 {
-  "totalViews": 9829,
+  "totalViews": 9834,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -80883,6 +80883,46 @@
       "timestamp": "2026-01-18T00:15:55.608Z",
       "ip": "41.104.155.234",
       "username": "hkhhjj"
+    },
+    {
+      "type": "series",
+      "id": "tt13377006:1:1",
+      "title": "tt13377006:1:1",
+      "timestamp": "2026-01-18T00:18:25.759Z",
+      "ip": "93.47.121.138",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt13377006:1:1",
+      "title": "tt13377006:1:1",
+      "timestamp": "2026-01-18T00:19:06.804Z",
+      "ip": "93.47.121.138",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt13377006:1:1",
+      "title": "tt13377006:1:1",
+      "timestamp": "2026-01-18T00:19:08.388Z",
+      "ip": "93.47.121.138",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt5066556",
+      "title": "The Tiger",
+      "timestamp": "2026-01-18T00:23:39.345Z",
+      "ip": "41.104.155.234",
+      "username": "hkhhjj"
+    },
+    {
+      "type": "movie",
+      "id": "tt13223398",
+      "title": "tt13223398",
+      "timestamp": "2026-01-18T00:29:06.310Z",
+      "ip": "41.104.155.234",
+      "username": "hkhhjj"
     }
   ],
   "activeNow": {
@@ -81945,17 +81985,17 @@
     },
     "93.47.121.138": {
       "type": "series",
-      "id": "tt3565486:1:1",
-      "title": "tt3565486:1:1",
+      "id": "tt13377006:1:1",
+      "title": "tt13377006:1:1",
       "username": "anonymous",
-      "lastActive": 1768694883900
+      "lastActive": 1768695548388
     },
     "41.104.155.234": {
       "type": "movie",
-      "id": "tt1527793",
-      "title": "No Other Choice",
+      "id": "tt13223398",
+      "title": "tt13223398",
       "username": "hkhhjj",
-      "lastActive": 1768695355608
+      "lastActive": 1768696146310
     }
   }
 }
