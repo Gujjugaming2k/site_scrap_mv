@@ -1,5 +1,5 @@
 {
-  "totalViews": 10567,
+  "totalViews": 10576,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2332,81 +2332,14 @@
     "112.204.101.162",
     "2409:40d4:40db:ad3e:d1f9:9078:6320:6a20",
     "2409:40e0:1042:f8a0:d4b3:47a3:71d5:62f6",
-    "103.85.10.193"
+    "103.85.10.193",
+    "2409:40c2:601f:7ada:44be:aaff:fe26:34f5",
+    "2800:320:c0b2:cf00:fcd5:e3bb:e6b:7472",
+    "2401:4900:aca0:3b3e:48e7:6eff:fe56:ea7",
+    "2401:4900:8820:8915:93d:bf21:58cc:ff54",
+    "103.165.20.181"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0898266:6:3",
-      "title": "tt0898266:6:3",
-      "timestamp": "2026-01-11T05:10:54.537Z",
-      "ip": "2a01:799:c5c:2b00:c01b:ef07:d6a8:9027",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt33035373:1:1",
-      "title": "tt33035373:1:1",
-      "timestamp": "2026-01-11T05:11:01.785Z",
-      "ip": "154.159.252.161",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt7631058:1:2",
-      "title": "tt7631058:1:2",
-      "timestamp": "2026-01-11T05:11:03.957Z",
-      "ip": "160.176.83.226",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt31589662:2:6",
-      "title": "tt31589662:2:6",
-      "timestamp": "2026-01-11T05:11:07.362Z",
-      "ip": "110.93.90.246",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt7888964",
-      "title": "Nobody",
-      "timestamp": "2026-01-11T05:11:08.616Z",
-      "ip": "2401:4900:88f8:a3e7:a9e2:1058:b7e1:7803",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0898266:8:17",
-      "title": "tt0898266:8:17",
-      "timestamp": "2026-01-11T05:11:13.009Z",
-      "ip": "37.19.212.25",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1757678",
-      "title": "tt1757678",
-      "timestamp": "2026-01-11T05:11:23.228Z",
-      "ip": "2400:1a00:bc10:a42a:a5e5:cb0e:d025:9f56",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1757678",
-      "title": "tt1757678",
-      "timestamp": "2026-01-11T05:11:33.727Z",
-      "ip": "103.177.183.220",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt37594827",
-      "title": "tt37594827",
-      "timestamp": "2026-01-11T05:11:34.546Z",
-      "ip": "69.50.231.43",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt4644488:1:6",
@@ -82334,6 +82267,78 @@
       "timestamp": "2026-01-18T13:26:55.509Z",
       "ip": "2409:40d4:40db:ad3e:d1f9:9078:6320:6a20",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt27263807",
+      "title": "tt27263807",
+      "timestamp": "2026-01-18T13:30:14.681Z",
+      "ip": "2409:40c2:601f:7ada:44be:aaff:fe26:34f5",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0816692",
+      "title": "Interstellar",
+      "timestamp": "2026-01-18T13:30:51.392Z",
+      "ip": "103.85.10.193",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt7275830",
+      "title": "tt7275830",
+      "timestamp": "2026-01-18T13:30:58.923Z",
+      "ip": "2800:320:c0b2:cf00:fcd5:e3bb:e6b:7472",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0816692",
+      "title": "Interstellar",
+      "timestamp": "2026-01-18T13:32:09.524Z",
+      "ip": "103.85.10.193",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt27263807",
+      "title": "tt27263807",
+      "timestamp": "2026-01-18T13:32:57.707Z",
+      "ip": "2401:4900:aca0:3b3e:48e7:6eff:fe56:ea7",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-18T13:35:08.251Z",
+      "ip": "2401:4900:8820:8915:93d:bf21:58cc:ff54",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:1",
+      "title": "Death Note",
+      "timestamp": "2026-01-18T13:35:58.687Z",
+      "ip": "2401:4900:8820:8915:93d:bf21:58cc:ff54",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:2",
+      "title": "Death Note",
+      "timestamp": "2026-01-18T13:36:12.033Z",
+      "ip": "2401:4900:8820:8915:93d:bf21:58cc:ff54",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "movie",
+      "id": "tt28551273",
+      "title": "tt28551273",
+      "timestamp": "2026-01-18T13:40:41.876Z",
+      "ip": "103.165.20.181",
+      "username": "anupambabu_97"
     }
   ],
   "activeNow": {
@@ -83987,7 +83992,42 @@
       "id": "tt0816692",
       "title": "Interstellar",
       "username": "switchoff009",
-      "lastActive": 1768742770620
+      "lastActive": 1768743129524
+    },
+    "2409:40c2:601f:7ada:44be:aaff:fe26:34f5": {
+      "type": "movie",
+      "id": "tt27263807",
+      "title": "tt27263807",
+      "username": "anonymous",
+      "lastActive": 1768743014681
+    },
+    "2800:320:c0b2:cf00:fcd5:e3bb:e6b:7472": {
+      "type": "movie",
+      "id": "tt7275830",
+      "title": "tt7275830",
+      "username": "anonymous",
+      "lastActive": 1768743058923
+    },
+    "2401:4900:aca0:3b3e:48e7:6eff:fe56:ea7": {
+      "type": "movie",
+      "id": "tt27263807",
+      "title": "tt27263807",
+      "username": "anonymous",
+      "lastActive": 1768743177707
+    },
+    "2401:4900:8820:8915:93d:bf21:58cc:ff54": {
+      "type": "series",
+      "id": "tt0877057:1:2",
+      "title": "Death Note",
+      "username": "anonymous_rare",
+      "lastActive": 1768743372033
+    },
+    "103.165.20.181": {
+      "type": "movie",
+      "id": "tt28551273",
+      "title": "tt28551273",
+      "username": "anupambabu_97",
+      "lastActive": 1768743641876
     }
   }
 }
