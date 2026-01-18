@@ -1,5 +1,5 @@
 {
-  "totalViews": 10017,
+  "totalViews": 10020,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2284,30 +2284,6 @@
     "170.238.46.194"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt5066556",
-      "title": "The Tiger",
-      "timestamp": "2026-01-10T16:32:38.417Z",
-      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
-      "username": "demo"
-    },
-    {
-      "type": "movie",
-      "id": "tt5066556",
-      "title": "The Tiger",
-      "timestamp": "2026-01-10T16:57:32.965Z",
-      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt3566834",
-      "title": "A Minecraft Movie",
-      "timestamp": "2026-01-10T16:58:17.699Z",
-      "ip": "202.142.105.9",
-      "username": "nobody_ismy_name"
-    },
     {
       "type": "movie",
       "id": "tt0060196",
@@ -82283,6 +82259,30 @@
       "timestamp": "2026-01-18T05:56:43.400Z",
       "ip": "43.248.152.196",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-18T06:09:29.982Z",
+      "ip": "111.92.74.105",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt22202452:1:8",
+      "title": "tt22202452:1:8",
+      "timestamp": "2026-01-18T06:09:30.093Z",
+      "ip": "170.238.46.194",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
+      "timestamp": "2026-01-18T06:10:26.102Z",
+      "ip": "111.92.74.105",
+      "username": "un0fficial_itachi"
     }
   ],
   "activeNow": {
@@ -83051,10 +83051,10 @@
     },
     "111.92.74.105": {
       "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
       "username": "un0fficial_itachi",
-      "lastActive": 1768670957262
+      "lastActive": 1768716626102
     },
     "2401:4900:aac9:d47e:c9ce:4adf:e586:8ce2": {
       "type": "movie",
@@ -83544,7 +83544,7 @@
       "id": "tt22202452:1:8",
       "title": "tt22202452:1:8",
       "username": "anonymous",
-      "lastActive": 1768714626392
+      "lastActive": 1768716570093
     }
   }
 }
