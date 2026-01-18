@@ -1,5 +1,5 @@
 {
-  "totalViews": 10138,
+  "totalViews": 10144,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2299,57 +2299,10 @@
     "27.58.79.61",
     "2a09:bac5:3af2:1aa0::2a7:dc,51.89.197.91",
     "2405:201:2033:841:eca0:9386:332a:d880",
-    "2402:a00:10a:815f:bdea:7379:872a:46f"
+    "2402:a00:10a:815f:bdea:7379:872a:46f",
+    "47.15.116.134"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33029024",
-      "title": "tt33029024",
-      "timestamp": "2026-01-10T20:05:35.831Z",
-      "ip": "38.134.138.248",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt32411272",
-      "title": "tt32411272",
-      "timestamp": "2026-01-10T20:06:30.730Z",
-      "ip": "38.134.138.248",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt33029024",
-      "title": "tt33029024",
-      "timestamp": "2026-01-10T20:07:35.628Z",
-      "ip": "38.134.138.248",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt28434143",
-      "title": "tt28434143",
-      "timestamp": "2026-01-10T20:07:51.546Z",
-      "ip": "38.134.138.248",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt28252563",
-      "title": "tt28252563",
-      "timestamp": "2026-01-10T20:08:10.798Z",
-      "ip": "38.134.138.248",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt36587142",
-      "title": "tt36587142",
-      "timestamp": "2026-01-10T20:08:34.965Z",
-      "ip": "38.134.138.248",
-      "username": "thala_75"
-    },
     {
       "type": "movie",
       "id": "tt32916440",
@@ -82301,6 +82254,54 @@
       "timestamp": "2026-01-18T08:49:10.114Z",
       "ip": "2402:a00:10a:815f:bdea:7379:872a:46f",
       "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt36538449",
+      "title": "tt36538449",
+      "timestamp": "2026-01-18T08:50:28.731Z",
+      "ip": "2402:a00:10a:815f:bdea:7379:872a:46f",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-18T08:52:11.034Z",
+      "ip": "2409:40d0:103b:b7c8:c0c5:67ff:fea0:f7d5",
+      "username": "magicmannn"
+    },
+    {
+      "type": "series",
+      "id": "tt0773262:3:5",
+      "title": "tt0773262:3:5",
+      "timestamp": "2026-01-18T08:57:27.004Z",
+      "ip": "47.15.116.134",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt0773262:3:6",
+      "title": "tt0773262:3:6",
+      "timestamp": "2026-01-18T08:58:13.988Z",
+      "ip": "47.15.116.134",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt0773262:3:6",
+      "title": "tt0773262:3:6",
+      "timestamp": "2026-01-18T08:58:46.952Z",
+      "ip": "47.15.116.134",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt16085542:1:2",
+      "title": "tt16085542:1:2",
+      "timestamp": "2026-01-18T09:03:11.151Z",
+      "ip": "103.168.30.70",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -82432,10 +82433,10 @@
     },
     "103.168.30.70": {
       "type": "series",
-      "id": "tt6897680:1:2",
-      "title": "tt6897680:1:2",
+      "id": "tt16085542:1:2",
+      "title": "tt16085542:1:2",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768675397529
+      "lastActive": 1768726991151
     },
     "202.173.124.39": {
       "type": "movie",
@@ -83600,11 +83601,11 @@
       "lastActive": 1768719948506
     },
     "2409:40d0:103b:b7c8:c0c5:67ff:fea0:f7d5": {
-      "type": "movie",
-      "id": "tt0119217",
-      "title": "Good Will Hunting",
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
       "username": "magicmannn",
-      "lastActive": 1768720424316
+      "lastActive": 1768726331034
     },
     "2401:4900:b9f4:dec4::2bb5:ac6": {
       "type": "series",
@@ -83702,7 +83703,14 @@
       "id": "tt36538449",
       "title": "tt36538449",
       "username": "vflix1993",
-      "lastActive": 1768726150114
+      "lastActive": 1768726228731
+    },
+    "47.15.116.134": {
+      "type": "series",
+      "id": "tt0773262:3:6",
+      "title": "tt0773262:3:6",
+      "username": "demon18319",
+      "lastActive": 1768726726952
     }
   }
 }
