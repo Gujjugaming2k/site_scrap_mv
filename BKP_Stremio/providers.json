@@ -66,17 +66,6 @@
     "updatedAt": "2025-12-28T07:18:55.029Z"
   },
   {
-    "id": "1765956562743",
-    "name": "HashHacker",
-    "movieUrl": "https://hashhacker.vflix.life/stream/movie/{{id}}.json",
-    "seriesUrl": "https://hashhacker.vflix.life/stream/series/{{id}}:{{season}}:{{episode}}.json",
-    "timeout": "15000",
-    "priority": "15",
-    "enabled": false,
-    "createdAt": "2025-12-17T07:29:22.743Z",
-    "updatedAt": "2025-12-18T14:35:36.201Z"
-  },
-  {
     "id": "1766763246069",
     "name": "XDM",
     "movieUrl": "https://xdmovies-stremio.hdmovielover.workers.dev/movie?imdbid={{id}}",
@@ -188,10 +177,11 @@
     "name": "moviesdrive",
     "movieUrl": "https://moviesdrive-api.vflixprime.workers.dev/stream/movie/{{id}}.json",
     "seriesUrl": "https://moviesdrive-api.vflixprime.workers.dev/stream/series/{{id}}:{{season}}:{{episode}}.json",
-    "timeout": 10000,
-    "priority": 2,
+    "timeout": "15004",
+    "priority": "2",
     "enabled": true,
-    "createdAt": "2026-01-17T12:22:58.794Z"
+    "createdAt": "2026-01-17T12:22:58.794Z",
+    "updatedAt": "2026-01-18T05:29:03.987Z"
   },
   {
     "id": "1768660119070",
