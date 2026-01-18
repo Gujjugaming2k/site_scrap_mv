@@ -1,5 +1,5 @@
 {
-  "totalViews": 9998,
+  "totalViews": 10013,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2277,103 +2277,13 @@
     "109.76.17.47",
     "102.215.110.6",
     "103.158.162.178",
-    "2402:a00:10a:815f:607e:6b3e:c011:e646"
+    "2402:a00:10a:815f:607e:6b3e:c011:e646",
+    "2409:40d4:40db:ad3e:c96c:5a2c:34ce:827a",
+    "2402:a00:10a:815f:61b1:748d:45f0:6f68",
+    "2404:7c80:7c:bf51:2dd0:a603:d2b9:c043",
+    "170.238.46.194"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "vflix:123",
-      "title": "Test Movie",
-      "timestamp": "2025-12-30T13:40:37.782Z",
-      "ip": "127.0.0.1"
-    },
-    {
-      "type": "series",
-      "id": "tt38568136:1:3",
-      "title": "Unknown",
-      "timestamp": "2025-12-30T13:50:43.406Z",
-      "ip": "::1"
-    },
-    {
-      "type": "series",
-      "id": "tt38568136:1:3",
-      "title": "Unknown",
-      "timestamp": "2025-12-30T13:52:35.125Z",
-      "ip": "::1"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "Unknown (bv)",
-      "timestamp": "2026-01-10T15:13:28.880Z",
-      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "Unknown (bv)",
-      "timestamp": "2026-01-10T15:13:38.659Z",
-      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "Unknown (bv)",
-      "timestamp": "2026-01-10T15:15:04.601Z",
-      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "Unknown (demo)",
-      "timestamp": "2026-01-10T15:15:09.276Z",
-      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "Unknown (demo1)",
-      "timestamp": "2026-01-10T15:15:22.417Z",
-      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "Unknown (demo)",
-      "timestamp": "2026-01-10T15:15:39.454Z",
-      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "Unknown (demo)",
-      "timestamp": "2026-01-10T15:37:42.610Z",
-      "ip": "149.154.161.219"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "Unknown",
-      "timestamp": "2026-01-10T15:42:42.831Z",
-      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
-      "username": "demo"
-    },
-    {
-      "type": "movie",
-      "id": "tt0068646",
-      "title": "The Godfather",
-      "timestamp": "2026-01-10T15:43:05.838Z",
-      "ip": "2402:a00:10a:815f:f8ed:9c35:6a50:f769",
-      "username": "demo"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "Unknown",
-      "timestamp": "2026-01-10T15:45:02.840Z",
-      "ip": "103.249.4.206",
-      "username": "demo"
-    },
     {
       "type": "movie",
       "id": "tt28802657",
@@ -82253,6 +82163,126 @@
       "timestamp": "2026-01-18T05:28:03.602Z",
       "ip": "2402:a00:10a:815f:607e:6b3e:c011:e646",
       "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt4160708",
+      "title": "Don't Breathe",
+      "timestamp": "2026-01-18T05:29:08.073Z",
+      "ip": "2402:a00:10a:815f:607e:6b3e:c011:e646",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt7942794:7:7",
+      "title": "tt7942794:7:7",
+      "timestamp": "2026-01-18T05:29:11.534Z",
+      "ip": "2001:569:51d4:8800:75ec:3492:e1e1:b728",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt6246322",
+      "title": "Don't Breathe 2",
+      "timestamp": "2026-01-18T05:29:18.144Z",
+      "ip": "2402:a00:10a:815f:607e:6b3e:c011:e646",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt36538449",
+      "title": "tt36538449",
+      "timestamp": "2026-01-18T05:30:23.660Z",
+      "ip": "2402:a00:10a:815f:607e:6b3e:c011:e646",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:22",
+      "title": "Death Note",
+      "timestamp": "2026-01-18T05:32:20.175Z",
+      "ip": "2409:40d4:40db:ad3e:c96c:5a2c:34ce:827a",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt36538449",
+      "title": "tt36538449",
+      "timestamp": "2026-01-18T05:32:51.483Z",
+      "ip": "2402:a00:10a:815f:607e:6b3e:c011:e646",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt36538449",
+      "title": "tt36538449",
+      "timestamp": "2026-01-18T05:33:29.128Z",
+      "ip": "2402:a00:10a:815f:61b1:748d:45f0:6f68",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt36538449",
+      "title": "tt36538449",
+      "timestamp": "2026-01-18T05:33:52.263Z",
+      "ip": "2402:a00:10a:815f:607e:6b3e:c011:e646",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt4129428",
+      "title": "tt4129428",
+      "timestamp": "2026-01-18T05:35:30.365Z",
+      "ip": "2404:7c80:7c:bf51:2dd0:a603:d2b9:c043",
+      "username": "reaper54x"
+    },
+    {
+      "type": "movie",
+      "id": "tt4129428",
+      "title": "tt4129428",
+      "timestamp": "2026-01-18T05:36:09.322Z",
+      "ip": "2404:7c80:7c:bf51:2dd0:a603:d2b9:c043",
+      "username": "reaper54x"
+    },
+    {
+      "type": "movie",
+      "id": "tt36538449",
+      "title": "tt36538449",
+      "timestamp": "2026-01-18T05:36:39.952Z",
+      "ip": "2402:a00:10a:815f:f42a:ae4e:41c3:5c7",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt22202452:1:8",
+      "title": "tt22202452:1:8",
+      "timestamp": "2026-01-18T05:37:06.392Z",
+      "ip": "170.238.46.194",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
+      "timestamp": "2026-01-18T05:40:02.520Z",
+      "ip": "103.181.126.106",
+      "username": "dilipc403"
+    },
+    {
+      "type": "movie",
+      "id": "tt36538449",
+      "title": "tt36538449",
+      "timestamp": "2026-01-18T05:41:31.676Z",
+      "ip": "2402:a00:10a:815f:f42a:ae4e:41c3:5c7",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
+      "timestamp": "2026-01-18T05:42:16.328Z",
+      "ip": "103.181.126.106",
+      "username": "dilipc403"
     }
   ],
   "activeNow": {
@@ -83399,10 +83429,10 @@
     },
     "2402:a00:10a:815f:f42a:ae4e:41c3:5c7": {
       "type": "movie",
-      "id": "tt3566834",
-      "title": "A Minecraft Movie",
+      "id": "tt36538449",
+      "title": "tt36538449",
       "username": "vflix1993",
-      "lastActive": 1768707138668
+      "lastActive": 1768714891676
     },
     "197.3.23.236": {
       "type": "series",
@@ -83423,7 +83453,7 @@
       "id": "tt35335046:1:7",
       "title": "tt35335046:1:7",
       "username": "dilipc403",
-      "lastActive": 1768712458012
+      "lastActive": 1768714936328
     },
     "76.119.235.176": {
       "type": "series",
@@ -83448,10 +83478,10 @@
     },
     "2001:569:51d4:8800:75ec:3492:e1e1:b728": {
       "type": "series",
-      "id": "tt7942794:7:6",
-      "title": "tt7942794:7:6",
+      "id": "tt7942794:7:7",
+      "title": "tt7942794:7:7",
       "username": "anonymous",
-      "lastActive": 1768713145391
+      "lastActive": 1768714151534
     },
     "2409:40d2:2065:6b3f:c5e:6a20:b35b:939e": {
       "type": "movie",
@@ -83483,10 +83513,38 @@
     },
     "2402:a00:10a:815f:607e:6b3e:c011:e646": {
       "type": "movie",
-      "id": "tt4160708",
-      "title": "Don't Breathe",
+      "id": "tt36538449",
+      "title": "tt36538449",
       "username": "vflix1993",
-      "lastActive": 1768714083602
+      "lastActive": 1768714432263
+    },
+    "2409:40d4:40db:ad3e:c96c:5a2c:34ce:827a": {
+      "type": "series",
+      "id": "tt0877057:1:22",
+      "title": "Death Note",
+      "username": "anonymous",
+      "lastActive": 1768714340175
+    },
+    "2402:a00:10a:815f:61b1:748d:45f0:6f68": {
+      "type": "movie",
+      "id": "tt36538449",
+      "title": "tt36538449",
+      "username": "vflix1993",
+      "lastActive": 1768714409128
+    },
+    "2404:7c80:7c:bf51:2dd0:a603:d2b9:c043": {
+      "type": "movie",
+      "id": "tt4129428",
+      "title": "tt4129428",
+      "username": "reaper54x",
+      "lastActive": 1768714569322
+    },
+    "170.238.46.194": {
+      "type": "series",
+      "id": "tt22202452:1:8",
+      "title": "tt22202452:1:8",
+      "username": "anonymous",
+      "lastActive": 1768714626392
     }
   }
 }
