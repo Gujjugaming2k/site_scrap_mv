@@ -1,5 +1,5 @@
 {
-  "totalViews": 10204,
+  "totalViews": 10209,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2314,46 +2314,6 @@
     "106.51.164.224"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt29921437:1:4",
-      "title": "tt29921437:1:4",
-      "timestamp": "2026-01-11T03:08:23.954Z",
-      "ip": "103.46.200.103",
-      "username": "brosportses"
-    },
-    {
-      "type": "series",
-      "id": "tt29921437:1:5",
-      "title": "tt29921437:1:5",
-      "timestamp": "2026-01-11T03:08:25.623Z",
-      "ip": "103.46.200.103",
-      "username": "brosportses"
-    },
-    {
-      "type": "series",
-      "id": "tt29921437:1:5",
-      "title": "tt29921437:1:5",
-      "timestamp": "2026-01-11T03:08:25.757Z",
-      "ip": "103.46.200.103",
-      "username": "brosportses"
-    },
-    {
-      "type": "series",
-      "id": "tt2442560:6:6",
-      "title": "tt2442560:6:6",
-      "timestamp": "2026-01-11T03:08:37.278Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt29921437:1:6",
-      "title": "tt29921437:1:6",
-      "timestamp": "2026-01-11T03:08:43.354Z",
-      "ip": "103.46.200.103",
-      "username": "brosportses"
-    },
     {
       "type": "series",
       "id": "tt22202452:1:1",
@@ -82313,6 +82273,46 @@
       "timestamp": "2026-01-18T09:53:33.911Z",
       "ip": "202.173.124.39",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt10919420:1:1",
+      "title": "tt10919420:1:1",
+      "timestamp": "2026-01-18T09:56:52.585Z",
+      "ip": "106.222.216.167",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-18T09:58:36.289Z",
+      "ip": "106.222.216.167",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "movie",
+      "id": "tt0045693",
+      "title": "tt0045693",
+      "timestamp": "2026-01-18T10:00:25.560Z",
+      "ip": "106.222.216.167",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "movie",
+      "id": "tt7129636",
+      "title": "tt7129636",
+      "timestamp": "2026-01-18T10:02:03.494Z",
+      "ip": "106.51.164.224",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt7129636",
+      "title": "tt7129636",
+      "timestamp": "2026-01-18T10:02:03.548Z",
+      "ip": "106.51.164.224",
+      "username": "outuou"
     }
   ],
   "activeNow": {
@@ -83760,10 +83760,10 @@
     },
     "106.222.216.167": {
       "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
+      "id": "tt0045693",
+      "title": "tt0045693",
       "username": "anonymous_rare",
-      "lastActive": 1768728713713
+      "lastActive": 1768730425560
     },
     "2409:40d0:1391:9e51:44bf:59ff:fe62:15c8": {
       "type": "movie",
@@ -83797,8 +83797,8 @@
       "type": "movie",
       "id": "tt7129636",
       "title": "tt7129636",
-      "username": "anonymous",
-      "lastActive": 1768729843129
+      "username": "outuou",
+      "lastActive": 1768730523548
     }
   }
 }
