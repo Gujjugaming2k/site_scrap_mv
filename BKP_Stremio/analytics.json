@@ -1,5 +1,5 @@
 {
-  "totalViews": 9882,
+  "totalViews": 9886,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2262,7 +2262,8 @@
     "41.104.155.234",
     "201.247.170.237",
     "2401:4900:761a:d959:945d:7aff:fe36:8624",
-    "72.14.148.7"
+    "72.14.148.7",
+    "82.132.246.128"
   ],
   "views": [
     {
@@ -81310,6 +81311,38 @@
       "timestamp": "2026-01-18T01:51:18.554Z",
       "ip": "93.47.121.138",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt9140554:1:1",
+      "title": "tt9140554:1:1",
+      "timestamp": "2026-01-18T02:16:44.711Z",
+      "ip": "82.132.246.128",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-18T02:18:20.140Z",
+      "ip": "2a02:9b0:106:3b5f:f034:57eb:a863:dd4c",
+      "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt31495504",
+      "title": "tt31495504",
+      "timestamp": "2026-01-18T02:19:17.644Z",
+      "ip": "2a02:9b0:106:3b5f:f034:57eb:a863:dd4c",
+      "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt14107334",
+      "title": "tt14107334",
+      "timestamp": "2026-01-18T02:20:23.116Z",
+      "ip": "2a02:9b0:106:3b5f:f034:57eb:a863:dd4c",
+      "username": "hoosa500"
     }
   ],
   "activeNow": {
@@ -81696,7 +81729,7 @@
       "id": "tt14107334",
       "title": "tt14107334",
       "username": "hoosa500",
-      "lastActive": 1768658559092
+      "lastActive": 1768702823116
     },
     "2402:a00:10a:815f:9da4:d7a1:241:7c01": {
       "type": "series",
@@ -82418,6 +82451,13 @@
       "title": "tt32642706",
       "username": "william097",
       "lastActive": 1768700285105
+    },
+    "82.132.246.128": {
+      "type": "series",
+      "id": "tt9140554:1:1",
+      "title": "tt9140554:1:1",
+      "username": "anonymous",
+      "lastActive": 1768702604711
     }
   }
 }
