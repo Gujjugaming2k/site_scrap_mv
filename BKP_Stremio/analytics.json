@@ -1,5 +1,5 @@
 {
-  "totalViews": 10957,
+  "totalViews": 10959,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2397,22 +2397,6 @@
     "2a09:bac1:3680:120::29e:d5"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:1:22",
-      "title": "Lost",
-      "timestamp": "2026-01-11T05:58:29.070Z",
-      "ip": "115.128.255.228",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt5225712:1:1",
-      "title": "tt5225712:1:1",
-      "timestamp": "2026-01-11T05:58:33.340Z",
-      "ip": "196.191.221.13",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt12074628:3:4",
@@ -82396,6 +82380,22 @@
       "timestamp": "2026-01-18T21:17:03.245Z",
       "ip": "2a09:bac1:3680:120::29e:d5",
       "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt2365946:1:6",
+      "title": "tt2365946:1:6",
+      "timestamp": "2026-01-18T21:57:17.397Z",
+      "ip": "2a06:c701:474f:e900:ec3c:c9c2:fbde:c618",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2365946:1:6",
+      "title": "tt2365946:1:6",
+      "timestamp": "2026-01-18T21:57:17.465Z",
+      "ip": "2a06:c701:474f:e900:ec3c:c9c2:fbde:c618",
+      "username": "aviv"
     }
   ],
   "activeNow": {
@@ -84497,7 +84497,7 @@
       "id": "tt2365946:1:6",
       "title": "tt2365946:1:6",
       "username": "aviv",
-      "lastActive": 1768770683479
+      "lastActive": 1768773437465
     },
     "2a09:bac1:3680:120::29e:d5": {
       "type": "movie",
