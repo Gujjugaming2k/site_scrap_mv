@@ -1,5 +1,5 @@
 {
-  "totalViews": 10959,
+  "totalViews": 10960,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2394,17 +2394,10 @@
     "212.39.104.76",
     "2401:4900:851b:5a07:62c4:12af:5126:21dc",
     "2a06:c701:474f:e900:ec3c:c9c2:fbde:c618",
-    "2a09:bac1:3680:120::29e:d5"
+    "2a09:bac1:3680:120::29e:d5",
+    "154.254.210.90"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12074628:3:4",
-      "title": "tt12074628:3:4",
-      "timestamp": "2026-01-11T05:58:34.276Z",
-      "ip": "186.108.170.38",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt38973594:1:4",
@@ -82396,6 +82389,14 @@
       "timestamp": "2026-01-18T21:57:17.465Z",
       "ip": "2a06:c701:474f:e900:ec3c:c9c2:fbde:c618",
       "username": "aviv"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:2:14",
+      "title": "tt0369179:2:14",
+      "timestamp": "2026-01-18T22:10:09.636Z",
+      "ip": "154.254.210.90",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -84505,6 +84506,13 @@
       "title": "Interstellar",
       "username": "switchoff009",
       "lastActive": 1768771023245
+    },
+    "154.254.210.90": {
+      "type": "series",
+      "id": "tt0369179:2:14",
+      "title": "tt0369179:2:14",
+      "username": "anonymous",
+      "lastActive": 1768774209636
     }
   }
 }
