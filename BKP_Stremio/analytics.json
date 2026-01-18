@@ -1,5 +1,5 @@
 {
-  "totalViews": 10906,
+  "totalViews": 10910,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2389,41 +2389,10 @@
     "2a09:bac1:36c0:10::242:c7",
     "2409:40e6:18:765e:684f:90ff:fe64:35c0",
     "152.59.33.234",
-    "2a09:bac5:3c93:1a46::29e:39"
+    "2a09:bac5:3c93:1a46::29e:39",
+    "2800:320:c0b2:cf00:2311:1f54:7407:75a6"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt33049767:1:1",
-      "title": "tt33049767:1:1",
-      "timestamp": "2026-01-11T05:53:03.511Z",
-      "ip": "102.211.167.210",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt35019998",
-      "title": "tt35019998",
-      "timestamp": "2026-01-11T05:53:06.902Z",
-      "ip": "2409:40f4:30a8:2b33:10db:f2e3:4040:f068",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:5",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T05:53:24.165Z",
-      "ip": "103.188.127.142",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:6",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T05:53:30.581Z",
-      "ip": "103.188.127.142",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt33888205",
@@ -82391,6 +82360,38 @@
       "timestamp": "2026-01-18T19:08:57.462Z",
       "ip": "2401:4900:8fda:e871:3158:adbd:3bb8:dfc8",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt5057054:1:4",
+      "title": "tt5057054:1:4",
+      "timestamp": "2026-01-18T19:12:16.060Z",
+      "ip": "103.4.221.252",
+      "username": "sexhabibi"
+    },
+    {
+      "type": "series",
+      "id": "tt5057054:1:4",
+      "title": "tt5057054:1:4",
+      "timestamp": "2026-01-18T19:12:36.600Z",
+      "ip": "103.4.221.252",
+      "username": "sexhabibi"
+    },
+    {
+      "type": "series",
+      "id": "tt0922037:13:6",
+      "title": "tt0922037:13:6",
+      "timestamp": "2026-01-18T19:13:58.982Z",
+      "ip": "2800:320:c0b2:cf00:2311:1f54:7407:75a6",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "timestamp": "2026-01-18T19:26:55.532Z",
+      "ip": "2409:4085:84:5358::556:58a5",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -84118,10 +84119,10 @@
     },
     "103.4.221.252": {
       "type": "series",
-      "id": "tt6473344:1:1",
-      "title": "tt6473344:1:1",
+      "id": "tt5057054:1:4",
+      "title": "tt5057054:1:4",
       "username": "sexhabibi",
-      "lastActive": 1768757685772
+      "lastActive": 1768763556600
     },
     "2405:201:2022:b81c:4da3:caa8:e2bc:cbfe": {
       "type": "movie",
@@ -84391,10 +84392,10 @@
     },
     "2409:4085:84:5358::556:58a5": {
       "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
+      "id": "tt22740896",
+      "title": "tt22740896",
       "username": "gaendaswami",
-      "lastActive": 1768758797522
+      "lastActive": 1768764415532
     },
     "2409:40d0:103a:86a8:7c3f:d4ff:fefb:b641": {
       "type": "series",
@@ -84465,6 +84466,13 @@
       "title": "Interstellar",
       "username": "switchoff009",
       "lastActive": 1768763070647
+    },
+    "2800:320:c0b2:cf00:2311:1f54:7407:75a6": {
+      "type": "series",
+      "id": "tt0922037:13:6",
+      "title": "tt0922037:13:6",
+      "username": "anonymous",
+      "lastActive": 1768763638982
     }
   }
 }
