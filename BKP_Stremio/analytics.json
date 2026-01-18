@@ -1,5 +1,5 @@
 {
-  "totalViews": 10899,
+  "totalViews": 10906,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2388,65 +2388,10 @@
     "182.8.131.85",
     "2a09:bac1:36c0:10::242:c7",
     "2409:40e6:18:765e:684f:90ff:fe64:35c0",
-    "152.59.33.234"
+    "152.59.33.234",
+    "2a09:bac5:3c93:1a46::29e:39"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2356777:1:1",
-      "title": "tt2356777:1:1",
-      "timestamp": "2026-01-11T05:51:41.913Z",
-      "ip": "110.235.225.65",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0096708:2:1",
-      "title": "tt0096708:2:1",
-      "timestamp": "2026-01-11T05:51:43.068Z",
-      "ip": "2400:74e0:0:174:3d68:de48:64a7:5722",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt27674982",
-      "title": "The Ballad of Wallis Island",
-      "timestamp": "2026-01-11T05:51:45.905Z",
-      "ip": "122.150.174.44",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0121955:4:9",
-      "title": "tt0121955:4:9",
-      "timestamp": "2026-01-11T05:51:46.164Z",
-      "ip": "2600:1700:75c1:3140:2c72:7f98:355f:e576",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0440981:1:1",
-      "title": "tt0440981:1:1",
-      "timestamp": "2026-01-11T05:52:17.996Z",
-      "ip": "147.45.177.161",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt12074628:3:3",
-      "title": "tt12074628:3:3",
-      "timestamp": "2026-01-11T05:52:25.587Z",
-      "ip": "186.108.170.38",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32477379",
-      "title": "tt32477379",
-      "timestamp": "2026-01-11T05:52:41.970Z",
-      "ip": "38.137.51.212",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt33049767:1:1",
@@ -82390,6 +82335,62 @@
       "timestamp": "2026-01-18T18:51:45.927Z",
       "ip": "2409:4052:dbf:2e57:1c0b:1779:dcf2:2304",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:2:5",
+      "title": "tt28102595:2:5",
+      "timestamp": "2026-01-18T19:02:03.391Z",
+      "ip": "103.181.65.117",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:2:5",
+      "title": "tt28102595:2:5",
+      "timestamp": "2026-01-18T19:02:03.439Z",
+      "ip": "103.181.65.117",
+      "username": "mutti9"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:2:6",
+      "title": "tt28102595:2:6",
+      "timestamp": "2026-01-18T19:02:42.907Z",
+      "ip": "103.181.65.117",
+      "username": "mutti9"
+    },
+    {
+      "type": "movie",
+      "id": "tt0816692",
+      "title": "Interstellar",
+      "timestamp": "2026-01-18T19:04:30.647Z",
+      "ip": "2a09:bac5:3c93:1a46::29e:39",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-18T19:05:08.713Z",
+      "ip": "76.119.235.176",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-18T19:06:21.590Z",
+      "ip": "76.119.235.176",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt22898462",
+      "title": "The Conjuring: Last Rites",
+      "timestamp": "2026-01-18T19:08:57.462Z",
+      "ip": "2401:4900:8fda:e871:3158:adbd:3bb8:dfc8",
+      "username": "ryuzaklo26"
     }
   ],
   "activeNow": {
@@ -83144,10 +83145,10 @@
     },
     "103.181.65.117": {
       "type": "series",
-      "id": "tt28102595:2:5",
-      "title": "tt28102595:2:5",
+      "id": "tt28102595:2:6",
+      "title": "tt28102595:2:6",
       "username": "mutti9",
-      "lastActive": 1768761416384
+      "lastActive": 1768762962907
     },
     "2401:4900:5f25:d0b6:6ca:9d8c:6152:348c": {
       "type": "series",
@@ -83564,10 +83565,10 @@
     },
     "76.119.235.176": {
       "type": "series",
-      "id": "tt30003786:4:3",
-      "title": "tt30003786:4:3",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
       "username": "anonymous",
-      "lastActive": 1768712633213
+      "lastActive": 1768763181590
     },
     "152.58.61.177": {
       "type": "movie",
@@ -84159,10 +84160,10 @@
     },
     "2401:4900:8fda:e871:3158:adbd:3bb8:dfc8": {
       "type": "movie",
-      "id": "tt6604188",
-      "title": "TRON: Ares",
+      "id": "tt22898462",
+      "title": "The Conjuring: Last Rites",
       "username": "ryuzaklo26",
-      "lastActive": 1768748746780
+      "lastActive": 1768763337462
     },
     "2a09:bac1:3680:1548::242:76": {
       "type": "movie",
@@ -84457,6 +84458,13 @@
       "title": "tt7587890:8:1",
       "username": "rahul_officialx",
       "lastActive": 1768761504146
+    },
+    "2a09:bac5:3c93:1a46::29e:39": {
+      "type": "movie",
+      "id": "tt0816692",
+      "title": "Interstellar",
+      "username": "switchoff009",
+      "lastActive": 1768763070647
     }
   }
 }
