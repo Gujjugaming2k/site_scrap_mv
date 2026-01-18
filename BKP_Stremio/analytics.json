@@ -1,5 +1,5 @@
 {
-  "totalViews": 10581,
+  "totalViews": 10584,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2339,33 +2339,10 @@
     "2401:4900:8820:8915:93d:bf21:58cc:ff54",
     "103.165.20.181",
     "2405:201:6820:a06d:bdef:55c1:5b2d:3408",
-    "2401:4900:88c5:1dfb:d404:7696:aba3:790"
+    "2401:4900:88c5:1dfb:d404:7696:aba3:790",
+    "103.249.4.60"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0423731:1:18",
-      "title": "tt0423731:1:18",
-      "timestamp": "2026-01-11T05:12:10.486Z",
-      "ip": "2a00:23c8:2160:8301:3d2d:b8ff:d640:70d5",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt31812476:1:6",
-      "title": "tt31812476:1:6",
-      "timestamp": "2026-01-11T05:12:13.726Z",
-      "ip": "175.107.221.126",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32423736",
-      "title": "tt32423736",
-      "timestamp": "2026-01-11T05:12:20.384Z",
-      "ip": "2001:4490:4e91:1c5b:787f:a10e:ec48:be9f",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt7587890:8:2",
@@ -82341,6 +82318,30 @@
       "timestamp": "2026-01-18T14:01:41.623Z",
       "ip": "103.175.168.106",
       "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:3:7",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-01-18T14:05:30.585Z",
+      "ip": "103.249.4.60",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:3:8",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-01-18T14:05:53.977Z",
+      "ip": "103.249.4.60",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:3:9",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-01-18T14:06:52.899Z",
+      "ip": "103.249.4.60",
+      "username": "tgh2r"
     }
   ],
   "activeNow": {
@@ -84044,6 +84045,13 @@
       "title": "tt35335046:1:1",
       "username": "baljeet_002",
       "lastActive": 1768744834733
+    },
+    "103.249.4.60": {
+      "type": "series",
+      "id": "tt13706018:3:9",
+      "title": "SPY x FAMILY",
+      "username": "tgh2r",
+      "lastActive": 1768745212899
     }
   }
 }
