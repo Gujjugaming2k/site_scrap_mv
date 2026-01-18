@@ -1,5 +1,5 @@
 {
-  "totalViews": 10962,
+  "totalViews": 10964,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2395,25 +2395,10 @@
     "2401:4900:851b:5a07:62c4:12af:5126:21dc",
     "2a06:c701:474f:e900:ec3c:c9c2:fbde:c618",
     "2a09:bac1:3680:120::29e:d5",
-    "154.254.210.90"
+    "154.254.210.90",
+    "49.204.16.76"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33244668",
-      "title": "tt33244668",
-      "timestamp": "2026-01-11T05:58:59.355Z",
-      "ip": "108.45.40.194",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "null:3:3",
-      "title": "null:3:3",
-      "timestamp": "2026-01-11T05:59:06.393Z",
-      "ip": "103.3.220.213",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt0170016",
@@ -82397,6 +82382,22 @@
       "timestamp": "2026-01-18T22:48:16.317Z",
       "ip": "162.247.55.241",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt5574490:6:7",
+      "title": "tt5574490:6:7",
+      "timestamp": "2026-01-18T22:51:44.053Z",
+      "ip": "154.208.49.96",
+      "username": "cutepupper"
+    },
+    {
+      "type": "movie",
+      "id": "tt10726604",
+      "title": "tt10726604",
+      "timestamp": "2026-01-18T23:02:28.958Z",
+      "ip": "49.204.16.76",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -83403,10 +83404,10 @@
     },
     "154.208.49.96": {
       "type": "series",
-      "id": "tt5574490:6:2",
-      "title": "tt5574490:6:2",
-      "username": "anonymous",
-      "lastActive": 1768688494208
+      "id": "tt5574490:6:7",
+      "title": "tt5574490:6:7",
+      "username": "cutepupper",
+      "lastActive": 1768776704053
     },
     "2401:4900:8820:8915:97cd:364f:6d84:cedb": {
       "type": "movie",
@@ -84520,6 +84521,13 @@
       "title": "tt0106677",
       "username": "anonymous",
       "lastActive": 1768775738795
+    },
+    "49.204.16.76": {
+      "type": "movie",
+      "id": "tt10726604",
+      "title": "tt10726604",
+      "username": "anonymous",
+      "lastActive": 1768777348958
     }
   }
 }
