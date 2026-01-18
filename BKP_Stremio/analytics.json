@@ -1,5 +1,5 @@
 {
-  "totalViews": 9938,
+  "totalViews": 9942,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2270,7 +2270,8 @@
     "2402:a00:10a:815f:f42a:ae4e:41c3:5c7",
     "193.142.201.177",
     "103.181.126.106",
-    "76.119.235.176"
+    "76.119.235.176",
+    "152.58.61.177"
   ],
   "views": [
     {
@@ -81766,6 +81767,38 @@
       "timestamp": "2026-01-18T03:54:48.876Z",
       "ip": "103.181.126.106",
       "username": "dilipc403"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:5",
+      "title": "tt30003786:4:5",
+      "timestamp": "2026-01-18T04:01:41.287Z",
+      "ip": "2409:40e4:10a6:bdb3:78e5:1a90:3c08:a675",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:4",
+      "title": "tt35335046:1:4",
+      "timestamp": "2026-01-18T04:06:34.552Z",
+      "ip": "103.181.126.106",
+      "username": "dilipc403"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:5",
+      "title": "tt35335046:1:5",
+      "timestamp": "2026-01-18T04:07:21.526Z",
+      "ip": "103.181.126.106",
+      "username": "dilipc403"
+    },
+    {
+      "type": "movie",
+      "id": "tt27425164",
+      "title": "tt27425164",
+      "timestamp": "2026-01-18T04:10:20.827Z",
+      "ip": "152.58.61.177",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -82890,11 +82923,11 @@
       "lastActive": 1768703340929
     },
     "2409:40e4:10a6:bdb3:78e5:1a90:3c08:a675": {
-      "type": "movie",
-      "id": "tt1386703",
-      "title": "tt1386703",
+      "type": "series",
+      "id": "tt30003786:4:5",
+      "title": "tt30003786:4:5",
       "username": "askchm",
-      "lastActive": 1768704484157
+      "lastActive": 1768708901287
     },
     "186.188.150.139": {
       "type": "movie",
@@ -82933,10 +82966,10 @@
     },
     "103.181.126.106": {
       "type": "series",
-      "id": "tt35335046:1:4",
-      "title": "tt35335046:1:4",
+      "id": "tt35335046:1:5",
+      "title": "tt35335046:1:5",
       "username": "dilipc403",
-      "lastActive": 1768708488876
+      "lastActive": 1768709241526
     },
     "76.119.235.176": {
       "type": "movie",
@@ -82944,6 +82977,13 @@
       "title": "tt28802657",
       "username": "anonymous",
       "lastActive": 1768708427630
+    },
+    "152.58.61.177": {
+      "type": "movie",
+      "id": "tt27425164",
+      "title": "tt27425164",
+      "username": "zealousninja",
+      "lastActive": 1768709420827
     }
   }
 }
