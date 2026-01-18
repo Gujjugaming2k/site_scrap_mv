@@ -1,5 +1,5 @@
 {
-  "totalViews": 10964,
+  "totalViews": 10965,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2399,14 +2399,6 @@
     "49.204.16.76"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0170016",
-      "title": "tt0170016",
-      "timestamp": "2026-01-11T05:59:36.344Z",
-      "ip": "103.255.37.15",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt11755260:5:4",
@@ -82398,6 +82390,14 @@
       "timestamp": "2026-01-18T23:02:28.958Z",
       "ip": "49.204.16.76",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:3:5",
+      "title": "tt3032476:3:5",
+      "timestamp": "2026-01-18T23:28:48.886Z",
+      "ip": "109.76.17.47",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -83607,10 +83607,10 @@
     },
     "109.76.17.47": {
       "type": "series",
-      "id": "tt3032476:3:1",
-      "title": "tt3032476:3:1",
+      "id": "tt3032476:3:5",
+      "title": "tt3032476:3:5",
       "username": "vflix1993",
-      "lastActive": 1768769811847
+      "lastActive": 1768778928886
     },
     "102.215.110.6": {
       "type": "series",
