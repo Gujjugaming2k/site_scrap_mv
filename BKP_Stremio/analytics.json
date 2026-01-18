@@ -1,5 +1,5 @@
 {
-  "totalViews": 10938,
+  "totalViews": 10942,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2391,41 +2391,10 @@
     "152.59.33.234",
     "2a09:bac5:3c93:1a46::29e:39",
     "2800:320:c0b2:cf00:2311:1f54:7407:75a6",
-    "212.39.104.76"
+    "212.39.104.76",
+    "2401:4900:851b:5a07:62c4:12af:5126:21dc"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt21874900:2:2",
-      "title": "tt21874900:2:2",
-      "timestamp": "2026-01-11T05:57:17.686Z",
-      "ip": "105.233.231.238",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt9095260:4:7",
-      "title": "tt9095260:4:7",
-      "timestamp": "2026-01-11T05:57:19.259Z",
-      "ip": "119.235.100.2",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt5421602:1:2",
-      "title": "tt5421602:1:2",
-      "timestamp": "2026-01-11T05:57:20.100Z",
-      "ip": "2001:e68:5454:1db6:e073:4b1:5df8:c54a",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0103772",
-      "title": "Basic Instinct",
-      "timestamp": "2026-01-11T05:57:20.616Z",
-      "ip": "45.251.6.84",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt4574334:5:4",
@@ -82393,6 +82362,38 @@
       "timestamp": "2026-01-18T20:37:23.742Z",
       "ip": "109.76.17.47",
       "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:3:1",
+      "title": "tt3032476:3:1",
+      "timestamp": "2026-01-18T20:44:32.905Z",
+      "ip": "109.76.17.47",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt37660537:1:1",
+      "title": "tt37660537:1:1",
+      "timestamp": "2026-01-18T20:49:31.882Z",
+      "ip": "2401:4900:851b:5a07:62c4:12af:5126:21dc",
+      "username": "aasimkhilji"
+    },
+    {
+      "type": "series",
+      "id": "tt37660537:1:2",
+      "title": "tt37660537:1:2",
+      "timestamp": "2026-01-18T20:49:57.783Z",
+      "ip": "2401:4900:851b:5a07:62c4:12af:5126:21dc",
+      "username": "aasimkhilji"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:3:1",
+      "title": "tt3032476:3:1",
+      "timestamp": "2026-01-18T20:56:51.847Z",
+      "ip": "109.76.17.47",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -83605,7 +83606,7 @@
       "id": "tt3032476:3:1",
       "title": "tt3032476:3:1",
       "username": "vflix1993",
-      "lastActive": 1768768643742
+      "lastActive": 1768769811847
     },
     "102.215.110.6": {
       "type": "series",
@@ -84481,6 +84482,13 @@
       "title": "tt1643266:1:1",
       "username": "anonymous",
       "lastActive": 1768765992661
+    },
+    "2401:4900:851b:5a07:62c4:12af:5126:21dc": {
+      "type": "series",
+      "id": "tt37660537:1:2",
+      "title": "tt37660537:1:2",
+      "username": "aasimkhilji",
+      "lastActive": 1768769397783
     }
   }
 }
