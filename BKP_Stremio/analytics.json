@@ -1,5 +1,5 @@
 {
-  "totalViews": 10225,
+  "totalViews": 10231,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2313,57 +2313,10 @@
     "2401:4900:5d24:44d6:346:851d:c3b3:6a14",
     "106.51.164.224",
     "185.45.15.35",
-    "2401:d002:a106:8800:4066:2d5f:a930:9995"
+    "2401:d002:a106:8800:4066:2d5f:a930:9995",
+    "2a09:bac5:3e73:16aa::242:c3"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0395584",
-      "title": "tt0395584",
-      "timestamp": "2026-01-11T03:32:22.379Z",
-      "ip": "103.46.200.103",
-      "username": "brosportses"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:4:2",
-      "title": "tt0903747:4:2",
-      "timestamp": "2026-01-11T03:40:44.750Z",
-      "ip": "2409:40e0:1001:954d:cdb1:a924:aa58:ee6c",
-      "username": "tejmani"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:4:3",
-      "title": "tt0903747:4:3",
-      "timestamp": "2026-01-11T03:41:01.093Z",
-      "ip": "2409:40e0:1001:954d:cdb1:a924:aa58:ee6c",
-      "username": "tejmani"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:4:2",
-      "title": "tt0903747:4:2",
-      "timestamp": "2026-01-11T03:41:51.391Z",
-      "ip": "2409:40e0:1001:954d:cdb1:a924:aa58:ee6c",
-      "username": "tejmani"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:4:2",
-      "title": "tt0903747:4:2",
-      "timestamp": "2026-01-11T03:43:15.864Z",
-      "ip": "2409:40e0:1001:954d:cdb1:a924:aa58:ee6c",
-      "username": "tejmani"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:4:3",
-      "title": "tt0903747:4:3",
-      "timestamp": "2026-01-11T03:43:16.643Z",
-      "ip": "2409:40e0:1001:954d:cdb1:a924:aa58:ee6c",
-      "username": "tejmani"
-    },
     {
       "type": "series",
       "id": "tt0903747:4:3",
@@ -82315,6 +82268,54 @@
       "timestamp": "2026-01-18T10:24:53.618Z",
       "ip": "116.68.79.147",
       "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt2768084",
+      "title": "tt2768084",
+      "timestamp": "2026-01-18T10:27:04.804Z",
+      "ip": "106.222.216.167",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "movie",
+      "id": "tt2768084",
+      "title": "tt2768084",
+      "timestamp": "2026-01-18T10:27:58.098Z",
+      "ip": "2a09:bac5:3e73:16aa::242:c3",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "movie",
+      "id": "tt29402528",
+      "title": "Doraemon the Movie: Nobita's Earth Symphony",
+      "timestamp": "2026-01-18T10:28:33.847Z",
+      "ip": "2a09:bac5:3e73:16aa::242:c3",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt28262653:1:3",
+      "title": "tt28262653:1:3",
+      "timestamp": "2026-01-18T10:31:17.990Z",
+      "ip": "47.15.116.134",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt10548174",
+      "title": "28 Years Later",
+      "timestamp": "2026-01-18T10:33:23.634Z",
+      "ip": "106.51.164.224",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt10548174",
+      "title": "28 Years Later",
+      "timestamp": "2026-01-18T10:33:23.681Z",
+      "ip": "106.51.164.224",
+      "username": "outuou"
     }
   ],
   "activeNow": {
@@ -83720,10 +83721,10 @@
     },
     "47.15.116.134": {
       "type": "series",
-      "id": "tt0773262:3:6",
-      "title": "tt0773262:3:6",
+      "id": "tt28262653:1:3",
+      "title": "tt28262653:1:3",
       "username": "demon18319",
-      "lastActive": 1768726726952
+      "lastActive": 1768732277990
     },
     "2a02:6ea0:d33b:6280::11": {
       "type": "movie",
@@ -83765,7 +83766,7 @@
       "id": "tt2768084",
       "title": "tt2768084",
       "username": "anonymous_rare",
-      "lastActive": 1768731855108
+      "lastActive": 1768732024804
     },
     "2409:40d0:1391:9e51:44bf:59ff:fe62:15c8": {
       "type": "movie",
@@ -83797,10 +83798,10 @@
     },
     "106.51.164.224": {
       "type": "movie",
-      "id": "tt0289043",
-      "title": "28 Days Later",
-      "username": "anonymous",
-      "lastActive": 1768731871769
+      "id": "tt10548174",
+      "title": "28 Years Later",
+      "username": "outuou",
+      "lastActive": 1768732403681
     },
     "185.45.15.35": {
       "type": "movie",
@@ -83822,6 +83823,13 @@
       "title": "tt36218322",
       "username": "anonymous",
       "lastActive": 1768731765536
+    },
+    "2a09:bac5:3e73:16aa::242:c3": {
+      "type": "movie",
+      "id": "tt29402528",
+      "title": "Doraemon the Movie: Nobita's Earth Symphony",
+      "username": "anonymous_rare",
+      "lastActive": 1768732113847
     }
   }
 }
