@@ -1,5 +1,5 @@
 {
-  "totalViews": 10992,
+  "totalViews": 10996,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2401,41 +2401,10 @@
     "182.69.183.164",
     "2a02:6ea0:e00a:2233::11",
     "2a09:bac1:36e0:188::29e:bf",
-    "2a09:bac5:3e72:1a8c::2a5:29"
+    "2a09:bac5:3e72:1a8c::2a5:29",
+    "47.15.115.41"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt38646949:1:1",
-      "title": "tt38646949:1:1",
-      "timestamp": "2026-01-11T06:02:17.295Z",
-      "ip": "14.1.186.118",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt38646949:1:1",
-      "title": "tt38646949:1:1",
-      "timestamp": "2026-01-11T06:02:19.684Z",
-      "ip": "14.1.186.118",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt12908084:1:1",
-      "title": "tt12908084:1:1",
-      "timestamp": "2026-01-11T06:02:21.530Z",
-      "ip": "69.50.231.43",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1839578:4:15",
-      "title": "tt1839578:4:15",
-      "timestamp": "2026-01-11T06:02:26.939Z",
-      "ip": "171.48.49.94",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt12343534:3:3",
@@ -82403,6 +82372,38 @@
       "timestamp": "2026-01-19T02:11:54.229Z",
       "ip": "106.222.216.167",
       "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-19T02:13:26.224Z",
+      "ip": "106.222.216.167",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-19T02:13:48.913Z",
+      "ip": "106.222.216.167",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-19T02:16:56.152Z",
+      "ip": "106.222.216.167",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "movie",
+      "id": "tt6604188",
+      "title": "TRON: Ares",
+      "timestamp": "2026-01-19T02:27:38.954Z",
+      "ip": "47.15.115.41",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -83850,10 +83851,10 @@
     },
     "106.222.216.167": {
       "type": "series",
-      "id": "tt10919420:3:4",
-      "title": "tt10919420:3:4",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
       "username": "anonymous_rare",
-      "lastActive": 1768788714229
+      "lastActive": 1768789016152
     },
     "2409:40d0:1391:9e51:44bf:59ff:fe62:15c8": {
       "type": "movie",
@@ -84568,6 +84569,13 @@
       "title": "tt10919420:3:1",
       "username": "anonymous_rare",
       "lastActive": 1768788548559
+    },
+    "47.15.115.41": {
+      "type": "movie",
+      "id": "tt6604188",
+      "title": "TRON: Ares",
+      "username": "demon18319",
+      "lastActive": 1768789658954
     }
   }
 }
