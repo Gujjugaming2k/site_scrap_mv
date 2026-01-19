@@ -1,5 +1,5 @@
 {
-  "totalViews": 11153,
+  "totalViews": 11156,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2447,30 +2447,6 @@
     "2401:4900:8516:f3a6::3c6b:432c"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
-      "timestamp": "2026-01-11T06:19:21.004Z",
-      "ip": "2409:40e7:62:14c4:8000::",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1226837",
-      "title": "tt1226837",
-      "timestamp": "2026-01-11T06:19:26.633Z",
-      "ip": "102.222.235.5",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "null:3:3",
-      "title": "null:3:3",
-      "timestamp": "2026-01-11T06:19:29.897Z",
-      "ip": "2401:4900:aa79:beed:689d:36d0:cb0c:40c",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt19244304:1:7",
@@ -82446,6 +82422,30 @@
       "timestamp": "2026-01-19T07:32:13.516Z",
       "ip": "103.170.53.195",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-19T07:37:36.435Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:2",
+      "title": "tt35335046:1:2",
+      "timestamp": "2026-01-19T07:39:32.962Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:1:8",
+      "title": "Lost",
+      "timestamp": "2026-01-19T07:50:36.435Z",
+      "ip": "116.68.79.147",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -82748,7 +82748,7 @@
       "id": "tt0411008:1:8",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1768804560385
+      "lastActive": 1768809036435
     },
     "139.5.196.103": {
       "type": "series",
@@ -82898,11 +82898,11 @@
       "lastActive": 1768717933084
     },
     "115.98.99.86": {
-      "type": "movie",
-      "id": "tt9664732",
-      "title": "tt9664732",
+      "type": "series",
+      "id": "tt35335046:1:2",
+      "title": "tt35335046:1:2",
       "username": "nothing_8888",
-      "lastActive": 1768717743680
+      "lastActive": 1768808372962
     },
     "152.59.161.131": {
       "type": "movie",
