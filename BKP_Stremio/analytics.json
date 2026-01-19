@@ -1,5 +1,5 @@
 {
-  "totalViews": 11400,
+  "totalViews": 11407,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2486,65 +2486,11 @@
     "2409:40e1:113e:e3ac:5931:25a4:5f22:b592",
     "2001:8f8:1d0c:1a95:7466:c3bc:e619:e4c6",
     "172.69.86.91,206.53.3.179",
-    "2a09:bac5:3c5a:1a46::29e:2b"
+    "2a09:bac5:3c5a:1a46::29e:2b",
+    "2409:40e4:10bb:7d84:78e5:1a90:3c08:a675",
+    "2409:40e0:11:35cb:3839:20ff:fe12:3f36"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:1:24",
-      "title": "Lost",
-      "timestamp": "2026-01-11T06:49:03.431Z",
-      "ip": "115.128.255.228",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0105958:3:16",
-      "title": "tt0105958:3:16",
-      "timestamp": "2026-01-11T06:49:06.788Z",
-      "ip": "2405:201:1020:12:b410:33:587b:c6af",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2741602:1:15",
-      "title": "tt2741602:1:15",
-      "timestamp": "2026-01-11T06:49:56.628Z",
-      "ip": "69.79.195.244",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32537226",
-      "title": "tt32537226",
-      "timestamp": "2026-01-11T06:50:00.732Z",
-      "ip": "154.47.30.15",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0898266:8:22",
-      "title": "tt0898266:8:22",
-      "timestamp": "2026-01-11T06:50:42.045Z",
-      "ip": "37.19.212.25",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt8740790:3:8",
-      "title": "tt8740790:3:8",
-      "timestamp": "2026-01-11T06:50:44.442Z",
-      "ip": "2601:8c0:e02:2d60:49cd:ec2d:7cf1:e4da",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt38948631",
-      "title": "tt38948631",
-      "timestamp": "2026-01-11T06:50:44.864Z",
-      "ip": "202.5.58.75",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt16227240:1:7",
@@ -82488,6 +82434,62 @@
       "timestamp": "2026-01-19T13:59:53.274Z",
       "ip": "2a09:bac5:3c5a:1a46::29e:2b",
       "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt9426210",
+      "title": "Weathering with You",
+      "timestamp": "2026-01-19T14:12:23.562Z",
+      "ip": "2409:40e4:10bb:7d84:78e5:1a90:3c08:a675",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt3718778:1:1",
+      "title": "tt3718778:1:1",
+      "timestamp": "2026-01-19T14:14:14.045Z",
+      "ip": "2409:40e0:11:35cb:3839:20ff:fe12:3f36",
+      "username": "eshan95g"
+    },
+    {
+      "type": "series",
+      "id": "tt3718778:1:1",
+      "title": "tt3718778:1:1",
+      "timestamp": "2026-01-19T14:14:14.134Z",
+      "ip": "2409:40e0:11:35cb:3839:20ff:fe12:3f36",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt9426210",
+      "title": "Weathering with You",
+      "timestamp": "2026-01-19T14:14:57.453Z",
+      "ip": "2409:40e4:10bb:7d84:78e5:1a90:3c08:a675",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt3718778:1:2",
+      "title": "tt3718778:1:2",
+      "timestamp": "2026-01-19T14:15:45.651Z",
+      "ip": "2409:40e0:11:35cb:3839:20ff:fe12:3f36",
+      "username": "eshan95g"
+    },
+    {
+      "type": "series",
+      "id": "tt0436992:1:1",
+      "title": "tt0436992:1:1",
+      "timestamp": "2026-01-19T14:16:48.756Z",
+      "ip": "2409:40e0:11:35cb:3839:20ff:fe12:3f36",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0436992:1:1",
+      "title": "tt0436992:1:1",
+      "timestamp": "2026-01-19T14:16:48.813Z",
+      "ip": "2409:40e0:11:35cb:3839:20ff:fe12:3f36",
+      "username": "eshan95g"
     }
   ],
   "activeNow": {
@@ -85325,6 +85327,20 @@
       "title": "tt2306299:1:1",
       "username": "switchoff009",
       "lastActive": 1768831193274
+    },
+    "2409:40e4:10bb:7d84:78e5:1a90:3c08:a675": {
+      "type": "movie",
+      "id": "tt9426210",
+      "title": "Weathering with You",
+      "username": "askchm",
+      "lastActive": 1768832097453
+    },
+    "2409:40e0:11:35cb:3839:20ff:fe12:3f36": {
+      "type": "series",
+      "id": "tt0436992:1:1",
+      "title": "tt0436992:1:1",
+      "username": "eshan95g",
+      "lastActive": 1768832208813
     }
   }
 }
