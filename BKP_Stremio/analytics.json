@@ -1,5 +1,5 @@
 {
-  "totalViews": 11663,
+  "totalViews": 11664,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2519,17 +2519,10 @@
     "2405:201:2033:841:65ca:a3fa:6c3e:f4b9",
     "103.181.65.40",
     "103.100.4.253",
-    "157.48.214.143"
+    "157.48.214.143",
+    "152.59.32.15"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt7587890:3:2",
-      "title": "tt7587890:3:2",
-      "timestamp": "2026-01-11T07:42:03.041Z",
-      "ip": "2600:8803:8700:29:42a0:b6d0:343a:9c13",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt4574334:4:8",
@@ -82521,6 +82514,14 @@
       "timestamp": "2026-01-19T19:14:29.676Z",
       "ip": "103.181.65.40",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt7587890:8:2",
+      "title": "tt7587890:8:2",
+      "timestamp": "2026-01-19T19:27:25.630Z",
+      "ip": "152.59.32.15",
+      "username": "rahul_officialx"
     }
   ],
   "activeNow": {
@@ -85617,6 +85618,13 @@
       "title": "tt15911108",
       "username": "golu_vk",
       "lastActive": 1768847087575
+    },
+    "152.59.32.15": {
+      "type": "series",
+      "id": "tt7587890:8:2",
+      "title": "tt7587890:8:2",
+      "username": "rahul_officialx",
+      "lastActive": 1768850845630
     }
   }
 }
