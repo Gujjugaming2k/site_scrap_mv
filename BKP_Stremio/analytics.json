@@ -1,5 +1,5 @@
 {
-  "totalViews": 11370,
+  "totalViews": 11376,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2475,57 +2475,10 @@
     "2401:4900:7db8:b73:4414:14ff:fe52:cbff",
     "2409:40e2:10df:dffe:dfc:b2eb:2e77:f98e",
     "150.107.212.194",
-    "2401:4900:8822:749a:713b:c2b8:e9d:9ab2"
+    "2401:4900:8822:749a:713b:c2b8:e9d:9ab2",
+    "103.24.85.218"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:5:8",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T06:42:51.736Z",
-      "ip": "67.220.74.9",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt5225712:1:3",
-      "title": "tt5225712:1:3",
-      "timestamp": "2026-01-11T06:42:52.989Z",
-      "ip": "196.191.221.13",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0111161",
-      "title": "The Shawshank Redemption",
-      "timestamp": "2026-01-11T06:43:02.090Z",
-      "ip": "202.173.124.127",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt33384856:1:9",
-      "title": "tt33384856:1:9",
-      "timestamp": "2026-01-11T06:43:15.378Z",
-      "ip": "134.128.218.217",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1442449:2:9",
-      "title": "tt1442449:2:9",
-      "timestamp": "2026-01-11T06:43:15.930Z",
-      "ip": "103.165.115.209",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0988824:2:488",
-      "title": "tt0988824:2:488",
-      "timestamp": "2026-01-11T06:43:18.021Z",
-      "ip": "2a00:23c8:9409:6101:b49d:b0cc:a9fe:bf81",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt5753856:1:9",
@@ -82477,6 +82430,54 @@
       "timestamp": "2026-01-19T12:13:20.576Z",
       "ip": "103.4.222.252",
       "username": "sexhabibi"
+    },
+    {
+      "type": "movie",
+      "id": "tt0471571",
+      "title": "tt0471571",
+      "timestamp": "2026-01-19T12:24:01.863Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt5057054:1:8",
+      "title": "tt5057054:1:8",
+      "timestamp": "2026-01-19T12:24:37.718Z",
+      "ip": "103.4.222.252",
+      "username": "sexhabibi"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:1:7",
+      "title": "Lost",
+      "timestamp": "2026-01-19T12:30:03.479Z",
+      "ip": "116.68.79.147",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:1:6",
+      "title": "Lost",
+      "timestamp": "2026-01-19T12:30:04.532Z",
+      "ip": "116.68.79.147",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:1:6",
+      "title": "Lost",
+      "timestamp": "2026-01-19T12:30:08.658Z",
+      "ip": "116.68.79.147",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:1:8",
+      "title": "Lost",
+      "timestamp": "2026-01-19T12:30:18.267Z",
+      "ip": "116.68.79.147",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -82776,10 +82777,10 @@
     },
     "116.68.79.147": {
       "type": "series",
-      "id": "tt0411008:1:9",
+      "id": "tt0411008:1:8",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1768809313933
+      "lastActive": 1768825818267
     },
     "139.5.196.103": {
       "type": "series",
@@ -85226,10 +85227,17 @@
     },
     "103.4.222.252": {
       "type": "series",
-      "id": "tt5057054:1:7",
-      "title": "tt5057054:1:7",
+      "id": "tt5057054:1:8",
+      "title": "tt5057054:1:8",
       "username": "sexhabibi",
-      "lastActive": 1768824800576
+      "lastActive": 1768825477718
+    },
+    "103.24.85.218": {
+      "type": "movie",
+      "id": "tt0471571",
+      "title": "tt0471571",
+      "username": "william097",
+      "lastActive": 1768825441863
     }
   }
 }
