@@ -1,5 +1,5 @@
 {
-  "totalViews": 10966,
+  "totalViews": 10967,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2396,17 +2396,10 @@
     "2a06:c701:474f:e900:ec3c:c9c2:fbde:c618",
     "2a09:bac1:3680:120::29e:d5",
     "154.254.210.90",
-    "49.204.16.76"
+    "49.204.16.76",
+    "178.147.149.18"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12908084:1:1",
-      "title": "tt12908084:1:1",
-      "timestamp": "2026-01-11T05:59:37.142Z",
-      "ip": "69.50.231.43",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt11143400",
@@ -82398,6 +82391,14 @@
       "timestamp": "2026-01-18T23:52:35.671Z",
       "ip": "162.247.55.241",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt10676052",
+      "title": "The Fantastic 4: First Steps",
+      "timestamp": "2026-01-19T00:12:23.311Z",
+      "ip": "178.147.149.18",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -84528,6 +84529,13 @@
       "title": "tt10726604",
       "username": "anonymous",
       "lastActive": 1768777348958
+    },
+    "178.147.149.18": {
+      "type": "movie",
+      "id": "tt10676052",
+      "title": "The Fantastic 4: First Steps",
+      "username": "anonymous",
+      "lastActive": 1768781543311
     }
   }
 }
