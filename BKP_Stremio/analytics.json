@@ -1,5 +1,5 @@
 {
-  "totalViews": 11108,
+  "totalViews": 11110,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2431,25 +2431,10 @@
     "2409:40d0:133d:3ec:8000::",
     "103.119.172.132",
     "2405:201:6025:a88d:f7dc:690d:cd4:1b64",
-    "2405:201:6820:a83c:3d28:2af3:e41f:b0a9"
+    "2405:201:6820:a83c:3d28:2af3:e41f:b0a9",
+    "109.76.254.115"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt3354222",
-      "title": "tt3354222",
-      "timestamp": "2026-01-11T06:14:24.993Z",
-      "ip": "2401:4900:1c97:7c1:77eb:728a:5524:9c3d",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt15484748",
-      "title": "tt15484748",
-      "timestamp": "2026-01-11T06:14:26.372Z",
-      "ip": "59.94.125.180",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt19767638:1:1",
@@ -82433,6 +82418,22 @@
       "timestamp": "2026-01-19T06:01:37.376Z",
       "ip": "103.119.172.132",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1433905",
+      "title": "tt1433905",
+      "timestamp": "2026-01-19T06:06:38.530Z",
+      "ip": "2409:40c4:13b:288b:28ee:35ff:fee8:a649",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-19T06:16:08.297Z",
+      "ip": "109.76.254.115",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -84775,11 +84776,11 @@
       "lastActive": 1768801093061
     },
     "2409:40c4:13b:288b:28ee:35ff:fee8:a649": {
-      "type": "series",
-      "id": "tt4574334:4:1",
-      "title": "Stranger Things",
+      "type": "movie",
+      "id": "tt1433905",
+      "title": "tt1433905",
       "username": "b1jju",
-      "lastActive": 1768801356775
+      "lastActive": 1768802798530
     },
     "2409:4091:a013:7648:38e1:b1bc:6323:330b": {
       "type": "series",
@@ -84815,6 +84816,13 @@
       "title": "tt27497448:1:1",
       "username": "demon18319",
       "lastActive": 1768802257606
+    },
+    "109.76.254.115": {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "username": "vflix1993",
+      "lastActive": 1768803368297
     }
   }
 }
