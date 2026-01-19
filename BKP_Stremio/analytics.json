@@ -1,5 +1,5 @@
 {
-  "totalViews": 10965,
+  "totalViews": 10966,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2399,14 +2399,6 @@
     "49.204.16.76"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt11755260:5:4",
-      "title": "tt11755260:5:4",
-      "timestamp": "2026-01-11T05:59:36.520Z",
-      "ip": "76.64.150.237",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt12908084:1:1",
@@ -82398,6 +82390,14 @@
       "timestamp": "2026-01-18T23:28:48.886Z",
       "ip": "109.76.17.47",
       "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt0993846",
+      "title": "The Wolf of Wall Street",
+      "timestamp": "2026-01-18T23:52:35.671Z",
+      "ip": "162.247.55.241",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -83421,7 +83421,7 @@
       "id": "tt0993846",
       "title": "The Wolf of Wall Street",
       "username": "anonymous",
-      "lastActive": 1768776496317
+      "lastActive": 1768780355671
     },
     "154.208.49.98": {
       "type": "series",
