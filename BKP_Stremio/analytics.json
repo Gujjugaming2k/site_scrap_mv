@@ -1,5 +1,5 @@
 {
-  "totalViews": 11445,
+  "totalViews": 11451,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2492,57 +2492,12 @@
     "2405:201:203e:b800:9d41:9645:fbff:4007",
     "2409:4080:be18:622a:eeab:737d:6a76:6e55",
     "94.204.241.103",
-    "2a09:bac5:40b3:1aaa::2a8:7b"
+    "2a09:bac5:40b3:1aaa::2a8:7b",
+    "41.104.98.59",
+    "14.96.13.220",
+    "202.142.105.208"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4508902:3:2",
-      "title": "tt4508902:3:2",
-      "timestamp": "2026-01-11T06:58:25.315Z",
-      "ip": "120.29.69.210",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt16156736:1:2",
-      "title": "tt16156736:1:2",
-      "timestamp": "2026-01-11T06:58:27.920Z",
-      "ip": "129.137.96.20",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt7772588:1:9",
-      "title": "tt7772588:1:9",
-      "timestamp": "2026-01-11T06:58:36.523Z",
-      "ip": "2606:6a40:3:7e16:8434:a8e2:986b:b5d2",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt38646634:1:1",
-      "title": "tt38646634:1:1",
-      "timestamp": "2026-01-11T06:58:40.366Z",
-      "ip": "27.125.246.166",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt9813792:3:9",
-      "title": "tt9813792:3:9",
-      "timestamp": "2026-01-11T06:59:07.505Z",
-      "ip": "152.58.24.199",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt7418578:1:4",
-      "title": "tt7418578:1:4",
-      "timestamp": "2026-01-11T07:00:06.012Z",
-      "ip": "60.53.35.251",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt36616410",
@@ -82494,6 +82449,54 @@
       "timestamp": "2026-01-19T15:20:57.464Z",
       "ip": "119.42.57.23",
       "username": "amit suryavanshi"
+    },
+    {
+      "type": "series",
+      "id": "tt1520211:9:9",
+      "title": "tt1520211:9:9",
+      "timestamp": "2026-01-19T15:24:07.246Z",
+      "ip": "41.104.98.59",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1520211:10:2",
+      "title": "tt1520211:10:2",
+      "timestamp": "2026-01-19T15:24:35.683Z",
+      "ip": "41.104.98.59",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0071800",
+      "title": "tt0071800",
+      "timestamp": "2026-01-19T15:25:03.649Z",
+      "ip": "119.42.57.23",
+      "username": "amit suryavanshi"
+    },
+    {
+      "type": "series",
+      "id": "tt5057054:2:1",
+      "title": "tt5057054:2:1",
+      "timestamp": "2026-01-19T15:27:02.002Z",
+      "ip": "14.96.13.220",
+      "username": "sexhabibi"
+    },
+    {
+      "type": "series",
+      "id": "tt32537124:1:24",
+      "title": "tt32537124:1:24",
+      "timestamp": "2026-01-19T15:35:45.795Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt10627720",
+      "title": "Ne Zha",
+      "timestamp": "2026-01-19T15:37:37.327Z",
+      "ip": "202.142.105.208",
+      "username": "nobody_ismy_name"
     }
   ],
   "activeNow": {
@@ -82800,10 +82803,10 @@
     },
     "139.5.196.103": {
       "type": "series",
-      "id": "tt32537124:1:23",
-      "title": "tt32537124:1:23",
+      "id": "tt32537124:1:24",
+      "title": "tt32537124:1:24",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768835588723
+      "lastActive": 1768836945795
     },
     "202.71.3.32": {
       "type": "series",
@@ -85386,7 +85389,28 @@
       "id": "tt0071800",
       "title": "tt0071800",
       "username": "amit suryavanshi",
-      "lastActive": 1768836057464
+      "lastActive": 1768836303649
+    },
+    "41.104.98.59": {
+      "type": "series",
+      "id": "tt1520211:10:2",
+      "title": "tt1520211:10:2",
+      "username": "anonymous",
+      "lastActive": 1768836275683
+    },
+    "14.96.13.220": {
+      "type": "series",
+      "id": "tt5057054:2:1",
+      "title": "tt5057054:2:1",
+      "username": "sexhabibi",
+      "lastActive": 1768836422002
+    },
+    "202.142.105.208": {
+      "type": "movie",
+      "id": "tt10627720",
+      "title": "Ne Zha",
+      "username": "nobody_ismy_name",
+      "lastActive": 1768837057327
     }
   }
 }
