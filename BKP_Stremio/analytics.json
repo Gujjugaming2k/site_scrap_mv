@@ -1,5 +1,5 @@
 {
-  "totalViews": 11718,
+  "totalViews": 11719,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2539,14 +2539,6 @@
     "154.254.217.249"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt24060892",
-      "title": "tt24060892",
-      "timestamp": "2026-01-11T07:58:03.739Z",
-      "ip": "27.6.114.125",
-      "username": "nothing_8888"
-    },
     {
       "type": "movie",
       "id": "tt12186586",
@@ -82538,6 +82530,14 @@
       "timestamp": "2026-01-19T23:37:26.878Z",
       "ip": "41.105.53.43",
       "username": "hkhhjj"
+    },
+    {
+      "type": "movie",
+      "id": "tt1527793",
+      "title": "No Other Choice",
+      "timestamp": "2026-01-19T23:49:48.051Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -83613,11 +83613,11 @@
       "lastActive": 1768696146310
     },
     "2405:201:6820:a83c:bdef:55c1:5b2d:3408": {
-      "type": "series",
-      "id": "tt0460649:3:11",
-      "title": "tt0460649:3:11",
+      "type": "movie",
+      "id": "tt1527793",
+      "title": "No Other Choice",
       "username": "demon18319",
-      "lastActive": 1768837620404
+      "lastActive": 1768866588051
     },
     "201.247.170.237": {
       "type": "series",
