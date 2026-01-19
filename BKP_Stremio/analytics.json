@@ -1,5 +1,5 @@
 {
-  "totalViews": 10971,
+  "totalViews": 10972,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2398,17 +2398,10 @@
     "154.254.210.90",
     "49.204.16.76",
     "178.147.149.18",
-    "182.69.183.164"
+    "182.69.183.164",
+    "2a02:6ea0:e00a:2233::11"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt9813792:1:10",
-      "title": "tt9813792:1:10",
-      "timestamp": "2026-01-11T06:00:41.979Z",
-      "ip": "180.190.7.93",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt38646949:1:1",
@@ -82400,6 +82393,14 @@
       "timestamp": "2026-01-19T01:18:05.376Z",
       "ip": "106.222.216.167",
       "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt14452776:1:4",
+      "title": "tt14452776:1:4",
+      "timestamp": "2026-01-19T01:40:43.240Z",
+      "ip": "2a02:6ea0:e00a:2233::11",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -84544,6 +84545,13 @@
       "title": "tt0903747:5:6",
       "username": "dillon_ka_shooter",
       "lastActive": 1768784492824
+    },
+    "2a02:6ea0:e00a:2233::11": {
+      "type": "series",
+      "id": "tt14452776:1:4",
+      "title": "tt14452776:1:4",
+      "username": "anonymous",
+      "lastActive": 1768786843240
     }
   }
 }
