@@ -1,5 +1,5 @@
 {
-  "totalViews": 11136,
+  "totalViews": 11142,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2440,57 +2440,11 @@
     "2409:40c1:31c4:c72c:a016:9aff:fe01:d5d7",
     "104.234.140.80",
     "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
-    "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72"
+    "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72",
+    "2401:4900:ba29:8ec9::2c38:7c28",
+    "103.170.53.195"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0096697:35:11",
-      "title": "tt0096697:35:11",
-      "timestamp": "2026-01-11T06:17:43.567Z",
-      "ip": "2600:4040:a543:bd00:dcd6:f59b:c75a:2daf",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2100976:12:3",
-      "title": "tt2100976:12:3",
-      "timestamp": "2026-01-11T06:17:47.600Z",
-      "ip": "2001:d08:e3:8184:79dc:faf2:e51c:1dbd",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:1:19",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-11T06:17:53.310Z",
-      "ip": "2401:4900:4e67:698b:ffab:4526:6092:4a1b",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt31974367:1:8",
-      "title": "tt31974367:1:8",
-      "timestamp": "2026-01-11T06:18:03.335Z",
-      "ip": "197.238.196.69",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2861424:4:7",
-      "title": "tt2861424:4:7",
-      "timestamp": "2026-01-11T06:18:20.145Z",
-      "ip": "142.197.73.66",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt35727678",
-      "title": "tt35727678",
-      "timestamp": "2026-01-11T06:18:20.648Z",
-      "ip": "181.197.11.6",
-      "username": "ymcine"
-    },
     {
       "type": "series",
       "id": "null:3:3",
@@ -82442,6 +82396,54 @@
       "timestamp": "2026-01-19T06:58:22.163Z",
       "ip": "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72",
       "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:2",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-19T07:06:46.189Z",
+      "ip": "2401:4900:ba29:8ec9::2c38:7c28",
+      "username": "baljeet_002"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:5",
+      "title": "tt30003786:4:5",
+      "timestamp": "2026-01-19T07:09:48.370Z",
+      "ip": "103.170.53.195",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:6",
+      "title": "tt30003786:4:6",
+      "timestamp": "2026-01-19T07:10:35.884Z",
+      "ip": "103.170.53.195",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:7",
+      "title": "tt30003786:4:7",
+      "timestamp": "2026-01-19T07:10:56.886Z",
+      "ip": "103.170.53.195",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:8",
+      "title": "tt30003786:4:8",
+      "timestamp": "2026-01-19T07:11:36.773Z",
+      "ip": "103.170.53.195",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt0453085",
+      "title": "tt0453085",
+      "timestamp": "2026-01-19T07:16:02.917Z",
+      "ip": "2409:40c1:31c4:c72c:a016:9aff:fe01:d5d7",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -84862,10 +84864,10 @@
     },
     "2409:40c1:31c4:c72c:a016:9aff:fe01:d5d7": {
       "type": "movie",
-      "id": "tt9765480",
-      "title": "tt9765480",
+      "id": "tt0453085",
+      "title": "tt0453085",
       "username": "anonymous",
-      "lastActive": 1768805026542
+      "lastActive": 1768806962917
     },
     "104.234.140.80": {
       "type": "movie",
@@ -84887,6 +84889,20 @@
       "title": "tt15911108",
       "username": "golu_vk",
       "lastActive": 1768805902163
+    },
+    "2401:4900:ba29:8ec9::2c38:7c28": {
+      "type": "series",
+      "id": "tt0944947:1:2",
+      "title": "Game of Thrones",
+      "username": "baljeet_002",
+      "lastActive": 1768806406189
+    },
+    "103.170.53.195": {
+      "type": "series",
+      "id": "tt30003786:4:8",
+      "title": "tt30003786:4:8",
+      "username": "gaendaswami",
+      "lastActive": 1768806696773
     }
   }
 }
