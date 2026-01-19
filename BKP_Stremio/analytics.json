@@ -1,5 +1,5 @@
 {
-  "totalViews": 11376,
+  "totalViews": 11381,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2476,49 +2476,10 @@
     "2409:40e2:10df:dffe:dfc:b2eb:2e77:f98e",
     "150.107.212.194",
     "2401:4900:8822:749a:713b:c2b8:e9d:9ab2",
-    "103.24.85.218"
+    "103.24.85.218",
+    "2401:4900:8822:749a:be46:61b0:22d3:d58c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt5753856:1:9",
-      "title": "tt5753856:1:9",
-      "timestamp": "2026-01-11T06:43:34.713Z",
-      "ip": "40.138.145.38",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0227972:28:3",
-      "title": "WWE SmackDown",
-      "timestamp": "2026-01-11T06:43:42.088Z",
-      "ip": "2400:74e0:13:1df6:ec81:2197:1ca4:81ee",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt6315750",
-      "title": "tt6315750",
-      "timestamp": "2026-01-11T06:43:52.998Z",
-      "ip": "38.43.101.255",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt3549044:1:8",
-      "title": "tt3549044:1:8",
-      "timestamp": "2026-01-11T06:44:00.258Z",
-      "ip": "2401:4900:be68:3764:c492:3aff:fe89:578f",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0076858",
-      "title": "tt0076858",
-      "timestamp": "2026-01-11T06:44:16.098Z",
-      "ip": "91.106.146.36",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt5225712:1:1",
@@ -82478,6 +82439,46 @@
       "timestamp": "2026-01-19T12:30:18.267Z",
       "ip": "116.68.79.147",
       "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:1:9",
+      "title": "Lost",
+      "timestamp": "2026-01-19T12:32:05.456Z",
+      "ip": "116.68.79.147",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:1:10",
+      "title": "Lost",
+      "timestamp": "2026-01-19T12:32:56.999Z",
+      "ip": "116.68.79.147",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt1300854",
+      "title": "Iron Man 3",
+      "timestamp": "2026-01-19T12:35:19.009Z",
+      "ip": "2401:4900:8822:749a:be46:61b0:22d3:d58c",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt32537124:1:20",
+      "title": "tt32537124:1:20",
+      "timestamp": "2026-01-19T12:36:40.500Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt32537124:1:19",
+      "title": "tt32537124:1:19",
+      "timestamp": "2026-01-19T12:36:40.590Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -82777,17 +82778,17 @@
     },
     "116.68.79.147": {
       "type": "series",
-      "id": "tt0411008:1:8",
+      "id": "tt0411008:1:10",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1768825818267
+      "lastActive": 1768825976999
     },
     "139.5.196.103": {
       "type": "series",
-      "id": "tt32537124:1:18",
-      "title": "tt32537124:1:18",
+      "id": "tt32537124:1:19",
+      "title": "tt32537124:1:19",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768814997020
+      "lastActive": 1768826200590
     },
     "202.71.3.32": {
       "type": "series",
@@ -85238,6 +85239,13 @@
       "title": "tt0471571",
       "username": "william097",
       "lastActive": 1768825441863
+    },
+    "2401:4900:8822:749a:be46:61b0:22d3:d58c": {
+      "type": "movie",
+      "id": "tt1300854",
+      "title": "Iron Man 3",
+      "username": "b1jju",
+      "lastActive": 1768826119009
     }
   }
 }
