@@ -1,5 +1,5 @@
 {
-  "totalViews": 11385,
+  "totalViews": 11387,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2480,25 +2480,11 @@
     "2401:4900:8822:749a:be46:61b0:22d3:d58c",
     "115.187.58.90",
     "2405:201:6820:a83c:7853:e82f:cb85:765a",
-    "2a09:bac5:3af0:1aa0::2a7:b0"
+    "2a09:bac5:3af0:1aa0::2a7:b0",
+    "2400:1a00:7b4c:192a:ba8f:1119:fc8f:9cb1",
+    "47.15.117.135"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt7441658:1:21",
-      "title": "tt7441658:1:21",
-      "timestamp": "2026-01-11T06:45:32.873Z",
-      "ip": "2001:569:52ef:c000:a5d0:a7fc:4035:f209",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0076858",
-      "title": "tt0076858",
-      "timestamp": "2026-01-11T06:45:48.857Z",
-      "ip": "91.106.146.36",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt12343534:1:4",
@@ -82482,6 +82468,22 @@
       "timestamp": "2026-01-19T13:11:03.794Z",
       "ip": "2a09:bac5:3af0:1aa0::2a7:b0",
       "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt2442560:1:1",
+      "title": "tt2442560:1:1",
+      "timestamp": "2026-01-19T13:27:00.149Z",
+      "ip": "2400:1a00:7b4c:192a:ba8f:1119:fc8f:9cb1",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt14142060",
+      "title": "tt14142060",
+      "timestamp": "2026-01-19T13:30:24.035Z",
+      "ip": "47.15.117.135",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -85277,6 +85279,20 @@
       "title": "Detective Conan",
       "username": "switchoff009",
       "lastActive": 1768828263794
+    },
+    "2400:1a00:7b4c:192a:ba8f:1119:fc8f:9cb1": {
+      "type": "series",
+      "id": "tt2442560:1:1",
+      "title": "tt2442560:1:1",
+      "username": "anonymous",
+      "lastActive": 1768829220149
+    },
+    "47.15.117.135": {
+      "type": "movie",
+      "id": "tt14142060",
+      "title": "tt14142060",
+      "username": "demon18319",
+      "lastActive": 1768829424035
     }
   }
 }
