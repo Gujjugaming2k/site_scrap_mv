@@ -1,5 +1,5 @@
 {
-  "totalViews": 11676,
+  "totalViews": 11681,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2525,49 +2525,12 @@
     "2409:40e5:1e:a1eb:28d0:3fff:fe0d:7ba4",
     "152.58.159.59",
     "2001:ac8:29:3d:ddc0:490b:8d1d:2cea",
-    "2401:4900:1c5e:97fc:c5b0:eb37:ae4f:f4"
+    "2401:4900:1c5e:97fc:c5b0:eb37:ae4f:f4",
+    "2a06:c701:474f:e900:997a:184c:b52f:1d13",
+    "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72,51.89.197.91",
+    "41.105.53.43"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0412142:4:11",
-      "title": "tt0412142:4:11",
-      "timestamp": "2026-01-11T07:45:39.570Z",
-      "ip": "2601:642:4c00:a5e9:dcbb:b1f4:f501:358d",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1196946:2:11",
-      "title": "tt1196946:2:11",
-      "timestamp": "2026-01-11T07:45:57.468Z",
-      "ip": "49.148.156.211",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0096697:0:1",
-      "title": "tt0096697:0:1",
-      "timestamp": "2026-01-11T07:46:04.510Z",
-      "ip": "197.184.117.10",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt26733325",
-      "title": "tt26733325",
-      "timestamp": "2026-01-11T07:46:18.581Z",
-      "ip": "2409:40e0:3f:cb68:e44e:215:9d89:5d1d",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt23790696",
-      "title": "tt23790696",
-      "timestamp": "2026-01-11T07:46:18.788Z",
-      "ip": "2405:201:200d:4126:38d0:bfd6:20a5:21f",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0096697:0:2",
@@ -82527,6 +82490,46 @@
       "timestamp": "2026-01-19T19:54:32.166Z",
       "ip": "2401:4900:1c5e:97fc:c5b0:eb37:ae4f:f4",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2365946:1:7",
+      "title": "tt2365946:1:7",
+      "timestamp": "2026-01-19T20:07:33.912Z",
+      "ip": "2a06:c701:474f:e900:997a:184c:b52f:1d13",
+      "username": "aviv"
+    },
+    {
+      "type": "series",
+      "id": "tt2365946:1:7",
+      "title": "tt2365946:1:7",
+      "timestamp": "2026-01-19T20:08:42.078Z",
+      "ip": "2a06:c701:474f:e900:997a:184c:b52f:1d13",
+      "username": "aviv"
+    },
+    {
+      "type": "series",
+      "id": "tt15576504:1:1",
+      "title": "tt15576504:1:1",
+      "timestamp": "2026-01-19T20:11:19.764Z",
+      "ip": "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt15576504:1:1",
+      "title": "tt15576504:1:1",
+      "timestamp": "2026-01-19T20:11:20.679Z",
+      "ip": "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72,51.89.197.91",
+      "username": "virat"
+    },
+    {
+      "type": "movie",
+      "id": "tt1615091",
+      "title": "tt1615091",
+      "timestamp": "2026-01-19T20:13:17.177Z",
+      "ip": "41.105.53.43",
+      "username": "hkhhjj"
     }
   ],
   "activeNow": {
@@ -84967,11 +84970,11 @@
       "lastActive": 1768823797487
     },
     "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72": {
-      "type": "movie",
-      "id": "tt15911108",
-      "title": "tt15911108",
+      "type": "series",
+      "id": "tt15576504:1:1",
+      "title": "tt15576504:1:1",
       "username": "golu_vk",
-      "lastActive": 1768805902163
+      "lastActive": 1768853479764
     },
     "2401:4900:ba29:8ec9::2c38:7c28": {
       "type": "series",
@@ -85665,6 +85668,27 @@
       "title": "tt31495504",
       "username": "anonymous",
       "lastActive": 1768852472166
+    },
+    "2a06:c701:474f:e900:997a:184c:b52f:1d13": {
+      "type": "series",
+      "id": "tt2365946:1:7",
+      "title": "tt2365946:1:7",
+      "username": "aviv",
+      "lastActive": 1768853322078
+    },
+    "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72,51.89.197.91": {
+      "type": "series",
+      "id": "tt15576504:1:1",
+      "title": "tt15576504:1:1",
+      "username": "virat",
+      "lastActive": 1768853480679
+    },
+    "41.105.53.43": {
+      "type": "movie",
+      "id": "tt1615091",
+      "title": "tt1615091",
+      "username": "hkhhjj",
+      "lastActive": 1768853597177
     }
   }
 }
