@@ -1,5 +1,5 @@
 {
-  "totalViews": 11382,
+  "totalViews": 11385,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2478,33 +2478,11 @@
     "2401:4900:8822:749a:713b:c2b8:e9d:9ab2",
     "103.24.85.218",
     "2401:4900:8822:749a:be46:61b0:22d3:d58c",
-    "115.187.58.90"
+    "115.187.58.90",
+    "2405:201:6820:a83c:7853:e82f:cb85:765a",
+    "2a09:bac5:3af0:1aa0::2a7:b0"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-01-11T06:45:02.818Z",
-      "ip": "125.166.9.167",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0096708:2:4",
-      "title": "tt0096708:2:4",
-      "timestamp": "2026-01-11T06:45:14.530Z",
-      "ip": "2400:74e0:0:174:3d68:de48:64a7:5722",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1119644:1:1",
-      "title": "tt1119644:1:1",
-      "timestamp": "2026-01-11T06:45:29.081Z",
-      "ip": "2001:8003:d86a:f500:581c:55e:65f:467",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt7441658:1:21",
@@ -82480,6 +82458,30 @@
       "timestamp": "2026-01-19T12:57:29.659Z",
       "ip": "115.187.58.90",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt22091076:2:9",
+      "title": "tt22091076:2:9",
+      "timestamp": "2026-01-19T13:06:49.689Z",
+      "ip": "49.36.217.235",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "timestamp": "2026-01-19T13:09:32.738Z",
+      "ip": "2405:201:6820:a83c:7853:e82f:cb85:765a",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt0131179:34:1",
+      "title": "Detective Conan",
+      "timestamp": "2026-01-19T13:11:03.794Z",
+      "ip": "2a09:bac5:3af0:1aa0::2a7:b0",
+      "username": "switchoff009"
     }
   ],
   "activeNow": {
@@ -85254,6 +85256,27 @@
       "title": "Snake in the Eagle's Shadow",
       "username": "anonymous",
       "lastActive": 1768827449659
+    },
+    "49.36.217.235": {
+      "type": "series",
+      "id": "tt22091076:2:9",
+      "title": "tt22091076:2:9",
+      "username": "demon18319",
+      "lastActive": 1768828009689
+    },
+    "2405:201:6820:a83c:7853:e82f:cb85:765a": {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "username": "demon18319",
+      "lastActive": 1768828172738
+    },
+    "2a09:bac5:3af0:1aa0::2a7:b0": {
+      "type": "series",
+      "id": "tt0131179:34:1",
+      "title": "Detective Conan",
+      "username": "switchoff009",
+      "lastActive": 1768828263794
     }
   }
 }
