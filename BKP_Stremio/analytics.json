@@ -1,5 +1,5 @@
 {
-  "totalViews": 11715,
+  "totalViews": 11716,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2539,14 +2539,6 @@
     "154.254.217.249"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27460245:1:1",
-      "title": "tt27460245:1:1",
-      "timestamp": "2026-01-11T07:57:29.771Z",
-      "ip": "102.117.73.138",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "null:1:0",
@@ -82538,6 +82530,14 @@
       "timestamp": "2026-01-19T23:03:00.118Z",
       "ip": "154.254.217.249",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:2:16",
+      "title": "tt0369179:2:16",
+      "timestamp": "2026-01-19T23:12:01.550Z",
+      "ip": "154.254.217.249",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -85763,10 +85763,10 @@
     },
     "154.254.217.249": {
       "type": "series",
-      "id": "tt0369179:2:15",
-      "title": "tt0369179:2:15",
+      "id": "tt0369179:2:16",
+      "title": "tt0369179:2:16",
       "username": "anonymous",
-      "lastActive": 1768863780118
+      "lastActive": 1768864321550
     }
   }
 }
