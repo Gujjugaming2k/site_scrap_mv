@@ -1,5 +1,5 @@
 {
-  "totalViews": 11063,
+  "totalViews": 11068,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2419,49 +2419,10 @@
     "2401:4900:8fe2:4c46:f813:2c06:e63a:9be7",
     "152.59.9.21",
     "2409:40c2:3144:92db:8000::",
-    "119.73.114.249"
+    "119.73.114.249",
+    "2409:40c1:10bf:8d13:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1839578:4:15",
-      "title": "tt1839578:4:15",
-      "timestamp": "2026-01-11T06:09:00.627Z",
-      "ip": "171.48.49.94",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1518542:1:1",
-      "title": "tt1518542:1:1",
-      "timestamp": "2026-01-11T06:09:17.363Z",
-      "ip": "103.39.127.59",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt36596644:1:6",
-      "title": "tt36596644:1:6",
-      "timestamp": "2026-01-11T06:09:30.855Z",
-      "ip": "2401:4900:88ad:767e:c14c:a5b8:a053:e842",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0121955:4:10",
-      "title": "tt0121955:4:10",
-      "timestamp": "2026-01-11T06:09:41.101Z",
-      "ip": "2600:1700:75c1:3140:2c72:7f98:355f:e576",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1196946:2:9",
-      "title": "tt1196946:2:9",
-      "timestamp": "2026-01-11T06:10:09.180Z",
-      "ip": "49.148.156.211",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt1839578:4:14",
@@ -82421,6 +82382,46 @@
       "timestamp": "2026-01-19T03:56:36.446Z",
       "ip": "119.73.114.249",
       "username": "itx_tj11"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:3",
+      "title": "tt31812476:2:3",
+      "timestamp": "2026-01-19T04:04:20.406Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:4",
+      "title": "tt31812476:2:4",
+      "timestamp": "2026-01-19T04:04:39.731Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-01-19T04:06:01.679Z",
+      "ip": "119.73.114.249",
+      "username": "itx_tj11"
+    },
+    {
+      "type": "series",
+      "id": "tt7587890:8:1",
+      "title": "tt7587890:8:1",
+      "timestamp": "2026-01-19T04:09:30.104Z",
+      "ip": "2409:40c1:10bf:8d13:8000::",
+      "username": "rahul_officialx"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:4",
+      "title": "tt31812476:2:4",
+      "timestamp": "2026-01-19T04:13:36.959Z",
+      "ip": "103.24.85.161",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -83525,10 +83526,10 @@
     },
     "103.24.85.161": {
       "type": "series",
-      "id": "tt31812476:2:3",
-      "title": "tt31812476:2:3",
+      "id": "tt31812476:2:4",
+      "title": "tt31812476:2:4",
       "username": "william097",
-      "lastActive": 1768792108194
+      "lastActive": 1768796016959
     },
     "82.132.246.128": {
       "type": "series",
@@ -84711,7 +84712,14 @@
       "id": "tt27497448:1:1",
       "title": "tt27497448:1:1",
       "username": "itx_tj11",
-      "lastActive": 1768794996446
+      "lastActive": 1768795561679
+    },
+    "2409:40c1:10bf:8d13:8000::": {
+      "type": "series",
+      "id": "tt7587890:8:1",
+      "title": "tt7587890:8:1",
+      "username": "rahul_officialx",
+      "lastActive": 1768795770104
     }
   }
 }
