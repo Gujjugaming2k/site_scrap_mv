@@ -1,5 +1,5 @@
 {
-  "totalViews": 11415,
+  "totalViews": 11419,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2490,41 +2490,10 @@
     "2409:40e4:10bb:7d84:78e5:1a90:3c08:a675",
     "2409:40e0:11:35cb:3839:20ff:fe12:3f36",
     "2405:201:203e:b800:9d41:9645:fbff:4007",
-    "2409:4080:be18:622a:eeab:737d:6a76:6e55"
+    "2409:4080:be18:622a:eeab:737d:6a76:6e55",
+    "94.204.241.103"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt36592690:1:11",
-      "title": "tt36592690:1:11",
-      "timestamp": "2026-01-11T06:54:01.051Z",
-      "ip": "103.150.68.120",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt36592690:1:13",
-      "title": "tt36592690:1:13",
-      "timestamp": "2026-01-11T06:54:04.973Z",
-      "ip": "103.150.68.120",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt36592690:1:12",
-      "title": "tt36592690:1:12",
-      "timestamp": "2026-01-11T06:54:05.087Z",
-      "ip": "103.150.68.120",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt36592690:1:11",
-      "title": "tt36592690:1:11",
-      "timestamp": "2026-01-11T06:54:06.679Z",
-      "ip": "103.150.68.120",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt36592690:1:10",
@@ -82492,6 +82461,38 @@
       "timestamp": "2026-01-19T14:32:24.640Z",
       "ip": "103.46.200.248",
       "username": "katdenningssss"
+    },
+    {
+      "type": "series",
+      "id": "tt2531336:2:3",
+      "title": "tt2531336:2:3",
+      "timestamp": "2026-01-19T14:38:24.429Z",
+      "ip": "2409:4080:be18:622a:eeab:737d:6a76:6e55",
+      "username": "surti_lala"
+    },
+    {
+      "type": "series",
+      "id": "tt32537124:1:22",
+      "title": "tt32537124:1:22",
+      "timestamp": "2026-01-19T14:50:14.900Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt12001534",
+      "title": "The Thursday Murder Club",
+      "timestamp": "2026-01-19T14:51:24.025Z",
+      "ip": "94.204.241.103",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt12001534",
+      "title": "The Thursday Murder Club",
+      "timestamp": "2026-01-19T14:51:39.356Z",
+      "ip": "94.204.241.103",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -82798,10 +82799,10 @@
     },
     "139.5.196.103": {
       "type": "series",
-      "id": "tt32537124:1:21",
-      "title": "tt32537124:1:21",
+      "id": "tt32537124:1:22",
+      "title": "tt32537124:1:22",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768832490599
+      "lastActive": 1768834214900
     },
     "202.71.3.32": {
       "type": "series",
@@ -85352,11 +85353,18 @@
       "lastActive": 1768832756740
     },
     "2409:4080:be18:622a:eeab:737d:6a76:6e55": {
-      "type": "movie",
-      "id": "tt18372308",
-      "title": "tt18372308",
+      "type": "series",
+      "id": "tt2531336:2:3",
+      "title": "tt2531336:2:3",
       "username": "surti_lala",
-      "lastActive": 1768833093132
+      "lastActive": 1768833504429
+    },
+    "94.204.241.103": {
+      "type": "movie",
+      "id": "tt12001534",
+      "title": "The Thursday Murder Club",
+      "username": "anonymous",
+      "lastActive": 1768834299356
     }
   }
 }
