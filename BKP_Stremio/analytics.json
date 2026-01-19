@@ -1,5 +1,5 @@
 {
-  "totalViews": 10970,
+  "totalViews": 10971,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2401,14 +2401,6 @@
     "182.69.183.164"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt22202452:1:4",
-      "title": "tt22202452:1:4",
-      "timestamp": "2026-01-11T06:00:40.272Z",
-      "ip": "2604:3d09:d7f:1600:a560:fa58:6213:47a1",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt9813792:1:10",
@@ -82400,6 +82392,14 @@
       "timestamp": "2026-01-19T01:01:32.824Z",
       "ip": "182.69.183.164",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt12374544:1:1",
+      "title": "tt12374544:1:1",
+      "timestamp": "2026-01-19T01:18:05.376Z",
+      "ip": "106.222.216.167",
+      "username": "anonymous_rare"
     }
   ],
   "activeNow": {
@@ -83846,11 +83846,11 @@
       "lastActive": 1768753101630
     },
     "106.222.216.167": {
-      "type": "movie",
-      "id": "tt29402528",
-      "title": "Doraemon the Movie: Nobita's Earth Symphony",
+      "type": "series",
+      "id": "tt12374544:1:1",
+      "title": "tt12374544:1:1",
       "username": "anonymous_rare",
-      "lastActive": 1768742046017
+      "lastActive": 1768785485376
     },
     "2409:40d0:1391:9e51:44bf:59ff:fe62:15c8": {
       "type": "movie",
