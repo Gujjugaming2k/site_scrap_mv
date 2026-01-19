@@ -1,5 +1,5 @@
 {
-  "totalViews": 10968,
+  "totalViews": 10970,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2397,25 +2397,10 @@
     "2a09:bac1:3680:120::29e:d5",
     "154.254.210.90",
     "49.204.16.76",
-    "178.147.149.18"
+    "178.147.149.18",
+    "182.69.183.164"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt3551096:2:16",
-      "title": "tt3551096:2:16",
-      "timestamp": "2026-01-11T05:59:51.789Z",
-      "ip": "122.150.174.229",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt36596644:1:19",
-      "title": "tt36596644:1:19",
-      "timestamp": "2026-01-11T05:59:59.992Z",
-      "ip": "2404:7c00:4b:9724:a9d5:369a:cde:ff2a",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt22202452:1:4",
@@ -82399,6 +82384,22 @@
       "timestamp": "2026-01-19T00:38:22.574Z",
       "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt6604188",
+      "title": "TRON: Ares",
+      "timestamp": "2026-01-19T00:58:09.978Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:6",
+      "title": "tt0903747:5:6",
+      "timestamp": "2026-01-19T01:01:32.824Z",
+      "ip": "182.69.183.164",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -83474,11 +83475,11 @@
       "lastActive": 1768696146310
     },
     "2405:201:6820:a83c:bdef:55c1:5b2d:3408": {
-      "type": "series",
-      "id": "tt33035373:1:1",
-      "title": "tt33035373:1:1",
+      "type": "movie",
+      "id": "tt6604188",
+      "title": "TRON: Ares",
       "username": "demon18319",
-      "lastActive": 1768783102574
+      "lastActive": 1768784289978
     },
     "201.247.170.237": {
       "type": "series",
@@ -84536,6 +84537,13 @@
       "title": "The Fantastic 4: First Steps",
       "username": "anonymous",
       "lastActive": 1768781543311
+    },
+    "182.69.183.164": {
+      "type": "series",
+      "id": "tt0903747:5:6",
+      "title": "tt0903747:5:6",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1768784492824
     }
   }
 }
