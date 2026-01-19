@@ -1,5 +1,5 @@
 {
-  "totalViews": 11684,
+  "totalViews": 11688,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2531,38 +2531,6 @@
     "41.105.53.43"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0335345",
-      "title": "The Passion of the Christ",
-      "timestamp": "2026-01-11T07:48:42.927Z",
-      "ip": "2405:201:e021:b147:4219:5852:bd62:9c3b",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
-      "timestamp": "2026-01-11T07:48:55.904Z",
-      "ip": "2409:40e7:62:14c4:8000::",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2442560:6:6",
-      "title": "tt2442560:6:6",
-      "timestamp": "2026-01-11T07:48:59.792Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt0120611",
-      "title": "Blade",
-      "timestamp": "2026-01-11T07:49:09.653Z",
-      "ip": "119.93.239.57",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0807832:1:14",
@@ -82530,6 +82498,38 @@
       "timestamp": "2026-01-19T20:31:15.290Z",
       "ip": "191.7.95.132",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:8:12",
+      "title": "tt0412142:8:12",
+      "timestamp": "2026-01-19T20:34:01.308Z",
+      "ip": "82.79.141.254",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0083642",
+      "title": "tt0083642",
+      "timestamp": "2026-01-19T20:36:00.779Z",
+      "ip": "162.247.55.241",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:8:14",
+      "title": "tt0412142:8:14",
+      "timestamp": "2026-01-19T20:36:19.608Z",
+      "ip": "82.79.141.254",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt5574490:6:10",
+      "title": "tt5574490:6:10",
+      "timestamp": "2026-01-19T20:37:13.433Z",
+      "ip": "154.208.49.96",
+      "username": "cutepupper"
     }
   ],
   "activeNow": {
@@ -83536,10 +83536,10 @@
     },
     "154.208.49.96": {
       "type": "series",
-      "id": "tt5574490:6:7",
-      "title": "tt5574490:6:7",
+      "id": "tt5574490:6:10",
+      "title": "tt5574490:6:10",
       "username": "cutepupper",
-      "lastActive": 1768776704053
+      "lastActive": 1768855033433
     },
     "2401:4900:8820:8915:97cd:364f:6d84:cedb": {
       "type": "movie",
@@ -83550,10 +83550,10 @@
     },
     "162.247.55.241": {
       "type": "movie",
-      "id": "tt0993846",
-      "title": "The Wolf of Wall Street",
+      "id": "tt0083642",
+      "title": "tt0083642",
       "username": "anonymous",
-      "lastActive": 1768780355671
+      "lastActive": 1768854960779
     },
     "154.208.49.98": {
       "type": "series",
@@ -85696,6 +85696,13 @@
       "title": "tt22740896",
       "username": "anonymous",
       "lastActive": 1768854675290
+    },
+    "82.79.141.254": {
+      "type": "series",
+      "id": "tt0412142:8:14",
+      "title": "tt0412142:8:14",
+      "username": "anonymous",
+      "lastActive": 1768854979608
     }
   }
 }
