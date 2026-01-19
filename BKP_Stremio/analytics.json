@@ -1,5 +1,5 @@
 {
-  "totalViews": 11127,
+  "totalViews": 11133,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2437,57 +2437,11 @@
     "2405:201:6002:506f:604b:afe4:1f34:f511",
     "49.43.112.249",
     "152.59.47.170",
-    "2409:40c1:31c4:c72c:a016:9aff:fe01:d5d7"
+    "2409:40c1:31c4:c72c:a016:9aff:fe01:d5d7",
+    "104.234.140.80",
+    "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt38589257:1:10",
-      "title": "tt38589257:1:10",
-      "timestamp": "2026-01-11T06:16:35.704Z",
-      "ip": "183.83.52.235",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt34610311",
-      "title": "The Shadow's Edge",
-      "timestamp": "2026-01-11T06:17:03.442Z",
-      "ip": "2402:a00:10a:815f:10ec:9314:827f:6dad",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt0088526:7:9",
-      "title": "tt0088526:7:9",
-      "timestamp": "2026-01-11T06:17:15.503Z",
-      "ip": "162.212.211.108",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt26443597",
-      "title": "tt26443597",
-      "timestamp": "2026-01-11T06:17:17.604Z",
-      "ip": "136.158.70.128",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt38690028:1:11",
-      "title": "tt38690028:1:11",
-      "timestamp": "2026-01-11T06:17:19.367Z",
-      "ip": "136.158.100.70",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt35727678",
-      "title": "tt35727678",
-      "timestamp": "2026-01-11T06:17:35.005Z",
-      "ip": "181.197.11.6",
-      "username": "ymcine"
-    },
     {
       "type": "series",
       "id": "tt4574334:4:8",
@@ -82439,6 +82393,54 @@
       "timestamp": "2026-01-19T06:36:00.385Z",
       "ip": "116.68.79.147",
       "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt0303068",
+      "title": "tt0303068",
+      "timestamp": "2026-01-19T06:37:08.803Z",
+      "ip": "2409:40c1:31c4:c72c:a016:9aff:fe01:d5d7",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "timestamp": "2026-01-19T06:39:21.998Z",
+      "ip": "104.234.140.80",
+      "username": "jinwoooooi"
+    },
+    {
+      "type": "movie",
+      "id": "tt0453085",
+      "title": "tt0453085",
+      "timestamp": "2026-01-19T06:43:07.948Z",
+      "ip": "2409:40c1:31c4:c72c:a016:9aff:fe01:d5d7",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt9765480",
+      "title": "tt9765480",
+      "timestamp": "2026-01-19T06:43:46.542Z",
+      "ip": "2409:40c1:31c4:c72c:a016:9aff:fe01:d5d7",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-19T06:43:58.641Z",
+      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-19T06:43:58.719Z",
+      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
+      "username": "nabakun"
     }
   ],
   "activeNow": {
@@ -84859,10 +84861,24 @@
     },
     "2409:40c1:31c4:c72c:a016:9aff:fe01:d5d7": {
       "type": "movie",
-      "id": "tt0100820",
-      "title": "tt0100820",
+      "id": "tt9765480",
+      "title": "tt9765480",
       "username": "anonymous",
-      "lastActive": 1768804505194
+      "lastActive": 1768805026542
+    },
+    "104.234.140.80": {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "username": "jinwoooooi",
+      "lastActive": 1768804761998
+    },
+    "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf": {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "username": "nabakun",
+      "lastActive": 1768805038719
     }
   }
 }
