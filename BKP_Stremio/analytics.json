@@ -1,5 +1,5 @@
 {
-  "totalViews": 11508,
+  "totalViews": 11515,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2504,65 +2504,10 @@
     "2409:40d2:3000:a4b4:8000::",
     "172.70.218.239,206.53.3.179",
     "110.224.172.64",
-    "2409:40d0:2c:d1ba:a4f4:dfff:fe47:1608"
+    "2409:40d0:2c:d1ba:a4f4:dfff:fe47:1608",
+    "2405:201:2022:b81c:c43a:cde0:a2e:5228"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "null",
-      "title": "null",
-      "timestamp": "2026-01-11T07:11:44.765Z",
-      "ip": "2600:4040:ac9d:b600:ce93:82ed:b2af:8059",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:2:2",
-      "title": "tt31938062:2:2",
-      "timestamp": "2026-01-11T07:12:00.813Z",
-      "ip": "2402:8780:104b:112a:c803:e7c6:2dff:e496",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt12074628:2:5",
-      "title": "tt12074628:2:5",
-      "timestamp": "2026-01-11T07:12:17.680Z",
-      "ip": "2600:4040:a543:bd00:dcd6:f59b:c75a:2daf",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt9169516:1:1",
-      "title": "tt9169516:1:1",
-      "timestamp": "2026-01-11T07:12:22.287Z",
-      "ip": "146.196.34.72",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt2358913",
-      "title": "Berserk: The Golden Age Arc III - The Advent",
-      "timestamp": "2026-01-11T07:12:28.667Z",
-      "ip": "209.101.24.25",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt7678620:2:1",
-      "title": "tt7678620:2:1",
-      "timestamp": "2026-01-11T07:12:33.144Z",
-      "ip": "185.251.120.21",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt29921437",
-      "title": "tt29921437",
-      "timestamp": "2026-01-11T07:12:38.668Z",
-      "ip": "2401:4900:1c38:5d57:a516:a6d3:81bb:97b9",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt16156736:1:3",
@@ -82506,6 +82451,62 @@
       "timestamp": "2026-01-19T16:36:48.476Z",
       "ip": "2409:40e4:10bb:7d84:7dbd:f95f:ec58:1d85",
       "username": "mu1ku"
+    },
+    {
+      "type": "movie",
+      "id": "tt8960382",
+      "title": "tt8960382",
+      "timestamp": "2026-01-19T16:38:44.144Z",
+      "ip": "2409:40e4:10bb:7d84:7dbd:f95f:ec58:1d85",
+      "username": "mu1ku"
+    },
+    {
+      "type": "movie",
+      "id": "tt10763820",
+      "title": "tt10763820",
+      "timestamp": "2026-01-19T16:40:54.762Z",
+      "ip": "182.77.75.100",
+      "username": "thebatmanbyte"
+    },
+    {
+      "type": "movie",
+      "id": "tt16428256",
+      "title": "Suzume",
+      "timestamp": "2026-01-19T16:43:36.341Z",
+      "ip": "2409:40e4:10bb:7d84:7dbd:f95f:ec58:1d85",
+      "username": "mu1ku"
+    },
+    {
+      "type": "movie",
+      "id": "tt2377938",
+      "title": "tt2377938",
+      "timestamp": "2026-01-19T16:51:25.537Z",
+      "ip": "182.69.183.164",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt2377938",
+      "title": "tt2377938",
+      "timestamp": "2026-01-19T16:51:37.766Z",
+      "ip": "182.69.183.164",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-01-19T16:52:27.719Z",
+      "ip": "2405:201:2022:b81c:c43a:cde0:a2e:5228",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt0078252",
+      "title": "Snake in the Eagle's Shadow",
+      "timestamp": "2026-01-19T16:53:54.344Z",
+      "ip": "115.187.58.90",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -84649,7 +84650,7 @@
       "id": "tt2377938",
       "title": "tt2377938",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768840055890
+      "lastActive": 1768841497766
     },
     "2a02:6ea0:e00a:2233::11": {
       "type": "series",
@@ -85192,10 +85193,10 @@
     },
     "182.77.75.100": {
       "type": "movie",
-      "id": "tt1694542",
-      "title": "tt1694542",
+      "id": "tt10763820",
+      "title": "tt10763820",
       "username": "thebatmanbyte",
-      "lastActive": 1768830468058
+      "lastActive": 1768840854762
     },
     "157.50.100.84": {
       "type": "movie",
@@ -85279,7 +85280,7 @@
       "id": "tt0078252",
       "title": "Snake in the Eagle's Shadow",
       "username": "anonymous",
-      "lastActive": 1768827449659
+      "lastActive": 1768841634344
     },
     "49.36.217.235": {
       "type": "series",
@@ -85451,10 +85452,10 @@
     },
     "2409:40e4:10bb:7d84:7dbd:f95f:ec58:1d85": {
       "type": "movie",
-      "id": "tt1375666",
-      "title": "Inception",
+      "id": "tt16428256",
+      "title": "Suzume",
       "username": "mu1ku",
-      "lastActive": 1768840608476
+      "lastActive": 1768841016341
     },
     "2409:40d2:3000:a4b4:8000::": {
       "type": "series",
@@ -85490,6 +85491,13 @@
       "title": "tt28549549",
       "username": "ymcine",
       "lastActive": 1768839634212
+    },
+    "2405:201:2022:b81c:c43a:cde0:a2e:5228": {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "username": "zealousninja",
+      "lastActive": 1768841547719
     }
   }
 }
