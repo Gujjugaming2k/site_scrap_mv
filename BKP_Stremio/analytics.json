@@ -1,5 +1,5 @@
 {
-  "totalViews": 11077,
+  "totalViews": 11082,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2423,49 +2423,10 @@
     "2409:40c1:10bf:8d13:8000::",
     "2409:40e4:27:3c9c:dd21:340f:d678:93c8",
     "103.250.161.250",
-    "81.17.122.167"
+    "81.17.122.167",
+    "2604:3d09:d7f:1600:5da2:a58:45c9:e5e2"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt29921437:1:1",
-      "title": "tt29921437:1:1",
-      "timestamp": "2026-01-11T06:10:59.233Z",
-      "ip": "2401:4900:7075:1c4d:a0f4:bdff:fe1c:d485",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "null:3:3",
-      "title": "null:3:3",
-      "timestamp": "2026-01-11T06:11:01.342Z",
-      "ip": "2401:4900:aa79:beed:689d:36d0:cb0c:40c",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0118480:9:13",
-      "title": "tt0118480:9:13",
-      "timestamp": "2026-01-11T06:11:07.453Z",
-      "ip": "2a02:c7c:888:bd00:4c23:c8cc:32e1:91ee",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt18259086",
-      "title": "Sonic the Hedgehog 3",
-      "timestamp": "2026-01-11T06:11:07.534Z",
-      "ip": "2a02:cb80:420c:a25c:b425:482a:a081:f6a0",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
-      "timestamp": "2026-01-11T06:11:15.815Z",
-      "ip": "149.154.161.235",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt8801708:1:1",
@@ -82425,6 +82386,46 @@
       "timestamp": "2026-01-19T05:19:32.633Z",
       "ip": "81.17.122.167",
       "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-01-19T05:23:21.129Z",
+      "ip": "81.17.122.167",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt1582519",
+      "title": "tt1582519",
+      "timestamp": "2026-01-19T05:24:11.760Z",
+      "ip": "71.179.184.52",
+      "username": "anupambabu_97"
+    },
+    {
+      "type": "series",
+      "id": "tt0182576:4:11",
+      "title": "tt0182576:4:11",
+      "timestamp": "2026-01-19T05:28:37.861Z",
+      "ip": "2604:3d09:d7f:1600:5da2:a58:45c9:e5e2",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1582519",
+      "title": "tt1582519",
+      "timestamp": "2026-01-19T05:31:11.348Z",
+      "ip": "71.179.184.52",
+      "username": "anupambabu_97"
+    },
+    {
+      "type": "movie",
+      "id": "tt28551273",
+      "title": "tt28551273",
+      "timestamp": "2026-01-19T05:32:49.305Z",
+      "ip": "71.179.184.52",
+      "username": "anupambabu_97"
     }
   ],
   "activeNow": {
@@ -84729,7 +84730,7 @@
       "id": "tt28551273",
       "title": "tt28551273",
       "username": "anupambabu_97",
-      "lastActive": 1768798849020
+      "lastActive": 1768800769305
     },
     "2409:40e4:27:3c9c:dd21:340f:d678:93c8": {
       "type": "series",
@@ -84747,10 +84748,17 @@
     },
     "81.17.122.167": {
       "type": "movie",
-      "id": "tt10872600",
-      "title": "Spider-Man: No Way Home",
+      "id": "tt1187043",
+      "title": "3 Idiots",
       "username": "b1jju",
-      "lastActive": 1768799972633
+      "lastActive": 1768800201129
+    },
+    "2604:3d09:d7f:1600:5da2:a58:45c9:e5e2": {
+      "type": "series",
+      "id": "tt0182576:4:11",
+      "title": "tt0182576:4:11",
+      "username": "anonymous",
+      "lastActive": 1768800517861
     }
   }
 }
