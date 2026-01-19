@@ -1,5 +1,5 @@
 {
-  "totalViews": 11073,
+  "totalViews": 11076,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2420,33 +2420,11 @@
     "152.59.9.21",
     "2409:40c2:3144:92db:8000::",
     "119.73.114.249",
-    "2409:40c1:10bf:8d13:8000::"
+    "2409:40c1:10bf:8d13:8000::",
+    "2409:40e4:27:3c9c:dd21:340f:d678:93c8",
+    "103.250.161.250"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
-      "timestamp": "2026-01-11T06:10:44.345Z",
-      "ip": "181.197.11.6",
-      "username": "ymcine"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:1:5",
-      "title": "tt31938062:1:5",
-      "timestamp": "2026-01-11T06:10:46.603Z",
-      "ip": "202.142.105.8",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "series",
-      "id": "tt11691774:3:5",
-      "title": "Only Murders in the Building",
-      "timestamp": "2026-01-11T06:10:49.733Z",
-      "ip": "94.202.95.5",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt1442449:2:6",
@@ -82422,6 +82400,30 @@
       "timestamp": "2026-01-19T05:00:49.020Z",
       "ip": "71.179.184.52",
       "username": "anupambabu_97"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:1:1",
+      "title": "tt31938062:1:1",
+      "timestamp": "2026-01-19T05:02:18.352Z",
+      "ip": "2409:40e4:27:3c9c:dd21:340f:d678:93c8",
+      "username": "golu_8340"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:1:2",
+      "title": "tt31938062:1:2",
+      "timestamp": "2026-01-19T05:03:06.646Z",
+      "ip": "2409:40e4:27:3c9c:dd21:340f:d678:93c8",
+      "username": "golu_8340"
+    },
+    {
+      "type": "series",
+      "id": "tt30293074:1:1",
+      "title": "tt30293074:1:1",
+      "timestamp": "2026-01-19T05:10:12.884Z",
+      "ip": "103.250.161.250",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -84727,6 +84729,20 @@
       "title": "tt28551273",
       "username": "anupambabu_97",
       "lastActive": 1768798849020
+    },
+    "2409:40e4:27:3c9c:dd21:340f:d678:93c8": {
+      "type": "series",
+      "id": "tt31938062:1:2",
+      "title": "tt31938062:1:2",
+      "username": "golu_8340",
+      "lastActive": 1768798986646
+    },
+    "103.250.161.250": {
+      "type": "series",
+      "id": "tt30293074:1:1",
+      "title": "tt30293074:1:1",
+      "username": "anonymous",
+      "lastActive": 1768799412884
     }
   }
 }
