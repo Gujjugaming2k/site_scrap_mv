@@ -1,5 +1,5 @@
 {
-  "totalViews": 11365,
+  "totalViews": 11370,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2473,49 +2473,11 @@
     "41.141.226.161",
     "2409:40e4:104b:a8e:c17:a3ff:fe02:894",
     "2401:4900:7db8:b73:4414:14ff:fe52:cbff",
-    "2409:40e2:10df:dffe:dfc:b2eb:2e77:f98e"
+    "2409:40e2:10df:dffe:dfc:b2eb:2e77:f98e",
+    "150.107.212.194",
+    "2401:4900:8822:749a:713b:c2b8:e9d:9ab2"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-11T06:41:59.134Z",
-      "ip": "103.220.204.16",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1196946:2:9",
-      "title": "tt1196946:2:9",
-      "timestamp": "2026-01-11T06:42:03.433Z",
-      "ip": "49.148.156.211",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T06:42:04.943Z",
-      "ip": "2402:a00:10a:815f:10ec:9314:827f:6dad",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt12074628:2:4",
-      "title": "tt12074628:2:4",
-      "timestamp": "2026-01-11T06:42:26.675Z",
-      "ip": "2600:4040:a543:bd00:dcd6:f59b:c75a:2daf",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1528406:1:3",
-      "title": "tt1528406:1:3",
-      "timestamp": "2026-01-11T06:42:36.068Z",
-      "ip": "116.68.101.247",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt4574334:5:8",
@@ -82475,6 +82437,46 @@
       "timestamp": "2026-01-19T11:59:57.373Z",
       "ip": "2409:40e2:10df:dffe:dfc:b2eb:2e77:f98e",
       "username": "johnwick"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:4",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-19T12:01:06.269Z",
+      "ip": "2401:4900:7db8:b73:4414:14ff:fe52:cbff",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt4712810",
+      "title": "tt4712810",
+      "timestamp": "2026-01-19T12:03:21.189Z",
+      "ip": "150.107.212.194",
+      "username": "abelboby"
+    },
+    {
+      "type": "movie",
+      "id": "tt6814252",
+      "title": "tt6814252",
+      "timestamp": "2026-01-19T12:04:33.295Z",
+      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8,2a09:bac5:37ac:26d2::3de:30",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-01-19T12:11:08.786Z",
+      "ip": "2401:4900:8822:749a:713b:c2b8:e9d:9ab2",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt5057054:1:7",
+      "title": "tt5057054:1:7",
+      "timestamp": "2026-01-19T12:13:20.576Z",
+      "ip": "103.4.222.252",
+      "username": "sexhabibi"
     }
   ],
   "activeNow": {
@@ -85014,10 +85016,10 @@
     },
     "2401:4900:8820:8915:c127:df19:fbc7:a3c8,2a09:bac5:37ac:26d2::3de:30": {
       "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
+      "id": "tt6814252",
+      "title": "tt6814252",
       "username": "anonymous_rare",
-      "lastActive": 1768822925739
+      "lastActive": 1768824273295
     },
     "154.18.196.102": {
       "type": "movie",
@@ -85196,10 +85198,10 @@
     },
     "2401:4900:7db8:b73:4414:14ff:fe52:cbff": {
       "type": "series",
-      "id": "tt1399664:2:4",
-      "title": "tt1399664:2:4",
+      "id": "tt4574334:5:4",
+      "title": "Stranger Things",
       "username": "chetan_b2",
-      "lastActive": 1768823950720
+      "lastActive": 1768824066269
     },
     "2409:40e2:10df:dffe:dfc:b2eb:2e77:f98e": {
       "type": "movie",
@@ -85207,6 +85209,27 @@
       "title": "tt31227572",
       "username": "johnwick",
       "lastActive": 1768823997373
+    },
+    "150.107.212.194": {
+      "type": "movie",
+      "id": "tt4712810",
+      "title": "tt4712810",
+      "username": "abelboby",
+      "lastActive": 1768824201189
+    },
+    "2401:4900:8822:749a:713b:c2b8:e9d:9ab2": {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "username": "b1jju",
+      "lastActive": 1768824668786
+    },
+    "103.4.222.252": {
+      "type": "series",
+      "id": "tt5057054:1:7",
+      "title": "tt5057054:1:7",
+      "username": "sexhabibi",
+      "lastActive": 1768824800576
     }
   }
 }
