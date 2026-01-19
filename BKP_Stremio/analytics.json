@@ -1,5 +1,5 @@
 {
-  "totalViews": 11142,
+  "totalViews": 11153,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2442,97 +2442,11 @@
     "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
     "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72",
     "2401:4900:ba29:8ec9::2c38:7c28",
-    "103.170.53.195"
+    "103.170.53.195",
+    "2401:4900:1f3a:6bcf:cdcf:c:15c0:a703",
+    "2401:4900:8516:f3a6::3c6b:432c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "null:3:3",
-      "title": "null:3:3",
-      "timestamp": "2026-01-11T06:18:20.898Z",
-      "ip": "2401:4900:aa79:beed:689d:36d0:cb0c:40c",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt33500164",
-      "title": "tt33500164",
-      "timestamp": "2026-01-11T06:18:29.121Z",
-      "ip": "2401:4900:62fb:2baf:e401:32ad:14a9:3f3f",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:4:7",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T06:18:37.135Z",
-      "ip": "2401:4900:be79:1719:7c30:e1ff:fe04:5438",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt22091076:1:1",
-      "title": "tt22091076:1:1",
-      "timestamp": "2026-01-11T06:18:46.081Z",
-      "ip": "180.191.20.160",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt14850054",
-      "title": "tt14850054",
-      "timestamp": "2026-01-11T06:18:48.634Z",
-      "ip": "2402:a00:10a:815f:10ec:9314:827f:6dad",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt19244304:1:5",
-      "title": "tt19244304:1:5",
-      "timestamp": "2026-01-11T06:18:51.416Z",
-      "ip": "2409:40f3:20c1:d15a:ada7:c820:3abe:337",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt10314450",
-      "title": "tt10314450",
-      "timestamp": "2026-01-11T06:19:00.946Z",
-      "ip": "175.107.221.58",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0898266:2:15",
-      "title": "tt0898266:2:15",
-      "timestamp": "2026-01-11T06:19:02.552Z",
-      "ip": "103.141.23.253",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt10192576:1:8",
-      "title": "tt10192576:1:8",
-      "timestamp": "2026-01-11T06:19:07.766Z",
-      "ip": "134.128.218.217",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt24060452:2:1",
-      "title": "tt24060452:2:1",
-      "timestamp": "2026-01-11T06:19:18.518Z",
-      "ip": "103.157.186.21",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt6263850",
-      "title": "tt6263850",
-      "timestamp": "2026-01-11T06:19:19.667Z",
-      "ip": "2409:40f3:20c2:8570:a9e9:8f26:8997:5c9c",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt32916440",
@@ -82444,6 +82358,94 @@
       "timestamp": "2026-01-19T07:16:02.917Z",
       "ip": "2409:40c1:31c4:c72c:a016:9aff:fe01:d5d7",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4236770:3:8",
+      "title": "tt4236770:3:8",
+      "timestamp": "2026-01-19T07:22:59.695Z",
+      "ip": "2401:4900:1f3a:6bcf:cdcf:c:15c0:a703",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4236770:3:7",
+      "title": "tt4236770:3:7",
+      "timestamp": "2026-01-19T07:24:01.288Z",
+      "ip": "2401:4900:1f3a:6bcf:cdcf:c:15c0:a703",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:9",
+      "title": "tt30003786:4:9",
+      "timestamp": "2026-01-19T07:27:25.182Z",
+      "ip": "103.170.53.195",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:5",
+      "title": "tt30003786:4:5",
+      "timestamp": "2026-01-19T07:27:34.063Z",
+      "ip": "103.170.53.195",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:6",
+      "title": "tt30003786:4:6",
+      "timestamp": "2026-01-19T07:28:03.790Z",
+      "ip": "103.170.53.195",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:7",
+      "title": "tt30003786:4:7",
+      "timestamp": "2026-01-19T07:28:39.529Z",
+      "ip": "103.170.53.195",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:8",
+      "title": "tt30003786:4:8",
+      "timestamp": "2026-01-19T07:28:53.234Z",
+      "ip": "103.170.53.195",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt4236770:3:9",
+      "title": "tt4236770:3:9",
+      "timestamp": "2026-01-19T07:29:38.966Z",
+      "ip": "2401:4900:1f3a:6bcf:cdcf:c:15c0:a703",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:9",
+      "title": "tt30003786:4:9",
+      "timestamp": "2026-01-19T07:30:02.634Z",
+      "ip": "103.170.53.195",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-19T07:30:10.818Z",
+      "ip": "2401:4900:8516:f3a6::3c6b:432c",
+      "username": "baljeet_002"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:9",
+      "title": "tt30003786:4:9",
+      "timestamp": "2026-01-19T07:32:13.516Z",
+      "ip": "103.170.53.195",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -84899,10 +84901,24 @@
     },
     "103.170.53.195": {
       "type": "series",
-      "id": "tt30003786:4:8",
-      "title": "tt30003786:4:8",
+      "id": "tt30003786:4:9",
+      "title": "tt30003786:4:9",
       "username": "gaendaswami",
-      "lastActive": 1768806696773
+      "lastActive": 1768807933516
+    },
+    "2401:4900:1f3a:6bcf:cdcf:c:15c0:a703": {
+      "type": "series",
+      "id": "tt4236770:3:9",
+      "title": "tt4236770:3:9",
+      "username": "anonymous",
+      "lastActive": 1768807778966
+    },
+    "2401:4900:8516:f3a6::3c6b:432c": {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "username": "baljeet_002",
+      "lastActive": 1768807810818
     }
   }
 }
