@@ -1,5 +1,5 @@
 {
-  "totalViews": 11076,
+  "totalViews": 11077,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2422,17 +2422,10 @@
     "119.73.114.249",
     "2409:40c1:10bf:8d13:8000::",
     "2409:40e4:27:3c9c:dd21:340f:d678:93c8",
-    "103.250.161.250"
+    "103.250.161.250",
+    "81.17.122.167"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1442449:2:6",
-      "title": "tt1442449:2:6",
-      "timestamp": "2026-01-11T06:10:50.796Z",
-      "ip": "103.165.115.209",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt29921437:1:1",
@@ -82424,6 +82417,14 @@
       "timestamp": "2026-01-19T05:10:12.884Z",
       "ip": "103.250.161.250",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt10872600",
+      "title": "Spider-Man: No Way Home",
+      "timestamp": "2026-01-19T05:19:32.633Z",
+      "ip": "81.17.122.167",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -84743,6 +84744,13 @@
       "title": "tt30293074:1:1",
       "username": "anonymous",
       "lastActive": 1768799412884
+    },
+    "81.17.122.167": {
+      "type": "movie",
+      "id": "tt10872600",
+      "title": "Spider-Man: No Way Home",
+      "username": "b1jju",
+      "lastActive": 1768799972633
     }
   }
 }
