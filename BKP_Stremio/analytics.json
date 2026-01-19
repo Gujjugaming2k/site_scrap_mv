@@ -1,5 +1,5 @@
 {
-  "totalViews": 11381,
+  "totalViews": 11382,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2477,17 +2477,10 @@
     "150.107.212.194",
     "2401:4900:8822:749a:713b:c2b8:e9d:9ab2",
     "103.24.85.218",
-    "2401:4900:8822:749a:be46:61b0:22d3:d58c"
+    "2401:4900:8822:749a:be46:61b0:22d3:d58c",
+    "115.187.58.90"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt5225712:1:1",
-      "title": "tt5225712:1:1",
-      "timestamp": "2026-01-11T06:44:33.942Z",
-      "ip": "196.191.221.13",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt31227572",
@@ -82479,6 +82472,14 @@
       "timestamp": "2026-01-19T12:36:40.590Z",
       "ip": "139.5.196.103",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt0078252",
+      "title": "Snake in the Eagle's Shadow",
+      "timestamp": "2026-01-19T12:57:29.659Z",
+      "ip": "115.187.58.90",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -85246,6 +85247,13 @@
       "title": "Iron Man 3",
       "username": "b1jju",
       "lastActive": 1768826119009
+    },
+    "115.187.58.90": {
+      "type": "movie",
+      "id": "tt0078252",
+      "title": "Snake in the Eagle's Shadow",
+      "username": "anonymous",
+      "lastActive": 1768827449659
     }
   }
 }
