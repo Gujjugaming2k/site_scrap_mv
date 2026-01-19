@@ -1,5 +1,5 @@
 {
-  "totalViews": 11053,
+  "totalViews": 11055,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2413,25 +2413,11 @@
     "2a09:bac5:3e74:1aa0::2a7:f,2a09:bac5:37ac:26d2::3de:30",
     "2409:40e0:105d:35d1:ac08:8bff:feec:8edb",
     "106.222.216.167,2a09:bac5:37ac:26d2::3de:30",
-    "106.222.216.167,88.198.59.150"
+    "106.222.216.167,88.198.59.150",
+    "2409:40c0:2c:751a:e868:bff:fe7f:144f",
+    "2401:4900:7dda:ef66:c499:eff:fefc:bd78"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31495504",
-      "title": "tt31495504",
-      "timestamp": "2026-01-11T06:08:05.913Z",
-      "ip": "202.142.105.8",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "series",
-      "id": "tt21606344:1:1",
-      "title": "tt21606344:1:1",
-      "timestamp": "2026-01-11T06:08:07.324Z",
-      "ip": "2405:201:200d:4126:38d0:bfd6:20a5:21f",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt9288030:2:5",
@@ -82415,6 +82401,22 @@
       "timestamp": "2026-01-19T03:08:28.194Z",
       "ip": "103.24.85.161",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt27263807",
+      "title": "tt27263807",
+      "timestamp": "2026-01-19T03:27:56.120Z",
+      "ip": "2409:40c0:2c:751a:e868:bff:fe7f:144f",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt27263807",
+      "title": "tt27263807",
+      "timestamp": "2026-01-19T03:28:48.473Z",
+      "ip": "2401:4900:7dda:ef66:c499:eff:fefc:bd78",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -84664,6 +84666,20 @@
       "title": "Stranger Things",
       "username": "anonymous_rare",
       "lastActive": 1768791104380
+    },
+    "2409:40c0:2c:751a:e868:bff:fe7f:144f": {
+      "type": "movie",
+      "id": "tt27263807",
+      "title": "tt27263807",
+      "username": "anonymous",
+      "lastActive": 1768793276120
+    },
+    "2401:4900:7dda:ef66:c499:eff:fefc:bd78": {
+      "type": "movie",
+      "id": "tt27263807",
+      "title": "tt27263807",
+      "username": "anonymous",
+      "lastActive": 1768793328473
     }
   }
 }
