@@ -1,5 +1,5 @@
 {
-  "totalViews": 11133,
+  "totalViews": 11136,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2439,33 +2439,10 @@
     "152.59.47.170",
     "2409:40c1:31c4:c72c:a016:9aff:fe01:d5d7",
     "104.234.140.80",
-    "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf"
+    "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
+    "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:4:8",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T06:17:38.315Z",
-      "ip": "2401:4900:be79:1719:7c30:e1ff:fe04:5438",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2100976:12:9",
-      "title": "tt2100976:12:9",
-      "timestamp": "2026-01-11T06:17:41.298Z",
-      "ip": "2001:d08:e3:8184:79dc:faf2:e51c:1dbd",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "null:3:3",
-      "title": "null:3:3",
-      "timestamp": "2026-01-11T06:17:42.351Z",
-      "ip": "2401:4900:aa79:beed:689d:36d0:cb0c:40c",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0096697:35:11",
@@ -82441,6 +82418,30 @@
       "timestamp": "2026-01-19T06:43:58.719Z",
       "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
       "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt0434409",
+      "title": "V for Vendetta",
+      "timestamp": "2026-01-19T06:57:09.194Z",
+      "ip": "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt0468569",
+      "title": "The Dark Knight",
+      "timestamp": "2026-01-19T06:57:16.679Z",
+      "ip": "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt15911108",
+      "title": "tt15911108",
+      "timestamp": "2026-01-19T06:58:22.163Z",
+      "ip": "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72",
+      "username": "golu_vk"
     }
   ],
   "activeNow": {
@@ -84879,6 +84880,13 @@
       "title": "tt32642706",
       "username": "nabakun",
       "lastActive": 1768805038719
+    },
+    "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72": {
+      "type": "movie",
+      "id": "tt15911108",
+      "title": "tt15911108",
+      "username": "golu_vk",
+      "lastActive": 1768805902163
     }
   }
 }
