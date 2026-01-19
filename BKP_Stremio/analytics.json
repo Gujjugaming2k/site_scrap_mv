@@ -1,5 +1,5 @@
 {
-  "totalViews": 10967,
+  "totalViews": 10968,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2400,14 +2400,6 @@
     "178.147.149.18"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt11143400",
-      "title": "tt11143400",
-      "timestamp": "2026-01-11T05:59:46.641Z",
-      "ip": "2a00:7c80:0:3bd::11",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt3551096:2:16",
@@ -82399,6 +82391,14 @@
       "timestamp": "2026-01-19T00:12:23.311Z",
       "ip": "178.147.149.18",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
+      "timestamp": "2026-01-19T00:38:22.574Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -83474,11 +83474,11 @@
       "lastActive": 1768696146310
     },
     "2405:201:6820:a83c:bdef:55c1:5b2d:3408": {
-      "type": "movie",
-      "id": "tt6604188",
-      "title": "TRON: Ares",
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
       "username": "demon18319",
-      "lastActive": 1768750769695
+      "lastActive": 1768783102574
     },
     "201.247.170.237": {
       "type": "series",
