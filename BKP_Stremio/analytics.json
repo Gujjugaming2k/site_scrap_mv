@@ -1,5 +1,5 @@
 {
-  "totalViews": 11060,
+  "totalViews": 11063,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2416,33 +2416,12 @@
     "106.222.216.167,88.198.59.150",
     "2409:40c0:2c:751a:e868:bff:fe7f:144f",
     "2401:4900:7dda:ef66:c499:eff:fefc:bd78",
-    "2401:4900:8fe2:4c46:f813:2c06:e63a:9be7"
+    "2401:4900:8fe2:4c46:f813:2c06:e63a:9be7",
+    "152.59.9.21",
+    "2409:40c2:3144:92db:8000::",
+    "119.73.114.249"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt13542714:1:2",
-      "title": "House of Guinness",
-      "timestamp": "2026-01-11T06:08:35.638Z",
-      "ip": "149.88.24.154",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1884856:8:4",
-      "title": "tt1884856:8:4",
-      "timestamp": "2026-01-11T06:08:48.438Z",
-      "ip": "175.107.221.157",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1502712",
-      "title": "Fantastic Four",
-      "timestamp": "2026-01-11T06:08:50.793Z",
-      "ip": "2401:4900:88d7:8de1:fd12:b8d9:6d28:1fc5",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt1839578:4:15",
@@ -82418,6 +82397,30 @@
       "timestamp": "2026-01-19T03:36:39.175Z",
       "ip": "2401:4900:8fe2:4c46:f813:2c06:e63a:9be7",
       "username": "ashwanileon"
+    },
+    {
+      "type": "series",
+      "id": "tt8253044:1:3",
+      "title": "tt8253044:1:3",
+      "timestamp": "2026-01-19T03:48:02.920Z",
+      "ip": "152.59.9.21",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt8253044:1:3",
+      "title": "tt8253044:1:3",
+      "timestamp": "2026-01-19T03:48:31.818Z",
+      "ip": "2409:40c2:3144:92db:8000::",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-01-19T03:56:36.446Z",
+      "ip": "119.73.114.249",
+      "username": "itx_tj11"
     }
   ],
   "activeNow": {
@@ -84688,6 +84691,27 @@
       "title": "tt14107334",
       "username": "ashwanileon",
       "lastActive": 1768793799175
+    },
+    "152.59.9.21": {
+      "type": "series",
+      "id": "tt8253044:1:3",
+      "title": "tt8253044:1:3",
+      "username": "anonymous",
+      "lastActive": 1768794482920
+    },
+    "2409:40c2:3144:92db:8000::": {
+      "type": "series",
+      "id": "tt8253044:1:3",
+      "title": "tt8253044:1:3",
+      "username": "anonymous",
+      "lastActive": 1768794511818
+    },
+    "119.73.114.249": {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "username": "itx_tj11",
+      "lastActive": 1768794996446
     }
   }
 }
