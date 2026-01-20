@@ -1,5 +1,5 @@
 {
-  "totalViews": 11899,
+  "totalViews": 11903,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2560,38 +2560,6 @@
     "109.76.234.195"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt20969586",
-      "title": "Thunderbolts*",
-      "timestamp": "2026-01-11T08:55:47.490Z",
-      "ip": "182.77.79.67",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt10872600",
-      "title": "Spider-Man: No Way Home",
-      "timestamp": "2026-01-11T08:55:57.284Z",
-      "ip": "2409:40d0:1036:5e19:8000::",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "null",
-      "title": "null",
-      "timestamp": "2026-01-11T08:56:23.530Z",
-      "ip": "2405:201:d007:d07f:4f8a:248e:cbbc:2f14",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt36593026:1:6",
-      "title": "tt36593026:1:6",
-      "timestamp": "2026-01-11T08:56:29.840Z",
-      "ip": "2001:448a:10f0:6353:f071:1b2b:2e5a:4d3a",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt12343534:3:2",
@@ -82559,6 +82527,38 @@
       "timestamp": "2026-01-20T05:51:52.987Z",
       "ip": "109.76.234.195",
       "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "timestamp": "2026-01-20T05:55:48.090Z",
+      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
+      "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "timestamp": "2026-01-20T05:55:48.174Z",
+      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:1:2",
+      "title": "The Boys",
+      "timestamp": "2026-01-20T06:06:12.075Z",
+      "ip": "27.60.5.97",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:1:2",
+      "title": "The Boys",
+      "timestamp": "2026-01-20T06:07:28.984Z",
+      "ip": "27.60.5.97",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -84993,10 +84993,10 @@
     },
     "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf": {
       "type": "movie",
-      "id": "tt11032374",
-      "title": "tt11032374",
-      "username": "nabakun",
-      "lastActive": 1768886575904
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "username": "nabakun24",
+      "lastActive": 1768888548174
     },
     "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72": {
       "type": "series",
@@ -85917,10 +85917,10 @@
     },
     "27.60.5.97": {
       "type": "series",
-      "id": "tt1190634:1:1",
+      "id": "tt1190634:1:2",
       "title": "The Boys",
       "username": "b1jju",
-      "lastActive": 1768887312912
+      "lastActive": 1768889248984
     },
     "2604:3d09:d7f:1600:4125:1d66:8607:dbea": {
       "type": "series",
