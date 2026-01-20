@@ -1,5 +1,5 @@
 {
-  "totalViews": 11732,
+  "totalViews": 11738,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2539,57 +2539,10 @@
     "154.254.217.249",
     "197.146.252.12",
     "2401:4900:8822:749a:f0a8:a04:2cef:f908",
-    "106.222.215.46"
+    "106.222.215.46",
+    "177.239.211.228"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt16311594",
-      "title": "F1",
-      "timestamp": "2026-01-11T08:05:09.199Z",
-      "ip": "2405:201:500c:496b:3f25:225f:2214:94ef",
-      "username": "shadowbhaiii"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:4:8",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T08:05:35.271Z",
-      "ip": "2401:4900:be79:1719:7c30:e1ff:fe04:5438",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt10324164:1:4",
-      "title": "Prehistoric Planet",
-      "timestamp": "2026-01-11T08:05:35.414Z",
-      "ip": "182.253.251.113",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1720601:10:2",
-      "title": "tt1720601:10:2",
-      "timestamp": "2026-01-11T08:05:36.988Z",
-      "ip": "31.215.92.59",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt8740790:4:1",
-      "title": "tt8740790:4:1",
-      "timestamp": "2026-01-11T08:05:38.592Z",
-      "ip": "2601:8c0:e02:2d60:49cd:ec2d:7cf1:e4da",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0472954:12:1",
-      "title": "tt0472954:12:1",
-      "timestamp": "2026-01-11T08:05:44.048Z",
-      "ip": "24.18.25.174",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt24068064",
@@ -82541,6 +82494,54 @@
       "timestamp": "2026-01-20T00:52:42.392Z",
       "ip": "182.69.183.164",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt33028778",
+      "title": "tt33028778",
+      "timestamp": "2026-01-20T01:01:23.738Z",
+      "ip": "177.239.211.228",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt14905854",
+      "title": "tt14905854",
+      "timestamp": "2026-01-20T01:03:37.748Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt14905854",
+      "title": "tt14905854",
+      "timestamp": "2026-01-20T01:04:41.835Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt0147800",
+      "title": "10 Things I Hate About You",
+      "timestamp": "2026-01-20T01:06:41.914Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt1300854",
+      "title": "Iron Man 3",
+      "timestamp": "2026-01-20T01:12:11.774Z",
+      "ip": "106.222.215.46",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt0156887",
+      "title": "tt0156887",
+      "timestamp": "2026-01-20T01:12:12.016Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -83617,10 +83618,10 @@
     },
     "2405:201:6820:a83c:bdef:55c1:5b2d:3408": {
       "type": "movie",
-      "id": "tt1527793",
-      "title": "No Other Choice",
+      "id": "tt0156887",
+      "title": "tt0156887",
       "username": "demon18319",
-      "lastActive": 1768866588051
+      "lastActive": 1768871532016
     },
     "201.247.170.237": {
       "type": "series",
@@ -85786,11 +85787,18 @@
       "lastActive": 1768868619450
     },
     "106.222.215.46": {
-      "type": "series",
-      "id": "tt27497448:1:2",
-      "title": "tt27497448:1:2",
+      "type": "movie",
+      "id": "tt1300854",
+      "title": "Iron Man 3",
       "username": "b1jju",
-      "lastActive": 1768869139059
+      "lastActive": 1768871531774
+    },
+    "177.239.211.228": {
+      "type": "movie",
+      "id": "tt33028778",
+      "title": "tt33028778",
+      "username": "anonymous",
+      "lastActive": 1768870883738
     }
   }
 }
