@@ -1,5 +1,5 @@
 {
-  "totalViews": 12522,
+  "totalViews": 12529,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2646,65 +2646,10 @@
     "2409:40e5:19:d93d:86:9dff:fe82:772b",
     "2405:201:c056:4073:500a:a122:2af0:14ab",
     "117.226.172.57",
-    "103.181.65.86"
+    "103.181.65.86",
+    "103.186.54.182"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt22091076:1:2",
-      "title": "tt22091076:1:2",
-      "timestamp": "2026-01-11T11:42:24.641Z",
-      "ip": "2402:b400:4650:256e:30fd:41ff:fe69:4795",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0898266:4:11",
-      "title": "tt0898266:4:11",
-      "timestamp": "2026-01-11T11:42:28.771Z",
-      "ip": "86.48.14.150",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:2:15",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-11T11:43:17.284Z",
-      "ip": "103.211.52.84",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1757678",
-      "title": "tt1757678",
-      "timestamp": "2026-01-11T11:43:57.515Z",
-      "ip": "2409:40f2:3141:7592:a437:d2ff:fe2d:3801",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt10332508:3:1",
-      "title": "tt10332508:3:1",
-      "timestamp": "2026-01-11T11:44:51.761Z",
-      "ip": "105.120.133.143",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt24229160:2:9",
-      "title": "tt24229160:2:9",
-      "timestamp": "2026-01-11T11:45:32.076Z",
-      "ip": "81.2.140.117",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt35665459",
-      "title": "tt35665459",
-      "timestamp": "2026-01-11T11:45:32.558Z",
-      "ip": "49.204.194.144",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt24229160:2:10",
@@ -82648,15 +82593,71 @@
       "timestamp": "2026-01-20T19:16:27.387Z",
       "ip": "205.254.185.113",
       "username": "space_forca"
+    },
+    {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "timestamp": "2026-01-20T19:20:01.778Z",
+      "ip": "103.186.54.182",
+      "username": "schnom153"
+    },
+    {
+      "type": "movie",
+      "id": "tt12908150",
+      "title": "The Life of Chuck",
+      "timestamp": "2026-01-20T19:20:47.655Z",
+      "ip": "103.186.54.182",
+      "username": "schnom153"
+    },
+    {
+      "type": "series",
+      "id": "tt0852863",
+      "title": "tt0852863",
+      "timestamp": "2026-01-20T19:25:28.654Z",
+      "ip": "103.186.54.182",
+      "username": "schnom153"
+    },
+    {
+      "type": "series",
+      "id": "tt0852863",
+      "title": "tt0852863",
+      "timestamp": "2026-01-20T19:25:40.037Z",
+      "ip": "103.186.54.182",
+      "username": "schnom153"
+    },
+    {
+      "type": "movie",
+      "id": "tt0353969",
+      "title": "tt0353969",
+      "timestamp": "2026-01-20T19:27:51.995Z",
+      "ip": "103.186.54.182",
+      "username": "schnom153"
+    },
+    {
+      "type": "series",
+      "id": "tt6468322:2:3",
+      "title": "tt6468322:2:3",
+      "timestamp": "2026-01-20T19:31:05.290Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt6468322:2:3",
+      "title": "tt6468322:2:3",
+      "timestamp": "2026-01-20T19:32:43.212Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
     }
   ],
   "activeNow": {
     "103.175.168.106": {
       "type": "series",
-      "id": "tt6468322:2:2",
-      "title": "tt6468322:2:2",
+      "id": "tt6468322:2:3",
+      "title": "tt6468322:2:3",
       "username": "un0fficial_itachi",
-      "lastActive": 1768934469467
+      "lastActive": 1768937563212
     },
     "115.98.234.187": {
       "type": "movie",
@@ -86661,6 +86662,13 @@
       "title": "tt35335046:1:3",
       "username": "mutti9",
       "lastActive": 1768934449043
+    },
+    "103.186.54.182": {
+      "type": "movie",
+      "id": "tt0353969",
+      "title": "tt0353969",
+      "username": "schnom153",
+      "lastActive": 1768937271995
     }
   }
 }
