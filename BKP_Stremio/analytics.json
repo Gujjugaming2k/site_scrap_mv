@@ -1,5 +1,5 @@
 {
-  "totalViews": 11881,
+  "totalViews": 11887,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2554,57 +2554,11 @@
     "2409:40c1:10ba:a2c0:2d6e:1a70:9774:ee77",
     "2401:4900:5af8:ef70::e2c:987b",
     "223.233.73.211",
-    "2a09:bac1:36c0:8::2a6:47"
+    "2a09:bac1:36c0:8::2a6:47",
+    "27.60.5.97",
+    "2604:3d09:d7f:1600:4125:1d66:8607:dbea"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1790809",
-      "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
-      "timestamp": "2026-01-11T08:50:33.359Z",
-      "ip": "122.173.27.194",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt12867810:1:12",
-      "title": "tt12867810:1:12",
-      "timestamp": "2026-01-11T08:50:45.014Z",
-      "ip": "103.38.69.71",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt23790696",
-      "title": "tt23790696",
-      "timestamp": "2026-01-11T08:51:03.649Z",
-      "ip": "2401:4900:6291:7efe:c8a0:4bff:fe48:d4f",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:1:6",
-      "title": "tt31938062:1:6",
-      "timestamp": "2026-01-11T08:51:12.187Z",
-      "ip": "103.137.228.209",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0108757:3:22",
-      "title": "tt0108757:3:22",
-      "timestamp": "2026-01-11T08:51:18.781Z",
-      "ip": "2a02:810d:6005:9700:a462:e74:8100:57a3",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0773262:4:10",
-      "title": "tt0773262:4:10",
-      "timestamp": "2026-01-11T08:51:19.942Z",
-      "ip": "2401:4900:be7c:9e8d:d444:cda0:a979:671c",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt2788316:1:1",
@@ -82556,6 +82510,54 @@
       "timestamp": "2026-01-20T05:13:16.924Z",
       "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
       "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt11032374",
+      "title": "tt11032374",
+      "timestamp": "2026-01-20T05:22:55.814Z",
+      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt11032374",
+      "title": "tt11032374",
+      "timestamp": "2026-01-20T05:22:55.904Z",
+      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
+      "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-01-20T05:34:49.764Z",
+      "ip": "27.60.5.97",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt22202452:1:5",
+      "title": "tt22202452:1:5",
+      "timestamp": "2026-01-20T05:35:04.426Z",
+      "ip": "2604:3d09:d7f:1600:4125:1d66:8607:dbea",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:1:1",
+      "title": "The Boys",
+      "timestamp": "2026-01-20T05:35:12.912Z",
+      "ip": "27.60.5.97",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt22202452:1:6",
+      "title": "tt22202452:1:6",
+      "timestamp": "2026-01-20T05:36:37.313Z",
+      "ip": "2604:3d09:d7f:1600:4125:1d66:8607:dbea",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -84990,10 +84992,10 @@
     },
     "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf": {
       "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
+      "id": "tt11032374",
+      "title": "tt11032374",
       "username": "nabakun",
-      "lastActive": 1768885996924
+      "lastActive": 1768886575904
     },
     "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72": {
       "type": "series",
@@ -85911,6 +85913,20 @@
       "title": "tt0084787",
       "username": "demon18319",
       "lastActive": 1768885228792
+    },
+    "27.60.5.97": {
+      "type": "series",
+      "id": "tt1190634:1:1",
+      "title": "The Boys",
+      "username": "b1jju",
+      "lastActive": 1768887312912
+    },
+    "2604:3d09:d7f:1600:4125:1d66:8607:dbea": {
+      "type": "series",
+      "id": "tt22202452:1:6",
+      "title": "tt22202452:1:6",
+      "username": "anonymous",
+      "lastActive": 1768887397313
     }
   }
 }
