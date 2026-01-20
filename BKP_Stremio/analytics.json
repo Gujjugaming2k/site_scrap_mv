@@ -1,5 +1,5 @@
 {
-  "totalViews": 12538,
+  "totalViews": 12539,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2652,14 +2652,6 @@
     "2a06:c701:474f:e900:fc79:8199:84d9:9c06"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt11027850",
-      "title": "tt11027850",
-      "timestamp": "2026-01-11T11:49:28.773Z",
-      "ip": "2405:201:500c:496b:fd03:df18:811a:ac62",
-      "username": "shadowbhaiii"
-    },
     {
       "type": "movie",
       "id": "tt31227572",
@@ -82651,6 +82643,14 @@
       "timestamp": "2026-01-20T20:03:32.685Z",
       "ip": "2409:40f0:2407:3891:d0fa:faff:fef8:9ed0",
       "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt0816258",
+      "title": "tt0816258",
+      "timestamp": "2026-01-20T20:07:03.878Z",
+      "ip": "2409:40f0:2407:3891:d0fa:faff:fef8:9ed0",
+      "username": "sachinprem1"
     }
   ],
   "activeNow": {
@@ -86673,11 +86673,11 @@
       "lastActive": 1768937271995
     },
     "2409:40f0:2407:3891:d0fa:faff:fef8:9ed0": {
-      "type": "series",
-      "id": "tt35335046:1:2",
-      "title": "tt35335046:1:2",
+      "type": "movie",
+      "id": "tt0816258",
+      "title": "tt0816258",
       "username": "sachinprem1",
-      "lastActive": 1768939412685
+      "lastActive": 1768939623878
     },
     "2a06:c701:474f:e900:fc79:8199:84d9:9c06": {
       "type": "series",
