@@ -1,5 +1,5 @@
 {
-  "totalViews": 11910,
+  "totalViews": 11914,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2559,41 +2559,12 @@
     "2604:3d09:d7f:1600:4125:1d66:8607:dbea",
     "109.76.234.195",
     "2806:2a0:1224:80d3:3953:f322:d46f:2374",
-    "115.187.50.135"
+    "115.187.50.135",
+    "2a09:bac5:3af5:1a8c::2a5:e6",
+    "2402:a00:182:1828:e13e:2268:453f:4195",
+    "2409:40e3:100f:cfc5:73bf:3887:35b3:74a0"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2861424:5:4",
-      "title": "tt2861424:5:4",
-      "timestamp": "2026-01-11T08:58:07.033Z",
-      "ip": "142.197.73.66",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt7942794:8:1",
-      "title": "tt7942794:8:1",
-      "timestamp": "2026-01-11T08:58:09.687Z",
-      "ip": "59.94.207.66",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0099785",
-      "title": "Home Alone",
-      "timestamp": "2026-01-11T08:58:41.213Z",
-      "ip": "2405:acc0:1204:51a4:b8a0:e9c6:abd2:69e1",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1396484",
-      "title": "It",
-      "timestamp": "2026-01-11T08:58:46.844Z",
-      "ip": "182.77.79.67",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0898266:9:8",
@@ -82561,6 +82532,38 @@
       "timestamp": "2026-01-20T06:52:35.108Z",
       "ip": "115.187.50.135",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "timestamp": "2026-01-20T06:55:10.568Z",
+      "ip": "2a09:bac5:3af5:1a8c::2a5:e6",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "timestamp": "2026-01-20T07:01:44.841Z",
+      "ip": "2402:a00:182:1828:e13e:2268:453f:4195",
+      "username": "asj90"
+    },
+    {
+      "type": "movie",
+      "id": "tt4552524",
+      "title": "tt4552524",
+      "timestamp": "2026-01-20T07:04:50.967Z",
+      "ip": "2409:40e3:100f:cfc5:73bf:3887:35b3:74a0",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "timestamp": "2026-01-20T07:05:05.282Z",
+      "ip": "2402:a00:182:1828:e13e:2268:453f:4195",
+      "username": "asj90"
     }
   ],
   "activeNow": {
@@ -85951,6 +85954,27 @@
       "title": "tt14235464:1:1",
       "username": "william097",
       "lastActive": 1768891955108
+    },
+    "2a09:bac5:3af5:1a8c::2a5:e6": {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "username": "switchoff009",
+      "lastActive": 1768892110568
+    },
+    "2402:a00:182:1828:e13e:2268:453f:4195": {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "username": "asj90",
+      "lastActive": 1768892705282
+    },
+    "2409:40e3:100f:cfc5:73bf:3887:35b3:74a0": {
+      "type": "movie",
+      "id": "tt4552524",
+      "title": "tt4552524",
+      "username": "anonymous",
+      "lastActive": 1768892690967
     }
   }
 }
