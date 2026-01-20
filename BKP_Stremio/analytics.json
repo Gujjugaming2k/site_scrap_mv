@@ -1,5 +1,5 @@
 {
-  "totalViews": 12080,
+  "totalViews": 12084,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2589,41 +2589,10 @@
     "2401:4900:8818:80a9:1c0b:1779:dcf2:2304",
     "2001:ac8:2:1::22",
     "47.15.116.77",
-    "2401:4900:8038:efd6::e37:d0e2"
+    "2401:4900:8038:efd6::e37:d0e2",
+    "2409:40d2:301b:139d:8000::"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30017619",
-      "title": "The Bad Guys 2",
-      "timestamp": "2026-01-11T09:37:10.120Z",
-      "ip": "2401:4900:5975:4f71::e39:d714",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "movie",
-      "id": "tt8115900",
-      "title": "The Bad Guys",
-      "timestamp": "2026-01-11T09:37:10.574Z",
-      "ip": "2401:4900:5975:4f71::e39:d714",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "series",
-      "id": "tt0108778:1:24",
-      "title": "tt0108778:1:24",
-      "timestamp": "2026-01-11T09:37:19.148Z",
-      "ip": "2409:40d2:301b:abf5:8000::",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2805096:1:14",
-      "title": "tt2805096:1:14",
-      "timestamp": "2026-01-11T09:37:26.049Z",
-      "ip": "85.148.49.211",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt28863512",
@@ -82591,6 +82560,38 @@
       "timestamp": "2026-01-20T11:16:40.835Z",
       "ip": "2401:4900:8038:efd6::e37:d0e2",
       "username": "abhi231511"
+    },
+    {
+      "type": "series",
+      "id": "tt31974367:1:1",
+      "title": "tt31974367:1:1",
+      "timestamp": "2026-01-20T11:41:59.834Z",
+      "ip": "125.166.9.191",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt31974367:1:2",
+      "title": "tt31974367:1:2",
+      "timestamp": "2026-01-20T11:43:58.196Z",
+      "ip": "125.166.9.191",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0102926",
+      "title": "The Silence of the Lambs",
+      "timestamp": "2026-01-20T11:47:09.491Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt0102926",
+      "title": "The Silence of the Lambs",
+      "timestamp": "2026-01-20T11:47:19.568Z",
+      "ip": "2409:40d2:301b:139d:8000::",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -82715,10 +82716,10 @@
     },
     "125.166.9.191": {
       "type": "series",
-      "id": "tt19854762:1:4",
-      "title": "tt19854762:1:4",
+      "id": "tt31974367:1:2",
+      "title": "tt31974367:1:2",
       "username": "anonymous",
-      "lastActive": 1768845987204
+      "lastActive": 1768909438196
     },
     "103.168.30.70": {
       "type": "series",
@@ -83666,11 +83667,11 @@
       "lastActive": 1768696146310
     },
     "2405:201:6820:a83c:bdef:55c1:5b2d:3408": {
-      "type": "series",
-      "id": "tt0460649:3:12",
-      "title": "tt0460649:3:12",
+      "type": "movie",
+      "id": "tt0102926",
+      "title": "The Silence of the Lambs",
       "username": "demon18319",
-      "lastActive": 1768872839832
+      "lastActive": 1768909629491
     },
     "201.247.170.237": {
       "type": "series",
@@ -86205,6 +86206,13 @@
       "title": "Game of Thrones",
       "username": "abhi231511",
       "lastActive": 1768907800835
+    },
+    "2409:40d2:301b:139d:8000::": {
+      "type": "movie",
+      "id": "tt0102926",
+      "title": "The Silence of the Lambs",
+      "username": "demon18319",
+      "lastActive": 1768909639568
     }
   }
 }
