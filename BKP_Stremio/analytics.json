@@ -1,5 +1,5 @@
 {
-  "totalViews": 11914,
+  "totalViews": 11917,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2562,33 +2562,11 @@
     "115.187.50.135",
     "2a09:bac5:3af5:1a8c::2a5:e6",
     "2402:a00:182:1828:e13e:2268:453f:4195",
-    "2409:40e3:100f:cfc5:73bf:3887:35b3:74a0"
+    "2409:40e3:100f:cfc5:73bf:3887:35b3:74a0",
+    "2401:4900:b9fa:fa3d::2cc4:914e",
+    "2a09:bac5:3af3:16aa::242:81"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0898266:9:8",
-      "title": "tt0898266:9:8",
-      "timestamp": "2026-01-11T08:58:59.747Z",
-      "ip": "47.150.96.219",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt12074628:3:9",
-      "title": "tt12074628:3:9",
-      "timestamp": "2026-01-11T08:59:06.238Z",
-      "ip": "186.108.170.38",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0266543",
-      "title": "Finding Nemo",
-      "timestamp": "2026-01-11T08:59:26.016Z",
-      "ip": "2405:acc0:1204:51a4:b8a0:e9c6:abd2:69e1",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt12074628:3:9",
@@ -82564,6 +82542,30 @@
       "timestamp": "2026-01-20T07:05:05.282Z",
       "ip": "2402:a00:182:1828:e13e:2268:453f:4195",
       "username": "asj90"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:2",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-20T07:09:59.587Z",
+      "ip": "2401:4900:b9fa:fa3d::2cc4:914e",
+      "username": "baljeet_002"
+    },
+    {
+      "type": "movie",
+      "id": "tt14331144",
+      "title": "Jujutsu Kaisen 0",
+      "timestamp": "2026-01-20T07:18:19.722Z",
+      "ip": "2a09:bac5:3af3:16aa::242:81",
+      "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-20T07:20:38.327Z",
+      "ip": "2401:4900:b9fa:fa3d::2cc4:914e",
+      "username": "baljeet_002"
     }
   ],
   "activeNow": {
@@ -85975,6 +85977,20 @@
       "title": "tt4552524",
       "username": "anonymous",
       "lastActive": 1768892690967
+    },
+    "2401:4900:b9fa:fa3d::2cc4:914e": {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "username": "baljeet_002",
+      "lastActive": 1768893638327
+    },
+    "2a09:bac5:3af3:16aa::242:81": {
+      "type": "movie",
+      "id": "tt14331144",
+      "title": "Jujutsu Kaisen 0",
+      "username": "switchoff009",
+      "lastActive": 1768893499722
     }
   }
 }
