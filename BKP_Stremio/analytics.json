@@ -1,5 +1,5 @@
 {
-  "totalViews": 12598,
+  "totalViews": 12601,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2657,33 +2657,10 @@
     "181.89.210.158",
     "105.106.33.182",
     "2401:4900:ba2f:d134::2d1e:2405",
-    "2409:40f0:2415:f927:58ad:58ff:fe2e:43d0"
+    "2409:40f0:2415:f927:58ad:58ff:fe2e:43d0",
+    "2a02:6ea0:d411:3574::12"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0133024",
-      "title": "tt0133024",
-      "timestamp": "2026-01-11T12:11:26.275Z",
-      "ip": "2404:3100:1878:124e:1889:a46d:c1b0:dd11",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4786824:1:4",
-      "title": "tt4786824:1:4",
-      "timestamp": "2026-01-11T12:11:41.177Z",
-      "ip": "2409:40e2:201d:6ab6:8000::",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1884856:8:4",
-      "title": "tt1884856:8:4",
-      "timestamp": "2026-01-11T12:11:41.890Z",
-      "ip": "175.107.221.155",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt1884856:8:5",
@@ -82659,6 +82636,30 @@
       "timestamp": "2026-01-20T23:13:30.884Z",
       "ip": "2409:40f0:2415:f927:58ad:58ff:fe2e:43d0",
       "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt0143215",
+      "title": "tt0143215",
+      "timestamp": "2026-01-20T23:48:16.496Z",
+      "ip": "2a02:6ea0:d411:3574::12",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0143215",
+      "title": "tt0143215",
+      "timestamp": "2026-01-20T23:48:33.263Z",
+      "ip": "2a02:6ea0:d411:3574::12",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:2:22",
+      "title": "tt0369179:2:22",
+      "timestamp": "2026-01-20T23:49:24.422Z",
+      "ip": "105.106.33.182",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -86738,10 +86739,10 @@
     },
     "105.106.33.182": {
       "type": "series",
-      "id": "tt0369179:2:20",
-      "title": "tt0369179:2:20",
+      "id": "tt0369179:2:22",
+      "title": "tt0369179:2:22",
       "username": "anonymous",
-      "lastActive": 1768948828970
+      "lastActive": 1768952964422
     },
     "2401:4900:ba2f:d134::2d1e:2405": {
       "type": "series",
@@ -86756,6 +86757,13 @@
       "title": "tt1585558",
       "username": "sachinprem1",
       "lastActive": 1768950810884
+    },
+    "2a02:6ea0:d411:3574::12": {
+      "type": "movie",
+      "id": "tt0143215",
+      "title": "tt0143215",
+      "username": "anonymous",
+      "lastActive": 1768952913263
     }
   }
 }
