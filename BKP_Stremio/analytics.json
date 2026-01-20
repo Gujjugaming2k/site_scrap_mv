@@ -1,5 +1,5 @@
 {
-  "totalViews": 11727,
+  "totalViews": 11731,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2538,41 +2538,10 @@
     "74.82.60.194",
     "154.254.217.249",
     "197.146.252.12",
-    "2401:4900:8822:749a:f0a8:a04:2cef:f908"
+    "2401:4900:8822:749a:f0a8:a04:2cef:f908",
+    "106.222.215.46"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1790809",
-      "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
-      "timestamp": "2026-01-11T08:02:16.007Z",
-      "ip": "122.173.27.194",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt22091076:1:8",
-      "title": "tt22091076:1:8",
-      "timestamp": "2026-01-11T08:03:07.535Z",
-      "ip": "2409:4060:10c:1f82:6b70:858a:3c1f:9351",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt31709812",
-      "title": "tt31709812",
-      "timestamp": "2026-01-11T08:03:40.125Z",
-      "ip": "157.10.8.136",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt33035373:1:1",
-      "title": "tt33035373:1:1",
-      "timestamp": "2026-01-11T08:04:35.249Z",
-      "ip": "103.156.60.24",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt0114563",
@@ -82540,6 +82509,38 @@
       "timestamp": "2026-01-20T00:23:39.450Z",
       "ip": "2401:4900:8822:749a:f0a8:a04:2cef:f908",
       "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-01-20T00:30:43.970Z",
+      "ip": "106.222.215.46",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "timestamp": "2026-01-20T00:32:19.059Z",
+      "ip": "106.222.215.46",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:7",
+      "title": "tt0903747:5:7",
+      "timestamp": "2026-01-20T00:35:17.499Z",
+      "ip": "182.69.183.164",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:6",
+      "title": "tt0903747:5:6",
+      "timestamp": "2026-01-20T00:35:59.892Z",
+      "ip": "182.69.183.164",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -84679,11 +84680,11 @@
       "lastActive": 1768781543311
     },
     "182.69.183.164": {
-      "type": "movie",
-      "id": "tt0068646",
-      "title": "The Godfather",
+      "type": "series",
+      "id": "tt0903747:5:6",
+      "title": "tt0903747:5:6",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768844399903
+      "lastActive": 1768869359892
     },
     "2a02:6ea0:e00a:2233::11": {
       "type": "series",
@@ -85783,6 +85784,13 @@
       "title": "tt27497448:1:1",
       "username": "b1jju",
       "lastActive": 1768868619450
+    },
+    "106.222.215.46": {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "username": "b1jju",
+      "lastActive": 1768869139059
     }
   }
 }
