@@ -1,5 +1,5 @@
 {
-  "totalViews": 12123,
+  "totalViews": 12124,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2600,14 +2600,6 @@
     "2409:40c1:1015:1822:b00f:7862:3e9d:b37"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4786824:1:2",
-      "title": "tt4786824:1:2",
-      "timestamp": "2026-01-11T09:45:19.745Z",
-      "ip": "49.42.207.127",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt27032419",
@@ -82599,6 +82591,14 @@
       "timestamp": "2026-01-20T12:52:18.367Z",
       "ip": "116.68.79.147",
       "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt32820897",
+      "title": "tt32820897",
+      "timestamp": "2026-01-20T13:00:45.220Z",
+      "ip": "45.118.158.143",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -86041,10 +86041,10 @@
     },
     "45.118.158.143": {
       "type": "movie",
-      "id": "tt17526714",
-      "title": "The Substance",
+      "id": "tt32820897",
+      "title": "tt32820897",
       "username": "gaendaswami",
-      "lastActive": 1768913375573
+      "lastActive": 1768914045220
     },
     "2600:100f:b03a:f343:0:6:b2ce:1801": {
       "type": "series",
