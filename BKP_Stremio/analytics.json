@@ -1,5 +1,5 @@
 {
-  "totalViews": 12542,
+  "totalViews": 12548,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2652,54 +2652,6 @@
     "2a06:c701:474f:e900:fc79:8199:84d9:9c06"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32820897",
-      "title": "tt32820897",
-      "timestamp": "2026-01-11T11:50:53.152Z",
-      "ip": "37.131.109.30",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "null:1:7",
-      "title": "null:1:7",
-      "timestamp": "2026-01-11T11:51:07.102Z",
-      "ip": "2800:a4:146a:8f00:517d:759a:c6a7:b449",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt7112704:68:1865",
-      "title": "tt7112704:68:1865",
-      "timestamp": "2026-01-11T11:51:17.394Z",
-      "ip": "2405:201:500c:496b:fd03:df18:811a:ac62",
-      "username": "shadowbhaiii"
-    },
-    {
-      "type": "movie",
-      "id": "tt11027850",
-      "title": "tt11027850",
-      "timestamp": "2026-01-11T11:51:34.497Z",
-      "ip": "2405:201:500c:496b:fd03:df18:811a:ac62",
-      "username": "shadowbhaiii"
-    },
-    {
-      "type": "movie",
-      "id": "tt2461132",
-      "title": "tt2461132",
-      "timestamp": "2026-01-11T11:51:37.129Z",
-      "ip": "2405:201:500c:496b:fd03:df18:811a:ac62",
-      "username": "shadowbhaiii"
-    },
-    {
-      "type": "movie",
-      "id": "tt11027850",
-      "title": "tt11027850",
-      "timestamp": "2026-01-11T11:52:06.688Z",
-      "ip": "2405:201:500c:496b:fd03:df18:811a:ac62",
-      "username": "shadowbhaiii"
-    },
     {
       "type": "series",
       "id": "null:1:8",
@@ -82651,6 +82603,54 @@
       "timestamp": "2026-01-20T20:11:28.677Z",
       "ip": "2409:40f0:2407:3891:d0fa:faff:fef8:9ed0",
       "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-20T20:30:36.593Z",
+      "ip": "154.208.49.98",
+      "username": "cutepupper"
+    },
+    {
+      "type": "movie",
+      "id": "tt15398776",
+      "title": "Oppenheimer",
+      "timestamp": "2026-01-20T20:31:51.389Z",
+      "ip": "182.69.183.164",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt33270420:1:2",
+      "title": "tt33270420:1:2",
+      "timestamp": "2026-01-20T20:33:48.054Z",
+      "ip": "109.76.234.195",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-01-20T20:33:51.760Z",
+      "ip": "109.76.234.195",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt37062070:1:1",
+      "title": "tt37062070:1:1",
+      "timestamp": "2026-01-20T20:34:11.768Z",
+      "ip": "109.76.234.195",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt23172090",
+      "title": "tt23172090",
+      "timestamp": "2026-01-20T20:36:38.660Z",
+      "ip": "154.208.49.98",
+      "username": "cutepupper"
     }
   ],
   "activeNow": {
@@ -83677,11 +83677,11 @@
       "lastActive": 1768856203423
     },
     "154.208.49.98": {
-      "type": "series",
-      "id": "tt5574490:6:5",
-      "title": "tt5574490:6:5",
+      "type": "movie",
+      "id": "tt23172090",
+      "title": "tt23172090",
       "username": "cutepupper",
-      "lastActive": 1768770008073
+      "lastActive": 1768941398660
     },
     "1.47.205.76": {
       "type": "movie",
@@ -84790,11 +84790,11 @@
       "lastActive": 1768781543311
     },
     "182.69.183.164": {
-      "type": "series",
-      "id": "tt0903747:5:7",
-      "title": "tt0903747:5:7",
+      "type": "movie",
+      "id": "tt15398776",
+      "title": "Oppenheimer",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768870362392
+      "lastActive": 1768941111389
     },
     "2a02:6ea0:e00a:2233::11": {
       "type": "series",
@@ -86023,10 +86023,10 @@
     },
     "109.76.234.195": {
       "type": "series",
-      "id": "tt38990492:1:5",
-      "title": "tt38990492:1:5",
+      "id": "tt37062070:1:1",
+      "title": "tt37062070:1:1",
       "username": "vflix1993",
-      "lastActive": 1768896986052
+      "lastActive": 1768941251768
     },
     "2806:2a0:1224:80d3:3953:f322:d46f:2374": {
       "type": "movie",
