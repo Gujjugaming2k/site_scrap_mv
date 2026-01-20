@@ -1,5 +1,5 @@
 {
-  "totalViews": 12576,
+  "totalViews": 12578,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2654,25 +2654,10 @@
     "2402:3a80:18c4:5760:8c9e:c5a1:3a4b:5280",
     "2401:4900:c087:ef76:ad37:520:8a2d:5288",
     "87.218.169.21",
-    "181.89.210.158"
+    "181.89.210.158",
+    "105.106.33.182"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0114345",
-      "title": "tt0114345",
-      "timestamp": "2026-01-11T12:07:10.474Z",
-      "ip": "217.201.48.32",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:1:1",
-      "title": "tt31938062:1:1",
-      "timestamp": "2026-01-11T12:07:41.890Z",
-      "ip": "2401:4900:1c7b:b029:3cac:1e2b:8a44:98d6",
-      "username": "user_9b"
-    },
     {
       "type": "movie",
       "id": "tt0133024",
@@ -82656,6 +82641,22 @@
       "timestamp": "2026-01-20T21:57:37.740Z",
       "ip": "142.161.60.120",
       "username": "taufiqulislamkhan"
+    },
+    {
+      "type": "series",
+      "id": "tt29921437:1:2",
+      "title": "tt29921437:1:2",
+      "timestamp": "2026-01-20T22:17:16.230Z",
+      "ip": "154.208.49.96",
+      "username": "cutepupper"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:2:19",
+      "title": "tt0369179:2:19",
+      "timestamp": "2026-01-20T22:21:54.809Z",
+      "ip": "105.106.33.182",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -83662,10 +83663,10 @@
     },
     "154.208.49.96": {
       "type": "series",
-      "id": "tt29921437:1:1",
-      "title": "tt29921437:1:1",
+      "id": "tt29921437:1:2",
+      "title": "tt29921437:1:2",
       "username": "cutepupper",
-      "lastActive": 1768942663556
+      "lastActive": 1768947436230
     },
     "2401:4900:8820:8915:97cd:364f:6d84:cedb": {
       "type": "movie",
@@ -86732,6 +86733,13 @@
       "title": "tt9398466:3:1",
       "username": "taufiqulislamkhan",
       "lastActive": 1768946257740
+    },
+    "105.106.33.182": {
+      "type": "series",
+      "id": "tt0369179:2:19",
+      "title": "tt0369179:2:19",
+      "username": "anonymous",
+      "lastActive": 1768947714809
     }
   }
 }
