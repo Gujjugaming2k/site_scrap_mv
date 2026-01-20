@@ -1,5 +1,5 @@
 {
-  "totalViews": 11941,
+  "totalViews": 11945,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2566,41 +2566,11 @@
     "2401:4900:b9fa:fa3d::2cc4:914e",
     "2a09:bac5:3af3:16aa::242:81",
     "45.118.158.143",
-    "2600:100f:b03a:f343:0:6:b2ce:1801"
+    "2600:100f:b03a:f343:0:6:b2ce:1801",
+    "169.150.197.108",
+    "2a09:bac1:3680:10::2a7:cb"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt7181546",
-      "title": "Ballerina",
-      "timestamp": "2026-01-11T09:07:48.132Z",
-      "ip": "2405:201:203e:b800:a81a:c893:70eb:2815",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt7772588:2:1",
-      "title": "tt7772588:2:1",
-      "timestamp": "2026-01-11T09:07:54.570Z",
-      "ip": "2606:6a40:3:7e16:8434:a8e2:986b:b5d2",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0413573:3:24",
-      "title": "tt0413573:3:24",
-      "timestamp": "2026-01-11T09:08:01.882Z",
-      "ip": "102.208.97.231",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-01-11T09:08:02.322Z",
-      "ip": "2409:40c4:101e:6375:8000::",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt36366112",
@@ -82568,6 +82538,38 @@
       "timestamp": "2026-01-20T07:54:59.911Z",
       "ip": "45.118.158.143",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "timestamp": "2026-01-20T07:55:47.994Z",
+      "ip": "45.118.158.143",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-01-20T08:02:11.009Z",
+      "ip": "169.150.197.108",
+      "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:4",
+      "title": "tt31812476:2:4",
+      "timestamp": "2026-01-20T08:03:38.977Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-01-20T08:05:09.839Z",
+      "ip": "2a09:bac1:3680:10::2a7:cb",
+      "username": "switchoff009"
     }
   ],
   "activeNow": {
@@ -85327,7 +85329,7 @@
       "id": "tt31812476:2:4",
       "title": "tt31812476:2:4",
       "username": "william097",
-      "lastActive": 1768874754613
+      "lastActive": 1768896218977
     },
     "2401:4900:8822:749a:be46:61b0:22d3:d58c": {
       "type": "movie",
@@ -86010,10 +86012,10 @@
     },
     "45.118.158.143": {
       "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
       "username": "gaendaswami",
-      "lastActive": 1768895699911
+      "lastActive": 1768895747994
     },
     "2600:100f:b03a:f343:0:6:b2ce:1801": {
       "type": "series",
@@ -86021,6 +86023,20 @@
       "title": "Fallout",
       "username": "anonymous",
       "lastActive": 1768895428733
+    },
+    "169.150.197.108": {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "username": "switchoff009",
+      "lastActive": 1768896131009
+    },
+    "2a09:bac1:3680:10::2a7:cb": {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "username": "switchoff009",
+      "lastActive": 1768896309839
     }
   }
 }
