@@ -1,5 +1,5 @@
 {
-  "totalViews": 12568,
+  "totalViews": 12571,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2653,33 +2653,10 @@
     "2401:4900:ac23:a21e:ad43:5d31:893f:7263",
     "2402:3a80:18c4:5760:8c9e:c5a1:3a4b:5280",
     "2401:4900:c087:ef76:ad37:520:8a2d:5288",
-    "87.218.169.21"
+    "87.218.169.21",
+    "181.89.210.158"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31938062:1:1",
-      "title": "tt31938062:1:1",
-      "timestamp": "2026-01-11T12:03:58.327Z",
-      "ip": "2401:4900:1c7b:b029:3cac:1e2b:8a44:98d6",
-      "username": "user_9b"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:1:2",
-      "title": "tt31938062:1:2",
-      "timestamp": "2026-01-11T12:04:17.399Z",
-      "ip": "2401:4900:1c7b:b029:3cac:1e2b:8a44:98d6",
-      "username": "user_9b"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:1:1",
-      "title": "tt31938062:1:1",
-      "timestamp": "2026-01-11T12:04:24.398Z",
-      "ip": "2401:4900:1c7b:b029:3cac:1e2b:8a44:98d6",
-      "username": "user_9b"
-    },
     {
       "type": "series",
       "id": "tt31938062:1:2",
@@ -82655,6 +82632,30 @@
       "timestamp": "2026-01-20T21:38:14.916Z",
       "ip": "2a06:c701:474f:e900:fc79:8199:84d9:9c06",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt23468450",
+      "title": "Longlegs",
+      "timestamp": "2026-01-20T21:44:00.816Z",
+      "ip": "181.89.210.158",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-20T21:52:37.300Z",
+      "ip": "142.161.60.120",
+      "username": "taufiqulislamkhan"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-20T21:53:13.022Z",
+      "ip": "142.161.60.120",
+      "username": "taufiqulislamkhan"
     }
   ],
   "activeNow": {
@@ -86717,6 +86718,20 @@
       "title": "Home Alone 2: Lost in New York",
       "username": "anonymous",
       "lastActive": 1768944927742
+    },
+    "181.89.210.158": {
+      "type": "movie",
+      "id": "tt23468450",
+      "title": "Longlegs",
+      "username": "anonymous",
+      "lastActive": 1768945440816
+    },
+    "142.161.60.120": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "taufiqulislamkhan",
+      "lastActive": 1768945993022
     }
   }
 }
