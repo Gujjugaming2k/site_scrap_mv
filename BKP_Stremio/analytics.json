@@ -1,5 +1,5 @@
 {
-  "totalViews": 11907,
+  "totalViews": 11910,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2558,33 +2558,10 @@
     "27.60.5.97",
     "2604:3d09:d7f:1600:4125:1d66:8607:dbea",
     "109.76.234.195",
-    "2806:2a0:1224:80d3:3953:f322:d46f:2374"
+    "2806:2a0:1224:80d3:3953:f322:d46f:2374",
+    "115.187.50.135"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0499549",
-      "title": "Avatar",
-      "timestamp": "2026-01-11T08:57:51.673Z",
-      "ip": "182.77.79.67",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0120338",
-      "title": "Titanic",
-      "timestamp": "2026-01-11T08:57:54.034Z",
-      "ip": "182.77.79.67",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1396484",
-      "title": "It",
-      "timestamp": "2026-01-11T08:58:05.698Z",
-      "ip": "182.77.79.67",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt2861424:5:4",
@@ -82560,6 +82537,30 @@
       "timestamp": "2026-01-20T06:23:42.248Z",
       "ip": "27.60.5.97",
       "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt2055709",
+      "title": "tt2055709",
+      "timestamp": "2026-01-20T06:49:10.752Z",
+      "ip": "115.187.50.135",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt7115904",
+      "title": "tt7115904",
+      "timestamp": "2026-01-20T06:49:12.096Z",
+      "ip": "115.187.50.135",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt14235464:1:1",
+      "title": "tt14235464:1:1",
+      "timestamp": "2026-01-20T06:52:35.108Z",
+      "ip": "115.187.50.135",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -85943,6 +85944,13 @@
       "title": "tt6217926",
       "username": "anonymous",
       "lastActive": 1768890216543
+    },
+    "115.187.50.135": {
+      "type": "series",
+      "id": "tt14235464:1:1",
+      "title": "tt14235464:1:1",
+      "username": "william097",
+      "lastActive": 1768891955108
     }
   }
 }
