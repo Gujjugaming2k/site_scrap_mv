@@ -1,5 +1,5 @@
 {
-  "totalViews": 11945,
+  "totalViews": 11948,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2568,33 +2568,10 @@
     "45.118.158.143",
     "2600:100f:b03a:f343:0:6:b2ce:1801",
     "169.150.197.108",
-    "2a09:bac1:3680:10::2a7:cb"
+    "2a09:bac1:3680:10::2a7:cb",
+    "2409:40d4:40db:ad3e:dd4b:5477:e6c0:83a7"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt36366112",
-      "title": "tt36366112",
-      "timestamp": "2026-01-11T09:08:16.509Z",
-      "ip": "2001:d08:1b01:5c39:295a:b:6bfa:972a",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt7587890:3:4",
-      "title": "tt7587890:3:4",
-      "timestamp": "2026-01-11T09:08:22.444Z",
-      "ip": "2600:8803:8700:29:42a0:b6d0:343a:9c13",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt7441658:1:126",
-      "title": "tt7441658:1:126",
-      "timestamp": "2026-01-11T09:09:03.275Z",
-      "ip": "2409:40f0:15b:8c79:8042:6aff:fe82:ca69",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt9362736",
@@ -82570,6 +82547,30 @@
       "timestamp": "2026-01-20T08:05:09.839Z",
       "ip": "2a09:bac1:3680:10::2a7:cb",
       "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt38990492:1:5",
+      "title": "tt38990492:1:5",
+      "timestamp": "2026-01-20T08:16:26.052Z",
+      "ip": "109.76.234.195",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:5",
+      "title": "tt31812476:2:5",
+      "timestamp": "2026-01-20T08:20:46.798Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:30",
+      "title": "Death Note",
+      "timestamp": "2026-01-20T08:26:08.430Z",
+      "ip": "2409:40d4:40db:ad3e:dd4b:5477:e6c0:83a7",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -85326,10 +85327,10 @@
     },
     "103.24.85.218": {
       "type": "series",
-      "id": "tt31812476:2:4",
-      "title": "tt31812476:2:4",
+      "id": "tt31812476:2:5",
+      "title": "tt31812476:2:5",
       "username": "william097",
-      "lastActive": 1768896218977
+      "lastActive": 1768897246798
     },
     "2401:4900:8822:749a:be46:61b0:22d3:d58c": {
       "type": "movie",
@@ -85941,11 +85942,11 @@
       "lastActive": 1768887397313
     },
     "109.76.234.195": {
-      "type": "movie",
-      "id": "tt28551273",
-      "title": "tt28551273",
+      "type": "series",
+      "id": "tt38990492:1:5",
+      "title": "tt38990492:1:5",
       "username": "vflix1993",
-      "lastActive": 1768888312987
+      "lastActive": 1768896986052
     },
     "2806:2a0:1224:80d3:3953:f322:d46f:2374": {
       "type": "movie",
@@ -86037,6 +86038,13 @@
       "title": "tt32916440",
       "username": "switchoff009",
       "lastActive": 1768896309839
+    },
+    "2409:40d4:40db:ad3e:dd4b:5477:e6c0:83a7": {
+      "type": "series",
+      "id": "tt0877057:1:30",
+      "title": "Death Note",
+      "username": "anonymous",
+      "lastActive": 1768897568430
     }
   }
 }
