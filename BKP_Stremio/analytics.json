@@ -1,5 +1,5 @@
 {
-  "totalViews": 11840,
+  "totalViews": 11844,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2551,41 +2551,10 @@
     "2405:201:2022:b81c:9120:e586:bbe:2327",
     "185.194.8.38",
     "2401:4900:ad2e:e151:f74:a4fe:f50e:e393",
-    "2409:40c1:10ba:a2c0:2d6e:1a70:9774:ee77"
+    "2409:40c1:10ba:a2c0:2d6e:1a70:9774:ee77",
+    "2401:4900:5af8:ef70::e2c:987b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2467372:3:8",
-      "title": "tt2467372:3:8",
-      "timestamp": "2026-01-11T08:40:07.492Z",
-      "ip": "124.253.245.213",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt39285179:1:1",
-      "title": "tt39285179:1:1",
-      "timestamp": "2026-01-11T08:40:47.379Z",
-      "ip": "2409:40c2:e:b23c:8000::",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2467372:4:2",
-      "title": "tt2467372:4:2",
-      "timestamp": "2026-01-11T08:40:59.541Z",
-      "ip": "124.253.245.213",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2467372:4:3",
-      "title": "tt2467372:4:3",
-      "timestamp": "2026-01-11T08:41:16.746Z",
-      "ip": "124.253.245.213",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt0756683",
@@ -82553,6 +82522,38 @@
       "timestamp": "2026-01-20T04:02:23.485Z",
       "ip": "2409:40c1:10ba:a2c0:2d6e:1a70:9774:ee77",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:4",
+      "title": "tt35335046:1:4",
+      "timestamp": "2026-01-20T04:04:03.733Z",
+      "ip": "76.119.235.176",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:8",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-20T04:05:55.207Z",
+      "ip": "2401:4900:5af8:ef70::e2c:987b",
+      "username": "abhi231511"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:5",
+      "title": "tt35335046:1:5",
+      "timestamp": "2026-01-20T04:07:55.171Z",
+      "ip": "76.119.235.176",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:7",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-20T04:11:47.503Z",
+      "ip": "2401:4900:5af8:ef70::e2c:987b",
+      "username": "abhi231511"
     }
   ],
   "activeNow": {
@@ -83727,10 +83728,10 @@
     },
     "76.119.235.176": {
       "type": "series",
-      "id": "tt35335046:1:4",
-      "title": "tt35335046:1:4",
+      "id": "tt35335046:1:5",
+      "title": "tt35335046:1:5",
       "username": "anonymous",
-      "lastActive": 1768879986049
+      "lastActive": 1768882075171
     },
     "152.58.61.177": {
       "type": "movie",
@@ -85887,6 +85888,13 @@
       "title": "Icefall",
       "username": "zealousninja",
       "lastActive": 1768881743485
+    },
+    "2401:4900:5af8:ef70::e2c:987b": {
+      "type": "series",
+      "id": "tt0944947:1:7",
+      "title": "Game of Thrones",
+      "username": "abhi231511",
+      "lastActive": 1768882307503
     }
   }
 }
