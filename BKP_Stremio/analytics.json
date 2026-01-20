@@ -1,5 +1,5 @@
 {
-  "totalViews": 11802,
+  "totalViews": 11804,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2546,25 +2546,10 @@
     "2a09:bac1:36c0:188::29e:c7,2a09:bac5:37a8:26d2::3de:2b",
     "2a09:bac1:36c0:188::29e:c7",
     "2409:40d2:300f:f00d:8000::",
-    "2409:40c1:3187:95e7:8000::"
+    "2409:40c1:3187:95e7:8000::",
+    "47.15.114.142"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt6468322:1:6",
-      "title": "tt6468322:1:6",
-      "timestamp": "2026-01-11T08:20:00.291Z",
-      "ip": "2601:600:9300:fb4:61bf:97ca:6a96:307d",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt6439752:3:3",
-      "title": "tt6439752:3:3",
-      "timestamp": "2026-01-11T08:20:10.843Z",
-      "ip": "103.115.203.179",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt1210027",
@@ -82548,6 +82533,22 @@
       "timestamp": "2026-01-20T02:13:40.725Z",
       "ip": "2409:40d2:300f:f00d:8000::",
       "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt7335184:1:5",
+      "title": "tt7335184:1:5",
+      "timestamp": "2026-01-20T02:16:48.229Z",
+      "ip": "197.146.252.12",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0156887",
+      "title": "tt0156887",
+      "timestamp": "2026-01-20T02:30:24.856Z",
+      "ip": "47.15.114.142",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -85779,11 +85780,11 @@
       "lastActive": 1768866950745
     },
     "197.146.252.12": {
-      "type": "movie",
-      "id": "null",
-      "title": "null",
+      "type": "series",
+      "id": "tt7335184:1:5",
+      "title": "tt7335184:1:5",
       "username": "anonymous",
-      "lastActive": 1768867168920
+      "lastActive": 1768875408229
     },
     "2401:4900:8822:749a:f0a8:a04:2cef:f908": {
       "type": "series",
@@ -85847,6 +85848,13 @@
       "title": "tt31616834:1:1",
       "username": "anonymous",
       "lastActive": 1768874484331
+    },
+    "47.15.114.142": {
+      "type": "movie",
+      "id": "tt0156887",
+      "title": "tt0156887",
+      "username": "demon18319",
+      "lastActive": 1768876224856
     }
   }
 }
