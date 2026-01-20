@@ -1,5 +1,5 @@
 {
-  "totalViews": 12512,
+  "totalViews": 12517,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2649,46 +2649,6 @@
     "103.181.65.86"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0369179:4:11",
-      "title": "tt0369179:4:11",
-      "timestamp": "2026-01-11T11:38:19.866Z",
-      "ip": "2001:ac8:27:31::20",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-01-11T11:38:26.872Z",
-      "ip": "66.27.103.91",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt13544802:2:1",
-      "title": "tt13544802:2:1",
-      "timestamp": "2026-01-11T11:38:29.940Z",
-      "ip": "81.2.140.117",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt36642456",
-      "title": "tt36642456",
-      "timestamp": "2026-01-11T11:39:02.354Z",
-      "ip": "172.69.95.153,206.53.3.179",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0898266:9:17",
-      "title": "tt0898266:9:17",
-      "timestamp": "2026-01-11T11:40:18.770Z",
-      "ip": "47.150.96.219",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0388629:4:11",
@@ -82648,6 +82608,46 @@
       "timestamp": "2026-01-20T18:47:01.086Z",
       "ip": "2401:4900:1c55:3748:9cdc:6ff:5b91:8b3b",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt0250797",
+      "title": "Unfaithful",
+      "timestamp": "2026-01-20T18:53:15.010Z",
+      "ip": "103.46.200.248",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:10",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-20T18:53:25.293Z",
+      "ip": "2401:4900:5ef8:ef9e::e29:9c58",
+      "username": "abhi231511"
+    },
+    {
+      "type": "movie",
+      "id": "tt0454921",
+      "title": "The Pursuit of Happyness",
+      "timestamp": "2026-01-20T18:55:47.323Z",
+      "ip": "2409:40d0:12e2:3472:c21:eff:fe69:eb62",
+      "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
+      "timestamp": "2026-01-20T19:00:04.202Z",
+      "ip": "2a02:6ea0:d101:6226::33",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
+      "timestamp": "2026-01-20T19:00:05.425Z",
+      "ip": "2a02:6ea0:d101:6226::33,51.89.197.91",
+      "username": "virat"
     }
   ],
   "activeNow": {
@@ -83339,10 +83339,10 @@
     },
     "103.46.200.248": {
       "type": "movie",
-      "id": "tt27170114",
-      "title": "tt27170114",
+      "id": "tt0250797",
+      "title": "Unfaithful",
       "username": "katdenningssss",
-      "lastActive": 1768933188821
+      "lastActive": 1768935195010
     },
     "2401:4900:b57f:8795:6193:3f38:8f3e:734e": {
       "type": "movie",
@@ -86534,7 +86534,7 @@
       "id": "tt0944947:1:10",
       "title": "Game of Thrones",
       "username": "abhi231511",
-      "lastActive": 1768928260042
+      "lastActive": 1768935205293
     },
     "2409:40c4:3115:1ebd:806b:44ff:feec:3eb1": {
       "type": "series",
@@ -86548,21 +86548,21 @@
       "id": "tt0454921",
       "title": "The Pursuit of Happyness",
       "username": "magicmannn",
-      "lastActive": 1768934781455
+      "lastActive": 1768935347323
     },
     "2a02:6ea0:d101:6226::33": {
       "type": "movie",
-      "id": "tt36616410",
-      "title": "tt36616410",
+      "id": "tt36642456",
+      "title": "tt36642456",
       "username": "golu_vk",
-      "lastActive": 1768928662350
+      "lastActive": 1768935604202
     },
     "2a02:6ea0:d101:6226::33,51.89.197.91": {
       "type": "movie",
-      "id": "tt36616410",
-      "title": "tt36616410",
+      "id": "tt36642456",
+      "title": "tt36642456",
       "username": "virat",
-      "lastActive": 1768928664854
+      "lastActive": 1768935605425
     },
     "117.99.24.248": {
       "type": "series",
