@@ -1,5 +1,5 @@
 {
-  "totalViews": 12571,
+  "totalViews": 12576,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2657,46 +2657,6 @@
     "181.89.210.158"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31938062:1:2",
-      "title": "tt31938062:1:2",
-      "timestamp": "2026-01-11T12:04:27.491Z",
-      "ip": "2401:4900:1c7b:b029:3cac:1e2b:8a44:98d6",
-      "username": "user_9b"
-    },
-    {
-      "type": "movie",
-      "id": "tt6604188",
-      "title": "TRON: Ares",
-      "timestamp": "2026-01-11T12:04:34.884Z",
-      "ip": "103.46.200.249",
-      "username": "brosportses"
-    },
-    {
-      "type": "series",
-      "id": "tt0212671:5:12",
-      "title": "tt0212671:5:12",
-      "timestamp": "2026-01-11T12:04:56.312Z",
-      "ip": "197.184.117.10",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0814255",
-      "title": "tt0814255",
-      "timestamp": "2026-01-11T12:05:35.938Z",
-      "ip": "103.46.200.249",
-      "username": "brosportses"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:2:16",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-11T12:06:09.051Z",
-      "ip": "103.211.52.84",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt0114345",
@@ -82656,6 +82616,46 @@
       "timestamp": "2026-01-20T21:53:13.022Z",
       "ip": "142.161.60.120",
       "username": "taufiqulislamkhan"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:7",
+      "title": "tt0903747:5:7",
+      "timestamp": "2026-01-20T21:55:59.208Z",
+      "ip": "182.69.183.164",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:8",
+      "title": "tt0903747:5:8",
+      "timestamp": "2026-01-20T21:56:02.345Z",
+      "ip": "182.69.183.164",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt9398466:1:1",
+      "title": "tt9398466:1:1",
+      "timestamp": "2026-01-20T21:56:54.319Z",
+      "ip": "142.161.60.120",
+      "username": "taufiqulislamkhan"
+    },
+    {
+      "type": "series",
+      "id": "tt9398466:1:7",
+      "title": "tt9398466:1:7",
+      "timestamp": "2026-01-20T21:57:18.445Z",
+      "ip": "142.161.60.120",
+      "username": "taufiqulislamkhan"
+    },
+    {
+      "type": "series",
+      "id": "tt9398466:3:1",
+      "title": "tt9398466:3:1",
+      "timestamp": "2026-01-20T21:57:37.740Z",
+      "ip": "142.161.60.120",
+      "username": "taufiqulislamkhan"
     }
   ],
   "activeNow": {
@@ -84796,10 +84796,10 @@
     },
     "182.69.183.164": {
       "type": "series",
-      "id": "tt0903747:5:7",
-      "title": "tt0903747:5:7",
+      "id": "tt0903747:5:8",
+      "title": "tt0903747:5:8",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768944640847
+      "lastActive": 1768946162345
     },
     "2a02:6ea0:e00a:2233::11": {
       "type": "series",
@@ -86727,11 +86727,11 @@
       "lastActive": 1768945440816
     },
     "142.161.60.120": {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "type": "series",
+      "id": "tt9398466:3:1",
+      "title": "tt9398466:3:1",
       "username": "taufiqulislamkhan",
-      "lastActive": 1768945993022
+      "lastActive": 1768946257740
     }
   }
 }
