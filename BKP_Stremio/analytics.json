@@ -1,5 +1,5 @@
 {
-  "totalViews": 12117,
+  "totalViews": 12123,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2596,57 +2596,10 @@
     "2401:4900:5acf:605a:6df7:73f5:1250:6382",
     "111.92.121.170",
     "2401:4900:8038:fb6f::e38:a2b2",
-    "2405:201:6025:a88d:f7cf:d704:f86e:ee7e"
+    "2405:201:6025:a88d:f7cf:d704:f86e:ee7e",
+    "2409:40c1:1015:1822:b00f:7862:3e9d:b37"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31974367:1:1",
-      "title": "tt31974367:1:1",
-      "timestamp": "2026-01-11T09:44:05.957Z",
-      "ip": "2405:201:c418:e0f9:f845:69df:4e76:b524",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-11T09:44:11.129Z",
-      "ip": "152.58.62.145",
-      "username": "sunny95160"
-    },
-    {
-      "type": "movie",
-      "id": "tt3717490",
-      "title": "tt3717490",
-      "timestamp": "2026-01-11T09:44:14.258Z",
-      "ip": "2001:fd8:b29e:2384:619f:e332:c06b:be6c",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:8",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T09:44:22.856Z",
-      "ip": "152.58.62.145",
-      "username": "sunny95160"
-    },
-    {
-      "type": "series",
-      "id": "tt15026724:1:11",
-      "title": "tt15026724:1:11",
-      "timestamp": "2026-01-11T09:44:37.004Z",
-      "ip": "82.66.125.144",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2861424:5:6",
-      "title": "tt2861424:5:6",
-      "timestamp": "2026-01-11T09:44:59.613Z",
-      "ip": "142.197.73.66",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt4786824:1:2",
@@ -82598,6 +82551,54 @@
       "timestamp": "2026-01-20T12:36:19.221Z",
       "ip": "45.118.158.143",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt17526714",
+      "title": "The Substance",
+      "timestamp": "2026-01-20T12:42:08.836Z",
+      "ip": "45.118.158.143",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt17526714",
+      "title": "The Substance",
+      "timestamp": "2026-01-20T12:43:04.847Z",
+      "ip": "45.118.158.143",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt11992424",
+      "title": "tt11992424",
+      "timestamp": "2026-01-20T12:46:08.754Z",
+      "ip": "2409:40c1:1015:1822:b00f:7862:3e9d:b37",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt17526714",
+      "title": "The Substance",
+      "timestamp": "2026-01-20T12:49:35.573Z",
+      "ip": "45.118.158.143",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:1:14",
+      "title": "Lost",
+      "timestamp": "2026-01-20T12:51:40.831Z",
+      "ip": "116.68.79.147",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:1:13",
+      "title": "Lost",
+      "timestamp": "2026-01-20T12:52:18.367Z",
+      "ip": "116.68.79.147",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -82900,7 +82901,7 @@
       "id": "tt0411008:1:13",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1768910047599
+      "lastActive": 1768913538367
     },
     "139.5.196.103": {
       "type": "series",
@@ -86039,11 +86040,11 @@
       "lastActive": 1768894011673
     },
     "45.118.158.143": {
-      "type": "series",
-      "id": "tt27497448:1:2",
-      "title": "tt27497448:1:2",
+      "type": "movie",
+      "id": "tt17526714",
+      "title": "The Substance",
       "username": "gaendaswami",
-      "lastActive": 1768912579221
+      "lastActive": 1768913375573
     },
     "2600:100f:b03a:f343:0:6:b2ce:1801": {
       "type": "series",
@@ -86261,6 +86262,13 @@
       "title": "tt16385150:1:6",
       "username": "infinityseeker",
       "lastActive": 1768912467185
+    },
+    "2409:40c1:1015:1822:b00f:7862:3e9d:b37": {
+      "type": "movie",
+      "id": "tt11992424",
+      "title": "tt11992424",
+      "username": "gendaswammy",
+      "lastActive": 1768913168754
     }
   }
 }
