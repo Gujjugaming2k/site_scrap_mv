@@ -1,5 +1,5 @@
 {
-  "totalViews": 12816,
+  "totalViews": 12823,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2685,65 +2685,10 @@
     "2407:aa80:314:e15d:eda0:af04:6161:c89a",
     "2401:4900:8fdf:ba99:66ae:88b4:3860:2ef3",
     "85.154.20.25",
-    "2401:4900:8515:fbaa::3d65:4d00"
+    "2401:4900:8515:fbaa::3d65:4d00",
+    "2409:40d4:1018:a4a4:3c73:75fd:63a4:6c22"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0974015",
-      "title": "tt0974015",
-      "timestamp": "2026-01-11T13:50:34.366Z",
-      "ip": "120.28.111.210",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0974015",
-      "title": "tt0974015",
-      "timestamp": "2026-01-11T13:50:41.591Z",
-      "ip": "120.28.111.210",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0974015",
-      "title": "tt0974015",
-      "timestamp": "2026-01-11T13:50:45.300Z",
-      "ip": "120.28.111.210",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0974015",
-      "title": "tt0974015",
-      "timestamp": "2026-01-11T13:50:48.044Z",
-      "ip": "112.204.114.73",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0974015",
-      "title": "tt0974015",
-      "timestamp": "2026-01-11T13:50:48.478Z",
-      "ip": "120.28.111.210",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0974015",
-      "title": "tt0974015",
-      "timestamp": "2026-01-11T13:50:50.036Z",
-      "ip": "120.28.111.210",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt2187153",
-      "title": "tt2187153",
-      "timestamp": "2026-01-11T13:50:51.326Z",
-      "ip": "38.134.138.223",
-      "username": "thala_75"
-    },
     {
       "type": "movie",
       "id": "tt0974015",
@@ -82687,6 +82632,62 @@
       "timestamp": "2026-01-21T07:26:54.812Z",
       "ip": "182.69.183.164",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-21T07:34:53.291Z",
+      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-21T07:34:55.496Z",
+      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:3",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-21T07:35:08.890Z",
+      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-21T07:35:11.056Z",
+      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt15576504:1:1",
+      "title": "tt15576504:1:1",
+      "timestamp": "2026-01-21T07:37:52.443Z",
+      "ip": "2409:40d4:1018:a4a4:3c73:75fd:63a4:6c22",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt15576504:1:2",
+      "title": "tt15576504:1:2",
+      "timestamp": "2026-01-21T07:38:04.113Z",
+      "ip": "2409:40d4:1018:a4a4:3c73:75fd:63a4:6c22",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt26903104",
+      "title": "tt26903104",
+      "timestamp": "2026-01-21T07:38:41.306Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
     }
   ],
   "activeNow": {
@@ -82786,7 +82787,7 @@
       "id": "tt4574334:1:2",
       "title": "Stranger Things",
       "username": "anonymous_rare",
-      "lastActive": 1768979340923
+      "lastActive": 1768980911056
     },
     "94.156.30.7": {
       "type": "movie",
@@ -82857,6 +82858,20 @@
       "title": "JUJUTSU KAISEN",
       "username": "anonymous",
       "lastActive": 1768980371195
+    },
+    "2409:40d4:1018:a4a4:3c73:75fd:63a4:6c22": {
+      "type": "series",
+      "id": "tt15576504:1:2",
+      "title": "tt15576504:1:2",
+      "username": "gaendaswami",
+      "lastActive": 1768981084113
+    },
+    "115.98.99.86": {
+      "type": "movie",
+      "id": "tt26903104",
+      "title": "tt26903104",
+      "username": "nothing_8888",
+      "lastActive": 1768981121306
     }
   }
 }
