@@ -1,5 +1,5 @@
 {
-  "totalViews": 12779,
+  "totalViews": 12783,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2681,41 +2681,11 @@
     "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
     "94.156.30.7",
     "2405:201:900f:a92b:81cf:eb8d:9f17:fed5",
-    "2401:4900:73d0:3a3b:b19f:294f:ba46:1735"
+    "2401:4900:73d0:3a3b:b19f:294f:ba46:1735",
+    "2407:aa80:314:e15d:eda0:af04:6161:c89a",
+    "2401:4900:8fdf:ba99:66ae:88b4:3860:2ef3"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0898266:9:23",
-      "title": "tt0898266:9:23",
-      "timestamp": "2026-01-11T13:36:50.671Z",
-      "ip": "47.150.96.219",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt5194792:1:5",
-      "title": "tt5194792:1:5",
-      "timestamp": "2026-01-11T13:37:38.178Z",
-      "ip": "2601:1c1:8d78:89b0:a93:ceae:d288:2d11",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0090481:6:20",
-      "title": "tt0090481:6:20",
-      "timestamp": "2026-01-11T13:37:54.970Z",
-      "ip": "2607:fea8:1300:8c2:9d96:26fc:2b52:ec22",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt2187153",
-      "title": "tt2187153",
-      "timestamp": "2026-01-11T13:38:06.105Z",
-      "ip": "38.134.138.223",
-      "username": "thala_75"
-    },
     {
       "type": "series",
       "id": "tt0090481:6:10",
@@ -82683,6 +82653,38 @@
       "timestamp": "2026-01-21T06:41:12.098Z",
       "ip": "2409:40d4:40db:ad3e:8d17:8798:4088:b454",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-21T06:42:04.929Z",
+      "ip": "2407:aa80:314:e15d:eda0:af04:6161:c89a",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt35419807",
+      "title": "tt35419807",
+      "timestamp": "2026-01-21T06:48:32.567Z",
+      "ip": "2409:40e2:156:2d4c:34c9:4cff:febc:7e35",
+      "username": "jai"
+    },
+    {
+      "type": "series",
+      "id": "tt10233448:1:3",
+      "title": "Vinland Saga",
+      "timestamp": "2026-01-21T06:55:22.939Z",
+      "ip": "2401:4900:8fdf:ba99:66ae:88b4:3860:2ef3",
+      "username": "arjun2077"
+    },
+    {
+      "type": "series",
+      "id": "tt0417299:1:14",
+      "title": "Avatar: The Last Airbender",
+      "timestamp": "2026-01-21T06:55:53.246Z",
+      "ip": "2401:4900:8fdf:ba99:66ae:88b4:3860:2ef3",
+      "username": "arjun2077"
     }
   ],
   "activeNow": {
@@ -82702,10 +82704,10 @@
     },
     "2409:40e2:156:2d4c:34c9:4cff:febc:7e35": {
       "type": "movie",
-      "id": "tt29567915",
-      "title": "tt29567915",
+      "id": "tt35419807",
+      "title": "tt35419807",
       "username": "jai",
-      "lastActive": 1768976342707
+      "lastActive": 1768978112567
     },
     "2409:40d4:40db:ad3e:8d17:8798:4088:b454": {
       "type": "series",
@@ -82818,6 +82820,20 @@
       "title": "tt0903747:5:9",
       "username": "dillon_ka_shooter",
       "lastActive": 1768977552108
+    },
+    "2407:aa80:314:e15d:eda0:af04:6161:c89a": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "anonymous",
+      "lastActive": 1768977724929
+    },
+    "2401:4900:8fdf:ba99:66ae:88b4:3860:2ef3": {
+      "type": "series",
+      "id": "tt0417299:1:14",
+      "title": "Avatar: The Last Airbender",
+      "username": "arjun2077",
+      "lastActive": 1768978553246
     }
   }
 }
