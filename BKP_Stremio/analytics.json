@@ -1,5 +1,5 @@
 {
-  "totalViews": 13401,
+  "totalViews": 13406,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2777,49 +2777,10 @@
     "2a09:bac5:3c90:25af::3c1:36",
     "2806:2f0:6321:fd64:2369:8b49:7acb:a29a",
     "2409:40e4:6f:ae7d:fcb9:6eff:fe1c:8e10",
-    "106.222.229.65"
+    "106.222.229.65",
+    "2409:40f3:205d:4d00:b9b1:ee44:7a2f:3dd0"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt7587890:3:1",
-      "title": "tt7587890:3:1",
-      "timestamp": "2026-01-11T17:25:42.383Z",
-      "ip": "2600:8803:8700:29:42a0:b6d0:343a:9c13",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0063950:1:1",
-      "title": "tt0063950:1:1",
-      "timestamp": "2026-01-11T17:26:22.191Z",
-      "ip": "206.84.228.30",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1628033:17:4",
-      "title": "tt1628033:17:4",
-      "timestamp": "2026-01-11T17:28:06.544Z",
-      "ip": "13.229.234.108",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1628033:16:2",
-      "title": "tt1628033:16:2",
-      "timestamp": "2026-01-11T17:28:17.498Z",
-      "ip": "13.229.234.108",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:1:2",
-      "title": "Fallout",
-      "timestamp": "2026-01-11T17:28:33.801Z",
-      "ip": "2409:40e5:99:ccb7:f8fd:acff:feed:8f65",
-      "username": "cyberboy12321"
-    },
     {
       "type": "movie",
       "id": "tt0166792",
@@ -82779,6 +82740,46 @@
       "timestamp": "2026-01-21T20:11:48.741Z",
       "ip": "106.222.229.65",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0084372",
+      "title": "tt0084372",
+      "timestamp": "2026-01-21T20:34:06.640Z",
+      "ip": "106.222.229.65",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
+      "timestamp": "2026-01-21T20:35:00.692Z",
+      "ip": "2409:40f3:205d:4d00:b9b1:ee44:7a2f:3dd0",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-21T20:35:24.860Z",
+      "ip": "2409:40f3:205d:4d00:b9b1:ee44:7a2f:3dd0",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-21T20:35:30.410Z",
+      "ip": "2409:40f3:205d:4d00:b9b1:ee44:7a2f:3dd0",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-21T20:36:08.411Z",
+      "ip": "111.92.121.170",
+      "username": "un0fficial_itachi"
     }
   ],
   "activeNow": {
@@ -83477,10 +83478,10 @@
     },
     "111.92.121.170": {
       "type": "series",
-      "id": "tt12637874:1:1",
-      "title": "Fallout",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
       "username": "un0fficial_itachi",
-      "lastActive": 1769024984896
+      "lastActive": 1769027768411
     },
     "2409:40f0:303e:9168:bc95:71ff:fea5:76": {
       "type": "movie",
@@ -83746,7 +83747,14 @@
       "id": "tt0084372",
       "title": "tt0084372",
       "username": "anonymous",
-      "lastActive": 1769026308741
+      "lastActive": 1769027646640
+    },
+    "2409:40f3:205d:4d00:b9b1:ee44:7a2f:3dd0": {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "username": "un0fficial_itachi",
+      "lastActive": 1769027730410
     }
   }
 }
