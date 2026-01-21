@@ -1,5 +1,5 @@
 {
-  "totalViews": 12614,
+  "totalViews": 12615,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2661,17 +2661,10 @@
     "2a02:6ea0:d411:3574::12",
     "2409:40c0:1008:79a3:540c:63ff:fee8:3ed7",
     "2409:40c1:1006:618d:8000::",
-    "152.58.29.122"
+    "152.58.29.122",
+    "2409:40e2:20aa:7d1c:ad78:924f:16f2:7ecb"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1854564",
-      "title": "tt1854564",
-      "timestamp": "2026-01-11T12:18:01.110Z",
-      "ip": "103.46.200.249",
-      "username": "brosportses"
-    },
     {
       "type": "series",
       "id": "tt0412142:2:21",
@@ -82663,6 +82656,14 @@
       "timestamp": "2026-01-21T01:45:05.689Z",
       "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-21T02:02:54.532Z",
+      "ip": "2409:40e2:20aa:7d1c:ad78:924f:16f2:7ecb",
+      "username": "adr7000"
     }
   ],
   "activeNow": {
@@ -86788,6 +86789,13 @@
       "title": "tt28802657",
       "username": "oo0o0a0o0oo",
       "lastActive": 1768959876784
+    },
+    "2409:40e2:20aa:7d1c:ad78:924f:16f2:7ecb": {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "username": "adr7000",
+      "lastActive": 1768960974532
     }
   }
 }
