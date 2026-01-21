@@ -1,5 +1,5 @@
 {
-  "totalViews": 13395,
+  "totalViews": 13400,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2776,49 +2776,10 @@
     "2800:320:c0b2:cf00:9581:c1e3:83ea:c40f",
     "2a09:bac5:3c90:25af::3c1:36",
     "2806:2f0:6321:fd64:2369:8b49:7acb:a29a",
-    "2409:40e4:6f:ae7d:fcb9:6eff:fe1c:8e10"
+    "2409:40e4:6f:ae7d:fcb9:6eff:fe1c:8e10",
+    "106.222.229.65"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt5194792:1:8",
-      "title": "tt5194792:1:8",
-      "timestamp": "2026-01-11T17:21:25.060Z",
-      "ip": "2601:1c1:8d78:89b0:a93:ceae:d288:2d11",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0290673",
-      "title": "tt0290673",
-      "timestamp": "2026-01-11T17:21:26.548Z",
-      "ip": "2405:201:6030:20a8:68b9:168b:50b3:3295",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0898266:10:10",
-      "title": "tt0898266:10:10",
-      "timestamp": "2026-01-11T17:21:30.033Z",
-      "ip": "47.150.96.219",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32362695",
-      "title": "tt32362695",
-      "timestamp": "2026-01-11T17:21:55.973Z",
-      "ip": "2401:4900:1f27:9cda:8d52:1ad1:604d:fb01",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-11T17:22:51.279Z",
-      "ip": "119.42.57.23",
-      "username": "amit suryavanshi"
-    },
     {
       "type": "movie",
       "id": "tt28802657",
@@ -82778,6 +82739,46 @@
       "timestamp": "2026-01-21T19:51:38.665Z",
       "ip": "182.69.183.164",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-21T19:54:55.069Z",
+      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt21209876:1:1",
+      "title": "tt21209876:1:1",
+      "timestamp": "2026-01-21T19:55:21.911Z",
+      "ip": "2409:40e4:6f:ae7d:fcb9:6eff:fe1c:8e10",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt21209876:1:1",
+      "title": "tt21209876:1:1",
+      "timestamp": "2026-01-21T19:57:50.019Z",
+      "ip": "2409:40e4:6f:ae7d:fcb9:6eff:fe1c:8e10",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt6468322:2:1",
+      "title": "tt6468322:2:1",
+      "timestamp": "2026-01-21T19:59:50.116Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "movie",
+      "id": "tt0084372",
+      "title": "tt0084372",
+      "timestamp": "2026-01-21T20:07:56.928Z",
+      "ip": "106.222.229.65",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -83070,10 +83071,10 @@
     },
     "103.175.168.106": {
       "type": "series",
-      "id": "tt6468322:2:4",
-      "title": "tt6468322:2:4",
+      "id": "tt6468322:2:1",
+      "title": "tt6468322:2:1",
       "username": "un0fficial_itachi",
-      "lastActive": 1768997389154
+      "lastActive": 1769025590116
     },
     "43.224.150.191": {
       "type": "movie",
@@ -83283,7 +83284,7 @@
       "id": "tt4574334:1:1",
       "title": "Stranger Things",
       "username": "anonymous_rare",
-      "lastActive": 1769024919470
+      "lastActive": 1769025295069
     },
     "2402:a00:10a:815f:106b:7ce0:496c:6d40": {
       "type": "series",
@@ -83735,10 +83736,17 @@
     },
     "2409:40e4:6f:ae7d:fcb9:6eff:fe1c:8e10": {
       "type": "series",
-      "id": "tt9680440:2:3",
-      "title": "tt9680440:2:3",
+      "id": "tt21209876:1:1",
+      "title": "tt21209876:1:1",
       "username": "cyberboy12321",
-      "lastActive": 1769024600840
+      "lastActive": 1769025470019
+    },
+    "106.222.229.65": {
+      "type": "movie",
+      "id": "tt0084372",
+      "title": "tt0084372",
+      "username": "anonymous",
+      "lastActive": 1769026076928
     }
   }
 }
