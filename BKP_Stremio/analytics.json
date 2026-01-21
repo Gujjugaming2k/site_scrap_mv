@@ -1,5 +1,5 @@
 {
-  "totalViews": 13372,
+  "totalViews": 13376,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2774,41 +2774,10 @@
     "2405:201:2022:b81c:f0ea:5cb4:dc6e:fd69",
     "152.207.211.232",
     "2800:320:c0b2:cf00:9581:c1e3:83ea:c40f",
-    "2a09:bac5:3c90:25af::3c1:36"
+    "2a09:bac5:3c90:25af::3c1:36",
+    "2806:2f0:6321:fd64:2369:8b49:7acb:a29a"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0108399",
-      "title": "tt0108399",
-      "timestamp": "2026-01-11T17:09:40.418Z",
-      "ip": "152.42.43.54",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0466854",
-      "title": "tt0466854",
-      "timestamp": "2026-01-11T17:10:06.711Z",
-      "ip": "38.134.138.223",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt2922382",
-      "title": "tt2922382",
-      "timestamp": "2026-01-11T17:10:24.999Z",
-      "ip": "38.134.138.223",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt2215301",
-      "title": "tt2215301",
-      "timestamp": "2026-01-11T17:10:45.633Z",
-      "ip": "38.134.138.223",
-      "username": "thala_75"
-    },
     {
       "type": "movie",
       "id": "tt1180583",
@@ -82776,6 +82745,38 @@
       "timestamp": "2026-01-21T19:14:59.397Z",
       "ip": "2a09:bac5:3c90:25af::3c1:36",
       "username": "belimhuzaifa"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-21T19:32:13.059Z",
+      "ip": "2806:2f0:6321:fd64:2369:8b49:7acb:a29a",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt23172090",
+      "title": "tt23172090",
+      "timestamp": "2026-01-21T19:32:51.823Z",
+      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt0068646",
+      "title": "The Godfather",
+      "timestamp": "2026-01-21T19:33:21.445Z",
+      "ip": "182.69.183.164",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt23172090",
+      "title": "tt23172090",
+      "timestamp": "2026-01-21T19:38:25.628Z",
+      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
+      "username": "gendaswammy"
     }
   ],
   "activeNow": {
@@ -82906,11 +82907,11 @@
       "lastActive": 1769017017425
     },
     "182.69.183.164": {
-      "type": "series",
-      "id": "tt0903747:5:10",
-      "title": "tt0903747:5:10",
+      "type": "movie",
+      "id": "tt0068646",
+      "title": "The Godfather",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768984640995
+      "lastActive": 1769024001445
     },
     "2407:aa80:314:e15d:eda0:af04:6161:c89a": {
       "type": "movie",
@@ -83716,6 +83717,20 @@
       "title": "tt1520211:11:2",
       "username": "belimhuzaifa",
       "lastActive": 1769022899397
+    },
+    "2806:2f0:6321:fd64:2369:8b49:7acb:a29a": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "anonymous",
+      "lastActive": 1769023933059
+    },
+    "2405:201:300c:213:1ef4:3fff:fe0f:1b78": {
+      "type": "movie",
+      "id": "tt23172090",
+      "title": "tt23172090",
+      "username": "gendaswammy",
+      "lastActive": 1769024305628
     }
   }
 }
