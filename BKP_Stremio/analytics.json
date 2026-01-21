@@ -1,5 +1,5 @@
 {
-  "totalViews": 12838,
+  "totalViews": 12845,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2691,62 +2691,6 @@
     "2a09:bac5:3e74:1aa0::2a7:aa,2a09:bac5:37ac:ebe::178:145"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0944947:5:7",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-11T13:55:17.335Z",
-      "ip": "2409:40e7:62:14c4:8000::",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt37495011",
-      "title": "tt37495011",
-      "timestamp": "2026-01-11T13:55:43.214Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt8946378",
-      "title": "tt8946378",
-      "timestamp": "2026-01-11T13:56:18.545Z",
-      "ip": "202.47.38.198",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt11138512",
-      "title": "The Northman",
-      "timestamp": "2026-01-11T13:56:34.067Z",
-      "ip": "117.18.20.105",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt38121182",
-      "title": "tt38121182",
-      "timestamp": "2026-01-11T13:56:49.782Z",
-      "ip": "2a02:8086:d68:3980:5671:2f57:9254:f7d2",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4786824:1:5",
-      "title": "tt4786824:1:5",
-      "timestamp": "2026-01-11T13:57:39.555Z",
-      "ip": "2409:40e2:201d:6ab6:8000::",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0084667",
-      "title": "tt0084667",
-      "timestamp": "2026-01-11T13:57:48.191Z",
-      "ip": "2401:4900:86f9:d51:84d0:d7ff:fefd:3a45",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt3032476:2:3",
@@ -82690,6 +82634,62 @@
       "timestamp": "2026-01-21T08:12:19.785Z",
       "ip": "2a09:bac5:3e74:1aa0::2a7:aa,2a09:bac5:37ac:ebe::178:145",
       "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:6",
+      "title": "Fallout",
+      "timestamp": "2026-01-21T08:19:59.766Z",
+      "ip": "2a09:bac5:3af1:172d::24f:3",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt1757678",
+      "title": "tt1757678",
+      "timestamp": "2026-01-21T08:21:12.868Z",
+      "ip": "2a09:bac5:3af1:172d::24f:3",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt0045693",
+      "title": "tt0045693",
+      "timestamp": "2026-01-21T08:21:27.344Z",
+      "ip": "2a09:bac5:3e74:1aa0::2a7:aa,2a09:bac5:37ac:ebe::178:145",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt0108778:9:5",
+      "title": "tt0108778:9:5",
+      "timestamp": "2026-01-21T08:23:35.802Z",
+      "ip": "2a09:bac5:3af1:172d::24f:3",
+      "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt9561862:2:1",
+      "title": "tt9561862:2:1",
+      "timestamp": "2026-01-21T08:26:35.384Z",
+      "ip": "150.107.212.194",
+      "username": "abelboby"
+    },
+    {
+      "type": "series",
+      "id": "tt9561862:2:2",
+      "title": "tt9561862:2:2",
+      "timestamp": "2026-01-21T08:27:24.068Z",
+      "ip": "150.107.212.194",
+      "username": "abelboby"
+    },
+    {
+      "type": "series",
+      "id": "tt12324366:2:8",
+      "title": "tt12324366:2:8",
+      "timestamp": "2026-01-21T08:27:54.695Z",
+      "ip": "2409:40f0:104d:4bc3:285e:e7ff:fe93:479",
+      "username": "rick"
     }
   ],
   "activeNow": {
@@ -82877,17 +82877,31 @@
     },
     "2409:40f0:104d:4bc3:285e:e7ff:fe93:479": {
       "type": "series",
-      "id": "tt12324366:2:1",
-      "title": "tt12324366:2:1",
+      "id": "tt12324366:2:8",
+      "title": "tt12324366:2:8",
       "username": "rick",
-      "lastActive": 1768982909437
+      "lastActive": 1768984074695
     },
     "2a09:bac5:3e74:1aa0::2a7:aa,2a09:bac5:37ac:ebe::178:145": {
       "type": "movie",
-      "id": "tt6604188",
-      "title": "TRON: Ares",
+      "id": "tt0045693",
+      "title": "tt0045693",
       "username": "anonymous_rare",
-      "lastActive": 1768983139785
+      "lastActive": 1768983687344
+    },
+    "2a09:bac5:3af1:172d::24f:3": {
+      "type": "series",
+      "id": "tt0108778:9:5",
+      "title": "tt0108778:9:5",
+      "username": "switchoff009",
+      "lastActive": 1768983815802
+    },
+    "150.107.212.194": {
+      "type": "series",
+      "id": "tt9561862:2:2",
+      "title": "tt9561862:2:2",
+      "username": "abelboby",
+      "lastActive": 1768984044068
     }
   }
 }
