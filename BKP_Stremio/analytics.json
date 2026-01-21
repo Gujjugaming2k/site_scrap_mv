@@ -1,5 +1,5 @@
 {
-  "totalViews": 12833,
+  "totalViews": 12838,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2686,49 +2686,11 @@
     "2401:4900:8fdf:ba99:66ae:88b4:3860:2ef3",
     "85.154.20.25",
     "2401:4900:8515:fbaa::3d65:4d00",
-    "2409:40d4:1018:a4a4:3c73:75fd:63a4:6c22"
+    "2409:40d4:1018:a4a4:3c73:75fd:63a4:6c22",
+    "2409:40f0:104d:4bc3:285e:e7ff:fe93:479",
+    "2a09:bac5:3e74:1aa0::2a7:aa,2a09:bac5:37ac:ebe::178:145"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt36631539:1:4",
-      "title": "tt36631539:1:4",
-      "timestamp": "2026-01-11T13:52:59.611Z",
-      "ip": "183.171.158.83",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32362695",
-      "title": "tt32362695",
-      "timestamp": "2026-01-11T13:53:21.842Z",
-      "ip": "2401:4900:1f27:9cda:8d52:1ad1:604d:fb01",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-01-11T13:53:27.473Z",
-      "ip": "117.18.20.105",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0898266:9:24",
-      "title": "tt0898266:9:24",
-      "timestamp": "2026-01-11T13:53:36.488Z",
-      "ip": "47.150.96.219",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt4154756",
-      "title": "Avengers: Infinity War",
-      "timestamp": "2026-01-11T13:54:07.097Z",
-      "ip": "27.147.191.122",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0944947:5:7",
@@ -82688,6 +82650,46 @@
       "timestamp": "2026-01-21T07:59:00.564Z",
       "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
       "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt12324366:2:8",
+      "title": "tt12324366:2:8",
+      "timestamp": "2026-01-21T08:04:09.470Z",
+      "ip": "2409:40f0:104d:4bc3:285e:e7ff:fe93:479",
+      "username": "rick"
+    },
+    {
+      "type": "series",
+      "id": "tt12324366:2:8",
+      "title": "tt12324366:2:8",
+      "timestamp": "2026-01-21T08:07:24.615Z",
+      "ip": "2409:40f0:104d:4bc3:285e:e7ff:fe93:479",
+      "username": "rick"
+    },
+    {
+      "type": "series",
+      "id": "tt12324366:2:8",
+      "title": "tt12324366:2:8",
+      "timestamp": "2026-01-21T08:07:33.585Z",
+      "ip": "2409:40f0:104d:4bc3:285e:e7ff:fe93:479",
+      "username": "rick"
+    },
+    {
+      "type": "series",
+      "id": "tt12324366:2:1",
+      "title": "tt12324366:2:1",
+      "timestamp": "2026-01-21T08:08:29.437Z",
+      "ip": "2409:40f0:104d:4bc3:285e:e7ff:fe93:479",
+      "username": "rick"
+    },
+    {
+      "type": "movie",
+      "id": "tt6604188",
+      "title": "TRON: Ares",
+      "timestamp": "2026-01-21T08:12:19.785Z",
+      "ip": "2a09:bac5:3e74:1aa0::2a7:aa,2a09:bac5:37ac:ebe::178:145",
+      "username": "anonymous_rare"
     }
   ],
   "activeNow": {
@@ -82872,6 +82874,20 @@
       "title": "tt26903104",
       "username": "nothing_8888",
       "lastActive": 1768981121306
+    },
+    "2409:40f0:104d:4bc3:285e:e7ff:fe93:479": {
+      "type": "series",
+      "id": "tt12324366:2:1",
+      "title": "tt12324366:2:1",
+      "username": "rick",
+      "lastActive": 1768982909437
+    },
+    "2a09:bac5:3e74:1aa0::2a7:aa,2a09:bac5:37ac:ebe::178:145": {
+      "type": "movie",
+      "id": "tt6604188",
+      "title": "TRON: Ares",
+      "username": "anonymous_rare",
+      "lastActive": 1768983139785
     }
   }
 }
