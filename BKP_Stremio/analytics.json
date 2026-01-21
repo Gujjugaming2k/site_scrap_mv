@@ -1,5 +1,5 @@
 {
-  "totalViews": 13244,
+  "totalViews": 13251,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2754,65 +2754,10 @@
     "2a09:bac5:3af1:172d::24f:2",
     "2a09:bac5:3c92:2723::3e6:5d",
     "2406:b400:d11:8e92:bdb3:aa15:a9:a6f8",
-    "2401:4900:8f60:528e:2198:3e8f:a441:4e9d"
+    "2401:4900:8f60:528e:2198:3e8f:a441:4e9d",
+    "2409:40d2:3001:f5fd:8000::"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-01-11T16:28:08.872Z",
-      "ip": "38.134.138.223",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-01-11T16:28:22.224Z",
-      "ip": "38.134.138.223",
-      "username": "thala_75"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:1:1",
-      "title": "Fallout",
-      "timestamp": "2026-01-11T16:28:30.793Z",
-      "ip": "2409:40e5:99:ccb7:f8fd:acff:feed:8f65",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:1:2",
-      "title": "Fallout",
-      "timestamp": "2026-01-11T16:28:32.434Z",
-      "ip": "2409:40e5:99:ccb7:f8fd:acff:feed:8f65",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "movie",
-      "id": "tt15398776",
-      "title": "Oppenheimer",
-      "timestamp": "2026-01-11T16:28:52.179Z",
-      "ip": "38.134.138.223",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt14850054",
-      "title": "tt14850054",
-      "timestamp": "2026-01-11T16:28:59.841Z",
-      "ip": "181.214.131.165",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T16:29:01.397Z",
-      "ip": "2401:4900:3616:79e2:b8d1:41d0:341a:bd3b",
-      "username": "vflix1993"
-    },
     {
       "type": "series",
       "id": "tt32612521:1:4",
@@ -82756,6 +82701,62 @@
       "timestamp": "2026-01-21T15:11:39.982Z",
       "ip": "2a09:bac5:3c92:2723::3e6:5d",
       "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:2:3",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-21T15:16:03.693Z",
+      "ip": "2401:4900:8503:279f::3d7b:4e87",
+      "username": "abhi231511"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:2:4",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-21T15:16:13.056Z",
+      "ip": "2401:4900:8503:279f::3d7b:4e87",
+      "username": "abhi231511"
+    },
+    {
+      "type": "movie",
+      "id": "tt5813366",
+      "title": "tt5813366",
+      "timestamp": "2026-01-21T15:17:08.099Z",
+      "ip": "205.254.185.25",
+      "username": "space_forca"
+    },
+    {
+      "type": "movie",
+      "id": "tt4627382",
+      "title": "Roofman",
+      "timestamp": "2026-01-21T15:19:01.930Z",
+      "ip": "205.254.185.25",
+      "username": "space_forca"
+    },
+    {
+      "type": "movie",
+      "id": "tt6604188",
+      "title": "TRON: Ares",
+      "timestamp": "2026-01-21T15:20:32.851Z",
+      "ip": "2409:40d2:3001:f5fd:8000::",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt34159694",
+      "title": "tt34159694",
+      "timestamp": "2026-01-21T15:25:25.554Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt34159694",
+      "title": "tt34159694",
+      "timestamp": "2026-01-21T15:26:20.166Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -82880,10 +82881,10 @@
     },
     "103.24.85.218": {
       "type": "movie",
-      "id": "tt2948356",
-      "title": "Zootopia",
+      "id": "tt34159694",
+      "title": "tt34159694",
       "username": "william097",
-      "lastActive": 1768989699943
+      "lastActive": 1769009180166
     },
     "182.69.183.164": {
       "type": "series",
@@ -83160,10 +83161,10 @@
     },
     "2401:4900:8503:279f::3d7b:4e87": {
       "type": "series",
-      "id": "tt0944947:2:3",
+      "id": "tt0944947:2:4",
       "title": "Game of Thrones",
       "username": "abhi231511",
-      "lastActive": 1769007506089
+      "lastActive": 1769008573056
     },
     "2409:40f0:2421:6e78:9cad:bcff:fecb:2c2a": {
       "type": "movie",
@@ -83377,10 +83378,10 @@
     },
     "205.254.185.25": {
       "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
+      "id": "tt4627382",
+      "title": "Roofman",
       "username": "space_forca",
-      "lastActive": 1769002354495
+      "lastActive": 1769008741930
     },
     "104.28.193.6": {
       "type": "series",
@@ -83500,6 +83501,13 @@
       "title": "Disorder in the Court",
       "username": "anonymous_rare",
       "lastActive": 1769008051316
+    },
+    "2409:40d2:3001:f5fd:8000::": {
+      "type": "movie",
+      "id": "tt6604188",
+      "title": "TRON: Ares",
+      "username": "demon18319",
+      "lastActive": 1769008832851
     }
   }
 }
