@@ -1,5 +1,5 @@
 {
-  "totalViews": 13368,
+  "totalViews": 13372,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2777,38 +2777,6 @@
     "2a09:bac5:3c90:25af::3c1:36"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt29921437:1:7",
-      "title": "tt29921437:1:7",
-      "timestamp": "2026-01-11T17:07:54.344Z",
-      "ip": "139.135.53.141",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt2187153",
-      "title": "tt2187153",
-      "timestamp": "2026-01-11T17:08:12.025Z",
-      "ip": "38.134.138.223",
-      "username": "thala_75"
-    },
-    {
-      "type": "series",
-      "id": "tt1520211:9:3",
-      "title": "tt1520211:9:3",
-      "timestamp": "2026-01-11T17:09:03.393Z",
-      "ip": "51.68.174.169",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt13634792:1:15",
-      "title": "tt13634792:1:15",
-      "timestamp": "2026-01-11T17:09:29.896Z",
-      "ip": "181.232.191.78",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt0108399",
@@ -82776,6 +82744,38 @@
       "timestamp": "2026-01-21T18:59:18.123Z",
       "ip": "2409:40c4:3115:1ebd:806b:44ff:feec:3eb1",
       "username": "napsteerr"
+    },
+    {
+      "type": "series",
+      "id": "tt39133077:1:1",
+      "title": "tt39133077:1:1",
+      "timestamp": "2026-01-21T19:07:07.139Z",
+      "ip": "111.92.121.170",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "movie",
+      "id": "tt29780866",
+      "title": "Icefall",
+      "timestamp": "2026-01-21T19:07:41.336Z",
+      "ip": "111.92.121.170",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt1520211:11:1",
+      "title": "tt1520211:11:1",
+      "timestamp": "2026-01-21T19:14:27.826Z",
+      "ip": "2a09:bac5:3c90:25af::3c1:36",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt1520211:11:2",
+      "title": "tt1520211:11:2",
+      "timestamp": "2026-01-21T19:14:59.397Z",
+      "ip": "2a09:bac5:3c90:25af::3c1:36",
+      "username": "belimhuzaifa"
     }
   ],
   "activeNow": {
@@ -83473,11 +83473,11 @@
       "lastActive": 1769006313366
     },
     "111.92.121.170": {
-      "type": "series",
-      "id": "tt31974288:1:1",
-      "title": "tt31974288:1:1",
+      "type": "movie",
+      "id": "tt29780866",
+      "title": "Icefall",
       "username": "un0fficial_itachi",
-      "lastActive": 1769021902080
+      "lastActive": 1769022461336
     },
     "2409:40f0:303e:9168:bc95:71ff:fea5:76": {
       "type": "movie",
@@ -83711,11 +83711,11 @@
       "lastActive": 1769020527544
     },
     "2a09:bac5:3c90:25af::3c1:36": {
-      "type": "movie",
-      "id": "tt1856101",
-      "title": "tt1856101",
+      "type": "series",
+      "id": "tt1520211:11:2",
+      "title": "tt1520211:11:2",
       "username": "belimhuzaifa",
-      "lastActive": 1769021292695
+      "lastActive": 1769022899397
     }
   }
 }
