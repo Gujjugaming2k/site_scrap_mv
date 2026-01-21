@@ -1,5 +1,5 @@
 {
-  "totalViews": 13361,
+  "totalViews": 13368,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2777,62 +2777,6 @@
     "2a09:bac5:3c90:25af::3c1:36"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0879843",
-      "title": "tt0879843",
-      "timestamp": "2026-01-11T17:05:35.702Z",
-      "ip": "177.222.62.25",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt5194792:1:9",
-      "title": "tt5194792:1:9",
-      "timestamp": "2026-01-11T17:05:42.916Z",
-      "ip": "2601:1c1:8d78:89b0:a93:ceae:d288:2d11",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt36463894",
-      "title": "Predator: Killer of Killers",
-      "timestamp": "2026-01-11T17:05:58.815Z",
-      "ip": "37.19.211.50",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt37492943:1:6",
-      "title": "tt37492943:1:6",
-      "timestamp": "2026-01-11T17:06:27.198Z",
-      "ip": "165.16.242.151",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt3825904:1:1",
-      "title": "tt3825904:1:1",
-      "timestamp": "2026-01-11T17:06:56.164Z",
-      "ip": "190.200.252.148",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt23790696",
-      "title": "tt23790696",
-      "timestamp": "2026-01-11T17:07:09.647Z",
-      "ip": "2401:4900:a604:fda7:7d4f:905f:b9b3:5204",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0948103:1:9",
-      "title": "tt0948103:1:9",
-      "timestamp": "2026-01-11T17:07:46.710Z",
-      "ip": "2406:7400:113:270e:e0e8:6a4f:5cb2:b2b5",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt29921437:1:7",
@@ -82776,6 +82720,62 @@
       "timestamp": "2026-01-21T18:48:12.695Z",
       "ip": "2a09:bac5:3c90:25af::3c1:36",
       "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:1:14",
+      "title": "Lost",
+      "timestamp": "2026-01-21T18:55:51.156Z",
+      "ip": "116.68.79.147",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:1:15",
+      "title": "Lost",
+      "timestamp": "2026-01-21T18:56:08.733Z",
+      "ip": "116.68.79.147",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
+      "timestamp": "2026-01-21T18:56:48.142Z",
+      "ip": "111.92.121.170",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-21T18:57:12.981Z",
+      "ip": "111.92.121.170",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt31974288:1:1",
+      "title": "tt31974288:1:1",
+      "timestamp": "2026-01-21T18:58:22.080Z",
+      "ip": "111.92.121.170",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt12867810:1:9",
+      "title": "tt12867810:1:9",
+      "timestamp": "2026-01-21T18:59:08.293Z",
+      "ip": "2409:40c4:3115:1ebd:806b:44ff:feec:3eb1",
+      "username": "napsteerr"
+    },
+    {
+      "type": "series",
+      "id": "tt12867810:1:10",
+      "title": "tt12867810:1:10",
+      "timestamp": "2026-01-21T18:59:18.123Z",
+      "ip": "2409:40c4:3115:1ebd:806b:44ff:feec:3eb1",
+      "username": "napsteerr"
     }
   ],
   "activeNow": {
@@ -83019,10 +83019,10 @@
     },
     "2409:40c4:3115:1ebd:806b:44ff:feec:3eb1": {
       "type": "series",
-      "id": "tt12867810:1:9",
-      "title": "tt12867810:1:9",
+      "id": "tt12867810:1:10",
+      "title": "tt12867810:1:10",
       "username": "napsteerr",
-      "lastActive": 1769018420942
+      "lastActive": 1769021958123
     },
     "2401:4900:8913:f57:c:b6f9:a1cc:1b05": {
       "type": "series",
@@ -83474,10 +83474,10 @@
     },
     "111.92.121.170": {
       "type": "series",
-      "id": "tt33035373:1:1",
-      "title": "tt33035373:1:1",
+      "id": "tt31974288:1:1",
+      "title": "tt31974288:1:1",
       "username": "un0fficial_itachi",
-      "lastActive": 1769010118357
+      "lastActive": 1769021902080
     },
     "2409:40f0:303e:9168:bc95:71ff:fea5:76": {
       "type": "movie",
@@ -83670,10 +83670,10 @@
     },
     "116.68.79.147": {
       "type": "series",
-      "id": "tt0411008:1:14",
+      "id": "tt0411008:1:15",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1769019924941
+      "lastActive": 1769021768733
     },
     "2803:9810:b081:4110:15c1:1ed6:8927:440d": {
       "type": "movie",
