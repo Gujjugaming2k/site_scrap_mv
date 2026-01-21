@@ -1,5 +1,5 @@
 {
-  "totalViews": 13436,
+  "totalViews": 13438,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2785,25 +2785,10 @@
     "2001:4490:4e65:2d65:6133:7b65:a69f:9018",
     "41.201.244.53",
     "147.93.215.38",
-    "2806:2f0:60e1:e227:c5ae:3f89:8639:5d64"
+    "2806:2f0:60e1:e227:c5ae:3f89:8639:5d64",
+    "197.202.203.245"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1266020:1:1",
-      "title": "tt1266020:1:1",
-      "timestamp": "2026-01-11T17:45:23.199Z",
-      "ip": "162.212.211.108",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0417299:1:1",
-      "title": "Avatar: The Last Airbender",
-      "timestamp": "2026-01-11T17:45:46.190Z",
-      "ip": "38.242.240.239",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt32001464",
@@ -82787,6 +82772,22 @@
       "timestamp": "2026-01-21T23:25:21.124Z",
       "ip": "147.93.215.38",
       "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:3:2",
+      "title": "tt0369179:3:2",
+      "timestamp": "2026-01-21T23:45:09.782Z",
+      "ip": "197.202.203.245",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:3",
+      "title": "tt35335046:1:3",
+      "timestamp": "2026-01-21T23:46:48.198Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
     }
   ],
   "activeNow": {
@@ -82966,11 +82967,11 @@
       "lastActive": 1768981084113
     },
     "115.98.99.86": {
-      "type": "movie",
-      "id": "tt16539454",
-      "title": "tt16539454",
+      "type": "series",
+      "id": "tt35335046:1:3",
+      "title": "tt35335046:1:3",
       "username": "nothing_8888",
-      "lastActive": 1768999720470
+      "lastActive": 1769039208198
     },
     "2409:40f0:104d:4bc3:285e:e7ff:fe93:479": {
       "type": "series",
@@ -83825,6 +83826,13 @@
       "title": "tt30176429:1:1",
       "username": "anonymous",
       "lastActive": 1769037884726
+    },
+    "197.202.203.245": {
+      "type": "series",
+      "id": "tt0369179:3:2",
+      "title": "tt0369179:3:2",
+      "username": "anonymous",
+      "lastActive": 1769039109782
     }
   }
 }
