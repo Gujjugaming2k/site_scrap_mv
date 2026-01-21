@@ -1,5 +1,5 @@
 {
-  "totalViews": 13324,
+  "totalViews": 13329,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2765,49 +2765,11 @@
     "2405:201:a001:8030:feec:45ca:9971:3cbc",
     "2405:201:202d:d014:8554:6dab:528a:8de0",
     "2405:201:2022:b81c:fc9b:ba65:f345:6a17",
-    "115.98.233.142"
+    "115.98.233.142",
+    "43.248.153.43",
+    "223.227.51.231"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt36388163",
-      "title": "tt36388163",
-      "timestamp": "2026-01-11T16:51:50.858Z",
-      "ip": "38.134.138.223",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt36388163",
-      "title": "tt36388163",
-      "timestamp": "2026-01-11T16:52:43.180Z",
-      "ip": "38.134.138.223",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt31495504",
-      "title": "tt31495504",
-      "timestamp": "2026-01-11T16:53:31.370Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt32612521:1:5",
-      "title": "tt32612521:1:5",
-      "timestamp": "2026-01-11T16:53:54.328Z",
-      "ip": "173.243.26.214",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0810900",
-      "title": "tt0810900",
-      "timestamp": "2026-01-11T16:54:02.940Z",
-      "ip": "2a01:e34:ec21:240:b37:c1c1:b9fc:7153",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0229890:1:1",
@@ -82767,6 +82729,46 @@
       "timestamp": "2026-01-21T17:47:55.400Z",
       "ip": "2405:201:2022:b81c:fc9b:ba65:f345:6a17",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:2",
+      "title": "tt35335046:1:2",
+      "timestamp": "2026-01-21T17:50:04.219Z",
+      "ip": "2405:201:2022:b81c:fc9b:ba65:f345:6a17",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt4667888:1:1",
+      "title": "tt4667888:1:1",
+      "timestamp": "2026-01-21T17:50:28.659Z",
+      "ip": "43.248.153.43",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0259141:1:1",
+      "title": "tt0259141:1:1",
+      "timestamp": "2026-01-21T17:59:53.781Z",
+      "ip": "223.227.51.231",
+      "username": "goatedbentennyson"
+    },
+    {
+      "type": "series",
+      "id": "tt12867810:1:8",
+      "title": "tt12867810:1:8",
+      "timestamp": "2026-01-21T18:00:10.967Z",
+      "ip": "2409:40c4:3115:1ebd:806b:44ff:feec:3eb1",
+      "username": "napsteerr"
+    },
+    {
+      "type": "series",
+      "id": "tt12867810:1:9",
+      "title": "tt12867810:1:9",
+      "timestamp": "2026-01-21T18:00:20.942Z",
+      "ip": "2409:40c4:3115:1ebd:806b:44ff:feec:3eb1",
+      "username": "napsteerr"
     }
   ],
   "activeNow": {
@@ -83010,10 +83012,10 @@
     },
     "2409:40c4:3115:1ebd:806b:44ff:feec:3eb1": {
       "type": "series",
-      "id": "tt12867810:1:7",
-      "title": "tt12867810:1:7",
+      "id": "tt12867810:1:9",
+      "title": "tt12867810:1:9",
       "username": "napsteerr",
-      "lastActive": 1769016645287
+      "lastActive": 1769018420942
     },
     "2401:4900:8913:f57:c:b6f9:a1cc:1b05": {
       "type": "series",
@@ -83604,11 +83606,11 @@
       "lastActive": 1769014661934
     },
     "2405:201:2022:b81c:fc9b:ba65:f345:6a17": {
-      "type": "movie",
-      "id": "tt14905854",
-      "title": "tt14905854",
+      "type": "series",
+      "id": "tt35335046:1:2",
+      "title": "tt35335046:1:2",
       "username": "zealousninja",
-      "lastActive": 1769017675400
+      "lastActive": 1769017804219
     },
     "115.98.233.142": {
       "type": "series",
@@ -83630,6 +83632,20 @@
       "title": "tt35335046:1:4",
       "username": "anonymous",
       "lastActive": 1769017382492
+    },
+    "43.248.153.43": {
+      "type": "series",
+      "id": "tt4667888:1:1",
+      "title": "tt4667888:1:1",
+      "username": "anonymous",
+      "lastActive": 1769017828659
+    },
+    "223.227.51.231": {
+      "type": "series",
+      "id": "tt0259141:1:1",
+      "title": "tt0259141:1:1",
+      "username": "goatedbentennyson",
+      "lastActive": 1769018393781
     }
   }
 }
