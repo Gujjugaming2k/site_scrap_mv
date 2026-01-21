@@ -1,5 +1,5 @@
 {
-  "totalViews": 13400,
+  "totalViews": 13401,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2780,14 +2780,6 @@
     "106.222.229.65"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
-      "timestamp": "2026-01-11T17:25:31.934Z",
-      "ip": "2405:201:2033:f3:f4ac:de0e:cbcc:e797",
-      "username": "surti_lala"
-    },
     {
       "type": "series",
       "id": "tt7587890:3:1",
@@ -82779,6 +82771,14 @@
       "timestamp": "2026-01-21T20:07:56.928Z",
       "ip": "106.222.229.65",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0084372",
+      "title": "tt0084372",
+      "timestamp": "2026-01-21T20:11:48.741Z",
+      "ip": "106.222.229.65",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -83746,7 +83746,7 @@
       "id": "tt0084372",
       "title": "tt0084372",
       "username": "anonymous",
-      "lastActive": 1769026076928
+      "lastActive": 1769026308741
     }
   }
 }
