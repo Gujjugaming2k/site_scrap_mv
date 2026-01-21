@@ -1,5 +1,5 @@
 {
-  "totalViews": 12601,
+  "totalViews": 12604,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2661,30 +2661,6 @@
     "2a02:6ea0:d411:3574::12"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1884856:8:5",
-      "title": "tt1884856:8:5",
-      "timestamp": "2026-01-11T12:12:00.619Z",
-      "ip": "175.107.225.247",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T12:13:19.947Z",
-      "ip": "197.1.121.249",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T12:13:24.096Z",
-      "ip": "197.1.121.249",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt31589662:2:11",
@@ -82660,6 +82636,30 @@
       "timestamp": "2026-01-20T23:49:24.422Z",
       "ip": "105.106.33.182",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
+      "timestamp": "2026-01-21T00:36:33.021Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
+      "timestamp": "2026-01-21T00:41:54.678Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
+      "timestamp": "2026-01-21T00:42:41.221Z",
+      "ip": "49.36.217.235",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -83735,11 +83735,11 @@
       "lastActive": 1768696146310
     },
     "2405:201:6820:a83c:bdef:55c1:5b2d:3408": {
-      "type": "series",
-      "id": "tt0460649:3:18",
-      "title": "tt0460649:3:18",
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
       "username": "demon18319",
-      "lastActive": 1768927128529
+      "lastActive": 1768956114678
     },
     "201.247.170.237": {
       "type": "series",
@@ -85436,11 +85436,11 @@
       "lastActive": 1768918577095
     },
     "49.36.217.235": {
-      "type": "series",
-      "id": "tt22091076:2:9",
-      "title": "tt22091076:2:9",
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
       "username": "demon18319",
-      "lastActive": 1768828009689
+      "lastActive": 1768956161221
     },
     "2405:201:6820:a83c:7853:e82f:cb85:765a": {
       "type": "movie",
