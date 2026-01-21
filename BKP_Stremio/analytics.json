@@ -1,5 +1,5 @@
 {
-  "totalViews": 12639,
+  "totalViews": 12641,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2666,22 +2666,6 @@
     "190.140.187.206"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt21309170",
-      "title": "tt21309170",
-      "timestamp": "2026-01-11T12:29:46.140Z",
-      "ip": "72.255.11.154",
-      "username": "hvre2"
-    },
-    {
-      "type": "movie",
-      "id": "tt3402138",
-      "title": "The Naked Gun",
-      "timestamp": "2026-01-11T12:29:56.404Z",
-      "ip": "2401:4900:97c1:a2:cf5b:c99c:ced8:8f51",
-      "username": "syedkareem97"
-    },
     {
       "type": "movie",
       "id": "tt21309170",
@@ -82665,6 +82649,22 @@
       "timestamp": "2026-01-21T03:19:18.844Z",
       "ip": "190.140.187.206",
       "username": "ymcine"
+    },
+    {
+      "type": "series",
+      "id": "tt38990492:1:1",
+      "title": "tt38990492:1:1",
+      "timestamp": "2026-01-21T03:20:30.721Z",
+      "ip": "190.140.187.206",
+      "username": "ymcine"
+    },
+    {
+      "type": "series",
+      "id": "tt38990492:1:2",
+      "title": "tt38990492:1:2",
+      "timestamp": "2026-01-21T03:20:52.035Z",
+      "ip": "190.140.187.206",
+      "username": "ymcine"
     }
   ],
   "activeNow": {
@@ -86800,10 +86800,10 @@
     },
     "190.140.187.206": {
       "type": "series",
-      "id": "tt10110314:1:1",
-      "title": "tt10110314:1:1",
+      "id": "tt38990492:1:2",
+      "title": "tt38990492:1:2",
       "username": "ymcine",
-      "lastActive": 1768965558844
+      "lastActive": 1768965652035
     }
   }
 }
