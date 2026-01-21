@@ -1,5 +1,5 @@
 {
-  "totalViews": 12606,
+  "totalViews": 12610,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2658,41 +2658,10 @@
     "105.106.33.182",
     "2401:4900:ba2f:d134::2d1e:2405",
     "2409:40f0:2415:f927:58ad:58ff:fe2e:43d0",
-    "2a02:6ea0:d411:3574::12"
+    "2a02:6ea0:d411:3574::12",
+    "2409:40c0:1008:79a3:540c:63ff:fee8:3ed7"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:5:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T12:14:12.950Z",
-      "ip": "102.152.223.222",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:4",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T12:14:15.688Z",
-      "ip": "102.152.223.222",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T12:14:18.259Z",
-      "ip": "197.1.121.249",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:4",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T12:14:18.783Z",
-      "ip": "197.1.121.249",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt4574334:5:4",
@@ -82660,6 +82629,38 @@
       "timestamp": "2026-01-21T00:59:58.091Z",
       "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
       "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:5",
+      "title": "Fallout",
+      "timestamp": "2026-01-21T01:20:53.721Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-21T01:22:44.702Z",
+      "ip": "2409:40c0:1008:79a3:540c:63ff:fee8:3ed7",
+      "username": "oo0o0a0o0oo"
+    },
+    {
+      "type": "movie",
+      "id": "tt8178634",
+      "title": "tt8178634",
+      "timestamp": "2026-01-21T01:23:34.068Z",
+      "ip": "2409:40c0:1008:79a3:540c:63ff:fee8:3ed7",
+      "username": "oo0o0a0o0oo"
+    },
+    {
+      "type": "movie",
+      "id": "tt2085783",
+      "title": "tt2085783",
+      "timestamp": "2026-01-21T01:24:38.885Z",
+      "ip": "2409:40c0:1008:79a3:540c:63ff:fee8:3ed7",
+      "username": "oo0o0a0o0oo"
     }
   ],
   "activeNow": {
@@ -83736,10 +83737,10 @@
     },
     "2405:201:6820:a83c:bdef:55c1:5b2d:3408": {
       "type": "series",
-      "id": "tt12637874:2:4",
+      "id": "tt12637874:2:5",
       "title": "Fallout",
       "username": "demon18319",
-      "lastActive": 1768957198091
+      "lastActive": 1768958453721
     },
     "201.247.170.237": {
       "type": "series",
@@ -86764,6 +86765,13 @@
       "title": "tt0143215",
       "username": "anonymous",
       "lastActive": 1768952913263
+    },
+    "2409:40c0:1008:79a3:540c:63ff:fee8:3ed7": {
+      "type": "movie",
+      "id": "tt2085783",
+      "title": "tt2085783",
+      "username": "oo0o0a0o0oo",
+      "lastActive": 1768958678885
     }
   }
 }
