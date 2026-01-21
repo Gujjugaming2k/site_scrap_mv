@@ -1,5 +1,5 @@
 {
-  "totalViews": 12738,
+  "totalViews": 12740,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2672,25 +2672,10 @@
     "2800:484:4b76:8200:4850:6538:bfd0:5c0c",
     "103.175.9.25",
     "115.187.38.42",
-    "2409:40d4:40db:ad3e:8d17:8798:4088:b454"
+    "2409:40d4:40db:ad3e:8d17:8798:4088:b454",
+    "2402:3a80:452b:fe1b:1811:d3ff:febd:3461"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt37506041",
-      "title": "tt37506041",
-      "timestamp": "2026-01-11T13:12:03.327Z",
-      "ip": "2409:40c1:31d9:e4f9:9ca0:5aff:fe51:3ae4",
-      "username": "tips9694"
-    },
-    {
-      "type": "series",
-      "id": "tt0285331:6:24",
-      "title": "tt0285331:6:24",
-      "timestamp": "2026-01-11T13:12:32.065Z",
-      "ip": "45.86.208.121",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt31495504",
@@ -82674,15 +82659,31 @@
       "timestamp": "2026-01-21T05:37:05.742Z",
       "ip": "103.184.105.250",
       "username": "schnom153"
+    },
+    {
+      "type": "series",
+      "id": "tt1480925:1:3",
+      "title": "tt1480925:1:3",
+      "timestamp": "2026-01-21T05:40:29.950Z",
+      "ip": "103.184.105.250",
+      "username": "schnom153"
+    },
+    {
+      "type": "series",
+      "id": "tt31974288:1:1",
+      "title": "tt31974288:1:1",
+      "timestamp": "2026-01-21T05:49:44.213Z",
+      "ip": "2402:3a80:452b:fe1b:1811:d3ff:febd:3461",
+      "username": "surti_lala"
     }
   ],
   "activeNow": {
     "103.184.105.250": {
-      "type": "movie",
-      "id": "tt30472557:1:1",
-      "title": "tt30472557:1:1",
+      "type": "series",
+      "id": "tt1480925:1:3",
+      "title": "tt1480925:1:3",
       "username": "schnom153",
-      "lastActive": 1768973825742
+      "lastActive": 1768974029950
     },
     "2401:4900:8820:8915:9f5a:db66:9f11:2a7c,2a09:bac5:37ac:ebe::178:145": {
       "type": "series",
@@ -82704,6 +82705,13 @@
       "title": "Death Note",
       "username": "anonymous",
       "lastActive": 1768972848957
+    },
+    "2402:3a80:452b:fe1b:1811:d3ff:febd:3461": {
+      "type": "series",
+      "id": "tt31974288:1:1",
+      "title": "tt31974288:1:1",
+      "username": "surti_lala",
+      "lastActive": 1768974584213
     }
   }
 }
