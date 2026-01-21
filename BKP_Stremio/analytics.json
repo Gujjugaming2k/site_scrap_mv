@@ -1,5 +1,5 @@
 {
-  "totalViews": 12620,
+  "totalViews": 12626,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2665,54 +2665,6 @@
     "2409:40e2:20aa:7d1c:ad78:924f:16f2:7ecb"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt6494622:1:5",
-      "title": "tt6494622:1:5",
-      "timestamp": "2026-01-11T12:23:52.939Z",
-      "ip": "103.176.156.90",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0898266:4:13",
-      "title": "tt0898266:4:13",
-      "timestamp": "2026-01-11T12:24:02.584Z",
-      "ip": "86.48.14.150",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt15146130:1:9",
-      "title": "tt15146130:1:9",
-      "timestamp": "2026-01-11T12:25:32.890Z",
-      "ip": "180.244.157.92",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0050083",
-      "title": "12 Angry Men",
-      "timestamp": "2026-01-11T12:26:00.101Z",
-      "ip": "2409:40f2:351:5ebc:88ef:8eb2:30ba:334c",
-      "username": "shashidharasreeramegowda"
-    },
-    {
-      "type": "movie",
-      "id": "tt0050083",
-      "title": "12 Angry Men",
-      "timestamp": "2026-01-11T12:26:00.161Z",
-      "ip": "2409:40f2:351:5ebc:88ef:8eb2:30ba:334c",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt15146130:1:10",
-      "title": "tt15146130:1:10",
-      "timestamp": "2026-01-11T12:26:01.212Z",
-      "ip": "180.244.157.92",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -82664,6 +82616,54 @@
       "timestamp": "2026-01-21T02:23:15.861Z",
       "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
       "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-01-21T02:35:25.485Z",
+      "ip": "103.46.200.248",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "timestamp": "2026-01-21T02:36:02.619Z",
+      "ip": "103.46.200.248",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:6",
+      "title": "tt27497448:1:6",
+      "timestamp": "2026-01-21T02:36:09.149Z",
+      "ip": "103.46.200.248",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:6",
+      "title": "tt27497448:1:6",
+      "timestamp": "2026-01-21T02:36:09.306Z",
+      "ip": "103.46.200.248",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-01-21T02:36:15.794Z",
+      "ip": "103.46.200.248",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:2",
+      "title": "tt35335046:1:2",
+      "timestamp": "2026-01-21T02:37:54.415Z",
+      "ip": "2405:201:2022:b81c:a0a2:d96a:4c02:3080",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -83354,11 +83354,11 @@
       "lastActive": 1768670925973
     },
     "103.46.200.248": {
-      "type": "movie",
-      "id": "tt0250797",
-      "title": "Unfaithful",
-      "username": "katdenningssss",
-      "lastActive": 1768935195010
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "username": "brosportses",
+      "lastActive": 1768962975794
     },
     "2401:4900:b57f:8795:6193:3f38:8f3e:734e": {
       "type": "movie",
@@ -86368,7 +86368,7 @@
       "id": "tt35335046:1:2",
       "title": "tt35335046:1:2",
       "username": "zealousninja",
-      "lastActive": 1768931586434
+      "lastActive": 1768963074415
     },
     "2409:40c1:100c:9ef3:8000::": {
       "type": "series",
