@@ -1,5 +1,5 @@
 {
-  "totalViews": 13267,
+  "totalViews": 13272,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2760,46 +2760,6 @@
     "43.248.241.187"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:5:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T16:32:11.858Z",
-      "ip": "103.249.4.146",
-      "username": "tgh2r"
-    },
-    {
-      "type": "series",
-      "id": "tt38646949:1:3",
-      "title": "tt38646949:1:3",
-      "timestamp": "2026-01-11T16:32:23.731Z",
-      "ip": "2409:40f4:204d:4a3b:93c9:30a7:a67d:52bc",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-01-11T16:32:28.927Z",
-      "ip": "38.134.138.223",
-      "username": "thala_75"
-    },
-    {
-      "type": "series",
-      "id": "tt14186672:1:5",
-      "title": "tt14186672:1:5",
-      "timestamp": "2026-01-11T16:32:34.202Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "movie",
-      "id": "tt0816692",
-      "title": "Interstellar",
-      "timestamp": "2026-01-11T16:32:41.627Z",
-      "ip": "38.134.138.223",
-      "username": "thala_75"
-    },
     {
       "type": "movie",
       "id": "tt2197642",
@@ -82759,6 +82719,46 @@
       "timestamp": "2026-01-21T15:46:11.857Z",
       "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
       "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt33022421:1:1",
+      "title": "tt33022421:1:1",
+      "timestamp": "2026-01-21T15:47:00.519Z",
+      "ip": "2409:40d1:2005:3234:8000::",
+      "username": "aasimkhilji"
+    },
+    {
+      "type": "series",
+      "id": "tt33022421:1:2",
+      "title": "tt33022421:1:2",
+      "timestamp": "2026-01-21T15:47:31.240Z",
+      "ip": "2409:40d1:2005:3234:8000::",
+      "username": "aasimkhilji"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-21T15:49:31.673Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "timestamp": "2026-01-21T15:50:15.619Z",
+      "ip": "49.36.217.235",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt1586680:10:1",
+      "title": "tt1586680:10:1",
+      "timestamp": "2026-01-21T15:59:27.947Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -83516,7 +83516,7 @@
       "id": "tt33022421:1:2",
       "title": "tt33022421:1:2",
       "username": "aasimkhilji",
-      "lastActive": 1769010297556
+      "lastActive": 1769010451240
     },
     "43.248.241.187": {
       "type": "series",
@@ -83526,11 +83526,18 @@
       "lastActive": 1769010312346
     },
     "2405:201:6820:a83c:bdef:55c1:5b2d:3408": {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
+      "type": "series",
+      "id": "tt1586680:10:1",
+      "title": "tt1586680:10:1",
       "username": "demon18319",
-      "lastActive": 1769010371857
+      "lastActive": 1769011167947
+    },
+    "49.36.217.235": {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "username": "demon18319",
+      "lastActive": 1769010615619
     }
   }
 }
