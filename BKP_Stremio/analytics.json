@@ -1,5 +1,5 @@
 {
-  "totalViews": 13312,
+  "totalViews": 13316,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2764,41 +2764,10 @@
     "2401:4900:792f:9e86:207b:97a9:cc70:223b",
     "2405:201:a001:8030:feec:45ca:9971:3cbc",
     "2405:201:202d:d014:8554:6dab:528a:8de0",
-    "2405:201:2022:b81c:fc9b:ba65:f345:6a17"
+    "2405:201:2022:b81c:fc9b:ba65:f345:6a17",
+    "115.98.233.142"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt36388163",
-      "title": "tt36388163",
-      "timestamp": "2026-01-11T16:43:42.951Z",
-      "ip": "38.134.138.223",
-      "username": "thala_75"
-    },
-    {
-      "type": "series",
-      "id": "tt5536400:2:1",
-      "title": "tt5536400:2:1",
-      "timestamp": "2026-01-11T16:44:08.230Z",
-      "ip": "2a02:6ea0:d33b:2195::11",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt5199304:1:1",
-      "title": "tt5199304:1:1",
-      "timestamp": "2026-01-11T16:44:22.868Z",
-      "ip": "2402:b400:4650:256e:b83d:c0ff:feac:226f",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt11198330:2:6",
-      "title": "House of the Dragon",
-      "timestamp": "2026-01-11T16:46:09.587Z",
-      "ip": "2001:1708:2a9a:8d00:5c76:c1fb:7f71:378b",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt38353551:1:12",
@@ -82766,6 +82735,38 @@
       "timestamp": "2026-01-21T17:01:11.621Z",
       "ip": "103.46.200.28",
       "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt12867810:1:8",
+      "title": "tt12867810:1:8",
+      "timestamp": "2026-01-21T17:08:12.230Z",
+      "ip": "2409:40c4:3115:1ebd:806b:44ff:feec:3eb1",
+      "username": "napsteerr"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-21T17:09:08.589Z",
+      "ip": "115.98.233.142",
+      "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:2",
+      "title": "tt35335046:1:2",
+      "timestamp": "2026-01-21T17:09:09.735Z",
+      "ip": "115.98.233.142",
+      "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:3",
+      "title": "tt35335046:1:3",
+      "timestamp": "2026-01-21T17:12:31.293Z",
+      "ip": "172.71.198.41,206.53.3.179",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -83012,7 +83013,7 @@
       "id": "tt12867810:1:8",
       "title": "tt12867810:1:8",
       "username": "napsteerr",
-      "lastActive": 1768987018569
+      "lastActive": 1769015292230
     },
     "2401:4900:8913:f57:c:b6f9:a1cc:1b05": {
       "type": "series",
@@ -83608,6 +83609,20 @@
       "title": "tt35335046:1:2",
       "username": "zealousninja",
       "lastActive": 1769014761205
+    },
+    "115.98.233.142": {
+      "type": "series",
+      "id": "tt35335046:1:2",
+      "title": "tt35335046:1:2",
+      "username": "insnaee99",
+      "lastActive": 1769015349735
+    },
+    "172.71.198.41,206.53.3.179": {
+      "type": "series",
+      "id": "tt35335046:1:3",
+      "title": "tt35335046:1:3",
+      "username": "anonymous",
+      "lastActive": 1769015551293
     }
   }
 }
