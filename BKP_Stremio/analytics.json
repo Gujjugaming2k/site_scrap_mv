@@ -1,5 +1,5 @@
 {
-  "totalViews": 13427,
+  "totalViews": 13430,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2786,30 +2786,6 @@
     "41.201.244.53"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0088526:7:27",
-      "title": "tt0088526:7:27",
-      "timestamp": "2026-01-11T17:39:16.089Z",
-      "ip": "162.212.211.108",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:7",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T17:39:36.770Z",
-      "ip": "186.153.121.2",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt35222590",
-      "title": "tt35222590",
-      "timestamp": "2026-01-11T17:40:58.502Z",
-      "ip": "2405:201:6030:20a8:68b9:168b:50b3:3295",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0898266:10:11",
@@ -82785,6 +82761,30 @@
       "timestamp": "2026-01-21T22:40:19.523Z",
       "ip": "41.201.244.53",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:4:1",
+      "title": "tt3032476:4:1",
+      "timestamp": "2026-01-21T22:59:34.732Z",
+      "ip": "51.37.253.138",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt12324366:2:5",
+      "title": "tt12324366:2:5",
+      "timestamp": "2026-01-21T23:01:40.183Z",
+      "ip": "5.133.46.216",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:2:24",
+      "title": "tt0369179:2:24",
+      "timestamp": "2026-01-21T23:01:53.702Z",
+      "ip": "41.201.244.53",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -83784,10 +83784,10 @@
     },
     "51.37.253.138": {
       "type": "series",
-      "id": "tt3032476:3:10",
-      "title": "tt3032476:3:10",
+      "id": "tt3032476:4:1",
+      "title": "tt3032476:4:1",
       "username": "vflix1993",
-      "lastActive": 1769034164945
+      "lastActive": 1769036374732
     },
     "2001:4490:4e65:2d65:6133:7b65:a69f:9018": {
       "type": "movie",
@@ -83798,10 +83798,17 @@
     },
     "41.201.244.53": {
       "type": "series",
-      "id": "tt0369179:2:23",
-      "title": "tt0369179:2:23",
+      "id": "tt0369179:2:24",
+      "title": "tt0369179:2:24",
       "username": "anonymous",
-      "lastActive": 1769035219523
+      "lastActive": 1769036513702
+    },
+    "5.133.46.216": {
+      "type": "series",
+      "id": "tt12324366:2:5",
+      "title": "tt12324366:2:5",
+      "username": "anonymous",
+      "lastActive": 1769036500183
     }
   }
 }
