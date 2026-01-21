@@ -1,5 +1,5 @@
 {
-  "totalViews": 12947,
+  "totalViews": 12954,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2711,62 +2711,6 @@
     "2401:4900:ab93:accf:9033:e4ff:fe19:3f9b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt9813792:1:1",
-      "title": "tt9813792:1:1",
-      "timestamp": "2026-01-11T14:41:18.825Z",
-      "ip": "2409:40c2:504c:3661:f01b:8bf4:ca3a:b6f7",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt36388163",
-      "title": "tt36388163",
-      "timestamp": "2026-01-11T14:41:27.319Z",
-      "ip": "38.134.138.223",
-      "username": "thala_75"
-    },
-    {
-      "type": "series",
-      "id": "tt0182576:4:20",
-      "title": "tt0182576:4:20",
-      "timestamp": "2026-01-11T14:41:56.922Z",
-      "ip": "2600:4040:a791:bd00:cd28:bd72:5221:f67a",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T14:42:23.501Z",
-      "ip": "150.129.175.160",
-      "username": "dilipc403"
-    },
-    {
-      "type": "movie",
-      "id": "tt0371746",
-      "title": "Iron Man",
-      "timestamp": "2026-01-11T14:42:24.256Z",
-      "ip": "2405:201:500c:496b:14d5:614:2264:1c82",
-      "username": "shadowbhaiii"
-    },
-    {
-      "type": "series",
-      "id": "tt4236770:3:5",
-      "title": "tt4236770:3:5",
-      "timestamp": "2026-01-11T14:43:00.594Z",
-      "ip": "2401:4900:1c5e:e343:9858:cf9e:735f:6215",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T14:43:03.885Z",
-      "ip": "150.129.175.160",
-      "username": "dilipc403"
-    },
     {
       "type": "series",
       "id": "tt0898266:10:2",
@@ -82710,6 +82654,62 @@
       "timestamp": "2026-01-21T10:17:53.149Z",
       "ip": "119.235.100.2",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt2377938",
+      "title": "tt2377938",
+      "timestamp": "2026-01-21T10:25:05.664Z",
+      "ip": "2401:4900:1c55:3748:4c19:d81:bbcc:3497",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt15398776",
+      "title": "Oppenheimer",
+      "timestamp": "2026-01-21T10:26:54.906Z",
+      "ip": "2401:4900:1c55:3748:4c19:d81:bbcc:3497",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-21T10:28:37.450Z",
+      "ip": "2409:40e2:156:2d4c:34c9:4cff:febc:7e35",
+      "username": "jai"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-21T10:28:50.630Z",
+      "ip": "2409:40e2:156:2d4c:34c9:4cff:febc:7e35",
+      "username": "jai"
+    },
+    {
+      "type": "movie",
+      "id": "tt0816692",
+      "title": "Interstellar",
+      "timestamp": "2026-01-21T10:30:07.496Z",
+      "ip": "2401:4900:1c55:3748:4c19:d81:bbcc:3497",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-21T10:30:14.530Z",
+      "ip": "2409:40e2:156:2d4c:34c9:4cff:febc:7e35",
+      "username": "sumo"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-21T10:30:32.607Z",
+      "ip": "2409:40e2:156:2d4c:34c9:4cff:febc:7e35",
+      "username": "sumo"
     }
   ],
   "activeNow": {
@@ -82728,11 +82728,11 @@
       "lastActive": 1768973495378
     },
     "2409:40e2:156:2d4c:34c9:4cff:febc:7e35": {
-      "type": "series",
-      "id": "tt35335046:1:4",
-      "title": "tt35335046:1:4",
-      "username": "jai",
-      "lastActive": 1768990151058
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "sumo",
+      "lastActive": 1768991432607
     },
     "2409:40d4:40db:ad3e:8d17:8798:4088:b454": {
       "type": "series",
@@ -83086,10 +83086,10 @@
     },
     "2401:4900:1c55:3748:4c19:d81:bbcc:3497": {
       "type": "movie",
-      "id": "tt15398776",
-      "title": "Oppenheimer",
+      "id": "tt0816692",
+      "title": "Interstellar",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768990605460
+      "lastActive": 1768991407496
     },
     "2401:4900:ab93:accf:9033:e4ff:fe19:3f9b": {
       "type": "movie",
