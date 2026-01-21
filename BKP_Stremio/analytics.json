@@ -1,5 +1,5 @@
 {
-  "totalViews": 13200,
+  "totalViews": 13208,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2744,73 +2744,11 @@
     "104.28.193.6",
     "103.46.200.28",
     "2a02:cb80:42e0:28fb:f9f3:be88:1084:6c9b",
-    "2409:40d2:301a:5e64:8000::"
+    "2409:40d2:301a:5e64:8000::",
+    "2401:4900:1f3b:7605:cdcf:c:15c0:a703",
+    "2a09:bac5:3e75:1a46::29e:6"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "null",
-      "title": "null",
-      "timestamp": "2026-01-11T16:08:02.349Z",
-      "ip": "115.96.217.4",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt10676048",
-      "title": "The Marvels",
-      "timestamp": "2026-01-11T16:08:02.721Z",
-      "ip": "209.198.137.196",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0295701",
-      "title": "tt0295701",
-      "timestamp": "2026-01-11T16:08:07.949Z",
-      "ip": "103.249.4.146",
-      "username": "tgh2r"
-    },
-    {
-      "type": "movie",
-      "id": "tt1630029",
-      "title": "Avatar: The Way of Water",
-      "timestamp": "2026-01-11T16:08:27.208Z",
-      "ip": "103.249.4.146",
-      "username": "tgh2r"
-    },
-    {
-      "type": "series",
-      "id": "tt12004706:3:1",
-      "title": "tt12004706:3:1",
-      "timestamp": "2026-01-11T16:08:33.857Z",
-      "ip": "2400:7f60:204:4827:748f:8908:201b:ee01",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1630029",
-      "title": "Avatar: The Way of Water",
-      "timestamp": "2026-01-11T16:11:07.191Z",
-      "ip": "103.249.4.146",
-      "username": "tgh2r"
-    },
-    {
-      "type": "movie",
-      "id": "null",
-      "title": "null",
-      "timestamp": "2026-01-11T16:11:26.021Z",
-      "ip": "178.237.236.122",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0285331:7:1",
-      "title": "tt0285331:7:1",
-      "timestamp": "2026-01-11T16:14:41.454Z",
-      "ip": "45.149.173.227",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt36388163",
@@ -82746,6 +82684,70 @@
       "timestamp": "2026-01-21T14:09:59.122Z",
       "ip": "2409:40d2:301a:5e64:8000::",
       "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt31472425:1:1",
+      "title": "tt31472425:1:1",
+      "timestamp": "2026-01-21T14:15:36.360Z",
+      "ip": "103.46.200.28",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-21T14:17:08.915Z",
+      "ip": "2a02:cb80:42e0:28fb:f9f3:be88:1084:6c9b",
+      "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt9900782",
+      "title": "tt9900782",
+      "timestamp": "2026-01-21T14:17:59.349Z",
+      "ip": "103.186.54.180",
+      "username": "schnom153"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-21T14:19:09.292Z",
+      "ip": "2a02:cb80:42e0:28fb:f9f3:be88:1084:6c9b",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tt32537124:2:18",
+      "title": "tt32537124:2:18",
+      "timestamp": "2026-01-21T14:19:30.711Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt32537124:2:19",
+      "title": "tt32537124:2:19",
+      "timestamp": "2026-01-21T14:19:30.798Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt4236770:3:10",
+      "title": "tt4236770:3:10",
+      "timestamp": "2026-01-21T14:23:01.410Z",
+      "ip": "2401:4900:1f3b:7605:cdcf:c:15c0:a703",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt10919420:2:1",
+      "title": "tt10919420:2:1",
+      "timestamp": "2026-01-21T14:26:16.317Z",
+      "ip": "2a09:bac5:3e75:1a46::29e:6",
+      "username": "anonymous_rare"
     }
   ],
   "activeNow": {
@@ -82786,10 +82788,10 @@
     },
     "139.5.196.103": {
       "type": "series",
-      "id": "tt32537124:2:17",
-      "title": "tt32537124:2:17",
+      "id": "tt32537124:2:19",
+      "title": "tt32537124:2:19",
       "username": "dillon_ka_shooter",
-      "lastActive": 1768995736323
+      "lastActive": 1769005170798
     },
     "202.179.159.154": {
       "type": "series",
@@ -83192,10 +83194,10 @@
     },
     "103.186.54.180": {
       "type": "movie",
-      "id": "tt9179430",
-      "title": "tt9179430",
+      "id": "tt9900782",
+      "title": "tt9900782",
       "username": "schnom153",
-      "lastActive": 1768995252681
+      "lastActive": 1769005079349
     },
     "103.4.222.252": {
       "type": "series",
@@ -83384,14 +83386,14 @@
       "id": "tt31472425:1:1",
       "title": "tt31472425:1:1",
       "username": "brosportses",
-      "lastActive": 1769004567679
+      "lastActive": 1769004936360
     },
     "2a02:cb80:42e0:28fb:f9f3:be88:1084:6c9b": {
       "type": "movie",
       "id": "tt32642706",
       "title": "tt32642706",
       "username": "hoosa500",
-      "lastActive": 1769004592999
+      "lastActive": 1769005149292
     },
     "2409:40d2:301a:5e64:8000::": {
       "type": "movie",
@@ -83399,6 +83401,20 @@
       "title": "tt32642706",
       "username": "demon18319",
       "lastActive": 1769004599122
+    },
+    "2401:4900:1f3b:7605:cdcf:c:15c0:a703": {
+      "type": "series",
+      "id": "tt4236770:3:10",
+      "title": "tt4236770:3:10",
+      "username": "anonymous",
+      "lastActive": 1769005381410
+    },
+    "2a09:bac5:3e75:1a46::29e:6": {
+      "type": "series",
+      "id": "tt10919420:2:1",
+      "title": "tt10919420:2:1",
+      "username": "anonymous_rare",
+      "lastActive": 1769005576317
     }
   }
 }
