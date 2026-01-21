@@ -1,5 +1,5 @@
 {
-  "totalViews": 13316,
+  "totalViews": 13317,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2768,14 +2768,6 @@
     "115.98.233.142"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt38353551:1:12",
-      "title": "tt38353551:1:12",
-      "timestamp": "2026-01-11T16:46:16.495Z",
-      "ip": "2a01:e34:ec21:240:b37:c1c1:b9fc:7153",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt2661044:6:10",
@@ -82767,6 +82759,14 @@
       "timestamp": "2026-01-21T17:12:31.293Z",
       "ip": "172.71.198.41,206.53.3.179",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12867810:1:7",
+      "title": "tt12867810:1:7",
+      "timestamp": "2026-01-21T17:30:45.287Z",
+      "ip": "2409:40c4:3115:1ebd:806b:44ff:feec:3eb1",
+      "username": "napsteerr"
     }
   ],
   "activeNow": {
@@ -83010,10 +83010,10 @@
     },
     "2409:40c4:3115:1ebd:806b:44ff:feec:3eb1": {
       "type": "series",
-      "id": "tt12867810:1:8",
-      "title": "tt12867810:1:8",
+      "id": "tt12867810:1:7",
+      "title": "tt12867810:1:7",
       "username": "napsteerr",
-      "lastActive": 1769015292230
+      "lastActive": 1769016645287
     },
     "2401:4900:8913:f57:c:b6f9:a1cc:1b05": {
       "type": "series",
