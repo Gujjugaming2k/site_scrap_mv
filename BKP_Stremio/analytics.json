@@ -1,5 +1,5 @@
 {
-  "totalViews": 13416,
+  "totalViews": 13419,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2780,33 +2780,10 @@
     "106.222.229.65",
     "2409:40f3:205d:4d00:b9b1:ee44:7a2f:3dd0",
     "172.71.198.118,206.53.3.179",
-    "104.234.86.3"
+    "104.234.86.3",
+    "51.37.253.138"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt38221085:1:11",
-      "title": "tt38221085:1:11",
-      "timestamp": "2026-01-11T17:36:09.338Z",
-      "ip": "49.37.40.92",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt5194792:1:9",
-      "title": "tt5194792:1:9",
-      "timestamp": "2026-01-11T17:36:10.572Z",
-      "ip": "2601:1c1:8d78:89b0:a93:ceae:d288:2d11",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt5194792:1:9",
-      "title": "tt5194792:1:9",
-      "timestamp": "2026-01-11T17:36:15.251Z",
-      "ip": "2601:1c1:8d78:89b0:a93:ceae:d288:2d11",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt38221085:1:12",
@@ -82782,6 +82759,30 @@
       "timestamp": "2026-01-21T21:08:14.609Z",
       "ip": "106.222.229.65",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:11",
+      "title": "tt0903747:5:11",
+      "timestamp": "2026-01-21T21:28:24.350Z",
+      "ip": "182.69.183.164",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:3:8",
+      "title": "tt3032476:3:8",
+      "timestamp": "2026-01-21T21:29:18.724Z",
+      "ip": "51.37.253.138",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:3:8",
+      "title": "tt3032476:3:8",
+      "timestamp": "2026-01-21T21:29:25.320Z",
+      "ip": "51.37.253.138",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -82912,11 +82913,11 @@
       "lastActive": 1769017017425
     },
     "182.69.183.164": {
-      "type": "movie",
-      "id": "tt0068646",
-      "title": "The Godfather",
+      "type": "series",
+      "id": "tt0903747:5:11",
+      "title": "tt0903747:5:11",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769025098665
+      "lastActive": 1769030904350
     },
     "2407:aa80:314:e15d:eda0:af04:6161:c89a": {
       "type": "movie",
@@ -83778,6 +83779,13 @@
       "title": "tt32642706",
       "username": "anonymous",
       "lastActive": 1769029354505
+    },
+    "51.37.253.138": {
+      "type": "series",
+      "id": "tt3032476:3:8",
+      "title": "tt3032476:3:8",
+      "username": "vflix1993",
+      "lastActive": 1769030965320
     }
   }
 }
