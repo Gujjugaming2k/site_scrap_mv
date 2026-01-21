@@ -1,5 +1,5 @@
 {
-  "totalViews": 13430,
+  "totalViews": 13436,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2783,57 +2783,11 @@
     "104.234.86.3",
     "51.37.253.138",
     "2001:4490:4e65:2d65:6133:7b65:a69f:9018",
-    "41.201.244.53"
+    "41.201.244.53",
+    "147.93.215.38",
+    "2806:2f0:60e1:e227:c5ae:3f89:8639:5d64"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0898266:10:11",
-      "title": "tt0898266:10:11",
-      "timestamp": "2026-01-11T17:41:04.182Z",
-      "ip": "47.150.96.219",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt5626028:6:5",
-      "title": "tt5626028:6:5",
-      "timestamp": "2026-01-11T17:41:14.781Z",
-      "ip": "89.189.81.42",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt32612521:1:7",
-      "title": "tt32612521:1:7",
-      "timestamp": "2026-01-11T17:41:17.785Z",
-      "ip": "173.243.26.214",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt13911284:2:2",
-      "title": "tt13911284:2:2",
-      "timestamp": "2026-01-11T17:41:24.461Z",
-      "ip": "2001:4454:196:2400:c185:a098:294c:2c5d",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt32612521:1:5",
-      "title": "tt32612521:1:5",
-      "timestamp": "2026-01-11T17:42:43.510Z",
-      "ip": "173.243.26.214",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1170358",
-      "title": "tt1170358",
-      "timestamp": "2026-01-11T17:44:30.160Z",
-      "ip": "2001:d08:e6:5383:7d43:e5aa:5333:7625",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt1266020:1:1",
@@ -82785,6 +82739,54 @@
       "timestamp": "2026-01-21T23:01:53.702Z",
       "ip": "41.201.244.53",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt19847976",
+      "title": "tt19847976",
+      "timestamp": "2026-01-21T23:22:08.118Z",
+      "ip": "147.93.215.38",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:3:1",
+      "title": "tt0369179:3:1",
+      "timestamp": "2026-01-21T23:22:41.913Z",
+      "ip": "41.201.244.53",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-21T23:23:27.182Z",
+      "ip": "147.93.215.38",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tt30176429:1:1",
+      "title": "tt30176429:1:1",
+      "timestamp": "2026-01-21T23:24:31.771Z",
+      "ip": "2806:2f0:60e1:e227:c5ae:3f89:8639:5d64",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt30176429:1:1",
+      "title": "tt30176429:1:1",
+      "timestamp": "2026-01-21T23:24:44.726Z",
+      "ip": "2806:2f0:60e1:e227:c5ae:3f89:8639:5d64",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-21T23:25:21.124Z",
+      "ip": "147.93.215.38",
+      "username": "hoosa500"
     }
   ],
   "activeNow": {
@@ -83798,10 +83800,10 @@
     },
     "41.201.244.53": {
       "type": "series",
-      "id": "tt0369179:2:24",
-      "title": "tt0369179:2:24",
+      "id": "tt0369179:3:1",
+      "title": "tt0369179:3:1",
       "username": "anonymous",
-      "lastActive": 1769036513702
+      "lastActive": 1769037761913
     },
     "5.133.46.216": {
       "type": "series",
@@ -83809,6 +83811,20 @@
       "title": "tt12324366:2:5",
       "username": "anonymous",
       "lastActive": 1769036500183
+    },
+    "147.93.215.38": {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "username": "hoosa500",
+      "lastActive": 1769037921124
+    },
+    "2806:2f0:60e1:e227:c5ae:3f89:8639:5d64": {
+      "type": "series",
+      "id": "tt30176429:1:1",
+      "title": "tt30176429:1:1",
+      "username": "anonymous",
+      "lastActive": 1769037884726
     }
   }
 }
