@@ -193,5 +193,15 @@
     "enabled": true,
     "createdAt": "2026-01-17T14:28:39.070Z",
     "updatedAt": "2026-01-17T14:41:18.312Z"
+  },
+  {
+    "id": "1769061395126",
+    "name": "cinemacity",
+    "movieUrl": "https://cinemacity.vflix.life/stream/movie/{{id}}.json",
+    "seriesUrl": "https://cinemacity.vflix.life/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "timeout": 20000,
+    "priority": 4,
+    "enabled": true,
+    "createdAt": "2026-01-22T05:56:35.126Z"
   }
 ]
