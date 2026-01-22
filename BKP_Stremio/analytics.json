@@ -1,5 +1,5 @@
 {
-  "totalViews": 13718,
+  "totalViews": 13724,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2827,57 +2827,11 @@
     "2409:40c4:303f:14a3:b879:31ff:feab:e12d",
     "2607:fb90:5c0d:8201:2768:9e4d:2ee6:3be",
     "2401:4900:ab89:d51b:b868:fdff:feac:7207",
-    "2409:40d0:203f:4591:3cfd:e7ff:fe5e:c088"
+    "2409:40d0:203f:4591:3cfd:e7ff:fe5e:c088",
+    "2401:4900:ad3e:e698:e2e1:371f:fde5:2ada",
+    "2806:267:6409:d2:2665:dbf6:6a78:7ae9"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt7587890:3:5",
-      "title": "tt7587890:3:5",
-      "timestamp": "2026-01-11T20:53:46.816Z",
-      "ip": "2600:8803:8700:29:42a0:b6d0:343a:9c13",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt14364480",
-      "title": "tt14364480",
-      "timestamp": "2026-01-11T20:54:01.096Z",
-      "ip": "45.118.166.43",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt31495504",
-      "title": "tt31495504",
-      "timestamp": "2026-01-11T20:54:13.521Z",
-      "ip": "45.118.166.43",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T20:54:26.881Z",
-      "ip": "45.118.166.43",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt32864316:1:2",
-      "title": "tt32864316:1:2",
-      "timestamp": "2026-01-11T20:55:06.689Z",
-      "ip": "217.199.144.37",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt10945036:1:7",
-      "title": "tt10945036:1:7",
-      "timestamp": "2026-01-11T20:56:04.409Z",
-      "ip": "67.147.13.201",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt1055238:18:12",
@@ -82829,6 +82783,54 @@
       "timestamp": "2026-01-22T09:39:15.043Z",
       "ip": "2401:4900:b9e5:60b7::2dd6:9918",
       "username": "abhi231511"
+    },
+    {
+      "type": "series",
+      "id": "tt7335184:1:1",
+      "title": "tt7335184:1:1",
+      "timestamp": "2026-01-22T09:54:04.442Z",
+      "ip": "2401:4900:ad3e:e698:e2e1:371f:fde5:2ada",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt7335184:1:5",
+      "title": "tt7335184:1:5",
+      "timestamp": "2026-01-22T09:54:43.157Z",
+      "ip": "2401:4900:ad3e:e698:e2e1:371f:fde5:2ada",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12867810:1:10",
+      "title": "tt12867810:1:10",
+      "timestamp": "2026-01-22T09:55:09.292Z",
+      "ip": "2409:40c4:303f:14a3:b879:31ff:feab:e12d",
+      "username": "napsteerr"
+    },
+    {
+      "type": "series",
+      "id": "tt12867810:1:10",
+      "title": "tt12867810:1:10",
+      "timestamp": "2026-01-22T09:55:13.815Z",
+      "ip": "2409:40c4:303f:14a3:b879:31ff:feab:e12d",
+      "username": "napsteerr"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:4",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-22T09:55:29.393Z",
+      "ip": "2a09:bac5:3af1:172d::24f:1",
+      "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt0096697:1:1",
+      "title": "tt0096697:1:1",
+      "timestamp": "2026-01-22T09:59:46.052Z",
+      "ip": "2806:267:6409:d2:2665:dbf6:6a78:7ae9",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -84083,7 +84085,7 @@
       "id": "tt4574334:5:4",
       "title": "Stranger Things",
       "username": "switchoff009",
-      "lastActive": 1769071618652
+      "lastActive": 1769075729393
     },
     "212.200.181.99": {
       "type": "movie",
@@ -84150,10 +84152,10 @@
     },
     "2409:40c4:303f:14a3:b879:31ff:feab:e12d": {
       "type": "series",
-      "id": "tt12867810:1:11",
-      "title": "tt12867810:1:11",
+      "id": "tt12867810:1:10",
+      "title": "tt12867810:1:10",
       "username": "napsteerr",
-      "lastActive": 1769074219440
+      "lastActive": 1769075713815
     },
     "2607:fb90:5c0d:8201:2768:9e4d:2ee6:3be": {
       "type": "series",
@@ -84175,6 +84177,20 @@
       "title": "The Pursuit of Happyness",
       "username": "magicmannn",
       "lastActive": 1769074265939
+    },
+    "2401:4900:ad3e:e698:e2e1:371f:fde5:2ada": {
+      "type": "series",
+      "id": "tt7335184:1:5",
+      "title": "tt7335184:1:5",
+      "username": "anonymous",
+      "lastActive": 1769075683157
+    },
+    "2806:267:6409:d2:2665:dbf6:6a78:7ae9": {
+      "type": "series",
+      "id": "tt0096697:1:1",
+      "title": "tt0096697:1:1",
+      "username": "anonymous",
+      "lastActive": 1769075986052
     }
   }
 }
