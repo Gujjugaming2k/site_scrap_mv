@@ -1,5 +1,5 @@
 {
-  "totalViews": 13939,
+  "totalViews": 13941,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2870,25 +2870,11 @@
     "41.200.175.214",
     "2401:4900:b0c2:ccec:7cc6:cbff:fef5:f308",
     "46.199.215.37",
-    "2405:3800:848:3369:813c:b4b1:4342:d475"
+    "2405:3800:848:3369:813c:b4b1:4342:d475",
+    "62.197.153.47",
+    "94.156.30.176"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt10945036:2:4",
-      "title": "tt10945036:2:4",
-      "timestamp": "2026-01-12T00:04:42.019Z",
-      "ip": "67.147.13.201",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt4411596",
-      "title": "My Cousin Rachel",
-      "timestamp": "2026-01-12T00:05:29.490Z",
-      "ip": "72.255.11.154",
-      "username": "hvre2"
-    },
     {
       "type": "series",
       "id": "tt4063800:5:3",
@@ -82872,6 +82858,22 @@
       "timestamp": "2026-01-22T13:32:37.774Z",
       "ip": "2405:3800:848:3369:813c:b4b1:4342:d475",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt1856101",
+      "title": "tt1856101",
+      "timestamp": "2026-01-22T13:36:13.337Z",
+      "ip": "62.197.153.47",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-22T13:36:30.356Z",
+      "ip": "94.156.30.176",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -84540,6 +84542,20 @@
       "title": "tt31261333",
       "username": "anonymous",
       "lastActive": 1769088757774
+    },
+    "62.197.153.47": {
+      "type": "movie",
+      "id": "tt1856101",
+      "title": "tt1856101",
+      "username": "belimhuzaifa",
+      "lastActive": 1769088973337
+    },
+    "94.156.30.176": {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "username": "b1jju",
+      "lastActive": 1769088990356
     }
   }
 }
