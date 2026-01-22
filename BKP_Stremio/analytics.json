@@ -1,5 +1,5 @@
 {
-  "totalViews": 13943,
+  "totalViews": 13952,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2872,81 +2872,13 @@
     "46.199.215.37",
     "2405:3800:848:3369:813c:b4b1:4342:d475",
     "62.197.153.47",
-    "94.156.30.176"
+    "94.156.30.176",
+    "197.15.198.200",
+    "2600:387:15:2b1b::1",
+    "36.72.26.176",
+    "194.61.41.51"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2147999:1:9",
-      "title": "tt2147999:1:9",
-      "timestamp": "2026-01-12T00:06:22.894Z",
-      "ip": "166.48.63.250",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1355642:1:53",
-      "title": "tt1355642:1:53",
-      "timestamp": "2026-01-12T00:08:45.705Z",
-      "ip": "92.189.253.133",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt3032476:3:1",
-      "title": "tt3032476:3:1",
-      "timestamp": "2026-01-12T00:08:56.781Z",
-      "ip": "109.76.171.65",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt0386676:9:17",
-      "title": "tt0386676:9:17",
-      "timestamp": "2026-01-12T00:09:04.769Z",
-      "ip": "103.251.27.32",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt31173732:1:28",
-      "title": "tt31173732:1:28",
-      "timestamp": "2026-01-12T00:10:32.593Z",
-      "ip": "186.44.135.43",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt9529740",
-      "title": "tt9529740",
-      "timestamp": "2026-01-12T00:11:31.781Z",
-      "ip": "196.225.129.230",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt38973594:1:5",
-      "title": "tt38973594:1:5",
-      "timestamp": "2026-01-12T00:18:14.420Z",
-      "ip": "2601:601:cb7f:83f2:814d:63ea:4d46:5bb1",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2861424:8:10",
-      "title": "tt2861424:8:10",
-      "timestamp": "2026-01-12T00:18:30.828Z",
-      "ip": "154.243.181.97",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt16385150:5:1",
-      "title": "tt16385150:5:1",
-      "timestamp": "2026-01-12T00:20:11.426Z",
-      "ip": "109.76.171.65",
-      "username": "vflix1993"
-    },
     {
       "type": "series",
       "id": "tt16385150:5:2",
@@ -82874,6 +82806,78 @@
       "timestamp": "2026-01-22T13:45:11.864Z",
       "ip": "2401:4900:851d:6245::3e13:72f",
       "username": "abhi231511"
+    },
+    {
+      "type": "movie",
+      "id": "tt0056306",
+      "title": "tt0056306",
+      "timestamp": "2026-01-22T13:53:07.446Z",
+      "ip": "197.15.198.200",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0079820",
+      "title": "tt0079820",
+      "timestamp": "2026-01-22T13:53:30.903Z",
+      "ip": "197.15.198.200",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "null",
+      "title": "null",
+      "timestamp": "2026-01-22T13:54:13.416Z",
+      "ip": "197.15.198.200",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543578",
+      "title": "Good Fortune",
+      "timestamp": "2026-01-22T13:55:52.898Z",
+      "ip": "2600:387:15:2b1b::1",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:2",
+      "title": "tt35335046:1:2",
+      "timestamp": "2026-01-22T13:56:04.888Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt33996113",
+      "title": "tt33996113",
+      "timestamp": "2026-01-22T14:01:50.499Z",
+      "ip": "94.156.30.176",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt7235466:9:4",
+      "title": "tt7235466:9:4",
+      "timestamp": "2026-01-22T14:02:50.985Z",
+      "ip": "185.149.211.25",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-01-22T14:04:19.389Z",
+      "ip": "36.72.26.176",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt27041011:1:2",
+      "title": "tt27041011:1:2",
+      "timestamp": "2026-01-22T14:06:21.451Z",
+      "ip": "194.61.41.51",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -82914,10 +82918,10 @@
     },
     "139.5.196.103": {
       "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
+      "id": "tt35335046:1:2",
+      "title": "tt35335046:1:2",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769087040435
+      "lastActive": 1769090164888
     },
     "202.179.159.154": {
       "type": "series",
@@ -84272,10 +84276,10 @@
     },
     "185.149.211.25": {
       "type": "series",
-      "id": "tt7235466:9:3",
-      "title": "tt7235466:9:3",
+      "id": "tt7235466:9:4",
+      "title": "tt7235466:9:4",
       "username": "anonymous",
-      "lastActive": 1769087984908
+      "lastActive": 1769090570985
     },
     "213.207.159.160": {
       "type": "movie",
@@ -84552,10 +84556,38 @@
     },
     "94.156.30.176": {
       "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
+      "id": "tt33996113",
+      "title": "tt33996113",
       "username": "b1jju",
-      "lastActive": 1769088990356
+      "lastActive": 1769090510499
+    },
+    "197.15.198.200": {
+      "type": "movie",
+      "id": "null",
+      "title": "null",
+      "username": "anonymous",
+      "lastActive": 1769090053416
+    },
+    "2600:387:15:2b1b::1": {
+      "type": "movie",
+      "id": "tt27543578",
+      "title": "Good Fortune",
+      "username": "anonymous",
+      "lastActive": 1769090152898
+    },
+    "36.72.26.176": {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "username": "anonymous",
+      "lastActive": 1769090659389
+    },
+    "194.61.41.51": {
+      "type": "series",
+      "id": "tt27041011:1:2",
+      "title": "tt27041011:1:2",
+      "username": "anonymous",
+      "lastActive": 1769090781451
     }
   }
 }
