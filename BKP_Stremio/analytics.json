@@ -1,5 +1,5 @@
 {
-  "totalViews": 13465,
+  "totalViews": 13467,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2791,25 +2791,10 @@
     "2401:4900:8844:695e:b8d8:221:2344:c2d0",
     "2806:2a0:150a:8759:1908:1249:9d32:97b3",
     "2409:40d2:3007:c242:8000::",
-    "180.245.23.126"
+    "180.245.23.126",
+    "2409:40f4:36:eae1:8852:b4ff:fe8b:a95"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt26439764",
-      "title": "tt26439764",
-      "timestamp": "2026-01-11T17:56:16.468Z",
-      "ip": "103.175.168.90",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "series",
-      "id": "tt4063800:4:8",
-      "title": "tt4063800:4:8",
-      "timestamp": "2026-01-11T17:56:32.753Z",
-      "ip": "2a01:e0a:f9f:7d40:ad32:ac87:66d5:75af",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt27543632",
@@ -82793,6 +82778,22 @@
       "timestamp": "2026-01-22T03:32:56.363Z",
       "ip": "180.245.23.126",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-22T03:47:02.867Z",
+      "ip": "2409:40f4:36:eae1:8852:b4ff:fe8b:a95",
+      "username": "zindha"
+    },
+    {
+      "type": "movie",
+      "id": "tt31844586",
+      "title": "tt31844586",
+      "timestamp": "2026-01-22T03:49:22.065Z",
+      "ip": "2409:40f4:36:eae1:8852:b4ff:fe8b:a95",
+      "username": "zindha"
     }
   ],
   "activeNow": {
@@ -83873,6 +83874,13 @@
       "title": "Sinners",
       "username": "anonymous",
       "lastActive": 1769052776363
+    },
+    "2409:40f4:36:eae1:8852:b4ff:fe8b:a95": {
+      "type": "movie",
+      "id": "tt31844586",
+      "title": "tt31844586",
+      "username": "zindha",
+      "lastActive": 1769053762065
     }
   }
 }
