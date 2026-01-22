@@ -199,9 +199,10 @@
     "name": "cinemacity",
     "movieUrl": "https://cinemacity.vflix.life/stream/movie/{{id}}.json",
     "seriesUrl": "https://cinemacity.vflix.life/stream/series/{{id}}:{{season}}:{{episode}}.json",
-    "timeout": 20000,
-    "priority": 4,
-    "enabled": true,
-    "createdAt": "2026-01-22T05:56:35.126Z"
+    "timeout": "20000",
+    "priority": "40",
+    "enabled": false,
+    "createdAt": "2026-01-22T05:56:35.126Z",
+    "updatedAt": "2026-01-22T06:11:48.136Z"
   }
 ]
