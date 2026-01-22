@@ -1,5 +1,5 @@
 {
-  "totalViews": 13457,
+  "totalViews": 13459,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2793,22 +2793,6 @@
     "2409:40d2:3007:c242:8000::"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-11T17:53:58.800Z",
-      "ip": "2401:4900:8ff3:4120:6c8f:eef4:fc1e:e9cc",
-      "username": "reaper54x"
-    },
-    {
-      "type": "movie",
-      "id": "tt9362722",
-      "title": "Spider-Man: Across the Spider-Verse",
-      "timestamp": "2026-01-11T17:54:14.597Z",
-      "ip": "2405:201:500c:496b:14d5:614:2264:1c82",
-      "username": "shadowbhaiii"
-    },
     {
       "type": "series",
       "id": "tt0343314:1:2",
@@ -82792,6 +82776,22 @@
       "timestamp": "2026-01-22T02:17:22.433Z",
       "ip": "2409:40d2:3007:c242:8000::",
       "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:3:20",
+      "title": "tt0460649:3:20",
+      "timestamp": "2026-01-22T02:20:15.344Z",
+      "ip": "2409:40d2:3007:c242:8000::",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:5",
+      "title": "tt31812476:2:5",
+      "timestamp": "2026-01-22T02:27:23.328Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -82915,11 +82915,11 @@
       "lastActive": 1768977240703
     },
     "103.24.85.218": {
-      "type": "movie",
-      "id": "tt34159694",
-      "title": "tt34159694",
+      "type": "series",
+      "id": "tt31812476:2:5",
+      "title": "tt31812476:2:5",
       "username": "william097",
-      "lastActive": 1769045112233
+      "lastActive": 1769048843328
     },
     "182.69.183.164": {
       "type": "series",
@@ -83861,10 +83861,10 @@
     },
     "2409:40d2:3007:c242:8000::": {
       "type": "series",
-      "id": "tt0460649:3:19",
-      "title": "tt0460649:3:19",
+      "id": "tt0460649:3:20",
+      "title": "tt0460649:3:20",
       "username": "demon18319",
-      "lastActive": 1769048242433
+      "lastActive": 1769048415344
     }
   }
 }
