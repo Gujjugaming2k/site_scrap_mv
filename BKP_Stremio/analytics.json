@@ -1,5 +1,5 @@
 {
-  "totalViews": 13729,
+  "totalViews": 13734,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2834,46 +2834,6 @@
     "46.37.71.166"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt9327706:1:2",
-      "title": "tt9327706:1:2",
-      "timestamp": "2026-01-11T21:00:58.833Z",
-      "ip": "2a02:8308:b090:5100:20b9:216d:135a:c18d",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt36631539:1:5",
-      "title": "tt36631539:1:5",
-      "timestamp": "2026-01-11T21:02:10.085Z",
-      "ip": "183.171.158.212",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt9327706:1:3",
-      "title": "tt9327706:1:3",
-      "timestamp": "2026-01-11T21:02:32.114Z",
-      "ip": "2a02:8308:b090:5100:20b9:216d:135a:c18d",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2147999:1:1",
-      "title": "tt2147999:1:1",
-      "timestamp": "2026-01-11T21:06:03.068Z",
-      "ip": "166.48.63.250",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-11T21:06:50.685Z",
-      "ip": "88.234.230.58",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt36631539:1:6",
@@ -82833,6 +82793,46 @@
       "timestamp": "2026-01-22T10:13:44.118Z",
       "ip": "46.37.71.166",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:6",
+      "title": "tt35335046:1:6",
+      "timestamp": "2026-01-22T10:15:48.399Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
+      "timestamp": "2026-01-22T10:15:57.122Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "movie",
+      "id": "tt9362736",
+      "title": "Die My Love",
+      "timestamp": "2026-01-22T10:19:27.660Z",
+      "ip": "43.248.241.187",
+      "username": "amit suryavanshi"
+    },
+    {
+      "type": "movie",
+      "id": "tt27560723",
+      "title": "Everything's Going to Be Great",
+      "timestamp": "2026-01-22T10:25:54.898Z",
+      "ip": "45.118.158.143",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt23572848",
+      "title": "tt23572848",
+      "timestamp": "2026-01-22T10:30:17.495Z",
+      "ip": "45.118.158.143",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -83016,7 +83016,7 @@
       "id": "tt35335046:1:7",
       "title": "tt35335046:1:7",
       "username": "nothing_8888",
-      "lastActive": 1769066002077
+      "lastActive": 1769076957122
     },
     "2409:40f0:104d:4bc3:285e:e7ff:fe93:479": {
       "type": "series",
@@ -83593,11 +83593,11 @@
       "lastActive": 1769010451240
     },
     "43.248.241.187": {
-      "type": "series",
-      "id": "tt19854762:1:1",
-      "title": "tt19854762:1:1",
+      "type": "movie",
+      "id": "tt9362736",
+      "title": "Die My Love",
       "username": "amit suryavanshi",
-      "lastActive": 1769010312346
+      "lastActive": 1769077167660
     },
     "2405:201:6820:a83c:bdef:55c1:5b2d:3408": {
       "type": "series",
@@ -84207,6 +84207,13 @@
       "title": "tt29921437:1:6",
       "username": "anonymous",
       "lastActive": 1769076824118
+    },
+    "45.118.158.143": {
+      "type": "movie",
+      "id": "tt23572848",
+      "title": "tt23572848",
+      "username": "gaendaswami",
+      "lastActive": 1769077817495
     }
   }
 }
