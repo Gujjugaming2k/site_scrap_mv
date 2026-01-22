@@ -1,5 +1,5 @@
 {
-  "totalViews": 13443,
+  "totalViews": 13447,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2787,41 +2787,10 @@
     "147.93.215.38",
     "2806:2f0:60e1:e227:c5ae:3f89:8639:5d64",
     "197.202.203.245",
-    "186.189.179.55"
+    "186.189.179.55",
+    "2401:4900:8844:695e:b8d8:221:2344:c2d0"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt33035373:1:1",
-      "title": "tt33035373:1:1",
-      "timestamp": "2026-01-11T17:48:10.858Z",
-      "ip": "2.50.199.25",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt7737786",
-      "title": "Greenland",
-      "timestamp": "2026-01-11T17:48:35.059Z",
-      "ip": "103.156.60.24",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt9169516:1:3",
-      "title": "tt9169516:1:3",
-      "timestamp": "2026-01-11T17:48:47.428Z",
-      "ip": "102.67.5.9",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32903867",
-      "title": "Traumatika",
-      "timestamp": "2026-01-11T17:48:55.822Z",
-      "ip": "103.46.200.249",
-      "username": "brosportses"
-    },
     {
       "type": "movie",
       "id": "tt7961060",
@@ -82789,6 +82758,38 @@
       "timestamp": "2026-01-22T00:14:48.949Z",
       "ip": "115.98.99.86",
       "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:12",
+      "title": "tt0903747:5:12",
+      "timestamp": "2026-01-22T00:35:00.251Z",
+      "ip": "182.69.183.164",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:13",
+      "title": "tt0903747:5:13",
+      "timestamp": "2026-01-22T00:35:08.507Z",
+      "ip": "182.69.183.164",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-22T00:35:09.734Z",
+      "ip": "2401:4900:8844:695e:b8d8:221:2344:c2d0",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt12324366:2:6",
+      "title": "tt12324366:2:6",
+      "timestamp": "2026-01-22T00:44:44.370Z",
+      "ip": "5.133.46.216",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -82920,10 +82921,10 @@
     },
     "182.69.183.164": {
       "type": "series",
-      "id": "tt0903747:5:12",
-      "title": "tt0903747:5:12",
+      "id": "tt0903747:5:13",
+      "title": "tt0903747:5:13",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769033748400
+      "lastActive": 1769042108507
     },
     "2407:aa80:314:e15d:eda0:af04:6161:c89a": {
       "type": "movie",
@@ -83809,10 +83810,10 @@
     },
     "5.133.46.216": {
       "type": "series",
-      "id": "tt12324366:2:5",
-      "title": "tt12324366:2:5",
+      "id": "tt12324366:2:6",
+      "title": "tt12324366:2:6",
       "username": "anonymous",
-      "lastActive": 1769040062794
+      "lastActive": 1769042684370
     },
     "147.93.215.38": {
       "type": "movie",
@@ -83841,6 +83842,13 @@
       "title": "tt32642706",
       "username": "anonymous",
       "lastActive": 1769040848724
+    },
+    "2401:4900:8844:695e:b8d8:221:2344:c2d0": {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "username": "ryuzaklo26",
+      "lastActive": 1769042109734
     }
   }
 }
