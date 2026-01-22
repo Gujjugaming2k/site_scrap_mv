@@ -1,5 +1,5 @@
 {
-  "totalViews": 13638,
+  "totalViews": 13640,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2804,25 +2804,10 @@
     "2401:4900:b503:d014:f00e:cff:fe08:dc81",
     "91.72.147.46",
     "2604:3d09:d7f:1600:f964:62f1:2e8a:e030",
-    "117.212.13.17"
+    "117.212.13.17",
+    "2401:4900:1cb5:d63f:a28e:1cfc:587b:5563"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0773262:1:11",
-      "title": "tt0773262:1:11",
-      "timestamp": "2026-01-11T19:35:46.003Z",
-      "ip": "176.170.93.160",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:1:1",
-      "title": "tt1399664:1:1",
-      "timestamp": "2026-01-11T19:36:03.867Z",
-      "ip": "88.234.230.58",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt3032476:2:7",
@@ -82806,6 +82791,22 @@
       "timestamp": "2026-01-22T07:29:18.780Z",
       "ip": "115.187.50.135",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt15091418",
+      "title": "tt15091418",
+      "timestamp": "2026-01-22T07:42:47.910Z",
+      "ip": "2401:4900:1cb5:d63f:a28e:1cfc:587b:5563",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt27198279",
+      "title": "tt27198279",
+      "timestamp": "2026-01-22T07:44:40.060Z",
+      "ip": "2401:4900:1cb5:d63f:a28e:1cfc:587b:5563",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -83991,6 +83992,13 @@
       "title": "The Day the Earth Stood Still",
       "username": "william097",
       "lastActive": 1769066958780
+    },
+    "2401:4900:1cb5:d63f:a28e:1cfc:587b:5563": {
+      "type": "movie",
+      "id": "tt27198279",
+      "title": "tt27198279",
+      "username": "anonymous",
+      "lastActive": 1769067880060
     }
   }
 }
