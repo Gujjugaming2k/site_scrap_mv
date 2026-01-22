@@ -1,5 +1,5 @@
 {
-  "totalViews": 13941,
+  "totalViews": 13943,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2875,22 +2875,6 @@
     "94.156.30.176"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4063800:5:3",
-      "title": "tt4063800:5:3",
-      "timestamp": "2026-01-12T00:05:43.647Z",
-      "ip": "2a01:e0a:f9f:7d40:ad32:ac87:66d5:75af",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0141842:2:4",
-      "title": "The Sopranos",
-      "timestamp": "2026-01-12T00:05:52.114Z",
-      "ip": "2605:59c0:2893:2b10:749c:c4ff:fe67:c059",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt2147999:1:9",
@@ -82874,6 +82858,22 @@
       "timestamp": "2026-01-22T13:36:30.356Z",
       "ip": "94.156.30.176",
       "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:2:6",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-22T13:45:07.812Z",
+      "ip": "2401:4900:851d:6245::3e13:72f",
+      "username": "abhi231511"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:2:5",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-22T13:45:11.864Z",
+      "ip": "2401:4900:851d:6245::3e13:72f",
+      "username": "abhi231511"
     }
   ],
   "activeNow": {
@@ -84468,10 +84468,10 @@
     },
     "2401:4900:851d:6245::3e13:72f": {
       "type": "series",
-      "id": "tt0944947:2:6",
+      "id": "tt0944947:2:5",
       "title": "Game of Thrones",
       "username": "abhi231511",
-      "lastActive": 1769088459868
+      "lastActive": 1769089511864
     },
     "2600:4041:558e:4d00:d645:ac1e:fff9:a0d": {
       "type": "series",
