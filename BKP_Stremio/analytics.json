@@ -1,5 +1,5 @@
 {
-  "totalViews": 13630,
+  "totalViews": 13634,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2803,41 +2803,10 @@
     "2402:3a80:831:13cc:7c8c:2aff:fe97:bce9",
     "2401:4900:b503:d014:f00e:cff:fe08:dc81",
     "91.72.147.46",
-    "2604:3d09:d7f:1600:f964:62f1:2e8a:e030"
+    "2604:3d09:d7f:1600:f964:62f1:2e8a:e030",
+    "117.212.13.17"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1314652",
-      "title": "tt1314652",
-      "timestamp": "2026-01-11T19:32:16.104Z",
-      "ip": "2409:40e6:21c:4a11:fcfa:48ff:fe22:7125",
-      "username": "nabakun24"
-    },
-    {
-      "type": "series",
-      "id": "tt10945036:1:4",
-      "title": "tt10945036:1:4",
-      "timestamp": "2026-01-11T19:32:24.242Z",
-      "ip": "67.147.13.201",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt3032476:2:7",
-      "title": "tt3032476:2:7",
-      "timestamp": "2026-01-11T19:32:24.773Z",
-      "ip": "109.76.171.65",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt14452174",
-      "title": "tt14452174",
-      "timestamp": "2026-01-11T19:33:13.364Z",
-      "ip": "2a01:e0a:160:a730:9885:b30d:2e96:34fa",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt10577736:1:6",
@@ -82805,6 +82774,38 @@
       "timestamp": "2026-01-22T07:08:18.525Z",
       "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
       "username": "anonymous_rare"
+    },
+    {
+      "type": "movie",
+      "id": "tt23172090",
+      "title": "tt23172090",
+      "timestamp": "2026-01-22T07:11:36.827Z",
+      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:6",
+      "title": "tt35335046:1:6",
+      "timestamp": "2026-01-22T07:12:28.690Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
+      "timestamp": "2026-01-22T07:13:22.077Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "movie",
+      "id": "tt10366206",
+      "title": "John Wick: Chapter 4",
+      "timestamp": "2026-01-22T07:23:47.799Z",
+      "ip": "117.212.13.17",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -82901,10 +82902,10 @@
     },
     "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145": {
       "type": "movie",
-      "id": "tt26684398",
-      "title": "SPY x FAMILY CODE: White",
+      "id": "tt23172090",
+      "title": "tt23172090",
       "username": "anonymous_rare",
-      "lastActive": 1769065698525
+      "lastActive": 1769065896827
     },
     "94.156.30.7": {
       "type": "movie",
@@ -82985,10 +82986,10 @@
     },
     "115.98.99.86": {
       "type": "series",
-      "id": "tt35335046:1:6",
-      "title": "tt35335046:1:6",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
       "username": "nothing_8888",
-      "lastActive": 1769063213971
+      "lastActive": 1769066002077
     },
     "2409:40f0:104d:4bc3:285e:e7ff:fe93:479": {
       "type": "series",
@@ -83976,6 +83977,13 @@
       "title": "tt0182576:4:13",
       "username": "anonymous",
       "lastActive": 1769062488068
+    },
+    "117.212.13.17": {
+      "type": "movie",
+      "id": "tt10366206",
+      "title": "John Wick: Chapter 4",
+      "username": "zealousninja",
+      "lastActive": 1769066627799
     }
   }
 }
