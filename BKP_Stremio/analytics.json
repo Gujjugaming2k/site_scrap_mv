@@ -1,5 +1,5 @@
 {
-  "totalViews": 13876,
+  "totalViews": 13891,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2856,129 +2856,13 @@
     "81.17.122.165",
     "2401:4900:8820:8915:93d:bf21:58cc:ff54,2a09:bac5:37ac:ebe::178:145",
     "82.16.197.1",
-    "2a10:d582:3a43:0:247c:6e84:6142:f3db"
+    "2a10:d582:3a43:0:247c:6e84:6142:f3db",
+    "27.59.119.169",
+    "2401:4900:1cb0:5cf4:148b:1ae8:b716:cd0e",
+    "105.105.243.147",
+    "2401:4900:851d:6245::3e13:72f"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt32612521:1:9",
-      "title": "tt32612521:1:9",
-      "timestamp": "2026-01-11T22:49:53.705Z",
-      "ip": "173.243.26.214",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt29921437:1:4",
-      "title": "tt29921437:1:4",
-      "timestamp": "2026-01-11T22:50:17.758Z",
-      "ip": "2803:1500:c00:7afc:984e:34bc:c40:f239",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-11T22:51:34.772Z",
-      "ip": "2800:320:c045:4501:df43:19e1:2128:8be6",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0081309",
-      "title": "tt0081309",
-      "timestamp": "2026-01-11T22:52:21.908Z",
-      "ip": "2a02:9b0:e6:1a37:94e6:1b47:4218:3b96",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0773262:1:11",
-      "title": "tt0773262:1:11",
-      "timestamp": "2026-01-11T22:55:06.146Z",
-      "ip": "176.170.93.160",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt2450026",
-      "title": "tt2450026",
-      "timestamp": "2026-01-11T22:55:47.734Z",
-      "ip": "2a00:23c7:4f3f:b01:4dab:ad56:dfb9:d8c3",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0367027",
-      "title": "tt0367027",
-      "timestamp": "2026-01-11T22:57:59.841Z",
-      "ip": "2a02:9b0:e6:1a37:94e6:1b47:4218:3b96",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2147999:1:7",
-      "title": "tt2147999:1:7",
-      "timestamp": "2026-01-11T22:58:34.146Z",
-      "ip": "166.48.63.250",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt2450026",
-      "title": "tt2450026",
-      "timestamp": "2026-01-11T22:59:18.636Z",
-      "ip": "2a00:23c7:4f3f:b01:4dab:ad56:dfb9:d8c3",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt6640444:1:7",
-      "title": "tt6640444:1:7",
-      "timestamp": "2026-01-11T22:59:57.511Z",
-      "ip": "2605:ba00:8108:1ca:c5f4:35eb:9b8c:dcb4",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt11189300:1:1",
-      "title": "tt11189300:1:1",
-      "timestamp": "2026-01-11T23:00:35.424Z",
-      "ip": "2803:c180:2601:4c1b:59f1:5b07:9302:c457",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2661044:7:2",
-      "title": "tt2661044:7:2",
-      "timestamp": "2026-01-11T23:02:13.591Z",
-      "ip": "2a02:8428:ad10:ae01:b518:8706:9f34:972e",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0386676:9:15",
-      "title": "tt0386676:9:15",
-      "timestamp": "2026-01-11T23:06:17.068Z",
-      "ip": "103.251.27.32",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt3032476:2:9",
-      "title": "tt3032476:2:9",
-      "timestamp": "2026-01-11T23:06:20.529Z",
-      "ip": "109.76.171.65",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt26443597",
-      "title": "tt26443597",
-      "timestamp": "2026-01-11T23:09:19.621Z",
-      "ip": "2806:2f0:75a0:e291:9855:8ec8:6cd7:4d06",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt26443597",
@@ -82858,6 +82742,126 @@
       "timestamp": "2026-01-22T12:16:09.905Z",
       "ip": "2401:4900:8820:8915:93d:bf21:58cc:ff54,2a09:bac5:37ac:ebe::178:145",
       "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:2:6",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-22T12:20:41.658Z",
+      "ip": "2401:4900:8168:fee6::e28:1957",
+      "username": "abhi231511"
+    },
+    {
+      "type": "movie",
+      "id": "tt33996113",
+      "title": "tt33996113",
+      "timestamp": "2026-01-22T12:21:57.750Z",
+      "ip": "27.59.119.169",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt33996113",
+      "title": "tt33996113",
+      "timestamp": "2026-01-22T12:22:19.464Z",
+      "ip": "27.59.119.169",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt34159694",
+      "title": "tt34159694",
+      "timestamp": "2026-01-22T12:22:26.732Z",
+      "ip": "2401:4900:1cb0:5cf4:148b:1ae8:b716:cd0e",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-22T12:25:49.976Z",
+      "ip": "2401:4900:8820:8915:93d:bf21:58cc:ff54,2a09:bac5:37ac:ebe::178:145",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-22T12:26:05.678Z",
+      "ip": "2401:4900:8820:8915:93d:bf21:58cc:ff54,2a09:bac5:37ac:ebe::178:145",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-22T12:26:09.278Z",
+      "ip": "2401:4900:8820:8915:93d:bf21:58cc:ff54,2a09:bac5:37ac:ebe::178:145",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:3",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-22T12:26:24.778Z",
+      "ip": "2401:4900:8820:8915:93d:bf21:58cc:ff54,2a09:bac5:37ac:ebe::178:145",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:3:3",
+      "title": "tt0369179:3:3",
+      "timestamp": "2026-01-22T12:28:01.578Z",
+      "ip": "105.105.243.147",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt7235466:9:2",
+      "title": "tt7235466:9:2",
+      "timestamp": "2026-01-22T12:29:47.063Z",
+      "ip": "185.149.211.25",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-22T12:31:03.288Z",
+      "ip": "2401:4900:8820:8915:93d:bf21:58cc:ff54,2a09:bac5:37ac:ebe::178:145",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-22T12:31:19.084Z",
+      "ip": "2401:4900:8820:8915:93d:bf21:58cc:ff54,2a09:bac5:37ac:ebe::178:145",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-22T12:31:22.676Z",
+      "ip": "2401:4900:8820:8915:93d:bf21:58cc:ff54,2a09:bac5:37ac:ebe::178:145",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:2:5",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-22T12:31:29.399Z",
+      "ip": "2401:4900:851d:6245::3e13:72f",
+      "username": "abhi231511"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:3",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-22T12:31:37.030Z",
+      "ip": "2401:4900:8820:8915:93d:bf21:58cc:ff54,2a09:bac5:37ac:ebe::178:145",
+      "username": "anonymous_rare"
     }
   ],
   "activeNow": {
@@ -84256,10 +84260,10 @@
     },
     "185.149.211.25": {
       "type": "series",
-      "id": "tt7235466:9:1",
-      "title": "tt7235466:9:1",
+      "id": "tt7235466:9:2",
+      "title": "tt7235466:9:2",
       "username": "anonymous",
-      "lastActive": 1769082266442
+      "lastActive": 1769084987063
     },
     "213.207.159.160": {
       "type": "movie",
@@ -84340,10 +84344,10 @@
     },
     "2401:4900:8168:fee6::e28:1957": {
       "type": "series",
-      "id": "tt0944947:2:7",
+      "id": "tt0944947:2:6",
       "title": "Game of Thrones",
       "username": "abhi231511",
-      "lastActive": 1769081557117
+      "lastActive": 1769084441658
     },
     "2401:4900:b9e1:7309:c9cf:378e:a78:c31d": {
       "type": "series",
@@ -84413,7 +84417,7 @@
       "id": "tt4574334:1:3",
       "title": "Stranger Things",
       "username": "anonymous_rare",
-      "lastActive": 1769084169905
+      "lastActive": 1769085097030
     },
     "82.16.197.1": {
       "type": "movie",
@@ -84428,6 +84432,34 @@
       "title": "tt34509472",
       "username": "anonymous",
       "lastActive": 1769084061969
+    },
+    "27.59.119.169": {
+      "type": "movie",
+      "id": "tt33996113",
+      "title": "tt33996113",
+      "username": "b1jju",
+      "lastActive": 1769084539464
+    },
+    "2401:4900:1cb0:5cf4:148b:1ae8:b716:cd0e": {
+      "type": "movie",
+      "id": "tt34159694",
+      "title": "tt34159694",
+      "username": "saisrinivas",
+      "lastActive": 1769084546732
+    },
+    "105.105.243.147": {
+      "type": "series",
+      "id": "tt0369179:3:3",
+      "title": "tt0369179:3:3",
+      "username": "anonymous",
+      "lastActive": 1769084881578
+    },
+    "2401:4900:851d:6245::3e13:72f": {
+      "type": "series",
+      "id": "tt0944947:2:5",
+      "title": "Game of Thrones",
+      "username": "abhi231511",
+      "lastActive": 1769085089399
     }
   }
 }
