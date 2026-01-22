@@ -1,5 +1,5 @@
 {
-  "totalViews": 13459,
+  "totalViews": 13463,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2790,41 +2790,10 @@
     "186.189.179.55",
     "2401:4900:8844:695e:b8d8:221:2344:c2d0",
     "2806:2a0:150a:8759:1908:1249:9d32:97b3",
-    "2409:40d2:3007:c242:8000::"
+    "2409:40d2:3007:c242:8000::",
+    "2401:4900:126d:765d:c007:8ff:fec7:4005"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0343314:1:2",
-      "title": "tt0343314:1:2",
-      "timestamp": "2026-01-11T17:54:23.307Z",
-      "ip": "2a02:6ea0:d213:5490::12",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt9362722",
-      "title": "Spider-Man: Across the Spider-Verse",
-      "timestamp": "2026-01-11T17:54:52.512Z",
-      "ip": "2405:201:500c:496b:14d5:614:2264:1c82",
-      "username": "shadowbhaiii"
-    },
-    {
-      "type": "series",
-      "id": "tt7772588:2:1",
-      "title": "tt7772588:2:1",
-      "timestamp": "2026-01-11T17:54:52.817Z",
-      "ip": "2606:6a40:3:7e16:8434:a8e2:986b:b5d2",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:1:4",
-      "title": "tt31938062:1:4",
-      "timestamp": "2026-01-11T17:54:54.346Z",
-      "ip": "122.161.240.208",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt7569592:1:1",
@@ -82792,6 +82761,38 @@
       "timestamp": "2026-01-22T02:27:23.328Z",
       "ip": "103.24.85.218",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:1:1",
+      "title": "tt19854762:1:1",
+      "timestamp": "2026-01-22T02:50:37.444Z",
+      "ip": "2401:4900:126d:765d:c007:8ff:fec7:4005",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:1:3",
+      "title": "Fallout",
+      "timestamp": "2026-01-22T02:51:46.020Z",
+      "ip": "150.107.212.194",
+      "username": "abelboby"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:1:3",
+      "title": "Fallout",
+      "timestamp": "2026-01-22T02:53:08.478Z",
+      "ip": "150.107.212.194",
+      "username": "abelboby"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:1:4",
+      "title": "Fallout",
+      "timestamp": "2026-01-22T02:53:22.602Z",
+      "ip": "150.107.212.194",
+      "username": "abelboby"
     }
   ],
   "activeNow": {
@@ -83000,10 +83001,10 @@
     },
     "150.107.212.194": {
       "type": "series",
-      "id": "tt12637874:1:3",
+      "id": "tt12637874:1:4",
       "title": "Fallout",
       "username": "abelboby",
-      "lastActive": 1768998110865
+      "lastActive": 1769050402602
     },
     "27.6.114.125": {
       "type": "movie",
@@ -83865,6 +83866,13 @@
       "title": "tt0460649:3:20",
       "username": "demon18319",
       "lastActive": 1769048415344
+    },
+    "2401:4900:126d:765d:c007:8ff:fec7:4005": {
+      "type": "series",
+      "id": "tt19854762:1:1",
+      "title": "tt19854762:1:1",
+      "username": "askchm",
+      "lastActive": 1769050237444
     }
   }
 }
