@@ -1,5 +1,5 @@
 {
-  "totalViews": 14439,
+  "totalViews": 14444,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2999,49 +2999,12 @@
     "160.179.72.227",
     "47.195.118.182",
     "86.14.158.40",
-    "2a09:bac5:3109:191::28:15e"
+    "2a09:bac5:3109:191::28:15e",
+    "105.110.33.79",
+    "23.236.11.30",
+    "37.18.140.236"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt3402138",
-      "title": "The Naked Gun",
-      "timestamp": "2026-01-12T09:10:28.796Z",
-      "ip": "223.188.82.34",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt9603208",
-      "title": "Mission: Impossible - The Final Reckoning",
-      "timestamp": "2026-01-12T09:11:35.268Z",
-      "ip": "223.188.82.34",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt14364480",
-      "title": "tt14364480",
-      "timestamp": "2026-01-12T09:12:22.063Z",
-      "ip": "223.188.82.34",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt26439764",
-      "title": "tt26439764",
-      "timestamp": "2026-01-12T09:12:45.466Z",
-      "ip": "223.188.82.34",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt11126994:2:1",
-      "title": "Arcane",
-      "timestamp": "2026-01-12T09:14:19.949Z",
-      "ip": "2a02:810a:988:dd00:58a2:6a6f:d959:95bd",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt20765238:1:1",
@@ -83001,6 +82964,46 @@
       "timestamp": "2026-01-22T20:47:39.684Z",
       "ip": "2a09:bac5:3109:191::28:15e",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-01-22T20:50:26.582Z",
+      "ip": "105.110.33.79",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0070723",
+      "title": "tt0070723",
+      "timestamp": "2026-01-22T20:51:12.741Z",
+      "ip": "70.50.178.65",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:2:1",
+      "title": "tt19854762:2:1",
+      "timestamp": "2026-01-22T20:55:49.500Z",
+      "ip": "23.236.11.30",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt33517752:1:1",
+      "title": "tt33517752:1:1",
+      "timestamp": "2026-01-22T21:01:03.861Z",
+      "ip": "37.18.140.236",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt28252935",
+      "title": "tt28252935",
+      "timestamp": "2026-01-22T21:03:35.526Z",
+      "ip": "71.179.184.52",
+      "username": "anupambabu_97"
     }
   ],
   "activeNow": {
@@ -84161,10 +84164,10 @@
     },
     "71.179.184.52": {
       "type": "movie",
-      "id": "tt38965964",
-      "title": "tt38965964",
+      "id": "tt28252935",
+      "title": "tt28252935",
       "username": "anupambabu_97",
-      "lastActive": 1769113849554
+      "lastActive": 1769115815526
     },
     "2604:3d09:d7f:1600:f964:62f1:2e8a:e030": {
       "type": "series",
@@ -85057,10 +85060,10 @@
     },
     "70.50.178.65": {
       "type": "movie",
-      "id": "tt0366724",
-      "title": "tt0366724",
+      "id": "tt0070723",
+      "title": "tt0070723",
       "username": "anonymous",
-      "lastActive": 1769100001204
+      "lastActive": 1769115072741
     },
     "2409:40e4:68:cd19:e456:8fff:fe83:f26a": {
       "type": "movie",
@@ -85586,6 +85589,27 @@
       "title": "Dracula",
       "username": "anonymous",
       "lastActive": 1769114859684
+    },
+    "105.110.33.79": {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "username": "anonymous",
+      "lastActive": 1769115026582
+    },
+    "23.236.11.30": {
+      "type": "series",
+      "id": "tt19854762:2:1",
+      "title": "tt19854762:2:1",
+      "username": "anonymous",
+      "lastActive": 1769115349500
+    },
+    "37.18.140.236": {
+      "type": "series",
+      "id": "tt33517752:1:1",
+      "title": "tt33517752:1:1",
+      "username": "anonymous",
+      "lastActive": 1769115663861
     }
   }
 }
