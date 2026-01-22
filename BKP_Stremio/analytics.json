@@ -1,5 +1,5 @@
 {
-  "totalViews": 13610,
+  "totalViews": 13612,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2806,22 +2806,6 @@
     "2604:3d09:d7f:1600:f964:62f1:2e8a:e030"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt2283362",
-      "title": "Jumanji: Welcome to the Jungle",
-      "timestamp": "2026-01-11T19:20:50.101Z",
-      "ip": "182.77.79.67",
-      "username": "thebatmanbyte"
-    },
-    {
-      "type": "series",
-      "id": "tt1266020:1:5",
-      "title": "tt1266020:1:5",
-      "timestamp": "2026-01-11T19:20:52.536Z",
-      "ip": "162.212.211.108",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt9169516:1:5",
@@ -82805,6 +82789,22 @@
       "timestamp": "2026-01-22T06:21:48.452Z",
       "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
       "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:5",
+      "title": "tt35335046:1:5",
+      "timestamp": "2026-01-22T06:26:41.190Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:6",
+      "title": "tt35335046:1:6",
+      "timestamp": "2026-01-22T06:26:53.971Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
     }
   ],
   "activeNow": {
@@ -82985,10 +82985,10 @@
     },
     "115.98.99.86": {
       "type": "series",
-      "id": "tt35335046:1:4",
-      "title": "tt35335046:1:4",
+      "id": "tt35335046:1:6",
+      "title": "tt35335046:1:6",
       "username": "nothing_8888",
-      "lastActive": 1769040888949
+      "lastActive": 1769063213971
     },
     "2409:40f0:104d:4bc3:285e:e7ff:fe93:479": {
       "type": "series",
