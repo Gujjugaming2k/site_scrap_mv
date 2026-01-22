@@ -1,5 +1,5 @@
 {
-  "totalViews": 13891,
+  "totalViews": 13898,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2860,65 +2860,11 @@
     "27.59.119.169",
     "2401:4900:1cb0:5cf4:148b:1ae8:b716:cd0e",
     "105.105.243.147",
-    "2401:4900:851d:6245::3e13:72f"
+    "2401:4900:851d:6245::3e13:72f",
+    "2600:4041:558e:4d00:d645:ac1e:fff9:a0d",
+    "2409:40e2:10fb:5577:ad78:924f:16f2:7ecb"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt26443597",
-      "title": "tt26443597",
-      "timestamp": "2026-01-11T23:12:03.019Z",
-      "ip": "2806:2f0:75a0:e291:9855:8ec8:6cd7:4d06",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt10945036:2:2",
-      "title": "tt10945036:2:2",
-      "timestamp": "2026-01-11T23:12:34.707Z",
-      "ip": "67.147.13.201",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2432604:0:1",
-      "title": "tt2432604:0:1",
-      "timestamp": "2026-01-11T23:12:39.296Z",
-      "ip": "202.7.222.29",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt14155746:1:4",
-      "title": "tt14155746:1:4",
-      "timestamp": "2026-01-11T23:14:27.876Z",
-      "ip": "202.7.222.29",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt14155746:1:5",
-      "title": "tt14155746:1:5",
-      "timestamp": "2026-01-11T23:14:55.681Z",
-      "ip": "202.7.222.29",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0141842:2:3",
-      "title": "The Sopranos",
-      "timestamp": "2026-01-11T23:15:13.876Z",
-      "ip": "2605:59c0:2893:2b10:749c:c4ff:fe67:c059",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0122834:1:1",
-      "title": "tt0122834:1:1",
-      "timestamp": "2026-01-11T23:16:01.180Z",
-      "ip": "2803:c180:2601:4c1b:59f1:5b07:9302:c457",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt26443597",
@@ -82862,6 +82808,62 @@
       "timestamp": "2026-01-22T12:31:37.030Z",
       "ip": "2401:4900:8820:8915:93d:bf21:58cc:ff54,2a09:bac5:37ac:ebe::178:145",
       "username": "anonymous_rare"
+    },
+    {
+      "type": "movie",
+      "id": "tt7632390",
+      "title": "tt7632390",
+      "timestamp": "2026-01-22T12:33:13.068Z",
+      "ip": "115.98.99.86",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt1319598:1:1",
+      "title": "tt1319598:1:1",
+      "timestamp": "2026-01-22T12:33:48.679Z",
+      "ip": "2600:4041:558e:4d00:d645:ac1e:fff9:a0d",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1319598:1:2",
+      "title": "tt1319598:1:2",
+      "timestamp": "2026-01-22T12:34:29.313Z",
+      "ip": "2600:4041:558e:4d00:d645:ac1e:fff9:a0d",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1319598:2:1",
+      "title": "tt1319598:2:1",
+      "timestamp": "2026-01-22T12:34:57.352Z",
+      "ip": "2600:4041:558e:4d00:d645:ac1e:fff9:a0d",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt1319598:2:1",
+      "title": "tt1319598:2:1",
+      "timestamp": "2026-01-22T12:35:03.168Z",
+      "ip": "2600:4041:558e:4d00:d645:ac1e:fff9:a0d",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt5034474",
+      "title": "tt5034474",
+      "timestamp": "2026-01-22T12:36:22.069Z",
+      "ip": "2409:40e2:10fb:5577:ad78:924f:16f2:7ecb",
+      "username": "adr7000"
+    },
+    {
+      "type": "series",
+      "id": "tt1442449:1:3",
+      "title": "tt1442449:1:3",
+      "timestamp": "2026-01-22T12:37:36.065Z",
+      "ip": "27.122.61.164",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -83041,11 +83043,11 @@
       "lastActive": 1768981084113
     },
     "115.98.99.86": {
-      "type": "series",
-      "id": "tt35335046:1:7",
-      "title": "tt35335046:1:7",
+      "type": "movie",
+      "id": "tt7632390",
+      "title": "tt7632390",
       "username": "nothing_8888",
-      "lastActive": 1769078970902
+      "lastActive": 1769085193068
     },
     "2409:40f0:104d:4bc3:285e:e7ff:fe93:479": {
       "type": "series",
@@ -84379,10 +84381,10 @@
     },
     "27.122.61.164": {
       "type": "series",
-      "id": "tt1442449:1:2",
-      "title": "tt1442449:1:2",
+      "id": "tt1442449:1:3",
+      "title": "tt1442449:1:3",
       "username": "anonymous",
-      "lastActive": 1769082449350
+      "lastActive": 1769085456065
     },
     "73.89.241.152": {
       "type": "movie",
@@ -84460,6 +84462,20 @@
       "title": "Game of Thrones",
       "username": "abhi231511",
       "lastActive": 1769085089399
+    },
+    "2600:4041:558e:4d00:d645:ac1e:fff9:a0d": {
+      "type": "series",
+      "id": "tt1319598:2:1",
+      "title": "tt1319598:2:1",
+      "username": "anonymous",
+      "lastActive": 1769085303168
+    },
+    "2409:40e2:10fb:5577:ad78:924f:16f2:7ecb": {
+      "type": "movie",
+      "id": "tt5034474",
+      "title": "tt5034474",
+      "username": "adr7000",
+      "lastActive": 1769085382069
     }
   }
 }
