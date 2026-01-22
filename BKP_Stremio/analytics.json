@@ -1,5 +1,5 @@
 {
-  "totalViews": 13965,
+  "totalViews": 13970,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2883,49 +2883,13 @@
     "2607:fb90:8b2a:8ad4:3cfb:7f50:bb39:e977",
     "2409:40d4:40cf:dfd6:f573:3c8:7247:7172",
     "2409:40d4:40cf:dfd6:8000::",
-    "158.140.191.91"
+    "158.140.191.91",
+    "195.86.23.27",
+    "88.203.83.187",
+    "2a0a:ef40:164f:ed01:c451:13f1:b085:95aa",
+    "2401:4900:1cb0:5cf4:e0a1:1ad6:ef7d:dacb"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0857297:1:1",
-      "title": "tt0857297:1:1",
-      "timestamp": "2026-01-12T00:40:38.784Z",
-      "ip": "2409:40c4:30a3:b278:d63d:a3df:5796:e28e",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1355642:1:53",
-      "title": "tt1355642:1:53",
-      "timestamp": "2026-01-12T00:40:52.125Z",
-      "ip": "92.189.253.133",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0857297:1:2",
-      "title": "tt0857297:1:2",
-      "timestamp": "2026-01-12T00:42:08.723Z",
-      "ip": "2409:40c4:30a3:b278:d63d:a3df:5796:e28e",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt7587890:3:7",
-      "title": "tt7587890:3:7",
-      "timestamp": "2026-01-12T00:42:41.266Z",
-      "ip": "68.12.56.118",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt29712397:1:2",
-      "title": "tt29712397:1:2",
-      "timestamp": "2026-01-12T00:43:23.450Z",
-      "ip": "213.137.138.179",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt10332508:1:1",
@@ -82885,6 +82849,46 @@
       "timestamp": "2026-01-22T14:36:04.122Z",
       "ip": "27.59.119.169",
       "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt28508934",
+      "title": "tt28508934",
+      "timestamp": "2026-01-22T14:42:03.157Z",
+      "ip": "195.86.23.27",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-01-22T14:45:29.528Z",
+      "ip": "88.203.83.187",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt13176330",
+      "title": "tt13176330",
+      "timestamp": "2026-01-22T14:48:30.593Z",
+      "ip": "2a0a:ef40:164f:ed01:c451:13f1:b085:95aa",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt34159694",
+      "title": "tt34159694",
+      "timestamp": "2026-01-22T14:49:15.918Z",
+      "ip": "2401:4900:1cb0:5cf4:e0a1:1ad6:ef7d:dacb",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "movie",
+      "id": "tt5956100",
+      "title": "tt5956100",
+      "timestamp": "2026-01-22T14:51:39.098Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -83009,10 +83013,10 @@
     },
     "103.24.85.218": {
       "type": "movie",
-      "id": "tt34159694",
-      "title": "tt34159694",
+      "id": "tt5956100",
+      "title": "tt5956100",
       "username": "william097",
-      "lastActive": 1769086939579
+      "lastActive": 1769093499098
     },
     "182.69.183.164": {
       "type": "movie",
@@ -84644,6 +84648,34 @@
       "title": "tt26443597",
       "username": "anonymous",
       "lastActive": 1769092107811
+    },
+    "195.86.23.27": {
+      "type": "movie",
+      "id": "tt28508934",
+      "title": "tt28508934",
+      "username": "b1jju",
+      "lastActive": 1769092923157
+    },
+    "88.203.83.187": {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "username": "anonymous",
+      "lastActive": 1769093129528
+    },
+    "2a0a:ef40:164f:ed01:c451:13f1:b085:95aa": {
+      "type": "movie",
+      "id": "tt13176330",
+      "title": "tt13176330",
+      "username": "anonymous",
+      "lastActive": 1769093310593
+    },
+    "2401:4900:1cb0:5cf4:e0a1:1ad6:ef7d:dacb": {
+      "type": "movie",
+      "id": "tt34159694",
+      "title": "tt34159694",
+      "username": "saisrinivas",
+      "lastActive": 1769093355918
     }
   }
 }
