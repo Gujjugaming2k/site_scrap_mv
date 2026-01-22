@@ -1,5 +1,5 @@
 {
-  "totalViews": 14406,
+  "totalViews": 14412,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2989,57 +2989,10 @@
     "72.252.112.182",
     "80.2.93.7",
     "86.30.147.178",
-    "41.90.172.142"
+    "41.90.172.142",
+    "2a00:23c5:cd4:5601:398f:a2bd:8c0c:d69d"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt21105088:1:11",
-      "title": "tt21105088:1:11",
-      "timestamp": "2026-01-12T08:38:34.519Z",
-      "ip": "2001:818:dd65:8d00:6046:8644:53d9:a439",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2359704:2:47",
-      "title": "tt2359704:2:47",
-      "timestamp": "2026-01-12T08:43:51.093Z",
-      "ip": "223.185.20.33",
-      "username": "sinbad1722"
-    },
-    {
-      "type": "series",
-      "id": "tt2359704:2:47",
-      "title": "tt2359704:2:47",
-      "timestamp": "2026-01-12T08:43:57.708Z",
-      "ip": "223.185.20.33",
-      "username": "sinbad1722"
-    },
-    {
-      "type": "series",
-      "id": "tt2359704:2:48",
-      "title": "tt2359704:2:48",
-      "timestamp": "2026-01-12T08:44:42.510Z",
-      "ip": "223.185.20.33",
-      "username": "sinbad1722"
-    },
-    {
-      "type": "series",
-      "id": "tt2359704:2:47",
-      "title": "tt2359704:2:47",
-      "timestamp": "2026-01-12T08:45:28.774Z",
-      "ip": "223.185.20.33",
-      "username": "sinbad1722"
-    },
-    {
-      "type": "series",
-      "id": "tt0412142:3:1",
-      "title": "tt0412142:3:1",
-      "timestamp": "2026-01-12T08:46:15.622Z",
-      "ip": "59.93.5.218",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt9100346:1:1",
@@ -82991,6 +82944,54 @@
       "timestamp": "2026-01-22T20:02:36.217Z",
       "ip": "41.90.172.142",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-01-22T20:04:55.324Z",
+      "ip": "2600:8800:88a1:7f00:e514:fb88:c391:d139",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt28959685:3:7",
+      "title": "tt28959685:3:7",
+      "timestamp": "2026-01-22T20:08:50.770Z",
+      "ip": "41.90.172.142",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:4:1",
+      "title": "tt3032476:4:1",
+      "timestamp": "2026-01-22T20:15:31.668Z",
+      "ip": "51.37.194.94",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:4:1",
+      "title": "tt3032476:4:1",
+      "timestamp": "2026-01-22T20:16:05.118Z",
+      "ip": "51.37.194.94",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt0899043",
+      "title": "The Amateur",
+      "timestamp": "2026-01-22T20:16:53.707Z",
+      "ip": "2a00:23c5:cd4:5601:398f:a2bd:8c0c:d69d",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-01-22T20:17:17.243Z",
+      "ip": "2600:8800:88a1:7f00:e514:fb88:c391:d139",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -84231,7 +84232,7 @@
       "id": "tt3032476:4:1",
       "title": "tt3032476:4:1",
       "username": "vflix1993",
-      "lastActive": 1769110403321
+      "lastActive": 1769112965118
     },
     "27.60.130.21": {
       "type": "series",
@@ -85407,7 +85408,7 @@
       "id": "tt27543632",
       "title": "tt27543632",
       "username": "anonymous",
-      "lastActive": 1769111927911
+      "lastActive": 1769113037243
     },
     "209.147.192.83": {
       "type": "series",
@@ -85502,10 +85503,17 @@
     },
     "41.90.172.142": {
       "type": "series",
-      "id": "tt31314751:1:1",
-      "title": "tt31314751:1:1",
+      "id": "tt28959685:3:7",
+      "title": "tt28959685:3:7",
       "username": "anonymous",
-      "lastActive": 1769112156217
+      "lastActive": 1769112530770
+    },
+    "2a00:23c5:cd4:5601:398f:a2bd:8c0c:d69d": {
+      "type": "movie",
+      "id": "tt0899043",
+      "title": "The Amateur",
+      "username": "anonymous",
+      "lastActive": 1769113013707
     }
   }
 }
