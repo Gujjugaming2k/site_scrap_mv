@@ -1,5 +1,5 @@
 {
-  "totalViews": 13960,
+  "totalViews": 13965,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2881,49 +2881,11 @@
     "197.101.218.37",
     "2409:40c1:49:41ec:7843:cdff:fe2e:ca66",
     "2607:fb90:8b2a:8ad4:3cfb:7f50:bb39:e977",
-    "2409:40d4:40cf:dfd6:f573:3c8:7247:7172"
+    "2409:40d4:40cf:dfd6:f573:3c8:7247:7172",
+    "2409:40d4:40cf:dfd6:8000::",
+    "158.140.191.91"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0141842:2:4",
-      "title": "The Sopranos",
-      "timestamp": "2026-01-12T00:35:06.418Z",
-      "ip": "2605:59c0:2893:2b10:749c:c4ff:fe67:c059",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1355642:1:54",
-      "title": "tt1355642:1:54",
-      "timestamp": "2026-01-12T00:35:37.212Z",
-      "ip": "92.189.253.133",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt4500922",
-      "title": "Maze Runner: The Death Cure",
-      "timestamp": "2026-01-12T00:36:35.662Z",
-      "ip": "83.187.164.130",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt4500922",
-      "title": "Maze Runner: The Death Cure",
-      "timestamp": "2026-01-12T00:39:22.902Z",
-      "ip": "83.187.164.130",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt4500922",
-      "title": "Maze Runner: The Death Cure",
-      "timestamp": "2026-01-12T00:40:15.427Z",
-      "ip": "83.187.164.130",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0857297:1:1",
@@ -82883,6 +82845,46 @@
       "timestamp": "2026-01-22T14:22:47.745Z",
       "ip": "2409:40d4:40cf:dfd6:f573:3c8:7247:7172",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-22T14:23:27.102Z",
+      "ip": "2409:40d4:40cf:dfd6:8000::",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt39139925",
+      "title": "tt39139925",
+      "timestamp": "2026-01-22T14:25:57.687Z",
+      "ip": "2409:40d4:40cf:dfd6:f573:3c8:7247:7172",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt39139925",
+      "title": "tt39139925",
+      "timestamp": "2026-01-22T14:26:40.348Z",
+      "ip": "2409:40d4:40cf:dfd6:8000::",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-01-22T14:28:27.811Z",
+      "ip": "158.140.191.91",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt28508934",
+      "title": "tt28508934",
+      "timestamp": "2026-01-22T14:36:04.122Z",
+      "ip": "27.59.119.169",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -84456,10 +84458,10 @@
     },
     "27.59.119.169": {
       "type": "movie",
-      "id": "tt6604188",
-      "title": "TRON: Ares",
+      "id": "tt28508934",
+      "title": "tt28508934",
       "username": "b1jju",
-      "lastActive": 1769088626159
+      "lastActive": 1769092564122
     },
     "2401:4900:1cb0:5cf4:148b:1ae8:b716:cd0e": {
       "type": "movie",
@@ -84624,10 +84626,24 @@
     },
     "2409:40d4:40cf:dfd6:f573:3c8:7247:7172": {
       "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "id": "tt39139925",
+      "title": "tt39139925",
       "username": "anonymous",
-      "lastActive": 1769091767745
+      "lastActive": 1769091957687
+    },
+    "2409:40d4:40cf:dfd6:8000::": {
+      "type": "movie",
+      "id": "tt39139925",
+      "title": "tt39139925",
+      "username": "anonymous",
+      "lastActive": 1769092000348
+    },
+    "158.140.191.91": {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "username": "anonymous",
+      "lastActive": 1769092107811
     }
   }
 }
