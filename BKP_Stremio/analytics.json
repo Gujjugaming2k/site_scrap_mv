@@ -1,5 +1,5 @@
 {
-  "totalViews": 13724,
+  "totalViews": 13729,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2829,49 +2829,11 @@
     "2401:4900:ab89:d51b:b868:fdff:feac:7207",
     "2409:40d0:203f:4591:3cfd:e7ff:fe5e:c088",
     "2401:4900:ad3e:e698:e2e1:371f:fde5:2ada",
-    "2806:267:6409:d2:2665:dbf6:6a78:7ae9"
+    "2806:267:6409:d2:2665:dbf6:6a78:7ae9",
+    "172.119.217.7",
+    "46.37.71.166"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1055238:18:12",
-      "title": "tt1055238:18:12",
-      "timestamp": "2026-01-11T20:56:44.040Z",
-      "ip": "70.40.87.208",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt3032476:6:8",
-      "title": "tt3032476:6:8",
-      "timestamp": "2026-01-11T20:57:48.936Z",
-      "ip": "2606:5d00:9801:8000:643f:93bb:6bf3:a6cf",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt3032476:2:3",
-      "title": "tt3032476:2:3",
-      "timestamp": "2026-01-11T20:58:07.617Z",
-      "ip": "109.76.171.65",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt3032476:2:7",
-      "title": "tt3032476:2:7",
-      "timestamp": "2026-01-11T20:58:17.314Z",
-      "ip": "109.76.171.65",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt9327706:1:2",
-      "title": "tt9327706:1:2",
-      "timestamp": "2026-01-11T20:59:25.895Z",
-      "ip": "2a02:8308:b090:5100:20b9:216d:135a:c18d",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt9327706:1:2",
@@ -82831,6 +82793,46 @@
       "timestamp": "2026-01-22T09:59:46.052Z",
       "ip": "2806:267:6409:d2:2665:dbf6:6a78:7ae9",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "timestamp": "2026-01-22T10:04:01.758Z",
+      "ip": "2806:267:6409:d2:2665:dbf6:6a78:7ae9",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "timestamp": "2026-01-22T10:06:57.522Z",
+      "ip": "117.212.13.17",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt33458086",
+      "title": "tt33458086",
+      "timestamp": "2026-01-22T10:08:23.902Z",
+      "ip": "2806:267:6409:d2:2665:dbf6:6a78:7ae9",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt10872600",
+      "title": "Spider-Man: No Way Home",
+      "timestamp": "2026-01-22T10:09:48.714Z",
+      "ip": "172.119.217.7",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt29921437:1:6",
+      "title": "tt29921437:1:6",
+      "timestamp": "2026-01-22T10:13:44.118Z",
+      "ip": "46.37.71.166",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -84004,11 +84006,11 @@
       "lastActive": 1769062488068
     },
     "117.212.13.17": {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
       "username": "zealousninja",
-      "lastActive": 1769066647510
+      "lastActive": 1769076417522
     },
     "115.187.50.135": {
       "type": "movie",
@@ -84186,11 +84188,25 @@
       "lastActive": 1769075683157
     },
     "2806:267:6409:d2:2665:dbf6:6a78:7ae9": {
-      "type": "series",
-      "id": "tt0096697:1:1",
-      "title": "tt0096697:1:1",
+      "type": "movie",
+      "id": "tt33458086",
+      "title": "tt33458086",
       "username": "anonymous",
-      "lastActive": 1769075986052
+      "lastActive": 1769076503902
+    },
+    "172.119.217.7": {
+      "type": "movie",
+      "id": "tt10872600",
+      "title": "Spider-Man: No Way Home",
+      "username": "anonymous",
+      "lastActive": 1769076588714
+    },
+    "46.37.71.166": {
+      "type": "series",
+      "id": "tt29921437:1:6",
+      "title": "tt29921437:1:6",
+      "username": "anonymous",
+      "lastActive": 1769076824118
     }
   }
 }
