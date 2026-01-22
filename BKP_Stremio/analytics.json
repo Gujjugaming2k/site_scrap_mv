@@ -1,5 +1,5 @@
 {
-  "totalViews": 13711,
+  "totalViews": 13718,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2825,65 +2825,11 @@
     "182.77.76.231",
     "2a06:5900:8044:9800:af1b:ea1f:7137:20b7",
     "2409:40c4:303f:14a3:b879:31ff:feab:e12d",
-    "2607:fb90:5c0d:8201:2768:9e4d:2ee6:3be"
+    "2607:fb90:5c0d:8201:2768:9e4d:2ee6:3be",
+    "2401:4900:ab89:d51b:b868:fdff:feac:7207",
+    "2409:40d0:203f:4591:3cfd:e7ff:fe5e:c088"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0289016:1:1",
-      "title": "tt0289016:1:1",
-      "timestamp": "2026-01-11T20:45:22.763Z",
-      "ip": "41.96.169.214",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt33028778",
-      "title": "tt33028778",
-      "timestamp": "2026-01-11T20:46:16.943Z",
-      "ip": "2600:1701:489:e010:fea8:1acf:d3e1:13c3",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0212671:1:12",
-      "title": "tt0212671:1:12",
-      "timestamp": "2026-01-11T20:49:36.413Z",
-      "ip": "2601:404:0:24d0:b475:a7b0:d40e:cd6",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0212671:1:12",
-      "title": "tt0212671:1:12",
-      "timestamp": "2026-01-11T20:49:54.950Z",
-      "ip": "2601:404:0:24d0:b475:a7b0:d40e:cd6",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "null",
-      "title": "null",
-      "timestamp": "2026-01-11T20:50:01.642Z",
-      "ip": "103.163.62.188",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0141842:2:2",
-      "title": "The Sopranos",
-      "timestamp": "2026-01-11T20:51:16.829Z",
-      "ip": "2605:59c0:2893:2b10:749c:c4ff:fe67:c059",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0807832:1:20",
-      "title": "tt0807832:1:20",
-      "timestamp": "2026-01-11T20:53:02.895Z",
-      "ip": "45.17.204.48",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt7587890:3:5",
@@ -82827,6 +82773,62 @@
       "timestamp": "2026-01-22T09:25:50.120Z",
       "ip": "2607:fb90:5c0d:8201:2768:9e4d:2ee6:3be",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:10",
+      "title": "tt14186672:1:10",
+      "timestamp": "2026-01-22T09:27:06.473Z",
+      "ip": "2401:4900:ab89:d51b:b868:fdff:feac:7207",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:10",
+      "title": "tt14186672:1:10",
+      "timestamp": "2026-01-22T09:27:07.922Z",
+      "ip": "2401:4900:ab89:d51b:b868:fdff:feac:7207",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:10",
+      "title": "tt14186672:2:10",
+      "timestamp": "2026-01-22T09:27:15.636Z",
+      "ip": "2401:4900:ab89:d51b:b868:fdff:feac:7207",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt12867810:1:11",
+      "title": "tt12867810:1:11",
+      "timestamp": "2026-01-22T09:30:19.440Z",
+      "ip": "2409:40c4:303f:14a3:b879:31ff:feab:e12d",
+      "username": "napsteerr"
+    },
+    {
+      "type": "movie",
+      "id": "tt0454921",
+      "title": "The Pursuit of Happyness",
+      "timestamp": "2026-01-22T09:30:59.385Z",
+      "ip": "2409:40d0:203f:4591:3cfd:e7ff:fe5e:c088",
+      "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt0454921",
+      "title": "The Pursuit of Happyness",
+      "timestamp": "2026-01-22T09:31:05.939Z",
+      "ip": "2409:40d0:203f:4591:3cfd:e7ff:fe5e:c088",
+      "username": "magicmannn"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:2:5",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-22T09:39:15.043Z",
+      "ip": "2401:4900:b9e5:60b7::2dd6:9918",
+      "username": "abhi231511"
     }
   ],
   "activeNow": {
@@ -84102,7 +84104,7 @@
       "id": "tt0944947:2:5",
       "title": "Game of Thrones",
       "username": "abhi231511",
-      "lastActive": 1769072000941
+      "lastActive": 1769074755043
     },
     "2409:40f0:2036:8e03:40e0:1ff:fe77:a7ca": {
       "type": "movie",
@@ -84151,7 +84153,7 @@
       "id": "tt12867810:1:11",
       "title": "tt12867810:1:11",
       "username": "napsteerr",
-      "lastActive": 1769073254666
+      "lastActive": 1769074219440
     },
     "2607:fb90:5c0d:8201:2768:9e4d:2ee6:3be": {
       "type": "series",
@@ -84159,6 +84161,20 @@
       "title": "tt19854762:1:1",
       "username": "anonymous",
       "lastActive": 1769073950120
+    },
+    "2401:4900:ab89:d51b:b868:fdff:feac:7207": {
+      "type": "series",
+      "id": "tt14186672:2:10",
+      "title": "tt14186672:2:10",
+      "username": "chetan_b2",
+      "lastActive": 1769074035636
+    },
+    "2409:40d0:203f:4591:3cfd:e7ff:fe5e:c088": {
+      "type": "movie",
+      "id": "tt0454921",
+      "title": "The Pursuit of Happyness",
+      "username": "magicmannn",
+      "lastActive": 1769074265939
     }
   }
 }
