@@ -1,5 +1,5 @@
 {
-  "totalViews": 14453,
+  "totalViews": 14454,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3008,14 +3008,6 @@
     "197.200.228.36"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt38221085:1:12",
-      "title": "tt38221085:1:12",
-      "timestamp": "2026-01-12T09:29:54.536Z",
-      "ip": "2409:40e4:10bc:4140:88b8:84c7:32b0:e256",
-      "username": "askchm"
-    },
     {
       "type": "series",
       "id": "tt1475582:1:2",
@@ -83007,6 +82999,14 @@
       "timestamp": "2026-01-22T21:16:27.270Z",
       "ip": "2a0a:ef40:440:7201:30ec:e5dd:d5d6:e865",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:1:4",
+      "title": "tt19854762:1:4",
+      "timestamp": "2026-01-22T21:22:41.494Z",
+      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
+      "username": "gendaswammy"
     }
   ],
   "activeNow": {
@@ -83957,10 +83957,10 @@
     },
     "2405:201:300c:213:1ef4:3fff:fe0f:1b78": {
       "type": "series",
-      "id": "tt19854762:1:3",
-      "title": "tt19854762:1:3",
+      "id": "tt19854762:1:4",
+      "title": "tt19854762:1:4",
       "username": "gendaswammy",
-      "lastActive": 1769114031851
+      "lastActive": 1769116961494
     },
     "2409:40e4:6f:ae7d:fcb9:6eff:fe1c:8e10": {
       "type": "series",
