@@ -1,5 +1,5 @@
 {
-  "totalViews": 13634,
+  "totalViews": 13638,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2807,38 +2807,6 @@
     "117.212.13.17"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt10577736:1:6",
-      "title": "Tehran",
-      "timestamp": "2026-01-11T19:33:18.480Z",
-      "ip": "93.159.40.218",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1055238:18:8",
-      "title": "tt1055238:18:8",
-      "timestamp": "2026-01-11T19:33:35.878Z",
-      "ip": "70.40.87.208",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1055238:19:2",
-      "title": "tt1055238:19:2",
-      "timestamp": "2026-01-11T19:34:30.225Z",
-      "ip": "70.40.87.208",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1055238:19:2",
-      "title": "tt1055238:19:2",
-      "timestamp": "2026-01-11T19:34:56.637Z",
-      "ip": "70.40.87.208",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0773262:1:11",
@@ -82806,6 +82774,38 @@
       "timestamp": "2026-01-22T07:23:47.799Z",
       "ip": "117.212.13.17",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-01-22T07:24:07.510Z",
+      "ip": "117.212.13.17",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-22T07:25:41.008Z",
+      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "movie",
+      "id": "tt2055709",
+      "title": "tt2055709",
+      "timestamp": "2026-01-22T07:28:56.061Z",
+      "ip": "115.187.50.135",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt0970416",
+      "title": "The Day the Earth Stood Still",
+      "timestamp": "2026-01-22T07:29:18.780Z",
+      "ip": "115.187.50.135",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -82902,10 +82902,10 @@
     },
     "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145": {
       "type": "movie",
-      "id": "tt23172090",
-      "title": "tt23172090",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "anonymous_rare",
-      "lastActive": 1769065896827
+      "lastActive": 1769066741008
     },
     "94.156.30.7": {
       "type": "movie",
@@ -83979,11 +83979,18 @@
       "lastActive": 1769062488068
     },
     "117.212.13.17": {
-      "type": "movie",
-      "id": "tt10366206",
-      "title": "John Wick: Chapter 4",
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
       "username": "zealousninja",
-      "lastActive": 1769066627799
+      "lastActive": 1769066647510
+    },
+    "115.187.50.135": {
+      "type": "movie",
+      "id": "tt0970416",
+      "title": "The Day the Earth Stood Still",
+      "username": "william097",
+      "lastActive": 1769066958780
     }
   }
 }
