@@ -1,5 +1,5 @@
 {
-  "totalViews": 13451,
+  "totalViews": 13452,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2791,14 +2791,6 @@
     "2401:4900:8844:695e:b8d8:221:2344:c2d0"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12637874:2:4",
-      "title": "Fallout",
-      "timestamp": "2026-01-11T17:51:40.694Z",
-      "ip": "2600:1702:4a71:a80f:949f:59ce:8532:add4",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt12343534:1:1",
@@ -82790,6 +82782,14 @@
       "timestamp": "2026-01-22T01:33:19.519Z",
       "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
       "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt4508902:3:8",
+      "title": "tt4508902:3:8",
+      "timestamp": "2026-01-22T01:36:15.626Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -83561,7 +83561,7 @@
       "id": "tt4508902:3:8",
       "title": "tt4508902:3:8",
       "username": "demon18319",
-      "lastActive": 1769045599519
+      "lastActive": 1769045775626
     },
     "49.36.217.235": {
       "type": "series",
