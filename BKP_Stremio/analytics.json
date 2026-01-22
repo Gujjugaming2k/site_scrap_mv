@@ -1,5 +1,5 @@
 {
-  "totalViews": 13464,
+  "totalViews": 13465,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -2790,17 +2790,10 @@
     "186.189.179.55",
     "2401:4900:8844:695e:b8d8:221:2344:c2d0",
     "2806:2a0:150a:8759:1908:1249:9d32:97b3",
-    "2409:40d2:3007:c242:8000::"
+    "2409:40d2:3007:c242:8000::",
+    "180.245.23.126"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12343534",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-11T17:55:52.870Z",
-      "ip": "2405:201:500c:496b:14d5:614:2264:1c82",
-      "username": "shadowbhaiii"
-    },
     {
       "type": "movie",
       "id": "tt26439764",
@@ -82792,6 +82785,14 @@
       "timestamp": "2026-01-22T03:18:50.434Z",
       "ip": "5.133.46.216",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-01-22T03:32:56.363Z",
+      "ip": "180.245.23.126",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -83865,6 +83866,13 @@
       "title": "tt0460649:3:20",
       "username": "demon18319",
       "lastActive": 1769048415344
+    },
+    "180.245.23.126": {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "username": "anonymous",
+      "lastActive": 1769052776363
     }
   }
 }
