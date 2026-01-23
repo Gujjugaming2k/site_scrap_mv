@@ -1,5 +1,5 @@
 {
-  "totalViews": 16333,
+  "totalViews": 16337,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3610,38 +3610,6 @@
     "2a02:c7c:1908:d00:8114:a0e1:f4d6:6805"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0369179:1:5",
-      "title": "tt0369179:1:5",
-      "timestamp": "2026-01-13T21:42:04.986Z",
-      "ip": "105.97.155.4",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2309295:3:9",
-      "title": "tt2309295:3:9",
-      "timestamp": "2026-01-13T21:43:13.711Z",
-      "ip": "2a06:c701:475e:b100:4539:89ff:f1c2:3425",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0412142:4:6",
-      "title": "tt0412142:4:6",
-      "timestamp": "2026-01-13T21:51:16.547Z",
-      "ip": "120.56.163.42",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt38980285:1:1",
-      "title": "tt38980285:1:1",
-      "timestamp": "2026-01-13T21:53:44.492Z",
-      "ip": "2001:861:e3d6:4cb0:2fe2:7d2:8929:7c79",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt15248880:1:1",
@@ -83609,6 +83577,38 @@
       "timestamp": "2026-01-23T20:36:29.342Z",
       "ip": "2a02:c7c:1908:d00:8114:a0e1:f4d6:6805",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-01-23T20:39:32.127Z",
+      "ip": "140.225.75.122",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2777882:9:1",
+      "title": "tt2777882:9:1",
+      "timestamp": "2026-01-23T20:39:53.414Z",
+      "ip": "41.101.144.201",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt2095713",
+      "title": "tt2095713",
+      "timestamp": "2026-01-23T20:40:28.748Z",
+      "ip": "2a02:6b6f:f391:d00:d9cd:a3d5:c8d6:cfa9",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2777882:9:2",
+      "title": "tt2777882:9:2",
+      "timestamp": "2026-01-23T20:40:39.083Z",
+      "ip": "41.101.144.201",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -90236,10 +90236,10 @@
     },
     "140.225.75.122": {
       "type": "movie",
-      "id": "tt27550022",
-      "title": "tt27550022",
+      "id": "tt31193180",
+      "title": "Sinners",
       "username": "anonymous",
-      "lastActive": 1769200579524
+      "lastActive": 1769200772127
     },
     "24.192.11.162": {
       "type": "series",
@@ -90271,10 +90271,10 @@
     },
     "41.101.144.201": {
       "type": "series",
-      "id": "null:1:1",
-      "title": "null:1:1",
+      "id": "tt2777882:9:2",
+      "title": "tt2777882:9:2",
       "username": "anonymous",
-      "lastActive": 1769200567700
+      "lastActive": 1769200839083
     },
     "2606:5f00:9002:4511:28e9:ed8:9aae:e885": {
       "type": "movie",
@@ -90498,7 +90498,7 @@
       "id": "tt2095713",
       "title": "tt2095713",
       "username": "anonymous",
-      "lastActive": 1769200335978
+      "lastActive": 1769200828748
     },
     "66.84.101.125": {
       "type": "movie",
