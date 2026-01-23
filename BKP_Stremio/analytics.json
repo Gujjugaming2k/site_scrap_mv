@@ -1,5 +1,5 @@
 {
-  "totalViews": 14847,
+  "totalViews": 14848,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3134,14 +3134,6 @@
     "80.233.69.243"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt37430949:1:4",
-      "title": "tt37430949:1:4",
-      "timestamp": "2026-01-12T15:12:54.058Z",
-      "ip": "115.98.99.86",
-      "username": "nothing_8888"
-    },
     {
       "type": "series",
       "id": "tt37430949:1:1",
@@ -83133,6 +83125,14 @@
       "timestamp": "2026-01-23T05:03:27.291Z",
       "ip": "80.233.69.243",
       "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt15239678",
+      "title": "Dune: Part Two",
+      "timestamp": "2026-01-23T05:08:36.656Z",
+      "ip": "125.166.9.191",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -86677,6 +86677,13 @@
       "title": "tt27673536",
       "username": "vflix1993",
       "lastActive": 1769144607291
+    },
+    "125.166.9.191": {
+      "type": "movie",
+      "id": "tt15239678",
+      "title": "Dune: Part Two",
+      "username": "anonymous",
+      "lastActive": 1769144916656
     }
   }
 }
