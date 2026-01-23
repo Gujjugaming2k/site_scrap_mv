@@ -1,5 +1,5 @@
 {
-  "totalViews": 14655,
+  "totalViews": 14661,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3081,57 +3081,12 @@
     "2a02:6ea0:5601:6476::14",
     "2607:fb90:d7c7:47ca:1cfa:4aff:fe1b:1f70",
     "24.44.72.200",
-    "2402:a00:10a:815f:d6ab:fc0a:81:9cc6"
+    "2402:a00:10a:815f:d6ab:fc0a:81:9cc6",
+    "2409:4085:aeb5:c3c9::e2cb:f110",
+    "2409:4085:aeb5:c3c9:f43f:3d00:69da:5797",
+    "69.80.3.235"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt9169516:1:2",
-      "title": "tt9169516:1:2",
-      "timestamp": "2026-01-12T13:17:04.344Z",
-      "ip": "115.98.234.103",
-      "username": "insnaee99"
-    },
-    {
-      "type": "series",
-      "id": "tt9169516:1:3",
-      "title": "tt9169516:1:3",
-      "timestamp": "2026-01-12T13:17:12.262Z",
-      "ip": "115.98.234.103",
-      "username": "insnaee99"
-    },
-    {
-      "type": "series",
-      "id": "tt9169516:1:3",
-      "title": "tt9169516:1:3",
-      "timestamp": "2026-01-12T13:17:14.588Z",
-      "ip": "115.98.234.103",
-      "username": "insnaee99"
-    },
-    {
-      "type": "series",
-      "id": "tt9169516:1:3",
-      "title": "tt9169516:1:3",
-      "timestamp": "2026-01-12T13:17:14.692Z",
-      "ip": "115.98.234.103",
-      "username": "insnaee99"
-    },
-    {
-      "type": "series",
-      "id": "tt9169516:1:4",
-      "title": "tt9169516:1:4",
-      "timestamp": "2026-01-12T13:18:07.186Z",
-      "ip": "115.98.234.103",
-      "username": "insnaee99"
-    },
-    {
-      "type": "series",
-      "id": "tt9169516:1:4",
-      "title": "tt9169516:1:4",
-      "timestamp": "2026-01-12T13:18:11.410Z",
-      "ip": "115.98.234.103",
-      "username": "insnaee99"
-    },
     {
       "type": "series",
       "id": "tt9169516:1:4",
@@ -83083,6 +83038,54 @@
       "timestamp": "2026-01-23T02:01:34.563Z",
       "ip": "2402:a00:10a:815f:d6ab:fc0a:81:9cc6",
       "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:2:1",
+      "title": "tt19854762:2:1",
+      "timestamp": "2026-01-23T02:04:39.264Z",
+      "ip": "2402:a00:10a:815f:d6ab:fc0a:81:9cc6",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-01-23T02:04:52.550Z",
+      "ip": "2409:4085:aeb5:c3c9::e2cb:f110",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-01-23T02:06:29.488Z",
+      "ip": "2409:4085:aeb5:c3c9:f43f:3d00:69da:5797",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt39140662",
+      "title": "tt39140662",
+      "timestamp": "2026-01-23T02:10:32.016Z",
+      "ip": "2409:4085:aeb5:c3c9:f43f:3d00:69da:5797",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt31176520",
+      "title": "Eddington",
+      "timestamp": "2026-01-23T02:10:48.904Z",
+      "ip": "2409:4085:aeb5:c3c9:f43f:3d00:69da:5797",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "series",
+      "id": "tt23734948:1:1",
+      "title": "tt23734948:1:1",
+      "timestamp": "2026-01-23T02:17:20.901Z",
+      "ip": "69.80.3.235",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -86245,10 +86248,31 @@
     },
     "2402:a00:10a:815f:d6ab:fc0a:81:9cc6": {
       "type": "series",
-      "id": "tt19854762:1:7",
-      "title": "tt19854762:1:7",
+      "id": "tt19854762:2:1",
+      "title": "tt19854762:2:1",
       "username": "vflix1993",
-      "lastActive": 1769133694563
+      "lastActive": 1769133879264
+    },
+    "2409:4085:aeb5:c3c9::e2cb:f110": {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "username": "brosportses",
+      "lastActive": 1769133892550
+    },
+    "2409:4085:aeb5:c3c9:f43f:3d00:69da:5797": {
+      "type": "movie",
+      "id": "tt31176520",
+      "title": "Eddington",
+      "username": "katdenningssss",
+      "lastActive": 1769134248904
+    },
+    "69.80.3.235": {
+      "type": "series",
+      "id": "tt23734948:1:1",
+      "title": "tt23734948:1:1",
+      "username": "anonymous",
+      "lastActive": 1769134640901
     }
   }
 }
