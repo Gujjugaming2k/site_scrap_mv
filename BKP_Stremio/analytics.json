@@ -1,5 +1,5 @@
 {
-  "totalViews": 14832,
+  "totalViews": 14836,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3126,41 +3126,11 @@
     "2409:40c2:501a:2988:207a:e1ff:fe7f:5ea2",
     "2409:40d0:b8:f5c4:98b0:aff:feac:5a16",
     "189.171.99.29",
-    "2607:fb90:d722:c281:c1d5:18f0:f0a9:db9b"
+    "2607:fb90:d722:c281:c1d5:18f0:f0a9:db9b",
+    "45.131.193.98",
+    "72.27.48.8"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0209144",
-      "title": "Memento",
-      "timestamp": "2026-01-12T15:00:29.865Z",
-      "ip": "103.212.145.162",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0209144",
-      "title": "Memento",
-      "timestamp": "2026-01-12T15:00:29.914Z",
-      "ip": "103.212.145.162",
-      "username": "suprememayank"
-    },
-    {
-      "type": "movie",
-      "id": "tt14850054",
-      "title": "tt14850054",
-      "timestamp": "2026-01-12T15:01:24.252Z",
-      "ip": "197.237.65.55",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt12300742",
-      "title": "Bugonia",
-      "timestamp": "2026-01-12T15:05:14.790Z",
-      "ip": "122.176.1.222",
-      "username": "user_9b"
-    },
     {
       "type": "series",
       "id": "tt0343314:1:5",
@@ -83128,6 +83098,38 @@
       "timestamp": "2026-01-23T04:33:28.643Z",
       "ip": "67.71.30.20",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:1:12",
+      "title": "tt0369179:1:12",
+      "timestamp": "2026-01-23T04:35:44.798Z",
+      "ip": "45.131.193.98",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0089456",
+      "title": "tt0089456",
+      "timestamp": "2026-01-23T04:40:33.324Z",
+      "ip": "72.27.48.8",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0089456",
+      "title": "tt0089456",
+      "timestamp": "2026-01-23T04:44:01.658Z",
+      "ip": "72.27.48.8",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0089456",
+      "title": "tt0089456",
+      "timestamp": "2026-01-23T04:45:48.484Z",
+      "ip": "72.27.48.8",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -86630,6 +86632,20 @@
       "title": "tt12262202:1:1",
       "username": "anonymous",
       "lastActive": 1769142670045
+    },
+    "45.131.193.98": {
+      "type": "series",
+      "id": "tt0369179:1:12",
+      "title": "tt0369179:1:12",
+      "username": "anonymous",
+      "lastActive": 1769142944798
+    },
+    "72.27.48.8": {
+      "type": "movie",
+      "id": "tt0089456",
+      "title": "tt0089456",
+      "username": "anonymous",
+      "lastActive": 1769143548484
     }
   }
 }
