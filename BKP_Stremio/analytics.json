@@ -1,5 +1,5 @@
 {
-  "totalViews": 14586,
+  "totalViews": 14593,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3052,65 +3052,11 @@
     "186.96.215.248",
     "41.105.169.139",
     "142.0.253.93",
-    "81.111.187.31"
+    "81.111.187.31",
+    "185.199.102.99",
+    "2409:40c4:13e:4fc7:7ca1:f9ff:fe8a:9f44"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt36593026:1:8",
-      "title": "tt36593026:1:8",
-      "timestamp": "2026-01-12T12:08:57.832Z",
-      "ip": "2001:448a:10f0:6353:f071:1b2b:2e5a:4d3a",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4786824:1:7",
-      "title": "tt4786824:1:7",
-      "timestamp": "2026-01-12T12:10:47.789Z",
-      "ip": "2409:40e2:201d:6ab6:8000::",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0364845:16:14",
-      "title": "tt0364845:16:14",
-      "timestamp": "2026-01-12T12:14:02.572Z",
-      "ip": "103.4.222.252",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "null",
-      "title": "null",
-      "timestamp": "2026-01-12T12:16:35.949Z",
-      "ip": "85.190.233.4",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt2099739",
-      "title": "tt2099739",
-      "timestamp": "2026-01-12T12:17:29.675Z",
-      "ip": "85.190.233.4",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt14218830:5:9",
-      "title": "tt14218830:5:9",
-      "timestamp": "2026-01-12T12:18:01.100Z",
-      "ip": "181.188.179.24",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0131179:1:1028",
-      "title": "Detective Conan",
-      "timestamp": "2026-01-12T12:22:12.284Z",
-      "ip": "2405:3800:8fe:2fe8:f4ef:85e5:202f:19ab",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt34276058",
@@ -83054,6 +83000,62 @@
       "timestamp": "2026-01-23T00:11:29.229Z",
       "ip": "81.111.187.31",
       "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:1:5",
+      "title": "tt19854762:1:5",
+      "timestamp": "2026-01-23T00:11:54.650Z",
+      "ip": "2401:4900:53e7:e4c9:8985:10a0:2277:4889",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:1:6",
+      "title": "tt19854762:1:6",
+      "timestamp": "2026-01-23T00:12:21.951Z",
+      "ip": "2401:4900:53e7:e4c9:8985:10a0:2277:4889",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt10799690",
+      "title": "tt10799690",
+      "timestamp": "2026-01-23T00:14:00.568Z",
+      "ip": "105.154.213.185",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt34276058",
+      "title": "The Family Plan 2",
+      "timestamp": "2026-01-23T00:15:47.828Z",
+      "ip": "186.96.215.248",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:3:8",
+      "title": "tt0369179:3:8",
+      "timestamp": "2026-01-23T00:19:12.827Z",
+      "ip": "105.109.117.0",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:6",
+      "title": "Fallout",
+      "timestamp": "2026-01-23T00:24:38.077Z",
+      "ip": "185.199.102.99",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-01-23T00:26:49.333Z",
+      "ip": "2409:40c4:13e:4fc7:7ca1:f9ff:fe8a:9f44",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -85726,10 +85728,10 @@
     },
     "105.109.117.0": {
       "type": "series",
-      "id": "tt0369179:3:7",
-      "title": "tt0369179:3:7",
+      "id": "tt0369179:3:8",
+      "title": "tt0369179:3:8",
       "username": "anonymous",
-      "lastActive": 1769126511573
+      "lastActive": 1769127552827
     },
     "2a0a:ef40:118a:5201:c2ea:25a3:ab60:363": {
       "type": "series",
@@ -85900,11 +85902,11 @@
       "lastActive": 1769123490890
     },
     "105.154.213.185": {
-      "type": "series",
-      "id": ":41:1",
-      "title": ":41:1",
+      "type": "movie",
+      "id": "tt10799690",
+      "title": "tt10799690",
       "username": "anonymous",
-      "lastActive": 1769126868268
+      "lastActive": 1769127240568
     },
     "2600:8800:a100:d20:9541:45a:762b:8b27": {
       "type": "series",
@@ -85922,10 +85924,10 @@
     },
     "2401:4900:53e7:e4c9:8985:10a0:2277:4889": {
       "type": "series",
-      "id": "tt19854762:1:5",
-      "title": "tt19854762:1:5",
+      "id": "tt19854762:1:6",
+      "title": "tt19854762:1:6",
       "username": "vflix1993",
-      "lastActive": 1769124484503
+      "lastActive": 1769127141951
     },
     "2803:1500:1c00:c86a:df4e:f6b6:25a:15ce": {
       "type": "series",
@@ -85985,10 +85987,10 @@
     },
     "186.96.215.248": {
       "type": "movie",
-      "id": "tt1313876",
-      "title": "tt1313876",
+      "id": "tt34276058",
+      "title": "The Family Plan 2",
       "username": "anonymous",
-      "lastActive": 1769127052627
+      "lastActive": 1769127347828
     },
     "41.105.169.139": {
       "type": "movie",
@@ -86010,6 +86012,20 @@
       "title": "tt23172090",
       "username": "anonymous",
       "lastActive": 1769127089229
+    },
+    "185.199.102.99": {
+      "type": "series",
+      "id": "tt12637874:2:6",
+      "title": "Fallout",
+      "username": "anonymous",
+      "lastActive": 1769127878077
+    },
+    "2409:40c4:13e:4fc7:7ca1:f9ff:fe8a:9f44": {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "username": "b1jju",
+      "lastActive": 1769128009333
     }
   }
 }
