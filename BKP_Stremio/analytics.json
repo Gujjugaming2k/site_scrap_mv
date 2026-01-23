@@ -1,5 +1,5 @@
 {
-  "totalViews": 14930,
+  "totalViews": 14936,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3154,57 +3154,10 @@
     "2605:b100:112a:42c6:bd8f:59b9:8001:648a",
     "2409:40d6:402:bc1a:805f:a4ff:fe7f:8e8d",
     "103.175.9.122",
-    "2409:40f3:205c:3612:3941:732b:c618:57b5"
+    "2409:40f3:205c:3612:3941:732b:c618:57b5",
+    "2409:40f3:205c:3612:8030:effe:ec45:c5e1"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt21914684",
-      "title": "tt21914684",
-      "timestamp": "2026-01-12T16:07:23.184Z",
-      "ip": "116.100.223.241",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt28102595:1:2",
-      "title": "tt28102595:1:2",
-      "timestamp": "2026-01-12T16:08:17.330Z",
-      "ip": "2409:40d4:100d:ef9d:585b:a9ff:fec9:ccb3",
-      "username": "golu_vk"
-    },
-    {
-      "type": "series",
-      "id": "tt0343314:1:9",
-      "title": "tt0343314:1:9",
-      "timestamp": "2026-01-12T16:08:29.995Z",
-      "ip": "2a02:6ea0:d213:5491::15",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0412142:3:8",
-      "title": "tt0412142:3:8",
-      "timestamp": "2026-01-12T16:10:04.108Z",
-      "ip": "117.196.154.55",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt28102595:1:1",
-      "title": "tt28102595:1:1",
-      "timestamp": "2026-01-12T16:10:40.411Z",
-      "ip": "2409:40d4:100d:ef9d:585b:a9ff:fec9:ccb3",
-      "username": "golu_vk"
-    },
-    {
-      "type": "series",
-      "id": "tt0063950:1:10",
-      "title": "tt0063950:1:10",
-      "timestamp": "2026-01-12T16:11:54.753Z",
-      "ip": "2404:bd00:3:d165:e0db:7268:9d60:74b8",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt15128068",
@@ -83156,6 +83109,54 @@
       "timestamp": "2026-01-23T06:56:41.484Z",
       "ip": "2409:40f3:205c:3612:3941:732b:c618:57b5",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt28961625",
+      "title": "tt28961625",
+      "timestamp": "2026-01-23T06:57:57.427Z",
+      "ip": "87.201.152.189",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "timestamp": "2026-01-23T06:58:04.221Z",
+      "ip": "2409:40d6:402:bc1a:805f:a4ff:fe7f:8e8d",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:2",
+      "title": "tt14186672:1:2",
+      "timestamp": "2026-01-23T07:03:52.056Z",
+      "ip": "2600:387:15:471b::1",
+      "username": "anonymous"
+    },
+    {
+      "type": "series",
+      "id": "tt2306299:1:2",
+      "title": "tt2306299:1:2",
+      "timestamp": "2026-01-23T07:04:54.652Z",
+      "ip": "2409:40d0:b8:f5c4:98b0:aff:feac:5a16",
+      "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt34956443",
+      "title": "Ne Zha 2",
+      "timestamp": "2026-01-23T07:04:59.439Z",
+      "ip": "2409:40f3:205c:3612:3941:732b:c618:57b5",
+      "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt34956443",
+      "title": "Ne Zha 2",
+      "timestamp": "2026-01-23T07:08:35.732Z",
+      "ip": "2409:40f3:205c:3612:8030:effe:ec45:c5e1",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -83388,7 +83389,7 @@
       "id": "tt28961625",
       "title": "tt28961625",
       "username": "anonymous",
-      "lastActive": 1769147935248
+      "lastActive": 1769151477427
     },
     "49.47.153.127": {
       "type": "series",
@@ -86636,7 +86637,7 @@
       "id": "tt2306299:1:2",
       "title": "tt2306299:1:2",
       "username": "magicmannn",
-      "lastActive": 1769150945251
+      "lastActive": 1769151894652
     },
     "2a02:6ea0:d101:6225::20": {
       "type": "series",
@@ -86787,10 +86788,10 @@
     },
     "2600:387:15:471b::1": {
       "type": "series",
-      "id": "tt14186672:1:1",
-      "title": "tt14186672:1:1",
+      "id": "tt14186672:1:2",
+      "title": "tt14186672:1:2",
       "username": "anonymous",
-      "lastActive": 1769148474404
+      "lastActive": 1769151832056
     },
     "82.32.111.12": {
       "type": "series",
@@ -86853,7 +86854,7 @@
       "id": "tt0111161",
       "title": "The Shawshank Redemption",
       "username": "anonymous",
-      "lastActive": 1769151278206
+      "lastActive": 1769151484221
     },
     "103.175.9.122": {
       "type": "series",
@@ -86863,11 +86864,18 @@
       "lastActive": 1769151329404
     },
     "2409:40f3:205c:3612:3941:732b:c618:57b5": {
-      "type": "series",
-      "id": "tt29921437:1:1",
-      "title": "tt29921437:1:1",
+      "type": "movie",
+      "id": "tt34956443",
+      "title": "Ne Zha 2",
       "username": "anonymous",
-      "lastActive": 1769151401484
+      "lastActive": 1769151899439
+    },
+    "2409:40f3:205c:3612:8030:effe:ec45:c5e1": {
+      "type": "movie",
+      "id": "tt34956443",
+      "title": "Ne Zha 2",
+      "username": "anonymous",
+      "lastActive": 1769152115732
     }
   }
 }
