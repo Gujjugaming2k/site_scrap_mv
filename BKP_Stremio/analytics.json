@@ -1,5 +1,5 @@
 {
-  "totalViews": 16535,
+  "totalViews": 16539,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3662,38 +3662,6 @@
     "116.68.74.75"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt17220216:1:2",
-      "title": "tt17220216:1:2",
-      "timestamp": "2026-01-14T04:19:59.362Z",
-      "ip": "2409:40e0:1009:694e:9979:5c0f:2895:21e6",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "series",
-      "id": "tt17220216:1:3",
-      "title": "tt17220216:1:3",
-      "timestamp": "2026-01-14T04:19:59.881Z",
-      "ip": "2409:40e0:1009:694e:9979:5c0f:2895:21e6",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "series",
-      "id": "tt17220216:1:1",
-      "title": "tt17220216:1:1",
-      "timestamp": "2026-01-14T04:21:58.106Z",
-      "ip": "152.58.178.244",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "series",
-      "id": "tt17220216:1:2",
-      "title": "tt17220216:1:2",
-      "timestamp": "2026-01-14T04:23:13.496Z",
-      "ip": "152.58.178.244",
-      "username": "nobody_ismy_name"
-    },
     {
       "type": "series",
       "id": "tt17220216:1:2",
@@ -83661,6 +83629,38 @@
       "timestamp": "2026-01-24T18:28:48.828Z",
       "ip": "116.68.74.75",
       "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:1:20",
+      "title": "Lost",
+      "timestamp": "2026-01-24T19:15:13.948Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:1:21",
+      "title": "Lost",
+      "timestamp": "2026-01-24T19:15:42.857Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt12004706:4:7",
+      "title": "tt12004706:4:7",
+      "timestamp": "2026-01-24T19:19:10.674Z",
+      "ip": "202.88.248.175",
+      "username": "deepak"
+    },
+    {
+      "type": "series",
+      "id": "tt12004706:4:8",
+      "title": "tt12004706:4:8",
+      "timestamp": "2026-01-24T19:19:24.275Z",
+      "ip": "202.88.248.175",
+      "username": "deepak"
     }
   ],
   "activeNow": {
@@ -88580,10 +88580,10 @@
     },
     "202.88.248.175": {
       "type": "series",
-      "id": "tt12004706:4:7",
-      "title": "tt12004706:4:7",
+      "id": "tt12004706:4:8",
+      "title": "tt12004706:4:8",
       "username": "deepak",
-      "lastActive": 1769278643810
+      "lastActive": 1769282364275
     },
     "152.58.133.2": {
       "type": "movie",
@@ -90953,10 +90953,10 @@
     },
     "116.68.74.75": {
       "type": "series",
-      "id": "tt0411008:1:20",
+      "id": "tt0411008:1:21",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1769279328828
+      "lastActive": 1769282142857
     }
   }
 }
