@@ -1,5 +1,5 @@
 {
-  "totalViews": 16406,
+  "totalViews": 16411,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3628,49 +3628,12 @@
     "146.70.202.76",
     "2a09:bac5:3c7b:26fa::3e2:25",
     "202.142.105.159",
-    "2409:40c0:104a:99e2:b0db:d7ff:feee:95e5"
+    "2409:40c0:104a:99e2:b0db:d7ff:feee:95e5",
+    "103.44.117.218",
+    "2402:ad80:a5:3140:919d:7f23:13ed:e8a0",
+    "2a09:bac5:3af1:8b4::de:27"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "ttps://ak.sv/series/5152/المحتالون-مدبلج:1:1",
-      "title": "ttps://ak.sv/series/5152/المحتالون-مدبلج:1:1",
-      "timestamp": "2026-01-14T00:43:47.931Z",
-      "ip": "147.93.215.44",
-      "username": "hoosa500"
-    },
-    {
-      "type": "movie",
-      "id": "tt4712810",
-      "title": "tt4712810",
-      "timestamp": "2026-01-14T00:44:16.814Z",
-      "ip": "147.93.215.44",
-      "username": "hoosa500"
-    },
-    {
-      "type": "movie",
-      "id": "tt4712810",
-      "title": "tt4712810",
-      "timestamp": "2026-01-14T00:44:19.253Z",
-      "ip": "147.93.215.44",
-      "username": "hoosa500"
-    },
-    {
-      "type": "movie",
-      "id": "tt0816692",
-      "title": "Interstellar",
-      "timestamp": "2026-01-14T01:03:07.989Z",
-      "ip": "147.93.215.44",
-      "username": "hoosa500"
-    },
-    {
-      "type": "movie",
-      "id": "tt0816692",
-      "title": "Interstellar",
-      "timestamp": "2026-01-14T01:03:20.404Z",
-      "ip": "2a02:9b0:106:827:4d3e:cc1f:ac3a:63c",
-      "username": "hoosa500"
-    },
     {
       "type": "movie",
       "id": "tt0816692",
@@ -83630,6 +83593,46 @@
       "timestamp": "2026-01-24T13:25:50.688Z",
       "ip": "2a09:bac5:3c7b:26fa::3e2:25",
       "username": "belimhuzaifa"
+    },
+    {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "timestamp": "2026-01-24T13:29:44.226Z",
+      "ip": "103.44.117.218",
+      "username": "anonymous050100"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-24T13:36:40.199Z",
+      "ip": "2402:ad80:a5:3140:919d:7f23:13ed:e8a0",
+      "username": "hvre2"
+    },
+    {
+      "type": "movie",
+      "id": "tt0441773",
+      "title": "Kung Fu Panda",
+      "timestamp": "2026-01-24T13:38:15.641Z",
+      "ip": "2409:40d6:1c:5429:803d:5cff:fe7c:6f88",
+      "username": "mailrahulboora"
+    },
+    {
+      "type": "series",
+      "id": "tt33517752:1:1",
+      "title": "tt33517752:1:1",
+      "timestamp": "2026-01-24T13:39:56.071Z",
+      "ip": "2a09:bac5:3af1:8b4::de:27",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt27847051",
+      "title": "tt27847051",
+      "timestamp": "2026-01-24T13:40:09.361Z",
+      "ip": "2402:ad80:a5:3140:919d:7f23:13ed:e8a0",
+      "username": "hvre2"
     }
   ],
   "activeNow": {
@@ -90662,11 +90665,11 @@
       "lastActive": 1769254632659
     },
     "2409:40d6:1c:5429:803d:5cff:fe7c:6f88": {
-      "type": "series",
-      "id": "tt15477488:1:1",
-      "title": "tt15477488:1:1",
+      "type": "movie",
+      "id": "tt0441773",
+      "title": "Kung Fu Panda",
       "username": "mailrahulboora",
-      "lastActive": 1769255654452
+      "lastActive": 1769261895641
     },
     "2a09:bac1:36c0:5e98::49b:5": {
       "type": "movie",
@@ -90709,6 +90712,27 @@
       "title": "28 Years Later",
       "username": "oo0o0a0o0oo",
       "lastActive": 1769258759525
+    },
+    "103.44.117.218": {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "username": "anonymous050100",
+      "lastActive": 1769261384226
+    },
+    "2402:ad80:a5:3140:919d:7f23:13ed:e8a0": {
+      "type": "movie",
+      "id": "tt27847051",
+      "title": "tt27847051",
+      "username": "hvre2",
+      "lastActive": 1769262009361
+    },
+    "2a09:bac5:3af1:8b4::de:27": {
+      "type": "series",
+      "id": "tt33517752:1:1",
+      "title": "tt33517752:1:1",
+      "username": "switchoff009",
+      "lastActive": 1769261996071
     }
   }
 }
