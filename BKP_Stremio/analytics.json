@@ -1,5 +1,5 @@
 {
-  "totalViews": 16462,
+  "totalViews": 16466,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3646,41 +3646,11 @@
     "49.36.216.150",
     "160.238.73.183",
     "2401:4900:8fe2:d6e9:2e23:9e28:6999:f20c",
-    "2401:4900:8fe2:d6e9:4d4a:7b9d:f06d:bd8"
+    "2401:4900:8fe2:d6e9:4d4a:7b9d:f06d:bd8",
+    "2a09:bac5:40d0:2705::3e3:5",
+    "103.186.54.176"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt14186672:1:6",
-      "title": "tt14186672:1:6",
-      "timestamp": "2026-01-14T02:57:20.254Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:1:1",
-      "title": "tt1399664:1:1",
-      "timestamp": "2026-01-14T02:58:20.828Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:1:2",
-      "title": "tt1399664:1:2",
-      "timestamp": "2026-01-14T02:58:36.872Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt0412142:1:1",
-      "title": "tt0412142:1:1",
-      "timestamp": "2026-01-14T02:58:59.322Z",
-      "ip": "49.37.112.210",
-      "username": "muktikanta_007"
-    },
     {
       "type": "series",
       "id": "tt0412142:1:2",
@@ -83648,6 +83618,38 @@
       "timestamp": "2026-01-24T16:18:03.592Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:4:2",
+      "title": "tt0460649:4:2",
+      "timestamp": "2026-01-24T16:20:30.497Z",
+      "ip": "2a09:bac5:40d0:2705::3e3:5",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "timestamp": "2026-01-24T16:22:24.941Z",
+      "ip": "103.186.54.176",
+      "username": "schnom153"
+    },
+    {
+      "type": "movie",
+      "id": "tt30057084",
+      "title": "Babygirl",
+      "timestamp": "2026-01-24T16:29:11.919Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:4:3",
+      "title": "tt0460649:4:3",
+      "timestamp": "2026-01-24T16:32:08.425Z",
+      "ip": "2a09:bac5:40d0:2705::3e3:5",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -84433,7 +84435,7 @@
       "id": "tt30057084",
       "title": "Babygirl",
       "username": "chetan_b2",
-      "lastActive": 1769271483592
+      "lastActive": 1769272151919
     },
     "2402:a00:10a:815f:e6be:c8c8:7869:e727": {
       "type": "series",
@@ -90853,6 +90855,20 @@
       "title": "tt28142095",
       "username": "ashwanileon",
       "lastActive": 1769271292142
+    },
+    "2a09:bac5:40d0:2705::3e3:5": {
+      "type": "series",
+      "id": "tt0460649:4:3",
+      "title": "tt0460649:4:3",
+      "username": "demon18319",
+      "lastActive": 1769272328425
+    },
+    "103.186.54.176": {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "username": "schnom153",
+      "lastActive": 1769271744941
     }
   }
 }
