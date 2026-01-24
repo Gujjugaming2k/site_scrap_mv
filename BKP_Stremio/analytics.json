@@ -1,5 +1,5 @@
 {
-  "totalViews": 16490,
+  "totalViews": 16492,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3653,25 +3653,10 @@
     "2a09:bac5:40eb:1d0f::2e5:2a",
     "2401:4900:1cb0:5cf4:ad08:8d0:3530:ae79",
     "2409:40d0:be:320:102d:8aff:fe7b:e53",
-    "152.58.168.242"
+    "152.58.168.242",
+    "49.36.116.123"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0092400:8:15",
-      "title": "tt0092400:8:15",
-      "timestamp": "2026-01-14T03:35:54.849Z",
-      "ip": "152.56.134.52",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0092400:8:15",
-      "title": "tt0092400:8:15",
-      "timestamp": "2026-01-14T03:35:56.112Z",
-      "ip": "152.56.134.52",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0092400:8:15",
@@ -83655,6 +83640,22 @@
       "timestamp": "2026-01-24T17:03:31.004Z",
       "ip": "2a09:bac5:40eb:1d0f::2e5:2a",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt1502397",
+      "title": "Bad Boys for Life",
+      "timestamp": "2026-01-24T17:05:31.950Z",
+      "ip": "49.36.116.123",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:4:5",
+      "title": "tt0460649:4:5",
+      "timestamp": "2026-01-24T17:06:40.167Z",
+      "ip": "2a09:bac5:40eb:1d0f::2e5:2a",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -90884,10 +90885,10 @@
     },
     "2a09:bac5:40eb:1d0f::2e5:2a": {
       "type": "series",
-      "id": "tt0460649:4:4",
-      "title": "tt0460649:4:4",
+      "id": "tt0460649:4:5",
+      "title": "tt0460649:4:5",
       "username": "demon18319",
-      "lastActive": 1769274211004
+      "lastActive": 1769274400167
     },
     "2401:4900:1cb0:5cf4:ad08:8d0:3530:ae79": {
       "type": "movie",
@@ -90909,6 +90910,13 @@
       "title": "The Shadow's Edge",
       "username": "nabakun",
       "lastActive": 1769274045043
+    },
+    "49.36.116.123": {
+      "type": "movie",
+      "id": "tt1502397",
+      "title": "Bad Boys for Life",
+      "username": "pingmenoone",
+      "lastActive": 1769274331950
     }
   }
 }
