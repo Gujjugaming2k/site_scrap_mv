@@ -1,5 +1,5 @@
 {
-  "totalViews": 16385,
+  "totalViews": 16386,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3621,17 +3621,10 @@
     "2402:a00:10a:815f:4134:ec87:9d21:a6a4",
     "2409:40e1:11b1:b2c4:8cc8:2599:3e79:8dd3",
     "160.238.72.181",
-    "2401:4900:b02f:4fc2:a4b7:b1ff:fe4f:96b5"
+    "2401:4900:b02f:4fc2:a4b7:b1ff:fe4f:96b5",
+    "2409:40d6:1c:5429:803d:5cff:fe7c:6f88"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt7181546",
-      "title": "Ballerina",
-      "timestamp": "2026-01-13T23:39:59.765Z",
-      "ip": "93.150.244.159",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt11712058:1:7",
@@ -83623,6 +83616,14 @@
       "timestamp": "2026-01-24T11:43:15.974Z",
       "ip": "103.175.168.106",
       "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt15477488:1:1",
+      "title": "tt15477488:1:1",
+      "timestamp": "2026-01-24T11:54:14.452Z",
+      "ip": "2409:40d6:1c:5429:803d:5cff:fe7c:6f88",
+      "username": "mailrahulboora"
     }
   ],
   "activeNow": {
@@ -90653,6 +90654,13 @@
       "title": "tt28142095",
       "username": "adshoyi",
       "lastActive": 1769254632659
+    },
+    "2409:40d6:1c:5429:803d:5cff:fe7c:6f88": {
+      "type": "series",
+      "id": "tt15477488:1:1",
+      "title": "tt15477488:1:1",
+      "username": "mailrahulboora",
+      "lastActive": 1769255654452
     }
   }
 }
