@@ -1,5 +1,5 @@
 {
-  "totalViews": 16377,
+  "totalViews": 16378,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3619,17 +3619,10 @@
     "2a09:bac5:40d2:c8::14:2e8",
     "202.173.124.12",
     "2402:a00:10a:815f:4134:ec87:9d21:a6a4",
-    "2409:40e1:11b1:b2c4:8cc8:2599:3e79:8dd3"
+    "2409:40e1:11b1:b2c4:8cc8:2599:3e79:8dd3",
+    "160.238.72.181"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt6424454:1:14",
-      "title": "tt6424454:1:14",
-      "timestamp": "2026-01-13T23:08:55.247Z",
-      "ip": "78.211.211.190",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt15026724:1:13",
@@ -83621,6 +83614,14 @@
       "timestamp": "2026-01-24T11:20:33.995Z",
       "ip": "2409:40e1:11b1:b2c4:8cc8:2599:3e79:8dd3",
       "username": "jinwoooooi"
+    },
+    {
+      "type": "movie",
+      "id": "tt31036941",
+      "title": "Jurassic World Rebirth",
+      "timestamp": "2026-01-24T11:27:02.322Z",
+      "ip": "160.238.72.181",
+      "username": "hjbjkkfggjkjv"
     }
   ],
   "activeNow": {
@@ -90637,6 +90638,13 @@
       "title": "tt6751668",
       "username": "jinwoooooi",
       "lastActive": 1769253633995
+    },
+    "160.238.72.181": {
+      "type": "movie",
+      "id": "tt31036941",
+      "title": "Jurassic World Rebirth",
+      "username": "hjbjkkfggjkjv",
+      "lastActive": 1769254022322
     }
   }
 }
