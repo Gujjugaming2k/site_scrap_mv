@@ -1,5 +1,5 @@
 {
-  "totalViews": 16396,
+  "totalViews": 16398,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3626,25 +3626,10 @@
     "2a09:bac1:36c0:5e98::49b:5",
     "2a09:bac1:36c0:1768::20a:49",
     "146.70.202.76",
-    "2a09:bac5:3c7b:26fa::3e2:25"
+    "2a09:bac5:3c7b:26fa::3e2:25",
+    "202.142.105.159"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-14T00:20:53.591Z",
-      "ip": "119.234.17.26",
-      "username": "sheik"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:4:6",
-      "title": "tt0903747:4:6",
-      "timestamp": "2026-01-14T00:22:36.882Z",
-      "ip": "152.58.182.184",
-      "username": "tejmani"
-    },
     {
       "type": "series",
       "id": "tt0903747:4:7",
@@ -83628,6 +83613,22 @@
       "timestamp": "2026-01-24T12:25:07.895Z",
       "ip": "116.68.79.147",
       "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-24T12:28:42.468Z",
+      "ip": "202.142.105.159",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt30057084",
+      "title": "Babygirl",
+      "timestamp": "2026-01-24T12:34:00.250Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -84413,7 +84414,7 @@
       "id": "tt30057084",
       "title": "Babygirl",
       "username": "chetan_b2",
-      "lastActive": 1769188730380
+      "lastActive": 1769258040250
     },
     "2402:a00:10a:815f:e6be:c8c8:7869:e727": {
       "type": "series",
@@ -90693,6 +90694,13 @@
       "title": "tt27497448:1:1",
       "username": "belimhuzaifa",
       "lastActive": 1769257381085
+    },
+    "202.142.105.159": {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "username": "nobody_ismy_name",
+      "lastActive": 1769257722468
     }
   }
 }
