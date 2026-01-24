@@ -1,5 +1,5 @@
 {
-  "totalViews": 16542,
+  "totalViews": 16545,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3659,33 +3659,10 @@
     "2409:40d4:11:35d5:7837:3944:2a1e:1e98",
     "103.181.65.77",
     "2401:4900:8820:8915:c304:d700:e822:8016,2a09:bac5:37ac:ebe::178:1c7",
-    "116.68.74.75"
+    "116.68.74.75",
+    "2401:4900:716a:287e:6073:9dff:fe78:77be"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt17220216:1:3",
-      "title": "tt17220216:1:3",
-      "timestamp": "2026-01-14T04:23:24.029Z",
-      "ip": "152.58.178.244",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "series",
-      "id": "tt17220216:1:2",
-      "title": "tt17220216:1:2",
-      "timestamp": "2026-01-14T04:23:27.970Z",
-      "ip": "152.58.178.244",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "series",
-      "id": "tt17220216:1:2",
-      "title": "tt17220216:1:2",
-      "timestamp": "2026-01-14T04:23:33.265Z",
-      "ip": "152.58.178.244",
-      "username": "nobody_ismy_name"
-    },
     {
       "type": "series",
       "id": "tt17220216:1:3",
@@ -83661,6 +83638,30 @@
       "timestamp": "2026-01-24T19:40:03.943Z",
       "ip": "103.181.65.77",
       "username": "mutti9"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:7:6",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-24T19:44:51.522Z",
+      "ip": "2401:4900:716a:287e:6073:9dff:fe78:77be",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:6",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-24T19:44:58.513Z",
+      "ip": "2401:4900:716a:287e:6073:9dff:fe78:77be",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-24T19:47:06.712Z",
+      "ip": "202.88.248.175",
+      "username": "deepak"
     }
   ],
   "activeNow": {
@@ -88579,11 +88580,11 @@
       "lastActive": 1769181779862
     },
     "202.88.248.175": {
-      "type": "series",
-      "id": "tt12004706:4:8",
-      "title": "tt12004706:4:8",
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
       "username": "deepak",
-      "lastActive": 1769282364275
+      "lastActive": 1769284026712
     },
     "152.58.133.2": {
       "type": "movie",
@@ -90957,6 +90958,13 @@
       "title": "Lost",
       "username": "aravindsivan",
       "lastActive": 1769282142857
+    },
+    "2401:4900:716a:287e:6073:9dff:fe78:77be": {
+      "type": "series",
+      "id": "tt0944947:1:6",
+      "title": "Game of Thrones",
+      "username": "william097",
+      "lastActive": 1769283898513
     }
   }
 }
