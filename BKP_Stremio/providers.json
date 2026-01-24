@@ -35,13 +35,13 @@
   {
     "id": "1765468262218",
     "name": "vidzee",
-    "movieUrl": "https://vidzee.vflix.life/movie/{{id}}.json",
-    "seriesUrl": "https://vidzee.vflix.life/series/{{id}}:{{season}}:{{episode}}.json",
+    "movieUrl": "https://vidzee.vflix.shop/movie/{{id}}.json",
+    "seriesUrl": "https://vidzee.vflix.shop/series/{{id}}:{{season}}:{{episode}}.json",
     "enabled": true,
     "createdAt": "2025-12-11T15:51:02.218Z",
     "timeout": "20000",
     "priority": "3",
-    "updatedAt": "2025-12-28T07:18:29.990Z"
+    "updatedAt": "2026-01-24T10:37:32.906Z"
   },
   {
     "id": "1765819981434",
@@ -100,13 +100,13 @@
   {
     "id": "1767444815958",
     "name": "rogflix",
-    "movieUrl": "https://rogflix.vflix.life/stremio/stream/movie/{{id}}.json",
-    "seriesUrl": "https://rogflix.vflix.life/stremio/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "movieUrl": "https://rogflix.vflix.shop/stremio/stream/movie/{{id}}.json",
+    "seriesUrl": "https://rogflix.vflix.shop/stremio/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "10000",
     "priority": "11",
     "enabled": true,
     "createdAt": "2026-01-03T12:53:35.958Z",
-    "updatedAt": "2026-01-04T03:38:21.697Z"
+    "updatedAt": "2026-01-24T10:36:51.998Z"
   },
   {
     "id": "1768112024243",
@@ -187,13 +187,13 @@
   {
     "id": "1768660119070",
     "name": "meowtv",
-    "movieUrl": "https://meowtv.vflix.life/stream/movie/{{id}}.json",
-    "seriesUrl": "https://meowtv.vflix.life/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "movieUrl": "https://meowtv.vflix.shop/stream/movie/{{id}}.json",
+    "seriesUrl": "https://meowtv.vflix.shop/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "10000",
     "priority": "10",
     "enabled": true,
     "createdAt": "2026-01-17T14:28:39.070Z",
-    "updatedAt": "2026-01-17T14:41:18.312Z"
+    "updatedAt": "2026-01-24T10:37:05.748Z"
   },
   {
     "id": "1769061395126",
