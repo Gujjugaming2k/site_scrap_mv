@@ -1,5 +1,5 @@
 {
-  "totalViews": 16366,
+  "totalViews": 16370,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3614,41 +3614,11 @@
     "12.151.235.61",
     "2a02:8085:123f:bc80:830a:b9d5:acc7:1bac",
     "2a02:8086:c87:1100:dc77:5c58:4e7a:b2ee",
-    "2607:fb90:8aa9:84eb:ed67:6c02:f7d1:a3e0"
+    "2607:fb90:8aa9:84eb:ed67:6c02:f7d1:a3e0",
+    "2402:a00:10a:815f:2054:e7f4:7255:b432",
+    "2a09:bac5:40d2:c8::14:2e8"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt16124614:1:2",
-      "title": "tt16124614:1:2",
-      "timestamp": "2026-01-13T22:28:58.582Z",
-      "ip": "80.192.52.146",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0412142:4:7",
-      "title": "tt0412142:4:7",
-      "timestamp": "2026-01-13T22:34:50.625Z",
-      "ip": "120.56.163.42",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt15026724:1:14",
-      "title": "tt15026724:1:14",
-      "timestamp": "2026-01-13T22:39:06.739Z",
-      "ip": "82.66.125.144",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt14976292:2:2",
-      "title": "tt14976292:2:2",
-      "timestamp": "2026-01-13T22:43:32.604Z",
-      "ip": "2001:861:e3d6:4cb0:2fe2:7d2:8929:7c79",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt6424454:1:13",
@@ -83616,6 +83586,38 @@
       "timestamp": "2026-01-24T04:36:56.216Z",
       "ip": "202.173.124.39",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-24T10:37:40.088Z",
+      "ip": "2402:a00:10a:815f:2054:e7f4:7255:b432",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-24T10:46:37.927Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-24T10:47:49.667Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-24T10:48:43.544Z",
+      "ip": "2a09:bac5:40d2:c8::14:2e8",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -84383,11 +84385,11 @@
       "lastActive": 1769077167660
     },
     "2405:201:6820:a83c:bdef:55c1:5b2d:3408": {
-      "type": "series",
-      "id": "tt3398540:2:1",
-      "title": "tt3398540:2:1",
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
       "username": "demon18319",
-      "lastActive": 1769171104785
+      "lastActive": 1769251669667
     },
     "49.36.217.235": {
       "type": "series",
@@ -90597,6 +90599,20 @@
       "title": "tt0390022",
       "username": "anonymous",
       "lastActive": 1769220781814
+    },
+    "2402:a00:10a:815f:2054:e7f4:7255:b432": {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "username": "vflix1993",
+      "lastActive": 1769251060088
+    },
+    "2a09:bac5:40d2:c8::14:2e8": {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "username": "demon18319",
+      "lastActive": 1769251723544
     }
   }
 }
