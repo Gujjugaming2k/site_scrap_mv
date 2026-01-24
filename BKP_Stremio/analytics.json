@@ -1,5 +1,5 @@
 {
-  "totalViews": 16364,
+  "totalViews": 16365,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3613,17 +3613,10 @@
     "216.10.217.61",
     "12.151.235.61",
     "2a02:8085:123f:bc80:830a:b9d5:acc7:1bac",
-    "2a02:8086:c87:1100:dc77:5c58:4e7a:b2ee"
+    "2a02:8086:c87:1100:dc77:5c58:4e7a:b2ee",
+    "2607:fb90:8aa9:84eb:ed67:6c02:f7d1:a3e0"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0107290",
-      "title": "Jurassic Park",
-      "timestamp": "2026-01-13T22:28:29.030Z",
-      "ip": "2409:40f3:1:7084:6430:ea5:8585:1aab",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt0107290",
@@ -83615,6 +83608,14 @@
       "timestamp": "2026-01-23T21:24:36.177Z",
       "ip": "2a02:8086:c87:1100:dc77:5c58:4e7a:b2ee",
       "username": "anonymous"
+    },
+    {
+      "type": "movie",
+      "id": "tt0390022",
+      "title": "tt0390022",
+      "timestamp": "2026-01-24T02:13:01.814Z",
+      "ip": "2607:fb90:8aa9:84eb:ed67:6c02:f7d1:a3e0",
+      "username": "anonymous"
     }
   ],
   "activeNow": {
@@ -90589,6 +90590,13 @@
       "title": "tt7587890:8:3",
       "username": "anonymous",
       "lastActive": 1769203476177
+    },
+    "2607:fb90:8aa9:84eb:ed67:6c02:f7d1:a3e0": {
+      "type": "movie",
+      "id": "tt0390022",
+      "title": "tt0390022",
+      "username": "anonymous",
+      "lastActive": 1769220781814
     }
   }
 }
