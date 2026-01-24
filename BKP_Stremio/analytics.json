@@ -1,5 +1,5 @@
 {
-  "totalViews": 16392,
+  "totalViews": 16396,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3625,41 +3625,10 @@
     "2409:40d6:1c:5429:803d:5cff:fe7c:6f88",
     "2a09:bac1:36c0:5e98::49b:5",
     "2a09:bac1:36c0:1768::20a:49",
-    "146.70.202.76"
+    "146.70.202.76",
+    "2a09:bac5:3c7b:26fa::3e2:25"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0412142:4:9",
-      "title": "tt0412142:4:9",
-      "timestamp": "2026-01-14T00:01:09.451Z",
-      "ip": "120.56.163.42",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt3890160",
-      "title": "Baby Driver",
-      "timestamp": "2026-01-14T00:19:58.896Z",
-      "ip": "119.234.17.26",
-      "username": "sheik"
-    },
-    {
-      "type": "movie",
-      "id": "tt9646562",
-      "title": "tt9646562",
-      "timestamp": "2026-01-14T00:20:01.906Z",
-      "ip": "119.234.17.26",
-      "username": "sheik"
-    },
-    {
-      "type": "movie",
-      "id": "tt3890160",
-      "title": "Baby Driver",
-      "timestamp": "2026-01-14T00:20:05.582Z",
-      "ip": "119.234.17.26",
-      "username": "sheik"
-    },
     {
       "type": "series",
       "id": "tt35335046:1:1",
@@ -83627,6 +83596,38 @@
       "timestamp": "2026-01-24T12:10:30.388Z",
       "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
       "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt5753856:1:1",
+      "title": "tt5753856:1:1",
+      "timestamp": "2026-01-24T12:18:41.754Z",
+      "ip": "2a09:bac1:36c0:1768::20a:49",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-01-24T12:23:01.085Z",
+      "ip": "2a09:bac5:3c7b:26fa::3e2:25",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:1:18",
+      "title": "Lost",
+      "timestamp": "2026-01-24T12:25:07.787Z",
+      "ip": "116.68.79.147",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:1:16",
+      "title": "Lost",
+      "timestamp": "2026-01-24T12:25:07.895Z",
+      "ip": "116.68.79.147",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -84521,10 +84522,10 @@
     },
     "116.68.79.147": {
       "type": "series",
-      "id": "tt0411008:1:18",
+      "id": "tt0411008:1:16",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1769254948956
+      "lastActive": 1769257507895
     },
     "2803:9810:b081:4110:15c1:1ed6:8927:440d": {
       "type": "movie",
@@ -90673,11 +90674,11 @@
       "lastActive": 1769256457575
     },
     "2a09:bac1:36c0:1768::20a:49": {
-      "type": "movie",
-      "id": "tt1856101",
-      "title": "tt1856101",
+      "type": "series",
+      "id": "tt5753856:1:1",
+      "title": "tt5753856:1:1",
       "username": "belimhuzaifa",
-      "lastActive": 1769256422615
+      "lastActive": 1769257121754
     },
     "146.70.202.76": {
       "type": "movie",
@@ -90685,6 +90686,13 @@
       "title": "tt6751668",
       "username": "jinwoooooi",
       "lastActive": 1769256574804
+    },
+    "2a09:bac5:3c7b:26fa::3e2:25": {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "username": "belimhuzaifa",
+      "lastActive": 1769257381085
     }
   }
 }
