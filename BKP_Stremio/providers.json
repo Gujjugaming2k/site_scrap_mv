@@ -46,24 +46,24 @@
   {
     "id": "1765819981434",
     "name": "IOSMIRROR - Prime",
-    "movieUrl": "http://fetch.vflix.life/prime/stream/movie/{{id}}.json",
-    "seriesUrl": "https://fetch.vflix.life/prime/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "movieUrl": "http://fetch.vflix.shop/prime/stream/movie/{{id}}.json",
+    "seriesUrl": "https://fetch.vflix.shop/prime/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "20000",
     "priority": "4",
     "enabled": true,
     "createdAt": "2025-12-15T17:33:01.434Z",
-    "updatedAt": "2025-12-28T07:18:41.961Z"
+    "updatedAt": "2026-01-24T10:33:03.263Z"
   },
   {
     "id": "1765819999437",
     "name": "IOSMIRROR - Netflix",
-    "movieUrl": "https://fetch.vflix.life/netflix/stream/movie/{{id}}.json",
-    "seriesUrl": "https://fetch.vflix.life/netflix/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "movieUrl": "https://fetch.vflix.shop/netflix/stream/movie/{{id}}.json",
+    "seriesUrl": "https://fetch.vflix.shop/netflix/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "20000",
     "priority": "4",
     "enabled": true,
     "createdAt": "2025-12-15T17:33:19.437Z",
-    "updatedAt": "2025-12-28T07:18:55.029Z"
+    "updatedAt": "2026-01-24T10:33:16.690Z"
   },
   {
     "id": "1766763246069",
@@ -78,24 +78,24 @@
   {
     "id": "1767335772822",
     "name": "vega",
-    "movieUrl": "https://vega.vflix.life/stream/movie/{{id}}.json",
-    "seriesUrl": "https://vega.vflix.life/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "movieUrl": "https://vega.vflix.shop/stream/movie/{{id}}.json",
+    "seriesUrl": "https://vega.vflix.shop/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "10000",
     "priority": "5",
     "enabled": true,
     "createdAt": "2026-01-02T06:36:12.822Z",
-    "updatedAt": "2026-01-02T09:29:47.045Z"
+    "updatedAt": "2026-01-24T10:31:20.539Z"
   },
   {
     "id": "1767441434010",
     "name": "hicine",
-    "movieUrl": "https://hicine.vflix.life/stremio/stream/movie/{{id}}.json",
-    "seriesUrl": "https://hicine.vflix.life/stremio/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "movieUrl": "https://hicine.vflix.shop/stremio/stream/movie/{{id}}.json",
+    "seriesUrl": "https://hicine.vflix.shop/stremio/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "10000",
     "priority": "1",
     "enabled": true,
     "createdAt": "2026-01-03T11:57:14.010Z",
-    "updatedAt": "2026-01-03T11:58:43.643Z"
+    "updatedAt": "2026-01-24T10:29:51.585Z"
   },
   {
     "id": "1767444815958",
@@ -132,34 +132,35 @@
   {
     "id": "1768274116761",
     "name": "anime 2",
-    "movieUrl": "https://anime.vflix.life/stream/movie/{{id}}.json",
-    "seriesUrl": "https://anime.vflix.life/stream/series/{{id}}:{{season}}:{{episode}}.json",
-    "timeout": 10000,
-    "priority": 1,
+    "movieUrl": "https://anime.vflix.shop/stream/movie/{{id}}.json",
+    "seriesUrl": "https://anime.vflix.shop/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "timeout": "10000",
+    "priority": "1",
     "enabled": true,
-    "createdAt": "2026-01-13T03:15:16.761Z"
+    "createdAt": "2026-01-13T03:15:16.761Z",
+    "updatedAt": "2026-01-24T10:30:28.273Z"
   },
   {
     "id": "1768310303086",
     "name": "MovieBox",
-    "movieUrl": "https://moviebox.vflix.life/stream/movie/{{id}}.json",
-    "seriesUrl": "https://moviebox.vflix.life/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "movieUrl": "https://moviebox.vflix.shop/stream/movie/{{id}}.json",
+    "seriesUrl": "https://moviebox.vflix.shop/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "20000",
     "priority": "4",
     "enabled": true,
     "createdAt": "2026-01-13T13:18:23.086Z",
-    "updatedAt": "2026-01-13T14:16:38.856Z"
+    "updatedAt": "2026-01-24T10:33:31.621Z"
   },
   {
     "id": "1768577233209",
     "name": "multitamil",
-    "movieUrl": "https://multitamil.vflix.life/stream/movie/{{id}}.json",
-    "seriesUrl": "https://multitamil.vflix.life/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "movieUrl": "https://multitamil.vflix.shop/stream/movie/{{id}}.json",
+    "seriesUrl": "https://multitamil.vflix.shop/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "20000",
     "priority": "6",
     "enabled": true,
     "createdAt": "2026-01-16T15:27:13.209Z",
-    "updatedAt": "2026-01-16T15:33:06.374Z"
+    "updatedAt": "2026-01-24T10:34:01.237Z"
   },
   {
     "id": "1768650249373",
