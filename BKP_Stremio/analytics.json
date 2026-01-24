@@ -1,5 +1,5 @@
 {
-  "totalViews": 16411,
+  "totalViews": 16414,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3631,33 +3631,10 @@
     "2409:40c0:104a:99e2:b0db:d7ff:feee:95e5",
     "103.44.117.218",
     "2402:ad80:a5:3140:919d:7f23:13ed:e8a0",
-    "2a09:bac5:3af1:8b4::de:27"
+    "2a09:bac5:3af1:8b4::de:27",
+    "160.238.73.8"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0816692",
-      "title": "Interstellar",
-      "timestamp": "2026-01-14T01:03:25.055Z",
-      "ip": "2a02:9b0:106:827:4d3e:cc1f:ac3a:63c",
-      "username": "hoosa500"
-    },
-    {
-      "type": "series",
-      "id": "tt26009468:1:1",
-      "title": "tt26009468:1:1",
-      "timestamp": "2026-01-14T01:05:06.508Z",
-      "ip": "2409:40e2:10f8:b24f:68c3:cf7a:5ad3:ff87",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt26009468:1:2",
-      "title": "tt26009468:1:2",
-      "timestamp": "2026-01-14T01:05:27.363Z",
-      "ip": "2409:40e2:10f8:b24f:68c3:cf7a:5ad3:ff87",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0903747:4:7",
@@ -83633,6 +83610,30 @@
       "timestamp": "2026-01-24T13:40:09.361Z",
       "ip": "2402:ad80:a5:3140:919d:7f23:13ed:e8a0",
       "username": "hvre2"
+    },
+    {
+      "type": "movie",
+      "id": "tt30818815",
+      "title": "tt30818815",
+      "timestamp": "2026-01-24T13:43:57.949Z",
+      "ip": "2a09:bac5:3af1:8b4::de:27",
+      "username": "angrybirdsneha"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:1:1",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-24T13:47:32.702Z",
+      "ip": "2402:ad80:a5:3140:919d:7f23:13ed:e8a0",
+      "username": "hvre2"
+    },
+    {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "timestamp": "2026-01-24T13:55:54.961Z",
+      "ip": "160.238.73.8",
+      "username": "hjbjkkfggjkjv"
     }
   ],
   "activeNow": {
@@ -90721,18 +90722,25 @@
       "lastActive": 1769261384226
     },
     "2402:ad80:a5:3140:919d:7f23:13ed:e8a0": {
-      "type": "movie",
-      "id": "tt27847051",
-      "title": "tt27847051",
+      "type": "series",
+      "id": "tt12343534:1:1",
+      "title": "JUJUTSU KAISEN",
       "username": "hvre2",
-      "lastActive": 1769262009361
+      "lastActive": 1769262452702
     },
     "2a09:bac5:3af1:8b4::de:27": {
-      "type": "series",
-      "id": "tt33517752:1:1",
-      "title": "tt33517752:1:1",
-      "username": "switchoff009",
-      "lastActive": 1769261996071
+      "type": "movie",
+      "id": "tt30818815",
+      "title": "tt30818815",
+      "username": "angrybirdsneha",
+      "lastActive": 1769262237949
+    },
+    "160.238.73.8": {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "username": "hjbjkkfggjkjv",
+      "lastActive": 1769262954961
     }
   }
 }
