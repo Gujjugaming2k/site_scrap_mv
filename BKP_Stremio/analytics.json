@@ -1,5 +1,5 @@
 {
-  "totalViews": 16558,
+  "totalViews": 16561,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3661,33 +3661,10 @@
     "2401:4900:8820:8915:c304:d700:e822:8016,2a09:bac5:37ac:ebe::178:1c7",
     "116.68.74.75",
     "2401:4900:716a:287e:6073:9dff:fe78:77be",
-    "2409:40f0:2416:32f9:ecc3:3eff:fe96:411b"
+    "2409:40f0:2416:32f9:ecc3:3eff:fe96:411b",
+    "2a09:bac5:3d14:11cd::1c6:13"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt14186672:1:1",
-      "title": "tt14186672:1:1",
-      "timestamp": "2026-01-14T04:31:33.046Z",
-      "ip": "117.99.239.236",
-      "username": "ig_sirmour"
-    },
-    {
-      "type": "series",
-      "id": "tt17220216:1:2",
-      "title": "tt17220216:1:2",
-      "timestamp": "2026-01-14T04:31:59.088Z",
-      "ip": "152.58.178.244",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "series",
-      "id": "tt17220216:1:2",
-      "title": "tt17220216:1:2",
-      "timestamp": "2026-01-14T04:33:15.739Z",
-      "ip": "152.58.178.244",
-      "username": "nobody_ismy_name"
-    },
     {
       "type": "series",
       "id": "tt17220216:1:2",
@@ -83663,6 +83640,30 @@
       "timestamp": "2026-01-24T21:41:42.848Z",
       "ip": "2409:40f0:2416:32f9:ecc3:3eff:fe96:411b",
       "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt5037912",
+      "title": "tt5037912",
+      "timestamp": "2026-01-24T21:45:22.774Z",
+      "ip": "2a09:bac5:3d14:11cd::1c6:13",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt5037912",
+      "title": "tt5037912",
+      "timestamp": "2026-01-24T21:57:47.896Z",
+      "ip": "2409:40f0:2416:32f9:ecc3:3eff:fe96:411b",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt31852038",
+      "title": "tt31852038",
+      "timestamp": "2026-01-24T21:58:16.643Z",
+      "ip": "2409:40f0:2416:32f9:ecc3:3eff:fe96:411b",
+      "username": "sachinprem1"
     }
   ],
   "activeNow": {
@@ -90969,10 +90970,17 @@
     },
     "2409:40f0:2416:32f9:ecc3:3eff:fe96:411b": {
       "type": "movie",
-      "id": "tt6522546",
-      "title": "tt6522546",
+      "id": "tt31852038",
+      "title": "tt31852038",
       "username": "sachinprem1",
-      "lastActive": 1769290902848
+      "lastActive": 1769291896643
+    },
+    "2a09:bac5:3d14:11cd::1c6:13": {
+      "type": "movie",
+      "id": "tt5037912",
+      "title": "tt5037912",
+      "username": "sachinprem1",
+      "lastActive": 1769291122774
     }
   }
 }
