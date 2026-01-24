@@ -1,5 +1,5 @@
 {
-  "totalViews": 16370,
+  "totalViews": 16371,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3616,17 +3616,10 @@
     "2a02:8086:c87:1100:dc77:5c58:4e7a:b2ee",
     "2607:fb90:8aa9:84eb:ed67:6c02:f7d1:a3e0",
     "2402:a00:10a:815f:2054:e7f4:7255:b432",
-    "2a09:bac5:40d2:c8::14:2e8"
+    "2a09:bac5:40d2:c8::14:2e8",
+    "202.173.124.12"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt6424454:1:13",
-      "title": "tt6424454:1:13",
-      "timestamp": "2026-01-13T22:50:23.214Z",
-      "ip": "78.211.211.190",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt4574334:0:27",
@@ -83618,6 +83611,14 @@
       "timestamp": "2026-01-24T10:48:43.544Z",
       "ip": "2a09:bac5:40d2:c8::14:2e8",
       "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:6",
+      "title": "tt35335046:1:6",
+      "timestamp": "2026-01-24T10:58:03.662Z",
+      "ip": "202.173.124.12",
+      "username": "ryuzaklo26"
     }
   ],
   "activeNow": {
@@ -90613,6 +90614,13 @@
       "title": "One Battle After Another",
       "username": "demon18319",
       "lastActive": 1769251723544
+    },
+    "202.173.124.12": {
+      "type": "series",
+      "id": "tt35335046:1:6",
+      "title": "tt35335046:1:6",
+      "username": "ryuzaklo26",
+      "lastActive": 1769252283662
     }
   }
 }
