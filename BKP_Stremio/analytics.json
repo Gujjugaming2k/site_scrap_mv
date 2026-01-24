@@ -1,5 +1,5 @@
 {
-  "totalViews": 16386,
+  "totalViews": 16392,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3622,57 +3622,12 @@
     "2409:40e1:11b1:b2c4:8cc8:2599:3e79:8dd3",
     "160.238.72.181",
     "2401:4900:b02f:4fc2:a4b7:b1ff:fe4f:96b5",
-    "2409:40d6:1c:5429:803d:5cff:fe7c:6f88"
+    "2409:40d6:1c:5429:803d:5cff:fe7c:6f88",
+    "2a09:bac1:36c0:5e98::49b:5",
+    "2a09:bac1:36c0:1768::20a:49",
+    "146.70.202.76"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt11712058:1:7",
-      "title": "Mayor of Kingstown",
-      "timestamp": "2026-01-13T23:47:56.227Z",
-      "ip": "2600:1702:6820:a800:20b8:7856:d4fb:93be",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:4:6",
-      "title": "tt0903747:4:6",
-      "timestamp": "2026-01-13T23:59:42.602Z",
-      "ip": "152.58.182.184",
-      "username": "tejmani"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:4:5",
-      "title": "tt0903747:4:5",
-      "timestamp": "2026-01-14T00:00:19.492Z",
-      "ip": "152.58.182.184",
-      "username": "tejmani"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:4:6",
-      "title": "tt0903747:4:6",
-      "timestamp": "2026-01-14T00:00:32.068Z",
-      "ip": "2409:40e0:c:770d:8000::",
-      "username": "tejmani"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:4:5",
-      "title": "tt0903747:4:5",
-      "timestamp": "2026-01-14T00:00:34.568Z",
-      "ip": "2409:40e0:c:770d:8000::",
-      "username": "tejmani"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:4:5",
-      "title": "tt0903747:4:5",
-      "timestamp": "2026-01-14T00:00:39.647Z",
-      "ip": "2409:40e0:c:770d:8000::",
-      "username": "tejmani"
-    },
     {
       "type": "series",
       "id": "tt0412142:4:9",
@@ -83624,6 +83579,54 @@
       "timestamp": "2026-01-24T11:54:14.452Z",
       "ip": "2409:40d6:1c:5429:803d:5cff:fe7c:6f88",
       "username": "mailrahulboora"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-01-24T12:05:44.020Z",
+      "ip": "2a09:bac1:36c0:5e98::49b:5",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "timestamp": "2026-01-24T12:06:15.904Z",
+      "ip": "2a09:bac1:36c0:5e98::49b:5",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt1856101",
+      "title": "tt1856101",
+      "timestamp": "2026-01-24T12:07:02.615Z",
+      "ip": "2a09:bac1:36c0:1768::20a:49",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "timestamp": "2026-01-24T12:07:37.575Z",
+      "ip": "2a09:bac1:36c0:5e98::49b:5",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt6751668",
+      "title": "tt6751668",
+      "timestamp": "2026-01-24T12:09:34.804Z",
+      "ip": "146.70.202.76",
+      "username": "jinwoooooi"
+    },
+    {
+      "type": "movie",
+      "id": "tt1655389",
+      "title": "tt1655389",
+      "timestamp": "2026-01-24T12:10:30.388Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -84391,11 +84394,11 @@
       "lastActive": 1769077167660
     },
     "2405:201:6820:a83c:bdef:55c1:5b2d:3408": {
-      "type": "series",
-      "id": "tt33035373:1:1",
-      "title": "tt33035373:1:1",
+      "type": "movie",
+      "id": "tt1655389",
+      "title": "tt1655389",
       "username": "demon18319",
-      "lastActive": 1769253074976
+      "lastActive": 1769256630388
     },
     "49.36.217.235": {
       "type": "series",
@@ -90661,6 +90664,27 @@
       "title": "tt15477488:1:1",
       "username": "mailrahulboora",
       "lastActive": 1769255654452
+    },
+    "2a09:bac1:36c0:5e98::49b:5": {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "username": "demon18319",
+      "lastActive": 1769256457575
+    },
+    "2a09:bac1:36c0:1768::20a:49": {
+      "type": "movie",
+      "id": "tt1856101",
+      "title": "tt1856101",
+      "username": "belimhuzaifa",
+      "lastActive": 1769256422615
+    },
+    "146.70.202.76": {
+      "type": "movie",
+      "id": "tt6751668",
+      "title": "tt6751668",
+      "username": "jinwoooooi",
+      "lastActive": 1769256574804
     }
   }
 }
