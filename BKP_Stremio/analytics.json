@@ -1,5 +1,5 @@
 {
-  "totalViews": 16433,
+  "totalViews": 16434,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3637,17 +3637,10 @@
     "2401:4900:b02f:4fc2:d883:16ff:fe87:bfa0",
     "2409:40e6:2b:cb9a:c8ff:68ff:fe9c:6a90",
     "2409:40d0:1396:245b:e8d4:25ff:fe27:4b99",
-    "94.156.30.232"
+    "94.156.30.232",
+    "2402:a00:10a:815f:5906:f628:6dfd:ba91"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-14T02:06:17.253Z",
-      "ip": "49.37.112.210",
-      "username": "muktikanta_007"
-    },
     {
       "type": "movie",
       "id": "tt0063350",
@@ -83639,6 +83632,14 @@
       "timestamp": "2026-01-24T14:43:09.686Z",
       "ip": "116.68.79.147",
       "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt7466810",
+      "title": "tt7466810",
+      "timestamp": "2026-01-24T14:57:48.965Z",
+      "ip": "2402:a00:10a:815f:5906:f628:6dfd:ba91",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -90781,6 +90782,13 @@
       "title": "Stranger Things",
       "username": "b1jju",
       "lastActive": 1769265334305
+    },
+    "2402:a00:10a:815f:5906:f628:6dfd:ba91": {
+      "type": "movie",
+      "id": "tt7466810",
+      "title": "tt7466810",
+      "username": "vflix1993",
+      "lastActive": 1769266668965
     }
   }
 }
