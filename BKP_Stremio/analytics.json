@@ -1,5 +1,5 @@
 {
-  "totalViews": 16434,
+  "totalViews": 16436,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3638,25 +3638,10 @@
     "2409:40e6:2b:cb9a:c8ff:68ff:fe9c:6a90",
     "2409:40d0:1396:245b:e8d4:25ff:fe27:4b99",
     "94.156.30.232",
-    "2402:a00:10a:815f:5906:f628:6dfd:ba91"
+    "2402:a00:10a:815f:5906:f628:6dfd:ba91",
+    "2409:40f0:103b:20c0:e816:9dff:fe18:488d"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0063350",
-      "title": "tt0063350",
-      "timestamp": "2026-01-14T02:06:29.800Z",
-      "ip": "49.37.112.210",
-      "username": "muktikanta_007"
-    },
-    {
-      "type": "movie",
-      "id": "tt0108052",
-      "title": "Schindler's List",
-      "timestamp": "2026-01-14T02:06:56.771Z",
-      "ip": "49.37.112.210",
-      "username": "muktikanta_007"
-    },
     {
       "type": "series",
       "id": "tt31938062:2:1",
@@ -83640,6 +83625,22 @@
       "timestamp": "2026-01-24T14:57:48.965Z",
       "ip": "2402:a00:10a:815f:5906:f628:6dfd:ba91",
       "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt7466810",
+      "title": "tt7466810",
+      "timestamp": "2026-01-24T15:06:32.670Z",
+      "ip": "2402:a00:10a:815f:5906:f628:6dfd:ba91",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-24T15:09:00.867Z",
+      "ip": "2409:40f0:103b:20c0:e816:9dff:fe18:488d",
+      "username": "rick"
     }
   ],
   "activeNow": {
@@ -90788,7 +90789,14 @@
       "id": "tt7466810",
       "title": "tt7466810",
       "username": "vflix1993",
-      "lastActive": 1769266668965
+      "lastActive": 1769267192670
+    },
+    "2409:40f0:103b:20c0:e816:9dff:fe18:488d": {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "username": "rick",
+      "lastActive": 1769267340867
     }
   }
 }
