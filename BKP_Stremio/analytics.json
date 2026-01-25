@@ -1,5 +1,5 @@
 {
-  "totalViews": 16905,
+  "totalViews": 16912,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3705,65 +3705,10 @@
     "2401:4900:1cc4:1ecb:cc1b:7858:9b44:1f4e",
     "2402:a00:10a:815f:e8c7:6d07:82de:3f7c",
     "2409:40d0:2a:e663:3cb6:5fff:fe8e:9374",
-    "152.59.148.136"
+    "152.59.148.136",
+    "49.42.52.159"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt37893389",
-      "title": "tt37893389",
-      "timestamp": "2026-01-14T13:24:13.445Z",
-      "ip": "2401:4900:1c54:c0ce:b854:f186:c864:6e8a,38.147.106.38",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt37893389",
-      "title": "tt37893389",
-      "timestamp": "2026-01-14T13:24:13.521Z",
-      "ip": "2401:4900:1c54:c0ce:b854:f186:c864:6e8a",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt21103218",
-      "title": "The Lost Bus",
-      "timestamp": "2026-01-14T13:30:50.596Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt0050083",
-      "title": "12 Angry Men",
-      "timestamp": "2026-01-14T13:37:09.241Z",
-      "ip": "2409:40e4:1359:8ada:c484:a2ff:fe49:926e",
-      "username": "ig_sirmour"
-    },
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-14T13:38:10.913Z",
-      "ip": "46.197.124.98",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-14T13:39:49.222Z",
-      "ip": "46.197.124.98",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt27263807",
-      "title": "tt27263807",
-      "timestamp": "2026-01-14T13:43:14.129Z",
-      "ip": "2401:4900:b00c:83e4:58e9:50ff:fe13:a390",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt27263807",
@@ -83707,6 +83652,62 @@
       "timestamp": "2026-01-25T14:57:05.620Z",
       "ip": "103.181.65.77",
       "username": "mutti9"
+    },
+    {
+      "type": "movie",
+      "id": "tt7634968",
+      "title": "tt7634968",
+      "timestamp": "2026-01-25T15:24:15.655Z",
+      "ip": "49.42.52.159",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt3799232",
+      "title": "tt3799232",
+      "timestamp": "2026-01-25T15:25:11.140Z",
+      "ip": "49.42.52.159",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "timestamp": "2026-01-25T15:28:46.840Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt15477488:1:2",
+      "title": "tt15477488:1:2",
+      "timestamp": "2026-01-25T15:30:06.054Z",
+      "ip": "223.181.77.202",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt15477488:1:1",
+      "title": "tt15477488:1:1",
+      "timestamp": "2026-01-25T15:30:06.336Z",
+      "ip": "223.181.77.202",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:6",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-25T15:30:47.590Z",
+      "ip": "223.181.77.202",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
+      "timestamp": "2026-01-25T15:34:38.357Z",
+      "ip": "103.181.65.77",
+      "username": "mutti9"
     }
   ],
   "activeNow": {
@@ -84488,11 +84489,11 @@
       "lastActive": 1769013974990
     },
     "203.192.255.46": {
-      "type": "series",
-      "id": "tt12324366:2:8",
-      "title": "tt12324366:2:8",
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
       "username": "chetan_b2",
-      "lastActive": 1769352161322
+      "lastActive": 1769354926840
     },
     "2402:a00:10a:815f:e6be:c8c8:7869:e727": {
       "type": "series",
@@ -88464,11 +88465,11 @@
       "lastActive": 1769177672445
     },
     "223.181.77.202": {
-      "type": "movie",
-      "id": "tt23572848",
-      "title": "tt23572848",
+      "type": "series",
+      "id": "tt4574334:1:6",
+      "title": "Stranger Things",
       "username": "b1jju",
-      "lastActive": 1769177689829
+      "lastActive": 1769355047590
     },
     "2600:4041:5736:8400:38b0:eff9:921c:555e": {
       "type": "movie",
@@ -90988,7 +90989,7 @@
       "id": "tt35335046:1:7",
       "title": "tt35335046:1:7",
       "username": "mutti9",
-      "lastActive": 1769353025620
+      "lastActive": 1769355278357
     },
     "2401:4900:8820:8915:c304:d700:e822:8016,2a09:bac5:37ac:ebe::178:1c7": {
       "type": "series",
@@ -91325,6 +91326,13 @@
       "title": "tt36616410",
       "username": "nabakun",
       "lastActive": 1769351675397
+    },
+    "49.42.52.159": {
+      "type": "movie",
+      "id": "tt3799232",
+      "title": "tt3799232",
+      "username": "brosportses",
+      "lastActive": 1769354711140
     }
   }
 }
