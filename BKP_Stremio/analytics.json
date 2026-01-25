@@ -1,5 +1,5 @@
 {
-  "totalViews": 16813,
+  "totalViews": 16817,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3689,41 +3689,10 @@
     "146.70.102.204",
     "157.50.125.205",
     "2401:4900:8fe2:d6e9:1239:3c73:362:2569",
-    "2401:4900:8fe2:d6e9:a477:8287:eaca:fb42"
+    "2401:4900:8fe2:d6e9:a477:8287:eaca:fb42",
+    "2401:4900:1cb0:5cf4:5d38:47dc:8471:ee56"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1144811",
-      "title": "tt1144811",
-      "timestamp": "2026-01-14T11:03:23.841Z",
-      "ip": "2401:4900:ba35:d796::29c6:af0a",
-      "username": "abhi231511"
-    },
-    {
-      "type": "movie",
-      "id": "tt31036941",
-      "title": "Jurassic World Rebirth",
-      "timestamp": "2026-01-14T11:03:29.949Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt16311594",
-      "title": "F1",
-      "timestamp": "2026-01-14T11:03:47.469Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-01-14T11:04:43.611Z",
-      "ip": "2409:40e6:203:d9cb:4c51:44ff:fed4:c340",
-      "username": "nabakun24"
-    },
     {
       "type": "movie",
       "id": "tt0075612",
@@ -83691,6 +83660,38 @@
       "timestamp": "2026-01-25T11:18:05.896Z",
       "ip": "2405:201:6820:a83c:e52e:5c2:bbcc:a56f",
       "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt1520211:5:15",
+      "title": "tt1520211:5:15",
+      "timestamp": "2026-01-25T11:41:24.576Z",
+      "ip": "146.70.102.204",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "timestamp": "2026-01-25T11:41:56.516Z",
+      "ip": "2401:4900:1cb0:5cf4:5d38:47dc:8471:ee56",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "series",
+      "id": "tt1520211:5:16",
+      "title": "tt1520211:5:16",
+      "timestamp": "2026-01-25T11:42:22.032Z",
+      "ip": "146.70.102.204",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt1520211:5:16",
+      "title": "tt1520211:5:16",
+      "timestamp": "2026-01-25T11:42:26.736Z",
+      "ip": "146.70.102.204",
+      "username": "belimhuzaifa"
     }
   ],
   "activeNow": {
@@ -91172,10 +91173,10 @@
     },
     "146.70.102.204": {
       "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
+      "id": "tt1520211:5:16",
+      "title": "tt1520211:5:16",
       "username": "belimhuzaifa",
-      "lastActive": 1769339294851
+      "lastActive": 1769341346736
     },
     "157.50.125.205": {
       "type": "movie",
@@ -91197,6 +91198,13 @@
       "title": "tt34984715",
       "username": "ashwanileon",
       "lastActive": 1769339740630
+    },
+    "2401:4900:1cb0:5cf4:5d38:47dc:8471:ee56": {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "username": "saisrinivas",
+      "lastActive": 1769341316516
     }
   }
 }
