@@ -1,5 +1,5 @@
 {
-  "totalViews": 16929,
+  "totalViews": 16936,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3706,65 +3706,12 @@
     "2402:a00:10a:815f:e8c7:6d07:82de:3f7c",
     "2409:40d0:2a:e663:3cb6:5fff:fe8e:9374",
     "152.59.148.136",
-    "49.42.52.159"
+    "49.42.52.159",
+    "2a09:bac5:40d1:2719::3e5:3b",
+    "2401:4900:8824:397e:b252:16ff:fe82:e569",
+    "2401:4900:8902:1507:e57b:e6b7:1898:11e9"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt34702901:1:1",
-      "title": "tt34702901:1:1",
-      "timestamp": "2026-01-14T14:08:27.722Z",
-      "ip": "2a09:bac1:7aa0:10::3c5:1b",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt8647400",
-      "title": "tt8647400",
-      "timestamp": "2026-01-14T14:08:55.850Z",
-      "ip": "103.216.223.41",
-      "username": "golu_18vk"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:2:6",
-      "title": "Fallout",
-      "timestamp": "2026-01-14T14:11:40.863Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "movie",
-      "id": "tt32423736",
-      "title": "tt32423736",
-      "timestamp": "2026-01-14T14:12:46.014Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt11083552",
-      "title": "tt11083552",
-      "timestamp": "2026-01-14T14:12:48.313Z",
-      "ip": "2409:40e4:1083:35b6:88b8:84c7:32b0:e256",
-      "username": "askchm"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
-      "timestamp": "2026-01-14T14:18:02.285Z",
-      "ip": "2409:40e4:1359:8ada:c484:a2ff:fe49:926e",
-      "username": "ig_sirmour"
-    },
-    {
-      "type": "movie",
-      "id": "tt32423736",
-      "title": "tt32423736",
-      "timestamp": "2026-01-14T14:23:39.466Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
     {
       "type": "series",
       "id": "tt7671070:1:3",
@@ -83708,6 +83655,62 @@
       "timestamp": "2026-01-25T15:49:20.504Z",
       "ip": "223.181.77.202",
       "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:4:4",
+      "title": "tt0460649:4:4",
+      "timestamp": "2026-01-25T15:58:14.819Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:4:4",
+      "title": "tt0460649:4:4",
+      "timestamp": "2026-01-25T15:58:22.756Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:4:4",
+      "title": "tt0460649:4:4",
+      "timestamp": "2026-01-25T15:59:42.155Z",
+      "ip": "2a09:bac5:40d1:2719::3e5:3b",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt0364569",
+      "title": "Oldboy",
+      "timestamp": "2026-01-25T16:00:23.811Z",
+      "ip": "2401:4900:8824:397e:b252:16ff:fe82:e569",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt28508934",
+      "title": "tt28508934",
+      "timestamp": "2026-01-25T16:00:35.442Z",
+      "ip": "2409:40e6:2b:cb9a:c8ff:68ff:fe9c:6a90",
+      "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt28508934",
+      "title": "tt28508934",
+      "timestamp": "2026-01-25T16:04:24.757Z",
+      "ip": "2409:40e6:2b:cb9a:c8ff:68ff:fe9c:6a90",
+      "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt36616410",
+      "title": "tt36616410",
+      "timestamp": "2026-01-25T16:05:47.310Z",
+      "ip": "2401:4900:8902:1507:e57b:e6b7:1898:11e9",
+      "username": "zindha"
     }
   ],
   "activeNow": {
@@ -84476,10 +84479,10 @@
     },
     "2405:201:6820:a83c:bdef:55c1:5b2d:3408": {
       "type": "series",
-      "id": "tt3398540:2:12",
-      "title": "tt3398540:2:12",
+      "id": "tt0460649:4:4",
+      "title": "tt0460649:4:4",
       "username": "demon18319",
-      "lastActive": 1769308291805
+      "lastActive": 1769356702756
     },
     "49.36.217.235": {
       "type": "series",
@@ -90832,10 +90835,10 @@
     },
     "2409:40e6:2b:cb9a:c8ff:68ff:fe9c:6a90": {
       "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
+      "id": "tt28508934",
+      "title": "tt28508934",
       "username": "nabakun",
-      "lastActive": 1769312297633
+      "lastActive": 1769357064757
     },
     "2409:40d0:1396:245b:e8d4:25ff:fe27:4b99": {
       "type": "movie",
@@ -91333,6 +91336,27 @@
       "title": "tt3799232",
       "username": "brosportses",
       "lastActive": 1769354711140
+    },
+    "2a09:bac5:40d1:2719::3e5:3b": {
+      "type": "series",
+      "id": "tt0460649:4:4",
+      "title": "tt0460649:4:4",
+      "username": "demon18319",
+      "lastActive": 1769356782155
+    },
+    "2401:4900:8824:397e:b252:16ff:fe82:e569": {
+      "type": "movie",
+      "id": "tt0364569",
+      "title": "Oldboy",
+      "username": "sinbad1722",
+      "lastActive": 1769356823811
+    },
+    "2401:4900:8902:1507:e57b:e6b7:1898:11e9": {
+      "type": "movie",
+      "id": "tt36616410",
+      "title": "tt36616410",
+      "username": "zindha",
+      "lastActive": 1769357147310
     }
   }
 }
