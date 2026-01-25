@@ -1,5 +1,5 @@
 {
-  "totalViews": 16848,
+  "totalViews": 16855,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3691,65 +3691,10 @@
     "2401:4900:8fe2:d6e9:1239:3c73:362:2569",
     "2401:4900:8fe2:d6e9:a477:8287:eaca:fb42",
     "2401:4900:1cb0:5cf4:5d38:47dc:8471:ee56",
-    "122.163.143.149"
+    "122.163.143.149",
+    "2401:4900:8820:8915:bcd6:2f85:3ccf:1efe,2a09:bac5:37ac:ebe::178:1c7"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4786824:2:3",
-      "title": "tt4786824:2:3",
-      "timestamp": "2026-01-14T11:34:08.782Z",
-      "ip": "2409:40e2:201d:6ab6:8000::",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-01-14T11:37:12.976Z",
-      "ip": "2409:40e6:203:d9cb:4c51:44ff:fed4:c340",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt23172090",
-      "title": "tt23172090",
-      "timestamp": "2026-01-14T11:40:54.190Z",
-      "ip": "2409:40e6:203:d9cb:4c51:44ff:fed4:c340",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt0338348",
-      "title": "The Polar Express",
-      "timestamp": "2026-01-14T11:41:29.943Z",
-      "ip": "157.49.181.243",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-14T11:43:24.392Z",
-      "ip": "2409:40e6:203:d9cb:4c51:44ff:fed4:c340",
-      "username": "nabakun24"
-    },
-    {
-      "type": "series",
-      "id": "tt19244304:1:4",
-      "title": "tt19244304:1:4",
-      "timestamp": "2026-01-14T11:44:31.734Z",
-      "ip": "2401:4900:84d1:10dc:c017:f3ff:fe60:260d",
-      "username": "pikazesty"
-    },
-    {
-      "type": "movie",
-      "id": "tt0120917",
-      "title": "tt0120917",
-      "timestamp": "2026-01-14T11:45:40.607Z",
-      "ip": "157.49.181.243",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt30144839",
@@ -83693,6 +83638,62 @@
       "timestamp": "2026-01-25T12:43:00.151Z",
       "ip": "122.163.143.149",
       "username": "gyanmail"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-25T12:45:30.032Z",
+      "ip": "2401:4900:8820:8915:bcd6:2f85:3ccf:1efe,2a09:bac5:37ac:ebe::178:1c7",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-25T12:46:53.874Z",
+      "ip": "2401:4900:8820:8915:bcd6:2f85:3ccf:1efe,2a09:bac5:37ac:ebe::178:1c7",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-25T12:49:08.954Z",
+      "ip": "122.163.143.149",
+      "username": "gyanmail"
+    },
+    {
+      "type": "series",
+      "id": "tt6468322:3:3",
+      "title": "tt6468322:3:3",
+      "timestamp": "2026-01-25T12:50:35.278Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt3230454:1:1",
+      "title": "tt3230454:1:1",
+      "timestamp": "2026-01-25T12:51:06.740Z",
+      "ip": "202.173.124.12",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt6468322:3:3",
+      "title": "tt6468322:3:3",
+      "timestamp": "2026-01-25T12:51:30.502Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt6468322:3:4",
+      "title": "tt6468322:3:4",
+      "timestamp": "2026-01-25T12:51:46.197Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
     }
   ],
   "activeNow": {
@@ -83985,10 +83986,10 @@
     },
     "103.175.168.106": {
       "type": "series",
-      "id": "tt12637874:1:1",
-      "title": "Fallout",
+      "id": "tt6468322:3:4",
+      "title": "tt6468322:3:4",
       "username": "un0fficial_itachi",
-      "lastActive": 1769342480012
+      "lastActive": 1769345506197
     },
     "43.224.150.191": {
       "type": "movie",
@@ -90691,10 +90692,10 @@
     },
     "202.173.124.12": {
       "type": "series",
-      "id": "tt3230454:1:2",
-      "title": "tt3230454:1:2",
+      "id": "tt3230454:1:1",
+      "title": "tt3230454:1:1",
       "username": "ryuzaklo26",
-      "lastActive": 1769342781793
+      "lastActive": 1769345466740
     },
     "2402:a00:10a:815f:4134:ec87:9d21:a6a4": {
       "type": "movie",
@@ -91208,11 +91209,18 @@
       "lastActive": 1769341316516
     },
     "122.163.143.149": {
-      "type": "series",
-      "id": "tt35335046:1:5",
-      "title": "tt35335046:1:5",
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "gyanmail",
-      "lastActive": 1769344980151
+      "lastActive": 1769345348954
+    },
+    "2401:4900:8820:8915:bcd6:2f85:3ccf:1efe,2a09:bac5:37ac:ebe::178:1c7": {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "username": "anonymous_rare",
+      "lastActive": 1769345213874
     }
   }
 }
