@@ -1,5 +1,5 @@
 {
-  "totalViews": 17048,
+  "totalViews": 17050,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3719,25 +3719,10 @@
     "2409:4085:ae81:e6ff:6764:2fea:d6d3:58dc",
     "2401:4900:8843:41d7:ec34:9d2f:78a:dd06",
     "2401:4900:8ffe:bb3d:d481:ae38:102a:13b1",
-    "2409:40e1:301e:7e8a:4d55:783c:494a:da6b"
+    "2409:40e1:301e:7e8a:4d55:783c:494a:da6b",
+    "2402:ad80:13c:2913:bcd9:6ba6:1325:41fb"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt8962124:5:2",
-      "title": "tt8962124:5:2",
-      "timestamp": "2026-01-14T17:10:45.023Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "movie",
-      "id": "tt31015496",
-      "title": "tt31015496",
-      "timestamp": "2026-01-14T17:11:25.150Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
     {
       "type": "movie",
       "id": "tt32916440",
@@ -83721,6 +83706,22 @@
       "timestamp": "2026-01-25T18:37:52.375Z",
       "ip": "103.175.168.106",
       "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt23734948:1:1",
+      "title": "tt23734948:1:1",
+      "timestamp": "2026-01-25T18:39:44.139Z",
+      "ip": "2402:ad80:13c:2913:bcd9:6ba6:1325:41fb",
+      "username": "hvre2"
+    },
+    {
+      "type": "series",
+      "id": "tt6468322:3:7",
+      "title": "tt6468322:3:7",
+      "timestamp": "2026-01-25T18:40:14.314Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
     }
   ],
   "activeNow": {
@@ -84013,10 +84014,10 @@
     },
     "103.175.168.106": {
       "type": "series",
-      "id": "tt6468322:3:6",
-      "title": "tt6468322:3:6",
+      "id": "tt6468322:3:7",
+      "title": "tt6468322:3:7",
       "username": "un0fficial_itachi",
-      "lastActive": 1769366272375
+      "lastActive": 1769366414314
     },
     "43.224.150.191": {
       "type": "movie",
@@ -91437,6 +91438,13 @@
       "title": "tt6751668",
       "username": "jinwoooooi",
       "lastActive": 1769364767373
+    },
+    "2402:ad80:13c:2913:bcd9:6ba6:1325:41fb": {
+      "type": "series",
+      "id": "tt23734948:1:1",
+      "title": "tt23734948:1:1",
+      "username": "hvre2",
+      "lastActive": 1769366384139
     }
   }
 }
