@@ -1,5 +1,5 @@
 {
-  "totalViews": 16582,
+  "totalViews": 16586,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3662,41 +3662,11 @@
     "116.68.74.75",
     "2401:4900:716a:287e:6073:9dff:fe78:77be",
     "2409:40f0:2416:32f9:ecc3:3eff:fe96:411b",
-    "2a09:bac5:3d14:11cd::1c6:13"
+    "2a09:bac5:3d14:11cd::1c6:13",
+    "2409:4085:ae81:e6ff::e28b:d603",
+    "2401:4900:cadf:8f44:5050:eff:fe7f:b27d"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt17069148:1:9",
-      "title": "tt17069148:1:9",
-      "timestamp": "2026-01-14T06:08:19.568Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt2905838",
-      "title": "tt2905838",
-      "timestamp": "2026-01-14T06:22:16.960Z",
-      "ip": "2001:ac8:22:23:4210:84d5:1b18:f47d",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt36642456",
-      "title": "tt36642456",
-      "timestamp": "2026-01-14T06:24:19.552Z",
-      "ip": "2405:201:2000:ca9e:3e39:982e:fe04:4a4b",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt10577736:1:4",
-      "title": "Tehran",
-      "timestamp": "2026-01-14T06:26:11.658Z",
-      "ip": "2001:1708:2a9a:8d00:5c76:c1fb:7f71:378b",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt17069148:1:10",
@@ -83664,6 +83634,38 @@
       "timestamp": "2026-01-25T00:01:28.197Z",
       "ip": "182.69.179.34",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt0073115",
+      "title": "tt0073115",
+      "timestamp": "2026-01-25T01:33:53.306Z",
+      "ip": "2409:4085:ae81:e6ff::e28b:d603",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt13623632:0:1",
+      "title": "Alien: Earth",
+      "timestamp": "2026-01-25T01:35:23.913Z",
+      "ip": "2401:4900:cadf:8f44:5050:eff:fe7f:b27d",
+      "username": "executeal"
+    },
+    {
+      "type": "series",
+      "id": "tt13616990:0:6",
+      "title": "Chainsaw Man",
+      "timestamp": "2026-01-25T01:35:33.166Z",
+      "ip": "2401:4900:cadf:8f44:5050:eff:fe7f:b27d",
+      "username": "executeal"
+    },
+    {
+      "type": "movie",
+      "id": "tt32360696",
+      "title": "French Lover",
+      "timestamp": "2026-01-25T01:36:11.913Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -84431,11 +84433,11 @@
       "lastActive": 1769077167660
     },
     "2405:201:6820:a83c:bdef:55c1:5b2d:3408": {
-      "type": "series",
-      "id": "tt0460649:4:4",
-      "title": "tt0460649:4:4",
+      "type": "movie",
+      "id": "tt32360696",
+      "title": "French Lover",
       "username": "demon18319",
-      "lastActive": 1769277975770
+      "lastActive": 1769304971913
     },
     "49.36.217.235": {
       "type": "series",
@@ -90981,6 +90983,20 @@
       "title": "tt5037912",
       "username": "sachinprem1",
       "lastActive": 1769291122774
+    },
+    "2409:4085:ae81:e6ff::e28b:d603": {
+      "type": "movie",
+      "id": "tt0073115",
+      "title": "tt0073115",
+      "username": "brosportses",
+      "lastActive": 1769304833306
+    },
+    "2401:4900:cadf:8f44:5050:eff:fe7f:b27d": {
+      "type": "series",
+      "id": "tt13616990:0:6",
+      "title": "Chainsaw Man",
+      "username": "executeal",
+      "lastActive": 1769304933166
     }
   }
 }
