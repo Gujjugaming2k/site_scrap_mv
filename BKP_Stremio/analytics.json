@@ -1,5 +1,5 @@
 {
-  "totalViews": 16811,
+  "totalViews": 16813,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3688,25 +3688,10 @@
     "106.51.166.183",
     "146.70.102.204",
     "157.50.125.205",
-    "2401:4900:8fe2:d6e9:1239:3c73:362:2569"
+    "2401:4900:8fe2:d6e9:1239:3c73:362:2569",
+    "2401:4900:8fe2:d6e9:a477:8287:eaca:fb42"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1144811",
-      "title": "tt1144811",
-      "timestamp": "2026-01-14T11:02:46.732Z",
-      "ip": "2401:4900:ba6d:c699::29c1:ec4e",
-      "username": "abhi231511"
-    },
-    {
-      "type": "movie",
-      "id": "tt0319397",
-      "title": "tt0319397",
-      "timestamp": "2026-01-14T11:03:23.754Z",
-      "ip": "2401:4900:ba35:d796::29c6:af0a",
-      "username": "abhi231511"
-    },
     {
       "type": "movie",
       "id": "tt1144811",
@@ -83690,6 +83675,22 @@
       "timestamp": "2026-01-25T11:08:14.851Z",
       "ip": "146.70.102.204",
       "username": "belimhuzaifa"
+    },
+    {
+      "type": "movie",
+      "id": "tt34984715",
+      "title": "tt34984715",
+      "timestamp": "2026-01-25T11:15:40.630Z",
+      "ip": "2401:4900:8fe2:d6e9:a477:8287:eaca:fb42",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "series",
+      "id": "tt22091076:2:10",
+      "title": "tt22091076:2:10",
+      "timestamp": "2026-01-25T11:18:05.896Z",
+      "ip": "2405:201:6820:a83c:e52e:5c2:bbcc:a56f",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -88070,10 +88071,10 @@
     },
     "2405:201:6820:a83c:e52e:5c2:bbcc:a56f": {
       "type": "series",
-      "id": "tt22091076:2:9",
-      "title": "tt22091076:2:9",
+      "id": "tt22091076:2:10",
+      "title": "tt22091076:2:10",
       "username": "demon18319",
-      "lastActive": 1769170483274
+      "lastActive": 1769339885896
     },
     "2401:4900:8826:1812:b008:463f:169c:90cd": {
       "type": "series",
@@ -91189,6 +91190,13 @@
       "title": "tt32642706",
       "username": "ashwanileon",
       "lastActive": 1769339000369
+    },
+    "2401:4900:8fe2:d6e9:a477:8287:eaca:fb42": {
+      "type": "movie",
+      "id": "tt34984715",
+      "title": "tt34984715",
+      "username": "ashwanileon",
+      "lastActive": 1769339740630
     }
   }
 }
