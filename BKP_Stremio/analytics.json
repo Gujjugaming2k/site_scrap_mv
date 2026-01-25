@@ -1,5 +1,5 @@
 {
-  "totalViews": 17032,
+  "totalViews": 17037,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3716,49 +3716,10 @@
     "2a09:bac1:3680:120::23:48c",
     "103.79.168.109",
     "2405:201:2033:841:84f9:7d17:d8e6:d9a2",
-    "2409:4085:ae81:e6ff:6764:2fea:d6d3:58dc"
+    "2409:4085:ae81:e6ff:6764:2fea:d6d3:58dc",
+    "2401:4900:8843:41d7:ec34:9d2f:78a:dd06"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-14T16:44:12.578Z",
-      "ip": "80.211.133.129",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0250875:17:1",
-      "title": "tt0250875:17:1",
-      "timestamp": "2026-01-14T16:45:57.261Z",
-      "ip": "2409:40d0:c:4ad3:ccb5:29ff:fee3:e42",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt0250875:17:1",
-      "title": "tt0250875:17:1",
-      "timestamp": "2026-01-14T16:46:57.556Z",
-      "ip": "2409:40d0:c:4ad3:ccb5:29ff:fee3:e42",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt0250875:16:1",
-      "title": "tt0250875:16:1",
-      "timestamp": "2026-01-14T16:47:34.686Z",
-      "ip": "2409:40d0:c:4ad3:ccb5:29ff:fee3:e42",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "movie",
-      "id": "tt3501632",
-      "title": "Thor: Ragnarok",
-      "timestamp": "2026-01-14T16:47:36.818Z",
-      "ip": "2409:40c4:3107:ab1c:542f:94ff:fef1:b44f",
-      "username": "napsteerr"
-    },
     {
       "type": "series",
       "id": "tt12637874:2:4",
@@ -83718,6 +83679,46 @@
       "timestamp": "2026-01-25T17:53:01.915Z",
       "ip": "2409:4085:ae81:e6ff:6764:2fea:d6d3:58dc",
       "username": "katdenningssss"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-25T18:03:10.551Z",
+      "ip": "2a09:bac1:3680:120::23:48c",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "movie",
+      "id": "tt10638522",
+      "title": "Talk to Me",
+      "timestamp": "2026-01-25T18:07:05.834Z",
+      "ip": "2401:4900:8843:41d7:ec34:9d2f:78a:dd06",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt13863990",
+      "title": "tt13863990",
+      "timestamp": "2026-01-25T18:07:12.393Z",
+      "ip": "2401:4900:8843:41d7:ec34:9d2f:78a:dd06",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-25T18:07:17.408Z",
+      "ip": "2a09:bac1:3680:120::23:48c",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "movie",
+      "id": "tt10638522",
+      "title": "Talk to Me",
+      "timestamp": "2026-01-25T18:07:32.798Z",
+      "ip": "2401:4900:8843:41d7:ec34:9d2f:78a:dd06",
+      "username": "ryuzaklo26"
     }
   ],
   "activeNow": {
@@ -91388,10 +91389,10 @@
     },
     "2a09:bac1:3680:120::23:48c": {
       "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
       "username": "belimhuzaifa",
-      "lastActive": 1769362383951
+      "lastActive": 1769364437408
     },
     "103.79.168.109": {
       "type": "movie",
@@ -91413,6 +91414,13 @@
       "title": "28 Years Later",
       "username": "katdenningssss",
       "lastActive": 1769363581915
+    },
+    "2401:4900:8843:41d7:ec34:9d2f:78a:dd06": {
+      "type": "movie",
+      "id": "tt10638522",
+      "title": "Talk to Me",
+      "username": "ryuzaklo26",
+      "lastActive": 1769364452798
     }
   }
 }
