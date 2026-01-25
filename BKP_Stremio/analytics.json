@@ -1,5 +1,5 @@
 {
-  "totalViews": 16892,
+  "totalViews": 16896,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3703,41 +3703,10 @@
     "2405:201:6820:a0f5:bdef:55c1:5b2d:3408",
     "2409:40f0:241c:98ff:d061:fdff:fe1e:5856",
     "2401:4900:1cc4:1ecb:cc1b:7858:9b44:1f4e",
-    "2402:a00:10a:815f:e8c7:6d07:82de:3f7c"
+    "2402:a00:10a:815f:e8c7:6d07:82de:3f7c",
+    "2409:40d0:2a:e663:3cb6:5fff:fe8e:9374"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-14T12:58:30.865Z",
-      "ip": "2401:4900:8f56:8145:a1ae:1840:ce95:6e19",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt39227709",
-      "title": "tt39227709",
-      "timestamp": "2026-01-14T13:01:25.985Z",
-      "ip": "2401:4900:8f56:8145:a1ae:1840:ce95:6e19",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-14T13:04:51.644Z",
-      "ip": "2401:4900:8f56:8145:a1ae:1840:ce95:6e19",
-      "username": "redhat2199"
-    },
-    {
-      "type": "series",
-      "id": "tt39227709",
-      "title": "tt39227709",
-      "timestamp": "2026-01-14T13:05:54.229Z",
-      "ip": "2401:4900:8f56:8145:a1ae:1840:ce95:6e19",
-      "username": "redhat2199"
-    },
     {
       "type": "series",
       "id": "tt39227709",
@@ -83705,6 +83674,38 @@
       "timestamp": "2026-01-25T14:15:21.231Z",
       "ip": "2402:a00:10a:815f:e8c7:6d07:82de:3f7c",
       "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt0087928",
+      "title": "tt0087928",
+      "timestamp": "2026-01-25T14:17:05.179Z",
+      "ip": "2401:4900:1cc4:1ecb:cc1b:7858:9b44:1f4e",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt23572848",
+      "title": "tt23572848",
+      "timestamp": "2026-01-25T14:18:05.489Z",
+      "ip": "2405:201:6820:a0f5:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt7504726",
+      "title": "The Call of the Wild",
+      "timestamp": "2026-01-25T14:29:03.926Z",
+      "ip": "2409:40d0:2a:e663:3cb6:5fff:fe8e:9374",
+      "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt0454921",
+      "title": "The Pursuit of Happyness",
+      "timestamp": "2026-01-25T14:30:10.288Z",
+      "ip": "2409:40d0:2a:e663:3cb6:5fff:fe8e:9374",
+      "username": "magicmannn"
     }
   ],
   "activeNow": {
@@ -91284,10 +91285,10 @@
     },
     "2405:201:6820:a0f5:bdef:55c1:5b2d:3408": {
       "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
+      "id": "tt23572848",
+      "title": "tt23572848",
       "username": "demon18319",
-      "lastActive": 1769350472504
+      "lastActive": 1769350685489
     },
     "2409:40f0:241c:98ff:d061:fdff:fe1e:5856": {
       "type": "movie",
@@ -91298,10 +91299,10 @@
     },
     "2401:4900:1cc4:1ecb:cc1b:7858:9b44:1f4e": {
       "type": "movie",
-      "id": "tt30387012",
-      "title": "tt30387012",
+      "id": "tt0087928",
+      "title": "tt0087928",
       "username": "gaendaswami",
-      "lastActive": 1769350485528
+      "lastActive": 1769350625179
     },
     "2402:a00:10a:815f:e8c7:6d07:82de:3f7c": {
       "type": "movie",
@@ -91309,6 +91310,13 @@
       "title": "The Shadow's Edge",
       "username": "vflix1993",
       "lastActive": 1769350521231
+    },
+    "2409:40d0:2a:e663:3cb6:5fff:fe8e:9374": {
+      "type": "movie",
+      "id": "tt0454921",
+      "title": "The Pursuit of Happyness",
+      "username": "magicmannn",
+      "lastActive": 1769351410288
     }
   }
 }
