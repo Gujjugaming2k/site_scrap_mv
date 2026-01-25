@@ -1,5 +1,5 @@
 {
-  "totalViews": 16902,
+  "totalViews": 16905,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3708,30 +3708,6 @@
     "152.59.148.136"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4786824:2:4",
-      "title": "tt4786824:2:4",
-      "timestamp": "2026-01-14T13:19:13.044Z",
-      "ip": "2409:40e2:201d:6ab6:8000::",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt15387182",
-      "title": "tt15387182",
-      "timestamp": "2026-01-14T13:20:21.696Z",
-      "ip": "115.98.99.86",
-      "username": "nothing_8888"
-    },
-    {
-      "type": "movie",
-      "id": "tt15387182",
-      "title": "tt15387182",
-      "timestamp": "2026-01-14T13:21:00.149Z",
-      "ip": "115.98.99.86",
-      "username": "nothing_8888"
-    },
     {
       "type": "movie",
       "id": "tt37893389",
@@ -83707,6 +83683,30 @@
       "timestamp": "2026-01-25T14:42:41.322Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:6",
+      "title": "tt35335046:1:6",
+      "timestamp": "2026-01-25T14:56:35.472Z",
+      "ip": "103.181.65.77",
+      "username": "mutti9"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:6",
+      "title": "tt35335046:1:6",
+      "timestamp": "2026-01-25T14:57:02.770Z",
+      "ip": "103.181.65.77",
+      "username": "mutti9"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
+      "timestamp": "2026-01-25T14:57:05.620Z",
+      "ip": "103.181.65.77",
+      "username": "mutti9"
     }
   ],
   "activeNow": {
@@ -90985,10 +90985,10 @@
     },
     "103.181.65.77": {
       "type": "series",
-      "id": "tt35335046:1:6",
-      "title": "tt35335046:1:6",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
       "username": "mutti9",
-      "lastActive": 1769283603943
+      "lastActive": 1769353025620
     },
     "2401:4900:8820:8915:c304:d700:e822:8016,2a09:bac5:37ac:ebe::178:1c7": {
       "type": "series",
