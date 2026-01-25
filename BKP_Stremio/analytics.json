@@ -1,5 +1,5 @@
 {
-  "totalViews": 16750,
+  "totalViews": 16755,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3686,46 +3686,6 @@
     "2401:4900:1cb0:5cf4:b16f:5846:b858:637f"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt27534307",
-      "title": "Speak No Evil",
-      "timestamp": "2026-01-14T09:45:35.251Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt8709928:1:1",
-      "title": "tt8709928:1:1",
-      "timestamp": "2026-01-14T09:48:24.124Z",
-      "ip": "41.96.224.214",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt36812904:1:1",
-      "title": "tt36812904:1:1",
-      "timestamp": "2026-01-14T09:49:42.048Z",
-      "ip": "115.98.235.63",
-      "username": "insnaee99"
-    },
-    {
-      "type": "series",
-      "id": "tt11854694:1:1",
-      "title": "Special Ops",
-      "timestamp": "2026-01-14T09:51:36.701Z",
-      "ip": "115.98.235.63",
-      "username": "insnaee99"
-    },
-    {
-      "type": "movie",
-      "id": "tt31036941",
-      "title": "Jurassic World Rebirth",
-      "timestamp": "2026-01-14T09:57:30.101Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
     {
       "type": "movie",
       "id": "tt7131622",
@@ -83685,6 +83645,46 @@
       "timestamp": "2026-01-25T09:04:05.719Z",
       "ip": "115.98.235.4",
       "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:2",
+      "title": "Death Note",
+      "timestamp": "2026-01-25T09:12:44.974Z",
+      "ip": "2a09:bac5:3c91:1478::20a:48",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:2",
+      "title": "Death Note",
+      "timestamp": "2026-01-25T09:14:27.809Z",
+      "ip": "2a09:bac5:3c91:1478::20a:48",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:2",
+      "title": "Death Note",
+      "timestamp": "2026-01-25T09:14:28.249Z",
+      "ip": "2a09:bac5:3c91:1478::20a:48",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "movie",
+      "id": "tt30057084",
+      "title": "Babygirl",
+      "timestamp": "2026-01-25T09:21:17.330Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:4",
+      "title": "tt33035373:1:4",
+      "timestamp": "2026-01-25T09:22:16.863Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -83809,10 +83809,10 @@
     },
     "103.24.85.218": {
       "type": "series",
-      "id": "tt33035373:1:2",
-      "title": "tt33035373:1:2",
+      "id": "tt33035373:1:4",
+      "title": "tt33035373:1:4",
       "username": "william097",
-      "lastActive": 1769331603167
+      "lastActive": 1769332936863
     },
     "182.69.183.164": {
       "type": "series",
@@ -84466,11 +84466,11 @@
       "lastActive": 1769013974990
     },
     "203.192.255.46": {
-      "type": "series",
-      "id": "tt39313294:1:2",
-      "title": "tt39313294:1:2",
+      "type": "movie",
+      "id": "tt30057084",
+      "title": "Babygirl",
       "username": "chetan_b2",
-      "lastActive": 1769329448519
+      "lastActive": 1769332877330
     },
     "2402:a00:10a:815f:e6be:c8c8:7869:e727": {
       "type": "series",
@@ -91117,10 +91117,10 @@
     },
     "2a09:bac5:3c91:1478::20a:48": {
       "type": "series",
-      "id": "tt0417299:1:2",
-      "title": "Avatar: The Last Airbender",
+      "id": "tt0877057:1:2",
+      "title": "Death Note",
       "username": "belimhuzaifa",
-      "lastActive": 1769330464004
+      "lastActive": 1769332468249
     },
     "2409:40c1:3026:2b31:cc3e:c4ff:fe7d:6cfa": {
       "type": "series",
