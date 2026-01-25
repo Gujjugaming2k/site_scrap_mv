@@ -1,5 +1,5 @@
 {
-  "totalViews": 16793,
+  "totalViews": 16794,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3689,14 +3689,6 @@
     "146.70.102.204"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt9603208",
-      "title": "Mission: Impossible - The Final Reckoning",
-      "timestamp": "2026-01-14T10:40:00.110Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
     {
       "type": "series",
       "id": "tt1219024:1:2",
@@ -83688,6 +83680,14 @@
       "timestamp": "2026-01-25T10:21:54.511Z",
       "ip": "146.70.102.204",
       "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "timestamp": "2026-01-25T10:53:22.566Z",
+      "ip": "146.70.102.204",
+      "username": "belimhuzaifa"
     }
   ],
   "activeNow": {
@@ -91169,10 +91169,10 @@
     },
     "146.70.102.204": {
       "type": "series",
-      "id": "tt9813792:1:2",
-      "title": "tt9813792:1:2",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
       "username": "belimhuzaifa",
-      "lastActive": 1769336514511
+      "lastActive": 1769338402566
     }
   }
 }
