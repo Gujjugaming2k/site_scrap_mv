@@ -1,5 +1,5 @@
 {
-  "totalViews": 16635,
+  "totalViews": 16637,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3673,22 +3673,6 @@
     "2409:40f0:1033:5ec8:901c:b0ff:fea2:7863"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt23172090",
-      "title": "tt23172090",
-      "timestamp": "2026-01-14T08:09:16.875Z",
-      "ip": "152.59.148.30",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt28142095",
-      "title": "tt28142095",
-      "timestamp": "2026-01-14T08:11:52.749Z",
-      "ip": "2401:4900:b9f8:cdb4::29a0:c5da",
-      "username": "abhi231511"
-    },
     {
       "type": "series",
       "id": "tt14186672:2:1",
@@ -83672,6 +83656,22 @@
       "timestamp": "2026-01-25T04:59:03.281Z",
       "ip": "2409:40f0:1033:5ec8:901c:b0ff:fea2:7863",
       "username": "rick grimes"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-25T04:59:17.105Z",
+      "ip": "2409:40f0:1033:5ec8:901c:b0ff:fea2:7863",
+      "username": "rick grimes"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
+      "timestamp": "2026-01-25T04:59:30.629Z",
+      "ip": "2409:40f0:1033:5ec8:901c:b0ff:fea2:7863",
+      "username": "rick grimes"
     }
   ],
   "activeNow": {
@@ -91041,10 +91041,10 @@
     },
     "2409:40f0:1033:5ec8:901c:b0ff:fea2:7863": {
       "type": "series",
-      "id": "tt0388629:11:2",
-      "title": "tt0388629:11:2",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
       "username": "rick grimes",
-      "lastActive": 1769317143281
+      "lastActive": 1769317170629
     }
   }
 }
