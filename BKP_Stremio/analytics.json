@@ -1,5 +1,5 @@
 {
-  "totalViews": 16896,
+  "totalViews": 16902,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3704,57 +3704,10 @@
     "2409:40f0:241c:98ff:d061:fdff:fe1e:5856",
     "2401:4900:1cc4:1ecb:cc1b:7858:9b44:1f4e",
     "2402:a00:10a:815f:e8c7:6d07:82de:3f7c",
-    "2409:40d0:2a:e663:3cb6:5fff:fe8e:9374"
+    "2409:40d0:2a:e663:3cb6:5fff:fe8e:9374",
+    "152.59.148.136"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt39227709",
-      "title": "tt39227709",
-      "timestamp": "2026-01-14T13:06:27.573Z",
-      "ip": "2401:4900:8f56:8145:a1ae:1840:ce95:6e19",
-      "username": "redhat2199"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-14T13:07:03.432Z",
-      "ip": "2401:4900:8f56:8145:a1ae:1840:ce95:6e19",
-      "username": "redhat2199"
-    },
-    {
-      "type": "series",
-      "id": "tt0177443:1:1",
-      "title": "tt0177443:1:1",
-      "timestamp": "2026-01-14T13:08:38.185Z",
-      "ip": "2409:40f3:2086:170c:9469:be9b:80e0:dc45",
-      "username": "goatedbentennyson"
-    },
-    {
-      "type": "series",
-      "id": "tt0293734:1:1",
-      "title": "tt0293734:1:1",
-      "timestamp": "2026-01-14T13:11:27.927Z",
-      "ip": "157.51.235.8",
-      "username": "goatedbentennyson"
-    },
-    {
-      "type": "movie",
-      "id": "tt37893389",
-      "title": "tt37893389",
-      "timestamp": "2026-01-14T13:14:23.571Z",
-      "ip": "2401:4900:1c54:c0ce:b854:f186:c864:6e8a",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt37893389",
-      "title": "tt37893389",
-      "timestamp": "2026-01-14T13:14:23.886Z",
-      "ip": "2401:4900:1c54:c0ce:b854:f186:c864:6e8a,38.147.106.38",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt4786824:2:4",
@@ -83706,6 +83659,54 @@
       "timestamp": "2026-01-25T14:30:10.288Z",
       "ip": "2409:40d0:2a:e663:3cb6:5fff:fe8e:9374",
       "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt36616410",
+      "title": "tt36616410",
+      "timestamp": "2026-01-25T14:31:31.098Z",
+      "ip": "152.58.168.242",
+      "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt36616410",
+      "title": "tt36616410",
+      "timestamp": "2026-01-25T14:34:35.397Z",
+      "ip": "152.59.148.136",
+      "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt36616410",
+      "title": "tt36616410",
+      "timestamp": "2026-01-25T14:37:31.484Z",
+      "ip": "152.58.168.242",
+      "username": "nabakun"
+    },
+    {
+      "type": "series",
+      "id": "tt12324366:2:7",
+      "title": "tt12324366:2:7",
+      "timestamp": "2026-01-25T14:41:33.960Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt12324366:2:8",
+      "title": "tt12324366:2:8",
+      "timestamp": "2026-01-25T14:41:38.694Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt12324366:2:8",
+      "title": "tt12324366:2:8",
+      "timestamp": "2026-01-25T14:42:41.322Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -84487,11 +84488,11 @@
       "lastActive": 1769013974990
     },
     "203.192.255.46": {
-      "type": "movie",
-      "id": "tt30057084",
-      "title": "Babygirl",
+      "type": "series",
+      "id": "tt12324366:2:8",
+      "title": "tt12324366:2:8",
       "username": "chetan_b2",
-      "lastActive": 1769348930122
+      "lastActive": 1769352161322
     },
     "2402:a00:10a:815f:e6be:c8c8:7869:e727": {
       "type": "series",
@@ -90956,10 +90957,10 @@
     },
     "152.58.168.242": {
       "type": "movie",
-      "id": "tt34610311",
-      "title": "The Shadow's Edge",
+      "id": "tt36616410",
+      "title": "tt36616410",
       "username": "nabakun",
-      "lastActive": 1769274045043
+      "lastActive": 1769351851484
     },
     "49.36.116.123": {
       "type": "movie",
@@ -91317,6 +91318,13 @@
       "title": "The Pursuit of Happyness",
       "username": "magicmannn",
       "lastActive": 1769351410288
+    },
+    "152.59.148.136": {
+      "type": "movie",
+      "id": "tt36616410",
+      "title": "tt36616410",
+      "username": "nabakun",
+      "lastActive": 1769351675397
     }
   }
 }
