@@ -1,5 +1,5 @@
 {
-  "totalViews": 16580,
+  "totalViews": 16582,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3665,22 +3665,6 @@
     "2a09:bac5:3d14:11cd::1c6:13"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0328733:1:4",
-      "title": "tt0328733:1:4",
-      "timestamp": "2026-01-14T06:05:41.604Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt17069148:1:8",
-      "title": "tt17069148:1:8",
-      "timestamp": "2026-01-14T06:07:38.249Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt17069148:1:9",
@@ -83664,6 +83648,22 @@
       "timestamp": "2026-01-24T22:36:15.572Z",
       "ip": "2409:40f0:2416:32f9:ecc3:3eff:fe96:411b",
       "username": "sachinprem1"
+    },
+    {
+      "type": "series",
+      "id": "tt22185582:2:1",
+      "title": "tt22185582:2:1",
+      "timestamp": "2026-01-25T00:00:52.882Z",
+      "ip": "182.69.179.34",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt22185582:2:2",
+      "title": "tt22185582:2:2",
+      "timestamp": "2026-01-25T00:01:28.197Z",
+      "ip": "182.69.179.34",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -90018,10 +90018,10 @@
     },
     "182.69.179.34": {
       "type": "series",
-      "id": "tt0903747:5:14",
-      "title": "tt0903747:5:14",
+      "id": "tt22185582:2:2",
+      "title": "tt22185582:2:2",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769198261605
+      "lastActive": 1769299288197
     },
     "2607:f2c0:e78c:1110:c9c6:5fef:cd24:c9ef": {
       "type": "series",
