@@ -1,5 +1,5 @@
 {
-  "totalViews": 17098,
+  "totalViews": 17103,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3732,46 +3732,6 @@
     "2409:40d1:2501:dd2f:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12004706:2:3",
-      "title": "tt12004706:2:3",
-      "timestamp": "2026-01-14T18:16:35.256Z",
-      "ip": "2401:4900:8fdf:96e3:5086:1b92:5ca5:cdb4",
-      "username": "arjun2077"
-    },
-    {
-      "type": "movie",
-      "id": "tt1757678",
-      "title": "tt1757678",
-      "timestamp": "2026-01-14T18:16:35.789Z",
-      "ip": "2409:4085:aecf:6837:17ee:b6f8:380d:34a0",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "series",
-      "id": "tt0388629:1:58",
-      "title": "tt0388629:1:58",
-      "timestamp": "2026-01-14T18:16:39.340Z",
-      "ip": "2401:4900:8838:8908:15a8:5b1a:e015:c31b",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32423736",
-      "title": "tt32423736",
-      "timestamp": "2026-01-14T18:17:54.960Z",
-      "ip": "94.20.42.0",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt16311594",
-      "title": "F1",
-      "timestamp": "2026-01-14T18:19:22.751Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
     {
       "type": "series",
       "id": "tt0364845:16:19",
@@ -83731,6 +83691,46 @@
       "timestamp": "2026-01-25T23:34:30.341Z",
       "ip": "2409:40d1:2501:dd2f:8000::",
       "username": "vikrihan"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-25T23:40:28.901Z",
+      "ip": "2409:40d1:2501:dd2f:8000::",
+      "username": "vikrihan"
+    },
+    {
+      "type": "movie",
+      "id": "tt26684398",
+      "title": "SPY x FAMILY CODE: White",
+      "timestamp": "2026-01-25T23:41:15.107Z",
+      "ip": "2409:40d1:2501:dd2f:8000::",
+      "username": "vikrihan"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:14",
+      "title": "tt0903747:5:14",
+      "timestamp": "2026-01-25T23:49:59.532Z",
+      "ip": "182.69.179.34",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:14",
+      "title": "tt0903747:5:14",
+      "timestamp": "2026-01-25T23:52:24.262Z",
+      "ip": "182.69.179.34",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:13",
+      "title": "tt0903747:5:13",
+      "timestamp": "2026-01-25T23:52:25.955Z",
+      "ip": "182.69.179.34",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -90085,10 +90085,10 @@
     },
     "182.69.179.34": {
       "type": "series",
-      "id": "tt22185582:2:1",
-      "title": "tt22185582:2:1",
+      "id": "tt0903747:5:13",
+      "title": "tt0903747:5:13",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769325264572
+      "lastActive": 1769385145955
     },
     "2607:f2c0:e78c:1110:c9c6:5fef:cd24:c9ef": {
       "type": "series",
@@ -91512,11 +91512,11 @@
       "lastActive": 1769378561141
     },
     "2409:40d1:2501:dd2f:8000::": {
-      "type": "series",
-      "id": "tt4574334:4:2",
-      "title": "Stranger Things",
+      "type": "movie",
+      "id": "tt26684398",
+      "title": "SPY x FAMILY CODE: White",
       "username": "vikrihan",
-      "lastActive": 1769384070341
+      "lastActive": 1769384475107
     }
   }
 }
