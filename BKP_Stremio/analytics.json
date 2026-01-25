@@ -1,5 +1,5 @@
 {
-  "totalViews": 16648,
+  "totalViews": 16650,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3671,25 +3671,10 @@
     "94.156.30.10",
     "2401:4900:88b7:8fef:dc01:ffe9:f342:3672",
     "2409:40f0:1033:5ec8:901c:b0ff:fea2:7863",
-    "2a09:bac5:3c94:18c8::278:36"
+    "2a09:bac5:3c94:18c8::278:36",
+    "117.250.161.222"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt6604188",
-      "title": "TRON: Ares",
-      "timestamp": "2026-01-14T08:15:17.062Z",
-      "ip": "2409:40e4:1349:4b63:acdb:a8ff:fe56:44c0",
-      "username": "ig_sirmour"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-01-14T08:15:39.391Z",
-      "ip": "152.59.171.156",
-      "username": "cyberboy12321"
-    },
     {
       "type": "series",
       "id": "tt17069148:1:14",
@@ -83673,6 +83658,22 @@
       "timestamp": "2026-01-25T05:31:06.877Z",
       "ip": "2a09:bac5:3c94:18c8::278:36",
       "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-01-25T05:52:42.578Z",
+      "ip": "117.250.161.222",
+      "username": "iamblazen"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "timestamp": "2026-01-25T05:56:41.077Z",
+      "ip": "117.250.161.222",
+      "username": "iamblazen"
     }
   ],
   "activeNow": {
@@ -91053,6 +91054,13 @@
       "title": "tt27497448:1:2",
       "username": "belimhuzaifa",
       "lastActive": 1769319066877
+    },
+    "117.250.161.222": {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "username": "iamblazen",
+      "lastActive": 1769320601077
     }
   }
 }
