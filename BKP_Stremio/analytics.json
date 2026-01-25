@@ -1,5 +1,5 @@
 {
-  "totalViews": 16645,
+  "totalViews": 16648,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3674,30 +3674,6 @@
     "2a09:bac5:3c94:18c8::278:36"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0050083",
-      "title": "12 Angry Men",
-      "timestamp": "2026-01-14T08:13:53.866Z",
-      "ip": "152.59.148.30",
-      "username": "nabakun24"
-    },
-    {
-      "type": "series",
-      "id": "tt17069148:1:13",
-      "title": "tt17069148:1:13",
-      "timestamp": "2026-01-14T08:13:56.489Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt17069148:1:14",
-      "title": "tt17069148:1:14",
-      "timestamp": "2026-01-14T08:15:13.331Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
     {
       "type": "movie",
       "id": "tt6604188",
@@ -83673,6 +83649,30 @@
       "timestamp": "2026-01-25T05:27:12.751Z",
       "ip": "2a09:bac5:3c94:18c8::278:36",
       "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-01-25T05:29:57.117Z",
+      "ip": "2a09:bac5:3c94:18c8::278:36",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-01-25T05:30:01.541Z",
+      "ip": "2a09:bac5:3c94:18c8::278:36",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "timestamp": "2026-01-25T05:31:06.877Z",
+      "ip": "2a09:bac5:3c94:18c8::278:36",
+      "username": "belimhuzaifa"
     }
   ],
   "activeNow": {
@@ -91049,10 +91049,10 @@
     },
     "2a09:bac5:3c94:18c8::278:36": {
       "type": "series",
-      "id": "tt5753856:1:3",
-      "title": "tt5753856:1:3",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
       "username": "belimhuzaifa",
-      "lastActive": 1769318832751
+      "lastActive": 1769319066877
     }
   }
 }
