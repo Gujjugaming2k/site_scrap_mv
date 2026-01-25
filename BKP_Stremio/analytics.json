@@ -1,5 +1,5 @@
 {
-  "totalViews": 17037,
+  "totalViews": 17040,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3717,33 +3717,11 @@
     "103.79.168.109",
     "2405:201:2033:841:84f9:7d17:d8e6:d9a2",
     "2409:4085:ae81:e6ff:6764:2fea:d6d3:58dc",
-    "2401:4900:8843:41d7:ec34:9d2f:78a:dd06"
+    "2401:4900:8843:41d7:ec34:9d2f:78a:dd06",
+    "2401:4900:8ffe:bb3d:d481:ae38:102a:13b1",
+    "2409:40e1:301e:7e8a:4d55:783c:494a:da6b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12637874:2:4",
-      "title": "Fallout",
-      "timestamp": "2026-01-14T16:48:08.681Z",
-      "ip": "2600:1702:4a71:a80f:949f:59ce:8532:add4",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:2:5",
-      "title": "Fallout",
-      "timestamp": "2026-01-14T16:48:21.748Z",
-      "ip": "2600:1702:4a71:a80f:949f:59ce:8532:add4",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt12908150",
-      "title": "The Life of Chuck",
-      "timestamp": "2026-01-14T16:48:33.824Z",
-      "ip": "2409:40c4:3107:ab1c:542f:94ff:fef1:b44f",
-      "username": "napsteerr"
-    },
     {
       "type": "movie",
       "id": "tt22740896",
@@ -83719,6 +83697,30 @@
       "timestamp": "2026-01-25T18:07:32.798Z",
       "ip": "2401:4900:8843:41d7:ec34:9d2f:78a:dd06",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-25T18:10:56.556Z",
+      "ip": "2401:4900:8ffe:bb3d:d481:ae38:102a:13b1",
+      "username": "lazerkey"
+    },
+    {
+      "type": "movie",
+      "id": "tt6751668",
+      "title": "tt6751668",
+      "timestamp": "2026-01-25T18:12:47.373Z",
+      "ip": "2409:40e1:301e:7e8a:4d55:783c:494a:da6b",
+      "username": "jinwoooooi"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:2",
+      "title": "tt35335046:1:2",
+      "timestamp": "2026-01-25T18:12:59.409Z",
+      "ip": "2401:4900:8ffe:bb3d:d481:ae38:102a:13b1",
+      "username": "lazerkey"
     }
   ],
   "activeNow": {
@@ -91421,6 +91423,20 @@
       "title": "Talk to Me",
       "username": "ryuzaklo26",
       "lastActive": 1769364452798
+    },
+    "2401:4900:8ffe:bb3d:d481:ae38:102a:13b1": {
+      "type": "series",
+      "id": "tt35335046:1:2",
+      "title": "tt35335046:1:2",
+      "username": "lazerkey",
+      "lastActive": 1769364779409
+    },
+    "2409:40e1:301e:7e8a:4d55:783c:494a:da6b": {
+      "type": "movie",
+      "id": "tt6751668",
+      "title": "tt6751668",
+      "username": "jinwoooooi",
+      "lastActive": 1769364767373
     }
   }
 }
