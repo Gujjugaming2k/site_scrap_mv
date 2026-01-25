@@ -1,5 +1,5 @@
 {
-  "totalViews": 17093,
+  "totalViews": 17095,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3726,25 +3726,10 @@
     "181.197.125.40",
     "2401:4900:b485:fa5d:c03e:bdff:feb8:f4c0",
     "2a09:bac5:3af1:86e::d7:49",
-    "45.131.193.125"
+    "45.131.193.125",
+    "2409:40f0:2402:d34c:588a:95ff:fe39:8583"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt9543666:1:1",
-      "title": "tt9543666:1:1",
-      "timestamp": "2026-01-14T18:14:36.721Z",
-      "ip": "2402:3a80:196f:c906:e0d7:8aff:fed7:56c5",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0103874",
-      "title": "Bram Stoker's Dracula",
-      "timestamp": "2026-01-14T18:15:13.982Z",
-      "ip": "2409:4085:aecf:6837:17ee:b6f8:380d:34a0",
-      "username": "katdenningssss"
-    },
     {
       "type": "movie",
       "id": "tt6604188",
@@ -83728,6 +83713,22 @@
       "timestamp": "2026-01-25T20:37:57.879Z",
       "ip": "103.175.168.106",
       "username": "un0fficial_itachi"
+    },
+    {
+      "type": "movie",
+      "id": "tt6522546",
+      "title": "tt6522546",
+      "timestamp": "2026-01-25T21:49:00.795Z",
+      "ip": "2409:40f0:2402:d34c:588a:95ff:fe39:8583",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt6522546",
+      "title": "tt6522546",
+      "timestamp": "2026-01-25T21:49:18.333Z",
+      "ip": "2409:40f0:2402:d34c:588a:95ff:fe39:8583",
+      "username": "sachinprem1"
     }
   ],
   "activeNow": {
@@ -91493,6 +91494,13 @@
       "title": "tt35674970:1:1",
       "username": "theonlyfreak",
       "lastActive": 1769371973239
+    },
+    "2409:40f0:2402:d34c:588a:95ff:fe39:8583": {
+      "type": "movie",
+      "id": "tt6522546",
+      "title": "tt6522546",
+      "username": "sachinprem1",
+      "lastActive": 1769377758333
     }
   }
 }
