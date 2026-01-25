@@ -1,5 +1,5 @@
 {
-  "totalViews": 17095,
+  "totalViews": 17096,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3727,17 +3727,10 @@
     "2401:4900:b485:fa5d:c03e:bdff:feb8:f4c0",
     "2a09:bac5:3af1:86e::d7:49",
     "45.131.193.125",
-    "2409:40f0:2402:d34c:588a:95ff:fe39:8583"
+    "2409:40f0:2402:d34c:588a:95ff:fe39:8583",
+    "2401:4900:b570:d36f:b018:a6ff:fe7a:ae5c"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt6604188",
-      "title": "TRON: Ares",
-      "timestamp": "2026-01-14T18:15:46.796Z",
-      "ip": "2409:4085:aecf:6837:17ee:b6f8:380d:34a0",
-      "username": "katdenningssss"
-    },
     {
       "type": "series",
       "id": "tt0108757:4:7",
@@ -83729,6 +83722,14 @@
       "timestamp": "2026-01-25T21:49:18.333Z",
       "ip": "2409:40f0:2402:d34c:588a:95ff:fe39:8583",
       "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt2357926",
+      "title": "tt2357926",
+      "timestamp": "2026-01-25T22:02:41.141Z",
+      "ip": "2401:4900:b570:d36f:b018:a6ff:fe7a:ae5c",
+      "username": "adshoyi"
     }
   ],
   "activeNow": {
@@ -91501,6 +91502,13 @@
       "title": "tt6522546",
       "username": "sachinprem1",
       "lastActive": 1769377758333
+    },
+    "2401:4900:b570:d36f:b018:a6ff:fe7a:ae5c": {
+      "type": "movie",
+      "id": "tt2357926",
+      "title": "tt2357926",
+      "username": "adshoyi",
+      "lastActive": 1769378561141
     }
   }
 }
