@@ -1,5 +1,5 @@
 {
-  "totalViews": 16755,
+  "totalViews": 16761,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3683,57 +3683,10 @@
     "2409:40c1:3026:2b31:cc3e:c4ff:fe7d:6cfa",
     "2409:40f0:240d:2ea6:cac:58ff:fe05:b2fe",
     "115.98.235.4",
-    "2401:4900:1cb0:5cf4:b16f:5846:b858:637f"
+    "2401:4900:1cb0:5cf4:b16f:5846:b858:637f",
+    "2405:201:2033:841:a0e7:7b0c:a65c:7b67"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt7131622",
-      "title": "Once Upon a Time... in Hollywood",
-      "timestamp": "2026-01-14T09:59:10.063Z",
-      "ip": "2409:40e4:1359:8ada:c484:a2ff:fe49:926e",
-      "username": "ig_sirmour"
-    },
-    {
-      "type": "series",
-      "id": "tt39227709:1:1",
-      "title": "tt39227709:1:1",
-      "timestamp": "2026-01-14T10:00:59.907Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt39227709:1:2",
-      "title": "tt39227709:1:2",
-      "timestamp": "2026-01-14T10:01:17.404Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt39227709:1:2",
-      "title": "tt39227709:1:2",
-      "timestamp": "2026-01-14T10:01:27.542Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt9603208",
-      "title": "Mission: Impossible - The Final Reckoning",
-      "timestamp": "2026-01-14T10:07:11.750Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt16311594",
-      "title": "F1",
-      "timestamp": "2026-01-14T10:08:26.964Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
     {
       "type": "movie",
       "id": "tt31844586",
@@ -83685,6 +83638,54 @@
       "timestamp": "2026-01-25T09:22:16.863Z",
       "ip": "103.24.85.218",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt29383379",
+      "title": "tt29383379",
+      "timestamp": "2026-01-25T09:24:07.115Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt2137109:1:1",
+      "title": "tt2137109:1:1",
+      "timestamp": "2026-01-25T09:28:50.552Z",
+      "ip": "2405:201:2033:841:a0e7:7b0c:a65c:7b67",
+      "username": "surti_lala"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:6",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-25T09:32:15.668Z",
+      "ip": "2a09:bac5:3c91:1478::20a:48",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt9813792:1:1",
+      "title": "tt9813792:1:1",
+      "timestamp": "2026-01-25T09:33:42.839Z",
+      "ip": "2a09:bac5:3c91:1478::20a:48",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt9813792:1:2",
+      "title": "tt9813792:1:2",
+      "timestamp": "2026-01-25T09:35:42.926Z",
+      "ip": "2a09:bac5:3c91:1478::20a:48",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt9813792:1:2",
+      "title": "tt9813792:1:2",
+      "timestamp": "2026-01-25T09:36:43.933Z",
+      "ip": "2a09:bac5:3c91:1478::20a:48",
+      "username": "belimhuzaifa"
     }
   ],
   "activeNow": {
@@ -84354,11 +84355,11 @@
       "lastActive": 1769005864432
     },
     "38.134.138.246": {
-      "type": "series",
-      "id": "tt39313294:1:5",
-      "title": "tt39313294:1:5",
+      "type": "movie",
+      "id": "tt29383379",
+      "title": "tt29383379",
       "username": "thala_75",
-      "lastActive": 1769320968485
+      "lastActive": 1769333047115
     },
     "183.83.146.64": {
       "type": "series",
@@ -91117,10 +91118,10 @@
     },
     "2a09:bac5:3c91:1478::20a:48": {
       "type": "series",
-      "id": "tt0877057:1:2",
-      "title": "Death Note",
+      "id": "tt9813792:1:2",
+      "title": "tt9813792:1:2",
       "username": "belimhuzaifa",
-      "lastActive": 1769332468249
+      "lastActive": 1769333803933
     },
     "2409:40c1:3026:2b31:cc3e:c4ff:fe7d:6cfa": {
       "type": "series",
@@ -91149,6 +91150,13 @@
       "title": "tt28142095",
       "username": "saisrinivas",
       "lastActive": 1769331694914
+    },
+    "2405:201:2033:841:a0e7:7b0c:a65c:7b67": {
+      "type": "series",
+      "id": "tt2137109:1:1",
+      "title": "tt2137109:1:1",
+      "username": "surti_lala",
+      "lastActive": 1769333330552
     }
   }
 }
