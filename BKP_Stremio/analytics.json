@@ -1,5 +1,5 @@
 {
-  "totalViews": 17091,
+  "totalViews": 17092,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3725,17 +3725,10 @@
     "2409:40c2:2:74b9:acad:f7f5:3c3f:bc04",
     "181.197.125.40",
     "2401:4900:b485:fa5d:c03e:bdff:feb8:f4c0",
-    "2a09:bac5:3af1:86e::d7:49"
+    "2a09:bac5:3af1:86e::d7:49",
+    "45.131.193.125"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt7335184:1:1",
-      "title": "tt7335184:1:1",
-      "timestamp": "2026-01-14T18:13:00.322Z",
-      "ip": "103.123.235.122",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt8647400",
@@ -83727,6 +83720,14 @@
       "timestamp": "2026-01-25T19:58:02.729Z",
       "ip": "2409:40c2:2:74b9:acad:f7f5:3c3f:bc04",
       "username": "agentmj47"
+    },
+    {
+      "type": "series",
+      "id": "tt35674970:1:1",
+      "title": "tt35674970:1:1",
+      "timestamp": "2026-01-25T20:12:53.239Z",
+      "ip": "45.131.193.125",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -91485,6 +91486,13 @@
       "title": "tt38872297",
       "username": "switchoff009",
       "lastActive": 1769370766999
+    },
+    "45.131.193.125": {
+      "type": "series",
+      "id": "tt35674970:1:1",
+      "title": "tt35674970:1:1",
+      "username": "theonlyfreak",
+      "lastActive": 1769371973239
     }
   }
 }
