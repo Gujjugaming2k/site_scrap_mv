@@ -1,5 +1,5 @@
 {
-  "totalViews": 17082,
+  "totalViews": 17084,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3727,22 +3727,6 @@
     "2401:4900:b485:fa5d:c03e:bdff:feb8:f4c0"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt8962124:5:3",
-      "title": "tt8962124:5:3",
-      "timestamp": "2026-01-14T17:42:43.182Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "series",
-      "id": "tt38689878:1:1",
-      "title": "tt38689878:1:1",
-      "timestamp": "2026-01-14T17:47:10.291Z",
-      "ip": "2.50.199.25",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt28013708:1:1",
@@ -83726,6 +83710,22 @@
       "timestamp": "2026-01-25T19:27:11.685Z",
       "ip": "181.197.11.6",
       "username": "ymcinema"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-25T19:32:37.181Z",
+      "ip": "2401:4900:8ffe:bb3d:d481:ae38:102a:13b1",
+      "username": "lazerkey"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:2",
+      "title": "tt35335046:1:2",
+      "timestamp": "2026-01-25T19:32:55.010Z",
+      "ip": "2401:4900:8ffe:bb3d:d481:ae38:102a:13b1",
+      "username": "lazerkey"
     }
   ],
   "activeNow": {
@@ -91434,7 +91434,7 @@
       "id": "tt35335046:1:2",
       "title": "tt35335046:1:2",
       "username": "lazerkey",
-      "lastActive": 1769364779409
+      "lastActive": 1769369575010
     },
     "2409:40e1:301e:7e8a:4d55:783c:494a:da6b": {
       "type": "movie",
