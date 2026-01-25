@@ -1,5 +1,5 @@
 {
-  "totalViews": 16650,
+  "totalViews": 16656,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3672,57 +3672,10 @@
     "2401:4900:88b7:8fef:dc01:ffe9:f342:3672",
     "2409:40f0:1033:5ec8:901c:b0ff:fea2:7863",
     "2a09:bac5:3c94:18c8::278:36",
-    "117.250.161.222"
+    "117.250.161.222",
+    "2405:201:202d:d014:6cfa:417a:d821:10d7"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt17069148:1:14",
-      "title": "tt17069148:1:14",
-      "timestamp": "2026-01-14T08:16:01.533Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt17069148:1:15",
-      "title": "tt17069148:1:15",
-      "timestamp": "2026-01-14T08:16:06.346Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt17069148:1:15",
-      "title": "tt17069148:1:15",
-      "timestamp": "2026-01-14T08:16:11.589Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt17069148:1:16",
-      "title": "tt17069148:1:16",
-      "timestamp": "2026-01-14T08:16:16.679Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt17069148:1:16",
-      "title": "tt17069148:1:16",
-      "timestamp": "2026-01-14T08:16:23.136Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt17069148:1:17",
-      "title": "tt17069148:1:17",
-      "timestamp": "2026-01-14T08:16:27.070Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt17069148:1:17",
@@ -83674,6 +83627,54 @@
       "timestamp": "2026-01-25T05:56:41.077Z",
       "ip": "117.250.161.222",
       "username": "iamblazen"
+    },
+    {
+      "type": "series",
+      "id": "tt39313294:1:1",
+      "title": "tt39313294:1:1",
+      "timestamp": "2026-01-25T06:02:35.693Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt39313294:1:5",
+      "title": "tt39313294:1:5",
+      "timestamp": "2026-01-25T06:02:48.485Z",
+      "ip": "38.134.138.246",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt28961625",
+      "title": "tt28961625",
+      "timestamp": "2026-01-25T06:08:07.707Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt27263807",
+      "title": "tt27263807",
+      "timestamp": "2026-01-25T06:08:58.455Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:2:1",
+      "title": "tt19854762:2:1",
+      "timestamp": "2026-01-25T06:14:50.572Z",
+      "ip": "2405:201:202d:d014:6cfa:417a:d821:10d7",
+      "username": "explorerindia"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:2:2",
+      "title": "tt19854762:2:2",
+      "timestamp": "2026-01-25T06:15:11.772Z",
+      "ip": "2405:201:202d:d014:6cfa:417a:d821:10d7",
+      "username": "explorerindia"
     }
   ],
   "activeNow": {
@@ -83797,11 +83798,11 @@
       "lastActive": 1768977240703
     },
     "103.24.85.218": {
-      "type": "series",
-      "id": "tt33035373:1:2",
-      "title": "tt33035373:1:2",
+      "type": "movie",
+      "id": "tt27263807",
+      "title": "tt27263807",
       "username": "william097",
-      "lastActive": 1769308568661
+      "lastActive": 1769321338455
     },
     "182.69.183.164": {
       "type": "series",
@@ -84343,11 +84344,11 @@
       "lastActive": 1769005864432
     },
     "38.134.138.246": {
-      "type": "movie",
-      "id": "tt11581264",
-      "title": "tt11581264",
+      "type": "series",
+      "id": "tt39313294:1:5",
+      "title": "tt39313294:1:5",
       "username": "thala_75",
-      "lastActive": 1769190488613
+      "lastActive": 1769320968485
     },
     "183.83.146.64": {
       "type": "series",
@@ -91061,6 +91062,13 @@
       "title": "tt27497448:1:2",
       "username": "iamblazen",
       "lastActive": 1769320601077
+    },
+    "2405:201:202d:d014:6cfa:417a:d821:10d7": {
+      "type": "series",
+      "id": "tt19854762:2:2",
+      "title": "tt19854762:2:2",
+      "username": "explorerindia",
+      "lastActive": 1769321711772
     }
   }
 }
