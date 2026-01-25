@@ -1,5 +1,5 @@
 {
-  "totalViews": 16872,
+  "totalViews": 16873,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3695,17 +3695,10 @@
     "2401:4900:8820:8915:bcd6:2f85:3ccf:1efe,2a09:bac5:37ac:ebe::178:1c7",
     "2401:4900:6145:f2d3:58f:8554:f225:cee9",
     "2401:4900:6145:f2d3:df:c9ff:fee9:aa85",
-    "2405:201:202d:d014:1037:db31:53f0:de15"
+    "2405:201:202d:d014:1037:db31:53f0:de15",
+    "185.252.220.150"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt8946378",
-      "title": "tt8946378",
-      "timestamp": "2026-01-14T12:12:43.535Z",
-      "ip": "2401:4900:8509:2c10::39c2:b5e9",
-      "username": "baljeet_002"
-    },
     {
       "type": "movie",
       "id": "tt26439764",
@@ -83697,6 +83690,14 @@
       "timestamp": "2026-01-25T13:27:31.113Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt7504726",
+      "title": "The Call of the Wild",
+      "timestamp": "2026-01-25T13:35:24.382Z",
+      "ip": "185.252.220.150",
+      "username": "magicmannn"
     }
   ],
   "activeNow": {
@@ -91245,6 +91246,13 @@
       "title": "tt19854762:2:3",
       "username": "explorerindia",
       "lastActive": 1769347380856
+    },
+    "185.252.220.150": {
+      "type": "movie",
+      "id": "tt7504726",
+      "title": "The Call of the Wild",
+      "username": "magicmannn",
+      "lastActive": 1769348124382
     }
   }
 }
