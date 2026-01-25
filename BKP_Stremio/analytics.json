@@ -1,5 +1,5 @@
 {
-  "totalViews": 16586,
+  "totalViews": 16587,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3667,14 +3667,6 @@
     "2401:4900:cadf:8f44:5050:eff:fe7f:b27d"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt17069148:1:10",
-      "title": "tt17069148:1:10",
-      "timestamp": "2026-01-14T06:28:41.172Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt17069148:1:12",
@@ -83666,6 +83658,14 @@
       "timestamp": "2026-01-25T01:36:11.913Z",
       "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "timestamp": "2026-01-25T01:36:33.943Z",
+      "ip": "2401:4900:cadf:8f44:5050:eff:fe7f:b27d",
+      "username": "executeal"
     }
   ],
   "activeNow": {
@@ -90992,11 +90992,11 @@
       "lastActive": 1769304833306
     },
     "2401:4900:cadf:8f44:5050:eff:fe7f:b27d": {
-      "type": "series",
-      "id": "tt13616990:0:6",
-      "title": "Chainsaw Man",
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
       "username": "executeal",
-      "lastActive": 1769304933166
+      "lastActive": 1769304993943
     }
   }
 }
