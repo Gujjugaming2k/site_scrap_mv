@@ -1,5 +1,5 @@
 {
-  "totalViews": 17145,
+  "totalViews": 17158,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3736,113 +3736,11 @@
     "2401:4900:701a:3803:1037:8fff:fe5d:beac",
     "2402:a00:10a:815f:8dd7:2b74:e286:3c18",
     "2401:4900:8fe2:d6e9:f50a:146e:33a1:c883",
-    "2409:40f0:3195:d69d:58ab:c8ff:fe12:2660"
+    "2409:40f0:3195:d69d:58ab:c8ff:fe12:2660",
+    "2a09:bac5:3e77:1a8c::2a5:b2,2a09:bac5:37ac:ebe::178:1c7",
+    "2401:4900:8820:8915:22aa:a634:fbb0:ebdc,2a09:bac5:37ac:ebe::178:1c7"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12637874:2:5",
-      "title": "Fallout",
-      "timestamp": "2026-01-14T19:02:39.157Z",
-      "ip": "102.216.66.70",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:2:5",
-      "title": "Fallout",
-      "timestamp": "2026-01-14T19:03:20.941Z",
-      "ip": "102.216.66.70",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:2:5",
-      "title": "Fallout",
-      "timestamp": "2026-01-14T19:03:23.319Z",
-      "ip": "102.216.66.70",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0388629:1:60",
-      "title": "tt0388629:1:60",
-      "timestamp": "2026-01-14T19:03:41.434Z",
-      "ip": "2401:4900:8838:8908:15a8:5b1a:e015:c31b",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:2:5",
-      "title": "Fallout",
-      "timestamp": "2026-01-14T19:04:26.190Z",
-      "ip": "102.216.66.70",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:2:5",
-      "title": "Fallout",
-      "timestamp": "2026-01-14T19:04:29.346Z",
-      "ip": "102.216.66.70",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt12004706:2:3",
-      "title": "tt12004706:2:3",
-      "timestamp": "2026-01-14T19:05:24.126Z",
-      "ip": "2401:4900:8fdf:96e3:5086:1b92:5ca5:cdb4",
-      "username": "arjun2077"
-    },
-    {
-      "type": "series",
-      "id": "tt12004706:2:8",
-      "title": "tt12004706:2:8",
-      "timestamp": "2026-01-14T19:05:47.881Z",
-      "ip": "2401:4900:8fdf:96e3:5086:1b92:5ca5:cdb4",
-      "username": "arjun2077"
-    },
-    {
-      "type": "series",
-      "id": "tt12004706:3:1",
-      "title": "tt12004706:3:1",
-      "timestamp": "2026-01-14T19:06:04.650Z",
-      "ip": "2401:4900:8fdf:96e3:5086:1b92:5ca5:cdb4",
-      "username": "arjun2077"
-    },
-    {
-      "type": "series",
-      "id": "tt2661044:7:10",
-      "title": "tt2661044:7:10",
-      "timestamp": "2026-01-14T19:10:05.741Z",
-      "ip": "2a02:8428:ad10:ae01:c13c:4186:8388:4d9",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt29764006:1:5",
-      "title": "tt29764006:1:5",
-      "timestamp": "2026-01-14T19:17:58.237Z",
-      "ip": "103.181.65.39",
-      "username": "mutti9"
-    },
-    {
-      "type": "series",
-      "id": "tt29764006:1:5",
-      "title": "tt29764006:1:5",
-      "timestamp": "2026-01-14T19:17:58.321Z",
-      "ip": "103.181.65.39",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt29764006:1:6",
-      "title": "tt29764006:1:6",
-      "timestamp": "2026-01-14T19:18:15.206Z",
-      "ip": "103.181.65.39",
-      "username": "mutti9"
-    },
     {
       "type": "series",
       "id": "tt29764006:1:6",
@@ -83738,6 +83636,110 @@
       "timestamp": "2026-01-26T04:52:38.397Z",
       "ip": "2401:4900:8fe2:d6e9:f50a:146e:33a1:c883",
       "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt6604188",
+      "title": "TRON: Ares",
+      "timestamp": "2026-01-26T05:02:11.175Z",
+      "ip": "2409:40e6:2b:cb9a:c8ff:68ff:fe9c:6a90",
+      "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt1757678",
+      "title": "tt1757678",
+      "timestamp": "2026-01-26T05:02:11.883Z",
+      "ip": "2409:40e6:2b:cb9a:c8ff:68ff:fe9c:6a90",
+      "username": "nabakun"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-26T05:03:09.086Z",
+      "ip": "146.70.191.62",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-26T05:05:45.883Z",
+      "ip": "146.70.191.62",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "movie",
+      "id": "tt29638896",
+      "title": "tt29638896",
+      "timestamp": "2026-01-26T05:06:13.669Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:2",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-26T05:06:22.763Z",
+      "ip": "146.70.191.62",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-26T05:14:18.536Z",
+      "ip": "2a09:bac5:3e77:1a8c::2a5:b2,2a09:bac5:37ac:ebe::178:1c7",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt10795658:3:1",
+      "title": "Alice in Borderland",
+      "timestamp": "2026-01-26T05:14:37.094Z",
+      "ip": "2a09:bac5:3e77:1a8c::2a5:b2,2a09:bac5:37ac:ebe::178:1c7",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-26T05:14:39.006Z",
+      "ip": "2a09:bac5:3e77:1a8c::2a5:b2,2a09:bac5:37ac:ebe::178:1c7",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt10795658:3:2",
+      "title": "Alice in Borderland",
+      "timestamp": "2026-01-26T05:14:47.091Z",
+      "ip": "2a09:bac5:3e77:1a8c::2a5:b2,2a09:bac5:37ac:ebe::178:1c7",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt10795658:3:2",
+      "title": "Alice in Borderland",
+      "timestamp": "2026-01-26T05:14:52.396Z",
+      "ip": "2a09:bac5:3e77:1a8c::2a5:b2,2a09:bac5:37ac:ebe::178:1c7",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt10795658:3:3",
+      "title": "Alice in Borderland",
+      "timestamp": "2026-01-26T05:15:08.541Z",
+      "ip": "2a09:bac5:3e77:1a8c::2a5:b2,2a09:bac5:37ac:ebe::178:1c7",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt10795658:3:3",
+      "title": "Alice in Borderland",
+      "timestamp": "2026-01-26T05:17:11.683Z",
+      "ip": "2401:4900:8820:8915:22aa:a634:fbb0:ebdc,2a09:bac5:37ac:ebe::178:1c7",
+      "username": "anonymous_rare"
     }
   ],
   "activeNow": {
@@ -83862,10 +83864,10 @@
     },
     "103.24.85.218": {
       "type": "movie",
-      "id": "tt36815135",
-      "title": "tt36815135",
+      "id": "tt29638896",
+      "title": "tt29638896",
       "username": "william097",
-      "lastActive": 1769403043544
+      "lastActive": 1769403973669
     },
     "182.69.183.164": {
       "type": "series",
@@ -84338,10 +84340,10 @@
     },
     "146.70.191.62": {
       "type": "series",
-      "id": "tt1520211:11:1",
-      "title": "tt1520211:11:1",
+      "id": "tt0944947:1:2",
+      "title": "Game of Thrones",
       "username": "belimhuzaifa",
-      "lastActive": 1769004130378
+      "lastActive": 1769403982763
     },
     "2409:40c1:2152:cf60:f179:5a12:839e:b2c2": {
       "type": "movie",
@@ -90862,10 +90864,10 @@
     },
     "2409:40e6:2b:cb9a:c8ff:68ff:fe9c:6a90": {
       "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
+      "id": "tt1757678",
+      "title": "tt1757678",
       "username": "nabakun",
-      "lastActive": 1769358681021
+      "lastActive": 1769403731883
     },
     "2409:40d0:1396:245b:e8d4:25ff:fe27:4b99": {
       "type": "movie",
@@ -91573,6 +91575,20 @@
       "title": "tt27497448:1:3",
       "username": "hjbjkkfggjkjv",
       "lastActive": 1769402947947
+    },
+    "2a09:bac5:3e77:1a8c::2a5:b2,2a09:bac5:37ac:ebe::178:1c7": {
+      "type": "series",
+      "id": "tt10795658:3:3",
+      "title": "Alice in Borderland",
+      "username": "anonymous_rare",
+      "lastActive": 1769404508541
+    },
+    "2401:4900:8820:8915:22aa:a634:fbb0:ebdc,2a09:bac5:37ac:ebe::178:1c7": {
+      "type": "series",
+      "id": "tt10795658:3:3",
+      "title": "Alice in Borderland",
+      "username": "anonymous_rare",
+      "lastActive": 1769404631683
     }
   }
 }
