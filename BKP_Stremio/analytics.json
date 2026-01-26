@@ -1,5 +1,5 @@
 {
-  "totalViews": 17375,
+  "totalViews": 17379,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3754,41 +3754,10 @@
     "103.92.43.198",
     "2409:40d2:3050:5497:8000::",
     "106.219.121.14",
-    "2401:4900:add9:9672:2423:b3ff:fe9f:d4d2"
+    "2401:4900:add9:9672:2423:b3ff:fe9f:d4d2",
+    "2409:40c1:4038:5c8a:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4786824:2:5",
-      "title": "tt4786824:2:5",
-      "timestamp": "2026-01-15T08:53:41.324Z",
-      "ip": "49.42.203.126",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-15T08:57:42.597Z",
-      "ip": "2401:4900:8f54:2fa8:95b2:a984:c6b6:6ee8",
-      "username": "redhat2199"
-    },
-    {
-      "type": "series",
-      "id": "tt0364845:16:23",
-      "title": "tt0364845:16:23",
-      "timestamp": "2026-01-15T08:58:30.453Z",
-      "ip": "59.152.80.69",
-      "username": "sexhabibi"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-15T08:58:38.478Z",
-      "ip": "2401:4900:8f54:2fa8:95b2:a984:c6b6:6ee8",
-      "username": "redhat2199"
-    },
     {
       "type": "series",
       "id": "tt39227709",
@@ -83756,6 +83725,38 @@
       "timestamp": "2026-01-26T11:00:02.335Z",
       "ip": "146.70.102.204",
       "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:8:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-26T11:00:54.883Z",
+      "ip": "146.70.102.204",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:8:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-26T11:01:11.496Z",
+      "ip": "146.70.102.204",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:8:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-26T11:01:27.494Z",
+      "ip": "2409:40c1:4038:5c8a:8000::",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:8:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-26T11:01:54.223Z",
+      "ip": "2409:40c1:4038:5c8a:8000::",
+      "username": "belimhuzaifa"
     }
   ],
   "activeNow": {
@@ -91240,7 +91241,7 @@
       "id": "tt0944947:8:1",
       "title": "Game of Thrones",
       "username": "belimhuzaifa",
-      "lastActive": 1769425202335
+      "lastActive": 1769425271496
     },
     "157.50.125.205": {
       "type": "movie",
@@ -91724,6 +91725,13 @@
       "title": "Stranger Things",
       "username": "b1jju",
       "lastActive": 1769424960784
+    },
+    "2409:40c1:4038:5c8a:8000::": {
+      "type": "series",
+      "id": "tt0944947:8:1",
+      "title": "Game of Thrones",
+      "username": "belimhuzaifa",
+      "lastActive": 1769425314223
     }
   }
 }
