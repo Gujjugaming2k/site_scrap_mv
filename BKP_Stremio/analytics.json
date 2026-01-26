@@ -1,5 +1,5 @@
 {
-  "totalViews": 17246,
+  "totalViews": 17252,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3742,57 +3742,10 @@
     "2401:4900:8820:8915:c7dc:8515:f772:d497,2a09:bac5:37ac:ebe::178:1c7",
     "2409:40f0:3020:af5c:586e:acff:fe4f:d6f1",
     "2409:40d0:103d:d90b:a499:dbff:fe88:6022",
-    "152.58.122.53"
+    "152.58.122.53",
+    "49.43.33.19"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-15T02:57:15.423Z",
-      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt17543592:1:1",
-      "title": "tt17543592:1:1",
-      "timestamp": "2026-01-15T03:00:09.459Z",
-      "ip": "2409:40e0:101a:b77c:58cd:e5ff:fe11:4741",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
-      "timestamp": "2026-01-15T03:01:28.760Z",
-      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
-      "username": "demon18319"
-    },
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-15T03:01:29.736Z",
-      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt0369179:1:14",
-      "title": "tt0369179:1:14",
-      "timestamp": "2026-01-15T03:15:46.431Z",
-      "ip": "105.111.110.138",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt15464188",
-      "title": "tt15464188",
-      "timestamp": "2026-01-15T03:21:51.775Z",
-      "ip": "2401:4900:aaf3:8ef6:c404:f1e2:3f38:fbec",
-      "username": "vflix1993"
-    },
     {
       "type": "series",
       "id": "tt35335046:1:1",
@@ -83744,6 +83697,54 @@
       "timestamp": "2026-01-26T07:05:48.677Z",
       "ip": "27.6.114.125",
       "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt32612521:1:2",
+      "title": "tt32612521:1:2",
+      "timestamp": "2026-01-26T07:10:03.029Z",
+      "ip": "27.6.114.125",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt32612521:1:1",
+      "title": "tt32612521:1:1",
+      "timestamp": "2026-01-26T07:12:20.889Z",
+      "ip": "27.6.114.125",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt32612521:1:2",
+      "title": "tt32612521:1:2",
+      "timestamp": "2026-01-26T07:13:02.226Z",
+      "ip": "27.6.114.125",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt32612521:1:2",
+      "title": "tt32612521:1:2",
+      "timestamp": "2026-01-26T07:15:48.570Z",
+      "ip": "27.6.114.125",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt32612521:1:1",
+      "title": "tt32612521:1:1",
+      "timestamp": "2026-01-26T07:15:54.427Z",
+      "ip": "27.6.114.125",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt2531336:2:5",
+      "title": "tt2531336:2:5",
+      "timestamp": "2026-01-26T07:17:59.384Z",
+      "ip": "49.43.33.19",
+      "username": "surti_lala"
     }
   ],
   "activeNow": {
@@ -83959,10 +83960,10 @@
     },
     "27.6.114.125": {
       "type": "series",
-      "id": "tt32612521:1:2",
-      "title": "tt32612521:1:2",
+      "id": "tt32612521:1:1",
+      "title": "tt32612521:1:1",
       "username": "nothing_8888",
-      "lastActive": 1769411148677
+      "lastActive": 1769411754427
     },
     "2401:4900:5978:ee92::e27:e73a": {
       "type": "series",
@@ -91621,6 +91622,13 @@
       "title": "tt32536168:1:3",
       "username": "magicmannn",
       "lastActive": 1769406534202
+    },
+    "49.43.33.19": {
+      "type": "series",
+      "id": "tt2531336:2:5",
+      "title": "tt2531336:2:5",
+      "username": "surti_lala",
+      "lastActive": 1769411879384
     }
   }
 }
