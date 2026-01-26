@@ -1,5 +1,5 @@
 {
-  "totalViews": 17141,
+  "totalViews": 17145,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3735,41 +3735,10 @@
     "2409:40e6:256:d5a4:880:8cb2:e2f7:e594",
     "2401:4900:701a:3803:1037:8fff:fe5d:beac",
     "2402:a00:10a:815f:8dd7:2b74:e286:3c18",
-    "2401:4900:8fe2:d6e9:f50a:146e:33a1:c883"
+    "2401:4900:8fe2:d6e9:f50a:146e:33a1:c883",
+    "2409:40f0:3195:d69d:58ab:c8ff:fe12:2660"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1399664:2:3",
-      "title": "tt1399664:2:3",
-      "timestamp": "2026-01-14T18:58:50.658Z",
-      "ip": "103.216.223.41",
-      "username": "golu_18vk"
-    },
-    {
-      "type": "series",
-      "id": "tt7587890:8:2",
-      "title": "tt7587890:8:2",
-      "timestamp": "2026-01-14T19:00:42.889Z",
-      "ip": "80.192.52.146",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
-      "timestamp": "2026-01-14T19:00:57.244Z",
-      "ip": "103.216.223.41",
-      "username": "golu_18vk"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:2:4",
-      "title": "Fallout",
-      "timestamp": "2026-01-14T19:02:27.981Z",
-      "ip": "102.216.66.70",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt12637874:2:5",
@@ -83737,6 +83706,38 @@
       "timestamp": "2026-01-26T04:45:00.618Z",
       "ip": "2401:4900:8fe2:d6e9:f50a:146e:33a1:c883",
       "username": "ashwanileon"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "timestamp": "2026-01-26T04:47:59.042Z",
+      "ip": "2409:40f0:3195:d69d:58ab:c8ff:fe12:2660",
+      "username": "hjbjkkfggjkjv"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:3",
+      "title": "tt27497448:1:3",
+      "timestamp": "2026-01-26T04:49:07.947Z",
+      "ip": "2409:40f0:3195:d69d:58ab:c8ff:fe12:2660",
+      "username": "hjbjkkfggjkjv"
+    },
+    {
+      "type": "movie",
+      "id": "tt36815135",
+      "title": "tt36815135",
+      "timestamp": "2026-01-26T04:50:43.544Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-26T04:52:38.397Z",
+      "ip": "2401:4900:8fe2:d6e9:f50a:146e:33a1:c883",
+      "username": "ashwanileon"
     }
   ],
   "activeNow": {
@@ -83860,11 +83861,11 @@
       "lastActive": 1768977240703
     },
     "103.24.85.218": {
-      "type": "series",
-      "id": "tt35674970:1:2",
-      "title": "tt35674970:1:2",
+      "type": "movie",
+      "id": "tt36815135",
+      "title": "tt36815135",
       "username": "william097",
-      "lastActive": 1769401758556
+      "lastActive": 1769403043544
     },
     "182.69.183.164": {
       "type": "series",
@@ -91561,10 +91562,17 @@
     },
     "2401:4900:8fe2:d6e9:f50a:146e:33a1:c883": {
       "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
+      "id": "tt31227572",
+      "title": "tt31227572",
       "username": "ashwanileon",
-      "lastActive": 1769402700618
+      "lastActive": 1769403158397
+    },
+    "2409:40f0:3195:d69d:58ab:c8ff:fe12:2660": {
+      "type": "series",
+      "id": "tt27497448:1:3",
+      "title": "tt27497448:1:3",
+      "username": "hjbjkkfggjkjv",
+      "lastActive": 1769402947947
     }
   }
 }
