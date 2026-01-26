@@ -1,5 +1,5 @@
 {
-  "totalViews": 17122,
+  "totalViews": 17124,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3729,25 +3729,10 @@
     "45.131.193.125",
     "2409:40f0:2402:d34c:588a:95ff:fe39:8583",
     "2401:4900:b570:d36f:b018:a6ff:fe7a:ae5c",
-    "2409:40d1:2501:dd2f:8000::"
+    "2409:40d1:2501:dd2f:8000::",
+    "27.60.11.57"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt15026724:1:14",
-      "title": "tt15026724:1:14",
-      "timestamp": "2026-01-14T18:29:08.804Z",
-      "ip": "82.66.125.144",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt16311594",
-      "title": "F1",
-      "timestamp": "2026-01-14T18:32:23.035Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
     {
       "type": "movie",
       "id": "tt27543632",
@@ -83731,6 +83716,22 @@
       "timestamp": "2026-01-26T01:43:51.774Z",
       "ip": "202.88.248.175",
       "username": "deepak"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:6",
+      "title": "tt33035373:1:6",
+      "timestamp": "2026-01-26T02:00:49.628Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:6",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-26T02:01:15.262Z",
+      "ip": "27.60.11.57",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -83858,7 +83859,7 @@
       "id": "tt33035373:1:6",
       "title": "tt33035373:1:6",
       "username": "william097",
-      "lastActive": 1769390157117
+      "lastActive": 1769392849628
     },
     "182.69.183.164": {
       "type": "series",
@@ -91517,6 +91518,13 @@
       "title": "SPY x FAMILY CODE: White",
       "username": "vikrihan",
       "lastActive": 1769384475107
+    },
+    "27.60.11.57": {
+      "type": "series",
+      "id": "tt4574334:1:6",
+      "title": "Stranger Things",
+      "username": "b1jju",
+      "lastActive": 1769392875262
     }
   }
 }
