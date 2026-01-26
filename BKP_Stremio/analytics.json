@@ -1,5 +1,5 @@
 {
-  "totalViews": 17706,
+  "totalViews": 17707,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3812,17 +3812,10 @@
     "2401:4900:1c54:4fa0:5d53:1677:48be:71b7",
     "146.70.102.182",
     "152.59.203.222",
-    "82.17.152.146"
+    "82.17.152.146",
+    "185.198.240.217"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2661044:7:13",
-      "title": "tt2661044:7:13",
-      "timestamp": "2026-01-15T18:38:15.815Z",
-      "ip": "2a02:8428:ad10:ae01:c13c:4186:8388:4d9",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt21272942",
@@ -83814,6 +83807,14 @@
       "timestamp": "2026-01-26T20:44:22.289Z",
       "ip": "182.69.179.34",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt0088247",
+      "title": "The Terminator",
+      "timestamp": "2026-01-26T21:58:23.334Z",
+      "ip": "185.198.240.217",
+      "username": "sergio_leone96"
     }
   ],
   "activeNow": {
@@ -84201,6 +84202,13 @@
       "title": "tt28142095",
       "username": "zindha",
       "lastActive": 1769459139393
+    },
+    "185.198.240.217": {
+      "type": "movie",
+      "id": "tt0088247",
+      "title": "The Terminator",
+      "username": "sergio_leone96",
+      "lastActive": 1769464703334
     }
   }
 }
