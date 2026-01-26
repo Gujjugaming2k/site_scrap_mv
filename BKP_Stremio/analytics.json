@@ -1,5 +1,5 @@
 {
-  "totalViews": 17707,
+  "totalViews": 17711,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3813,41 +3813,11 @@
     "146.70.102.182",
     "152.59.203.222",
     "82.17.152.146",
-    "185.198.240.217"
+    "185.198.240.217",
+    "2a09:bac5:3c94:25c3::3c3:43",
+    "2409:40f0:2414:10d3:4805:b0ff:fe08:6bf4"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt21272942",
-      "title": "tt21272942",
-      "timestamp": "2026-01-15T18:48:40.520Z",
-      "ip": "103.181.65.39",
-      "username": "mutti9"
-    },
-    {
-      "type": "movie",
-      "id": "tt21272942",
-      "title": "tt21272942",
-      "timestamp": "2026-01-15T18:48:40.601Z",
-      "ip": "103.181.65.39",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt14364480",
-      "title": "tt14364480",
-      "timestamp": "2026-01-15T18:48:43.803Z",
-      "ip": "2401:4900:8fdf:96e3:c9bf:8510:2eaf:93f2",
-      "username": "arjun2077"
-    },
-    {
-      "type": "movie",
-      "id": "tt3390572",
-      "title": "tt3390572",
-      "timestamp": "2026-01-15T18:50:05.575Z",
-      "ip": "103.4.220.252",
-      "username": "sexhabibi"
-    },
     {
       "type": "movie",
       "id": "tt27543632",
@@ -83815,6 +83785,38 @@
       "timestamp": "2026-01-26T21:58:23.334Z",
       "ip": "185.198.240.217",
       "username": "sergio_leone96"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:1:1",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-26T23:13:48.112Z",
+      "ip": "2a09:bac5:3c94:25c3::3c3:43",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt2560140:1:1",
+      "title": "tt2560140:1:1",
+      "timestamp": "2026-01-26T23:14:07.278Z",
+      "ip": "2a09:bac5:3c94:25c3::3c3:43",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "movie",
+      "id": "tt6522546",
+      "title": "tt6522546",
+      "timestamp": "2026-01-26T23:20:24.975Z",
+      "ip": "2409:40f0:2414:10d3:4805:b0ff:fe08:6bf4",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt6522546",
+      "title": "tt6522546",
+      "timestamp": "2026-01-26T23:21:24.505Z",
+      "ip": "2409:40f0:2414:10d3:4805:b0ff:fe08:6bf4",
+      "username": "sachinprem1"
     }
   ],
   "activeNow": {
@@ -84209,6 +84211,20 @@
       "title": "The Terminator",
       "username": "sergio_leone96",
       "lastActive": 1769464703334
+    },
+    "2a09:bac5:3c94:25c3::3c3:43": {
+      "type": "series",
+      "id": "tt2560140:1:1",
+      "title": "tt2560140:1:1",
+      "username": "belimhuzaifa",
+      "lastActive": 1769469247278
+    },
+    "2409:40f0:2414:10d3:4805:b0ff:fe08:6bf4": {
+      "type": "movie",
+      "id": "tt6522546",
+      "title": "tt6522546",
+      "username": "sachinprem1",
+      "lastActive": 1769469684505
     }
   }
 }
