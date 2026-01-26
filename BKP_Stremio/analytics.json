@@ -1,5 +1,5 @@
 {
-  "totalViews": 17379,
+  "totalViews": 17381,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3758,22 +3758,6 @@
     "2409:40c1:4038:5c8a:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt39227709",
-      "title": "tt39227709",
-      "timestamp": "2026-01-15T08:59:20.249Z",
-      "ip": "2401:4900:8f54:2fa8:95b2:a984:c6b6:6ee8",
-      "username": "redhat2199"
-    },
-    {
-      "type": "movie",
-      "id": "tt22022452",
-      "title": "Inside Out 2",
-      "timestamp": "2026-01-15T08:59:51.451Z",
-      "ip": "2401:4900:8f54:2fa8:95b2:a984:c6b6:6ee8",
-      "username": "redhat2199"
-    },
     {
       "type": "movie",
       "id": "tt14539740",
@@ -83757,6 +83741,22 @@
       "timestamp": "2026-01-26T11:01:54.223Z",
       "ip": "2409:40c1:4038:5c8a:8000::",
       "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-26T11:17:16.105Z",
+      "ip": "2409:40c1:4038:5c8a:8000::",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt12125238:1:4",
+      "title": "tt12125238:1:4",
+      "timestamp": "2026-01-26T11:20:24.404Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -83797,10 +83797,10 @@
     },
     "139.5.196.103": {
       "type": "series",
-      "id": "tt12125238:1:3",
-      "title": "tt12125238:1:3",
+      "id": "tt12125238:1:4",
+      "title": "tt12125238:1:4",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769424499208
+      "lastActive": 1769426424404
     },
     "202.179.159.154": {
       "type": "series",
@@ -91728,10 +91728,10 @@
     },
     "2409:40c1:4038:5c8a:8000::": {
       "type": "series",
-      "id": "tt0944947:8:1",
+      "id": "tt0944947:1:1",
       "title": "Game of Thrones",
       "username": "belimhuzaifa",
-      "lastActive": 1769425314223
+      "lastActive": 1769426236105
     }
   }
 }
