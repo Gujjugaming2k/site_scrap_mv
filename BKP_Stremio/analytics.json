@@ -1,5 +1,5 @@
 {
-  "totalViews": 17441,
+  "totalViews": 17444,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3763,33 +3763,11 @@
     "2401:4900:55b0:425f:9cb0:24ff:fe88:ffc8",
     "146.70.255.143",
     "47.11.101.39",
-    "2401:4900:8fe2:d6e9:dac9:431d:63a7:4929"
+    "2401:4900:8fe2:d6e9:dac9:431d:63a7:4929",
+    "2401:4900:ac1d:e657:e4aa:df17:47d:da97",
+    "49.42.55.0"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt28299608:1:1",
-      "title": "tt28299608:1:1",
-      "timestamp": "2026-01-15T10:54:05.961Z",
-      "ip": "182.77.76.8",
-      "username": "thebatmanbyte"
-    },
-    {
-      "type": "series",
-      "id": "tt11198330:1:2",
-      "title": "House of the Dragon",
-      "timestamp": "2026-01-15T10:57:06.168Z",
-      "ip": "182.77.76.8",
-      "username": "thebatmanbyte"
-    },
-    {
-      "type": "series",
-      "id": "tt11198330:1:2",
-      "title": "House of the Dragon",
-      "timestamp": "2026-01-15T10:58:07.582Z",
-      "ip": "182.77.76.8",
-      "username": "thebatmanbyte"
-    },
     {
       "type": "movie",
       "id": "tt27441481",
@@ -83765,6 +83743,30 @@
       "timestamp": "2026-01-26T13:00:26.219Z",
       "ip": "202.173.124.12",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt21195490:1:1",
+      "title": "tt21195490:1:1",
+      "timestamp": "2026-01-26T13:05:20.586Z",
+      "ip": "2401:4900:ac1d:e657:e4aa:df17:47d:da97",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt21195490:1:2",
+      "title": "tt21195490:1:2",
+      "timestamp": "2026-01-26T13:05:40.101Z",
+      "ip": "2401:4900:ac1d:e657:e4aa:df17:47d:da97",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt30387012",
+      "title": "tt30387012",
+      "timestamp": "2026-01-26T13:06:00.142Z",
+      "ip": "49.42.55.0",
+      "username": "katdenningssss"
     }
   ],
   "activeNow": {
@@ -91796,6 +91798,20 @@
       "title": "tt32642706",
       "username": "ashwanileon",
       "lastActive": 1769432260175
+    },
+    "2401:4900:ac1d:e657:e4aa:df17:47d:da97": {
+      "type": "series",
+      "id": "tt21195490:1:2",
+      "title": "tt21195490:1:2",
+      "username": "vflix1993",
+      "lastActive": 1769432740101
+    },
+    "49.42.55.0": {
+      "type": "movie",
+      "id": "tt30387012",
+      "title": "tt30387012",
+      "username": "katdenningssss",
+      "lastActive": 1769432760142
     }
   }
 }
