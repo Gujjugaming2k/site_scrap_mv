@@ -1,5 +1,5 @@
 {
-  "totalViews": 17408,
+  "totalViews": 17414,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3758,57 +3758,10 @@
     "2409:40c1:4038:5c8a:8000::",
     "103.38.204.178",
     "2401:4900:1cb0:5cf4:3d4c:5133:1ca9:a122",
-    "2405:201:203e:b01c:801d:a7c3:4b3c:5c10"
+    "2405:201:203e:b01c:801d:a7c3:4b3c:5c10",
+    "2405:201:203e:b01c:c31:815a:dd9:c84c"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt29606526",
-      "title": "tt29606526",
-      "timestamp": "2026-01-15T10:14:15.747Z",
-      "ip": "104.28.241.158,51.89.197.91",
-      "username": "angrybirdsneha"
-    },
-    {
-      "type": "movie",
-      "id": "tt29606526",
-      "title": "tt29606526",
-      "timestamp": "2026-01-15T10:16:23.500Z",
-      "ip": "104.28.241.158,51.89.197.91",
-      "username": "switchoff0099"
-    },
-    {
-      "type": "movie",
-      "id": "tt29606526",
-      "title": "tt29606526",
-      "timestamp": "2026-01-15T10:17:07.602Z",
-      "ip": "104.28.241.158,51.89.197.91",
-      "username": "switchoff0099"
-    },
-    {
-      "type": "movie",
-      "id": "tt29606526",
-      "title": "tt29606526",
-      "timestamp": "2026-01-15T10:21:05.003Z",
-      "ip": "104.28.241.157,51.89.197.91",
-      "username": "angrybirdsneha"
-    },
-    {
-      "type": "movie",
-      "id": "tt29606526",
-      "title": "tt29606526",
-      "timestamp": "2026-01-15T10:21:32.664Z",
-      "ip": "104.28.241.157,51.89.197.91",
-      "username": "angrybirdsneha"
-    },
-    {
-      "type": "movie",
-      "id": "tt1226837",
-      "title": "tt1226837",
-      "timestamp": "2026-01-15T10:22:43.906Z",
-      "ip": "2405:201:6820:a83c:50dc:306e:e8b1:7245",
-      "username": "demon18319"
-    },
     {
       "type": "movie",
       "id": "tt29606526",
@@ -83760,6 +83713,54 @@
       "timestamp": "2026-01-26T12:14:03.833Z",
       "ip": "202.173.124.12",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-26T12:17:34.166Z",
+      "ip": "2405:201:203e:b01c:801d:a7c3:4b3c:5c10",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-26T12:17:35.436Z",
+      "ip": "2405:201:203e:b01c:801d:a7c3:4b3c:5c10",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:3",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-26T12:17:37.727Z",
+      "ip": "2405:201:203e:b01c:801d:a7c3:4b3c:5c10",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:3",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-26T12:19:10.991Z",
+      "ip": "2405:201:203e:b01c:c31:815a:dd9:c84c",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:4",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-26T12:20:25.923Z",
+      "ip": "2405:201:203e:b01c:c31:815a:dd9:c84c",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-26T12:21:30.159Z",
+      "ip": "2405:201:203e:b01c:801d:a7c3:4b3c:5c10",
+      "username": "pingmenoone"
     }
   ],
   "activeNow": {
@@ -91752,10 +91753,17 @@
     },
     "2405:201:203e:b01c:801d:a7c3:4b3c:5c10": {
       "type": "series",
-      "id": "tt4574334:5:2",
+      "id": "tt4574334:5:8",
       "title": "Stranger Things",
       "username": "pingmenoone",
-      "lastActive": 1769429283776
+      "lastActive": 1769430090159
+    },
+    "2405:201:203e:b01c:c31:815a:dd9:c84c": {
+      "type": "series",
+      "id": "tt4574334:5:4",
+      "title": "Stranger Things",
+      "username": "pingmenoone",
+      "lastActive": 1769430025923
     }
   }
 }
