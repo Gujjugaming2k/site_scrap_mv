@@ -1,5 +1,5 @@
 {
-  "totalViews": 17701,
+  "totalViews": 17702,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3814,14 +3814,6 @@
     "152.59.203.222"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12324366:1:1",
-      "title": "tt12324366:1:1",
-      "timestamp": "2026-01-15T18:24:34.450Z",
-      "ip": "2401:4900:8fdf:96e3:c9bf:8510:2eaf:93f2",
-      "username": "arjun2077"
-    },
     {
       "type": "series",
       "id": "tt12324366:1:2",
@@ -83813,6 +83805,14 @@
       "timestamp": "2026-01-26T18:50:39.514Z",
       "ip": "2409:40f0:1d:570d:ec9a:ff:fe15:21dd",
       "username": "rick grimes"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:15",
+      "title": "tt0903747:5:15",
+      "timestamp": "2026-01-26T19:48:30.821Z",
+      "ip": "182.69.179.34",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -84179,6 +84179,13 @@
       "title": "tt0388629:6:1",
       "username": "rick grimes",
       "lastActive": 1769452666550
+    },
+    "182.69.179.34": {
+      "type": "series",
+      "id": "tt0903747:5:15",
+      "title": "tt0903747:5:15",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1769456910821
     }
   }
 }
