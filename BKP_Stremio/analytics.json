@@ -1,5 +1,5 @@
 {
-  "totalViews": 17711,
+  "totalViews": 17712,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3818,14 +3818,6 @@
     "2409:40f0:2414:10d3:4805:b0ff:fe08:6bf4"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-01-15T18:55:10.568Z",
-      "ip": "105.103.251.182",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt5886440",
@@ -83817,6 +83809,14 @@
       "timestamp": "2026-01-26T23:21:24.505Z",
       "ip": "2409:40f0:2414:10d3:4805:b0ff:fe08:6bf4",
       "username": "sachinprem1"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:16",
+      "title": "tt0903747:5:16",
+      "timestamp": "2026-01-26T23:50:17.127Z",
+      "ip": "182.69.179.34",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -84189,7 +84189,7 @@
       "id": "tt0903747:5:16",
       "title": "tt0903747:5:16",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769460262289
+      "lastActive": 1769471417127
     },
     "82.17.152.146": {
       "type": "series",
