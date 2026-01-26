@@ -1,5 +1,5 @@
 {
-  "totalViews": 17355,
+  "totalViews": 17361,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3751,57 +3751,10 @@
     "152.59.15.87",
     "2405:201:900f:a92b:a862:fbbf:d1a:4238",
     "103.214.60.226",
-    "103.92.43.198"
+    "103.92.43.198",
+    "2409:40d2:3050:5497:8000::"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt6580564",
-      "title": "tt6580564",
-      "timestamp": "2026-01-15T08:32:17.900Z",
-      "ip": "104.28.209.158,51.89.197.91",
-      "username": "switchoff0099"
-    },
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-15T08:32:35.342Z",
-      "ip": "2401:4900:8fe3:e178:fdfa:d7d9:4f7e:5295",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "movie",
-      "id": "tt1734110",
-      "title": "tt1734110",
-      "timestamp": "2026-01-15T08:34:41.670Z",
-      "ip": "104.28.241.157,51.89.197.91",
-      "username": "switchoff0099"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-15T08:34:44.671Z",
-      "ip": "2401:4900:8fe3:e178:fdfa:d7d9:4f7e:5295",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "movie",
-      "id": "tt37893389",
-      "title": "tt37893389",
-      "timestamp": "2026-01-15T08:34:57.729Z",
-      "ip": "182.69.179.223",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt22740896",
-      "title": "tt22740896",
-      "timestamp": "2026-01-15T08:35:48.608Z",
-      "ip": "182.69.179.223",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "movie",
       "id": "tt33500164",
@@ -83753,6 +83706,54 @@
       "timestamp": "2026-01-26T10:06:34.428Z",
       "ip": "27.6.114.125",
       "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt6468322:3:8",
+      "title": "tt6468322:3:8",
+      "timestamp": "2026-01-26T10:13:15.729Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt6468322:4:1",
+      "title": "tt6468322:4:1",
+      "timestamp": "2026-01-26T10:13:44.642Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-26T10:17:43.178Z",
+      "ip": "2409:40d2:3050:5497:8000::",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-01-26T10:18:05.128Z",
+      "ip": "2409:40d2:3050:5497:8000::",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt12125238:1:2",
+      "title": "tt12125238:1:2",
+      "timestamp": "2026-01-26T10:19:39.507Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-01-26T10:19:57.521Z",
+      "ip": "2409:40d2:3050:5497:8000::",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -83793,10 +83794,10 @@
     },
     "139.5.196.103": {
       "type": "series",
-      "id": "tt12125238:1:1",
-      "title": "tt12125238:1:1",
+      "id": "tt12125238:1:2",
+      "title": "tt12125238:1:2",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769421094982
+      "lastActive": 1769422779507
     },
     "202.179.159.154": {
       "type": "series",
@@ -84045,10 +84046,10 @@
     },
     "103.175.168.106": {
       "type": "series",
-      "id": "tt6468322:3:7",
-      "title": "tt6468322:3:7",
+      "id": "tt6468322:4:1",
+      "title": "tt6468322:4:1",
       "username": "un0fficial_itachi",
-      "lastActive": 1769373477879
+      "lastActive": 1769422424642
     },
     "43.224.150.191": {
       "type": "movie",
@@ -91700,6 +91701,13 @@
       "title": "tt30387012",
       "username": "gaendaswami",
       "lastActive": 1769420629201
+    },
+    "2409:40d2:3050:5497:8000::": {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "username": "saurabhkaperwan",
+      "lastActive": 1769422797521
     }
   }
 }
