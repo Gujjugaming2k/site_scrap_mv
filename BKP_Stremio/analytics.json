@@ -1,5 +1,5 @@
 {
-  "totalViews": 17116,
+  "totalViews": 17118,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3732,22 +3732,6 @@
     "2409:40d1:2501:dd2f:8000::"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
-      "timestamp": "2026-01-14T18:27:00.987Z",
-      "ip": "2401:4900:8fdf:96e3:6690:af44:7e0a:95a7",
-      "username": "arjun2077"
-    },
-    {
-      "type": "movie",
-      "id": "tt7181546",
-      "title": "Ballerina",
-      "timestamp": "2026-01-14T18:27:01.620Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
     {
       "type": "movie",
       "id": "tt1312221",
@@ -83731,6 +83715,22 @@
       "timestamp": "2026-01-26T00:56:58.704Z",
       "ip": "103.24.85.218",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:5",
+      "title": "tt33035373:1:5",
+      "timestamp": "2026-01-26T01:15:48.682Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:6",
+      "title": "tt33035373:1:6",
+      "timestamp": "2026-01-26T01:15:57.117Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -83855,10 +83855,10 @@
     },
     "103.24.85.218": {
       "type": "series",
-      "id": "tt33035373:1:5",
-      "title": "tt33035373:1:5",
+      "id": "tt33035373:1:6",
+      "title": "tt33035373:1:6",
       "username": "william097",
-      "lastActive": 1769389018704
+      "lastActive": 1769390157117
     },
     "182.69.183.164": {
       "type": "series",
