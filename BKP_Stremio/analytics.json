@@ -1,5 +1,5 @@
 {
-  "totalViews": 17654,
+  "totalViews": 17655,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3798,17 +3798,10 @@
     "49.47.152.130",
     "45.92.229.231",
     "45.130.83.174",
-    "103.214.60.82"
+    "103.214.60.82",
+    "2a09:bac5:3c7f:1478::20a:b0"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt17069148:1:17",
-      "title": "tt17069148:1:17",
-      "timestamp": "2026-01-15T16:51:36.215Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt17069148:1:17",
@@ -83800,6 +83793,14 @@
       "timestamp": "2026-01-26T16:53:52.037Z",
       "ip": "103.214.60.82",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-01-26T16:58:49.484Z",
+      "ip": "2a09:bac5:3c7f:1478::20a:b0",
+      "username": "belimhuzaifa"
     }
   ],
   "activeNow": {
@@ -84068,6 +84069,13 @@
       "title": "tt27497448:1:2",
       "username": "gaendaswami",
       "lastActive": 1769446432037
+    },
+    "2a09:bac5:3c7f:1478::20a:b0": {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "username": "belimhuzaifa",
+      "lastActive": 1769446729484
     }
   }
 }
