@@ -1,5 +1,5 @@
 {
-  "totalViews": 17676,
+  "totalViews": 17681,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3805,49 +3805,10 @@
     "2405:201:2033:841:45fc:9dba:bab7:eda9",
     "152.59.18.3",
     "146.70.102.180",
-    "2405:201:203e:b800:333f:f704:264c:329b"
+    "2405:201:203e:b800:333f:f704:264c:329b",
+    "2409:40f0:1d:570d:ec9a:ff:fe15:21dd"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt5626028:6:8",
-      "title": "tt5626028:6:8",
-      "timestamp": "2026-01-15T17:27:02.628Z",
-      "ip": "89.189.91.90",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt2358412",
-      "title": "tt2358412",
-      "timestamp": "2026-01-15T17:30:12.702Z",
-      "ip": "2401:4900:8fdf:96e3:dd86:e015:609b:488f",
-      "username": "arjun2077"
-    },
-    {
-      "type": "movie",
-      "id": "tt15387182",
-      "title": "tt15387182",
-      "timestamp": "2026-01-15T17:30:46.608Z",
-      "ip": "2401:4900:b57e:2ff7:6193:3f38:8f3e:734e",
-      "username": "askchm"
-    },
-    {
-      "type": "movie",
-      "id": "tt15387182",
-      "title": "tt15387182",
-      "timestamp": "2026-01-15T17:31:08.328Z",
-      "ip": "2401:4900:b57e:2ff7:6193:3f38:8f3e:734e",
-      "username": "askchm"
-    },
-    {
-      "type": "movie",
-      "id": "tt15387182",
-      "title": "tt15387182",
-      "timestamp": "2026-01-15T17:33:19.551Z",
-      "ip": "2401:4900:b57e:2ff7:6193:3f38:8f3e:734e",
-      "username": "askchm"
-    },
     {
       "type": "movie",
       "id": "tt31495504",
@@ -83807,6 +83768,46 @@
       "timestamp": "2026-01-26T17:54:27.473Z",
       "ip": "139.5.196.103",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:4:1",
+      "title": "tt0388629:4:1",
+      "timestamp": "2026-01-26T18:02:09.084Z",
+      "ip": "2409:40f0:1d:570d:ec9a:ff:fe15:21dd",
+      "username": "rick grimes"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:4:2",
+      "title": "tt0388629:4:2",
+      "timestamp": "2026-01-26T18:03:24.541Z",
+      "ip": "2409:40f0:1d:570d:ec9a:ff:fe15:21dd",
+      "username": "rick grimes"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:4:1",
+      "title": "tt0388629:4:1",
+      "timestamp": "2026-01-26T18:03:42.045Z",
+      "ip": "2409:40f0:1d:570d:ec9a:ff:fe15:21dd",
+      "username": "rick grimes"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:4:2",
+      "title": "tt0388629:4:2",
+      "timestamp": "2026-01-26T18:05:22.521Z",
+      "ip": "2409:40f0:1d:570d:ec9a:ff:fe15:21dd",
+      "username": "rick grimes"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:4:2",
+      "title": "tt0388629:4:2",
+      "timestamp": "2026-01-26T18:05:22.604Z",
+      "ip": "2409:40f0:1d:570d:ec9a:ff:fe15:21dd",
+      "username": "rick grimes"
     }
   ],
   "activeNow": {
@@ -84131,6 +84132,13 @@
       "title": "tt35674970:1:4",
       "username": "pingmenoone",
       "lastActive": 1769449730285
+    },
+    "2409:40f0:1d:570d:ec9a:ff:fe15:21dd": {
+      "type": "series",
+      "id": "tt0388629:4:2",
+      "title": "tt0388629:4:2",
+      "username": "rick grimes",
+      "lastActive": 1769450722604
     }
   }
 }
