@@ -1,5 +1,5 @@
 {
-  "totalViews": 17647,
+  "totalViews": 17654,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3801,62 +3801,6 @@
     "103.214.60.82"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt22091076:2:4",
-      "title": "tt22091076:2:4",
-      "timestamp": "2026-01-15T16:44:19.271Z",
-      "ip": "122.167.97.49",
-      "username": "zindha"
-    },
-    {
-      "type": "movie",
-      "id": "tt0089610",
-      "title": "tt0089610",
-      "timestamp": "2026-01-15T16:48:41.053Z",
-      "ip": "5.133.46.216",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0364845:17:3",
-      "title": "tt0364845:17:3",
-      "timestamp": "2026-01-15T16:50:13.499Z",
-      "ip": "103.4.220.252",
-      "username": "sexhabibi"
-    },
-    {
-      "type": "movie",
-      "id": "tt0089610",
-      "title": "tt0089610",
-      "timestamp": "2026-01-15T16:50:20.472Z",
-      "ip": "5.133.46.216",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt17069148:1:15",
-      "title": "tt17069148:1:15",
-      "timestamp": "2026-01-15T16:50:50.751Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt17069148:1:16",
-      "title": "tt17069148:1:16",
-      "timestamp": "2026-01-15T16:51:13.101Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt17069148:1:16",
-      "title": "tt17069148:1:16",
-      "timestamp": "2026-01-15T16:51:35.867Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt17069148:1:17",
@@ -83800,15 +83744,71 @@
       "timestamp": "2026-01-26T16:39:02.579Z",
       "ip": "103.214.60.82",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt30387012",
+      "title": "tt30387012",
+      "timestamp": "2026-01-26T16:40:01.931Z",
+      "ip": "103.214.60.82",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-26T16:40:02.710Z",
+      "ip": "94.156.30.47",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:4:14",
+      "title": "tt0460649:4:14",
+      "timestamp": "2026-01-26T16:42:58.381Z",
+      "ip": "2a09:bac5:40d3:1478::20a:cb",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt12125238:1:12",
+      "title": "tt12125238:1:12",
+      "timestamp": "2026-01-26T16:52:36.748Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt12125238:1:12",
+      "title": "tt12125238:1:12",
+      "timestamp": "2026-01-26T16:53:05.890Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt12125238:1:13",
+      "title": "tt12125238:1:13",
+      "timestamp": "2026-01-26T16:53:34.198Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "timestamp": "2026-01-26T16:53:52.037Z",
+      "ip": "103.214.60.82",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
     "139.5.196.103": {
       "type": "series",
-      "id": "tt12125238:1:11",
-      "title": "tt12125238:1:11",
+      "id": "tt12125238:1:13",
+      "title": "tt12125238:1:13",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769444276983
+      "lastActive": 1769446414198
     },
     "94.156.30.10": {
       "type": "movie",
@@ -83958,11 +83958,11 @@
       "lastActive": 1769440247680
     },
     "94.156.30.47": {
-      "type": "movie",
-      "id": "tt30818815",
-      "title": "tt30818815",
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
       "username": "b1jju",
-      "lastActive": 1769445091676
+      "lastActive": 1769445602710
     },
     "43.241.194.253": {
       "type": "series",
@@ -84036,10 +84036,10 @@
     },
     "2a09:bac5:40d3:1478::20a:cb": {
       "type": "series",
-      "id": "tt0460649:4:13",
-      "title": "tt0460649:4:13",
+      "id": "tt0460649:4:14",
+      "title": "tt0460649:4:14",
       "username": "demon18319",
-      "lastActive": 1769445238552
+      "lastActive": 1769445778381
     },
     "49.47.152.130": {
       "type": "movie",
@@ -84063,11 +84063,11 @@
       "lastActive": 1769443510419
     },
     "103.214.60.82": {
-      "type": "movie",
-      "id": "tt30387012",
-      "title": "tt30387012",
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
       "username": "gaendaswami",
-      "lastActive": 1769445542579
+      "lastActive": 1769446432037
     }
   }
 }
