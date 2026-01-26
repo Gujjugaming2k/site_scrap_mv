@@ -1,5 +1,5 @@
 {
-  "totalViews": 17673,
+  "totalViews": 17676,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3804,33 +3804,10 @@
     "2405:201:203e:b800:f372:76c5:6110:f557",
     "2405:201:2033:841:45fc:9dba:bab7:eda9",
     "152.59.18.3",
-    "146.70.102.180"
+    "146.70.102.180",
+    "2405:201:203e:b800:333f:f704:264c:329b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2166616:1:1",
-      "title": "tt2166616:1:1",
-      "timestamp": "2026-01-15T17:12:33.301Z",
-      "ip": "41.96.197.38",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt5189944:1:5",
-      "title": "tt5189944:1:5",
-      "timestamp": "2026-01-15T17:12:51.040Z",
-      "ip": "115.164.77.28",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt5189944:1:6",
-      "title": "tt5189944:1:6",
-      "timestamp": "2026-01-15T17:16:36.535Z",
-      "ip": "115.164.77.28",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt5626028:6:8",
@@ -83806,15 +83783,39 @@
       "timestamp": "2026-01-26T17:34:58.016Z",
       "ip": "2405:201:2033:841:45fc:9dba:bab7:eda9",
       "username": "surti_lala"
+    },
+    {
+      "type": "series",
+      "id": "tt35674970:1:4",
+      "title": "tt35674970:1:4",
+      "timestamp": "2026-01-26T17:48:50.285Z",
+      "ip": "2405:201:203e:b800:333f:f704:264c:329b",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt12125238:1:14",
+      "title": "tt12125238:1:14",
+      "timestamp": "2026-01-26T17:54:24.791Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt12125238:2:1",
+      "title": "tt12125238:2:1",
+      "timestamp": "2026-01-26T17:54:27.473Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
     "139.5.196.103": {
       "type": "series",
-      "id": "tt12125238:1:14",
-      "title": "tt12125238:1:14",
+      "id": "tt12125238:2:1",
+      "title": "tt12125238:2:1",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769448196308
+      "lastActive": 1769450067473
     },
     "94.156.30.10": {
       "type": "movie",
@@ -84123,6 +84124,13 @@
       "title": "Game of Thrones",
       "username": "belimhuzaifa",
       "lastActive": 1769448640570
+    },
+    "2405:201:203e:b800:333f:f704:264c:329b": {
+      "type": "series",
+      "id": "tt35674970:1:4",
+      "title": "tt35674970:1:4",
+      "username": "pingmenoone",
+      "lastActive": 1769449730285
     }
   }
 }
