@@ -1,5 +1,5 @@
 {
-  "totalViews": 17886,
+  "totalViews": 17891,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3843,49 +3843,11 @@
     "2a09:bac5:3c96:25cd::3c4:22",
     "2401:4900:b026:412d:6401:ddff:fe8c:4a2d",
     "2a09:bac5:40ec:a82::10c:2d",
-    "152.59.153.127"
+    "152.59.153.127",
+    "2409:40d2:3059:5a41:38e1:fe7b:cb55:a3b4",
+    "2a09:bac1:36c0:1e0::2a6:23"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-16T03:46:43.963Z",
-      "ip": "2a02:9b0:106:3b5f:c121:70e2:5a81:1e2",
-      "username": "hoosa500"
-    },
-    {
-      "type": "series",
-      "id": "tt16385150:1:1",
-      "title": "tt16385150:1:1",
-      "timestamp": "2026-01-16T03:50:04.515Z",
-      "ip": "2405:201:6025:a88d:ff6e:790:42be:acf7",
-      "username": "infinityseeker"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-16T03:50:22.612Z",
-      "ip": "2405:201:6025:a88d:ff6e:790:42be:acf7",
-      "username": "infinityseeker"
-    },
-    {
-      "type": "movie",
-      "id": "tt22740896",
-      "title": "tt22740896",
-      "timestamp": "2026-01-16T03:51:30.499Z",
-      "ip": "2405:201:6025:a88d:ff6e:790:42be:acf7",
-      "username": "infinityseeker"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-01-16T03:52:19.579Z",
-      "ip": "2a02:9b0:106:3b5f:c121:70e2:5a81:1e2",
-      "username": "hoosa500"
-    },
     {
       "type": "series",
       "id": "tt5189944:1:15",
@@ -83845,6 +83807,46 @@
       "timestamp": "2026-01-27T10:54:37.323Z",
       "ip": "2401:4900:b026:412d:6401:ddff:fe8c:4a2d",
       "username": "adshoyi"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-01-27T11:07:33.188Z",
+      "ip": "2409:40d2:3059:5a41:38e1:fe7b:cb55:a3b4",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:1:1",
+      "title": "tt31938062:1:1",
+      "timestamp": "2026-01-27T11:12:40.784Z",
+      "ip": "2409:40d2:3059:5a41:38e1:fe7b:cb55:a3b4",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:1:2",
+      "title": "tt31938062:1:2",
+      "timestamp": "2026-01-27T11:13:52.833Z",
+      "ip": "2409:40d2:3059:5a41:38e1:fe7b:cb55:a3b4",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "timestamp": "2026-01-27T11:15:10.070Z",
+      "ip": "2409:40d2:3059:5a41:38e1:fe7b:cb55:a3b4",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt26225038:1:1",
+      "title": "tt26225038:1:1",
+      "timestamp": "2026-01-27T11:16:15.470Z",
+      "ip": "2a09:bac1:36c0:1e0::2a6:23",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -84505,6 +84507,20 @@
       "title": "The Shadow's Edge",
       "username": "nabakun",
       "lastActive": 1769511184477
+    },
+    "2409:40d2:3059:5a41:38e1:fe7b:cb55:a3b4": {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "username": "saurabhkaperwan",
+      "lastActive": 1769512510070
+    },
+    "2a09:bac1:36c0:1e0::2a6:23": {
+      "type": "series",
+      "id": "tt26225038:1:1",
+      "title": "tt26225038:1:1",
+      "username": "demon18319",
+      "lastActive": 1769512575470
     }
   }
 }
