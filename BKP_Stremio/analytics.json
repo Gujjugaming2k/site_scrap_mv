@@ -1,5 +1,5 @@
 {
-  "totalViews": 17849,
+  "totalViews": 17850,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3838,17 +3838,10 @@
     "2409:40c1:1038:527d:98b3:c524:2a88:1a54",
     "2402:3a80:1981:eca3:178:5634:1232:5476",
     "2405:201:900f:a92b:39e0:efed:e98e:93d6",
-    "119.42.59.109"
+    "119.42.59.109",
+    "2401:4900:1cb0:5cf4:69db:c6d8:f22c:b76"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1187043",
-      "title": "3 Idiots",
-      "timestamp": "2026-01-16T02:03:26.394Z",
-      "ip": "2401:4900:88ba:451f:8b61:a1d:8efb:5ec4",
-      "username": "b1jju"
-    },
     {
       "type": "series",
       "id": "tt4574334:2:1",
@@ -83840,6 +83833,14 @@
       "timestamp": "2026-01-27T09:06:44.302Z",
       "ip": "119.42.59.109",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt11410312",
+      "title": "tt11410312",
+      "timestamp": "2026-01-27T09:14:11.686Z",
+      "ip": "2401:4900:1cb0:5cf4:69db:c6d8:f22c:b76",
+      "username": "saisrinivas"
     }
   ],
   "activeNow": {
@@ -84451,6 +84452,13 @@
       "title": "tt30003786:4:6",
       "username": "gaendaswami",
       "lastActive": 1769504804302
+    },
+    "2401:4900:1cb0:5cf4:69db:c6d8:f22c:b76": {
+      "type": "movie",
+      "id": "tt11410312",
+      "title": "tt11410312",
+      "username": "saisrinivas",
+      "lastActive": 1769505251686
     }
   }
 }
