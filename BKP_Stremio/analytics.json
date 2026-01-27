@@ -1,5 +1,5 @@
 {
-  "totalViews": 18082,
+  "totalViews": 18085,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3888,33 +3888,10 @@
     "2405:201:2033:841:49e5:ac6:9b0a:9b4c",
     "146.196.32.5",
     "152.58.116.124",
-    "49.43.33.253"
+    "49.43.33.253",
+    "45.118.158.122"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1187043",
-      "title": "3 Idiots",
-      "timestamp": "2026-01-16T08:32:37.533Z",
-      "ip": "2401:4900:51e2:7341:d8e7:c5ff:fe3e:541c",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt13444912:1:1",
-      "title": "tt13444912:1:1",
-      "timestamp": "2026-01-16T08:33:46.993Z",
-      "ip": "182.77.72.137",
-      "username": "thebatmanbyte"
-    },
-    {
-      "type": "movie",
-      "id": "tt1187043",
-      "title": "3 Idiots",
-      "timestamp": "2026-01-16T08:33:49.992Z",
-      "ip": "2401:4900:51e2:7341:d8e7:c5ff:fe3e:541c",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt4574334:3:2",
@@ -83890,6 +83867,30 @@
       "timestamp": "2026-01-27T17:57:44.670Z",
       "ip": "2409:40c1:400c:81cd:8000::",
       "username": "belimhuzaifa"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-01-27T18:10:07.593Z",
+      "ip": "45.118.158.122",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-01-27T18:12:07.782Z",
+      "ip": "45.118.158.122",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt9813792:1:1",
+      "title": "tt9813792:1:1",
+      "timestamp": "2026-01-27T18:13:26.359Z",
+      "ip": "2409:40c1:400c:81cd:8000::",
+      "username": "belimhuzaifa"
     }
   ],
   "activeNow": {
@@ -84612,7 +84613,7 @@
       "id": "tt9813792:1:1",
       "title": "tt9813792:1:1",
       "username": "belimhuzaifa",
-      "lastActive": 1769536664670
+      "lastActive": 1769537606359
     },
     "2405:201:2022:b81c:f59f:20a:dec3:5b87": {
       "type": "series",
@@ -84872,6 +84873,13 @@
       "title": "tt35335046:1:7",
       "username": "surti_lala",
       "lastActive": 1769535362989
+    },
+    "45.118.158.122": {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "username": "gaendaswami",
+      "lastActive": 1769537527782
     }
   }
 }
