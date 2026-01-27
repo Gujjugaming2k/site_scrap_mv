@@ -1,5 +1,5 @@
 {
-  "totalViews": 18102,
+  "totalViews": 18105,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3892,33 +3892,10 @@
     "45.118.158.122",
     "103.181.65.63",
     "200.108.55.178",
-    "2409:40f4:3e:2054:8851:77ff:fe19:bde4"
+    "2409:40f4:3e:2054:8851:77ff:fe19:bde4",
+    "223.185.22.73"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1375666",
-      "title": "Inception",
-      "timestamp": "2026-01-16T09:02:52.911Z",
-      "ip": "2401:4900:51e2:7341:d8e7:c5ff:fe3e:541c",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt16311594",
-      "title": "F1",
-      "timestamp": "2026-01-16T09:04:12.293Z",
-      "ip": "2401:4900:8fe2:4c46:70b6:c921:c897:44b1",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-16T09:04:35.364Z",
-      "ip": "152.58.14.147",
-      "username": "targetx_25"
-    },
     {
       "type": "movie",
       "id": "tt16311594",
@@ -83894,6 +83871,30 @@
       "timestamp": "2026-01-27T18:56:17.052Z",
       "ip": "2405:201:900f:a92b:d52c:2217:44a2:fe39",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:2",
+      "title": "tt6354518:2:2",
+      "timestamp": "2026-01-27T19:56:22.426Z",
+      "ip": "223.185.22.73",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:3",
+      "title": "tt6354518:2:3",
+      "timestamp": "2026-01-27T19:56:29.550Z",
+      "ip": "223.185.22.73",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:3",
+      "title": "tt6354518:2:3",
+      "timestamp": "2026-01-27T20:01:19.217Z",
+      "ip": "223.185.22.73",
+      "username": "sinbad1722"
     }
   ],
   "activeNow": {
@@ -84918,6 +84919,13 @@
       "title": "The Dark Knight",
       "username": "zindha",
       "lastActive": 1769539319036
+    },
+    "223.185.22.73": {
+      "type": "series",
+      "id": "tt6354518:2:3",
+      "title": "tt6354518:2:3",
+      "username": "sinbad1722",
+      "lastActive": 1769544079217
     }
   }
 }
