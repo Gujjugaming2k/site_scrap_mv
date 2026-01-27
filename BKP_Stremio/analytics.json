@@ -1,5 +1,5 @@
 {
-  "totalViews": 17733,
+  "totalViews": 17736,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3822,30 +3822,6 @@
     "2409:40c1:101b:96e4:a9b2:a002:7a0f:2c77"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt33035373:1:1",
-      "title": "tt33035373:1:1",
-      "timestamp": "2026-01-15T19:22:16.046Z",
-      "ip": "2409:40c2:500b:7bbb:9cf0:8bff:fedf:d113",
-      "username": "targetx_25"
-    },
-    {
-      "type": "series",
-      "id": "tt22202452:1:2",
-      "title": "tt22202452:1:2",
-      "timestamp": "2026-01-15T19:22:30.754Z",
-      "ip": "2409:40c2:500b:7bbb:9cf0:8bff:fedf:d113",
-      "username": "targetx_25"
-    },
-    {
-      "type": "series",
-      "id": "tt22202452:1:1",
-      "title": "tt22202452:1:1",
-      "timestamp": "2026-01-15T19:22:33.721Z",
-      "ip": "2409:40c2:500b:7bbb:9cf0:8bff:fedf:d113",
-      "username": "targetx_25"
-    },
     {
       "type": "movie",
       "id": "tt30343021",
@@ -83821,6 +83797,30 @@
       "timestamp": "2026-01-27T02:10:32.619Z",
       "ip": "2409:40c1:101b:96e4:a9b2:a002:7a0f:2c77",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:6",
+      "title": "tt33035373:1:6",
+      "timestamp": "2026-01-27T02:37:53.609Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:1",
+      "title": "tt1399664:1:1",
+      "timestamp": "2026-01-27T02:38:02.867Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:2",
+      "title": "tt1399664:1:2",
+      "timestamp": "2026-01-27T02:40:17.355Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -83930,11 +83930,11 @@
       "lastActive": 1769438597248
     },
     "103.24.85.218": {
-      "type": "movie",
-      "id": "tt28961625",
-      "title": "tt28961625",
+      "type": "series",
+      "id": "tt1399664:1:2",
+      "title": "tt1399664:1:2",
       "username": "william097",
-      "lastActive": 1769438700158
+      "lastActive": 1769481617355
     },
     "2401:4900:81f3:446d:d59:e423:df18:25f": {
       "type": "movie",
