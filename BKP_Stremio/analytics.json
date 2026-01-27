@@ -1,5 +1,5 @@
 {
-  "totalViews": 17993,
+  "totalViews": 17996,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3873,30 +3873,6 @@
     "2401:4900:abbe:41b1:b090:19ff:fed5:cdac"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt17069148:1:17",
-      "title": "tt17069148:1:17",
-      "timestamp": "2026-01-16T07:00:55.201Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt17069148:1:17",
-      "title": "tt17069148:1:17",
-      "timestamp": "2026-01-16T07:01:00.408Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt17069148:1:18",
-      "title": "tt17069148:1:18",
-      "timestamp": "2026-01-16T07:01:01.036Z",
-      "ip": "103.214.60.5",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt17069148:1:18",
@@ -83872,15 +83848,39 @@
       "timestamp": "2026-01-27T14:46:14.694Z",
       "ip": "103.175.168.106",
       "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt12125238:2:5",
+      "title": "tt12125238:2:5",
+      "timestamp": "2026-01-27T15:04:33.845Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt12125238:2:6",
+      "title": "tt12125238:2:6",
+      "timestamp": "2026-01-27T15:05:11.530Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt15354916",
+      "title": "tt15354916",
+      "timestamp": "2026-01-27T15:06:51.361Z",
+      "ip": "103.46.200.35",
+      "username": "brosportses"
     }
   ],
   "activeNow": {
     "139.5.196.103": {
       "type": "series",
-      "id": "tt12125238:2:4",
-      "title": "tt12125238:2:4",
+      "id": "tt12125238:2:6",
+      "title": "tt12125238:2:6",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769525160273
+      "lastActive": 1769526311530
     },
     "94.156.30.10": {
       "type": "movie",
@@ -84087,10 +84087,10 @@
     },
     "103.46.200.35": {
       "type": "movie",
-      "id": "tt5997666",
-      "title": "tt5997666",
+      "id": "tt15354916",
+      "title": "tt15354916",
       "username": "brosportses",
-      "lastActive": 1769521912068
+      "lastActive": 1769526411361
     },
     "223.181.77.202": {
       "type": "series",
