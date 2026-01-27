@@ -1,5 +1,5 @@
 {
-  "totalViews": 17891,
+  "totalViews": 17893,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3845,25 +3845,10 @@
     "2a09:bac5:40ec:a82::10c:2d",
     "152.59.153.127",
     "2409:40d2:3059:5a41:38e1:fe7b:cb55:a3b4",
-    "2a09:bac1:36c0:1e0::2a6:23"
+    "2a09:bac1:36c0:1e0::2a6:23",
+    "2409:40f0:241e:1af2:f448:4fff:fe7c:92e7"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt5189944:1:15",
-      "title": "tt5189944:1:15",
-      "timestamp": "2026-01-16T03:54:32.619Z",
-      "ip": "115.164.77.28",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt3359350",
-      "title": "Road House",
-      "timestamp": "2026-01-16T03:57:46.492Z",
-      "ip": "162.247.55.241",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt30144839",
@@ -83847,6 +83832,22 @@
       "timestamp": "2026-01-27T11:16:15.470Z",
       "ip": "2a09:bac1:36c0:1e0::2a6:23",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt6522546",
+      "title": "tt6522546",
+      "timestamp": "2026-01-27T11:40:20.279Z",
+      "ip": "2409:40f0:241e:1af2:f448:4fff:fe7c:92e7",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "series",
+      "id": "tt9778022:3:1",
+      "title": "tt9778022:3:1",
+      "timestamp": "2026-01-27T11:47:10.461Z",
+      "ip": "2409:40d2:3059:5a41:38e1:fe7b:cb55:a3b4",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -84509,11 +84510,11 @@
       "lastActive": 1769511184477
     },
     "2409:40d2:3059:5a41:38e1:fe7b:cb55:a3b4": {
-      "type": "movie",
-      "id": "tt31050594",
-      "title": "tt31050594",
+      "type": "series",
+      "id": "tt9778022:3:1",
+      "title": "tt9778022:3:1",
       "username": "saurabhkaperwan",
-      "lastActive": 1769512510070
+      "lastActive": 1769514430461
     },
     "2a09:bac1:36c0:1e0::2a6:23": {
       "type": "series",
@@ -84521,6 +84522,13 @@
       "title": "tt26225038:1:1",
       "username": "demon18319",
       "lastActive": 1769512575470
+    },
+    "2409:40f0:241e:1af2:f448:4fff:fe7c:92e7": {
+      "type": "movie",
+      "id": "tt6522546",
+      "title": "tt6522546",
+      "username": "sachinprem1",
+      "lastActive": 1769514020279
     }
   }
 }
