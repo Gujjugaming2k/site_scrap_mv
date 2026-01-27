@@ -1,5 +1,5 @@
 {
-  "totalViews": 17837,
+  "totalViews": 17840,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3834,33 +3834,10 @@
     "2401:4900:8820:8915:747e:7b82:51b7:7a1b,2a09:bac5:37ac:1f19::319:20",
     "49.36.216.248",
     "2a09:bac1:36c0:5e98::3e2:3f",
-    "2409:40c1:3008:ba11:64d7:78ff:fe8f:c08f"
+    "2409:40c1:3008:ba11:64d7:78ff:fe8f:c08f",
+    "2409:40c1:1038:527d:98b3:c524:2a88:1a54"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:6",
-      "title": "tt35335046:1:6",
-      "timestamp": "2026-01-16T01:45:13.033Z",
-      "ip": "2401:4900:aaf3:8ef6:c404:f1e2:3f38:fbec",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:3:3",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-16T01:45:58.049Z",
-      "ip": "206.172.124.207",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt28551273",
-      "title": "tt28551273",
-      "timestamp": "2026-01-16T01:50:41.057Z",
-      "ip": "71.179.184.52",
-      "username": "anupambabu_97"
-    },
     {
       "type": "movie",
       "id": "tt28551273",
@@ -83836,6 +83813,30 @@
       "timestamp": "2026-01-27T07:56:11.686Z",
       "ip": "2405:201:203e:b01c:fb2f:fd2e:12fa:8a21",
       "username": "pingmenoone"
+    },
+    {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "timestamp": "2026-01-27T08:14:32.528Z",
+      "ip": "103.46.200.35",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt0048956",
+      "title": "tt0048956",
+      "timestamp": "2026-01-27T08:20:01.411Z",
+      "ip": "2409:40c1:1038:527d:98b3:c524:2a88:1a54",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt0048956",
+      "title": "tt0048956",
+      "timestamp": "2026-01-27T08:20:10.310Z",
+      "ip": "2409:40c1:1038:527d:98b3:c524:2a88:1a54",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -84051,10 +84052,10 @@
     },
     "103.46.200.35": {
       "type": "movie",
-      "id": "tt33028778",
-      "title": "tt33028778",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
       "username": "katdenningssss",
-      "lastActive": 1769478238365
+      "lastActive": 1769501672528
     },
     "223.181.77.202": {
       "type": "series",
@@ -84412,6 +84413,13 @@
       "title": "The Woman in Cabin 10",
       "username": "chetan_b2",
       "lastActive": 1769500339396
+    },
+    "2409:40c1:1038:527d:98b3:c524:2a88:1a54": {
+      "type": "movie",
+      "id": "tt0048956",
+      "title": "tt0048956",
+      "username": "zealousninja",
+      "lastActive": 1769502010310
     }
   }
 }
