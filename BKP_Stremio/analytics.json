@@ -1,5 +1,5 @@
 {
-  "totalViews": 17850,
+  "totalViews": 17851,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3842,14 +3842,6 @@
     "2401:4900:1cb0:5cf4:69db:c6d8:f22c:b76"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:2:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-16T02:04:19.380Z",
-      "ip": "2401:4900:88ba:451f:8b61:a1d:8efb:5ec4",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0460649:3:5",
@@ -83841,6 +83833,14 @@
       "timestamp": "2026-01-27T09:14:11.686Z",
       "ip": "2401:4900:1cb0:5cf4:69db:c6d8:f22c:b76",
       "username": "saisrinivas"
+    },
+    {
+      "type": "movie",
+      "id": "tt33500164",
+      "title": "tt33500164",
+      "timestamp": "2026-01-27T09:29:47.473Z",
+      "ip": "202.88.248.175",
+      "username": "deepak"
     }
   ],
   "activeNow": {
@@ -84459,6 +84459,13 @@
       "title": "tt11410312",
       "username": "saisrinivas",
       "lastActive": 1769505251686
+    },
+    "202.88.248.175": {
+      "type": "movie",
+      "id": "tt33500164",
+      "title": "tt33500164",
+      "username": "deepak",
+      "lastActive": 1769506187473
     }
   }
 }
