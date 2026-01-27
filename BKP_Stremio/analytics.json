@@ -1,5 +1,5 @@
 {
-  "totalViews": 17712,
+  "totalViews": 17716,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3815,41 +3815,10 @@
     "82.17.152.146",
     "185.198.240.217",
     "2a09:bac5:3c94:25c3::3c3:43",
-    "2409:40f0:2414:10d3:4805:b0ff:fe08:6bf4"
+    "2409:40f0:2414:10d3:4805:b0ff:fe08:6bf4",
+    "2409:40f3:1c:e6a2:4933:94ec:45ca:bd72"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt5886440",
-      "title": "tt5886440",
-      "timestamp": "2026-01-15T18:57:49.322Z",
-      "ip": "103.181.65.39",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt5886440",
-      "title": "tt5886440",
-      "timestamp": "2026-01-15T18:57:49.370Z",
-      "ip": "103.181.65.39",
-      "username": "mutti9"
-    },
-    {
-      "type": "series",
-      "id": "tt5189944:1:8",
-      "title": "tt5189944:1:8",
-      "timestamp": "2026-01-15T18:58:00.094Z",
-      "ip": "115.164.77.28",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt5189944:1:8",
-      "title": "tt5189944:1:8",
-      "timestamp": "2026-01-15T19:05:33.088Z",
-      "ip": "115.164.77.28",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt26743210",
@@ -83817,6 +83786,38 @@
       "timestamp": "2026-01-26T23:50:17.127Z",
       "ip": "182.69.179.34",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt0088247",
+      "title": "The Terminator",
+      "timestamp": "2026-01-27T00:00:03.958Z",
+      "ip": "2409:40f3:1c:e6a2:4933:94ec:45ca:bd72",
+      "username": "sergio_leone96"
+    },
+    {
+      "type": "movie",
+      "id": "tt0088247",
+      "title": "The Terminator",
+      "timestamp": "2026-01-27T00:02:22.183Z",
+      "ip": "2409:40f3:1c:e6a2:4933:94ec:45ca:bd72",
+      "username": "sergio_leone96"
+    },
+    {
+      "type": "movie",
+      "id": "tt0327850",
+      "title": "tt0327850",
+      "timestamp": "2026-01-27T00:02:47.739Z",
+      "ip": "2409:40f3:1c:e6a2:4933:94ec:45ca:bd72",
+      "username": "sergio_leone96"
+    },
+    {
+      "type": "movie",
+      "id": "tt0327850",
+      "title": "tt0327850",
+      "timestamp": "2026-01-27T00:06:33.562Z",
+      "ip": "2409:40f3:1c:e6a2:4933:94ec:45ca:bd72",
+      "username": "sergio_leone96"
     }
   ],
   "activeNow": {
@@ -84225,6 +84226,13 @@
       "title": "tt6522546",
       "username": "sachinprem1",
       "lastActive": 1769469684505
+    },
+    "2409:40f3:1c:e6a2:4933:94ec:45ca:bd72": {
+      "type": "movie",
+      "id": "tt0327850",
+      "title": "tt0327850",
+      "username": "sergio_leone96",
+      "lastActive": 1769472393562
     }
   }
 }
