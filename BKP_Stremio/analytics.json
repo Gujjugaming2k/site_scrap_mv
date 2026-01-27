@@ -1,5 +1,5 @@
 {
-  "totalViews": 17833,
+  "totalViews": 17836,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3837,30 +3837,6 @@
     "2409:40c1:3008:ba11:64d7:78ff:fe8f:c08f"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt34984715",
-      "title": "tt34984715",
-      "timestamp": "2026-01-16T01:25:35.741Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt34984715",
-      "title": "tt34984715",
-      "timestamp": "2026-01-16T01:26:24.527Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:7",
-      "title": "tt35335046:1:7",
-      "timestamp": "2026-01-16T01:44:30.004Z",
-      "ip": "2401:4900:aaf3:8ef6:c404:f1e2:3f38:fbec",
-      "username": "vflix1993"
-    },
     {
       "type": "series",
       "id": "tt35335046:1:5",
@@ -83836,6 +83812,30 @@
       "timestamp": "2026-01-27T07:40:39.275Z",
       "ip": "2409:40c1:3008:ba11:64d7:78ff:fe8f:c08f",
       "username": "tips9694"
+    },
+    {
+      "type": "movie",
+      "id": "tt7130300",
+      "title": "The Woman in Cabin 10",
+      "timestamp": "2026-01-27T07:52:19.396Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:2",
+      "title": "tt1399664:1:2",
+      "timestamp": "2026-01-27T07:54:04.313Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-01-27T07:54:11.878Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -83945,11 +83945,11 @@
       "lastActive": 1769438597248
     },
     "103.24.85.218": {
-      "type": "series",
-      "id": "tt1399664:1:2",
-      "title": "tt1399664:1:2",
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
       "username": "william097",
-      "lastActive": 1769486527637
+      "lastActive": 1769500451878
     },
     "2401:4900:81f3:446d:d59:e423:df18:25f": {
       "type": "movie",
@@ -84405,6 +84405,13 @@
       "title": "JUJUTSU KAISEN",
       "username": "tips9694",
       "lastActive": 1769499639275
+    },
+    "203.192.255.46": {
+      "type": "movie",
+      "id": "tt7130300",
+      "title": "The Woman in Cabin 10",
+      "username": "chetan_b2",
+      "lastActive": 1769500339396
     }
   }
 }
