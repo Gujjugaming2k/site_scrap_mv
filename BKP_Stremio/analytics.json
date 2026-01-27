@@ -1,5 +1,5 @@
 {
-  "totalViews": 17732,
+  "totalViews": 17733,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3818,17 +3818,10 @@
     "2409:40f0:2414:10d3:4805:b0ff:fe08:6bf4",
     "2409:40f3:1c:e6a2:4933:94ec:45ca:bd72",
     "2409:40f3:1c:e6a2:d03f:9cd8:93c3:7232",
-    "2409:40f3:1c:e6a2:3914:15ca:331b:e12e"
+    "2409:40f3:1c:e6a2:3914:15ca:331b:e12e",
+    "2409:40c1:101b:96e4:a9b2:a002:7a0f:2c77"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
-      "timestamp": "2026-01-15T19:21:33.710Z",
-      "ip": "2409:40c2:500b:7bbb:9cf0:8bff:fedf:d113",
-      "username": "targetx_25"
-    },
     {
       "type": "series",
       "id": "tt33035373:1:1",
@@ -83820,6 +83813,14 @@
       "timestamp": "2026-01-27T01:43:58.365Z",
       "ip": "103.46.200.35",
       "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt29768334",
+      "title": "Train Dreams",
+      "timestamp": "2026-01-27T02:10:32.619Z",
+      "ip": "2409:40c1:101b:96e4:a9b2:a002:7a0f:2c77",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -84249,6 +84250,13 @@
       "title": "Pulp Fiction",
       "username": "sergio_leone96",
       "lastActive": 1769473133386
+    },
+    "2409:40c1:101b:96e4:a9b2:a002:7a0f:2c77": {
+      "type": "movie",
+      "id": "tt29768334",
+      "title": "Train Dreams",
+      "username": "zealousninja",
+      "lastActive": 1769479832619
     }
   }
 }
