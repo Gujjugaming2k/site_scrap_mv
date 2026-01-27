@@ -1,5 +1,5 @@
 {
-  "totalViews": 18114,
+  "totalViews": 18121,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3895,65 +3895,10 @@
     "2409:40f4:3e:2054:8851:77ff:fe19:bde4",
     "223.185.22.73",
     "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
-    "182.69.181.156"
+    "182.69.181.156",
+    "2409:40f0:2432:6e6d:4019:6dff:fe39:6400"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0388629:1:65",
-      "title": "tt0388629:1:65",
-      "timestamp": "2026-01-16T09:09:50.859Z",
-      "ip": "2401:4900:8838:8908:9507:cc0d:5fec:129c",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0108052",
-      "title": "Schindler's List",
-      "timestamp": "2026-01-16T09:10:25.903Z",
-      "ip": "123.201.95.138",
-      "username": "surti_lala"
-    },
-    {
-      "type": "movie",
-      "id": "tt36538449",
-      "title": "tt36538449",
-      "timestamp": "2026-01-16T09:11:17.684Z",
-      "ip": "123.201.95.138",
-      "username": "surti_lala"
-    },
-    {
-      "type": "series",
-      "id": "tt21209876:2:1",
-      "title": "tt21209876:2:1",
-      "timestamp": "2026-01-16T09:11:31.817Z",
-      "ip": "2a09:bac5:3fda:eaa::176:4c",
-      "username": "sinbad1722"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:1:1",
-      "title": "tt0903747:1:1",
-      "timestamp": "2026-01-16T09:11:43.901Z",
-      "ip": "2401:4900:b8b1:a9d1:414:40f3:b3bf:dbb",
-      "username": "reaper54x"
-    },
-    {
-      "type": "series",
-      "id": "tt37062070:1:1",
-      "title": "tt37062070:1:1",
-      "timestamp": "2026-01-16T09:12:08.518Z",
-      "ip": "123.201.95.138",
-      "username": "surti_lala"
-    },
-    {
-      "type": "movie",
-      "id": "tt1375666",
-      "title": "Inception",
-      "timestamp": "2026-01-16T09:12:15.529Z",
-      "ip": "2401:4900:51e2:7341:d8e7:c5ff:fe3e:541c",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt17220216:1:2",
@@ -83897,6 +83842,62 @@
       "timestamp": "2026-01-27T22:30:43.832Z",
       "ip": "182.69.181.156",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt6522546",
+      "title": "tt6522546",
+      "timestamp": "2026-01-27T22:41:51.531Z",
+      "ip": "2409:40f0:2432:6e6d:4019:6dff:fe39:6400",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt0448805",
+      "title": "tt0448805",
+      "timestamp": "2026-01-27T22:45:18.796Z",
+      "ip": "2409:40f0:2432:6e6d:4019:6dff:fe39:6400",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt1582604",
+      "title": "tt1582604",
+      "timestamp": "2026-01-27T22:46:22.030Z",
+      "ip": "2409:40f0:2432:6e6d:4019:6dff:fe39:6400",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt6914500",
+      "title": "tt6914500",
+      "timestamp": "2026-01-27T22:47:05.153Z",
+      "ip": "2409:40f0:2432:6e6d:4019:6dff:fe39:6400",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt16139054",
+      "title": "tt16139054",
+      "timestamp": "2026-01-27T22:47:39.707Z",
+      "ip": "2409:40f0:2432:6e6d:4019:6dff:fe39:6400",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt1920913",
+      "title": "tt1920913",
+      "timestamp": "2026-01-27T22:48:30.485Z",
+      "ip": "2409:40f0:2432:6e6d:4019:6dff:fe39:6400",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt7986222",
+      "title": "tt7986222",
+      "timestamp": "2026-01-27T22:49:47.203Z",
+      "ip": "2409:40f0:2432:6e6d:4019:6dff:fe39:6400",
+      "username": "sachinprem1"
     }
   ],
   "activeNow": {
@@ -84942,6 +84943,13 @@
       "title": "tt0903747:5:16",
       "username": "dillon_ka_shooter",
       "lastActive": 1769553043832
+    },
+    "2409:40f0:2432:6e6d:4019:6dff:fe39:6400": {
+      "type": "movie",
+      "id": "tt7986222",
+      "title": "tt7986222",
+      "username": "sachinprem1",
+      "lastActive": 1769554187203
     }
   }
 }
