@@ -1,5 +1,5 @@
 {
-  "totalViews": 17774,
+  "totalViews": 17775,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3828,14 +3828,6 @@
     "2405:201:203e:b01c:fb2f:fd2e:12fa:8a21"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt5189944:1:11",
-      "title": "tt5189944:1:11",
-      "timestamp": "2026-01-15T21:11:57.849Z",
-      "ip": "115.164.77.28",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt1520211:9:8",
@@ -83827,6 +83819,14 @@
       "timestamp": "2026-01-27T04:32:41.910Z",
       "ip": "2405:201:203e:b01c:fb2f:fd2e:12fa:8a21",
       "username": "pingmenoone"
+    },
+    {
+      "type": "movie",
+      "id": "tt7991608",
+      "title": "Red Notice",
+      "timestamp": "2026-01-27T04:42:38.568Z",
+      "ip": "94.156.30.47",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -83985,11 +83985,11 @@
       "lastActive": 1769440247680
     },
     "94.156.30.47": {
-      "type": "series",
-      "id": "tt12637874:1:1",
-      "title": "Fallout",
+      "type": "movie",
+      "id": "tt7991608",
+      "title": "Red Notice",
       "username": "b1jju",
-      "lastActive": 1769488052197
+      "lastActive": 1769488958568
     },
     "43.241.194.253": {
       "type": "series",
