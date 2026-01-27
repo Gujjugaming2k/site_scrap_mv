@@ -1,5 +1,5 @@
 {
-  "totalViews": 18105,
+  "totalViews": 18110,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3893,49 +3893,10 @@
     "103.181.65.63",
     "200.108.55.178",
     "2409:40f4:3e:2054:8851:77ff:fe19:bde4",
-    "223.185.22.73"
+    "223.185.22.73",
+    "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt16311594",
-      "title": "F1",
-      "timestamp": "2026-01-16T09:05:19.945Z",
-      "ip": "2401:4900:8fe2:4c46:70b6:c921:c897:44b1",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "series",
-      "id": "tt0227972:27:52",
-      "title": "WWE SmackDown",
-      "timestamp": "2026-01-16T09:06:47.137Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:1:1",
-      "title": "tt0903747:1:1",
-      "timestamp": "2026-01-16T09:06:54.301Z",
-      "ip": "2401:4900:b8b1:a9d1:414:40f3:b3bf:dbb",
-      "username": "reaper54x"
-    },
-    {
-      "type": "series",
-      "id": "tt0227972:28:2",
-      "title": "WWE SmackDown",
-      "timestamp": "2026-01-16T09:07:02.027Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:1:1",
-      "title": "tt0903747:1:1",
-      "timestamp": "2026-01-16T09:07:03.174Z",
-      "ip": "2401:4900:b8b1:a9d1:414:40f3:b3bf:dbb",
-      "username": "reaper54x"
-    },
     {
       "type": "series",
       "id": "tt0903747:1:2",
@@ -83895,6 +83856,46 @@
       "timestamp": "2026-01-27T20:01:19.217Z",
       "ip": "223.185.22.73",
       "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:2",
+      "title": "tt6354518:2:2",
+      "timestamp": "2026-01-27T20:04:49.610Z",
+      "ip": "223.185.22.73",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:3",
+      "title": "tt6354518:2:3",
+      "timestamp": "2026-01-27T20:04:58.109Z",
+      "ip": "223.185.22.73",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt36616410",
+      "title": "tt36616410",
+      "timestamp": "2026-01-27T20:08:04.200Z",
+      "ip": "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
+      "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt36616410",
+      "title": "tt36616410",
+      "timestamp": "2026-01-27T20:10:43.164Z",
+      "ip": "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
+      "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt1386697",
+      "title": "Suicide Squad",
+      "timestamp": "2026-01-27T20:11:03.628Z",
+      "ip": "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
+      "username": "nabakun"
     }
   ],
   "activeNow": {
@@ -84925,7 +84926,14 @@
       "id": "tt6354518:2:3",
       "title": "tt6354518:2:3",
       "username": "sinbad1722",
-      "lastActive": 1769544079217
+      "lastActive": 1769544298109
+    },
+    "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab": {
+      "type": "movie",
+      "id": "tt1386697",
+      "title": "Suicide Squad",
+      "username": "nabakun",
+      "lastActive": 1769544663628
     }
   }
 }
