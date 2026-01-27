@@ -1,5 +1,5 @@
 {
-  "totalViews": 17840,
+  "totalViews": 17843,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3838,30 +3838,6 @@
     "2409:40c1:1038:527d:98b3:c524:2a88:1a54"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt28551273",
-      "title": "tt28551273",
-      "timestamp": "2026-01-16T01:50:58.047Z",
-      "ip": "71.179.184.52",
-      "username": "anupambabu_97"
-    },
-    {
-      "type": "movie",
-      "id": "tt36616410",
-      "title": "tt36616410",
-      "timestamp": "2026-01-16T01:51:32.583Z",
-      "ip": "2401:4900:88ba:451f:8b61:a1d:8efb:5ec4",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt10266874:1:2",
-      "title": "tt10266874:1:2",
-      "timestamp": "2026-01-16T01:52:13.621Z",
-      "ip": "138.199.35.3",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0460649:2:20",
@@ -83837,6 +83813,30 @@
       "timestamp": "2026-01-27T08:20:10.310Z",
       "ip": "2409:40c1:1038:527d:98b3:c524:2a88:1a54",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
+      "timestamp": "2026-01-27T08:30:34.504Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt22091076:2:10",
+      "title": "tt22091076:2:10",
+      "timestamp": "2026-01-27T08:38:34.052Z",
+      "ip": "2405:201:6820:a83c:e52e:5c2:bbcc:a56f",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt22091076:2:11",
+      "title": "tt22091076:2:11",
+      "timestamp": "2026-01-27T08:39:38.701Z",
+      "ip": "2405:201:6820:a83c:e52e:5c2:bbcc:a56f",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -84398,7 +84398,7 @@
       "id": "tt36642456",
       "title": "tt36642456",
       "username": "demon18319",
-      "lastActive": 1769498781716
+      "lastActive": 1769502634504
     },
     "2409:40c1:3008:ba11:64d7:78ff:fe8f:c08f": {
       "type": "series",
@@ -84420,6 +84420,13 @@
       "title": "tt0048956",
       "username": "zealousninja",
       "lastActive": 1769502010310
+    },
+    "2405:201:6820:a83c:e52e:5c2:bbcc:a56f": {
+      "type": "series",
+      "id": "tt22091076:2:11",
+      "title": "tt22091076:2:11",
+      "username": "demon18319",
+      "lastActive": 1769503178701
     }
   }
 }
