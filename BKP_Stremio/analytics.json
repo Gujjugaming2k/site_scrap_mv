@@ -1,5 +1,5 @@
 {
-  "totalViews": 17853,
+  "totalViews": 17854,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3839,17 +3839,10 @@
     "2402:3a80:1981:eca3:178:5634:1232:5476",
     "2405:201:900f:a92b:39e0:efed:e98e:93d6",
     "119.42.59.109",
-    "2401:4900:1cb0:5cf4:69db:c6d8:f22c:b76"
+    "2401:4900:1cb0:5cf4:69db:c6d8:f22c:b76",
+    "2a09:bac5:3c96:25cd::3c4:22"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-16T02:15:42.419Z",
-      "ip": "2409:40c1:2c:8ca1:8000::",
-      "username": "mxt34qxr"
-    },
     {
       "type": "series",
       "id": "tt4574334:3:1",
@@ -83841,6 +83834,14 @@
       "timestamp": "2026-01-27T09:54:29.842Z",
       "ip": "94.156.30.47",
       "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt9813792:1:1",
+      "title": "tt9813792:1:1",
+      "timestamp": "2026-01-27T10:09:29.306Z",
+      "ip": "2a09:bac5:3c96:25cd::3c4:22",
+      "username": "belimhuzaifa"
     }
   ],
   "activeNow": {
@@ -84466,6 +84467,13 @@
       "title": "tt33500164",
       "username": "deepak",
       "lastActive": 1769506187473
+    },
+    "2a09:bac5:3c96:25cd::3c4:22": {
+      "type": "series",
+      "id": "tt9813792:1:1",
+      "title": "tt9813792:1:1",
+      "username": "belimhuzaifa",
+      "lastActive": 1769508569306
     }
   }
 }
