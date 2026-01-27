@@ -1,5 +1,5 @@
 {
-  "totalViews": 18110,
+  "totalViews": 18112,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3894,25 +3894,10 @@
     "200.108.55.178",
     "2409:40f4:3e:2054:8851:77ff:fe19:bde4",
     "223.185.22.73",
-    "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab"
+    "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
+    "182.69.181.156"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0903747:1:2",
-      "title": "tt0903747:1:2",
-      "timestamp": "2026-01-16T09:07:07.791Z",
-      "ip": "2401:4900:b8b1:a9d1:414:40f3:b3bf:dbb",
-      "username": "reaper54x"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:1:1",
-      "title": "tt0903747:1:1",
-      "timestamp": "2026-01-16T09:07:15.133Z",
-      "ip": "2401:4900:b8b1:a9d1:414:40f3:b3bf:dbb",
-      "username": "reaper54x"
-    },
     {
       "type": "series",
       "id": "tt0903747:1:2",
@@ -83896,6 +83881,22 @@
       "timestamp": "2026-01-27T20:11:03.628Z",
       "ip": "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
       "username": "nabakun"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:16",
+      "title": "tt0903747:5:16",
+      "timestamp": "2026-01-27T21:55:36.033Z",
+      "ip": "182.69.181.156",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:15",
+      "title": "tt0903747:5:15",
+      "timestamp": "2026-01-27T21:56:17.727Z",
+      "ip": "182.69.181.156",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -84934,6 +84935,13 @@
       "title": "Suicide Squad",
       "username": "nabakun",
       "lastActive": 1769544663628
+    },
+    "182.69.181.156": {
+      "type": "series",
+      "id": "tt0903747:5:15",
+      "title": "tt0903747:5:15",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1769550977727
     }
   }
 }
