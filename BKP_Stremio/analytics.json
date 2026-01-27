@@ -1,5 +1,5 @@
 {
-  "totalViews": 17762,
+  "totalViews": 17767,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3822,49 +3822,10 @@
     "2409:40c1:101b:96e4:a9b2:a002:7a0f:2c77",
     "2a09:bac1:36a0:1e0::2a8:30",
     "2409:40c1:1f:16f7:b4f8:f6ff:da9e:24ea",
-    "2402:3a80:1969:2a02:378:5634:1232:5476"
+    "2402:3a80:1969:2a02:378:5634:1232:5476",
+    "2409:40d2:3009:9493:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0337764:1:1",
-      "title": "tt0337764:1:1",
-      "timestamp": "2026-01-15T20:41:56.761Z",
-      "ip": "105.96.239.158",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2309295:3:10",
-      "title": "tt2309295:3:10",
-      "timestamp": "2026-01-15T20:42:45.197Z",
-      "ip": "2a06:c701:474f:e900:99a:2438:369b:61ab",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2075073:1:1",
-      "title": "tt2075073:1:1",
-      "timestamp": "2026-01-15T20:43:05.052Z",
-      "ip": "105.96.239.158",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0054852",
-      "title": "tt0054852",
-      "timestamp": "2026-01-15T20:43:45.862Z",
-      "ip": "105.96.239.158",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2309295:3:8",
-      "title": "tt2309295:3:8",
-      "timestamp": "2026-01-15T20:44:18.541Z",
-      "ip": "2a06:c701:474f:e900:99a:2438:369b:61ab",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt2309295:3:9",
@@ -83824,6 +83785,46 @@
       "timestamp": "2026-01-27T04:02:07.637Z",
       "ip": "103.24.85.218",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "timestamp": "2026-01-27T04:08:24.561Z",
+      "ip": "94.156.30.47",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:1",
+      "title": "tt0903747:1:1",
+      "timestamp": "2026-01-27T04:11:29.433Z",
+      "ip": "2a09:bac1:36a0:1e0::2a8:30",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt0118751",
+      "title": "tt0118751",
+      "timestamp": "2026-01-27T04:12:17.148Z",
+      "ip": "94.156.30.47",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt38990492:1:2",
+      "title": "tt38990492:1:2",
+      "timestamp": "2026-01-27T04:15:25.201Z",
+      "ip": "190.140.187.206",
+      "username": "ymcinema"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:4:16",
+      "title": "tt0460649:4:16",
+      "timestamp": "2026-01-27T04:16:29.987Z",
+      "ip": "2409:40d2:3009:9493:8000::",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -83983,10 +83984,10 @@
     },
     "94.156.30.47": {
       "type": "movie",
-      "id": "tt28142095",
-      "title": "tt28142095",
+      "id": "tt0118751",
+      "title": "tt0118751",
       "username": "b1jju",
-      "lastActive": 1769486244924
+      "lastActive": 1769487137148
     },
     "43.241.194.253": {
       "type": "series",
@@ -84263,10 +84264,10 @@
     },
     "2a09:bac1:36a0:1e0::2a8:30": {
       "type": "series",
-      "id": "tt0903747:1:2",
-      "title": "tt0903747:1:2",
+      "id": "tt0903747:1:1",
+      "title": "tt0903747:1:1",
       "username": "demon18319",
-      "lastActive": 1769485001541
+      "lastActive": 1769487089433
     },
     "2409:40c1:1f:16f7:b4f8:f6ff:da9e:24ea": {
       "type": "movie",
@@ -84284,10 +84285,17 @@
     },
     "190.140.187.206": {
       "type": "series",
-      "id": "tt38990492:1:3",
-      "title": "tt38990492:1:3",
+      "id": "tt38990492:1:2",
+      "title": "tt38990492:1:2",
       "username": "ymcinema",
-      "lastActive": 1769485294735
+      "lastActive": 1769487325201
+    },
+    "2409:40d2:3009:9493:8000::": {
+      "type": "series",
+      "id": "tt0460649:4:16",
+      "title": "tt0460649:4:16",
+      "username": "demon18319",
+      "lastActive": 1769487389987
     }
   }
 }
