@@ -1,5 +1,5 @@
 {
-  "totalViews": 18112,
+  "totalViews": 18114,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3898,22 +3898,6 @@
     "182.69.181.156"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0903747:1:2",
-      "title": "tt0903747:1:2",
-      "timestamp": "2026-01-16T09:07:17.489Z",
-      "ip": "2401:4900:b8b1:a9d1:414:40f3:b3bf:dbb",
-      "username": "reaper54x"
-    },
-    {
-      "type": "movie",
-      "id": "tt0110912",
-      "title": "Pulp Fiction",
-      "timestamp": "2026-01-16T09:08:42.117Z",
-      "ip": "123.201.95.138",
-      "username": "surti_lala"
-    },
     {
       "type": "series",
       "id": "tt0388629:1:65",
@@ -83897,6 +83881,22 @@
       "timestamp": "2026-01-27T21:56:17.727Z",
       "ip": "182.69.181.156",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:15",
+      "title": "tt0903747:5:15",
+      "timestamp": "2026-01-27T22:30:37.037Z",
+      "ip": "182.69.181.156",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:16",
+      "title": "tt0903747:5:16",
+      "timestamp": "2026-01-27T22:30:43.832Z",
+      "ip": "182.69.181.156",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -84938,10 +84938,10 @@
     },
     "182.69.181.156": {
       "type": "series",
-      "id": "tt0903747:5:15",
-      "title": "tt0903747:5:15",
+      "id": "tt0903747:5:16",
+      "title": "tt0903747:5:16",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769550977727
+      "lastActive": 1769553043832
     }
   }
 }
