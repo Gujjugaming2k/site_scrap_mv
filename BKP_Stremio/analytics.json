@@ -1,5 +1,5 @@
 {
-  "totalViews": 17830,
+  "totalViews": 17833,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3832,33 +3832,11 @@
     "152.58.14.215",
     "119.42.59.8",
     "2401:4900:8820:8915:747e:7b82:51b7:7a1b,2a09:bac5:37ac:1f19::319:20",
-    "49.36.216.248"
+    "49.36.216.248",
+    "2a09:bac1:36c0:5e98::3e2:3f",
+    "2409:40c1:3008:ba11:64d7:78ff:fe8f:c08f"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt34984715",
-      "title": "tt34984715",
-      "timestamp": "2026-01-16T01:19:06.783Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:2:1",
-      "title": "Fallout",
-      "timestamp": "2026-01-16T01:19:12.308Z",
-      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
-      "username": "demon18319"
-    },
-    {
-      "type": "movie",
-      "id": "tt34984715",
-      "title": "tt34984715",
-      "timestamp": "2026-01-16T01:22:24.741Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
     {
       "type": "movie",
       "id": "tt34984715",
@@ -83834,6 +83812,30 @@
       "timestamp": "2026-01-27T07:14:06.723Z",
       "ip": "2401:4900:8820:8915:747e:7b82:51b7:7a1b,2a09:bac5:37ac:1f19::319:20",
       "username": "anonymous_rare"
+    },
+    {
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
+      "timestamp": "2026-01-27T07:25:59.565Z",
+      "ip": "2a09:bac1:36c0:5e98::3e2:3f",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
+      "timestamp": "2026-01-27T07:26:21.716Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:1:1",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-27T07:40:39.275Z",
+      "ip": "2409:40c1:3008:ba11:64d7:78ff:fe8f:c08f",
+      "username": "tips9694"
     }
   ],
   "activeNow": {
@@ -84382,6 +84384,27 @@
       "title": "tt0460649:4:16",
       "username": "demon18319",
       "lastActive": 1769497306041
+    },
+    "2a09:bac1:36c0:5e98::3e2:3f": {
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
+      "username": "demon18319",
+      "lastActive": 1769498759565
+    },
+    "2405:201:6820:a83c:bdef:55c1:5b2d:3408": {
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
+      "username": "demon18319",
+      "lastActive": 1769498781716
+    },
+    "2409:40c1:3008:ba11:64d7:78ff:fe8f:c08f": {
+      "type": "series",
+      "id": "tt12343534:1:1",
+      "title": "JUJUTSU KAISEN",
+      "username": "tips9694",
+      "lastActive": 1769499639275
     }
   }
 }
