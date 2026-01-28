@@ -1,5 +1,5 @@
 {
-  "totalViews": 18501,
+  "totalViews": 18502,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3949,14 +3949,6 @@
     "2401:4900:1c53:3310:e4da:9941:1271:e04c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1399664:2:1",
-      "title": "tt1399664:2:1",
-      "timestamp": "2026-01-16T16:06:10.221Z",
-      "ip": "2405:201:202d:d014:e47b:e67b:c2ca:358f",
-      "username": "explorerindia"
-    },
     {
       "type": "series",
       "id": "tt1399664:2:2",
@@ -83948,6 +83940,14 @@
       "timestamp": "2026-01-28T19:55:10.905Z",
       "ip": "2409:40f3:a:e318:4c38:7d2c:3a26:b46b",
       "username": "sergio_leone96"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:1:2",
+      "title": "tt3032476:1:2",
+      "timestamp": "2026-01-28T20:36:10.874Z",
+      "ip": "182.69.181.156",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -84989,10 +84989,10 @@
     },
     "182.69.181.156": {
       "type": "series",
-      "id": "tt3032476:1:1",
-      "title": "tt3032476:1:1",
+      "id": "tt3032476:1:2",
+      "title": "tt3032476:1:2",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769627170541
+      "lastActive": 1769632570874
     },
     "2409:40f0:2432:6e6d:4019:6dff:fe39:6400": {
       "type": "movie",
