@@ -1,5 +1,5 @@
 {
-  "totalViews": 18268,
+  "totalViews": 18272,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3918,41 +3918,10 @@
     "2409:40c2:540a:ccd8:b0c3:a2ff:feff:8c76",
     "2409:40e5:117d:4942:5dae:5d3e:ce5:7c9c",
     "2404:1c40:5b:5e60:1:0:596:e170",
-    "2a09:bac5:3af1:16aa::242:ba"
+    "2a09:bac5:3af1:16aa::242:ba",
+    "152.58.7.17"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt10233448:1:1",
-      "title": "Vinland Saga",
-      "timestamp": "2026-01-16T11:55:48.355Z",
-      "ip": "2401:4900:8fdf:96e3:13b4:a0d0:b270:9cc8",
-      "username": "arjun2077"
-    },
-    {
-      "type": "series",
-      "id": "tt10233448:1:2",
-      "title": "Vinland Saga",
-      "timestamp": "2026-01-16T11:56:03.314Z",
-      "ip": "2401:4900:8fdf:96e3:13b4:a0d0:b270:9cc8",
-      "username": "arjun2077"
-    },
-    {
-      "type": "series",
-      "id": "tt10233448:1:2",
-      "title": "Vinland Saga",
-      "timestamp": "2026-01-16T11:57:47.179Z",
-      "ip": "2401:4900:8fdf:96e3:13b4:a0d0:b270:9cc8",
-      "username": "arjun2077"
-    },
-    {
-      "type": "series",
-      "id": "tt10233448:1:2",
-      "title": "Vinland Saga",
-      "timestamp": "2026-01-16T11:58:02.508Z",
-      "ip": "2401:4900:8fdf:96e3:13b4:a0d0:b270:9cc8",
-      "username": "arjun2077"
-    },
     {
       "type": "series",
       "id": "tt10233448:1:2",
@@ -83920,15 +83889,47 @@
       "timestamp": "2026-01-28T09:33:02.507Z",
       "ip": "2a09:bac5:3af1:16aa::242:ba",
       "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt30293074:1:3",
+      "title": "tt30293074:1:3",
+      "timestamp": "2026-01-28T09:34:07.330Z",
+      "ip": "152.58.7.17",
+      "username": "targetx_25"
+    },
+    {
+      "type": "series",
+      "id": "tt12125238:2:10",
+      "title": "tt12125238:2:10",
+      "timestamp": "2026-01-28T09:44:41.246Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt12125238:2:11",
+      "title": "tt12125238:2:11",
+      "timestamp": "2026-01-28T09:45:05.508Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt30293074:1:3",
+      "title": "tt30293074:1:3",
+      "timestamp": "2026-01-28T09:47:39.972Z",
+      "ip": "2409:40c2:540a:ccd8:b0c3:a2ff:feff:8c76",
+      "username": "targetx_25"
     }
   ],
   "activeNow": {
     "139.5.196.103": {
-      "type": "movie",
-      "id": "tt33029024",
-      "title": "tt33029024",
+      "type": "series",
+      "id": "tt12125238:2:11",
+      "title": "tt12125238:2:11",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769590152770
+      "lastActive": 1769593505508
     },
     "94.156.30.10": {
       "type": "movie",
@@ -85115,10 +85116,10 @@
     },
     "2409:40c2:540a:ccd8:b0c3:a2ff:feff:8c76": {
       "type": "series",
-      "id": "tt30293074:1:4",
-      "title": "tt30293074:1:4",
+      "id": "tt30293074:1:3",
+      "title": "tt30293074:1:3",
       "username": "targetx_25",
-      "lastActive": 1769589682531
+      "lastActive": 1769593659972
     },
     "2409:40e5:117d:4942:5dae:5d3e:ce5:7c9c": {
       "type": "movie",
@@ -85140,6 +85141,13 @@
       "title": "Fallout",
       "username": "switchoff009",
       "lastActive": 1769592782507
+    },
+    "152.58.7.17": {
+      "type": "series",
+      "id": "tt30293074:1:3",
+      "title": "tt30293074:1:3",
+      "username": "targetx_25",
+      "lastActive": 1769592847330
     }
   }
 }
