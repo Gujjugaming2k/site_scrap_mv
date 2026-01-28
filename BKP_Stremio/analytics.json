@@ -1,5 +1,5 @@
 {
-  "totalViews": 18380,
+  "totalViews": 18385,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3931,46 +3931,6 @@
     "103.134.25.10"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
-      "timestamp": "2026-01-16T14:20:44.937Z",
-      "ip": "2405:201:203e:b800:e311:2031:3724:7f56",
-      "username": "pingmenoone"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-16T14:21:44.851Z",
-      "ip": "103.46.200.248",
-      "username": "brosportses"
-    },
-    {
-      "type": "movie",
-      "id": "tt1187043",
-      "title": "3 Idiots",
-      "timestamp": "2026-01-16T14:28:08.301Z",
-      "ip": "217.216.103.78",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
-      "timestamp": "2026-01-16T14:28:31.888Z",
-      "ip": "217.216.103.78",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
-      "timestamp": "2026-01-16T14:30:27.401Z",
-      "ip": "104.28.209.151,51.89.197.91",
-      "username": "switchoff009"
-    },
     {
       "type": "movie",
       "id": "tt31227572",
@@ -83930,15 +83890,55 @@
       "timestamp": "2026-01-28T14:24:06.436Z",
       "ip": "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
       "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-01-28T14:30:32.262Z",
+      "ip": "103.134.25.10",
+      "username": "spidey_again"
+    },
+    {
+      "type": "series",
+      "id": "tt37449205:1:1",
+      "title": "tt37449205:1:1",
+      "timestamp": "2026-01-28T14:30:53.861Z",
+      "ip": "103.134.25.10",
+      "username": "spidey_again"
+    },
+    {
+      "type": "series",
+      "id": "tt37449205:1:2",
+      "title": "tt37449205:1:2",
+      "timestamp": "2026-01-28T14:30:55.290Z",
+      "ip": "103.134.25.10",
+      "username": "spidey_again"
+    },
+    {
+      "type": "movie",
+      "id": "tt2172954",
+      "title": "The Life List",
+      "timestamp": "2026-01-28T14:37:09.787Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt31852038",
+      "title": "tt31852038",
+      "timestamp": "2026-01-28T14:39:43.761Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
     "139.5.196.103": {
-      "type": "series",
-      "id": "tt12125238:2:12",
-      "title": "tt12125238:2:12",
+      "type": "movie",
+      "id": "tt31852038",
+      "title": "tt31852038",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769597200993
+      "lastActive": 1769611183761
     },
     "94.156.30.10": {
       "type": "movie",
@@ -85240,7 +85240,7 @@
       "id": "tt37449205:1:2",
       "title": "tt37449205:1:2",
       "username": "spidey_again",
-      "lastActive": 1769609312316
+      "lastActive": 1769610655290
     }
   }
 }
