@@ -1,5 +1,5 @@
 {
-  "totalViews": 18423,
+  "totalViews": 18429,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3935,54 +3935,6 @@
     "2409:40e6:16:4f28:688d:d6e:1926:50a3"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0338013",
-      "title": "Eternal Sunshine of the Spotless Mind",
-      "timestamp": "2026-01-16T15:27:11.033Z",
-      "ip": "2401:4900:ab05:c619:bcc0:816c:2307:e82a",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "series",
-      "id": "tt7631058:1:1",
-      "title": "tt7631058:1:1",
-      "timestamp": "2026-01-16T15:27:22.930Z",
-      "ip": "2401:4900:ab05:c619:bcc0:816c:2307:e82a",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "movie",
-      "id": "tt28551273",
-      "title": "tt28551273",
-      "timestamp": "2026-01-16T15:27:49.728Z",
-      "ip": "2402:a00:10a:815f:c71e:8192:f4fd:8777",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt7631058:1:2",
-      "title": "tt7631058:1:2",
-      "timestamp": "2026-01-16T15:28:01.138Z",
-      "ip": "2401:4900:ab05:c619:bcc0:816c:2307:e82a",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "movie",
-      "id": "tt28551273",
-      "title": "tt28551273",
-      "timestamp": "2026-01-16T15:29:10.322Z",
-      "ip": "2402:a00:10a:815f:c71e:8192:f4fd:8777",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt28551273",
-      "title": "tt28551273",
-      "timestamp": "2026-01-16T15:29:14.943Z",
-      "ip": "2402:a00:10a:815f:c71e:8192:f4fd:8777",
-      "username": "vflix1993"
-    },
     {
       "type": "movie",
       "id": "tt32642706",
@@ -83934,15 +83886,63 @@
       "timestamp": "2026-01-28T15:41:23.939Z",
       "ip": "2409:40e6:16:4f28:688d:d6e:1926:50a3",
       "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt0382625",
+      "title": "The Da Vinci Code",
+      "timestamp": "2026-01-28T15:44:31.955Z",
+      "ip": "152.56.67.148",
+      "username": "mailrahulboora"
+    },
+    {
+      "type": "series",
+      "id": "tt15576504:1:2",
+      "title": "tt15576504:1:2",
+      "timestamp": "2026-01-28T15:48:30.604Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt15576504:1:3",
+      "title": "tt15576504:1:3",
+      "timestamp": "2026-01-28T15:49:13.112Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt15576504:1:2",
+      "title": "tt15576504:1:2",
+      "timestamp": "2026-01-28T15:49:26.659Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:2:9",
+      "title": "Lost",
+      "timestamp": "2026-01-28T15:58:30.335Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:2:7",
+      "title": "Lost",
+      "timestamp": "2026-01-28T15:58:30.572Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
     "139.5.196.103": {
       "type": "series",
-      "id": "tt15576504:1:1",
-      "title": "tt15576504:1:1",
+      "id": "tt15576504:1:2",
+      "title": "tt15576504:1:2",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769612234175
+      "lastActive": 1769615366659
     },
     "94.156.30.10": {
       "type": "movie",
@@ -83988,10 +83988,10 @@
     },
     "116.68.74.75": {
       "type": "series",
-      "id": "tt0411008:2:9",
+      "id": "tt0411008:2:7",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1769612664588
+      "lastActive": 1769615910572
     },
     "2409:40d2:3050:5497:9f7d:dd54:5ed0:d8e0": {
       "type": "series",
@@ -85251,7 +85251,7 @@
       "id": "tt0382625",
       "title": "The Da Vinci Code",
       "username": "mailrahulboora",
-      "lastActive": 1769613574134
+      "lastActive": 1769615071955
     },
     "43.231.236.82": {
       "type": "series",
