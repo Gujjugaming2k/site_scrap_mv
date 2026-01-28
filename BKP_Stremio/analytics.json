@@ -1,5 +1,5 @@
 {
-  "totalViews": 18180,
+  "totalViews": 18183,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3906,33 +3906,10 @@
     "2409:40c1:4002:e1e6:8000::",
     "2a09:bac1:36c0:18::20a:4c",
     "2409:40d0:31:6d08:c43f:7126:4b08:f16b",
-    "152.59.152.91"
+    "152.59.152.91",
+    "2409:40d2:3016:9978:8000::"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt23790696",
-      "title": "tt23790696",
-      "timestamp": "2026-01-16T10:15:33.444Z",
-      "ip": "2409:40f0:240b:6643:b0f6:ceff:fef0:7f9f",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "movie",
-      "id": "tt0111161",
-      "title": "The Shawshank Redemption",
-      "timestamp": "2026-01-16T10:16:34.343Z",
-      "ip": "2409:40f0:240b:6643:b0f6:ceff:fef0:7f9f",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "movie",
-      "id": "tt0816258",
-      "title": "tt0816258",
-      "timestamp": "2026-01-16T10:17:16.272Z",
-      "ip": "2409:40f0:240b:6643:b0f6:ceff:fef0:7f9f",
-      "username": "sachinprem1"
-    },
     {
       "type": "series",
       "id": "tt4574334:5:1",
@@ -83908,6 +83885,30 @@
       "timestamp": "2026-01-28T06:23:46.699Z",
       "ip": "2409:40d0:31:6d08:c43f:7126:4b08:f16b",
       "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-01-28T06:32:29.800Z",
+      "ip": "2409:40d2:3016:9978:8000::",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "timestamp": "2026-01-28T06:33:00.349Z",
+      "ip": "2409:40d2:3016:9978:8000::",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt2263944",
+      "title": "tt2263944",
+      "timestamp": "2026-01-28T06:41:26.432Z",
+      "ip": "202.173.124.12",
+      "username": "ryuzaklo26"
     }
   ],
   "activeNow": {
@@ -85030,6 +85031,20 @@
       "title": "tt26443597",
       "username": "nabakun",
       "lastActive": 1769580460076
+    },
+    "2409:40d2:3016:9978:8000::": {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "username": "saurabhkaperwan",
+      "lastActive": 1769581980349
+    },
+    "202.173.124.12": {
+      "type": "movie",
+      "id": "tt2263944",
+      "title": "tt2263944",
+      "username": "ryuzaklo26",
+      "lastActive": 1769582486432
     }
   }
 }
