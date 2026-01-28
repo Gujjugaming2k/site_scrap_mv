@@ -1,5 +1,5 @@
 {
-  "totalViews": 18165,
+  "totalViews": 18168,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3907,30 +3907,6 @@
     "2a09:bac1:36c0:18::20a:4c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2359704:5:38",
-      "title": "tt2359704:5:38",
-      "timestamp": "2026-01-16T10:02:39.272Z",
-      "ip": "2a09:bac5:3fda:eaa::176:4c",
-      "username": "sinbad1722"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-16T10:02:47.681Z",
-      "ip": "160.238.73.160",
-      "username": "mr_anonymous_0004"
-    },
-    {
-      "type": "series",
-      "id": "tt0159206:4:3",
-      "title": "tt0159206:4:3",
-      "timestamp": "2026-01-16T10:03:34.681Z",
-      "ip": "2a06:c701:98f3:1500:b5ce:cf03:5459:9251",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0159206:4:2",
@@ -83906,6 +83882,30 @@
       "timestamp": "2026-01-28T05:36:53.309Z",
       "ip": "2a09:bac1:36c0:18::20a:4c",
       "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-01-28T05:44:47.452Z",
+      "ip": "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
+      "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt31712109",
+      "title": "tt31712109",
+      "timestamp": "2026-01-28T05:46:07.292Z",
+      "ip": "115.98.99.86",
+      "username": "nothingokk"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-01-28T05:46:29.818Z",
+      "ip": "2a09:bac1:36c0:18::20a:4c",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -83939,10 +83939,10 @@
     },
     "115.98.99.86": {
       "type": "movie",
-      "id": "tt15732324",
-      "title": "tt15732324",
+      "id": "tt31712109",
+      "title": "tt31712109",
       "username": "nothingokk",
-      "lastActive": 1769487709120
+      "lastActive": 1769579167292
     },
     "103.175.168.106": {
       "type": "series",
@@ -84940,10 +84940,10 @@
     },
     "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab": {
       "type": "movie",
-      "id": "tt36616410",
-      "title": "tt36616410",
+      "id": "tt33244668",
+      "title": "tt33244668",
       "username": "nabakun",
-      "lastActive": 1769575411271
+      "lastActive": 1769579087452
     },
     "182.69.181.156": {
       "type": "series",
@@ -85009,11 +85009,11 @@
       "lastActive": 1769577394428
     },
     "2a09:bac1:36c0:18::20a:4c": {
-      "type": "series",
-      "id": "tt31938062:1:2",
-      "title": "tt31938062:1:2",
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
       "username": "saurabhkaperwan",
-      "lastActive": 1769578613309
+      "lastActive": 1769579189818
     }
   }
 }
