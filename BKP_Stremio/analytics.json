@@ -1,5 +1,5 @@
 {
-  "totalViews": 18291,
+  "totalViews": 18294,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3920,33 +3920,11 @@
     "2404:1c40:5b:5e60:1:0:596:e170",
     "2a09:bac5:3af1:16aa::242:ba",
     "152.58.7.17",
-    "2a09:bac1:36e0:1a8::2a6:1d"
+    "2a09:bac1:36e0:1a8::2a6:1d",
+    "2a09:bac5:3af1:16aa::242:70",
+    "2401:9640:801:8985:5859:9e2c:5f29:56d5"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4508902",
-      "title": "tt4508902",
-      "timestamp": "2026-01-16T12:35:00.586Z",
-      "ip": "2405:201:500c:496b:2e1b:3aff:fe14:f417",
-      "username": "karthik"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:13",
-      "title": "Death Note",
-      "timestamp": "2026-01-16T12:39:13.802Z",
-      "ip": "2409:40d4:40db:ad3e:7de6:32d7:fd92:bca6",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt10233448:1:1",
-      "title": "Vinland Saga",
-      "timestamp": "2026-01-16T12:43:22.766Z",
-      "ip": "2401:4900:8fdf:96e3:13b4:a0d0:b270:9cc8",
-      "username": "arjun2077"
-    },
     {
       "type": "movie",
       "id": "tt2555958",
@@ -83922,6 +83900,30 @@
       "timestamp": "2026-01-28T10:46:40.993Z",
       "ip": "139.5.196.103",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt21066182:1:2",
+      "title": "tt21066182:1:2",
+      "timestamp": "2026-01-28T10:59:38.623Z",
+      "ip": "2a09:bac5:3af1:16aa::242:70",
+      "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt36614693:1:5",
+      "title": "tt36614693:1:5",
+      "timestamp": "2026-01-28T11:03:12.973Z",
+      "ip": "2401:9640:801:8985:5859:9e2c:5f29:56d5",
+      "username": "superememayank"
+    },
+    {
+      "type": "series",
+      "id": "tt36614693:2:1",
+      "title": "tt36614693:2:1",
+      "timestamp": "2026-01-28T11:03:51.519Z",
+      "ip": "2401:9640:801:8985:5859:9e2c:5f29:56d5",
+      "username": "superememayank"
     }
   ],
   "activeNow": {
@@ -85170,6 +85172,20 @@
       "title": "tt26225038:1:2",
       "username": "demon18319",
       "lastActive": 1769595346636
+    },
+    "2a09:bac5:3af1:16aa::242:70": {
+      "type": "series",
+      "id": "tt21066182:1:2",
+      "title": "tt21066182:1:2",
+      "username": "switchoff009",
+      "lastActive": 1769597978623
+    },
+    "2401:9640:801:8985:5859:9e2c:5f29:56d5": {
+      "type": "series",
+      "id": "tt36614693:2:1",
+      "title": "tt36614693:2:1",
+      "username": "superememayank",
+      "lastActive": 1769598231519
     }
   }
 }
