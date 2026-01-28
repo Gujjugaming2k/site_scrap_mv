@@ -1,5 +1,5 @@
 {
-  "totalViews": 18236,
+  "totalViews": 18241,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3910,49 +3910,11 @@
     "2409:40d2:3016:9978:8000::",
     "2409:40f0:2425:a5cf:f04e:61ff:fe9f:b095",
     "157.50.126.79",
-    "2a09:bac1:36c0:5e98::49b:20"
+    "2a09:bac1:36c0:5e98::49b:20",
+    "152.56.67.88",
+    "2a09:bac5:3e9b:1478::20a:94"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31938062:1:11",
-      "title": "tt31938062:1:11",
-      "timestamp": "2026-01-16T11:37:18.806Z",
-      "ip": "202.142.105.140",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:13",
-      "title": "Death Note",
-      "timestamp": "2026-01-16T11:37:38.803Z",
-      "ip": "2409:40d4:40db:ad3e:8000::",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1375666",
-      "title": "Inception",
-      "timestamp": "2026-01-16T11:38:19.164Z",
-      "ip": "2401:4900:88b8:e518:ebdb:32e2:8a7f:e59b",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:13",
-      "title": "Death Note",
-      "timestamp": "2026-01-16T11:38:27.660Z",
-      "ip": "2409:40d4:40db:ad3e:8000::",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:13",
-      "title": "Death Note",
-      "timestamp": "2026-01-16T11:38:34.132Z",
-      "ip": "2409:40d4:40db:ad3e:8000::",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt28299608:1:1",
@@ -83912,6 +83874,46 @@
       "timestamp": "2026-01-28T08:12:42.336Z",
       "ip": "103.24.85.218",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-01-28T08:18:46.178Z",
+      "ip": "152.56.67.88",
+      "username": "mailrahulboora"
+    },
+    {
+      "type": "movie",
+      "id": "tt28258888",
+      "title": "tt28258888",
+      "timestamp": "2026-01-28T08:19:12.647Z",
+      "ip": "115.98.99.86",
+      "username": "nothingokk"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:3",
+      "title": "tt1399664:1:3",
+      "timestamp": "2026-01-28T08:19:58.868Z",
+      "ip": "103.24.85.218",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057",
+      "title": "Death Note",
+      "timestamp": "2026-01-28T08:22:36.351Z",
+      "ip": "2a09:bac5:3e9b:1478::20a:94",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:1",
+      "title": "Death Note",
+      "timestamp": "2026-01-28T08:22:48.456Z",
+      "ip": "2a09:bac5:3e9b:1478::20a:94",
+      "username": "belimhuzaifa"
     }
   ],
   "activeNow": {
@@ -83945,10 +83947,10 @@
     },
     "115.98.99.86": {
       "type": "movie",
-      "id": "tt31712109",
-      "title": "tt31712109",
+      "id": "tt28258888",
+      "title": "tt28258888",
       "username": "nothingokk",
-      "lastActive": 1769579167292
+      "lastActive": 1769588352647
     },
     "103.175.168.106": {
       "type": "series",
@@ -84025,7 +84027,7 @@
       "id": "tt1399664:1:3",
       "title": "tt1399664:1:3",
       "username": "william097",
-      "lastActive": 1769587962336
+      "lastActive": 1769588398868
     },
     "2401:4900:81f3:446d:d59:e423:df18:25f": {
       "type": "movie",
@@ -85076,6 +85078,20 @@
       "title": "tt0460649:4:20",
       "username": "demon18319",
       "lastActive": 1769587597964
+    },
+    "152.56.67.88": {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "username": "mailrahulboora",
+      "lastActive": 1769588326178
+    },
+    "2a09:bac5:3e9b:1478::20a:94": {
+      "type": "series",
+      "id": "tt0877057:1:1",
+      "title": "Death Note",
+      "username": "belimhuzaifa",
+      "lastActive": 1769588568456
     }
   }
 }
