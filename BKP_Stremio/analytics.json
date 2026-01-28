@@ -1,5 +1,5 @@
 {
-  "totalViews": 18143,
+  "totalViews": 18146,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3902,30 +3902,6 @@
     "2401:4900:b571:2456:bcf3:e9ff:fea7:a277"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt21030032:1:1",
-      "title": "tt21030032:1:1",
-      "timestamp": "2026-01-16T09:23:16.306Z",
-      "ip": "2a09:bac5:3fda:eaa::176:4c",
-      "username": "sinbad1722"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:2:2",
-      "title": "Fallout",
-      "timestamp": "2026-01-16T09:23:16.665Z",
-      "ip": "47.15.113.2",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt22248376:1:5",
-      "title": "tt22248376:1:5",
-      "timestamp": "2026-01-16T09:23:18.091Z",
-      "ip": "2a09:bac5:3fda:eaa::176:4c",
-      "username": "sinbad1722"
-    },
     {
       "type": "series",
       "id": "tt35335046:1:4",
@@ -83901,6 +83877,30 @@
       "timestamp": "2026-01-28T03:42:28.973Z",
       "ip": "2401:4900:b571:2456:bcf3:e9ff:fea7:a277",
       "username": "adshoyi"
+    },
+    {
+      "type": "movie",
+      "id": "tt13640696",
+      "title": "tt13640696",
+      "timestamp": "2026-01-28T04:36:09.743Z",
+      "ip": "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
+      "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt0197861",
+      "title": "tt0197861",
+      "timestamp": "2026-01-28T04:36:13.262Z",
+      "ip": "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
+      "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt0110958",
+      "title": "tt0110958",
+      "timestamp": "2026-01-28T04:36:24.523Z",
+      "ip": "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
+      "username": "nabakun"
     }
   ],
   "activeNow": {
@@ -84935,10 +84935,10 @@
     },
     "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab": {
       "type": "movie",
-      "id": "tt26581740",
-      "title": "Weapons",
+      "id": "tt0110958",
+      "title": "tt0110958",
       "username": "nabakun",
-      "lastActive": 1769567744019
+      "lastActive": 1769574984523
     },
     "182.69.181.156": {
       "type": "series",
