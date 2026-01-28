@@ -1,5 +1,5 @@
 {
-  "totalViews": 18139,
+  "totalViews": 18141,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3897,25 +3897,10 @@
     "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
     "182.69.181.156",
     "2409:40f0:2432:6e6d:4019:6dff:fe39:6400",
-    "2409:40d7:103b:d1ab:d8e3:dff:fe39:ba21"
+    "2409:40d7:103b:d1ab:d8e3:dff:fe39:ba21",
+    "2a09:bac5:40d3:c8::14:2cb"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-16T09:22:31.653Z",
-      "ip": "2405:201:900f:a92b:98f4:be9d:dd5d:32c3",
-      "username": "theonlyfreak"
-    },
-    {
-      "type": "series",
-      "id": "tt17220216:1:3",
-      "title": "tt17220216:1:3",
-      "timestamp": "2026-01-16T09:22:49.948Z",
-      "ip": "2409:40e0:114a:cd4a:2168:2927:c02a:ffba",
-      "username": "nobody_ismy_name"
-    },
     {
       "type": "series",
       "id": "tt35335046:1:3",
@@ -83899,6 +83884,22 @@
       "timestamp": "2026-01-28T02:47:50.956Z",
       "ip": "103.24.85.218",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt21272942",
+      "title": "tt21272942",
+      "timestamp": "2026-01-28T02:50:51.005Z",
+      "ip": "2a09:bac5:40d3:c8::14:2cb",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "timestamp": "2026-01-28T02:51:35.124Z",
+      "ip": "2a09:bac5:40d3:c8::14:2cb",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -84958,6 +84959,13 @@
       "title": "tt7098658",
       "username": "mailrahulboora",
       "lastActive": 1769561926263
+    },
+    "2a09:bac5:40d3:c8::14:2cb": {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "username": "demon18319",
+      "lastActive": 1769568695124
     }
   }
 }
