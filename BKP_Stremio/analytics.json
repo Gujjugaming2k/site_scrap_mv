@@ -1,5 +1,5 @@
 {
-  "totalViews": 18484,
+  "totalViews": 18488,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3944,41 +3944,10 @@
     "2409:40f4:ac:ce6c:f41f:1cff:feea:d7e3",
     "2409:40d0:12ef:32b0:74:77ff:fe04:ae97",
     "2405:201:6046:502b:f156:fdf6:bfb9:5ca0",
-    "139.144.204.177"
+    "139.144.204.177",
+    "2409:40f3:a:e318:4c38:7d2c:3a26:b46b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt33035373:1:1",
-      "title": "tt33035373:1:1",
-      "timestamp": "2026-01-16T15:59:09.291Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt4972582",
-      "title": "Split",
-      "timestamp": "2026-01-16T16:00:17.366Z",
-      "ip": "2a09:bac5:3af4:1aa0::2a7:97,51.89.197.91",
-      "username": "switchoff009"
-    },
-    {
-      "type": "series",
-      "id": "tt33035373:1:3",
-      "title": "tt33035373:1:3",
-      "timestamp": "2026-01-16T16:00:24.579Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt33035373:1:4",
-      "title": "tt33035373:1:4",
-      "timestamp": "2026-01-16T16:00:40.867Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
     {
       "type": "series",
       "id": "tt33035373:1:4",
@@ -83946,6 +83915,38 @@
       "timestamp": "2026-01-28T18:38:05.415Z",
       "ip": "139.144.204.177",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt0088247",
+      "title": "The Terminator",
+      "timestamp": "2026-01-28T18:58:40.932Z",
+      "ip": "2409:40f3:a:e318:4c38:7d2c:3a26:b46b",
+      "username": "sergio_leone96"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:5:16",
+      "title": "tt0903747:5:16",
+      "timestamp": "2026-01-28T19:00:30.505Z",
+      "ip": "182.69.181.156",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:1:1",
+      "title": "tt3032476:1:1",
+      "timestamp": "2026-01-28T19:01:57.235Z",
+      "ip": "182.69.181.156",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-28T19:03:21.885Z",
+      "ip": "182.69.181.156",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -84986,11 +84987,11 @@
       "lastActive": 1769612212869
     },
     "182.69.181.156": {
-      "type": "series",
-      "id": "tt12637874:1:1",
-      "title": "Fallout",
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769616892346
+      "lastActive": 1769627001885
     },
     "2409:40f0:2432:6e6d:4019:6dff:fe39:6400": {
       "type": "movie",
@@ -85376,6 +85377,13 @@
       "title": "tt7462410:2:1",
       "username": "gaendaswami",
       "lastActive": 1769625485415
+    },
+    "2409:40f3:a:e318:4c38:7d2c:3a26:b46b": {
+      "type": "movie",
+      "id": "tt0088247",
+      "title": "The Terminator",
+      "username": "sergio_leone96",
+      "lastActive": 1769626720932
     }
   }
 }
