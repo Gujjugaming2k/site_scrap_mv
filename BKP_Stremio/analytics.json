@@ -1,5 +1,5 @@
 {
-  "totalViews": 18183,
+  "totalViews": 18190,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3910,62 +3910,6 @@
     "2409:40d2:3016:9978:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:5:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-16T10:17:41.637Z",
-      "ip": "2401:4900:51e2:7341:d8e7:c5ff:fe3e:541c",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt5039054",
-      "title": "tt5039054",
-      "timestamp": "2026-01-16T10:18:03.085Z",
-      "ip": "2409:40f0:240b:6643:b0f6:ceff:fef0:7f9f",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-16T10:19:12.849Z",
-      "ip": "2401:4900:51e2:7341:d8e7:c5ff:fe3e:541c",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
-      "timestamp": "2026-01-16T10:19:51.209Z",
-      "ip": "2409:40f0:240b:6643:b0f6:ceff:fef0:7f9f",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "movie",
-      "id": "tt1375666",
-      "title": "Inception",
-      "timestamp": "2026-01-16T10:19:53.931Z",
-      "ip": "2401:4900:51e2:7341:d8e7:c5ff:fe3e:541c",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0425112",
-      "title": "tt0425112",
-      "timestamp": "2026-01-16T10:21:10.683Z",
-      "ip": "2404:bd00:3:dc97:b65e:cb71:f094:70f7",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt23790696",
-      "title": "tt23790696",
-      "timestamp": "2026-01-16T10:21:22.915Z",
-      "ip": "2409:40f0:240b:6643:b0f6:ceff:fef0:7f9f",
-      "username": "sachinprem1"
-    },
     {
       "type": "movie",
       "id": "tt21272942",
@@ -83909,6 +83853,62 @@
       "timestamp": "2026-01-28T06:41:26.432Z",
       "ip": "202.173.124.12",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt7423538:1:1",
+      "title": "tt7423538:1:1",
+      "timestamp": "2026-01-28T06:44:01.926Z",
+      "ip": "103.46.200.35",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "series",
+      "id": "tt7423538:1:2",
+      "title": "tt7423538:1:2",
+      "timestamp": "2026-01-28T06:44:20.983Z",
+      "ip": "103.46.200.35",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:1:2",
+      "title": "tt31938062:1:2",
+      "timestamp": "2026-01-28T06:48:07.271Z",
+      "ip": "2409:40d2:3016:9978:8000::",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:1:3",
+      "title": "tt31938062:1:3",
+      "timestamp": "2026-01-28T06:48:47.335Z",
+      "ip": "2409:40d2:3016:9978:8000::",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:2:4",
+      "title": "Lost",
+      "timestamp": "2026-01-28T06:53:56.116Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:2:6",
+      "title": "Lost",
+      "timestamp": "2026-01-28T06:54:15.149Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:2:7",
+      "title": "Lost",
+      "timestamp": "2026-01-28T06:54:35.302Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -83966,7 +83966,7 @@
       "id": "tt0411008:2:7",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1769538222399
+      "lastActive": 1769583275302
     },
     "2409:40d2:3050:5497:9f7d:dd54:5ed0:d8e0": {
       "type": "series",
@@ -84123,11 +84123,11 @@
       "lastActive": 1769441412382
     },
     "103.46.200.35": {
-      "type": "movie",
-      "id": "tt3612616",
-      "title": "tt3612616",
+      "type": "series",
+      "id": "tt7423538:1:2",
+      "title": "tt7423538:1:2",
       "username": "katdenningssss",
-      "lastActive": 1769565373816
+      "lastActive": 1769582660983
     },
     "223.181.77.202": {
       "type": "series",
@@ -85034,10 +85034,10 @@
     },
     "2409:40d2:3016:9978:8000::": {
       "type": "series",
-      "id": "tt27497448:1:2",
-      "title": "tt27497448:1:2",
+      "id": "tt31938062:1:3",
+      "title": "tt31938062:1:3",
       "username": "saurabhkaperwan",
-      "lastActive": 1769581980349
+      "lastActive": 1769582927335
     },
     "202.173.124.12": {
       "type": "movie",
