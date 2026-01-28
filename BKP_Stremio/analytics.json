@@ -1,5 +1,5 @@
 {
-  "totalViews": 18421,
+  "totalViews": 18423,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3930,25 +3930,11 @@
     "2405:201:500c:4056:d080:edf2:b18b:6262",
     "103.134.25.10",
     "152.56.67.148",
-    "2409:40e5:13:5e2d:803e:a7ff:febb:7c62"
+    "2409:40e5:13:5e2d:803e:a7ff:febb:7c62",
+    "2409:40d7:103b:d1ab:2c3c:61ff:fe49:94be",
+    "2409:40e6:16:4f28:688d:d6e:1926:50a3"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt9479882",
-      "title": "tt9479882",
-      "timestamp": "2026-01-16T15:03:23.792Z",
-      "ip": "2405:201:6025:a88d:b7ba:af9:dc82:6451",
-      "username": "infinityseeker"
-    },
-    {
-      "type": "movie",
-      "id": "tt28486669",
-      "title": "tt28486669",
-      "timestamp": "2026-01-16T15:19:53.194Z",
-      "ip": "2409:40e6:25b:a035:987c:faff:fe3a:2fc9",
-      "username": "nabakun24"
-    },
     {
       "type": "movie",
       "id": "tt0338013",
@@ -83932,6 +83918,22 @@
       "timestamp": "2026-01-28T15:26:43.372Z",
       "ip": "38.134.138.246",
       "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt0382625",
+      "title": "The Da Vinci Code",
+      "timestamp": "2026-01-28T15:37:20.037Z",
+      "ip": "2409:40d7:103b:d1ab:2c3c:61ff:fe49:94be",
+      "username": "mailrahulboora"
+    },
+    {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "timestamp": "2026-01-28T15:41:23.939Z",
+      "ip": "2409:40e6:16:4f28:688d:d6e:1926:50a3",
+      "username": "nabakun"
     }
   ],
   "activeNow": {
@@ -85264,6 +85266,20 @@
       "title": "tt30387012",
       "username": "cyberboy12321",
       "lastActive": 1769612663937
+    },
+    "2409:40d7:103b:d1ab:2c3c:61ff:fe49:94be": {
+      "type": "movie",
+      "id": "tt0382625",
+      "title": "The Da Vinci Code",
+      "username": "mailrahulboora",
+      "lastActive": 1769614640037
+    },
+    "2409:40e6:16:4f28:688d:d6e:1926:50a3": {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "username": "nabakun",
+      "lastActive": 1769614883939
     }
   }
 }
