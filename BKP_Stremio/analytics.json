@@ -1,5 +1,5 @@
 {
-  "totalViews": 18438,
+  "totalViews": 18442,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3932,41 +3932,11 @@
     "152.56.67.148",
     "2409:40e5:13:5e2d:803e:a7ff:febb:7c62",
     "2409:40d7:103b:d1ab:2c3c:61ff:fe49:94be",
-    "2409:40e6:16:4f28:688d:d6e:1926:50a3"
+    "2409:40e6:16:4f28:688d:d6e:1926:50a3",
+    "110.227.52.224",
+    "152.59.151.255"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt14465196",
-      "title": "tt14465196",
-      "timestamp": "2026-01-16T15:35:14.738Z",
-      "ip": "2401:4900:8fe2:4c46:1d5c:6316:70f9:2f3c",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-16T15:35:19.778Z",
-      "ip": "2402:a00:10a:815f:c71e:8192:f4fd:8777",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt38525492",
-      "title": "tt38525492",
-      "timestamp": "2026-01-16T15:35:37.225Z",
-      "ip": "2401:4900:8fe2:4c46:1d5c:6316:70f9:2f3c",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-16T15:37:48.213Z",
-      "ip": "2402:a00:10a:815f:c71e:8192:f4fd:8777",
-      "username": "vflix1993"
-    },
     {
       "type": "movie",
       "id": "tt33500164",
@@ -83934,15 +83904,47 @@
       "timestamp": "2026-01-28T16:13:37.148Z",
       "ip": "139.5.196.103",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:1:1",
+      "title": "Fallout",
+      "timestamp": "2026-01-28T16:14:52.346Z",
+      "ip": "182.69.181.156",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt37356230:1:5",
+      "title": "tt37356230:1:5",
+      "timestamp": "2026-01-28T16:19:10.024Z",
+      "ip": "110.227.52.224",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt0356910",
+      "title": "Mr. & Mrs. Smith",
+      "timestamp": "2026-01-28T16:20:11.564Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "timestamp": "2026-01-28T16:23:27.349Z",
+      "ip": "152.59.151.255",
+      "username": "nabakun"
     }
   ],
   "activeNow": {
     "139.5.196.103": {
-      "type": "series",
-      "id": "tt15576504:1:2",
-      "title": "tt15576504:1:2",
+      "type": "movie",
+      "id": "tt0356910",
+      "title": "Mr. & Mrs. Smith",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769616817148
+      "lastActive": 1769617211564
     },
     "94.156.30.10": {
       "type": "movie",
@@ -84975,10 +84977,10 @@
     },
     "182.69.181.156": {
       "type": "series",
-      "id": "tt0903747:5:16",
-      "title": "tt0903747:5:16",
+      "id": "tt12637874:1:1",
+      "title": "Fallout",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769599295406
+      "lastActive": 1769616892346
     },
     "2409:40f0:2432:6e6d:4019:6dff:fe39:6400": {
       "type": "movie",
@@ -85280,6 +85282,20 @@
       "title": "tt28142095",
       "username": "nabakun",
       "lastActive": 1769614883939
+    },
+    "110.227.52.224": {
+      "type": "series",
+      "id": "tt37356230:1:5",
+      "title": "tt37356230:1:5",
+      "username": "b1jju",
+      "lastActive": 1769617150024
+    },
+    "152.59.151.255": {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "username": "nabakun",
+      "lastActive": 1769617407349
     }
   }
 }
