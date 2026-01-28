@@ -1,5 +1,5 @@
 {
-  "totalViews": 18500,
+  "totalViews": 18501,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3949,14 +3949,6 @@
     "2401:4900:1c53:3310:e4da:9941:1271:e04c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0412142:8:11",
-      "title": "tt0412142:8:11",
-      "timestamp": "2026-01-16T16:04:54.598Z",
-      "ip": "82.79.141.254",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt1399664:2:1",
@@ -83948,6 +83940,14 @@
       "timestamp": "2026-01-28T19:37:24.725Z",
       "ip": "2409:40f3:a:e318:4c38:7d2c:3a26:b46b",
       "username": "sergio_leone96"
+    },
+    {
+      "type": "movie",
+      "id": "tt0110912",
+      "title": "Pulp Fiction",
+      "timestamp": "2026-01-28T19:55:10.905Z",
+      "ip": "2409:40f3:a:e318:4c38:7d2c:3a26:b46b",
+      "username": "sergio_leone96"
     }
   ],
   "activeNow": {
@@ -85384,7 +85384,7 @@
       "id": "tt0110912",
       "title": "Pulp Fiction",
       "username": "sergio_leone96",
-      "lastActive": 1769629044725
+      "lastActive": 1769630110905
     },
     "2401:4900:1c53:3310:e4da:9941:1271:e04c": {
       "type": "series",
