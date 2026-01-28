@@ -1,5 +1,5 @@
 {
-  "totalViews": 18467,
+  "totalViews": 18472,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3942,49 +3942,10 @@
     "2405:201:2022:b81c:a4da:f841:8eb2:a856",
     "2409:40e0:28:c5d3:4b3:4038:8d36:c355",
     "2409:40f4:ac:ce6c:f41f:1cff:feea:d7e3",
-    "2409:40d0:12ef:32b0:74:77ff:fe04:ae97"
+    "2409:40d0:12ef:32b0:74:77ff:fe04:ae97",
+    "2405:201:6046:502b:f156:fdf6:bfb9:5ca0"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0227972:27:52",
-      "title": "WWE SmackDown",
-      "timestamp": "2026-01-16T15:49:47.301Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt15427952",
-      "title": "tt15427952",
-      "timestamp": "2026-01-16T15:50:07.057Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt29638896",
-      "title": "tt29638896",
-      "timestamp": "2026-01-16T15:52:22.111Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt29638896",
-      "title": "tt29638896",
-      "timestamp": "2026-01-16T15:52:34.705Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt1187043",
-      "title": "3 Idiots",
-      "timestamp": "2026-01-16T15:52:41.222Z",
-      "ip": "94.156.30.218",
-      "username": "arju"
-    },
     {
       "type": "series",
       "id": "tt1399664:2:1",
@@ -83944,6 +83905,46 @@
       "timestamp": "2026-01-28T18:00:13.338Z",
       "ip": "2409:40d0:12ef:32b0:74:77ff:fe04:ae97",
       "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-01-28T18:11:36.630Z",
+      "ip": "2405:201:6046:502b:f156:fdf6:bfb9:5ca0",
+      "username": "fardeen"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:2:11",
+      "title": "Lost",
+      "timestamp": "2026-01-28T18:14:10.155Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:2:10",
+      "title": "Lost",
+      "timestamp": "2026-01-28T18:14:12.615Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:2:10",
+      "title": "Lost",
+      "timestamp": "2026-01-28T18:14:22.799Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:2:12",
+      "title": "Lost",
+      "timestamp": "2026-01-28T18:16:31.956Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -83998,10 +83999,10 @@
     },
     "116.68.74.75": {
       "type": "series",
-      "id": "tt0411008:2:10",
+      "id": "tt0411008:2:12",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1769621158241
+      "lastActive": 1769624191956
     },
     "2409:40d2:3050:5497:9f7d:dd54:5ed0:d8e0": {
       "type": "series",
@@ -85360,6 +85361,13 @@
       "title": "tt2306299:2:2",
       "username": "magicmannn",
       "lastActive": 1769623213338
+    },
+    "2405:201:6046:502b:f156:fdf6:bfb9:5ca0": {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "username": "fardeen",
+      "lastActive": 1769623896630
     }
   }
 }
