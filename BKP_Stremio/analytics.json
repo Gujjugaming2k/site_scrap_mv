@@ -1,5 +1,5 @@
 {
-  "totalViews": 18286,
+  "totalViews": 18290,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3923,38 +3923,6 @@
     "2a09:bac1:36e0:1a8::2a6:1d"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt23790696",
-      "title": "tt23790696",
-      "timestamp": "2026-01-16T12:28:49.253Z",
-      "ip": "2402:a00:10a:815f:25d7:5734:db7:e3be",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt15239678",
-      "title": "Dune: Part Two",
-      "timestamp": "2026-01-16T12:29:02.252Z",
-      "ip": "104.28.241.158,51.89.197.91",
-      "username": "switchoff009"
-    },
-    {
-      "type": "movie",
-      "id": "tt14107334",
-      "title": "tt14107334",
-      "timestamp": "2026-01-16T12:31:25.506Z",
-      "ip": "2402:a00:10a:815f:25d7:5734:db7:e3be",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-16T12:31:30.057Z",
-      "ip": "2405:201:500c:496b:2e1b:3aff:fe14:f417",
-      "username": "karthik"
-    },
     {
       "type": "series",
       "id": "tt12343534",
@@ -83922,6 +83890,38 @@
       "timestamp": "2026-01-28T10:18:02.245Z",
       "ip": "202.88.248.175",
       "username": "deepak"
+    },
+    {
+      "type": "series",
+      "id": "tt21066182:1:1",
+      "title": "tt21066182:1:1",
+      "timestamp": "2026-01-28T10:24:13.210Z",
+      "ip": "2a09:bac5:3af1:16aa::242:ba",
+      "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt21066182:1:2",
+      "title": "tt21066182:1:2",
+      "timestamp": "2026-01-28T10:25:22.169Z",
+      "ip": "2a09:bac5:3af1:16aa::242:ba",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-01-28T10:30:49.651Z",
+      "ip": "103.46.200.35",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-01-28T10:31:20.084Z",
+      "ip": "103.46.200.35",
+      "username": "katdenningssss"
     }
   ],
   "activeNow": {
@@ -84136,11 +84136,11 @@
       "lastActive": 1769441412382
     },
     "103.46.200.35": {
-      "type": "series",
-      "id": "tt14076044:1:1",
-      "title": "WondLa",
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
       "username": "katdenningssss",
-      "lastActive": 1769587755522
+      "lastActive": 1769596280084
     },
     "223.181.77.202": {
       "type": "series",
@@ -85138,10 +85138,10 @@
     },
     "2a09:bac5:3af1:16aa::242:ba": {
       "type": "series",
-      "id": "tt12637874:2:7",
-      "title": "Fallout",
+      "id": "tt21066182:1:2",
+      "title": "tt21066182:1:2",
       "username": "switchoff009",
-      "lastActive": 1769592782507
+      "lastActive": 1769595922169
     },
     "152.58.7.17": {
       "type": "series",
