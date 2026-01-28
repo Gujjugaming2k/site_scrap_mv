@@ -1,5 +1,5 @@
 {
-  "totalViews": 18163,
+  "totalViews": 18165,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3903,25 +3903,10 @@
     "2401:4900:ab97:546c:108f:96ff:fed6:ab00",
     "2409:40e6:16:4f28:6019:70cb:9fb6:4915",
     "2a09:bac5:3c92:1d0f::2e5:10",
-    "2409:40c1:4002:e1e6:8000::"
+    "2409:40c1:4002:e1e6:8000::",
+    "2a09:bac1:36c0:18::20a:4c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12637874:2:3",
-      "title": "Fallout",
-      "timestamp": "2026-01-16T10:00:21.399Z",
-      "ip": "47.15.113.2",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt0159206:4:2",
-      "title": "tt0159206:4:2",
-      "timestamp": "2026-01-16T10:01:42.177Z",
-      "ip": "2a06:c701:98f3:1500:b5ce:cf03:5459:9251",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt2359704:5:38",
@@ -83905,6 +83890,22 @@
       "timestamp": "2026-01-28T05:23:48.770Z",
       "ip": "2401:4900:8fe2:b916:357a:1c7c:326c:2f6f",
       "username": "ashwanileon"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:1:1",
+      "title": "tt31938062:1:1",
+      "timestamp": "2026-01-28T05:36:01.334Z",
+      "ip": "2a09:bac1:36c0:18::20a:4c",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:1:2",
+      "title": "tt31938062:1:2",
+      "timestamp": "2026-01-28T05:36:53.309Z",
+      "ip": "2a09:bac1:36c0:18::20a:4c",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -85006,6 +85007,13 @@
       "title": "Stranger Things",
       "username": "belimhuzaifa",
       "lastActive": 1769577394428
+    },
+    "2a09:bac1:36c0:18::20a:4c": {
+      "type": "series",
+      "id": "tt31938062:1:2",
+      "title": "tt31938062:1:2",
+      "username": "saurabhkaperwan",
+      "lastActive": 1769578613309
     }
   }
 }
