@@ -1,5 +1,5 @@
 {
-  "totalViews": 18369,
+  "totalViews": 18373,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3931,38 +3931,6 @@
     "103.134.25.10"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0110912",
-      "title": "Pulp Fiction",
-      "timestamp": "2026-01-16T14:07:17.308Z",
-      "ip": "2409:40f2:307:c317:2dcc:82e7:ab7e:82f",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1187043",
-      "title": "3 Idiots",
-      "timestamp": "2026-01-16T14:08:51.435Z",
-      "ip": "2401:4900:88b8:e518:8e2a:d394:c34d:51d3",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt38938222",
-      "title": "tt38938222",
-      "timestamp": "2026-01-16T14:10:14.387Z",
-      "ip": "2401:4900:8fe2:4c46:eeda:b5f:3a2e:b7de",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "movie",
-      "id": "tt0110912",
-      "title": "Pulp Fiction",
-      "timestamp": "2026-01-16T14:10:33.743Z",
-      "ip": "2409:40f2:307:c317:2dcc:82e7:ab7e:82f",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt0110912",
@@ -83930,6 +83898,38 @@
       "timestamp": "2026-01-28T13:52:18.563Z",
       "ip": "103.46.200.35",
       "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt1396208",
+      "title": "tt1396208",
+      "timestamp": "2026-01-28T14:01:05.683Z",
+      "ip": "38.137.57.237",
+      "username": "geekworld7"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-28T14:04:54.055Z",
+      "ip": "2405:201:500c:4056:d080:edf2:b18b:6262",
+      "username": "karthik"
+    },
+    {
+      "type": "series",
+      "id": "tt37449205:1:3",
+      "title": "tt37449205:1:3",
+      "timestamp": "2026-01-28T14:08:25.637Z",
+      "ip": "103.134.25.10",
+      "username": "spidey_again"
+    },
+    {
+      "type": "series",
+      "id": "tt37449205:1:2",
+      "title": "tt37449205:1:2",
+      "timestamp": "2026-01-28T14:08:32.316Z",
+      "ip": "103.134.25.10",
+      "username": "spidey_again"
     }
   ],
   "activeNow": {
@@ -84750,7 +84750,7 @@
       "id": "tt1396208",
       "title": "tt1396208",
       "username": "geekworld7",
-      "lastActive": 1769523218462
+      "lastActive": 1769608865683
     },
     "2402:3a80:1981:823d:178:5634:1232:5476": {
       "type": "series",
@@ -85230,17 +85230,17 @@
     },
     "2405:201:500c:4056:d080:edf2:b18b:6262": {
       "type": "movie",
-      "id": "tt1187043",
-      "title": "3 Idiots",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "karthik",
-      "lastActive": 1769607737247
+      "lastActive": 1769609094055
     },
     "103.134.25.10": {
       "type": "series",
       "id": "tt37449205:1:2",
       "title": "tt37449205:1:2",
       "username": "spidey_again",
-      "lastActive": 1769607992038
+      "lastActive": 1769609312316
     }
   }
 }
