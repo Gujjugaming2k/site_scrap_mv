@@ -1,5 +1,5 @@
 {
-  "totalViews": 18255,
+  "totalViews": 18261,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3915,57 +3915,10 @@
     "2a09:bac5:3e9b:1478::20a:94",
     "2401:4900:1cb0:5cf4:9468:2960:7455:8a2",
     "2401:4900:ab90:4c3c:c2c:aaff:fe14:352a",
-    "2409:40c2:540a:ccd8:b0c3:a2ff:feff:8c76"
+    "2409:40c2:540a:ccd8:b0c3:a2ff:feff:8c76",
+    "2409:40e5:117d:4942:5dae:5d3e:ce5:7c9c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0388629:16:15",
-      "title": "tt0388629:16:15",
-      "timestamp": "2026-01-16T11:46:52.488Z",
-      "ip": "2401:4900:8832:6a3a:684c:b02f:30a:5ed0",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt34956443",
-      "title": "Ne Zha 2",
-      "timestamp": "2026-01-16T11:47:30.551Z",
-      "ip": "202.142.105.140",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "movie",
-      "id": "tt35019998",
-      "title": "tt35019998",
-      "timestamp": "2026-01-16T11:48:13.759Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:1:1",
-      "title": "tt31938062:1:1",
-      "timestamp": "2026-01-16T11:48:37.782Z",
-      "ip": "202.142.105.140",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "movie",
-      "id": "tt28551273",
-      "title": "tt28551273",
-      "timestamp": "2026-01-16T11:49:24.513Z",
-      "ip": "2401:4900:8fdf:96e3:13b4:a0d0:b270:9cc8",
-      "username": "arjun2077"
-    },
-    {
-      "type": "movie",
-      "id": "tt34956443",
-      "title": "Ne Zha 2",
-      "timestamp": "2026-01-16T11:49:37.383Z",
-      "ip": "202.142.105.140",
-      "username": "nobody_ismy_name"
-    },
     {
       "type": "movie",
       "id": "tt15678738",
@@ -83917,6 +83870,54 @@
       "timestamp": "2026-01-28T08:49:12.770Z",
       "ip": "139.5.196.103",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt12996154",
+      "title": "365 Days: This Day",
+      "timestamp": "2026-01-28T09:10:37.004Z",
+      "ip": "2409:40e5:117d:4942:5dae:5d3e:ce5:7c9c",
+      "username": "raja123"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:6",
+      "title": "tt31812476:2:6",
+      "timestamp": "2026-01-28T09:11:32.961Z",
+      "ip": "2401:4900:8fe2:b916:357a:1c7c:326c:2f6f",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt18626656",
+      "title": "tt18626656",
+      "timestamp": "2026-01-28T09:12:19.728Z",
+      "ip": "2409:40e5:117d:4942:5dae:5d3e:ce5:7c9c",
+      "username": "raja123"
+    },
+    {
+      "type": "movie",
+      "id": "tt0418832",
+      "title": "tt0418832",
+      "timestamp": "2026-01-28T09:12:28.449Z",
+      "ip": "2409:40e5:117d:4942:5dae:5d3e:ce5:7c9c",
+      "username": "raja123"
+    },
+    {
+      "type": "movie",
+      "id": "tt14453030",
+      "title": "tt14453030",
+      "timestamp": "2026-01-28T09:14:09.797Z",
+      "ip": "2409:40e5:117d:4942:5dae:5d3e:ce5:7c9c",
+      "username": "raja123"
+    },
+    {
+      "type": "movie",
+      "id": "tt10886166",
+      "title": "365 Days",
+      "timestamp": "2026-01-28T09:14:26.156Z",
+      "ip": "2409:40e5:117d:4942:5dae:5d3e:ce5:7c9c",
+      "username": "raja123"
     }
   ],
   "activeNow": {
@@ -84723,7 +84724,7 @@
       "id": "tt31812476:2:6",
       "title": "tt31812476:2:6",
       "username": "ashwanileon",
-      "lastActive": 1769590031036
+      "lastActive": 1769591492961
     },
     "2401:4900:5ac4:b22:9d3d:1a54:f63c:57c1": {
       "type": "movie",
@@ -85116,6 +85117,13 @@
       "title": "tt30293074:1:4",
       "username": "targetx_25",
       "lastActive": 1769589682531
+    },
+    "2409:40e5:117d:4942:5dae:5d3e:ce5:7c9c": {
+      "type": "movie",
+      "id": "tt10886166",
+      "title": "365 Days",
+      "username": "raja123",
+      "lastActive": 1769591666156
     }
   }
 }
