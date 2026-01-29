@@ -1,5 +1,5 @@
 {
-  "totalViews": 18578,
+  "totalViews": 18584,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3956,57 +3956,12 @@
     "2409:40c0:1036:8967:40b5:162f:75ff:a30d",
     "103.134.25.8",
     "2409:40c0:1049:9d79:9087:ceff:feee:d443",
-    "2401:4900:7913:d5dd:3ced:e545:a479:6119"
+    "2401:4900:7913:d5dd:3ced:e545:a479:6119",
+    "2a09:bac5:3e70:1a8c::2a5:b2,2a09:bac5:37ac:1f19::319:20",
+    "2409:40e6:3d:da3:e4f9:8acc:e625:b5eb",
+    "2401:4900:1cb0:5cf4:8d00:2b10:96e7:b4a8"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt13930822:2:3",
-      "title": "tt13930822:2:3",
-      "timestamp": "2026-01-16T17:10:40.026Z",
-      "ip": "202.173.124.127",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt13930822:2:3",
-      "title": "tt13930822:2:3",
-      "timestamp": "2026-01-16T17:10:42.507Z",
-      "ip": "202.173.124.127",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt13930822:2:4",
-      "title": "tt13930822:2:4",
-      "timestamp": "2026-01-16T17:10:50.300Z",
-      "ip": "202.173.124.127",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt13930822:2:4",
-      "title": "tt13930822:2:4",
-      "timestamp": "2026-01-16T17:10:52.682Z",
-      "ip": "202.173.124.127",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt13930822:2:1",
-      "title": "tt13930822:2:1",
-      "timestamp": "2026-01-16T17:11:00.112Z",
-      "ip": "202.173.124.127",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt13930822:2:1",
-      "title": "tt13930822:2:1",
-      "timestamp": "2026-01-16T17:11:20.824Z",
-      "ip": "202.173.124.127",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "series",
       "id": "tt13930822:2:2",
@@ -83958,6 +83913,54 @@
       "timestamp": "2026-01-29T06:11:49.308Z",
       "ip": "190.140.187.206",
       "username": "ymcinema"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
+      "timestamp": "2026-01-29T06:20:02.135Z",
+      "ip": "2a09:bac5:3e70:1a8c::2a5:b2,2a09:bac5:37ac:1f19::319:20",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:2",
+      "title": "tt33035373:1:2",
+      "timestamp": "2026-01-29T06:20:22.620Z",
+      "ip": "2a09:bac5:3e70:1a8c::2a5:b2,2a09:bac5:37ac:1f19::319:20",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "movie",
+      "id": "tt0045693",
+      "title": "tt0045693",
+      "timestamp": "2026-01-29T06:20:44.225Z",
+      "ip": "2a09:bac5:3e70:1a8c::2a5:b2,2a09:bac5:37ac:1f19::319:20",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "timestamp": "2026-01-29T06:21:00.597Z",
+      "ip": "2409:40e6:3d:da3:e4f9:8acc:e625:b5eb",
+      "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "timestamp": "2026-01-29T06:21:37.640Z",
+      "ip": "2409:40e6:3d:da3:e4f9:8acc:e625:b5eb",
+      "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt27136041",
+      "title": "tt27136041",
+      "timestamp": "2026-01-29T06:25:57.344Z",
+      "ip": "2401:4900:1cb0:5cf4:8d00:2b10:96e7:b4a8",
+      "username": "saisrinivas"
     }
   ],
   "activeNow": {
@@ -85479,6 +85482,27 @@
       "title": "tt19854762:2:1",
       "username": "vflix1993",
       "lastActive": 1769665575266
+    },
+    "2a09:bac5:3e70:1a8c::2a5:b2,2a09:bac5:37ac:1f19::319:20": {
+      "type": "movie",
+      "id": "tt0045693",
+      "title": "tt0045693",
+      "username": "anonymous_rare",
+      "lastActive": 1769667644225
+    },
+    "2409:40e6:3d:da3:e4f9:8acc:e625:b5eb": {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "username": "nabakun",
+      "lastActive": 1769667697640
+    },
+    "2401:4900:1cb0:5cf4:8d00:2b10:96e7:b4a8": {
+      "type": "movie",
+      "id": "tt27136041",
+      "title": "tt27136041",
+      "username": "saisrinivas",
+      "lastActive": 1769667957344
     }
   }
 }
