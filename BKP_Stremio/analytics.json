@@ -1,5 +1,5 @@
 {
-  "totalViews": 18707,
+  "totalViews": 18714,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3981,62 +3981,6 @@
     "2401:4900:adca:5c37:58a5:baff:fe2a:b5db"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1196946:2:6",
-      "title": "tt1196946:2:6",
-      "timestamp": "2026-01-16T20:21:52.322Z",
-      "ip": "2402:3a80:18db:3c5b:33cb:272a:7d09:3b80",
-      "username": "schnom153"
-    },
-    {
-      "type": "series",
-      "id": "tt1196946:2:6",
-      "title": "tt1196946:2:6",
-      "timestamp": "2026-01-16T20:23:25.781Z",
-      "ip": "2402:3a80:18db:3c5b:33cb:272a:7d09:3b80",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1196946:2:5",
-      "title": "tt1196946:2:5",
-      "timestamp": "2026-01-16T20:23:33.814Z",
-      "ip": "2402:3a80:18db:3c5b:33cb:272a:7d09:3b80",
-      "username": "schnom153"
-    },
-    {
-      "type": "series",
-      "id": "tt1196946:2:6",
-      "title": "tt1196946:2:6",
-      "timestamp": "2026-01-16T20:31:49.121Z",
-      "ip": "2402:3a80:18db:3c5b:33cb:272a:7d09:3b80",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-16T20:33:48.629Z",
-      "ip": "2401:4900:1c0a:1745:1387:b114:f9d9:38cb",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
-      "timestamp": "2026-01-16T20:35:41.030Z",
-      "ip": "2401:4900:1c0a:1745:1387:b114:f9d9:38cb",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
-      "timestamp": "2026-01-16T20:36:16.843Z",
-      "ip": "2401:4900:1c0a:1745:1387:b114:f9d9:38cb",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "movie",
       "id": "tt28802657",
@@ -83980,6 +83924,62 @@
       "timestamp": "2026-01-29T10:53:38.557Z",
       "ip": "115.187.38.42",
       "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:3:8",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-01-29T10:54:18.588Z",
+      "ip": "115.187.38.42",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:3:9",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-01-29T10:54:40.275Z",
+      "ip": "115.187.38.42",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt21030032:2:1",
+      "title": "tt21030032:2:1",
+      "timestamp": "2026-01-29T10:55:13.915Z",
+      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
+      "username": "nabakun"
+    },
+    {
+      "type": "series",
+      "id": "tt9335498:1:1",
+      "title": "tt9335498:1:1",
+      "timestamp": "2026-01-29T11:01:15.049Z",
+      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
+      "username": "nabakun"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:3:8",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-01-29T11:02:54.093Z",
+      "ip": "115.187.38.42",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:3:9",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-01-29T11:02:57.783Z",
+      "ip": "115.187.38.42",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:3:10",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-01-29T11:03:32.387Z",
+      "ip": "115.187.38.42",
+      "username": "tgh2r"
     }
   ],
   "activeNow": {
@@ -84972,10 +84972,10 @@
     },
     "115.187.38.42": {
       "type": "series",
-      "id": "tt13706018:3:8",
+      "id": "tt13706018:3:10",
       "title": "SPY x FAMILY",
       "username": "tgh2r",
-      "lastActive": 1769684018557
+      "lastActive": 1769684612387
     },
     "103.181.65.63": {
       "type": "series",
@@ -85427,10 +85427,10 @@
     },
     "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13": {
       "type": "series",
-      "id": "tt7865090:1:1",
-      "title": "tt7865090:1:1",
+      "id": "tt9335498:1:1",
+      "title": "tt9335498:1:1",
       "username": "nabakun",
-      "lastActive": 1769679308941
+      "lastActive": 1769684475049
     },
     "2405:201:2022:b81c:607e:bc89:7789:7997": {
       "type": "movie",
