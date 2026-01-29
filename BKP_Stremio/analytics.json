@@ -1,5 +1,5 @@
 {
-  "totalViews": 18741,
+  "totalViews": 18743,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3984,25 +3984,10 @@
     "176.227.240.69",
     "146.70.255.156",
     "2405:201:500c:4056:b81f:7a07:df88:4030",
-    "146.70.255.127"
+    "146.70.255.127",
+    "223.185.21.170"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0903747:5:5",
-      "title": "tt0903747:5:5",
-      "timestamp": "2026-01-16T21:18:59.517Z",
-      "ip": "182.69.179.223",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:5:5",
-      "title": "tt0903747:5:5",
-      "timestamp": "2026-01-16T21:20:16.712Z",
-      "ip": "182.69.179.223",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt0903747:5:5",
@@ -83986,6 +83971,22 @@
       "timestamp": "2026-01-29T12:49:52.295Z",
       "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
       "username": "nabakun"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:3",
+      "title": "tt6354518:2:3",
+      "timestamp": "2026-01-29T13:00:19.366Z",
+      "ip": "223.185.21.170",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:4",
+      "title": "tt6354518:2:4",
+      "timestamp": "2026-01-29T13:02:16.282Z",
+      "ip": "223.185.21.170",
+      "username": "sinbad1722"
     }
   ],
   "activeNow": {
@@ -85703,6 +85704,13 @@
       "title": "tt33034505",
       "username": "jinwoooooi",
       "lastActive": 1769689225940
+    },
+    "223.185.21.170": {
+      "type": "series",
+      "id": "tt6354518:2:4",
+      "title": "tt6354518:2:4",
+      "username": "sinbad1722",
+      "lastActive": 1769691736282
     }
   }
 }
