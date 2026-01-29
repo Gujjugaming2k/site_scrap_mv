@@ -1,5 +1,5 @@
 {
-  "totalViews": 18985,
+  "totalViews": 18988,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4023,33 +4023,10 @@
     "146.196.34.62",
     "2409:40f0:101f:1488:4c3d:5fff:fe56:b265",
     "2401:4900:b544:f16a:6406:66ff:fe90:68a2",
-    "182.77.78.99"
+    "182.77.78.99",
+    "209.87.169.216"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0988824:1:1",
-      "title": "tt0988824:1:1",
-      "timestamp": "2026-01-17T07:51:12.284Z",
-      "ip": "72.255.11.154",
-      "username": "hvre2"
-    },
-    {
-      "type": "movie",
-      "id": "tt31844586",
-      "title": "tt31844586",
-      "timestamp": "2026-01-17T07:51:49.085Z",
-      "ip": "125.166.9.191",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0988824:17:1",
-      "title": "tt0988824:17:1",
-      "timestamp": "2026-01-17T07:51:56.265Z",
-      "ip": "72.255.11.154",
-      "username": "hvre2"
-    },
     {
       "type": "series",
       "id": "tt0988824:1:1",
@@ -84025,6 +84002,30 @@
       "timestamp": "2026-01-29T21:13:40.269Z",
       "ip": "223.185.21.170",
       "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:4:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-29T21:15:29.567Z",
+      "ip": "223.185.21.170",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:4:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-29T21:16:00.592Z",
+      "ip": "223.185.21.170",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt0099785",
+      "title": "Home Alone",
+      "timestamp": "2026-01-29T21:27:01.233Z",
+      "ip": "209.87.169.216",
+      "username": "sergio_leone96"
     }
   ],
   "activeNow": {
@@ -85748,7 +85749,7 @@
       "id": "tt4574334:4:1",
       "title": "Stranger Things",
       "username": "sinbad1722",
-      "lastActive": 1769721220269
+      "lastActive": 1769721360592
     },
     "2a09:bac6:d860:26fa::3e2:18": {
       "type": "series",
@@ -86022,6 +86023,13 @@
       "title": "tt1182972",
       "username": "theaceofficials",
       "lastActive": 1769721125036
+    },
+    "209.87.169.216": {
+      "type": "movie",
+      "id": "tt0099785",
+      "title": "Home Alone",
+      "username": "sergio_leone96",
+      "lastActive": 1769722021233
     }
   }
 }
