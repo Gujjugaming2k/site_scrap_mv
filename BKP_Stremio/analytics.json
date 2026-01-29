@@ -1,5 +1,5 @@
 {
-  "totalViews": 18931,
+  "totalViews": 18936,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4013,49 +4013,13 @@
     "2409:40e1:c0:b84c:8000::",
     "2401:4900:1c53:3310:8d9e:5f70:c207:4263",
     "2409:40f0:2421:1310:9456:7dff:fea2:e6bd",
-    "182.69.179.110"
+    "182.69.179.110",
+    "103.186.54.181",
+    "159.26.115.39",
+    "49.37.8.21",
+    "152.58.163.169"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12637874:2:2",
-      "title": "Fallout",
-      "timestamp": "2026-01-17T05:22:52.413Z",
-      "ip": "154.18.196.99",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0382932",
-      "title": "Ratatouille",
-      "timestamp": "2026-01-17T05:28:40.204Z",
-      "ip": "2409:40e4:10b1:413e:39e5:35ff:968e:ba70",
-      "username": "askchm"
-    },
-    {
-      "type": "movie",
-      "id": "tt5440700",
-      "title": "tt5440700",
-      "timestamp": "2026-01-17T05:36:21.338Z",
-      "ip": "122.167.97.49",
-      "username": "zindha"
-    },
-    {
-      "type": "movie",
-      "id": "tt32360696",
-      "title": "French Lover",
-      "timestamp": "2026-01-17T05:37:35.108Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "movie",
-      "id": "tt33039440",
-      "title": "The Wrong Paris",
-      "timestamp": "2026-01-17T05:38:32.975Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
     {
       "type": "series",
       "id": "tt39227709:1:3",
@@ -84015,6 +83979,46 @@
       "timestamp": "2026-01-29T18:58:28.920Z",
       "ip": "182.69.179.110",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt1219024:1:1",
+      "title": "tt1219024:1:1",
+      "timestamp": "2026-01-29T19:11:02.136Z",
+      "ip": "103.186.54.181",
+      "username": "schnom153"
+    },
+    {
+      "type": "series",
+      "id": "tt1219024:1:2",
+      "title": "tt1219024:1:2",
+      "timestamp": "2026-01-29T19:11:55.400Z",
+      "ip": "103.186.54.181",
+      "username": "schnom153"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-29T19:13:01.453Z",
+      "ip": "159.26.115.39",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-29T19:20:14.868Z",
+      "ip": "49.37.8.21",
+      "username": "lazerkey"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "timestamp": "2026-01-29T19:21:56.546Z",
+      "ip": "152.58.163.169",
+      "username": "tgh2r"
     }
   ],
   "activeNow": {
@@ -85942,6 +85946,34 @@
       "title": "Dhurandhar",
       "username": "dillon_ka_shooter",
       "lastActive": 1769713108920
+    },
+    "103.186.54.181": {
+      "type": "series",
+      "id": "tt1219024:1:2",
+      "title": "tt1219024:1:2",
+      "username": "schnom153",
+      "lastActive": 1769713915400
+    },
+    "159.26.115.39": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "golu_vk",
+      "lastActive": 1769713981453
+    },
+    "49.37.8.21": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "lazerkey",
+      "lastActive": 1769714414868
+    },
+    "152.58.163.169": {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "username": "tgh2r",
+      "lastActive": 1769714516546
     }
   }
 }
