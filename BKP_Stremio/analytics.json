@@ -1,5 +1,5 @@
 {
-  "totalViews": 18597,
+  "totalViews": 18599,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3961,25 +3961,10 @@
     "2409:40e6:3d:da3:e4f9:8acc:e625:b5eb",
     "2401:4900:1cb0:5cf4:8d00:2b10:96e7:b4a8",
     "103.24.85.8",
-    "2409:40d4:107b:4e51:9045:13ff:feef:ed45"
+    "2409:40d4:107b:4e51:9045:13ff:feef:ed45",
+    "2401:4900:8820:8915:4cf1:86b4:fbb:ab6,2a09:bac5:37ac:1f19::319:20"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt2271565",
-      "title": "tt2271565",
-      "timestamp": "2026-01-16T17:29:41.358Z",
-      "ip": "2409:40e6:2c:a093:f446:27ff:fe8f:2adf",
-      "username": "nabakun24"
-    },
-    {
-      "type": "series",
-      "id": "tt13930822:2:2",
-      "title": "tt13930822:2:2",
-      "timestamp": "2026-01-16T17:30:22.666Z",
-      "ip": "202.173.124.127",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "movie",
       "id": "tt22740896",
@@ -83963,6 +83948,22 @@
       "timestamp": "2026-01-29T06:59:56.228Z",
       "ip": "2401:4900:8820:8915:747e:7b82:51b7:7a1b,2a09:bac5:37ac:1f19::319:20",
       "username": "anonymous_rare"
+    },
+    {
+      "type": "movie",
+      "id": "tt35661996",
+      "title": "tt35661996",
+      "timestamp": "2026-01-29T07:22:31.966Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt14905854",
+      "title": "tt14905854",
+      "timestamp": "2026-01-29T07:24:59.144Z",
+      "ip": "2401:4900:8820:8915:4cf1:86b4:fbb:ab6,2a09:bac5:37ac:1f19::319:20",
+      "username": "anonymous_rare"
     }
   ],
   "activeNow": {
@@ -84534,11 +84535,11 @@
       "lastActive": 1769499639275
     },
     "203.192.255.46": {
-      "type": "series",
-      "id": "tt14186672:1:10",
-      "title": "tt14186672:1:10",
+      "type": "movie",
+      "id": "tt35661996",
+      "title": "tt35661996",
       "username": "chetan_b2",
-      "lastActive": 1769653908813
+      "lastActive": 1769671351966
     },
     "2409:40c1:1038:527d:98b3:c524:2a88:1a54": {
       "type": "movie",
@@ -85519,6 +85520,13 @@
       "title": "tt35335046:1:1",
       "username": "golu_vk",
       "lastActive": 1769669986878
+    },
+    "2401:4900:8820:8915:4cf1:86b4:fbb:ab6,2a09:bac5:37ac:1f19::319:20": {
+      "type": "movie",
+      "id": "tt14905854",
+      "title": "tt14905854",
+      "username": "anonymous_rare",
+      "lastActive": 1769671499144
     }
   }
 }
