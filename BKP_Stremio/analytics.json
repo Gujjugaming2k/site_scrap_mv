@@ -1,5 +1,5 @@
 {
-  "totalViews": 18532,
+  "totalViews": 18538,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3949,57 +3949,10 @@
     "2401:4900:1c53:3310:e4da:9941:1271:e04c",
     "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
     "2405:201:2022:b81c:607e:bc89:7789:7997",
-    "2401:4900:abb5:b31d:a4a5:7bff:fe2d:8abe"
+    "2401:4900:abb5:b31d:a4a5:7bff:fe2d:8abe",
+    "2405:201:2022:b81c:40c:bb80:9391:7480"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0903747:2:13",
-      "title": "tt0903747:2:13",
-      "timestamp": "2026-01-16T16:35:33.119Z",
-      "ip": "2409:40e4:11f1:62bd:fcf0:feff:fe84:7171",
-      "username": "ig_sirmour"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:2:1",
-      "title": "tt0903747:2:1",
-      "timestamp": "2026-01-16T16:35:44.261Z",
-      "ip": "2409:40e4:11f1:62bd:fcf0:feff:fe84:7171",
-      "username": "ig_sirmour"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:2:2",
-      "title": "tt0903747:2:2",
-      "timestamp": "2026-01-16T16:35:50.139Z",
-      "ip": "2409:40e4:11f1:62bd:fcf0:feff:fe84:7171",
-      "username": "ig_sirmour"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:2:3",
-      "title": "tt0903747:2:3",
-      "timestamp": "2026-01-16T16:35:59.999Z",
-      "ip": "2409:40e4:11f1:62bd:fcf0:feff:fe84:7171",
-      "username": "ig_sirmour"
-    },
-    {
-      "type": "series",
-      "id": "tt33035373:1:1",
-      "title": "tt33035373:1:1",
-      "timestamp": "2026-01-16T16:37:24.621Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:2:1",
-      "title": "tt31938062:2:1",
-      "timestamp": "2026-01-16T16:38:19.151Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
     {
       "type": "movie",
       "id": "tt35019998",
@@ -83951,6 +83904,54 @@
       "timestamp": "2026-01-29T03:34:50.539Z",
       "ip": "2405:201:2022:b81c:607e:bc89:7789:7997",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt15327088",
+      "title": "tt15327088",
+      "timestamp": "2026-01-29T03:38:54.078Z",
+      "ip": "2405:201:2022:b81c:607e:bc89:7789:7997",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-01-29T03:44:52.933Z",
+      "ip": "2405:201:2022:b81c:607e:bc89:7789:7997",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-01-29T03:47:05.636Z",
+      "ip": "2405:201:2022:b81c:40c:bb80:9391:7480",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-01-29T03:48:15.434Z",
+      "ip": "49.36.76.181",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt27829510",
+      "title": "tt27829510",
+      "timestamp": "2026-01-29T03:52:09.958Z",
+      "ip": "2405:201:2022:b81c:607e:bc89:7789:7997",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt4900148",
+      "title": "Elio",
+      "timestamp": "2026-01-29T03:52:50.479Z",
+      "ip": "2405:201:2022:b81c:607e:bc89:7789:7997",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -84824,10 +84825,10 @@
     },
     "49.36.76.181": {
       "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
+      "id": "tt1187043",
+      "title": "3 Idiots",
       "username": "zealousninja",
-      "lastActive": 1769527311095
+      "lastActive": 1769658495434
     },
     "2405:201:2022:b81c:b063:d489:a344:4917": {
       "type": "movie",
@@ -85405,10 +85406,10 @@
     },
     "2405:201:2022:b81c:607e:bc89:7789:7997": {
       "type": "movie",
-      "id": "tt1833673",
-      "title": "tt1833673",
+      "id": "tt4900148",
+      "title": "Elio",
       "username": "zealousninja",
-      "lastActive": 1769657690539
+      "lastActive": 1769658770479
     },
     "2401:4900:abb5:b31d:a4a5:7bff:fe2d:8abe": {
       "type": "series",
@@ -85416,6 +85417,13 @@
       "title": "tt12324366:2:4",
       "username": "chetan_b2",
       "lastActive": 1769657215448
+    },
+    "2405:201:2022:b81c:40c:bb80:9391:7480": {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "username": "zealousninja",
+      "lastActive": 1769658425636
     }
   }
 }
