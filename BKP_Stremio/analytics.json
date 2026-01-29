@@ -1,5 +1,5 @@
 {
-  "totalViews": 18972,
+  "totalViews": 18978,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4020,57 +4020,11 @@
     "152.58.163.169",
     "2401:4900:abb3:1e47:a0f7:8aff:feda:ad50",
     "2402:8100:2cdb:fddf:35fb:16ac:3229:4b8b",
-    "146.196.34.62"
+    "146.196.34.62",
+    "2409:40f0:101f:1488:4c3d:5fff:fe56:b265",
+    "2401:4900:b544:f16a:6406:66ff:fe90:68a2"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-17T06:59:30.152Z",
-      "ip": "2402:a00:10a:815f:5b30:6482:eb28:bdfa",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt1641395",
-      "title": "tt1641395",
-      "timestamp": "2026-01-17T07:11:50.776Z",
-      "ip": "103.50.150.7",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "movie",
-      "id": "tt28551273",
-      "title": "tt28551273",
-      "timestamp": "2026-01-17T07:17:10.534Z",
-      "ip": "2001:4490:4e65:97b:9433:8201:feed:682e",
-      "username": "adiyogivishwanath"
-    },
-    {
-      "type": "movie",
-      "id": "tt14364480",
-      "title": "tt14364480",
-      "timestamp": "2026-01-17T07:25:09.058Z",
-      "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt14364480",
-      "title": "tt14364480",
-      "timestamp": "2026-01-17T07:25:59.197Z",
-      "ip": "152.59.149.84",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt14364480",
-      "title": "tt14364480",
-      "timestamp": "2026-01-17T07:27:52.285Z",
-      "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
-      "username": "nabakun24"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:1",
@@ -84022,6 +83976,54 @@
       "timestamp": "2026-01-29T19:54:32.992Z",
       "ip": "146.196.34.62",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-29T20:48:24.160Z",
+      "ip": "2401:4900:abb3:1e47:a0f7:8aff:feda:ad50",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-29T20:51:15.741Z",
+      "ip": "2409:40f0:101f:1488:4c3d:5fff:fe56:b265",
+      "username": "rick grimes"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-29T20:51:46.453Z",
+      "ip": "2409:40f0:101f:1488:4c3d:5fff:fe56:b265",
+      "username": "rick grimes"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-01-29T20:52:14.442Z",
+      "ip": "2409:40f0:101f:1488:4c3d:5fff:fe56:b265",
+      "username": "rick grimes"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-29T20:57:01.194Z",
+      "ip": "2401:4900:b544:f16a:6406:66ff:fe90:68a2",
+      "username": "adshoyi"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-01-29T20:57:09.331Z",
+      "ip": "2409:40f0:101f:1488:4c3d:5fff:fe56:b265",
+      "username": "rick grimes"
     }
   ],
   "activeNow": {
@@ -85980,10 +85982,10 @@
     },
     "2401:4900:abb3:1e47:a0f7:8aff:feda:ad50": {
       "type": "movie",
-      "id": "tt35661996",
-      "title": "tt35661996",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "chetan_b2",
-      "lastActive": 1769715553356
+      "lastActive": 1769719704160
     },
     "2402:8100:2cdb:fddf:35fb:16ac:3229:4b8b": {
       "type": "series",
@@ -85998,6 +86000,20 @@
       "title": "Dhurandhar",
       "username": "gaendaswami",
       "lastActive": 1769716472992
+    },
+    "2409:40f0:101f:1488:4c3d:5fff:fe56:b265": {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "username": "rick grimes",
+      "lastActive": 1769720229331
+    },
+    "2401:4900:b544:f16a:6406:66ff:fe90:68a2": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "adshoyi",
+      "lastActive": 1769720221194
     }
   }
 }
