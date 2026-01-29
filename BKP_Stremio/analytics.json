@@ -1,5 +1,5 @@
 {
-  "totalViews": 18978,
+  "totalViews": 18985,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4022,65 +4022,10 @@
     "2402:8100:2cdb:fddf:35fb:16ac:3229:4b8b",
     "146.196.34.62",
     "2409:40f0:101f:1488:4c3d:5fff:fe56:b265",
-    "2401:4900:b544:f16a:6406:66ff:fe90:68a2"
+    "2401:4900:b544:f16a:6406:66ff:fe90:68a2",
+    "182.77.78.99"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-17T07:28:04.098Z",
-      "ip": "2409:40d4:40c5:3e4b:d4a8:b71b:882b:e72d",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:4",
-      "title": "tt35335046:1:4",
-      "timestamp": "2026-01-17T07:31:20.098Z",
-      "ip": "110.235.219.255",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:5",
-      "title": "tt35335046:1:5",
-      "timestamp": "2026-01-17T07:35:34.965Z",
-      "ip": "110.235.219.255",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4236770:3:6",
-      "title": "tt4236770:3:6",
-      "timestamp": "2026-01-17T07:36:27.908Z",
-      "ip": "2401:4900:1c5e:948c:cdcf:c:15c0:a703",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1266020:2:15",
-      "title": "tt1266020:2:15",
-      "timestamp": "2026-01-17T07:39:58.339Z",
-      "ip": "165.231.183.15",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0095417",
-      "title": "tt0095417",
-      "timestamp": "2026-01-17T07:47:00.808Z",
-      "ip": "85.154.16.157",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4236770:3:7",
-      "title": "tt4236770:3:7",
-      "timestamp": "2026-01-17T07:50:21.771Z",
-      "ip": "2401:4900:1c5e:948c:cdcf:c:15c0:a703",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0988824:1:1",
@@ -84024,6 +83969,62 @@
       "timestamp": "2026-01-29T20:57:09.331Z",
       "ip": "2409:40f0:101f:1488:4c3d:5fff:fe56:b265",
       "username": "rick grimes"
+    },
+    {
+      "type": "movie",
+      "id": "tt1210166",
+      "title": "tt1210166",
+      "timestamp": "2026-01-29T21:06:40.793Z",
+      "ip": "182.77.78.99",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-29T21:07:30.553Z",
+      "ip": "182.77.78.99",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-29T21:09:00.913Z",
+      "ip": "182.77.78.99",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt1182972",
+      "title": "tt1182972",
+      "timestamp": "2026-01-29T21:09:21.810Z",
+      "ip": "182.77.78.99",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt1182972",
+      "title": "tt1182972",
+      "timestamp": "2026-01-29T21:11:22.483Z",
+      "ip": "182.77.78.99",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt1182972",
+      "title": "tt1182972",
+      "timestamp": "2026-01-29T21:12:05.036Z",
+      "ip": "182.77.78.99",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:4:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-29T21:13:40.269Z",
+      "ip": "223.185.21.170",
+      "username": "sinbad1722"
     }
   ],
   "activeNow": {
@@ -85744,10 +85745,10 @@
     },
     "223.185.21.170": {
       "type": "series",
-      "id": "tt6354518:2:4",
-      "title": "tt6354518:2:4",
+      "id": "tt4574334:4:1",
+      "title": "Stranger Things",
       "username": "sinbad1722",
-      "lastActive": 1769691736282
+      "lastActive": 1769721220269
     },
     "2a09:bac6:d860:26fa::3e2:18": {
       "type": "series",
@@ -86014,6 +86015,13 @@
       "title": "Dhurandhar",
       "username": "adshoyi",
       "lastActive": 1769720221194
+    },
+    "182.77.78.99": {
+      "type": "movie",
+      "id": "tt1182972",
+      "title": "tt1182972",
+      "username": "theaceofficials",
+      "lastActive": 1769721125036
     }
   }
 }
