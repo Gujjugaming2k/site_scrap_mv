@@ -1,5 +1,5 @@
 {
-  "totalViews": 18736,
+  "totalViews": 18737,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3982,17 +3982,10 @@
     "2401:4900:1cb0:5cf4:c04c:c11e:17ad:d29e",
     "103.24.85.19",
     "176.227.240.69",
-    "146.70.255.156"
+    "146.70.255.156",
+    "2405:201:500c:4056:b81f:7a07:df88:4030"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt6604188",
-      "title": "TRON: Ares",
-      "timestamp": "2026-01-16T21:12:46.237Z",
-      "ip": "15.160.63.217",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt35335046:1:5",
@@ -83984,6 +83977,14 @@
       "timestamp": "2026-01-29T12:08:25.578Z",
       "ip": "146.70.255.156",
       "username": "jinwoooooi"
+    },
+    {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "timestamp": "2026-01-29T12:13:01.829Z",
+      "ip": "2405:201:500c:4056:b81f:7a07:df88:4030",
+      "username": "karthik"
     }
   ],
   "activeNow": {
@@ -85687,6 +85688,13 @@
       "title": "tt22868010",
       "username": "jinwoooooi",
       "lastActive": 1769688505578
+    },
+    "2405:201:500c:4056:b81f:7a07:df88:4030": {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "username": "karthik",
+      "lastActive": 1769688781829
     }
   }
 }
