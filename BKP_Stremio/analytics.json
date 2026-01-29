@@ -1,5 +1,5 @@
 {
-  "totalViews": 18864,
+  "totalViews": 18868,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4007,41 +4007,11 @@
     "2405:201:2022:b81c:80e1:d0f9:9909:4d42",
     "2a09:bac1:3680:5e98::14:2f4",
     "2405:201:2022:b81c:d42f:6e5b:8188:e2fa",
-    "150.129.166.148"
+    "150.129.166.148",
+    "2401:4900:8825:3180:b252:16ff:fe82:e569",
+    "2405:201:2033:841:9d60:4bab:11d1:1051"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt33035373:1:2",
-      "title": "tt33035373:1:2",
-      "timestamp": "2026-01-17T03:40:10.869Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt39070909:1:1",
-      "title": "tt39070909:1:1",
-      "timestamp": "2026-01-17T03:45:08.560Z",
-      "ip": "2409:40f0:34:80b0:a0b8:aff:fe5e:efd2",
-      "username": "rick"
-    },
-    {
-      "type": "series",
-      "id": "tt33035373:1:2",
-      "title": "tt33035373:1:2",
-      "timestamp": "2026-01-17T03:50:14.022Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-17T03:51:01.146Z",
-      "ip": "2402:a00:10a:815f:9593:1fe9:7be3:8756",
-      "username": "vflix1993"
-    },
     {
       "type": "series",
       "id": "tt33035373:1:4",
@@ -84009,6 +83979,38 @@
       "timestamp": "2026-01-29T16:51:33.387Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-29T17:10:44.083Z",
+      "ip": "2409:40d4:107b:4e51:9045:13ff:feef:ed45",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt0209144",
+      "title": "Memento",
+      "timestamp": "2026-01-29T17:14:17.731Z",
+      "ip": "2401:4900:8825:3180:b252:16ff:fe82:e569",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt30818815",
+      "title": "tt30818815",
+      "timestamp": "2026-01-29T17:14:20.471Z",
+      "ip": "2405:201:2033:841:9d60:4bab:11d1:1051",
+      "username": "surti_lala"
+    },
+    {
+      "type": "movie",
+      "id": "tt19847976",
+      "title": "tt19847976",
+      "timestamp": "2026-01-29T17:15:37.601Z",
+      "ip": "2001:ac8:2:1::13",
+      "username": "golu_vk"
     }
   ],
   "activeNow": {
@@ -85564,7 +85566,7 @@
       "id": "tt35335046:1:1",
       "title": "tt35335046:1:1",
       "username": "golu_vk",
-      "lastActive": 1769669986878
+      "lastActive": 1769706644083
     },
     "2401:4900:8820:8915:4cf1:86b4:fbb:ab6,2a09:bac5:37ac:1f19::319:20": {
       "type": "movie",
@@ -85886,7 +85888,7 @@
       "id": "tt19847976",
       "title": "tt19847976",
       "username": "golu_vk",
-      "lastActive": 1769704660005
+      "lastActive": 1769706937601
     },
     "150.129.166.148": {
       "type": "movie",
@@ -85894,6 +85896,20 @@
       "title": "Sinners",
       "username": "krrish5",
       "lastActive": 1769705043931
+    },
+    "2401:4900:8825:3180:b252:16ff:fe82:e569": {
+      "type": "movie",
+      "id": "tt0209144",
+      "title": "Memento",
+      "username": "sinbad1722",
+      "lastActive": 1769706857731
+    },
+    "2405:201:2033:841:9d60:4bab:11d1:1051": {
+      "type": "movie",
+      "id": "tt30818815",
+      "title": "tt30818815",
+      "username": "surti_lala",
+      "lastActive": 1769706860471
     }
   }
 }
