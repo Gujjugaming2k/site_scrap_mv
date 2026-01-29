@@ -1,5 +1,5 @@
 {
-  "totalViews": 18599,
+  "totalViews": 18604,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3962,49 +3962,11 @@
     "2401:4900:1cb0:5cf4:8d00:2b10:96e7:b4a8",
     "103.24.85.8",
     "2409:40d4:107b:4e51:9045:13ff:feef:ed45",
-    "2401:4900:8820:8915:4cf1:86b4:fbb:ab6,2a09:bac5:37ac:1f19::319:20"
+    "2401:4900:8820:8915:4cf1:86b4:fbb:ab6,2a09:bac5:37ac:1f19::319:20",
+    "2409:40e5:1c:b355:58ff:1bff:fefb:763a",
+    "45.131.195.87"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt22740896",
-      "title": "tt22740896",
-      "timestamp": "2026-01-16T17:31:25.511Z",
-      "ip": "139.135.35.56",
-      "username": "salman720"
-    },
-    {
-      "type": "series",
-      "id": "tt13930822:2:2",
-      "title": "tt13930822:2:2",
-      "timestamp": "2026-01-16T17:31:30.011Z",
-      "ip": "202.173.124.127",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "movie",
-      "id": "tt22740896",
-      "title": "tt22740896",
-      "timestamp": "2026-01-16T17:31:32.842Z",
-      "ip": "139.135.35.56",
-      "username": "salman720"
-    },
-    {
-      "type": "movie",
-      "id": "tt0064208",
-      "title": "tt0064208",
-      "timestamp": "2026-01-16T17:31:51.589Z",
-      "ip": "81.108.197.0",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-01-16T17:32:45.576Z",
-      "ip": "139.135.35.56",
-      "username": "salman720"
-    },
     {
       "type": "movie",
       "id": "tt0114508",
@@ -83964,6 +83926,46 @@
       "timestamp": "2026-01-29T07:24:59.144Z",
       "ip": "2401:4900:8820:8915:4cf1:86b4:fbb:ab6,2a09:bac5:37ac:1f19::319:20",
       "username": "anonymous_rare"
+    },
+    {
+      "type": "movie",
+      "id": "tt1911658",
+      "title": "Penguins of Madagascar",
+      "timestamp": "2026-01-29T07:35:11.727Z",
+      "ip": "2409:40e5:1c:b355:58ff:1bff:fefb:763a",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt1911658",
+      "title": "Penguins of Madagascar",
+      "timestamp": "2026-01-29T07:35:21.710Z",
+      "ip": "2409:40e5:1c:b355:58ff:1bff:fefb:763a",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt1911658",
+      "title": "Penguins of Madagascar",
+      "timestamp": "2026-01-29T07:39:16.485Z",
+      "ip": "2409:40e5:1c:b355:58ff:1bff:fefb:763a",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt1911658",
+      "title": "Penguins of Madagascar",
+      "timestamp": "2026-01-29T07:43:53.974Z",
+      "ip": "2409:40e5:1c:b355:58ff:1bff:fefb:763a",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt0110912",
+      "title": "Pulp Fiction",
+      "timestamp": "2026-01-29T07:44:19.778Z",
+      "ip": "45.131.195.87",
+      "username": "sergio_leone96"
     }
   ],
   "activeNow": {
@@ -85527,6 +85529,20 @@
       "title": "tt14905854",
       "username": "anonymous_rare",
       "lastActive": 1769671499144
+    },
+    "2409:40e5:1c:b355:58ff:1bff:fefb:763a": {
+      "type": "movie",
+      "id": "tt1911658",
+      "title": "Penguins of Madagascar",
+      "username": "cyberboy12321",
+      "lastActive": 1769672633974
+    },
+    "45.131.195.87": {
+      "type": "movie",
+      "id": "tt0110912",
+      "title": "Pulp Fiction",
+      "username": "sergio_leone96",
+      "lastActive": 1769672659778
     }
   }
 }
