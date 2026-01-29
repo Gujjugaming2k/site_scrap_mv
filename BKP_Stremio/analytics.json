@@ -1,5 +1,5 @@
 {
-  "totalViews": 18723,
+  "totalViews": 18728,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3983,46 +3983,6 @@
     "103.24.85.19"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-16T21:02:13.099Z",
-      "ip": "72.255.11.154",
-      "username": "hvre2"
-    },
-    {
-      "type": "movie",
-      "id": "tt1630029",
-      "title": "Avatar: The Way of Water",
-      "timestamp": "2026-01-16T21:04:50.912Z",
-      "ip": "72.255.11.154",
-      "username": "hvre2"
-    },
-    {
-      "type": "movie",
-      "id": "tt12908150",
-      "title": "The Life of Chuck",
-      "timestamp": "2026-01-16T21:10:04.782Z",
-      "ip": "72.255.11.154",
-      "username": "hvre2"
-    },
-    {
-      "type": "series",
-      "id": "tt5574490:5:10",
-      "title": "tt5574490:5:10",
-      "timestamp": "2026-01-16T21:10:43.259Z",
-      "ip": "154.208.49.96",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt5574490:5:12",
-      "title": "tt5574490:5:12",
-      "timestamp": "2026-01-16T21:10:55.866Z",
-      "ip": "154.208.49.96",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt5574490:5:10",
@@ -83982,6 +83942,46 @@
       "timestamp": "2026-01-29T11:36:00.301Z",
       "ip": "103.24.85.19",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt22868010",
+      "title": "tt22868010",
+      "timestamp": "2026-01-29T11:41:09.533Z",
+      "ip": "103.24.85.19",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:2",
+      "title": "tt0903747:1:2",
+      "timestamp": "2026-01-29T11:41:21.962Z",
+      "ip": "2a09:bac5:40b2:1aaa::2a8:5b",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt0949731",
+      "title": "tt0949731",
+      "timestamp": "2026-01-29T11:45:54.600Z",
+      "ip": "2405:201:900f:a92b:d52c:2217:44a2:fe39",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "timestamp": "2026-01-29T11:45:59.782Z",
+      "ip": "103.24.85.19",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt36815135",
+      "title": "tt36815135",
+      "timestamp": "2026-01-29T11:48:48.746Z",
+      "ip": "103.24.85.19",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -84260,10 +84260,10 @@
     },
     "2405:201:900f:a92b:d52c:2217:44a2:fe39": {
       "type": "movie",
-      "id": "tt5545862",
-      "title": "tt5545862",
+      "id": "tt0949731",
+      "title": "tt0949731",
       "username": "theonlyfreak",
-      "lastActive": 1769540177052
+      "lastActive": 1769687154600
     },
     "2a09:bac5:3af1:172d::24f:7": {
       "type": "series",
@@ -85639,10 +85639,10 @@
     },
     "2a09:bac5:40b2:1aaa::2a8:5b": {
       "type": "series",
-      "id": "tt0903747:1:1",
-      "title": "tt0903747:1:1",
+      "id": "tt0903747:1:2",
+      "title": "tt0903747:1:2",
       "username": "demon18319",
-      "lastActive": 1769685828788
+      "lastActive": 1769686881962
     },
     "2409:40d0:1029:cc60:d415:5188:33bb:415b": {
       "type": "series",
@@ -85667,10 +85667,10 @@
     },
     "103.24.85.19": {
       "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
+      "id": "tt36815135",
+      "title": "tt36815135",
       "username": "william097",
-      "lastActive": 1769686560301
+      "lastActive": 1769687328746
     }
   }
 }
