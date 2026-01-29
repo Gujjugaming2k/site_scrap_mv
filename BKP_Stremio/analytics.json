@@ -1,5 +1,5 @@
 {
-  "totalViews": 18988,
+  "totalViews": 18993,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4024,49 +4024,11 @@
     "2409:40f0:101f:1488:4c3d:5fff:fe56:b265",
     "2401:4900:b544:f16a:6406:66ff:fe90:68a2",
     "182.77.78.99",
-    "209.87.169.216"
+    "209.87.169.216",
+    "209.87.169.229",
+    "209.87.169.220"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0988824:1:1",
-      "title": "tt0988824:1:1",
-      "timestamp": "2026-01-17T07:52:20.803Z",
-      "ip": "72.255.11.154",
-      "username": "hvre2"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-17T07:54:50.981Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt32820897",
-      "title": "tt32820897",
-      "timestamp": "2026-01-17T07:58:35.245Z",
-      "ip": "2401:4900:8ff3:325f:f1d8:95fc:32ee:7e1e",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
-      "timestamp": "2026-01-17T07:58:47.730Z",
-      "ip": "2409:40d4:35:b5b9:8bf:83ff:fecd:d7e5",
-      "username": "golu_vk"
-    },
-    {
-      "type": "movie",
-      "id": "tt0114709",
-      "title": "Toy Story",
-      "timestamp": "2026-01-17T07:59:04.000Z",
-      "ip": "152.59.149.84",
-      "username": "nabakun24"
-    },
     {
       "type": "movie",
       "id": "tt32820897",
@@ -84026,6 +83988,46 @@
       "timestamp": "2026-01-29T21:27:01.233Z",
       "ip": "209.87.169.216",
       "username": "sergio_leone96"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-29T21:32:34.064Z",
+      "ip": "182.69.181.156",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt0099785",
+      "title": "Home Alone",
+      "timestamp": "2026-01-29T21:35:08.266Z",
+      "ip": "209.87.169.229",
+      "username": "sergio_leone96"
+    },
+    {
+      "type": "movie",
+      "id": "tt0099785",
+      "title": "Home Alone",
+      "timestamp": "2026-01-29T21:38:30.874Z",
+      "ip": "209.87.169.220",
+      "username": "sergio_leone96"
+    },
+    {
+      "type": "movie",
+      "id": "tt0118751",
+      "title": "tt0118751",
+      "timestamp": "2026-01-29T21:41:46.644Z",
+      "ip": "182.69.181.156",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
+      "timestamp": "2026-01-29T21:42:10.507Z",
+      "ip": "182.69.181.156",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -85066,11 +85068,11 @@
       "lastActive": 1769612212869
     },
     "182.69.181.156": {
-      "type": "series",
-      "id": "tt15576504:1:5",
-      "title": "tt15576504:1:5",
+      "type": "movie",
+      "id": "tt35335046:1:1",
+      "title": "tt35335046:1:1",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769715325818
+      "lastActive": 1769722930507
     },
     "2409:40f0:2432:6e6d:4019:6dff:fe39:6400": {
       "type": "movie",
@@ -86030,6 +86032,20 @@
       "title": "Home Alone",
       "username": "sergio_leone96",
       "lastActive": 1769722021233
+    },
+    "209.87.169.229": {
+      "type": "movie",
+      "id": "tt0099785",
+      "title": "Home Alone",
+      "username": "sergio_leone96",
+      "lastActive": 1769722508266
+    },
+    "209.87.169.220": {
+      "type": "movie",
+      "id": "tt0099785",
+      "title": "Home Alone",
+      "username": "sergio_leone96",
+      "lastActive": 1769722710874
     }
   }
 }
