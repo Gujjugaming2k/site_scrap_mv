@@ -1,5 +1,5 @@
 {
-  "totalViews": 18567,
+  "totalViews": 18571,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3954,41 +3954,10 @@
     "2409:40d7:103b:ba9f:5462:76ff:fe72:b420",
     "152.56.66.224",
     "2409:40c0:1036:8967:40b5:162f:75ff:a30d",
-    "103.134.25.8"
+    "103.134.25.8",
+    "2409:40c0:1049:9d79:9087:ceff:feee:d443"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt4564560",
-      "title": "tt4564560",
-      "timestamp": "2026-01-16T17:04:12.469Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt1301716",
-      "title": "tt1301716",
-      "timestamp": "2026-01-16T17:04:22.418Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt6953974",
-      "title": "tt6953974",
-      "timestamp": "2026-01-16T17:04:33.434Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt23790696",
-      "title": "tt23790696",
-      "timestamp": "2026-01-16T17:05:04.947Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:1",
@@ -83956,6 +83925,38 @@
       "timestamp": "2026-01-29T05:19:58.387Z",
       "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
       "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt0382625",
+      "title": "The Da Vinci Code",
+      "timestamp": "2026-01-29T05:34:40.668Z",
+      "ip": "2409:40d7:103b:ba9f:5462:76ff:fe72:b420",
+      "username": "mailrahulboora"
+    },
+    {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "timestamp": "2026-01-29T05:36:46.468Z",
+      "ip": "2409:40c0:1049:9d79:9087:ceff:feee:d443",
+      "username": "oo0o0a0o0oo"
+    },
+    {
+      "type": "series",
+      "id": "tt21030032:3:3",
+      "title": "tt21030032:3:3",
+      "timestamp": "2026-01-29T05:41:49.116Z",
+      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
+      "username": "nabakun"
+    },
+    {
+      "type": "series",
+      "id": "tt21030032:3:3",
+      "title": "tt21030032:3:3",
+      "timestamp": "2026-01-29T05:42:07.627Z",
+      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
+      "username": "nabakun"
     }
   ],
   "activeNow": {
@@ -85406,7 +85407,7 @@
       "id": "tt21030032:3:3",
       "title": "tt21030032:3:3",
       "username": "nabakun",
-      "lastActive": 1769663998387
+      "lastActive": 1769665327627
     },
     "2405:201:2022:b81c:607e:bc89:7789:7997": {
       "type": "movie",
@@ -85434,7 +85435,7 @@
       "id": "tt0382625",
       "title": "The Da Vinci Code",
       "username": "mailrahulboora",
-      "lastActive": 1769659880355
+      "lastActive": 1769664880668
     },
     "152.56.66.224": {
       "type": "movie",
@@ -85463,6 +85464,13 @@
       "title": "tt37449205:1:2",
       "username": "spidey_again",
       "lastActive": 1769662337893
+    },
+    "2409:40c0:1049:9d79:9087:ceff:feee:d443": {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "username": "oo0o0a0o0oo",
+      "lastActive": 1769665006468
     }
   }
 }
