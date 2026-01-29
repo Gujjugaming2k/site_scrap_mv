@@ -1,5 +1,5 @@
 {
-  "totalViews": 18993,
+  "totalViews": 18997,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4029,38 +4029,6 @@
     "209.87.169.220"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32820897",
-      "title": "tt32820897",
-      "timestamp": "2026-01-17T07:59:13.285Z",
-      "ip": "2401:4900:8ff3:325f:f1d8:95fc:32ee:7e1e",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0070944",
-      "title": "tt0070944",
-      "timestamp": "2026-01-17T07:59:26.936Z",
-      "ip": "85.154.16.157",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0069001",
-      "title": "tt0069001",
-      "timestamp": "2026-01-17T08:00:02.828Z",
-      "ip": "85.154.16.157",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0071274",
-      "title": "tt0071274",
-      "timestamp": "2026-01-17T08:01:22.799Z",
-      "ip": "85.154.16.157",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt25404536:1:1",
@@ -84028,6 +83996,38 @@
       "timestamp": "2026-01-29T21:42:10.507Z",
       "ip": "182.69.181.156",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:4:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-29T21:53:56.053Z",
+      "ip": "223.185.21.170",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:4:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-29T21:55:15.162Z",
+      "ip": "223.185.21.170",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-29T21:55:24.992Z",
+      "ip": "223.185.21.170",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-29T22:00:25.003Z",
+      "ip": "182.69.181.156",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -85069,10 +85069,10 @@
     },
     "182.69.181.156": {
       "type": "movie",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769722930507
+      "lastActive": 1769724025003
     },
     "2409:40f0:2432:6e6d:4019:6dff:fe39:6400": {
       "type": "movie",
@@ -85748,10 +85748,10 @@
     },
     "223.185.21.170": {
       "type": "series",
-      "id": "tt4574334:4:1",
+      "id": "tt4574334:1:1",
       "title": "Stranger Things",
       "username": "sinbad1722",
-      "lastActive": 1769721360592
+      "lastActive": 1769723724992
     },
     "2a09:bac6:d860:26fa::3e2:18": {
       "type": "series",
