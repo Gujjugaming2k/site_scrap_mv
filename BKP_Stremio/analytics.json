@@ -1,5 +1,5 @@
 {
-  "totalViews": 18738,
+  "totalViews": 18741,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3987,30 +3987,6 @@
     "146.70.255.127"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-16T21:13:19.045Z",
-      "ip": "15.160.63.217",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-01-16T21:16:20.953Z",
-      "ip": "109.77.31.204",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:5:5",
-      "title": "tt0903747:5:5",
-      "timestamp": "2026-01-16T21:18:52.624Z",
-      "ip": "182.69.179.223",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt0903747:5:5",
@@ -83986,6 +83962,30 @@
       "timestamp": "2026-01-29T12:20:25.940Z",
       "ip": "146.70.255.127",
       "username": "jinwoooooi"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-29T12:46:18.557Z",
+      "ip": "2401:4900:8820:8915:747e:7b82:51b7:7a1b,2a09:bac5:37ac:1f19::319:20",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-29T12:46:39.138Z",
+      "ip": "2401:4900:8820:8915:747e:7b82:51b7:7a1b,2a09:bac5:37ac:1f19::319:20",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "movie",
+      "id": "tt32820897",
+      "title": "tt32820897",
+      "timestamp": "2026-01-29T12:49:52.295Z",
+      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
+      "username": "nabakun"
     }
   ],
   "activeNow": {
@@ -84515,11 +84515,11 @@
       "lastActive": 1769495622234
     },
     "2401:4900:8820:8915:747e:7b82:51b7:7a1b,2a09:bac5:37ac:1f19::319:20": {
-      "type": "movie",
-      "id": "tt1312221",
-      "title": "Frankenstein",
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
       "username": "anonymous_rare",
-      "lastActive": 1769669996228
+      "lastActive": 1769690799138
     },
     "117.250.161.222": {
       "type": "series",
@@ -85432,11 +85432,11 @@
       "lastActive": 1769627859169
     },
     "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13": {
-      "type": "series",
-      "id": "tt9335498:1:1",
-      "title": "tt9335498:1:1",
+      "type": "movie",
+      "id": "tt32820897",
+      "title": "tt32820897",
       "username": "nabakun",
-      "lastActive": 1769684475049
+      "lastActive": 1769690992295
     },
     "2405:201:2022:b81c:607e:bc89:7789:7997": {
       "type": "movie",
