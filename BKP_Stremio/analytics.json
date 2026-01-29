@@ -1,5 +1,5 @@
 {
-  "totalViews": 18539,
+  "totalViews": 18543,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3950,41 +3950,12 @@
     "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
     "2405:201:2022:b81c:607e:bc89:7789:7997",
     "2401:4900:abb5:b31d:a4a5:7bff:fe2d:8abe",
-    "2405:201:2022:b81c:40c:bb80:9391:7480"
+    "2405:201:2022:b81c:40c:bb80:9391:7480",
+    "2409:40d7:103b:ba9f:5462:76ff:fe72:b420",
+    "152.56.66.224",
+    "2409:40c0:1036:8967:40b5:162f:75ff:a30d"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0388629:16:15",
-      "title": "tt0388629:16:15",
-      "timestamp": "2026-01-16T16:40:03.889Z",
-      "ip": "2401:4900:8833:1c28:6099:7bba:48ea:2791",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt5440700",
-      "title": "tt5440700",
-      "timestamp": "2026-01-16T16:40:23.469Z",
-      "ip": "122.167.97.49",
-      "username": "zindha"
-    },
-    {
-      "type": "movie",
-      "id": "tt30472557",
-      "title": "Chainsaw Man - The Movie: Reze Arc",
-      "timestamp": "2026-01-16T16:40:31.629Z",
-      "ip": "2401:4900:8833:1c28:6099:7bba:48ea:2791",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt11253090",
-      "title": "tt11253090",
-      "timestamp": "2026-01-16T16:40:33.869Z",
-      "ip": "122.167.97.49",
-      "username": "zindha"
-    },
     {
       "type": "movie",
       "id": "tt32642706",
@@ -83952,6 +83923,38 @@
       "timestamp": "2026-01-29T03:53:58.954Z",
       "ip": "2405:201:2022:b81c:607e:bc89:7789:7997",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt0382625",
+      "title": "The Da Vinci Code",
+      "timestamp": "2026-01-29T04:11:20.355Z",
+      "ip": "2409:40d7:103b:ba9f:5462:76ff:fe72:b420",
+      "username": "mailrahulboora"
+    },
+    {
+      "type": "series",
+      "id": "tt21030032:3:3",
+      "title": "tt21030032:3:3",
+      "timestamp": "2026-01-29T04:13:28.535Z",
+      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
+      "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt0382625",
+      "title": "The Da Vinci Code",
+      "timestamp": "2026-01-29T04:18:12.903Z",
+      "ip": "152.56.66.224",
+      "username": "mailrahulboora"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-01-29T04:21:50.466Z",
+      "ip": "2409:40c0:1036:8967:40b5:162f:75ff:a30d",
+      "username": "oo0o0a0o0oo"
     }
   ],
   "activeNow": {
@@ -85402,7 +85405,7 @@
       "id": "tt21030032:3:3",
       "title": "tt21030032:3:3",
       "username": "nabakun",
-      "lastActive": 1769655835579
+      "lastActive": 1769660008535
     },
     "2405:201:2022:b81c:607e:bc89:7789:7997": {
       "type": "movie",
@@ -85424,6 +85427,27 @@
       "title": "Sinners",
       "username": "zealousninja",
       "lastActive": 1769658425636
+    },
+    "2409:40d7:103b:ba9f:5462:76ff:fe72:b420": {
+      "type": "movie",
+      "id": "tt0382625",
+      "title": "The Da Vinci Code",
+      "username": "mailrahulboora",
+      "lastActive": 1769659880355
+    },
+    "152.56.66.224": {
+      "type": "movie",
+      "id": "tt0382625",
+      "title": "The Da Vinci Code",
+      "username": "mailrahulboora",
+      "lastActive": 1769660292903
+    },
+    "2409:40c0:1036:8967:40b5:162f:75ff:a30d": {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "username": "oo0o0a0o0oo",
+      "lastActive": 1769660510466
     }
   }
 }
