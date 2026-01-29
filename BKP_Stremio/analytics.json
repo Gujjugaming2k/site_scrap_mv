@@ -1,5 +1,5 @@
 {
-  "totalViews": 18894,
+  "totalViews": 18899,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4014,46 +4014,6 @@
     "2401:4900:1c53:3310:8d9e:5f70:c207:4263"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0117331",
-      "title": "tt0117331",
-      "timestamp": "2026-01-17T04:38:37.111Z",
-      "ip": "186.188.150.139",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt3469244",
-      "title": "tt3469244",
-      "timestamp": "2026-01-17T04:39:02.819Z",
-      "ip": "186.188.150.139",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt14142060",
-      "title": "tt14142060",
-      "timestamp": "2026-01-17T04:39:17.298Z",
-      "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
-      "username": "nabakun24"
-    },
-    {
-      "type": "series",
-      "id": "tt22202452:1:6",
-      "title": "tt22202452:1:6",
-      "timestamp": "2026-01-17T04:40:25.761Z",
-      "ip": "2604:3d09:d7f:1600:8dd3:f950:d7c9:bdbd",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt22202452:1:5",
-      "title": "tt22202452:1:5",
-      "timestamp": "2026-01-17T04:40:28.965Z",
-      "ip": "2604:3d09:d7f:1600:8dd3:f950:d7c9:bdbd",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt1240538",
@@ -84013,6 +83973,46 @@
       "timestamp": "2026-01-29T18:15:12.354Z",
       "ip": "139.5.196.103",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-29T18:36:55.405Z",
+      "ip": "115.187.38.42",
+      "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-29T18:38:05.238Z",
+      "ip": "115.187.38.42",
+      "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-29T18:38:10.484Z",
+      "ip": "115.187.38.42",
+      "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt34915705",
+      "title": "tt34915705",
+      "timestamp": "2026-01-29T18:38:14.656Z",
+      "ip": "2401:4900:1c53:3310:8d9e:5f70:c207:4263",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-29T18:38:19.184Z",
+      "ip": "115.187.38.42",
+      "username": "tgh2r"
     }
   ],
   "activeNow": {
@@ -85004,11 +85004,11 @@
       "lastActive": 1769539638001
     },
     "115.187.38.42": {
-      "type": "series",
-      "id": "tt13706018:3:10",
-      "title": "SPY x FAMILY",
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "tgh2r",
-      "lastActive": 1769700960319
+      "lastActive": 1769711899184
     },
     "103.181.65.63": {
       "type": "movie",
@@ -85922,10 +85922,10 @@
     },
     "2401:4900:1c53:3310:8d9e:5f70:c207:4263": {
       "type": "movie",
-      "id": "tt9179430",
-      "title": "tt9179430",
+      "id": "tt34915705",
+      "title": "tt34915705",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769709553285
+      "lastActive": 1769711894656
     }
   }
 }
