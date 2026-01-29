@@ -1,5 +1,5 @@
 {
-  "totalViews": 18614,
+  "totalViews": 18620,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3966,57 +3966,11 @@
     "2409:40e5:1c:b355:58ff:1bff:fefb:763a",
     "45.131.195.87",
     "103.24.85.80",
-    "2409:40d7:1033:7658:fc88:dff:fe83:6cdc"
+    "2409:40d7:1033:7658:fc88:dff:fe83:6cdc",
+    "2402:8100:26f0:430c:c209:3508:112:bf80",
+    "2402:8100:26f0:430c:6bbe:16e5:c234:ca06"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt23468836",
-      "title": "Touch",
-      "timestamp": "2026-01-16T17:43:49.152Z",
-      "ip": "103.181.65.39",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt23468836",
-      "title": "Touch",
-      "timestamp": "2026-01-16T17:43:49.194Z",
-      "ip": "103.181.65.39",
-      "username": "mutti9"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543578",
-      "title": "Good Fortune",
-      "timestamp": "2026-01-16T17:44:17.118Z",
-      "ip": "103.123.168.109",
-      "username": "demo"
-    },
-    {
-      "type": "movie",
-      "id": "tt23790696",
-      "title": "tt23790696",
-      "timestamp": "2026-01-16T17:45:31.278Z",
-      "ip": "103.181.65.39",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt23790696",
-      "title": "tt23790696",
-      "timestamp": "2026-01-16T17:45:31.326Z",
-      "ip": "103.181.65.39",
-      "username": "mutti9"
-    },
-    {
-      "type": "movie",
-      "id": "tt2911666",
-      "title": "John Wick",
-      "timestamp": "2026-01-16T17:45:58.863Z",
-      "ip": "103.123.168.109",
-      "username": "demo"
-    },
     {
       "type": "movie",
       "id": "tt33500164",
@@ -83968,6 +83922,54 @@
       "timestamp": "2026-01-29T08:01:55.737Z",
       "ip": "103.175.168.106",
       "username": "un0fficial_itachi"
+    },
+    {
+      "type": "movie",
+      "id": "tt3614516",
+      "title": "tt3614516",
+      "timestamp": "2026-01-29T08:26:32.103Z",
+      "ip": "2402:8100:26f0:430c:c209:3508:112:bf80",
+      "username": "harshra9999"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:1:1",
+      "title": "The Boys",
+      "timestamp": "2026-01-29T08:33:02.345Z",
+      "ip": "2402:8100:26f0:430c:c209:3508:112:bf80",
+      "username": "harshra9999"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:1:1",
+      "title": "The Boys",
+      "timestamp": "2026-01-29T08:33:22.321Z",
+      "ip": "2402:8100:26f0:430c:6bbe:16e5:c234:ca06",
+      "username": "harshra9999"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:1:2",
+      "title": "The Boys",
+      "timestamp": "2026-01-29T08:33:24.068Z",
+      "ip": "2402:8100:26f0:430c:6bbe:16e5:c234:ca06",
+      "username": "harshra9999"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:1:2",
+      "title": "The Boys",
+      "timestamp": "2026-01-29T08:33:29.088Z",
+      "ip": "2402:8100:26f0:430c:6bbe:16e5:c234:ca06",
+      "username": "harshra9999"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:1:3",
+      "title": "The Boys",
+      "timestamp": "2026-01-29T08:33:31.807Z",
+      "ip": "2402:8100:26f0:430c:6bbe:16e5:c234:ca06",
+      "username": "harshra9999"
     }
   ],
   "activeNow": {
@@ -85559,6 +85561,20 @@
       "title": "The Da Vinci Code",
       "username": "mailrahulboora",
       "lastActive": 1769673610402
+    },
+    "2402:8100:26f0:430c:c209:3508:112:bf80": {
+      "type": "series",
+      "id": "tt1190634:1:1",
+      "title": "The Boys",
+      "username": "harshra9999",
+      "lastActive": 1769675582345
+    },
+    "2402:8100:26f0:430c:6bbe:16e5:c234:ca06": {
+      "type": "series",
+      "id": "tt1190634:1:3",
+      "title": "The Boys",
+      "username": "harshra9999",
+      "lastActive": 1769675611807
     }
   }
 }
