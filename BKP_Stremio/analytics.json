@@ -1,5 +1,5 @@
 {
-  "totalViews": 18928,
+  "totalViews": 18931,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4012,33 +4012,10 @@
     "2405:201:2033:841:9d60:4bab:11d1:1051",
     "2409:40e1:c0:b84c:8000::",
     "2401:4900:1c53:3310:8d9e:5f70:c207:4263",
-    "2409:40f0:2421:1310:9456:7dff:fea2:e6bd"
+    "2409:40f0:2421:1310:9456:7dff:fea2:e6bd",
+    "182.69.179.110"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt24053860:1:8",
-      "title": "tt24053860:1:8",
-      "timestamp": "2026-01-17T05:17:45.025Z",
-      "ip": "122.167.97.49",
-      "username": "zindha"
-    },
-    {
-      "type": "series",
-      "id": "tt24053860:1:9",
-      "title": "tt24053860:1:9",
-      "timestamp": "2026-01-17T05:18:14.968Z",
-      "ip": "122.167.97.49",
-      "username": "zindha"
-    },
-    {
-      "type": "movie",
-      "id": "tt32447918",
-      "title": "tt32447918",
-      "timestamp": "2026-01-17T05:21:59.032Z",
-      "ip": "2401:4900:8fe2:4c46:8847:477f:a4b8:6df4",
-      "username": "ashwanileon"
-    },
     {
       "type": "series",
       "id": "tt12637874:2:2",
@@ -84014,6 +83991,30 @@
       "timestamp": "2026-01-29T18:50:09.087Z",
       "ip": "115.187.38.42",
       "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-29T18:54:09.280Z",
+      "ip": "115.187.38.42",
+      "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-29T18:55:11.580Z",
+      "ip": "2409:40f0:2421:1310:9456:7dff:fea2:e6bd",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-29T18:58:28.920Z",
+      "ip": "182.69.179.110",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -85009,7 +85010,7 @@
       "id": "tt33014583",
       "title": "Dhurandhar",
       "username": "tgh2r",
-      "lastActive": 1769712609087
+      "lastActive": 1769712849280
     },
     "103.181.65.63": {
       "type": "movie",
@@ -85933,7 +85934,14 @@
       "id": "tt33014583",
       "title": "Dhurandhar",
       "username": "sachinprem1",
-      "lastActive": 1769712333649
+      "lastActive": 1769712911580
+    },
+    "182.69.179.110": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1769713108920
     }
   }
 }
