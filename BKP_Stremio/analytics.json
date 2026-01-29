@@ -1,5 +1,5 @@
 {
-  "totalViews": 18728,
+  "totalViews": 18736,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3980,73 +3980,11 @@
     "2409:40d0:1029:cc60:d415:5188:33bb:415b",
     "2401:4900:adca:5c37:58a5:baff:fe2a:b5db",
     "2401:4900:1cb0:5cf4:c04c:c11e:17ad:d29e",
-    "103.24.85.19"
+    "103.24.85.19",
+    "176.227.240.69",
+    "146.70.255.156"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt5574490:5:10",
-      "title": "tt5574490:5:10",
-      "timestamp": "2026-01-16T21:11:14.049Z",
-      "ip": "154.208.49.96",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt22740896",
-      "title": "tt22740896",
-      "timestamp": "2026-01-16T21:11:27.082Z",
-      "ip": "15.160.63.217",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt12908150",
-      "title": "The Life of Chuck",
-      "timestamp": "2026-01-16T21:11:31.249Z",
-      "ip": "15.160.63.217",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt12908150",
-      "title": "The Life of Chuck",
-      "timestamp": "2026-01-16T21:11:37.832Z",
-      "ip": "15.160.63.217",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt12908150",
-      "title": "The Life of Chuck",
-      "timestamp": "2026-01-16T21:11:42.130Z",
-      "ip": "72.255.11.154",
-      "username": "hvre2"
-    },
-    {
-      "type": "series",
-      "id": "tt22202452:1:1",
-      "title": "tt22202452:1:1",
-      "timestamp": "2026-01-16T21:12:04.282Z",
-      "ip": "41.141.168.231",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0265208",
-      "title": "The Girl Next Door",
-      "timestamp": "2026-01-16T21:12:08.086Z",
-      "ip": "15.160.63.217",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:5",
-      "title": "tt35335046:1:5",
-      "timestamp": "2026-01-16T21:12:30.351Z",
-      "ip": "109.77.31.204",
-      "username": "vflix1993"
-    },
     {
       "type": "movie",
       "id": "tt6604188",
@@ -83982,6 +83920,70 @@
       "timestamp": "2026-01-29T11:48:48.746Z",
       "ip": "103.24.85.19",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:1",
+      "title": "Death Note",
+      "timestamp": "2026-01-29T11:57:01.429Z",
+      "ip": "176.227.240.69",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-29T12:00:33.379Z",
+      "ip": "176.227.240.69",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:1:1",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-29T12:00:45.595Z",
+      "ip": "176.227.240.69",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "movie",
+      "id": "tt26671717",
+      "title": "tt26671717",
+      "timestamp": "2026-01-29T12:07:04.058Z",
+      "ip": "146.70.255.156",
+      "username": "jinwoooooi"
+    },
+    {
+      "type": "movie",
+      "id": "tt26671717",
+      "title": "tt26671717",
+      "timestamp": "2026-01-29T12:07:26.444Z",
+      "ip": "146.70.255.156",
+      "username": "jinwoooooi"
+    },
+    {
+      "type": "movie",
+      "id": "tt22868010",
+      "title": "tt22868010",
+      "timestamp": "2026-01-29T12:07:44.767Z",
+      "ip": "146.70.255.156",
+      "username": "jinwoooooi"
+    },
+    {
+      "type": "movie",
+      "id": "tt33034505",
+      "title": "tt33034505",
+      "timestamp": "2026-01-29T12:08:18.437Z",
+      "ip": "146.70.255.156",
+      "username": "jinwoooooi"
+    },
+    {
+      "type": "movie",
+      "id": "tt22868010",
+      "title": "tt22868010",
+      "timestamp": "2026-01-29T12:08:25.578Z",
+      "ip": "146.70.255.156",
+      "username": "jinwoooooi"
     }
   ],
   "activeNow": {
@@ -85671,6 +85673,20 @@
       "title": "tt36815135",
       "username": "william097",
       "lastActive": 1769687328746
+    },
+    "176.227.240.69": {
+      "type": "series",
+      "id": "tt12343534:1:1",
+      "title": "JUJUTSU KAISEN",
+      "username": "belimhuzaifa",
+      "lastActive": 1769688045595
+    },
+    "146.70.255.156": {
+      "type": "movie",
+      "id": "tt22868010",
+      "title": "tt22868010",
+      "username": "jinwoooooi",
+      "lastActive": 1769688505578
     }
   }
 }
