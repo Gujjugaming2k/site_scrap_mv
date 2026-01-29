@@ -1,5 +1,5 @@
 {
-  "totalViews": 18546,
+  "totalViews": 18551,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -3956,46 +3956,6 @@
     "2409:40c0:1036:8967:40b5:162f:75ff:a30d"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31938062:2:1",
-      "title": "tt31938062:2:1",
-      "timestamp": "2026-01-16T16:42:09.412Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
-    {
-      "type": "series",
-      "id": "tt0412142:8:11",
-      "title": "tt0412142:8:11",
-      "timestamp": "2026-01-16T16:42:57.017Z",
-      "ip": "82.79.141.254",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt32537124:1:3",
-      "title": "tt32537124:1:3",
-      "timestamp": "2026-01-16T16:48:03.159Z",
-      "ip": "2401:4900:1c0a:1745:8ce2:28ed:934f:fe8f",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt30472557",
-      "title": "Chainsaw Man - The Movie: Reze Arc",
-      "timestamp": "2026-01-16T16:55:16.990Z",
-      "ip": "2401:4900:8833:1c28:6099:7bba:48ea:2791",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt29638896",
-      "title": "tt29638896",
-      "timestamp": "2026-01-16T16:55:25.135Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -83955,6 +83915,46 @@
       "timestamp": "2026-01-29T04:27:34.281Z",
       "ip": "2409:40c0:1036:8967:40b5:162f:75ff:a30d",
       "username": "oo0o0a0o0oo"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-01-29T04:29:06.696Z",
+      "ip": "2409:40c0:1036:8967:40b5:162f:75ff:a30d",
+      "username": "oo0o0a0o0oo"
+    },
+    {
+      "type": "series",
+      "id": "tt21030032:3:3",
+      "title": "tt21030032:3:3",
+      "timestamp": "2026-01-29T04:37:14.157Z",
+      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
+      "username": "nabakun"
+    },
+    {
+      "type": "series",
+      "id": "tt21030032:2:1",
+      "title": "tt21030032:2:1",
+      "timestamp": "2026-01-29T04:37:38.143Z",
+      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
+      "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt27847051",
+      "title": "tt27847051",
+      "timestamp": "2026-01-29T04:39:04.727Z",
+      "ip": "103.186.54.176",
+      "username": "schnom153"
+    },
+    {
+      "type": "movie",
+      "id": "tt11564570",
+      "title": "tt11564570",
+      "timestamp": "2026-01-29T04:39:22.933Z",
+      "ip": "103.186.54.176",
+      "username": "schnom153"
     }
   ],
   "activeNow": {
@@ -85402,10 +85402,10 @@
     },
     "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13": {
       "type": "series",
-      "id": "tt21030032:3:3",
-      "title": "tt21030032:3:3",
+      "id": "tt21030032:2:1",
+      "title": "tt21030032:2:1",
       "username": "nabakun",
-      "lastActive": 1769660008535
+      "lastActive": 1769661458143
     },
     "2405:201:2022:b81c:607e:bc89:7789:7997": {
       "type": "movie",
@@ -85444,10 +85444,17 @@
     },
     "2409:40c0:1036:8967:40b5:162f:75ff:a30d": {
       "type": "movie",
-      "id": "tt4922810",
-      "title": "tt4922810",
+      "id": "tt1187043",
+      "title": "3 Idiots",
       "username": "oo0o0a0o0oo",
-      "lastActive": 1769660854281
+      "lastActive": 1769660946696
+    },
+    "103.186.54.176": {
+      "type": "movie",
+      "id": "tt11564570",
+      "title": "tt11564570",
+      "username": "schnom153",
+      "lastActive": 1769661562933
     }
   }
 }
