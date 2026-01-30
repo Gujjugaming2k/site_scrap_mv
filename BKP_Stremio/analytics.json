@@ -1,5 +1,5 @@
 {
-  "totalViews": 19258,
+  "totalViews": 19259,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4077,17 +4077,10 @@
     "146.70.255.37",
     "2409:40f0:3009:96:9cb0:ecff:fe04:c19d",
     "2401:4900:8fe2:b916:fcaa:31ae:19a9:a48d",
-    "2409:40f0:31cf:a1d:1c12:33ff:fe10:63b7"
+    "2409:40f0:31cf:a1d:1c12:33ff:fe10:63b7",
+    "2401:4900:b019:ae40:1074:b0ff:febb:48f8"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-17T12:32:22.097Z",
-      "ip": "2402:a00:10a:815f:419d:66a4:f9b3:9357",
-      "username": "vflix1993"
-    },
     {
       "type": "series",
       "id": "tt33035373:1:1",
@@ -84079,6 +84072,14 @@
       "timestamp": "2026-01-30T12:15:22.192Z",
       "ip": "2409:40f0:31cf:a1d:1c12:33ff:fe10:63b7",
       "username": "hjbjkkfggjkjv"
+    },
+    {
+      "type": "movie",
+      "id": "tt30818815",
+      "title": "tt30818815",
+      "timestamp": "2026-01-30T12:29:24.428Z",
+      "ip": "2401:4900:b019:ae40:1074:b0ff:febb:48f8",
+      "username": "adshoyi"
     }
   ],
   "activeNow": {
@@ -86468,6 +86469,13 @@
       "title": "tt1232829",
       "username": "hjbjkkfggjkjv",
       "lastActive": 1769775322192
+    },
+    "2401:4900:b019:ae40:1074:b0ff:febb:48f8": {
+      "type": "movie",
+      "id": "tt30818815",
+      "title": "tt30818815",
+      "username": "adshoyi",
+      "lastActive": 1769776164428
     }
   }
 }
