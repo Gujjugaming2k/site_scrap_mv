@@ -1,5 +1,5 @@
 {
-  "totalViews": 19227,
+  "totalViews": 19231,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4064,41 +4064,10 @@
     "2a09:bac1:36e0:1e0::2a6:5e",
     "2402:3a80:1983:d630:278:5634:1232:5476",
     "2401:4900:8820:8915:8025:f37:5e8:2a62,2a09:bac1:28c0:f0::2e0:10b",
-    "2409:40d4:408d:afd9:9500:57d3:b58b:a24f"
+    "2409:40d4:408d:afd9:9500:57d3:b58b:a24f",
+    "2405:201:900f:a92b:dc36:f520:1d4:ffb5"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0168366:1:4",
-      "title": "tt0168366:1:4",
-      "timestamp": "2026-01-17T12:20:40.821Z",
-      "ip": "103.175.9.0",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt9680440:1:6",
-      "title": "tt9680440:1:6",
-      "timestamp": "2026-01-17T12:20:56.546Z",
-      "ip": "152.59.168.14",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "series",
-      "id": "tt9680440:1:6",
-      "title": "tt9680440:1:6",
-      "timestamp": "2026-01-17T12:20:56.632Z",
-      "ip": "152.59.168.14",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "series",
-      "id": "tt9680440:1:6",
-      "title": "tt9680440:1:6",
-      "timestamp": "2026-01-17T12:20:57.010Z",
-      "ip": "152.59.168.14",
-      "username": "cyberboy12321"
-    },
     {
       "type": "series",
       "id": "tt0168366:1:4",
@@ -84066,6 +84035,38 @@
       "timestamp": "2026-01-30T09:22:45.730Z",
       "ip": "2402:3a80:1983:d630:278:5634:1232:5476",
       "username": "lazerkey"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-01-30T09:32:34.845Z",
+      "ip": "2405:201:900f:a92b:dc36:f520:1d4:ffb5",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-01-30T09:33:09.720Z",
+      "ip": "2405:201:900f:a92b:dc36:f520:1d4:ffb5",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-30T09:34:06.957Z",
+      "ip": "103.24.85.19",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:7",
+      "title": "tt0903747:1:7",
+      "timestamp": "2026-01-30T09:38:33.371Z",
+      "ip": "2a09:bac1:36e0:1e0::2a6:5e",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -85751,10 +85752,10 @@
     },
     "103.24.85.19": {
       "type": "movie",
-      "id": "tt27136041",
-      "title": "tt27136041",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "william097",
-      "lastActive": 1769759102197
+      "lastActive": 1769765646957
     },
     "176.227.240.69": {
       "type": "series",
@@ -86339,10 +86340,10 @@
     },
     "2a09:bac1:36e0:1e0::2a6:5e": {
       "type": "series",
-      "id": "tt0903747:1:6",
-      "title": "tt0903747:1:6",
+      "id": "tt0903747:1:7",
+      "title": "tt0903747:1:7",
       "username": "demon18319",
-      "lastActive": 1769764917241
+      "lastActive": 1769765913371
     },
     "2402:3a80:1983:d630:278:5634:1232:5476": {
       "type": "series",
@@ -86364,6 +86365,13 @@
       "title": "Ready Player One",
       "username": "kdbotz",
       "lastActive": 1769764234225
+    },
+    "2405:201:900f:a92b:dc36:f520:1d4:ffb5": {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "username": "theonlyfreak",
+      "lastActive": 1769765589720
     }
   }
 }
