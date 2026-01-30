@@ -1,5 +1,5 @@
 {
-  "totalViews": 19165,
+  "totalViews": 19167,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4052,25 +4052,10 @@
     "2a09:bac1:36a0:1a8::20a:75",
     "2409:40d4:40d1:118a:8000::",
     "2409:40d4:408d:afd9:ec31:1218:768d:3d8e",
-    "2a09:bac5:40b2:1a96::2a6:5e"
+    "2a09:bac5:40b2:1a96::2a6:5e",
+    "2401:4900:c22c:8e7e:4440:c6ff:fee2:3225"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1409055:2:3",
-      "title": "Dragon Ball Z Kai",
-      "timestamp": "2026-01-17T11:29:05.124Z",
-      "ip": "2405:201:500c:496b:ef7d:27cc:7391:5437",
-      "username": "karthik"
-    },
-    {
-      "type": "series",
-      "id": "tt25404536:1:2",
-      "title": "tt25404536:1:2",
-      "timestamp": "2026-01-17T11:29:38.921Z",
-      "ip": "182.77.72.137",
-      "username": "thebatmanbyte"
-    },
     {
       "type": "movie",
       "id": "tt5311514",
@@ -84054,6 +84039,22 @@
       "timestamp": "2026-01-30T06:06:36.929Z",
       "ip": "2a09:bac5:40b2:1a96::2a6:5e",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-30T06:23:26.731Z",
+      "ip": "182.69.181.156",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-30T06:27:20.654Z",
+      "ip": "2401:4900:c22c:8e7e:4440:c6ff:fee2:3225",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -85098,7 +85099,7 @@
       "id": "tt33014583",
       "title": "Dhurandhar",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769748685822
+      "lastActive": 1769754206731
     },
     "2409:40f0:2432:6e6d:4019:6dff:fe39:6400": {
       "type": "movie",
@@ -86268,6 +86269,13 @@
       "title": "tt0903747:1:4",
       "username": "demon18319",
       "lastActive": 1769753196929
+    },
+    "2401:4900:c22c:8e7e:4440:c6ff:fee2:3225": {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "username": "b1jju",
+      "lastActive": 1769754440654
     }
   }
 }
