@@ -1,5 +1,5 @@
 {
-  "totalViews": 19407,
+  "totalViews": 19411,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4100,41 +4100,10 @@
     "103.214.60.37",
     "2405:201:2022:b81c:356f:6bdc:ca6:f8ed",
     "2401:4900:1c53:3310:8300:a249:fa12:f7eb",
-    "2001:ac8:2:1::12"
+    "2001:ac8:2:1::12",
+    "2401:4900:8811:d0b5:b3d0:76d0:42bc:5b15"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-17T14:30:38.141Z",
-      "ip": "202.142.105.241",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "movie",
-      "id": "tt34610311",
-      "title": "The Shadow's Edge",
-      "timestamp": "2026-01-17T14:31:29.176Z",
-      "ip": "72.255.11.154",
-      "username": "hvre2"
-    },
-    {
-      "type": "series",
-      "id": "tt13930822:2:3",
-      "title": "tt13930822:2:3",
-      "timestamp": "2026-01-17T14:31:44.017Z",
-      "ip": "202.173.124.39",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt13930822:2:4",
-      "title": "tt13930822:2:4",
-      "timestamp": "2026-01-17T14:32:45.399Z",
-      "ip": "202.173.124.39",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "movie",
       "id": "tt34610311",
@@ -84102,6 +84071,38 @@
       "timestamp": "2026-01-30T17:55:33.327Z",
       "ip": "2001:ac8:2:1::12",
       "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-30T17:57:04.998Z",
+      "ip": "2001:ac8:2:1::12",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt36616410",
+      "title": "tt36616410",
+      "timestamp": "2026-01-30T17:57:31.214Z",
+      "ip": "2405:201:2022:b81c:356f:6bdc:ca6:f8ed",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt1645170",
+      "title": "The Dictator",
+      "timestamp": "2026-01-30T17:59:00.972Z",
+      "ip": "2401:4900:8811:d0b5:b3d0:76d0:42bc:5b15",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-01-30T18:07:51.324Z",
+      "ip": "103.181.65.63",
+      "username": "mutti9"
     }
   ],
   "activeNow": {
@@ -85101,10 +85102,10 @@
     },
     "103.181.65.63": {
       "type": "movie",
-      "id": "tt32012416",
-      "title": "tt32012416",
+      "id": "tt33244668",
+      "title": "tt33244668",
       "username": "mutti9",
-      "lastActive": 1769708653306
+      "lastActive": 1769796471324
     },
     "200.108.55.178": {
       "type": "series",
@@ -86637,7 +86638,7 @@
       "id": "tt36616410",
       "title": "tt36616410",
       "username": "zealousninja",
-      "lastActive": 1769795366604
+      "lastActive": 1769795851214
     },
     "2401:4900:1c53:3310:8300:a249:fa12:f7eb": {
       "type": "movie",
@@ -86651,7 +86652,14 @@
       "id": "tt33014583",
       "title": "Dhurandhar",
       "username": "golu_vk",
-      "lastActive": 1769795733327
+      "lastActive": 1769795824998
+    },
+    "2401:4900:8811:d0b5:b3d0:76d0:42bc:5b15": {
+      "type": "movie",
+      "id": "tt1645170",
+      "title": "The Dictator",
+      "username": "ryuzaklo26",
+      "lastActive": 1769795940972
     }
   }
 }
