@@ -1,5 +1,5 @@
 {
-  "totalViews": 19291,
+  "totalViews": 19295,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4083,41 +4083,11 @@
     "2a09:bac5:40ec:2719::3e5:2a",
     "146.70.246.123",
     "2401:4900:abb8:a3ae:3476:5eff:feb3:7b9b",
-    "2401:4900:74d5:8829:dcee:6eff:feb7:c717"
+    "2401:4900:74d5:8829:dcee:6eff:feb7:c717",
+    "2405:201:202d:d014:c7c9:3d3:b3c8:20b2",
+    "117.196.164.75"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0168366:1:3",
-      "title": "tt0168366:1:3",
-      "timestamp": "2026-01-17T12:55:38.265Z",
-      "ip": "2409:40d4:50c7:88c8:600d:97fd:be6:452b",
-      "username": "chouhanji007"
-    },
-    {
-      "type": "series",
-      "id": "tt0168366:1:4",
-      "title": "tt0168366:1:4",
-      "timestamp": "2026-01-17T12:56:05.910Z",
-      "ip": "2409:40d4:50c7:88c8:600d:97fd:be6:452b",
-      "username": "chouhanji007"
-    },
-    {
-      "type": "series",
-      "id": "tt0168366:1:4",
-      "title": "tt0168366:1:4",
-      "timestamp": "2026-01-17T12:56:21.726Z",
-      "ip": "2409:40d4:50c7:88c8:600d:97fd:be6:452b",
-      "username": "chouhanji007"
-    },
-    {
-      "type": "series",
-      "id": "tt0168366:1:4",
-      "title": "tt0168366:1:4",
-      "timestamp": "2026-01-17T12:56:22.912Z",
-      "ip": "2409:40d4:50c7:88c8:600d:97fd:be6:452b",
-      "username": "chouhanji007"
-    },
     {
       "type": "series",
       "id": "tt0168366:1:5",
@@ -84085,6 +84055,38 @@
       "timestamp": "2026-01-30T14:27:20.898Z",
       "ip": "115.187.38.42",
       "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-30T14:34:42.951Z",
+      "ip": "2405:201:202d:d014:c7c9:3d3:b3c8:20b2",
+      "username": "explorerindia"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-30T14:41:07.114Z",
+      "ip": "117.196.164.75",
+      "username": "adiyogivishwanath"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-30T14:43:04.067Z",
+      "ip": "117.196.164.75",
+      "username": "adiyogivishwanath"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:10",
+      "title": "tt14186672:1:10",
+      "timestamp": "2026-01-30T14:46:33.043Z",
+      "ip": "2401:4900:abb8:a3ae:3476:5eff:feb3:7b9b",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -86504,11 +86506,11 @@
       "lastActive": 1769779900592
     },
     "2401:4900:abb8:a3ae:3476:5eff:feb3:7b9b": {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "type": "series",
+      "id": "tt14186672:1:10",
+      "title": "tt14186672:1:10",
       "username": "chetan_b2",
-      "lastActive": 1769781136776
+      "lastActive": 1769784393043
     },
     "2401:4900:74d5:8829:dcee:6eff:feb7:c717": {
       "type": "movie",
@@ -86516,6 +86518,20 @@
       "title": "tt35684868",
       "username": "william097",
       "lastActive": 1769781999882
+    },
+    "2405:201:202d:d014:c7c9:3d3:b3c8:20b2": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "explorerindia",
+      "lastActive": 1769783682951
+    },
+    "117.196.164.75": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "adiyogivishwanath",
+      "lastActive": 1769784184067
     }
   }
 }
