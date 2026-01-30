@@ -1,5 +1,5 @@
 {
-  "totalViews": 19016,
+  "totalViews": 19018,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4027,25 +4027,10 @@
     "209.87.169.216",
     "209.87.169.229",
     "209.87.169.220",
-    "2405:201:6820:a83c:a4d2:c52f:fefc:2e83"
+    "2405:201:6820:a83c:a4d2:c52f:fefc:2e83",
+    "223.181.78.115"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "null:3:3",
-      "title": "null:3:3",
-      "timestamp": "2026-01-17T08:40:35.938Z",
-      "ip": "49.36.117.21",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt14142060",
-      "title": "tt14142060",
-      "timestamp": "2026-01-17T08:42:35.153Z",
-      "ip": "205.254.185.192",
-      "username": "space_forca"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -84029,6 +84014,22 @@
       "timestamp": "2026-01-30T01:23:16.870Z",
       "ip": "2405:201:6820:a83c:a4d2:c52f:fefc:2e83",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt0338013",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "timestamp": "2026-01-30T01:30:19.646Z",
+      "ip": "2405:201:6820:a83c:a4d2:c52f:fefc:2e83",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-30T01:32:29.654Z",
+      "ip": "223.181.78.115",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -86057,10 +86058,17 @@
     },
     "2405:201:6820:a83c:a4d2:c52f:fefc:2e83": {
       "type": "movie",
+      "id": "tt0338013",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "username": "demon18319",
+      "lastActive": 1769736619646
+    },
+    "223.181.78.115": {
+      "type": "movie",
       "id": "tt33014583",
       "title": "Dhurandhar",
-      "username": "demon18319",
-      "lastActive": 1769736196870
+      "username": "b1jju",
+      "lastActive": 1769736749654
     }
   }
 }
