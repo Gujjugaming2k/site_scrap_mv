@@ -1,5 +1,5 @@
 {
-  "totalViews": 19295,
+  "totalViews": 19301,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4088,54 +4088,6 @@
     "117.196.164.75"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0168366:1:5",
-      "title": "tt0168366:1:5",
-      "timestamp": "2026-01-17T12:56:38.546Z",
-      "ip": "2409:40d4:50c7:88c8:600d:97fd:be6:452b",
-      "username": "chouhanji007"
-    },
-    {
-      "type": "movie",
-      "id": "tt0482571",
-      "title": "The Prestige",
-      "timestamp": "2026-01-17T13:01:06.403Z",
-      "ip": "103.212.145.158",
-      "username": "suprememayank"
-    },
-    {
-      "type": "movie",
-      "id": "tt0111161",
-      "title": "The Shawshank Redemption",
-      "timestamp": "2026-01-17T13:01:53.323Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-17T13:02:32.916Z",
-      "ip": "103.212.145.158",
-      "username": "suprememayank"
-    },
-    {
-      "type": "series",
-      "id": "tt32537124:1:3",
-      "title": "tt32537124:1:3",
-      "timestamp": "2026-01-17T13:02:50.762Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt32537124:1:4",
-      "title": "tt32537124:1:4",
-      "timestamp": "2026-01-17T13:03:45.864Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt36188448:1:10",
@@ -84087,15 +84039,63 @@
       "timestamp": "2026-01-30T14:46:33.043Z",
       "ip": "2401:4900:abb8:a3ae:3476:5eff:feb3:7b9b",
       "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:10",
+      "title": "tt14186672:1:10",
+      "timestamp": "2026-01-30T14:50:37.577Z",
+      "ip": "2401:4900:abb8:a3ae:3476:5eff:feb3:7b9b",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:10",
+      "title": "tt14186672:1:10",
+      "timestamp": "2026-01-30T14:53:45.856Z",
+      "ip": "2401:4900:abb8:a3ae:3476:5eff:feb3:7b9b",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt10577736:1:1",
+      "title": "Tehran",
+      "timestamp": "2026-01-30T14:54:01.080Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt10577736:1:1",
+      "title": "Tehran",
+      "timestamp": "2026-01-30T14:56:33.263Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt32362695",
+      "title": "tt32362695",
+      "timestamp": "2026-01-30T15:00:22.866Z",
+      "ip": "116.68.64.13",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt14850054",
+      "title": "tt14850054",
+      "timestamp": "2026-01-30T15:03:18.070Z",
+      "ip": "182.68.235.123",
+      "username": "user_9b"
     }
   ],
   "activeNow": {
     "139.5.196.103": {
       "type": "series",
-      "id": "tt39227709:1:2",
-      "title": "tt39227709:1:2",
+      "id": "tt10577736:1:1",
+      "title": "Tehran",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769782086598
+      "lastActive": 1769784993263
     },
     "94.156.30.10": {
       "type": "movie",
@@ -84210,11 +84210,11 @@
       "lastActive": 1769441640079
     },
     "116.68.64.13": {
-      "type": "series",
-      "id": "tt0411008:2:4",
-      "title": "Lost",
+      "type": "movie",
+      "id": "tt32362695",
+      "title": "tt32362695",
       "username": "aravindsivan",
-      "lastActive": 1769439723866
+      "lastActive": 1769785222866
     },
     "2401:4900:88ba:7519:253f:7504:2f62:3156": {
       "type": "movie",
@@ -86185,10 +86185,10 @@
     },
     "182.68.235.123": {
       "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "id": "tt14850054",
+      "title": "tt14850054",
       "username": "user_9b",
-      "lastActive": 1769744287090
+      "lastActive": 1769785398070
     },
     "2409:40c0:1049:c28b:40a0:f0ff:fed8:13e6": {
       "type": "movie",
@@ -86510,7 +86510,7 @@
       "id": "tt14186672:1:10",
       "title": "tt14186672:1:10",
       "username": "chetan_b2",
-      "lastActive": 1769784393043
+      "lastActive": 1769784825856
     },
     "2401:4900:74d5:8829:dcee:6eff:feb7:c717": {
       "type": "movie",
