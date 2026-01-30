@@ -1,5 +1,5 @@
 {
-  "totalViews": 19028,
+  "totalViews": 19030,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4035,25 +4035,11 @@
     "200.108.55.39",
     "190.250.189.141",
     "2409:40d0:243b:53d:9184:71d3:91cd:da01",
-    "2401:4900:8fe2:b916:7d3a:f17a:947e:939f"
+    "2401:4900:8fe2:b916:7d3a:f17a:947e:939f",
+    "2401:4900:5637:e45e:598:c5e3:c46c:728b",
+    "182.68.235.123"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt13706018:1:9",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-01-17T08:54:38.360Z",
-      "ip": "163.53.179.125",
-      "username": "jamesbond_pistolman"
-    },
-    {
-      "type": "series",
-      "id": "tt13706018:1:9",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-01-17T08:54:39.928Z",
-      "ip": "163.53.179.125",
-      "username": "jamesbond_pistolman"
-    },
     {
       "type": "series",
       "id": "tt13706018:1:10",
@@ -84037,6 +84023,22 @@
       "timestamp": "2026-01-30T02:54:30.000Z",
       "ip": "181.197.11.6",
       "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-30T02:57:44.468Z",
+      "ip": "2401:4900:5637:e45e:598:c5e3:c46c:728b",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-30T03:03:20.050Z",
+      "ip": "182.68.235.123",
+      "username": "user_9b"
     }
   ],
   "activeNow": {
@@ -86125,6 +86127,20 @@
       "title": "tt32642706",
       "username": "ashwanileon",
       "lastActive": 1769741289776
+    },
+    "2401:4900:5637:e45e:598:c5e3:c46c:728b": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "vflix1993",
+      "lastActive": 1769741864468
+    },
+    "182.68.235.123": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "user_9b",
+      "lastActive": 1769742200050
     }
   }
 }
