@@ -1,5 +1,5 @@
 {
-  "totalViews": 19022,
+  "totalViews": 19026,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4030,41 +4030,13 @@
     "2405:201:6820:a83c:a4d2:c52f:fefc:2e83",
     "223.181.78.115",
     "2401:4900:ca8e:2945:bc25:4ff:fef9:344e",
-    "2a09:bac5:3b5a:1478::20a:e8"
+    "2a09:bac5:3b5a:1478::20a:e8",
+    "2a09:bac1:36e0:1a8::20a:5f",
+    "200.108.55.39",
+    "190.250.189.141",
+    "2409:40d0:243b:53d:9184:71d3:91cd:da01"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1399664:2:2",
-      "title": "tt1399664:2:2",
-      "timestamp": "2026-01-17T08:53:08.086Z",
-      "ip": "43.231.236.82",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:2:1",
-      "title": "tt1399664:2:1",
-      "timestamp": "2026-01-17T08:53:11.290Z",
-      "ip": "43.231.236.82",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt13706018:1:7",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-01-17T08:54:11.253Z",
-      "ip": "163.53.179.125",
-      "username": "jamesbond_pistolman"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:2:2",
-      "title": "tt1399664:2:2",
-      "timestamp": "2026-01-17T08:54:28.094Z",
-      "ip": "43.231.236.82",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt13706018:1:8",
@@ -84032,6 +84004,38 @@
       "timestamp": "2026-01-30T01:48:28.239Z",
       "ip": "223.181.78.115",
       "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt39140662",
+      "title": "tt39140662",
+      "timestamp": "2026-01-30T02:11:46.724Z",
+      "ip": "2a09:bac1:36e0:1a8::20a:5f",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt15911108",
+      "title": "tt15911108",
+      "timestamp": "2026-01-30T02:15:21.385Z",
+      "ip": "200.108.55.39",
+      "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt15911108",
+      "title": "tt15911108",
+      "timestamp": "2026-01-30T02:19:34.951Z",
+      "ip": "190.250.189.141",
+      "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt30476518",
+      "title": "Big World",
+      "timestamp": "2026-01-30T02:21:06.560Z",
+      "ip": "2409:40d0:243b:53d:9184:71d3:91cd:da01",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -86085,6 +86089,34 @@
       "title": "Eternal Sunshine of the Spotless Mind",
       "username": "demon18319",
       "lastActive": 1769737393050
+    },
+    "2a09:bac1:36e0:1a8::20a:5f": {
+      "type": "movie",
+      "id": "tt39140662",
+      "title": "tt39140662",
+      "username": "demon18319",
+      "lastActive": 1769739106724
+    },
+    "200.108.55.39": {
+      "type": "movie",
+      "id": "tt15911108",
+      "title": "tt15911108",
+      "username": "ymcinema",
+      "lastActive": 1769739321385
+    },
+    "190.250.189.141": {
+      "type": "movie",
+      "id": "tt15911108",
+      "title": "tt15911108",
+      "username": "ymcinema",
+      "lastActive": 1769739574951
+    },
+    "2409:40d0:243b:53d:9184:71d3:91cd:da01": {
+      "type": "movie",
+      "id": "tt30476518",
+      "title": "Big World",
+      "username": "gaendaswami",
+      "lastActive": 1769739666560
     }
   }
 }
