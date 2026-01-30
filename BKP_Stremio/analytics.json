@@ -1,5 +1,5 @@
 {
-  "totalViews": 19275,
+  "totalViews": 19276,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4080,17 +4080,10 @@
     "2409:40f0:31cf:a1d:1c12:33ff:fe10:63b7",
     "2401:4900:b019:ae40:1074:b0ff:febb:48f8",
     "2401:4900:7dbe:22c:94a2:7cab:1250:d4e6",
-    "2a09:bac5:40ec:2719::3e5:2a"
+    "2a09:bac5:40ec:2719::3e5:2a",
+    "146.70.246.123"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt36188448:1:10",
-      "title": "tt36188448:1:10",
-      "timestamp": "2026-01-17T12:38:27.526Z",
-      "ip": "103.215.54.136",
-      "username": "abelboby"
-    },
     {
       "type": "series",
       "id": "tt36188448:1:11",
@@ -84082,6 +84075,14 @@
       "timestamp": "2026-01-30T13:16:38.427Z",
       "ip": "2a09:bac5:40ec:2719::3e5:2a",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-01-30T13:31:40.592Z",
+      "ip": "146.70.246.123",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -86492,6 +86493,13 @@
       "title": "tt0460649:5:2",
       "username": "demon18319",
       "lastActive": 1769778998427
+    },
+    "146.70.246.123": {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "username": "demon18319",
+      "lastActive": 1769779900592
     }
   }
 }
