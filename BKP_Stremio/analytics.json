@@ -1,5 +1,5 @@
 {
-  "totalViews": 19404,
+  "totalViews": 19407,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4099,33 +4099,10 @@
     "2409:4085:aeb7:b31b:64ff:5df4:3532:cdb3",
     "103.214.60.37",
     "2405:201:2022:b81c:356f:6bdc:ca6:f8ed",
-    "2401:4900:1c53:3310:8300:a249:fa12:f7eb"
+    "2401:4900:1c53:3310:8300:a249:fa12:f7eb",
+    "2001:ac8:2:1::12"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt35466607",
-      "title": "tt35466607",
-      "timestamp": "2026-01-17T14:29:18.240Z",
-      "ip": "2401:4900:8fe2:4c46:f01d:e4c6:f7b2:823e",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-17T14:29:55.435Z",
-      "ip": "152.59.149.84",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-17T14:29:55.508Z",
-      "ip": "152.59.149.84",
-      "username": "nabakun24"
-    },
     {
       "type": "movie",
       "id": "tt30144839",
@@ -84101,6 +84078,30 @@
       "timestamp": "2026-01-30T17:39:07.159Z",
       "ip": "2401:4900:1c53:3310:8300:a249:fa12:f7eb",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt30263074:1:2",
+      "title": "tt30263074:1:2",
+      "timestamp": "2026-01-30T17:42:14.872Z",
+      "ip": "2405:201:2022:b81c:356f:6bdc:ca6:f8ed",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt36616410",
+      "title": "tt36616410",
+      "timestamp": "2026-01-30T17:49:26.604Z",
+      "ip": "2405:201:2022:b81c:356f:6bdc:ca6:f8ed",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-30T17:55:33.327Z",
+      "ip": "2001:ac8:2:1::12",
+      "username": "golu_vk"
     }
   ],
   "activeNow": {
@@ -86636,7 +86637,7 @@
       "id": "tt36616410",
       "title": "tt36616410",
       "username": "zealousninja",
-      "lastActive": 1769794198193
+      "lastActive": 1769795366604
     },
     "2401:4900:1c53:3310:8300:a249:fa12:f7eb": {
       "type": "movie",
@@ -86644,6 +86645,13 @@
       "title": "tt21309170",
       "username": "dillon_ka_shooter",
       "lastActive": 1769794747159
+    },
+    "2001:ac8:2:1::12": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "golu_vk",
+      "lastActive": 1769795733327
     }
   }
 }
