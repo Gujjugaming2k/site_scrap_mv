@@ -1,5 +1,5 @@
 {
-  "totalViews": 19018,
+  "totalViews": 19022,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4028,41 +4028,11 @@
     "209.87.169.229",
     "209.87.169.220",
     "2405:201:6820:a83c:a4d2:c52f:fefc:2e83",
-    "223.181.78.115"
+    "223.181.78.115",
+    "2401:4900:ca8e:2945:bc25:4ff:fef9:344e",
+    "2a09:bac5:3b5a:1478::20a:e8"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-17T08:47:58.797Z",
-      "ip": "43.231.236.82",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:6",
-      "title": "tt35335046:1:6",
-      "timestamp": "2026-01-17T08:52:31.047Z",
-      "ip": "110.235.219.255",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:2:1",
-      "title": "tt1399664:2:1",
-      "timestamp": "2026-01-17T08:52:52.522Z",
-      "ip": "43.231.236.82",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:2:2",
-      "title": "tt1399664:2:2",
-      "timestamp": "2026-01-17T08:52:56.461Z",
-      "ip": "43.231.236.82",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt1399664:2:2",
@@ -84030,6 +84000,38 @@
       "timestamp": "2026-01-30T01:32:29.654Z",
       "ip": "223.181.78.115",
       "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-30T01:41:20.224Z",
+      "ip": "103.24.85.19",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-30T01:43:07.937Z",
+      "ip": "2401:4900:ca8e:2945:bc25:4ff:fef9:344e",
+      "username": "executeai"
+    },
+    {
+      "type": "movie",
+      "id": "tt0338013",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "timestamp": "2026-01-30T01:43:13.050Z",
+      "ip": "2a09:bac5:3b5a:1478::20a:e8",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-30T01:48:28.239Z",
+      "ip": "223.181.78.115",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -85715,10 +85717,10 @@
     },
     "103.24.85.19": {
       "type": "movie",
-      "id": "tt32411272",
-      "title": "tt32411272",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "william097",
-      "lastActive": 1769735811172
+      "lastActive": 1769737280224
     },
     "176.227.240.69": {
       "type": "series",
@@ -86068,7 +86070,21 @@
       "id": "tt33014583",
       "title": "Dhurandhar",
       "username": "b1jju",
-      "lastActive": 1769736749654
+      "lastActive": 1769737708239
+    },
+    "2401:4900:ca8e:2945:bc25:4ff:fef9:344e": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "executeai",
+      "lastActive": 1769737387937
+    },
+    "2a09:bac5:3b5a:1478::20a:e8": {
+      "type": "movie",
+      "id": "tt0338013",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "username": "demon18319",
+      "lastActive": 1769737393050
     }
   }
 }
