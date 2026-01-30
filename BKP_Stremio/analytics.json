@@ -1,5 +1,5 @@
 {
-  "totalViews": 19171,
+  "totalViews": 19174,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4057,30 +4057,6 @@
     "38.134.139.81"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1409055:2:1",
-      "title": "Dragon Ball Z Kai",
-      "timestamp": "2026-01-17T11:31:43.735Z",
-      "ip": "2405:201:500c:496b:2e1b:3aff:fe14:f417",
-      "username": "karthik"
-    },
-    {
-      "type": "series",
-      "id": "tt1409055:2:2",
-      "title": "Dragon Ball Z Kai",
-      "timestamp": "2026-01-17T11:31:59.417Z",
-      "ip": "2405:201:500c:496b:2e1b:3aff:fe14:f417",
-      "username": "karthik"
-    },
-    {
-      "type": "movie",
-      "id": "tt31844586",
-      "title": "tt31844586",
-      "timestamp": "2026-01-17T11:32:36.853Z",
-      "ip": "125.166.9.191",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt6897680:1:2",
@@ -84056,6 +84032,30 @@
       "timestamp": "2026-01-30T07:18:04.021Z",
       "ip": "2409:40d2:3016:891b:c9d7:6fbc:bd6c:8eff",
       "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "timestamp": "2026-01-30T07:19:29.233Z",
+      "ip": "2409:40d2:3016:891b:c9d7:6fbc:bd6c:8eff",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt32362695",
+      "title": "tt32362695",
+      "timestamp": "2026-01-30T07:22:13.783Z",
+      "ip": "38.134.139.81",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-01-30T07:30:27.571Z",
+      "ip": "2409:40d2:3016:891b:c9d7:6fbc:bd6c:8eff",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -86231,10 +86231,10 @@
     },
     "2409:40d2:3016:891b:c9d7:6fbc:bd6c:8eff": {
       "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
+      "id": "tt31227572",
+      "title": "tt31227572",
       "username": "saurabhkaperwan",
-      "lastActive": 1769757484021
+      "lastActive": 1769758227571
     },
     "2a09:bac1:36a0:1a8::20a:75": {
       "type": "series",
@@ -86280,10 +86280,10 @@
     },
     "38.134.139.81": {
       "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "id": "tt32362695",
+      "title": "tt32362695",
       "username": "thala_75",
-      "lastActive": 1769755872945
+      "lastActive": 1769757733783
     }
   }
 }
