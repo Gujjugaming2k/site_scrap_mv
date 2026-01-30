@@ -1,5 +1,5 @@
 {
-  "totalViews": 19254,
+  "totalViews": 19258,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4075,41 +4075,11 @@
     "2401:4900:b019:ae40:84df:d9ff:fe4c:5d2a",
     "2401:4900:ab84:7b6b:1cc6:86ff:fe49:3195",
     "146.70.255.37",
-    "2409:40f0:3009:96:9cb0:ecff:fe04:c19d"
+    "2409:40f0:3009:96:9cb0:ecff:fe04:c19d",
+    "2401:4900:8fe2:b916:fcaa:31ae:19a9:a48d",
+    "2409:40f0:31cf:a1d:1c12:33ff:fe10:63b7"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt33035373:1:1",
-      "title": "tt33035373:1:1",
-      "timestamp": "2026-01-17T12:30:10.929Z",
-      "ip": "109.77.47.28",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-17T12:31:01.891Z",
-      "ip": "2402:a00:10a:815f:419d:66a4:f9b3:9357",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-17T12:31:37.450Z",
-      "ip": "2402:a00:10a:815f:419d:66a4:f9b3:9357",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt33035373:1:2",
-      "title": "tt33035373:1:2",
-      "timestamp": "2026-01-17T12:31:59.487Z",
-      "ip": "109.77.47.28",
-      "username": "vflix1993"
-    },
     {
       "type": "series",
       "id": "tt35335046:1:1",
@@ -84077,6 +84047,38 @@
       "timestamp": "2026-01-30T11:54:27.225Z",
       "ip": "2409:40f0:3009:96:9cb0:ecff:fe04:c19d",
       "username": "4hyeheh3"
+    },
+    {
+      "type": "movie",
+      "id": "tt16867396",
+      "title": "tt16867396",
+      "timestamp": "2026-01-30T12:12:32.635Z",
+      "ip": "2401:4900:8fe2:b916:fcaa:31ae:19a9:a48d",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-30T12:14:00.778Z",
+      "ip": "2401:4900:8fe2:b916:fcaa:31ae:19a9:a48d",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt1232829",
+      "title": "tt1232829",
+      "timestamp": "2026-01-30T12:15:22.110Z",
+      "ip": "2409:40f0:31cf:a1d:1c12:33ff:fe10:63b7",
+      "username": "4hyeheh3"
+    },
+    {
+      "type": "movie",
+      "id": "tt1232829",
+      "title": "tt1232829",
+      "timestamp": "2026-01-30T12:15:22.192Z",
+      "ip": "2409:40f0:31cf:a1d:1c12:33ff:fe10:63b7",
+      "username": "hjbjkkfggjkjv"
     }
   ],
   "activeNow": {
@@ -86452,6 +86454,20 @@
       "title": "tt1232829",
       "username": "4hyeheh3",
       "lastActive": 1769774067225
+    },
+    "2401:4900:8fe2:b916:fcaa:31ae:19a9:a48d": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "ashwanileon",
+      "lastActive": 1769775240778
+    },
+    "2409:40f0:31cf:a1d:1c12:33ff:fe10:63b7": {
+      "type": "movie",
+      "id": "tt1232829",
+      "title": "tt1232829",
+      "username": "hjbjkkfggjkjv",
+      "lastActive": 1769775322192
     }
   }
 }
