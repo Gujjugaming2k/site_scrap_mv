@@ -1,5 +1,5 @@
 {
-  "totalViews": 19174,
+  "totalViews": 19177,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4054,33 +4054,10 @@
     "2409:40d4:408d:afd9:ec31:1218:768d:3d8e",
     "2a09:bac5:40b2:1a96::2a6:5e",
     "2401:4900:c22c:8e7e:4440:c6ff:fee2:3225",
-    "38.134.139.81"
+    "38.134.139.81",
+    "2401:4900:627f:9e37:3409:10ff:fe24:25b4"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt6897680:1:2",
-      "title": "tt6897680:1:2",
-      "timestamp": "2026-01-17T11:32:41.210Z",
-      "ip": "103.168.30.70",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt25404536:1:2",
-      "title": "tt25404536:1:2",
-      "timestamp": "2026-01-17T11:33:00.834Z",
-      "ip": "182.77.72.137",
-      "username": "thebatmanbyte"
-    },
-    {
-      "type": "series",
-      "id": "tt25404536:1:2",
-      "title": "tt25404536:1:2",
-      "timestamp": "2026-01-17T11:33:02.422Z",
-      "ip": "182.77.72.137",
-      "username": "thebatmanbyte"
-    },
     {
       "type": "series",
       "id": "tt25404536:1:1",
@@ -84056,6 +84033,30 @@
       "timestamp": "2026-01-30T07:30:27.571Z",
       "ip": "2409:40d2:3016:891b:c9d7:6fbc:bd6c:8eff",
       "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:10",
+      "title": "tt14186672:1:10",
+      "timestamp": "2026-01-30T07:41:02.716Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt27136041",
+      "title": "tt27136041",
+      "timestamp": "2026-01-30T07:45:02.197Z",
+      "ip": "103.24.85.19",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-30T07:52:38.959Z",
+      "ip": "2401:4900:627f:9e37:3409:10ff:fe24:25b4",
+      "username": "executeai"
     }
   ],
   "activeNow": {
@@ -84627,11 +84628,11 @@
       "lastActive": 1769499639275
     },
     "203.192.255.46": {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "type": "series",
+      "id": "tt14186672:1:10",
+      "title": "tt14186672:1:10",
       "username": "chetan_b2",
-      "lastActive": 1769747508009
+      "lastActive": 1769758862716
     },
     "2409:40c1:1038:527d:98b3:c524:2a88:1a54": {
       "type": "movie",
@@ -85741,10 +85742,10 @@
     },
     "103.24.85.19": {
       "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "id": "tt27136041",
+      "title": "tt27136041",
       "username": "william097",
-      "lastActive": 1769742928303
+      "lastActive": 1769759102197
     },
     "176.227.240.69": {
       "type": "series",
@@ -86284,6 +86285,13 @@
       "title": "tt32362695",
       "username": "thala_75",
       "lastActive": 1769757733783
+    },
+    "2401:4900:627f:9e37:3409:10ff:fe24:25b4": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "executeai",
+      "lastActive": 1769759558959
     }
   }
 }
