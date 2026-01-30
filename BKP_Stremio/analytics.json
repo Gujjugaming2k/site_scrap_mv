@@ -1,5 +1,5 @@
 {
-  "totalViews": 19279,
+  "totalViews": 19282,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4081,33 +4081,10 @@
     "2401:4900:b019:ae40:1074:b0ff:febb:48f8",
     "2401:4900:7dbe:22c:94a2:7cab:1250:d4e6",
     "2a09:bac5:40ec:2719::3e5:2a",
-    "146.70.246.123"
+    "146.70.246.123",
+    "2401:4900:abb8:a3ae:3476:5eff:feb3:7b9b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31812476:2:4",
-      "title": "tt31812476:2:4",
-      "timestamp": "2026-01-17T12:47:12.526Z",
-      "ip": "109.77.47.28",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt31812476:2:4",
-      "title": "tt31812476:2:4",
-      "timestamp": "2026-01-17T12:47:12.718Z",
-      "ip": "109.77.47.28",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt31812476:2:1",
-      "title": "tt31812476:2:1",
-      "timestamp": "2026-01-17T12:48:04.130Z",
-      "ip": "109.77.47.28",
-      "username": "vflix1993"
-    },
     {
       "type": "series",
       "id": "tt31812476:2:1",
@@ -84083,15 +84060,39 @@
       "timestamp": "2026-01-30T13:39:15.482Z",
       "ip": "94.156.30.62",
       "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "timestamp": "2026-01-30T13:51:54.406Z",
+      "ip": "2401:4900:abb8:a3ae:3476:5eff:feb3:7b9b",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-30T13:52:16.776Z",
+      "ip": "2401:4900:abb8:a3ae:3476:5eff:feb3:7b9b",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt34915705",
+      "title": "tt34915705",
+      "timestamp": "2026-01-30T14:02:18.192Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
     "139.5.196.103": {
-      "type": "series",
-      "id": "tt15576504:1:7",
-      "title": "tt15576504:1:7",
+      "type": "movie",
+      "id": "tt34915705",
+      "title": "tt34915705",
       "username": "dillon_ka_shooter",
-      "lastActive": 1769769720677
+      "lastActive": 1769781738192
     },
     "94.156.30.10": {
       "type": "movie",
@@ -86500,6 +86501,13 @@
       "title": "tt32916440",
       "username": "demon18319",
       "lastActive": 1769779900592
+    },
+    "2401:4900:abb8:a3ae:3476:5eff:feb3:7b9b": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "chetan_b2",
+      "lastActive": 1769781136776
     }
   }
 }
