@@ -1,5 +1,5 @@
 {
-  "totalViews": 19411,
+  "totalViews": 19417,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4101,57 +4101,10 @@
     "2405:201:2022:b81c:356f:6bdc:ca6:f8ed",
     "2401:4900:1c53:3310:8300:a249:fa12:f7eb",
     "2001:ac8:2:1::12",
-    "2401:4900:8811:d0b5:b3d0:76d0:42bc:5b15"
+    "2401:4900:8811:d0b5:b3d0:76d0:42bc:5b15",
+    "2409:40c2:a:601b:a070:74ff:feb0:e9f1"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt34610311",
-      "title": "The Shadow's Edge",
-      "timestamp": "2026-01-17T14:32:49.804Z",
-      "ip": "72.255.11.154",
-      "username": "hvre2"
-    },
-    {
-      "type": "series",
-      "id": "tt13930822:2:3",
-      "title": "tt13930822:2:3",
-      "timestamp": "2026-01-17T14:33:35.226Z",
-      "ip": "202.173.124.39",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt7366338:1:1",
-      "title": "tt7366338:1:1",
-      "timestamp": "2026-01-17T14:33:54.670Z",
-      "ip": "202.142.105.241",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "movie",
-      "id": "tt14142060",
-      "title": "tt14142060",
-      "timestamp": "2026-01-17T14:34:04.879Z",
-      "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt14142060",
-      "title": "tt14142060",
-      "timestamp": "2026-01-17T14:34:04.950Z",
-      "ip": "2409:40e6:1c:51a1:70a6:c2ff:fe89:3f08",
-      "username": "nabakun"
-    },
-    {
-      "type": "series",
-      "id": "tt13930822:2:4",
-      "title": "tt13930822:2:4",
-      "timestamp": "2026-01-17T14:34:06.583Z",
-      "ip": "202.173.124.39",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "series",
       "id": "tt7366338:1:2",
@@ -84103,6 +84056,54 @@
       "timestamp": "2026-01-30T18:07:51.324Z",
       "ip": "103.181.65.63",
       "username": "mutti9"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:3",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-30T18:22:54.795Z",
+      "ip": "2409:40c2:a:601b:a070:74ff:feb0:e9f1",
+      "username": "agentmj47"
+    },
+    {
+      "type": "movie",
+      "id": "tt38121182",
+      "title": "tt38121182",
+      "timestamp": "2026-01-30T18:23:00.727Z",
+      "ip": "2409:40c2:a:601b:a070:74ff:feb0:e9f1",
+      "username": "agentmj47"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:3",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-30T18:23:04.715Z",
+      "ip": "2409:40c2:a:601b:a070:74ff:feb0:e9f1",
+      "username": "agentmj47"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:1",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-01-30T18:23:49.687Z",
+      "ip": "2409:40c2:a:601b:a070:74ff:feb0:e9f1",
+      "username": "agentmj47"
+    },
+    {
+      "type": "movie",
+      "id": "tt4996328",
+      "title": "tt4996328",
+      "timestamp": "2026-01-30T18:24:33.236Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt14205554",
+      "title": "KPop Demon Hunters",
+      "timestamp": "2026-01-30T18:25:29.300Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -84675,10 +84676,10 @@
     },
     "203.192.255.46": {
       "type": "movie",
-      "id": "tt35661996",
-      "title": "tt35661996",
+      "id": "tt14205554",
+      "title": "KPop Demon Hunters",
       "username": "chetan_b2",
-      "lastActive": 1769778971476
+      "lastActive": 1769797529300
     },
     "2409:40c1:1038:527d:98b3:c524:2a88:1a54": {
       "type": "movie",
@@ -86660,6 +86661,13 @@
       "title": "The Dictator",
       "username": "ryuzaklo26",
       "lastActive": 1769795940972
+    },
+    "2409:40c2:a:601b:a070:74ff:feb0:e9f1": {
+      "type": "series",
+      "id": "tt12343534:3:1",
+      "title": "JUJUTSU KAISEN",
+      "username": "agentmj47",
+      "lastActive": 1769797429687
     }
   }
 }
