@@ -1,5 +1,5 @@
 {
-  "totalViews": 19268,
+  "totalViews": 19275,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4083,62 +4083,6 @@
     "2a09:bac5:40ec:2719::3e5:2a"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0259141:1:2",
-      "title": "tt0259141:1:2",
-      "timestamp": "2026-01-17T12:35:20.925Z",
-      "ip": "2409:40d4:50c7:88c8:600d:97fd:be6:452b",
-      "username": "chouhanji007"
-    },
-    {
-      "type": "series",
-      "id": "tt0259141:1:3",
-      "title": "tt0259141:1:3",
-      "timestamp": "2026-01-17T12:35:23.881Z",
-      "ip": "2409:40d4:50c7:88c8:600d:97fd:be6:452b",
-      "username": "chouhanji007"
-    },
-    {
-      "type": "movie",
-      "id": "tt7737786",
-      "title": "Greenland",
-      "timestamp": "2026-01-17T12:35:25.493Z",
-      "ip": "109.77.47.28",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt0259141:1:3",
-      "title": "tt0259141:1:3",
-      "timestamp": "2026-01-17T12:35:27.526Z",
-      "ip": "2409:40d4:50c7:88c8:600d:97fd:be6:452b",
-      "username": "chouhanji007"
-    },
-    {
-      "type": "series",
-      "id": "tt0259141:1:4",
-      "title": "tt0259141:1:4",
-      "timestamp": "2026-01-17T12:35:49.015Z",
-      "ip": "2409:40d4:50c7:88c8:600d:97fd:be6:452b",
-      "username": "chouhanji007"
-    },
-    {
-      "type": "movie",
-      "id": "tt34509472",
-      "title": "tt34509472",
-      "timestamp": "2026-01-17T12:36:46.166Z",
-      "ip": "109.77.47.28",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt31812476:2:1",
-      "title": "tt31812476:2:1",
-      "timestamp": "2026-01-17T12:37:49.484Z",
-      "ip": "109.77.47.28",
-      "username": "vflix1993"
-    },
     {
       "type": "series",
       "id": "tt36188448:1:10",
@@ -84082,6 +84026,62 @@
       "timestamp": "2026-01-30T12:57:48.341Z",
       "ip": "2a09:bac5:40ec:2719::3e5:2a",
       "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:5:1",
+      "title": "tt0460649:5:1",
+      "timestamp": "2026-01-30T13:05:59.974Z",
+      "ip": "2a09:bac5:40ec:2719::3e5:2a",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt35661996",
+      "title": "tt35661996",
+      "timestamp": "2026-01-30T13:13:50.353Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt35661996",
+      "title": "tt35661996",
+      "timestamp": "2026-01-30T13:14:09.000Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt35661996",
+      "title": "tt35661996",
+      "timestamp": "2026-01-30T13:14:28.349Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt35661996",
+      "title": "tt35661996",
+      "timestamp": "2026-01-30T13:14:53.353Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt35661996",
+      "title": "tt35661996",
+      "timestamp": "2026-01-30T13:16:11.476Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:5:2",
+      "title": "tt0460649:5:2",
+      "timestamp": "2026-01-30T13:16:38.427Z",
+      "ip": "2a09:bac5:40ec:2719::3e5:2a",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -84653,11 +84653,11 @@
       "lastActive": 1769499639275
     },
     "203.192.255.46": {
-      "type": "series",
-      "id": "tt14186672:1:10",
-      "title": "tt14186672:1:10",
+      "type": "movie",
+      "id": "tt35661996",
+      "title": "tt35661996",
       "username": "chetan_b2",
-      "lastActive": 1769758862716
+      "lastActive": 1769778971476
     },
     "2409:40c1:1038:527d:98b3:c524:2a88:1a54": {
       "type": "movie",
@@ -86488,10 +86488,10 @@
     },
     "2a09:bac5:40ec:2719::3e5:2a": {
       "type": "series",
-      "id": "tt0460649:4:24",
-      "title": "tt0460649:4:24",
+      "id": "tt0460649:5:2",
+      "title": "tt0460649:5:2",
       "username": "demon18319",
-      "lastActive": 1769777868341
+      "lastActive": 1769778998427
     }
   }
 }
