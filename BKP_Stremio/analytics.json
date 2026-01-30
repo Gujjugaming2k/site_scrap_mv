@@ -1,5 +1,5 @@
 {
-  "totalViews": 19290,
+  "totalViews": 19291,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4086,14 +4086,6 @@
     "2401:4900:74d5:8829:dcee:6eff:feb7:c717"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0115157:1:2",
-      "title": "tt0115157:1:2",
-      "timestamp": "2026-01-17T12:53:42.511Z",
-      "ip": "2409:40d4:50c7:88c8:600d:97fd:be6:452b",
-      "username": "chouhanji007"
-    },
     {
       "type": "series",
       "id": "tt0168366:1:3",
@@ -84085,6 +84077,14 @@
       "timestamp": "2026-01-30T14:14:10.277Z",
       "ip": "103.24.85.19",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-30T14:27:20.898Z",
+      "ip": "115.187.38.42",
+      "username": "tgh2r"
     }
   ],
   "activeNow": {
@@ -85080,7 +85080,7 @@
       "id": "tt33014583",
       "title": "Dhurandhar",
       "username": "tgh2r",
-      "lastActive": 1769716032779
+      "lastActive": 1769783240898
     },
     "103.181.65.63": {
       "type": "movie",
