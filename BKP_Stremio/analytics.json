@@ -1,5 +1,5 @@
 {
-  "totalViews": 19248,
+  "totalViews": 19251,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4072,33 +4072,10 @@
     "117.222.214.148",
     "2401:9640:801:805d:5859:9e2c:5f29:56d5",
     "2409:40d4:4091:5a5d:8000::",
-    "2401:4900:b019:ae40:84df:d9ff:fe4c:5d2a"
+    "2401:4900:b019:ae40:84df:d9ff:fe4c:5d2a",
+    "2401:4900:ab84:7b6b:1cc6:86ff:fe49:3195"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt14364480",
-      "title": "tt14364480",
-      "timestamp": "2026-01-17T12:27:20.040Z",
-      "ip": "2400:1a00:7b4c:192a:32ab:ba55:ae29:f771",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt27203727:1:6",
-      "title": "tt27203727:1:6",
-      "timestamp": "2026-01-17T12:27:34.708Z",
-      "ip": "2409:40e4:10a6:bdb3:88b8:84c7:32b0:e256",
-      "username": "askchm"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-17T12:27:45.349Z",
-      "ip": "2402:a00:10a:815f:cb5e:3812:bb38:b46e",
-      "username": "vflix1993"
-    },
     {
       "type": "series",
       "id": "tt0259141:1:1",
@@ -84074,6 +84051,30 @@
       "timestamp": "2026-01-30T10:55:58.711Z",
       "ip": "2401:4900:b019:ae40:84df:d9ff:fe4c:5d2a",
       "username": "adshoyi"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:10",
+      "title": "tt14186672:1:10",
+      "timestamp": "2026-01-30T11:17:29.616Z",
+      "ip": "2401:4900:ab84:7b6b:1cc6:86ff:fe49:3195",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:1:10",
+      "title": "tt14186672:1:10",
+      "timestamp": "2026-01-30T11:19:53.416Z",
+      "ip": "2401:4900:ab84:7b6b:1cc6:86ff:fe49:3195",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt39140662",
+      "title": "tt39140662",
+      "timestamp": "2026-01-30T11:25:12.415Z",
+      "ip": "2405:201:6820:a83c:a4d2:c52f:fefc:2e83",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -86102,10 +86103,10 @@
     },
     "2405:201:6820:a83c:a4d2:c52f:fefc:2e83": {
       "type": "movie",
-      "id": "tt0338013",
-      "title": "Eternal Sunshine of the Spotless Mind",
+      "id": "tt39140662",
+      "title": "tt39140662",
       "username": "demon18319",
-      "lastActive": 1769736619646
+      "lastActive": 1769772312415
     },
     "223.181.78.115": {
       "type": "movie",
@@ -86428,6 +86429,13 @@
       "title": "Dhurandhar",
       "username": "adshoyi",
       "lastActive": 1769770558711
+    },
+    "2401:4900:ab84:7b6b:1cc6:86ff:fe49:3195": {
+      "type": "series",
+      "id": "tt14186672:1:10",
+      "title": "tt14186672:1:10",
+      "username": "chetan_b2",
+      "lastActive": 1769771993416
     }
   }
 }
