@@ -1,5 +1,5 @@
 {
-  "totalViews": 19401,
+  "totalViews": 19404,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4097,33 +4097,11 @@
     "49.43.33.158",
     "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
     "2409:4085:aeb7:b31b:64ff:5df4:3532:cdb3",
-    "103.214.60.37"
+    "103.214.60.37",
+    "2405:201:2022:b81c:356f:6bdc:ca6:f8ed",
+    "2401:4900:1c53:3310:8300:a249:fa12:f7eb"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt15281402",
-      "title": "tt15281402",
-      "timestamp": "2026-01-17T14:27:02.403Z",
-      "ip": "115.98.99.86",
-      "username": "nothing_8888"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-01-17T14:28:53.435Z",
-      "ip": "2402:a00:10a:815f:9da4:d7a1:241:7c01",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt32175880",
-      "title": "tt32175880",
-      "timestamp": "2026-01-17T14:29:01.680Z",
-      "ip": "152.59.161.131",
-      "username": "jinwoooooi"
-    },
     {
       "type": "movie",
       "id": "tt35466607",
@@ -84099,6 +84077,30 @@
       "timestamp": "2026-01-30T17:24:07.001Z",
       "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
       "username": "nabakun"
+    },
+    {
+      "type": "movie",
+      "id": "tt36616410",
+      "title": "tt36616410",
+      "timestamp": "2026-01-30T17:29:58.193Z",
+      "ip": "2405:201:2022:b81c:356f:6bdc:ca6:f8ed",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt35684868",
+      "title": "tt35684868",
+      "timestamp": "2026-01-30T17:31:11.264Z",
+      "ip": "103.24.85.19",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt21309170",
+      "title": "tt21309170",
+      "timestamp": "2026-01-30T17:39:07.159Z",
+      "ip": "2401:4900:1c53:3310:8300:a249:fa12:f7eb",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -85787,7 +85789,7 @@
       "id": "tt35684868",
       "title": "tt35684868",
       "username": "william097",
-      "lastActive": 1769789913406
+      "lastActive": 1769794271264
     },
     "176.227.240.69": {
       "type": "series",
@@ -86628,6 +86630,20 @@
       "title": "tt33244668",
       "username": "gaendaswami",
       "lastActive": 1769793288807
+    },
+    "2405:201:2022:b81c:356f:6bdc:ca6:f8ed": {
+      "type": "movie",
+      "id": "tt36616410",
+      "title": "tt36616410",
+      "username": "zealousninja",
+      "lastActive": 1769794198193
+    },
+    "2401:4900:1c53:3310:8300:a249:fa12:f7eb": {
+      "type": "movie",
+      "id": "tt21309170",
+      "title": "tt21309170",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1769794747159
     }
   }
 }
