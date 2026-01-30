@@ -1,5 +1,5 @@
 {
-  "totalViews": 19266,
+  "totalViews": 19268,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4079,25 +4079,10 @@
     "2401:4900:8fe2:b916:fcaa:31ae:19a9:a48d",
     "2409:40f0:31cf:a1d:1c12:33ff:fe10:63b7",
     "2401:4900:b019:ae40:1074:b0ff:febb:48f8",
-    "2401:4900:7dbe:22c:94a2:7cab:1250:d4e6"
+    "2401:4900:7dbe:22c:94a2:7cab:1250:d4e6",
+    "2a09:bac5:40ec:2719::3e5:2a"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0259141:1:1",
-      "title": "tt0259141:1:1",
-      "timestamp": "2026-01-17T12:35:00.611Z",
-      "ip": "2409:40d4:50c7:88c8:600d:97fd:be6:452b",
-      "username": "chouhanji007"
-    },
-    {
-      "type": "series",
-      "id": "tt0259141:1:2",
-      "title": "tt0259141:1:2",
-      "timestamp": "2026-01-17T12:35:16.290Z",
-      "ip": "2409:40d4:50c7:88c8:600d:97fd:be6:452b",
-      "username": "chouhanji007"
-    },
     {
       "type": "series",
       "id": "tt0259141:1:2",
@@ -84081,6 +84066,22 @@
       "timestamp": "2026-01-30T12:41:14.561Z",
       "ip": "2401:9640:801:805d:5859:9e2c:5f29:56d5",
       "username": "superememayank"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-01-30T12:49:46.735Z",
+      "ip": "2409:40d2:3016:891b:8000::",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:4:24",
+      "title": "tt0460649:4:24",
+      "timestamp": "2026-01-30T12:57:48.341Z",
+      "ip": "2a09:bac5:40ec:2719::3e5:2a",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -86220,11 +86221,11 @@
       "lastActive": 1769749790863
     },
     "2409:40d2:3016:891b:8000::": {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
+      "type": "series",
+      "id": "tt4574334:5:1",
+      "title": "Stranger Things",
       "username": "saurabhkaperwan",
-      "lastActive": 1769748773947
+      "lastActive": 1769777386735
     },
     "47.15.112.163": {
       "type": "series",
@@ -86484,6 +86485,13 @@
       "title": "Dhurandhar",
       "username": "claw_of_beliar",
       "lastActive": 1769776490337
+    },
+    "2a09:bac5:40ec:2719::3e5:2a": {
+      "type": "series",
+      "id": "tt0460649:4:24",
+      "title": "tt0460649:4:24",
+      "username": "demon18319",
+      "lastActive": 1769777868341
     }
   }
 }
