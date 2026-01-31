@@ -1,5 +1,5 @@
 {
-  "totalViews": 19501,
+  "totalViews": 19504,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4119,33 +4119,10 @@
     "106.194.195.156",
     "146.196.34.245",
     "2a09:bac1:36a0:1e0::10c:18",
-    "2409:4085:ae8d:1b9b:acd9:f17:d850:dda8"
+    "2409:4085:ae8d:1b9b:acd9:f17:d850:dda8",
+    "2405:201:2033:841:8868:8470:c716:629a"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1305797",
-      "title": "tt1305797",
-      "timestamp": "2026-01-17T15:39:47.315Z",
-      "ip": "2409:40f3:2012:ec86:e893:1dd1:26eb:4d46",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt33035373:1:1",
-      "title": "tt33035373:1:1",
-      "timestamp": "2026-01-17T15:39:59.773Z",
-      "ip": "119.73.114.153",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt33035373:1:2",
-      "title": "tt33035373:1:2",
-      "timestamp": "2026-01-17T15:40:05.802Z",
-      "ip": "119.73.114.153",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt31938062:1:1",
@@ -84121,6 +84098,30 @@
       "timestamp": "2026-01-31T11:45:12.393Z",
       "ip": "2409:4085:ae8d:1b9b:acd9:f17:d850:dda8",
       "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-01-31T11:48:15.016Z",
+      "ip": "2405:201:2033:841:8868:8470:c716:629a",
+      "username": "surti_lala"
+    },
+    {
+      "type": "movie",
+      "id": "tt32362695",
+      "title": "tt32362695",
+      "timestamp": "2026-01-31T11:48:22.985Z",
+      "ip": "38.134.139.81",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt13927994",
+      "title": "tt13927994",
+      "timestamp": "2026-01-31T11:52:47.111Z",
+      "ip": "49.205.250.131",
+      "username": "nothingokk"
     }
   ],
   "activeNow": {
@@ -84256,6 +84257,27 @@
       "title": "F1",
       "username": "katdenningssss",
       "lastActive": 1769859912393
+    },
+    "2405:201:2033:841:8868:8470:c716:629a": {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "username": "surti_lala",
+      "lastActive": 1769860095016
+    },
+    "38.134.139.81": {
+      "type": "movie",
+      "id": "tt32362695",
+      "title": "tt32362695",
+      "username": "thala_75",
+      "lastActive": 1769860102985
+    },
+    "49.205.250.131": {
+      "type": "movie",
+      "id": "tt13927994",
+      "title": "tt13927994",
+      "username": "nothingokk",
+      "lastActive": 1769860367111
     }
   }
 }
