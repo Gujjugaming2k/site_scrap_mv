@@ -1,5 +1,5 @@
 {
-  "totalViews": 19559,
+  "totalViews": 19563,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4139,38 +4139,6 @@
     "223.179.146.174"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt9251798:1:6",
-      "title": "tt9251798:1:6",
-      "timestamp": "2026-01-17T16:46:28.969Z",
-      "ip": "2401:4900:889b:e55c:5065:ab85:1f8c:8b29",
-      "username": "user_9b"
-    },
-    {
-      "type": "series",
-      "id": "tt9251798:1:5",
-      "title": "tt9251798:1:5",
-      "timestamp": "2026-01-17T16:46:33.392Z",
-      "ip": "2401:4900:889b:e55c:5065:ab85:1f8c:8b29",
-      "username": "user_9b"
-    },
-    {
-      "type": "series",
-      "id": "tt9251798:1:6",
-      "title": "tt9251798:1:6",
-      "timestamp": "2026-01-17T16:47:11.668Z",
-      "ip": "2401:4900:889b:e55c:5065:ab85:1f8c:8b29",
-      "username": "user_9b"
-    },
-    {
-      "type": "series",
-      "id": "tt9251798:1:5",
-      "title": "tt9251798:1:5",
-      "timestamp": "2026-01-17T16:47:16.442Z",
-      "ip": "2401:4900:889b:e55c:5065:ab85:1f8c:8b29",
-      "username": "user_9b"
-    },
     {
       "type": "series",
       "id": "tt9251798:1:5",
@@ -84138,6 +84106,38 @@
       "timestamp": "2026-01-31T15:51:32.438Z",
       "ip": "103.24.85.19",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt37449205:1:4",
+      "title": "tt37449205:1:4",
+      "timestamp": "2026-01-31T15:56:14.038Z",
+      "ip": "103.134.25.8",
+      "username": "spidey_again"
+    },
+    {
+      "type": "series",
+      "id": "tt37449205:1:4",
+      "title": "tt37449205:1:4",
+      "timestamp": "2026-01-31T15:57:31.897Z",
+      "ip": "103.134.25.8",
+      "username": "spidey_again"
+    },
+    {
+      "type": "series",
+      "id": "tt37449205:1:5",
+      "title": "tt37449205:1:5",
+      "timestamp": "2026-01-31T15:57:36.450Z",
+      "ip": "103.134.25.8",
+      "username": "spidey_again"
+    },
+    {
+      "type": "series",
+      "id": "tt37449205:1:4",
+      "title": "tt37449205:1:4",
+      "timestamp": "2026-01-31T16:04:54.097Z",
+      "ip": "103.134.25.10",
+      "username": "spidey_again"
     }
   ],
   "activeNow": {
@@ -84415,11 +84415,11 @@
       "lastActive": 1769870222942
     },
     "103.134.25.8": {
-      "type": "movie",
-      "id": "tt2582802",
-      "title": "tt2582802",
+      "type": "series",
+      "id": "tt37449205:1:5",
+      "title": "tt37449205:1:5",
       "username": "spidey_again",
-      "lastActive": 1769871804243
+      "lastActive": 1769875056450
     },
     "103.24.85.19": {
       "type": "movie",
@@ -84434,6 +84434,13 @@
       "title": "tt13924304:1:1",
       "username": "user_9b",
       "lastActive": 1769874562985
+    },
+    "103.134.25.10": {
+      "type": "series",
+      "id": "tt37449205:1:4",
+      "title": "tt37449205:1:4",
+      "username": "spidey_again",
+      "lastActive": 1769875494097
     }
   }
 }
