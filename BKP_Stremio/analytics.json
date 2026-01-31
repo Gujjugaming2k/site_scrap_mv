@@ -1,5 +1,5 @@
 {
-  "totalViews": 19541,
+  "totalViews": 19547,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4133,57 +4133,11 @@
     "2409:40e6:249:8909:1cb9:b3ff:fef8:b0b8",
     "2405:201:2022:b81c:91b9:9504:15bc:60e6",
     "2402:3a80:e6d:3773:841c:fdff:fed9:3e93",
-    "2a02:9b0:106:3b5f:dd2:3c51:dbb6:1665"
+    "2a02:9b0:106:3b5f:dd2:3c51:dbb6:1665",
+    "2a02:9b0:106:3b5f:680e:574a:758c:4ce7",
+    "217.216.60.109"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt34956443",
-      "title": "Ne Zha 2",
-      "timestamp": "2026-01-17T16:27:39.021Z",
-      "ip": "2409:40e0:102e:661a:f52c:b53:da71:f37b",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "movie",
-      "id": "tt3659388",
-      "title": "tt3659388",
-      "timestamp": "2026-01-17T16:28:03.635Z",
-      "ip": "2a09:bac5:3af6:7eb::ca:1a2,51.89.197.91",
-      "username": "switchoff009"
-    },
-    {
-      "type": "movie",
-      "id": "tt3659388",
-      "title": "tt3659388",
-      "timestamp": "2026-01-17T16:28:34.994Z",
-      "ip": "2a09:bac5:3af6:7eb::ca:1a2,51.89.197.91",
-      "username": "switchoff009"
-    },
-    {
-      "type": "series",
-      "id": "tt9251798:1:4",
-      "title": "tt9251798:1:4",
-      "timestamp": "2026-01-17T16:29:06.194Z",
-      "ip": "2401:4900:889b:e55c:5065:ab85:1f8c:8b29",
-      "username": "user_9b"
-    },
-    {
-      "type": "movie",
-      "id": "tt32175880",
-      "title": "tt32175880",
-      "timestamp": "2026-01-17T16:29:22.897Z",
-      "ip": "152.59.161.131",
-      "username": "jinwoooooi"
-    },
-    {
-      "type": "series",
-      "id": "tt9251798:1:5",
-      "title": "tt9251798:1:5",
-      "timestamp": "2026-01-17T16:29:32.276Z",
-      "ip": "2401:4900:889b:e55c:5065:ab85:1f8c:8b29",
-      "username": "user_9b"
-    },
     {
       "type": "series",
       "id": "tt9251798:1:4",
@@ -84135,6 +84089,54 @@
       "timestamp": "2026-01-31T14:17:52.760Z",
       "ip": "2a02:9b0:106:3b5f:dd2:3c51:dbb6:1665",
       "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tmdb:303332:1:1",
+      "title": "tmdb:303332:1:1",
+      "timestamp": "2026-01-31T14:25:10.671Z",
+      "ip": "2a02:9b0:106:3b5f:680e:574a:758c:4ce7",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tmdb:303332:1:1",
+      "title": "tmdb:303332:1:1",
+      "timestamp": "2026-01-31T14:25:15.831Z",
+      "ip": "2a02:9b0:106:3b5f:680e:574a:758c:4ce7",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tmdb:299890:1:1",
+      "title": "tmdb:299890:1:1",
+      "timestamp": "2026-01-31T14:25:28.786Z",
+      "ip": "2a02:9b0:106:3b5f:680e:574a:758c:4ce7",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tmdb:301883:1:2",
+      "title": "tmdb:301883:1:2",
+      "timestamp": "2026-01-31T14:34:48.644Z",
+      "ip": "2a02:9b0:106:3b5f:680e:574a:758c:4ce7",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tmdb:301883:1:2",
+      "title": "tmdb:301883:1:2",
+      "timestamp": "2026-01-31T14:35:10.292Z",
+      "ip": "2a02:9b0:106:3b5f:680e:574a:758c:4ce7",
+      "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-01-31T14:37:02.942Z",
+      "ip": "217.216.60.109",
+      "username": "hoosa500"
     }
   ],
   "activeNow": {
@@ -84396,6 +84398,20 @@
       "title": "tmdb:308689:1:1",
       "username": "hoosa500",
       "lastActive": 1769869072760
+    },
+    "2a02:9b0:106:3b5f:680e:574a:758c:4ce7": {
+      "type": "series",
+      "id": "tmdb:301883:1:2",
+      "title": "tmdb:301883:1:2",
+      "username": "hoosa500",
+      "lastActive": 1769870110292
+    },
+    "217.216.60.109": {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "username": "hoosa500",
+      "lastActive": 1769870222942
     }
   }
 }
