@@ -1,5 +1,5 @@
 {
-  "totalViews": 19417,
+  "totalViews": 19418,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4102,17 +4102,10 @@
     "2401:4900:1c53:3310:8300:a249:fa12:f7eb",
     "2001:ac8:2:1::12",
     "2401:4900:8811:d0b5:b3d0:76d0:42bc:5b15",
-    "2409:40c2:a:601b:a070:74ff:feb0:e9f1"
+    "2409:40c2:a:601b:a070:74ff:feb0:e9f1",
+    "182.69.180.214"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt7366338:1:2",
-      "title": "tt7366338:1:2",
-      "timestamp": "2026-01-17T14:34:20.812Z",
-      "ip": "202.142.105.241",
-      "username": "nobody_ismy_name"
-    },
     {
       "type": "series",
       "id": "tt1119644:1:1",
@@ -84104,6 +84097,14 @@
       "timestamp": "2026-01-30T18:25:29.300Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-31T10:28:06.272Z",
+      "ip": "182.69.180.214",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -86668,6 +86669,13 @@
       "title": "JUJUTSU KAISEN",
       "username": "agentmj47",
       "lastActive": 1769797429687
+    },
+    "182.69.180.214": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1769855286272
     }
   }
 }
