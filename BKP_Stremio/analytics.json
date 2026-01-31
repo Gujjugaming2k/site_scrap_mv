@@ -1,5 +1,5 @@
 {
-  "totalViews": 19548,
+  "totalViews": 19550,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4138,22 +4138,6 @@
     "217.216.60.109"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt9251798:1:5",
-      "title": "tt9251798:1:5",
-      "timestamp": "2026-01-17T16:30:26.312Z",
-      "ip": "2401:4900:889b:e55c:5065:ab85:1f8c:8b29",
-      "username": "user_9b"
-    },
-    {
-      "type": "movie",
-      "id": "tt32820897",
-      "title": "tt32820897",
-      "timestamp": "2026-01-17T16:30:37.331Z",
-      "ip": "2409:40e0:102e:661a:f52c:b53:da71:f37b",
-      "username": "nobody_ismy_name"
-    },
     {
       "type": "movie",
       "id": "tt32820897",
@@ -84137,6 +84121,22 @@
       "timestamp": "2026-01-31T15:03:24.243Z",
       "ip": "103.134.25.8",
       "username": "spidey_again"
+    },
+    {
+      "type": "movie",
+      "id": "tt27136041",
+      "title": "tt27136041",
+      "timestamp": "2026-01-31T15:15:14.080Z",
+      "ip": "103.24.85.19",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt36815135",
+      "title": "tt36815135",
+      "timestamp": "2026-01-31T15:18:39.961Z",
+      "ip": "103.24.85.19",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -84419,6 +84419,13 @@
       "title": "tt2582802",
       "username": "spidey_again",
       "lastActive": 1769871804243
+    },
+    "103.24.85.19": {
+      "type": "movie",
+      "id": "tt36815135",
+      "title": "tt36815135",
+      "username": "william097",
+      "lastActive": 1769872719961
     }
   }
 }
