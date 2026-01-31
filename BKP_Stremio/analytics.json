@@ -1,5 +1,5 @@
 {
-  "totalViews": 19504,
+  "totalViews": 19506,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4120,25 +4120,10 @@
     "146.196.34.245",
     "2a09:bac1:36a0:1e0::10c:18",
     "2409:4085:ae8d:1b9b:acd9:f17:d850:dda8",
-    "2405:201:2033:841:8868:8470:c716:629a"
+    "2405:201:2033:841:8868:8470:c716:629a",
+    "2401:4900:1c63:59f1:30ff:d535:a7d1:1d29"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31938062:1:1",
-      "title": "tt31938062:1:1",
-      "timestamp": "2026-01-17T15:43:20.267Z",
-      "ip": "2409:40e4:2050:19ce:988a:e5ff:fe2a:e0ef",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:5",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-17T15:44:29.194Z",
-      "ip": "2401:4900:b9fc:d76d::2b49:b07a",
-      "username": "abhi231511"
-    },
     {
       "type": "movie",
       "id": "tt36256256",
@@ -84122,6 +84107,22 @@
       "timestamp": "2026-01-31T11:52:47.111Z",
       "ip": "49.205.250.131",
       "username": "nothingokk"
+    },
+    {
+      "type": "series",
+      "id": "tt8740790:4:3",
+      "title": "tt8740790:4:3",
+      "timestamp": "2026-01-31T12:08:08.915Z",
+      "ip": "2401:4900:1c63:59f1:30ff:d535:a7d1:1d29",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt8740790:4:3",
+      "title": "tt8740790:4:3",
+      "timestamp": "2026-01-31T12:08:33.824Z",
+      "ip": "2401:4900:1c63:59f1:30ff:d535:a7d1:1d29",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -84278,6 +84279,13 @@
       "title": "tt13927994",
       "username": "nothingokk",
       "lastActive": 1769860367111
+    },
+    "2401:4900:1c63:59f1:30ff:d535:a7d1:1d29": {
+      "type": "series",
+      "id": "tt8740790:4:3",
+      "title": "tt8740790:4:3",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1769861313824
     }
   }
 }
