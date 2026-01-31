@@ -1,5 +1,5 @@
 {
-  "totalViews": 19567,
+  "totalViews": 19568,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4138,17 +4138,10 @@
     "217.216.60.109",
     "223.179.146.174",
     "223.181.17.144",
-    "157.48.83.51"
+    "157.48.83.51",
+    "2409:40d2:3055:b59f:5b94:9900:dd20:39c3"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt28037987",
-      "title": "Saiyaara",
-      "timestamp": "2026-01-17T16:48:08.656Z",
-      "ip": "2401:4900:1204:20bf:2:1:a245:c211",
-      "username": "askchm"
-    },
     {
       "type": "series",
       "id": "tt9251798:1:5",
@@ -84140,6 +84133,14 @@
       "timestamp": "2026-01-31T16:16:37.648Z",
       "ip": "157.48.83.51",
       "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:1:1",
+      "title": "tt31938062:1:1",
+      "timestamp": "2026-01-31T16:27:46.632Z",
+      "ip": "2409:40d2:3055:b59f:5b94:9900:dd20:39c3",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -84457,6 +84458,13 @@
       "title": "tt6929642",
       "username": "kdbotz",
       "lastActive": 1769876197648
+    },
+    "2409:40d2:3055:b59f:5b94:9900:dd20:39c3": {
+      "type": "series",
+      "id": "tt31938062:1:1",
+      "title": "tt31938062:1:1",
+      "username": "saurabhkaperwan",
+      "lastActive": 1769876866632
     }
   }
 }
