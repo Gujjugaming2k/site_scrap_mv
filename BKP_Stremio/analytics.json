@@ -1,5 +1,5 @@
 {
-  "totalViews": 19517,
+  "totalViews": 19522,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4125,49 +4125,11 @@
     "2406:b400:1a:e8bc:7044:6b1d:20f3:1f25",
     "103.177.252.86",
     "2409:4085:ae8d:1b9b:b75c:72f2:9978:3b56",
-    "2405:201:2022:b81c:4c17:247:dc24:fce8"
+    "2405:201:2022:b81c:4c17:247:dc24:fce8",
+    "2409:40d2:304d:9eab:8000::",
+    "47.11.104.161"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt27302088",
-      "title": "tt27302088",
-      "timestamp": "2026-01-17T16:08:00.939Z",
-      "ip": "2401:4900:595f:1a8e:7911:dbba:fb26:4e21",
-      "username": "reaper54x"
-    },
-    {
-      "type": "movie",
-      "id": "tt27302088",
-      "title": "tt27302088",
-      "timestamp": "2026-01-17T16:08:16.210Z",
-      "ip": "223.185.52.219",
-      "username": "reaper54x"
-    },
-    {
-      "type": "movie",
-      "id": "tt27302088",
-      "title": "tt27302088",
-      "timestamp": "2026-01-17T16:08:16.640Z",
-      "ip": "223.185.52.219",
-      "username": "reaper54x"
-    },
-    {
-      "type": "movie",
-      "id": "tt27302088",
-      "title": "tt27302088",
-      "timestamp": "2026-01-17T16:08:28.498Z",
-      "ip": "2401:4900:595f:1a8e:7911:dbba:fb26:4e21",
-      "username": "reaper54x"
-    },
-    {
-      "type": "movie",
-      "id": "tt27302088",
-      "title": "tt27302088",
-      "timestamp": "2026-01-17T16:08:28.551Z",
-      "ip": "2401:4900:595f:1a8e:7911:dbba:fb26:4e21",
-      "username": "reaper54x"
-    },
     {
       "type": "movie",
       "id": "tt27302088",
@@ -84127,6 +84089,46 @@
       "timestamp": "2026-01-31T12:45:32.051Z",
       "ip": "2405:201:2022:b81c:4c17:247:dc24:fce8",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-01-31T12:48:27.488Z",
+      "ip": "2409:40d2:304d:9eab:8000::",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-31T12:48:38.720Z",
+      "ip": "2405:201:2022:b81c:4c17:247:dc24:fce8",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-31T12:48:41.499Z",
+      "ip": "2405:201:2022:b81c:4c17:247:dc24:fce8",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt29781139",
+      "title": "Lesbian Space Princess",
+      "timestamp": "2026-01-31T12:54:20.390Z",
+      "ip": "47.11.104.161",
+      "username": "tips9694"
+    },
+    {
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "timestamp": "2026-01-31T12:55:11.870Z",
+      "ip": "47.11.104.161",
+      "username": "tips9694"
     }
   ],
   "activeNow": {
@@ -84331,7 +84333,21 @@
       "id": "tt33014583",
       "title": "Dhurandhar",
       "username": "zealousninja",
-      "lastActive": 1769863532051
+      "lastActive": 1769863721499
+    },
+    "2409:40d2:304d:9eab:8000::": {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "username": "saurabhkaperwan",
+      "lastActive": 1769863707488
+    },
+    "47.11.104.161": {
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "username": "tips9694",
+      "lastActive": 1769864111870
     }
   }
 }
