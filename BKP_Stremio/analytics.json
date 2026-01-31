@@ -1,5 +1,5 @@
 {
-  "totalViews": 19513,
+  "totalViews": 19517,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4122,41 +4122,12 @@
     "2409:4085:ae8d:1b9b:acd9:f17:d850:dda8",
     "2405:201:2033:841:8868:8470:c716:629a",
     "2401:4900:1c63:59f1:30ff:d535:a7d1:1d29",
-    "2406:b400:1a:e8bc:7044:6b1d:20f3:1f25"
+    "2406:b400:1a:e8bc:7044:6b1d:20f3:1f25",
+    "103.177.252.86",
+    "2409:4085:ae8d:1b9b:b75c:72f2:9978:3b56",
+    "2405:201:2022:b81c:4c17:247:dc24:fce8"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1375666",
-      "title": "Inception",
-      "timestamp": "2026-01-17T16:00:06.973Z",
-      "ip": "2a09:bac5:3af3:1a46::29e:39,51.89.197.91",
-      "username": "switchoff009"
-    },
-    {
-      "type": "movie",
-      "id": "tt0816692",
-      "title": "Interstellar",
-      "timestamp": "2026-01-17T16:00:09.340Z",
-      "ip": "2a09:bac5:3af3:1a46::29e:39,51.89.197.91",
-      "username": "switchoff009"
-    },
-    {
-      "type": "movie",
-      "id": "tt3659388",
-      "title": "tt3659388",
-      "timestamp": "2026-01-17T16:00:15.888Z",
-      "ip": "2a09:bac5:3af3:1a46::29e:39,51.89.197.91",
-      "username": "switchoff009"
-    },
-    {
-      "type": "movie",
-      "id": "tt3659388",
-      "title": "tt3659388",
-      "timestamp": "2026-01-17T16:00:31.634Z",
-      "ip": "2a09:bac5:3af3:1a46::29e:39,51.89.197.91",
-      "username": "switchoff009"
-    },
     {
       "type": "movie",
       "id": "tt27302088",
@@ -84124,6 +84095,38 @@
       "timestamp": "2026-01-31T12:30:05.119Z",
       "ip": "94.156.30.57",
       "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt32362695",
+      "title": "tt32362695",
+      "timestamp": "2026-01-31T12:33:16.579Z",
+      "ip": "103.177.252.86",
+      "username": "babybloom1"
+    },
+    {
+      "type": "movie",
+      "id": "tt19847976",
+      "title": "tt19847976",
+      "timestamp": "2026-01-31T12:34:50.596Z",
+      "ip": "2a02:6ea0:d101:6221::36",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-01-31T12:42:06.879Z",
+      "ip": "2409:4085:ae8d:1b9b:b75c:72f2:9978:3b56",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-01-31T12:45:32.051Z",
+      "ip": "2405:201:2022:b81c:4c17:247:dc24:fce8",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -84220,10 +84223,10 @@
     },
     "2a02:6ea0:d101:6221::36": {
       "type": "movie",
-      "id": "tt9537352",
-      "title": "tt9537352",
+      "id": "tt19847976",
+      "title": "tt19847976",
       "username": "golu_vk",
-      "lastActive": 1769862593920
+      "lastActive": 1769862890596
     },
     "117.198.113.169": {
       "type": "movie",
@@ -84308,6 +84311,27 @@
       "title": "WondLa",
       "username": "b1jju",
       "lastActive": 1769862605119
+    },
+    "103.177.252.86": {
+      "type": "movie",
+      "id": "tt32362695",
+      "title": "tt32362695",
+      "username": "babybloom1",
+      "lastActive": 1769862796579
+    },
+    "2409:4085:ae8d:1b9b:b75c:72f2:9978:3b56": {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "username": "katdenningssss",
+      "lastActive": 1769863326879
+    },
+    "2405:201:2022:b81c:4c17:247:dc24:fce8": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "zealousninja",
+      "lastActive": 1769863532051
     }
   }
 }
