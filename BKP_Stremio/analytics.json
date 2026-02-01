@@ -1,5 +1,5 @@
 {
-  "totalViews": 19627,
+  "totalViews": 19630,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4150,33 +4150,10 @@
     "2409:40e5:1046:7359:4852:fb48:776e:3d9d",
     "2402:3a80:18dd:25db:b3ec:659a:ce86:9198",
     "2a09:bac1:36c0:1e0::10c:47",
-    "2409:40d4:4095:7752:8000::"
+    "2409:40d4:4095:7752:8000::",
+    "2401:4900:8fe0:9569:9da2:87c2:c805:97f3"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt5847454:2:11",
-      "title": "tt5847454:2:11",
-      "timestamp": "2026-01-17T18:34:06.902Z",
-      "ip": "2400:1a00:7b4c:192a:215:ab81:e6a7:9a20",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt9335498:3:9",
-      "title": "tt9335498:3:9",
-      "timestamp": "2026-01-17T18:34:34.630Z",
-      "ip": "2a09:bac1:36a0:560::176:8d",
-      "username": "sinbad1722"
-    },
-    {
-      "type": "series",
-      "id": "tt5847454:1:6",
-      "title": "tt5847454:1:6",
-      "timestamp": "2026-01-17T18:34:40.497Z",
-      "ip": "2400:1a00:7b4c:192a:215:ab81:e6a7:9a20",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt13439476:1:1",
@@ -84152,6 +84129,30 @@
       "timestamp": "2026-02-01T05:54:14.708Z",
       "ip": "2409:40d4:4095:7752:8000::",
       "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-01T05:54:55.324Z",
+      "ip": "2401:4900:8fe0:9569:9da2:87c2:c805:97f3",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-01T05:56:59.643Z",
+      "ip": "2401:4900:8fe0:9569:9da2:87c2:c805:97f3",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-01T06:03:23.754Z",
+      "ip": "115.187.38.42",
+      "username": "tgh2r"
     }
   ],
   "activeNow": {
@@ -84581,6 +84582,20 @@
       "title": "Dhurandhar",
       "username": "kdbotz",
       "lastActive": 1769925254708
+    },
+    "2401:4900:8fe0:9569:9da2:87c2:c805:97f3": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "ashwanileon",
+      "lastActive": 1769925419643
+    },
+    "115.187.38.42": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "tgh2r",
+      "lastActive": 1769925803754
     }
   }
 }
