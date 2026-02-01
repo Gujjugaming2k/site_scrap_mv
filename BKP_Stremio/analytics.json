@@ -1,5 +1,5 @@
 {
-  "totalViews": 19636,
+  "totalViews": 19637,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4156,14 +4156,6 @@
     "5.32.86.178"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt6897680:1:5",
-      "title": "tt6897680:1:5",
-      "timestamp": "2026-01-17T18:43:13.846Z",
-      "ip": "103.168.30.70",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt6897680:1:2",
@@ -84155,6 +84147,14 @@
       "timestamp": "2026-02-01T06:22:45.175Z",
       "ip": "2406:b400:1a:e8bc:a27:a8ff:fe42:855e",
       "username": "nothingokk"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-02-01T06:30:30.512Z",
+      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
+      "username": "anonymous_rare"
     }
   ],
   "activeNow": {
@@ -84619,6 +84619,13 @@
       "title": "tt28629017",
       "username": "nothingokk",
       "lastActive": 1769926965175
+    },
+    "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d": {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "username": "anonymous_rare",
+      "lastActive": 1769927430512
     }
   }
 }
