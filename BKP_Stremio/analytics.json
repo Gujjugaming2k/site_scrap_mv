@@ -1,5 +1,5 @@
 {
-  "totalViews": 19708,
+  "totalViews": 19713,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4168,49 +4168,12 @@
     "2401:4900:8ffe:bb3d:c8f0:2d2a:a8a8:a4e7",
     "2401:4900:57d9:396b:c8bc:25ff:fe9c:dd07",
     "2001:4490:488d:c1fd:47d:e26d:f12f:e0b2",
-    "2401:4900:1c22:64ad:c013:18:d258:963c"
+    "2401:4900:1c22:64ad:c013:18:d258:963c",
+    "150.107.232.108",
+    "2001:4490:4851:bdd5:b599:2e78:5aa3:54a9",
+    "2409:40c4:302e:71b5:8466:1eff:fefe:73e1"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31918578:1:1",
-      "title": "tt31918578:1:1",
-      "timestamp": "2026-01-17T20:48:09.616Z",
-      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "series",
-      "id": "tt31918578:1:1",
-      "title": "tt31918578:1:1",
-      "timestamp": "2026-01-17T20:50:58.863Z",
-      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "series",
-      "id": "tt0139774:3:3",
-      "title": "tt0139774:3:3",
-      "timestamp": "2026-01-17T20:51:20.379Z",
-      "ip": "2409:40c4:3157:30ee:e034:a7ff:fe83:7a9",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt31918578:1:2",
-      "title": "tt31918578:1:2",
-      "timestamp": "2026-01-17T20:54:39.430Z",
-      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "series",
-      "id": "tt31918578:1:2",
-      "title": "tt31918578:1:2",
-      "timestamp": "2026-01-17T20:54:59.664Z",
-      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
-      "username": "gendaswammy"
-    },
     {
       "type": "series",
       "id": "tt31918578:1:2",
@@ -84170,6 +84133,46 @@
       "timestamp": "2026-02-01T09:58:50.980Z",
       "ip": "103.177.252.86",
       "username": "babybloom1"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-02-01T10:03:22.090Z",
+      "ip": "150.107.232.108",
+      "username": "jamesbond_pistolman"
+    },
+    {
+      "type": "series",
+      "id": "tt12004706:3:1",
+      "title": "tt12004706:3:1",
+      "timestamp": "2026-02-01T10:07:41.255Z",
+      "ip": "2001:4490:4851:bdd5:b599:2e78:5aa3:54a9",
+      "username": "wikramsingh4268"
+    },
+    {
+      "type": "series",
+      "id": "tt12004706:4:1",
+      "title": "tt12004706:4:1",
+      "timestamp": "2026-02-01T10:08:01.454Z",
+      "ip": "2001:4490:4851:bdd5:b599:2e78:5aa3:54a9",
+      "username": "wikramsingh4268"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-01T10:13:21.610Z",
+      "ip": "2406:b400:1a:e8bc:a27:a8ff:fe42:855e",
+      "username": "nothingokk"
+    },
+    {
+      "type": "movie",
+      "id": "tt10648342",
+      "title": "Thor: Love and Thunder",
+      "timestamp": "2026-02-01T10:16:15.065Z",
+      "ip": "2409:40c4:302e:71b5:8466:1eff:fefe:73e1",
+      "username": "napsteerr"
     }
   ],
   "activeNow": {
@@ -84630,10 +84633,10 @@
     },
     "2406:b400:1a:e8bc:a27:a8ff:fe42:855e": {
       "type": "movie",
-      "id": "tt28629017",
-      "title": "tt28629017",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "nothingokk",
-      "lastActive": 1769926965175
+      "lastActive": 1769940801610
     },
     "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d": {
       "type": "movie",
@@ -84760,6 +84763,27 @@
       "title": "tt14819828:1:1",
       "username": "dillon_ka_shooter",
       "lastActive": 1769939271571
+    },
+    "150.107.232.108": {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "username": "jamesbond_pistolman",
+      "lastActive": 1769940202090
+    },
+    "2001:4490:4851:bdd5:b599:2e78:5aa3:54a9": {
+      "type": "series",
+      "id": "tt12004706:4:1",
+      "title": "tt12004706:4:1",
+      "username": "wikramsingh4268",
+      "lastActive": 1769940481454
+    },
+    "2409:40c4:302e:71b5:8466:1eff:fefe:73e1": {
+      "type": "movie",
+      "id": "tt10648342",
+      "title": "Thor: Love and Thunder",
+      "username": "napsteerr",
+      "lastActive": 1769940975065
     }
   }
 }
