@@ -1,5 +1,5 @@
 {
-  "totalViews": 19780,
+  "totalViews": 19786,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4190,57 +4190,11 @@
     "103.46.200.212",
     "2405:201:2022:b81c:fda2:2:e772:26f7",
     "2402:8100:2778:a8b5:d10f:ef43:a4c4:8ed9",
-    "223.185.58.243"
+    "223.185.58.243",
+    "49.36.76.241",
+    "157.48.70.124"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2365946:1:4",
-      "title": "tt2365946:1:4",
-      "timestamp": "2026-01-17T21:47:23.812Z",
-      "ip": "2a06:c701:474f:e900:6468:8a3f:e127:f3b5",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2365946:1:5",
-      "title": "tt2365946:1:5",
-      "timestamp": "2026-01-17T21:47:58.917Z",
-      "ip": "2a06:c701:474f:e900:6468:8a3f:e127:f3b5",
-      "username": "aviv"
-    },
-    {
-      "type": "series",
-      "id": "tt2365946:1:5",
-      "title": "tt2365946:1:5",
-      "timestamp": "2026-01-17T21:48:15.614Z",
-      "ip": "2a06:c701:474f:e900:6468:8a3f:e127:f3b5",
-      "username": "aviv"
-    },
-    {
-      "type": "series",
-      "id": "tt2365946:1:5",
-      "title": "tt2365946:1:5",
-      "timestamp": "2026-01-17T21:51:04.188Z",
-      "ip": "2a06:c701:474f:e900:6468:8a3f:e127:f3b5",
-      "username": "aviv"
-    },
-    {
-      "type": "movie",
-      "id": "tt3627102",
-      "title": "tt3627102",
-      "timestamp": "2026-01-17T21:51:32.354Z",
-      "ip": "80.114.161.107",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1504504",
-      "title": "tt1504504",
-      "timestamp": "2026-01-17T21:52:39.810Z",
-      "ip": "80.114.161.107",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt38990492:1:1",
@@ -84192,6 +84146,54 @@
       "timestamp": "2026-02-01T14:25:56.995Z",
       "ip": "2402:8100:2778:a8b5:d10f:ef43:a4c4:8ed9",
       "username": "sat5d"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "timestamp": "2026-02-01T14:27:04.689Z",
+      "ip": "2401:4900:1cb0:5cf4:9965:e3ed:b2fa:16a9",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "timestamp": "2026-02-01T14:27:05.936Z",
+      "ip": "2401:4900:1cb0:5cf4:9965:e3ed:b2fa:16a9",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "timestamp": "2026-02-01T14:27:06.420Z",
+      "ip": "2401:4900:1cb0:5cf4:9965:e3ed:b2fa:16a9",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-01T14:27:22.350Z",
+      "ip": "2405:201:2022:b81c:fda2:2:e772:26f7",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-01T14:36:55.065Z",
+      "ip": "49.36.76.241",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt27425164",
+      "title": "tt27425164",
+      "timestamp": "2026-02-01T14:37:00.101Z",
+      "ip": "157.48.70.124",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -84921,7 +84923,7 @@
       "id": "tt31844233:1:1",
       "title": "tt31844233:1:1",
       "username": "saisrinivas",
-      "lastActive": 1769951976519
+      "lastActive": 1769956026420
     },
     "2409:40e1:11b0:d065:c0cd:e1b8:6d2:8a06": {
       "type": "movie",
@@ -84949,7 +84951,7 @@
       "id": "tt31227572",
       "title": "tt31227572",
       "username": "zealousninja",
-      "lastActive": 1769955827496
+      "lastActive": 1769956042350
     },
     "2402:8100:2778:a8b5:d10f:ef43:a4c4:8ed9": {
       "type": "series",
@@ -84964,6 +84966,20 @@
       "title": "Vincenzo",
       "username": "theaceofficials",
       "lastActive": 1769955813580
+    },
+    "49.36.76.241": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "zealousninja",
+      "lastActive": 1769956615065
+    },
+    "157.48.70.124": {
+      "type": "movie",
+      "id": "tt27425164",
+      "title": "tt27425164",
+      "username": "kdbotz",
+      "lastActive": 1769956620101
     }
   }
 }
