@@ -1,5 +1,5 @@
 {
-  "totalViews": 19584,
+  "totalViews": 19591,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4144,65 +4144,10 @@
     "2401:4900:8833:9b3:8065:584:aeae:e36e",
     "49.37.10.225",
     "157.48.83.94",
-    "200.108.55.38"
+    "200.108.55.38",
+    "2409:4085:ae8d:1b9b::e20b:ce0d"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-17T17:17:15.078Z",
-      "ip": "103.181.65.117",
-      "username": "mutti9"
-    },
-    {
-      "type": "series",
-      "id": "tt1405406:4:15",
-      "title": "The Vampire Diaries",
-      "timestamp": "2026-01-17T17:19:21.891Z",
-      "ip": "103.212.145.158",
-      "username": "suprememayank"
-    },
-    {
-      "type": "series",
-      "id": "tt7587890:8:3",
-      "title": "tt7587890:8:3",
-      "timestamp": "2026-01-17T17:20:48.296Z",
-      "ip": "2a02:810d:6005:9700:7863:ad17:ceb0:7cea",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:5",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-17T17:20:55.981Z",
-      "ip": "2401:4900:5f25:d0b6:6ca:9d8c:6152:348c",
-      "username": "abhi231511"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:5",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-17T17:21:06.597Z",
-      "ip": "2401:4900:5f25:d0b6:6ca:9d8c:6152:348c",
-      "username": "abhi231511"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:6",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-17T17:21:35.599Z",
-      "ip": "2401:4900:5f25:d0b6:6ca:9d8c:6152:348c",
-      "username": "abhi231511"
-    },
-    {
-      "type": "series",
-      "id": "tt8740790:1:1",
-      "title": "tt8740790:1:1",
-      "timestamp": "2026-01-17T17:23:57.421Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
     {
       "type": "series",
       "id": "tt0411008:1:1",
@@ -84146,6 +84091,62 @@
       "timestamp": "2026-02-01T00:34:09.588Z",
       "ip": "200.108.55.38",
       "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt27673536",
+      "title": "tt27673536",
+      "timestamp": "2026-02-01T01:46:58.641Z",
+      "ip": "190.250.251.84",
+      "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-01T01:47:08.523Z",
+      "ip": "2409:4085:ae8d:1b9b::e20b:ce0d",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt1314652",
+      "title": "tt1314652",
+      "timestamp": "2026-02-01T01:47:20.829Z",
+      "ip": "2409:4085:ae8d:1b9b::e20b:ce0d",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt15887102",
+      "title": "tt15887102",
+      "timestamp": "2026-02-01T01:47:29.086Z",
+      "ip": "2409:4085:ae8d:1b9b::e20b:ce0d",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt0150980",
+      "title": "tt0150980",
+      "timestamp": "2026-02-01T01:47:47.994Z",
+      "ip": "2409:4085:ae8d:1b9b::e20b:ce0d",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt39319989",
+      "title": "tt39319989",
+      "timestamp": "2026-02-01T01:47:57.013Z",
+      "ip": "2409:4085:ae8d:1b9b::e20b:ce0d",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt29638896",
+      "title": "tt29638896",
+      "timestamp": "2026-02-01T01:57:49.472Z",
+      "ip": "103.24.85.19",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -84431,10 +84432,10 @@
     },
     "103.24.85.19": {
       "type": "movie",
-      "id": "tt28182053",
-      "title": "tt28182053",
+      "id": "tt29638896",
+      "title": "tt29638896",
       "username": "william097",
-      "lastActive": 1769877835411
+      "lastActive": 1769911069472
     },
     "223.179.146.174": {
       "type": "series",
@@ -84472,11 +84473,11 @@
       "lastActive": 1769876866632
     },
     "190.250.251.84": {
-      "type": "series",
-      "id": "tt38990492:1:4",
-      "title": "tt38990492:1:4",
+      "type": "movie",
+      "id": "tt27673536",
+      "title": "tt27673536",
       "username": "ymcinema",
-      "lastActive": 1769877916599
+      "lastActive": 1769910418641
     },
     "2401:4900:8833:9b3:8065:584:aeae:e36e": {
       "type": "series",
@@ -84512,6 +84513,13 @@
       "title": "tt27673536",
       "username": "ymcinema",
       "lastActive": 1769906049588
+    },
+    "2409:4085:ae8d:1b9b::e20b:ce0d": {
+      "type": "movie",
+      "id": "tt39319989",
+      "title": "tt39319989",
+      "username": "brosportses",
+      "lastActive": 1769910477013
     }
   }
 }
