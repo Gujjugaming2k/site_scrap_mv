@@ -1,5 +1,5 @@
 {
-  "totalViews": 19621,
+  "totalViews": 19626,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4147,49 +4147,11 @@
     "200.108.55.38",
     "2409:4085:ae8d:1b9b::e20b:ce0d",
     "2a09:bac1:36c0:5e98::3e5:1c",
-    "2409:40e5:1046:7359:4852:fb48:776e:3d9d"
+    "2409:40e5:1046:7359:4852:fb48:776e:3d9d",
+    "2402:3a80:18dd:25db:b3ec:659a:ce86:9198",
+    "2a09:bac1:36c0:1e0::10c:47"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt13706018:3:13",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-01-17T18:27:51.569Z",
-      "ip": "2a09:bac1:36a0:560::176:8d",
-      "username": "sinbad1722"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:2:2",
-      "title": "tt1399664:2:2",
-      "timestamp": "2026-01-17T18:28:11.613Z",
-      "ip": "2405:201:202d:d014:90ec:45e5:c8d2:5628",
-      "username": "explorerindia"
-    },
-    {
-      "type": "movie",
-      "id": "tt0848228",
-      "title": "The Avengers",
-      "timestamp": "2026-01-17T18:28:22.983Z",
-      "ip": "2a09:bac1:36a0:560::176:8d",
-      "username": "sinbad1722"
-    },
-    {
-      "type": "movie",
-      "id": "tt0848228",
-      "title": "The Avengers",
-      "timestamp": "2026-01-17T18:30:07.200Z",
-      "ip": "2a09:bac1:36a0:560::176:8d",
-      "username": "sinbad1722"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:2:3",
-      "title": "tt1399664:2:3",
-      "timestamp": "2026-01-17T18:32:33.282Z",
-      "ip": "2405:201:202d:d014:90ec:45e5:c8d2:5628",
-      "username": "explorerindia"
-    },
     {
       "type": "series",
       "id": "tt38990492:1:1",
@@ -84149,6 +84111,46 @@
       "timestamp": "2026-02-01T05:05:35.606Z",
       "ip": "43.231.236.82",
       "username": "claw_of_beliar"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:2:3",
+      "title": "tt0369179:2:3",
+      "timestamp": "2026-02-01T05:24:19.280Z",
+      "ip": "2402:3a80:18dd:25db:b3ec:659a:ce86:9198",
+      "username": "targetx_25"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:2:4",
+      "title": "tt0369179:2:4",
+      "timestamp": "2026-02-01T05:25:26.588Z",
+      "ip": "2402:3a80:18dd:25db:b3ec:659a:ce86:9198",
+      "username": "targetx_25"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:2:4",
+      "title": "tt0369179:2:4",
+      "timestamp": "2026-02-01T05:28:31.316Z",
+      "ip": "2402:3a80:18dd:25db:b3ec:659a:ce86:9198",
+      "username": "targetx_25"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:2:4",
+      "title": "tt0369179:2:4",
+      "timestamp": "2026-02-01T05:28:56.200Z",
+      "ip": "2402:3a80:18dd:25db:b3ec:659a:ce86:9198",
+      "username": "targetx_25"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-01T05:32:36.047Z",
+      "ip": "2a09:bac1:36c0:1e0::10c:47",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -84557,6 +84559,20 @@
       "title": "Sinners",
       "username": "claw_of_beliar",
       "lastActive": 1769922335606
+    },
+    "2402:3a80:18dd:25db:b3ec:659a:ce86:9198": {
+      "type": "series",
+      "id": "tt0369179:2:4",
+      "title": "tt0369179:2:4",
+      "username": "targetx_25",
+      "lastActive": 1769923736200
+    },
+    "2a09:bac1:36c0:1e0::10c:47": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "demon18319",
+      "lastActive": 1769923956047
     }
   }
 }
