@@ -1,5 +1,5 @@
 {
-  "totalViews": 19626,
+  "totalViews": 19627,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4149,17 +4149,10 @@
     "2a09:bac1:36c0:5e98::3e5:1c",
     "2409:40e5:1046:7359:4852:fb48:776e:3d9d",
     "2402:3a80:18dd:25db:b3ec:659a:ce86:9198",
-    "2a09:bac1:36c0:1e0::10c:47"
+    "2a09:bac1:36c0:1e0::10c:47",
+    "2409:40d4:4095:7752:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt38990492:1:1",
-      "title": "tt38990492:1:1",
-      "timestamp": "2026-01-17T18:33:38.232Z",
-      "ip": "109.77.47.28",
-      "username": "vflix1993"
-    },
     {
       "type": "series",
       "id": "tt5847454:2:11",
@@ -84151,6 +84144,14 @@
       "timestamp": "2026-02-01T05:32:36.047Z",
       "ip": "2a09:bac1:36c0:1e0::10c:47",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-01T05:54:14.708Z",
+      "ip": "2409:40d4:4095:7752:8000::",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -84573,6 +84574,13 @@
       "title": "Dhurandhar",
       "username": "demon18319",
       "lastActive": 1769923956047
+    },
+    "2409:40d4:4095:7752:8000::": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "kdbotz",
+      "lastActive": 1769925254708
     }
   }
 }
