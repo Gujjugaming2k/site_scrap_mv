@@ -1,5 +1,5 @@
 {
-  "totalViews": 19693,
+  "totalViews": 19697,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4163,41 +4163,10 @@
     "2409:40e5:1050:d683:f835:26ff:fe38:39fb",
     "2401:4900:8822:4699:f5ea:a69d:fdbc:bdd",
     "2a02:9b0:106:3b5f:712e:555a:6e74:c0c4",
-    "2401:4900:1c22:64ad:8526:4b5:4e6e:9686"
+    "2401:4900:1c22:64ad:8526:4b5:4e6e:9686",
+    "103.178.64.243"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0139774:3:1",
-      "title": "tt0139774:3:1",
-      "timestamp": "2026-01-17T20:14:26.200Z",
-      "ip": "2409:40c4:3157:30ee:e034:a7ff:fe83:7a9",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:7",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-17T20:18:14.523Z",
-      "ip": "2401:4900:5c58:fb32::e3b:7d31",
-      "username": "abhi231511"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:7",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-17T20:18:23.563Z",
-      "ip": "2401:4900:5c58:fb32::e3b:7d31",
-      "username": "abhi231511"
-    },
-    {
-      "type": "movie",
-      "id": "tt1588170",
-      "title": "I Saw the Devil",
-      "timestamp": "2026-01-17T20:18:36.086Z",
-      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
-      "username": "gendaswammy"
-    },
     {
       "type": "series",
       "id": "tt0944947:1:8",
@@ -84165,6 +84134,38 @@
       "timestamp": "2026-02-01T08:43:54.074Z",
       "ip": "2401:4900:1c22:64ad:8526:4b5:4e6e:9686",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:1:1",
+      "title": "Fallout",
+      "timestamp": "2026-02-01T08:48:01.975Z",
+      "ip": "2401:4900:8822:4699:f5ea:a69d:fdbc:bdd",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt30007502",
+      "title": "tt30007502",
+      "timestamp": "2026-02-01T08:48:49.293Z",
+      "ip": "2401:4900:8822:4699:f5ea:a69d:fdbc:bdd",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt30007502",
+      "title": "tt30007502",
+      "timestamp": "2026-02-01T08:49:14.368Z",
+      "ip": "2401:4900:8822:4699:f5ea:a69d:fdbc:bdd",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-01T08:52:23.457Z",
+      "ip": "103.178.64.243",
+      "username": "xyz"
     }
   ],
   "activeNow": {
@@ -84694,11 +84695,11 @@
       "lastActive": 1769931433568
     },
     "2401:4900:8822:4699:f5ea:a69d:fdbc:bdd": {
-      "type": "series",
-      "id": "tt12637874:1:2",
-      "title": "Fallout",
+      "type": "movie",
+      "id": "tt30007502",
+      "title": "tt30007502",
       "username": "b1jju",
-      "lastActive": 1769932106771
+      "lastActive": 1769935754368
     },
     "202.88.248.175": {
       "type": "movie",
@@ -84720,6 +84721,13 @@
       "title": "tt39050141:1:1",
       "username": "dillon_ka_shooter",
       "lastActive": 1769935434074
+    },
+    "103.178.64.243": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "xyz",
+      "lastActive": 1769935943457
     }
   }
 }
