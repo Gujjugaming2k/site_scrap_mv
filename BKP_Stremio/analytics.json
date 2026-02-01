@@ -1,5 +1,5 @@
 {
-  "totalViews": 19902,
+  "totalViews": 19905,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4216,30 +4216,6 @@
     "2405:201:202d:d014:46f8:599c:be4c:fa3"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt14186672:1:7",
-      "title": "tt14186672:1:7",
-      "timestamp": "2026-01-18T02:39:48.550Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "series",
-      "id": "tt14186672:1:7",
-      "title": "tt14186672:1:7",
-      "timestamp": "2026-01-18T02:46:20.802Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "movie",
-      "id": "tt29954526",
-      "title": "tt29954526",
-      "timestamp": "2026-01-18T02:46:44.687Z",
-      "ip": "103.46.200.248",
-      "username": "katdenningssss"
-    },
     {
       "type": "movie",
       "id": "tt2084989",
@@ -84215,6 +84191,30 @@
       "timestamp": "2026-02-01T19:57:00.074Z",
       "ip": "115.187.38.42",
       "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-02-01T20:23:14.948Z",
+      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "timestamp": "2026-02-01T20:23:35.424Z",
+      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "timestamp": "2026-02-01T20:23:46.834Z",
+      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
+      "username": "anonymous_rare"
     }
   ],
   "activeNow": {
@@ -84682,10 +84682,10 @@
     },
     "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d": {
       "type": "series",
-      "id": "tt31938062:1:6",
-      "title": "tt31938062:1:6",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
       "username": "anonymous_rare",
-      "lastActive": 1769970080588
+      "lastActive": 1769977426834
     },
     "2a09:bac5:40b1:1aaa::2a8:20": {
       "type": "movie",
