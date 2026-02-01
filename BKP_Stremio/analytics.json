@@ -1,5 +1,5 @@
 {
-  "totalViews": 19593,
+  "totalViews": 19600,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4145,65 +4145,10 @@
     "49.37.10.225",
     "157.48.83.94",
     "200.108.55.38",
-    "2409:4085:ae8d:1b9b::e20b:ce0d"
+    "2409:4085:ae8d:1b9b::e20b:ce0d",
+    "2a09:bac1:36c0:5e98::3e5:1c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0944947:1:6",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-17T17:27:55.667Z",
-      "ip": "2401:4900:5f25:d0b6:6ca:9d8c:6152:348c",
-      "username": "abhi231511"
-    },
-    {
-      "type": "series",
-      "id": "tt9251798:1:6",
-      "title": "tt9251798:1:6",
-      "timestamp": "2026-01-17T17:28:45.973Z",
-      "ip": "2401:4900:889b:e55c:5065:ab85:1f8c:8b29",
-      "username": "user_9b"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-17T17:29:17.262Z",
-      "ip": "111.92.74.105",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "movie",
-      "id": "tt0120382",
-      "title": "The Truman Show",
-      "timestamp": "2026-01-17T17:32:02.099Z",
-      "ip": "2401:4900:aac9:d47e:c9ce:4adf:e586:8ce2",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "movie",
-      "id": "tt0120382",
-      "title": "The Truman Show",
-      "timestamp": "2026-01-17T17:34:25.759Z",
-      "ip": "2401:4900:aac9:d47e:c9ce:4adf:e586:8ce2",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "series",
-      "id": "tt6897680:1:4",
-      "title": "tt6897680:1:4",
-      "timestamp": "2026-01-17T17:39:30.301Z",
-      "ip": "103.168.30.70",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:5",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-17T17:46:47.164Z",
-      "ip": "2401:4900:5f25:d0b6:6ca:9d8c:6152:348c",
-      "username": "abhi231511"
-    },
     {
       "type": "series",
       "id": "tt1405406:4:15",
@@ -84147,6 +84092,62 @@
       "timestamp": "2026-02-01T02:05:24.221Z",
       "ip": "2405:201:6820:a83c:a4d2:c52f:fefc:2e83",
       "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:5:3",
+      "title": "tt0460649:5:3",
+      "timestamp": "2026-02-01T02:50:23.087Z",
+      "ip": "2a09:bac1:36c0:5e98::3e5:1c",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:5:4",
+      "title": "tt0460649:5:4",
+      "timestamp": "2026-02-01T02:50:24.919Z",
+      "ip": "2a09:bac1:36c0:5e98::3e5:1c",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt29638896",
+      "title": "tt29638896",
+      "timestamp": "2026-02-01T02:53:57.306Z",
+      "ip": "103.24.85.19",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:1",
+      "title": "tt30003786:4:1",
+      "timestamp": "2026-02-01T02:54:51.167Z",
+      "ip": "103.24.85.19",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt37070551",
+      "title": "tt37070551",
+      "timestamp": "2026-02-01T02:57:28.459Z",
+      "ip": "103.24.85.19",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt32755928",
+      "title": "WWE Royal Rumble 2025",
+      "timestamp": "2026-02-01T02:58:01.802Z",
+      "ip": "103.24.85.19",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt32755928",
+      "title": "WWE Royal Rumble 2025",
+      "timestamp": "2026-02-01T03:00:32.857Z",
+      "ip": "103.24.85.19",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -84432,10 +84433,10 @@
     },
     "103.24.85.19": {
       "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "id": "tt32755928",
+      "title": "WWE Royal Rumble 2025",
       "username": "william097",
-      "lastActive": 1769911309607
+      "lastActive": 1769914832857
     },
     "223.179.146.174": {
       "type": "series",
@@ -84527,6 +84528,13 @@
       "title": "Dhurandhar",
       "username": "demon18319",
       "lastActive": 1769911524221
+    },
+    "2a09:bac1:36c0:5e98::3e5:1c": {
+      "type": "series",
+      "id": "tt0460649:5:4",
+      "title": "tt0460649:5:4",
+      "username": "demon18319",
+      "lastActive": 1769914224919
     }
   }
 }
