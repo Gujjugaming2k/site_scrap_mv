@@ -1,5 +1,5 @@
 {
-  "totalViews": 19697,
+  "totalViews": 19698,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4164,17 +4164,10 @@
     "2401:4900:8822:4699:f5ea:a69d:fdbc:bdd",
     "2a02:9b0:106:3b5f:712e:555a:6e74:c0c4",
     "2401:4900:1c22:64ad:8526:4b5:4e6e:9686",
-    "103.178.64.243"
+    "103.178.64.243",
+    "2401:4900:8ffe:bb3d:c8f0:2d2a:a8a8:a4e7"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0944947:1:8",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-17T20:18:44.610Z",
-      "ip": "2401:4900:5c58:fb32::e3b:7d31",
-      "username": "abhi231511"
-    },
     {
       "type": "series",
       "id": "tt9813792:4:1",
@@ -84166,6 +84159,14 @@
       "timestamp": "2026-02-01T08:52:23.457Z",
       "ip": "103.178.64.243",
       "username": "xyz"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:4",
+      "title": "tt35335046:1:4",
+      "timestamp": "2026-02-01T09:15:30.021Z",
+      "ip": "2401:4900:8ffe:bb3d:c8f0:2d2a:a8a8:a4e7",
+      "username": "lazerkey"
     }
   ],
   "activeNow": {
@@ -84728,6 +84729,13 @@
       "title": "Dhurandhar",
       "username": "xyz",
       "lastActive": 1769935943457
+    },
+    "2401:4900:8ffe:bb3d:c8f0:2d2a:a8a8:a4e7": {
+      "type": "series",
+      "id": "tt35335046:1:4",
+      "title": "tt35335046:1:4",
+      "username": "lazerkey",
+      "lastActive": 1769937330021
     }
   }
 }
