@@ -1,5 +1,5 @@
 {
-  "totalViews": 19795,
+  "totalViews": 19799,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4197,41 +4197,11 @@
     "2401:4900:ada5:24dd:b83d:e8ff:fe43:27e9",
     "2405:201:e00a:a19d:1c6d:1d8d:8388:8a3b",
     "49.37.219.9",
-    "2409:40e0:1020:5daa:834:e247:3e07:4da8"
+    "2409:40e0:1020:5daa:834:e247:3e07:4da8",
+    "27.59.117.179",
+    "2409:40c4:314b:28b5:34f4:9dff:fe23:e630"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt5574490:6:2",
-      "title": "tt5574490:6:2",
-      "timestamp": "2026-01-17T22:17:42.031Z",
-      "ip": "154.208.49.96",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt5574490:6:3",
-      "title": "tt5574490:6:3",
-      "timestamp": "2026-01-17T22:18:02.917Z",
-      "ip": "154.208.49.96",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt23172090",
-      "title": "tt23172090",
-      "timestamp": "2026-01-17T22:18:38.332Z",
-      "ip": "154.208.49.96",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt5574490:6:2",
-      "title": "tt5574490:6:2",
-      "timestamp": "2026-01-17T22:21:34.208Z",
-      "ip": "154.208.49.96",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -84199,6 +84169,38 @@
       "timestamp": "2026-02-01T15:11:26.983Z",
       "ip": "2409:40e0:1020:5daa:834:e247:3e07:4da8",
       "username": "alex"
+    },
+    {
+      "type": "movie",
+      "id": "tt32304349",
+      "title": "The Carpenter's Son",
+      "timestamp": "2026-02-01T15:14:08.043Z",
+      "ip": "27.59.117.179",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:2",
+      "title": "tt31844233:1:2",
+      "timestamp": "2026-02-01T15:26:14.008Z",
+      "ip": "2401:4900:1cb0:5cf4:9965:e3ed:b2fa:16a9",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:7",
+      "title": "tt30003786:4:7",
+      "timestamp": "2026-02-01T15:26:25.246Z",
+      "ip": "2401:4900:8822:4699:f5ea:a69d:fdbc:bdd",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-02-01T15:26:43.396Z",
+      "ip": "2409:40c4:314b:28b5:34f4:9dff:fe23:e630",
+      "username": "napsteerr"
     }
   ],
   "activeNow": {
@@ -84728,11 +84730,11 @@
       "lastActive": 1769931433568
     },
     "2401:4900:8822:4699:f5ea:a69d:fdbc:bdd": {
-      "type": "movie",
-      "id": "tt30007502",
-      "title": "tt30007502",
+      "type": "series",
+      "id": "tt30003786:4:7",
+      "title": "tt30003786:4:7",
       "username": "b1jju",
-      "lastActive": 1769935754368
+      "lastActive": 1769959585246
     },
     "202.88.248.175": {
       "type": "movie",
@@ -84925,10 +84927,10 @@
     },
     "2401:4900:1cb0:5cf4:9965:e3ed:b2fa:16a9": {
       "type": "series",
-      "id": "tt31844233:1:1",
-      "title": "tt31844233:1:1",
+      "id": "tt31844233:1:2",
+      "title": "tt31844233:1:2",
       "username": "saisrinivas",
-      "lastActive": 1769956026420
+      "lastActive": 1769959574008
     },
     "2409:40e1:11b0:d065:c0cd:e1b8:6d2:8a06": {
       "type": "movie",
@@ -85020,6 +85022,20 @@
       "title": "tt39139925",
       "username": "alex",
       "lastActive": 1769958686983
+    },
+    "27.59.117.179": {
+      "type": "movie",
+      "id": "tt32304349",
+      "title": "The Carpenter's Son",
+      "username": "b1jju",
+      "lastActive": 1769958848043
+    },
+    "2409:40c4:314b:28b5:34f4:9dff:fe23:e630": {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "username": "napsteerr",
+      "lastActive": 1769959603396
     }
   }
 }
