@@ -1,5 +1,5 @@
 {
-  "totalViews": 19698,
+  "totalViews": 19700,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4165,25 +4165,10 @@
     "2a02:9b0:106:3b5f:712e:555a:6e74:c0c4",
     "2401:4900:1c22:64ad:8526:4b5:4e6e:9686",
     "103.178.64.243",
-    "2401:4900:8ffe:bb3d:c8f0:2d2a:a8a8:a4e7"
+    "2401:4900:8ffe:bb3d:c8f0:2d2a:a8a8:a4e7",
+    "2401:4900:57d9:396b:c8bc:25ff:fe9c:dd07"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt9813792:4:1",
-      "title": "tt9813792:4:1",
-      "timestamp": "2026-01-17T20:24:31.908Z",
-      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "series",
-      "id": "tt9813792:4:1",
-      "title": "tt9813792:4:1",
-      "timestamp": "2026-01-17T20:24:52.158Z",
-      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
-      "username": "gendaswammy"
-    },
     {
       "type": "series",
       "id": "tt2365946:1:3",
@@ -84167,6 +84152,22 @@
       "timestamp": "2026-02-01T09:15:30.021Z",
       "ip": "2401:4900:8ffe:bb3d:c8f0:2d2a:a8a8:a4e7",
       "username": "lazerkey"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:1",
+      "title": "tt14186672:2:1",
+      "timestamp": "2026-02-01T09:27:19.717Z",
+      "ip": "2401:4900:57d9:396b:c8bc:25ff:fe9c:dd07",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:3",
+      "title": "tt35335046:1:3",
+      "timestamp": "2026-02-01T09:28:32.254Z",
+      "ip": "2401:4900:8ffe:bb3d:c8f0:2d2a:a8a8:a4e7",
+      "username": "lazerkey"
     }
   ],
   "activeNow": {
@@ -84732,10 +84733,17 @@
     },
     "2401:4900:8ffe:bb3d:c8f0:2d2a:a8a8:a4e7": {
       "type": "series",
-      "id": "tt35335046:1:4",
-      "title": "tt35335046:1:4",
+      "id": "tt35335046:1:3",
+      "title": "tt35335046:1:3",
       "username": "lazerkey",
-      "lastActive": 1769937330021
+      "lastActive": 1769938112254
+    },
+    "2401:4900:57d9:396b:c8bc:25ff:fe9c:dd07": {
+      "type": "series",
+      "id": "tt14186672:2:1",
+      "title": "tt14186672:2:1",
+      "username": "chetan_b2",
+      "lastActive": 1769938039717
     }
   }
 }
