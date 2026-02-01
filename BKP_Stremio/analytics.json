@@ -1,5 +1,5 @@
 {
-  "totalViews": 19791,
+  "totalViews": 19795,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4194,41 +4194,12 @@
     "49.36.76.241",
     "157.48.70.124",
     "2405:201:2022:b81c:15f6:ccfa:f7c5:5d46",
-    "2401:4900:ada5:24dd:b83d:e8ff:fe43:27e9"
+    "2401:4900:ada5:24dd:b83d:e8ff:fe43:27e9",
+    "2405:201:e00a:a19d:1c6d:1d8d:8388:8a3b",
+    "49.37.219.9",
+    "2409:40e0:1020:5daa:834:e247:3e07:4da8"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0809497:1:4",
-      "title": "tt0809497:1:4",
-      "timestamp": "2026-01-17T21:58:27.184Z",
-      "ip": "146.70.246.108",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0421357:1:5",
-      "title": "tt0421357:1:5",
-      "timestamp": "2026-01-17T22:02:33.139Z",
-      "ip": "84.15.183.116",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0369179:2:10",
-      "title": "tt0369179:2:10",
-      "timestamp": "2026-01-17T22:05:43.996Z",
-      "ip": "105.106.82.228",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0421357:1:5",
-      "title": "tt0421357:1:5",
-      "timestamp": "2026-01-17T22:07:09.641Z",
-      "ip": "84.15.183.116",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt5574490:6:2",
@@ -84196,6 +84167,38 @@
       "timestamp": "2026-02-01T14:51:28.939Z",
       "ip": "2401:4900:ada5:24dd:b83d:e8ff:fe43:27e9",
       "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-01T15:00:49.625Z",
+      "ip": "2405:201:e00a:a19d:1c6d:1d8d:8388:8a3b",
+      "username": "executeai"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-01T15:01:17.212Z",
+      "ip": "49.37.219.9",
+      "username": "executeai"
+    },
+    {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "timestamp": "2026-02-01T15:08:58.032Z",
+      "ip": "47.15.110.46",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt39139925",
+      "title": "tt39139925",
+      "timestamp": "2026-02-01T15:11:26.983Z",
+      "ip": "2409:40e0:1020:5daa:834:e247:3e07:4da8",
+      "username": "alex"
     }
   ],
   "activeNow": {
@@ -84817,10 +84820,10 @@
     },
     "47.15.110.46": {
       "type": "movie",
-      "id": "tt19847976",
-      "title": "tt19847976",
+      "id": "tt28142095",
+      "title": "tt28142095",
       "username": "golu_vk",
-      "lastActive": 1769941849029
+      "lastActive": 1769958538032
     },
     "2409:40e4:1158:811a:880f:e919:d8d5:fccb": {
       "type": "series",
@@ -84996,6 +84999,27 @@
       "title": "3 Idiots",
       "username": "b1jju",
       "lastActive": 1769957488939
+    },
+    "2405:201:e00a:a19d:1c6d:1d8d:8388:8a3b": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "executeai",
+      "lastActive": 1769958049625
+    },
+    "49.37.219.9": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "executeai",
+      "lastActive": 1769958077212
+    },
+    "2409:40e0:1020:5daa:834:e247:3e07:4da8": {
+      "type": "movie",
+      "id": "tt39139925",
+      "title": "tt39139925",
+      "username": "alex",
+      "lastActive": 1769958686983
     }
   }
 }
