@@ -1,5 +1,5 @@
 {
-  "totalViews": 19591,
+  "totalViews": 19593,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4148,22 +4148,6 @@
     "2409:4085:ae8d:1b9b::e20b:ce0d"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:1:1",
-      "title": "Lost",
-      "timestamp": "2026-01-17T17:24:22.102Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:1:2",
-      "title": "Lost",
-      "timestamp": "2026-01-17T17:25:03.369Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
     {
       "type": "series",
       "id": "tt0944947:1:6",
@@ -84147,6 +84131,22 @@
       "timestamp": "2026-02-01T01:57:49.472Z",
       "ip": "103.24.85.19",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-01T02:01:49.607Z",
+      "ip": "103.24.85.19",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-01T02:05:24.221Z",
+      "ip": "2405:201:6820:a83c:a4d2:c52f:fefc:2e83",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -84432,10 +84432,10 @@
     },
     "103.24.85.19": {
       "type": "movie",
-      "id": "tt29638896",
-      "title": "tt29638896",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "william097",
-      "lastActive": 1769911069472
+      "lastActive": 1769911309607
     },
     "223.179.146.174": {
       "type": "series",
@@ -84520,6 +84520,13 @@
       "title": "tt39319989",
       "username": "brosportses",
       "lastActive": 1769910477013
+    },
+    "2405:201:6820:a83c:a4d2:c52f:fefc:2e83": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "demon18319",
+      "lastActive": 1769911524221
     }
   }
 }
