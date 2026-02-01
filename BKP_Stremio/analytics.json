@@ -1,5 +1,5 @@
 {
-  "totalViews": 19786,
+  "totalViews": 19791,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4192,49 +4192,11 @@
     "2402:8100:2778:a8b5:d10f:ef43:a4c4:8ed9",
     "223.185.58.243",
     "49.36.76.241",
-    "157.48.70.124"
+    "157.48.70.124",
+    "2405:201:2022:b81c:15f6:ccfa:f7c5:5d46",
+    "2401:4900:ada5:24dd:b83d:e8ff:fe43:27e9"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt38990492:1:1",
-      "title": "tt38990492:1:1",
-      "timestamp": "2026-01-17T21:52:56.677Z",
-      "ip": "109.77.47.28",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt2365946:1:5",
-      "title": "tt2365946:1:5",
-      "timestamp": "2026-01-17T21:52:58.347Z",
-      "ip": "2a06:c701:474f:e900:6468:8a3f:e127:f3b5",
-      "username": "aviv"
-    },
-    {
-      "type": "series",
-      "id": "tt2365946:1:5",
-      "title": "tt2365946:1:5",
-      "timestamp": "2026-01-17T21:54:08.993Z",
-      "ip": "2a06:c701:474f:e900:6468:8a3f:e127:f3b5",
-      "username": "aviv"
-    },
-    {
-      "type": "series",
-      "id": "tt0139774:3:6",
-      "title": "tt0139774:3:6",
-      "timestamp": "2026-01-17T21:54:57.554Z",
-      "ip": "2409:40c4:3157:30ee:e034:a7ff:fe83:7a9",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1504504",
-      "title": "tt1504504",
-      "timestamp": "2026-01-17T21:56:01.193Z",
-      "ip": "80.114.161.107",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0809497:1:4",
@@ -84194,6 +84156,46 @@
       "timestamp": "2026-02-01T14:37:00.101Z",
       "ip": "157.48.70.124",
       "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-01T14:42:14.799Z",
+      "ip": "2405:201:2022:b81c:15f6:ccfa:f7c5:5d46",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-01T14:42:18.805Z",
+      "ip": "2405:201:2022:b81c:15f6:ccfa:f7c5:5d46",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:5",
+      "title": "tt1399664:2:5",
+      "timestamp": "2026-02-01T14:49:53.745Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:6",
+      "title": "tt1399664:2:6",
+      "timestamp": "2026-02-01T14:49:58.671Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-02-01T14:51:28.939Z",
+      "ip": "2401:4900:ada5:24dd:b83d:e8ff:fe43:27e9",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -84545,7 +84547,7 @@
       "id": "tt1399664:2:6",
       "title": "tt1399664:2:6",
       "username": "chetan_b2",
-      "lastActive": 1769953882191
+      "lastActive": 1769957398671
     },
     "157.48.83.94": {
       "type": "series",
@@ -84980,6 +84982,20 @@
       "title": "tt27425164",
       "username": "kdbotz",
       "lastActive": 1769956620101
+    },
+    "2405:201:2022:b81c:15f6:ccfa:f7c5:5d46": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "zealousninja",
+      "lastActive": 1769956938805
+    },
+    "2401:4900:ada5:24dd:b83d:e8ff:fe43:27e9": {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "username": "b1jju",
+      "lastActive": 1769957488939
     }
   }
 }
