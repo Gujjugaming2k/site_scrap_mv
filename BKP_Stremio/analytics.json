@@ -1,5 +1,5 @@
 {
-  "totalViews": 19613,
+  "totalViews": 19618,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4149,46 +4149,6 @@
     "2a09:bac1:36c0:5e98::3e5:1c"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0073115",
-      "title": "tt0073115",
-      "timestamp": "2026-01-17T18:13:26.357Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
-      "timestamp": "2026-01-17T18:17:35.342Z",
-      "ip": "2405:201:203e:b800:a712:ac3c:9625:8f3a",
-      "username": "pingmenoone"
-    },
-    {
-      "type": "movie",
-      "id": "tt0816692",
-      "title": "Interstellar",
-      "timestamp": "2026-01-17T18:18:27.014Z",
-      "ip": "2405:201:203e:b800:a712:ac3c:9625:8f3a",
-      "username": "pingmenoone"
-    },
-    {
-      "type": "movie",
-      "id": "tt0075314",
-      "title": "Taxi Driver",
-      "timestamp": "2026-01-17T18:18:31.906Z",
-      "ip": "2401:4900:aac9:d47e:c9ce:4adf:e586:8ce2",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:6",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-17T18:20:26.938Z",
-      "ip": "2401:4900:5c58:ef94::e3b:eea",
-      "username": "abhi231511"
-    },
     {
       "type": "series",
       "id": "tt10266874:1:6",
@@ -84148,6 +84108,46 @@
       "timestamp": "2026-02-01T04:17:04.738Z",
       "ip": "2409:40e6:249:8909:1cb9:b3ff:fef8:b0b8",
       "username": "nabakun"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "timestamp": "2026-02-01T04:28:09.673Z",
+      "ip": "2409:40e6:249:8909:1cb9:b3ff:fef8:b0b8",
+      "username": "nabakun"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:4",
+      "title": "tt31844233:1:4",
+      "timestamp": "2026-02-01T04:28:15.436Z",
+      "ip": "2409:40e6:249:8909:1cb9:b3ff:fef8:b0b8",
+      "username": "nabakun"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:4",
+      "title": "tt31844233:1:4",
+      "timestamp": "2026-02-01T04:28:20.086Z",
+      "ip": "2409:40e6:249:8909:1cb9:b3ff:fef8:b0b8",
+      "username": "nabakun"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:2:16",
+      "title": "Lost",
+      "timestamp": "2026-02-01T04:37:26.382Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:2:18",
+      "title": "Lost",
+      "timestamp": "2026-02-01T04:37:31.887Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -84383,11 +84383,11 @@
       "lastActive": 1769865486124
     },
     "2409:40e6:249:8909:1cb9:b3ff:fef8:b0b8": {
-      "type": "movie",
-      "id": "tt1386697",
-      "title": "Suicide Squad",
+      "type": "series",
+      "id": "tt31844233:1:4",
+      "title": "tt31844233:1:4",
       "username": "nabakun",
-      "lastActive": 1769919424738
+      "lastActive": 1769920100086
     },
     "2405:201:2022:b81c:91b9:9504:15bc:60e6": {
       "type": "movie",
@@ -84535,6 +84535,13 @@
       "title": "tt0460649:5:6",
       "username": "demon18319",
       "lastActive": 1769915699344
+    },
+    "116.68.74.75": {
+      "type": "series",
+      "id": "tt0411008:2:18",
+      "title": "Lost",
+      "username": "aravindsivan",
+      "lastActive": 1769920651887
     }
   }
 }
