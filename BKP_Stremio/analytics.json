@@ -1,5 +1,5 @@
 {
-  "totalViews": 19863,
+  "totalViews": 19868,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4213,46 +4213,6 @@
     "146.70.142.87"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0479884",
-      "title": "Crank",
-      "timestamp": "2026-01-18T01:39:23.872Z",
-      "ip": "93.47.121.138",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0110197",
-      "title": "tt0110197",
-      "timestamp": "2026-01-18T01:39:26.257Z",
-      "ip": "93.47.121.138",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0291341",
-      "title": "tt0291341",
-      "timestamp": "2026-01-18T01:39:34.851Z",
-      "ip": "93.47.121.138",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0479884",
-      "title": "Crank",
-      "timestamp": "2026-01-18T01:39:34.933Z",
-      "ip": "93.47.121.138",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0346631",
-      "title": "tt0346631",
-      "timestamp": "2026-01-18T01:39:56.900Z",
-      "ip": "93.47.121.138",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt0291341",
@@ -84212,6 +84172,46 @@
       "timestamp": "2026-02-01T17:31:23.569Z",
       "ip": "146.70.142.87",
       "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt0416044",
+      "title": "tt0416044",
+      "timestamp": "2026-02-01T17:33:27.884Z",
+      "ip": "146.70.142.87",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt2788316:1:1",
+      "title": "tt2788316:1:1",
+      "timestamp": "2026-02-01T17:37:40.072Z",
+      "ip": "182.77.78.99",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt7363066",
+      "title": "tt7363066",
+      "timestamp": "2026-02-01T17:42:32.187Z",
+      "ip": "103.46.200.212",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt3396820",
+      "title": "tt3396820",
+      "timestamp": "2026-02-01T17:42:51.371Z",
+      "ip": "103.46.200.212",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-02-01T17:43:40.579Z",
+      "ip": "182.77.78.99",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -84293,11 +84293,11 @@
       "lastActive": 1769857965780
     },
     "182.77.78.99": {
-      "type": "series",
-      "id": "tt1214085:1:1",
-      "title": "tt1214085:1:1",
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
       "username": "theaceofficials",
-      "lastActive": 1769966965824
+      "lastActive": 1769967820579
     },
     "106.192.198.253": {
       "type": "series",
@@ -84959,10 +84959,10 @@
     },
     "103.46.200.212": {
       "type": "movie",
-      "id": "tt4819576",
-      "title": "tt4819576",
+      "id": "tt3396820",
+      "title": "tt3396820",
       "username": "katdenningssss",
-      "lastActive": 1769963788541
+      "lastActive": 1769967771371
     },
     "2405:201:2022:b81c:fda2:2:e772:26f7": {
       "type": "movie",
@@ -85123,7 +85123,7 @@
       "id": "tt0416044",
       "title": "tt0416044",
       "username": "golu_vk",
-      "lastActive": 1769967083569
+      "lastActive": 1769967207884
     }
   }
 }
