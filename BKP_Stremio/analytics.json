@@ -1,5 +1,5 @@
 {
-  "totalViews": 19600,
+  "totalViews": 19603,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4149,30 +4149,6 @@
     "2a09:bac1:36c0:5e98::3e5:1c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1405406:4:15",
-      "title": "The Vampire Diaries",
-      "timestamp": "2026-01-17T17:47:48.483Z",
-      "ip": "103.212.145.158",
-      "username": "suprememayank"
-    },
-    {
-      "type": "series",
-      "id": "tt1405406:4:16",
-      "title": "The Vampire Diaries",
-      "timestamp": "2026-01-17T17:48:15.901Z",
-      "ip": "103.212.145.158",
-      "username": "suprememayank"
-    },
-    {
-      "type": "series",
-      "id": "tt1405406:4:16",
-      "title": "The Vampire Diaries",
-      "timestamp": "2026-01-17T17:50:36.982Z",
-      "ip": "103.212.145.158",
-      "username": "suprememayank"
-    },
     {
       "type": "series",
       "id": "tt0903747:5:6",
@@ -84148,6 +84124,30 @@
       "timestamp": "2026-02-01T03:00:32.857Z",
       "ip": "103.24.85.19",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:5:5",
+      "title": "tt0460649:5:5",
+      "timestamp": "2026-02-01T03:03:31.013Z",
+      "ip": "2a09:bac1:36c0:5e98::3e5:1c",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:5:6",
+      "title": "tt0460649:5:6",
+      "timestamp": "2026-02-01T03:14:59.344Z",
+      "ip": "2a09:bac1:36c0:5e98::3e5:1c",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-02-01T03:17:18.493Z",
+      "ip": "2409:40e6:249:8909:1cb9:b3ff:fef8:b0b8",
+      "username": "nabakun"
     }
   ],
   "activeNow": {
@@ -84384,10 +84384,10 @@
     },
     "2409:40e6:249:8909:1cb9:b3ff:fef8:b0b8": {
       "type": "series",
-      "id": "tt8740790:1:2",
-      "title": "tt8740790:1:2",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
       "username": "nabakun",
-      "lastActive": 1769865240365
+      "lastActive": 1769915838493
     },
     "2405:201:2022:b81c:91b9:9504:15bc:60e6": {
       "type": "movie",
@@ -84531,10 +84531,10 @@
     },
     "2a09:bac1:36c0:5e98::3e5:1c": {
       "type": "series",
-      "id": "tt0460649:5:4",
-      "title": "tt0460649:5:4",
+      "id": "tt0460649:5:6",
+      "title": "tt0460649:5:6",
       "username": "demon18319",
-      "lastActive": 1769914224919
+      "lastActive": 1769915699344
     }
   }
 }
