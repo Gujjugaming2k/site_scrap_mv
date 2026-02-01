@@ -1,5 +1,5 @@
 {
-  "totalViews": 19722,
+  "totalViews": 19723,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4176,17 +4176,10 @@
     "47.15.110.46",
     "2409:40e4:1158:811a:880f:e919:d8d5:fccb",
     "2404:7c80:4d:6680:a933:b92f:994f:f823",
-    "2405:201:900f:a92b:68c7:dedd:426f:efbe"
+    "2405:201:900f:a92b:68c7:dedd:426f:efbe",
+    "2404:7c80:4d:6680:c00b:c303:c80a:1b6f"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0903747:5:6",
-      "title": "tt0903747:5:6",
-      "timestamp": "2026-01-17T21:12:19.393Z",
-      "ip": "182.69.179.223",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt0364845:17:6",
@@ -84178,6 +84171,14 @@
       "timestamp": "2026-02-01T11:02:50.213Z",
       "ip": "2405:201:900f:a92b:68c7:dedd:426f:efbe",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt28282203",
+      "title": "tt28282203",
+      "timestamp": "2026-02-01T11:07:40.612Z",
+      "ip": "2404:7c80:4d:6680:c00b:c303:c80a:1b6f",
+      "username": "xyz"
     }
   ],
   "activeNow": {
@@ -84824,6 +84825,13 @@
       "title": "JUJUTSU KAISEN",
       "username": "theonlyfreak",
       "lastActive": 1769943770213
+    },
+    "2404:7c80:4d:6680:c00b:c303:c80a:1b6f": {
+      "type": "movie",
+      "id": "tt28282203",
+      "title": "tt28282203",
+      "username": "xyz",
+      "lastActive": 1769944060612
     }
   }
 }
