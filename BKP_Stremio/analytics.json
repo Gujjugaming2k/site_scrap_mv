@@ -1,5 +1,5 @@
 {
-  "totalViews": 19895,
+  "totalViews": 19898,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4212,33 +4212,10 @@
     "2405:201:2033:841:ddf9:15b5:7c81:8cc8",
     "146.70.142.87",
     "2405:201:2022:b81c:50ac:dd1c:4ed:bfb",
-    "2401:9640:801:8539:5859:9e2c:5f29:56d5"
+    "2401:9640:801:8539:5859:9e2c:5f29:56d5",
+    "2405:201:202d:d014:46f8:599c:be4c:fa3"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt7431994:1:1",
-      "title": "tt7431994:1:1",
-      "timestamp": "2026-01-18T02:31:09.571Z",
-      "ip": "2a02:9b0:106:3b5f:f034:57eb:a863:dd4c",
-      "username": "hoosa500"
-    },
-    {
-      "type": "movie",
-      "id": "tt5518128",
-      "title": "tt5518128",
-      "timestamp": "2026-01-18T02:32:16.531Z",
-      "ip": "103.46.200.248",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt0083578",
-      "title": "tt0083578",
-      "timestamp": "2026-01-18T02:32:33.270Z",
-      "ip": "103.46.200.248",
-      "username": "katdenningssss"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:1",
@@ -84214,6 +84191,30 @@
       "timestamp": "2026-02-01T19:00:27.952Z",
       "ip": "159.26.115.48",
       "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-01T19:05:58.894Z",
+      "ip": "115.187.38.42",
+      "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-01T19:18:43.455Z",
+      "ip": "2405:201:202d:d014:46f8:599c:be4c:fa3",
+      "username": "explorerindia"
+    },
+    {
+      "type": "movie",
+      "id": "tt30387012",
+      "title": "tt30387012",
+      "timestamp": "2026-02-01T19:19:39.311Z",
+      "ip": "2405:201:202d:d014:46f8:599c:be4c:fa3",
+      "username": "explorerindia"
     }
   ],
   "activeNow": {
@@ -84656,7 +84657,7 @@
       "id": "tt33014583",
       "title": "Dhurandhar",
       "username": "tgh2r",
-      "lastActive": 1769959807955
+      "lastActive": 1769972758894
     },
     "2401:4900:57f4:cf0f:e4fe:f1ff:fe20:c0d7": {
       "type": "series",
@@ -85140,6 +85141,13 @@
       "title": "Stranger Things",
       "username": "wwe",
       "lastActive": 1769972338156
+    },
+    "2405:201:202d:d014:46f8:599c:be4c:fa3": {
+      "type": "movie",
+      "id": "tt30387012",
+      "title": "tt30387012",
+      "username": "explorerindia",
+      "lastActive": 1769973579311
     }
   }
 }
