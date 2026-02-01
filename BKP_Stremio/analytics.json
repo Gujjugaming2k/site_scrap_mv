@@ -1,5 +1,5 @@
 {
-  "totalViews": 19619,
+  "totalViews": 19621,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4146,25 +4146,10 @@
     "157.48.83.94",
     "200.108.55.38",
     "2409:4085:ae8d:1b9b::e20b:ce0d",
-    "2a09:bac1:36c0:5e98::3e5:1c"
+    "2a09:bac1:36c0:5e98::3e5:1c",
+    "2409:40e5:1046:7359:4852:fb48:776e:3d9d"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1375670",
-      "title": "Grown Ups",
-      "timestamp": "2026-01-17T18:23:11.060Z",
-      "ip": "2401:4900:aac9:d47e:c9ce:4adf:e586:8ce2",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "series",
-      "id": "tt2293002:3:10",
-      "title": "tt2293002:3:10",
-      "timestamp": "2026-01-17T18:27:15.490Z",
-      "ip": "2a09:bac1:36a0:560::176:8d",
-      "username": "sinbad1722"
-    },
     {
       "type": "series",
       "id": "tt13706018:3:13",
@@ -84148,6 +84133,22 @@
       "timestamp": "2026-02-01T04:43:22.748Z",
       "ip": "103.24.85.19",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt0454921",
+      "title": "The Pursuit of Happyness",
+      "timestamp": "2026-02-01T04:56:04.409Z",
+      "ip": "2409:40e5:1046:7359:4852:fb48:776e:3d9d",
+      "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-02-01T05:05:35.606Z",
+      "ip": "43.231.236.82",
+      "username": "claw_of_beliar"
     }
   ],
   "activeNow": {
@@ -84542,6 +84543,20 @@
       "title": "Lost",
       "username": "aravindsivan",
       "lastActive": 1769920651887
+    },
+    "2409:40e5:1046:7359:4852:fb48:776e:3d9d": {
+      "type": "movie",
+      "id": "tt0454921",
+      "title": "The Pursuit of Happyness",
+      "username": "magicmannn",
+      "lastActive": 1769921764409
+    },
+    "43.231.236.82": {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "username": "claw_of_beliar",
+      "lastActive": 1769922335606
     }
   }
 }
