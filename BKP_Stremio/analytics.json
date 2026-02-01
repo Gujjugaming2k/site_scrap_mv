@@ -1,5 +1,5 @@
 {
-  "totalViews": 19581,
+  "totalViews": 19582,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4143,17 +4143,10 @@
     "190.250.251.84",
     "2401:4900:8833:9b3:8065:584:aeae:e36e",
     "49.37.10.225",
-    "157.48.83.94"
+    "157.48.83.94",
+    "200.108.55.38"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1760980",
-      "title": "tt1760980",
-      "timestamp": "2026-01-17T17:12:00.692Z",
-      "ip": "103.181.65.117",
-      "username": "mutti9"
-    },
     {
       "type": "movie",
       "id": "tt1760980",
@@ -84145,6 +84138,14 @@
       "timestamp": "2026-01-31T17:07:30.154Z",
       "ip": "157.48.83.94",
       "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt38990492:1:4",
+      "title": "tt38990492:1:4",
+      "timestamp": "2026-02-01T00:19:43.348Z",
+      "ip": "200.108.55.38",
+      "username": "ymcinema"
     }
   ],
   "activeNow": {
@@ -84504,6 +84505,13 @@
       "title": "JUJUTSU KAISEN",
       "username": "kdbotz",
       "lastActive": 1769879250154
+    },
+    "200.108.55.38": {
+      "type": "series",
+      "id": "tt38990492:1:4",
+      "title": "tt38990492:1:4",
+      "username": "ymcinema",
+      "lastActive": 1769905183348
     }
   }
 }
