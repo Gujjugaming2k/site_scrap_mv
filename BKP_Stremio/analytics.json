@@ -1,5 +1,5 @@
 {
-  "totalViews": 19946,
+  "totalViews": 19947,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4216,14 +4216,6 @@
     "2405:201:202d:d014:46f8:599c:be4c:fa3"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:6",
-      "title": "tt35335046:1:6",
-      "timestamp": "2026-01-18T04:15:10.747Z",
-      "ip": "103.181.126.106",
-      "username": "dilipc403"
-    },
     {
       "type": "series",
       "id": "tt12637874:2:1",
@@ -84215,6 +84207,14 @@
       "timestamp": "2026-02-01T22:27:13.662Z",
       "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
       "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt31974288:1:3",
+      "title": "tt31974288:1:3",
+      "timestamp": "2026-02-01T22:27:33.587Z",
+      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
+      "username": "anonymous_rare"
     }
   ],
   "activeNow": {
@@ -84682,10 +84682,10 @@
     },
     "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d": {
       "type": "series",
-      "id": "tt31974288:1:2",
-      "title": "tt31974288:1:2",
+      "id": "tt31974288:1:3",
+      "title": "tt31974288:1:3",
       "username": "anonymous_rare",
-      "lastActive": 1769984833662
+      "lastActive": 1769984853587
     },
     "2a09:bac5:40b1:1aaa::2a8:20": {
       "type": "movie",
