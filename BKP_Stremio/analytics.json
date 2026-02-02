@@ -1,5 +1,5 @@
 {
-  "totalViews": 20480,
+  "totalViews": 20486,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4281,57 +4281,11 @@
     "2409:40d4:4085:c089:8000::",
     "47.31.110.205",
     "122.179.83.162",
-    "103.181.65.57"
+    "103.181.65.57",
+    "2409:40d4:408f:df39:8000::",
+    "2401:4900:8ff2:1829:30b8:b830:c9f0:3ef8"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt15325794",
-      "title": "Fall",
-      "timestamp": "2026-01-18T12:30:17.395Z",
-      "ip": "152.59.164.19",
-      "username": "jinwoooooi"
-    },
-    {
-      "type": "series",
-      "id": "tt16085542:1:4",
-      "title": "tt16085542:1:4",
-      "timestamp": "2026-01-18T12:30:36.721Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt32537124:1:11",
-      "title": "tt32537124:1:11",
-      "timestamp": "2026-01-18T12:30:53.391Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt1475582:1:2",
-      "title": "tt1475582:1:2",
-      "timestamp": "2026-01-18T12:32:11.458Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "movie",
-      "id": "tt12300742",
-      "title": "Bugonia",
-      "timestamp": "2026-01-18T12:33:52.381Z",
-      "ip": "109.76.17.47",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt4712810",
-      "title": "tt4712810",
-      "timestamp": "2026-01-18T12:34:02.519Z",
-      "ip": "109.76.17.47",
-      "username": "vflix1993"
-    },
     {
       "type": "movie",
       "id": "tt7737786",
@@ -84283,6 +84237,54 @@
       "timestamp": "2026-02-02T18:21:00.935Z",
       "ip": "2401:4900:8ff2:1829:1432:291d:11bd:abcb",
       "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt21103218",
+      "title": "The Lost Bus",
+      "timestamp": "2026-02-02T18:23:45.447Z",
+      "ip": "2409:40d4:408f:df39:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt13433812:1:12",
+      "title": "Vincenzo",
+      "timestamp": "2026-02-02T18:24:20.150Z",
+      "ip": "2401:4900:8ff2:1829:30b8:b830:c9f0:3ef8",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt1799631:1:1",
+      "title": "tt1799631:1:1",
+      "timestamp": "2026-02-02T18:34:30.319Z",
+      "ip": "182.77.78.99",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt1799631:1:1",
+      "title": "tt1799631:1:1",
+      "timestamp": "2026-02-02T18:35:34.881Z",
+      "ip": "182.77.78.99",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt21066182:1:1",
+      "title": "tt21066182:1:1",
+      "timestamp": "2026-02-02T18:36:20.458Z",
+      "ip": "182.77.78.99",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt21066182:1:1",
+      "title": "tt21066182:1:1",
+      "timestamp": "2026-02-02T18:37:40.431Z",
+      "ip": "182.77.78.99",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -84364,11 +84366,11 @@
       "lastActive": 1769857965780
     },
     "182.77.78.99": {
-      "type": "movie",
-      "id": "tt14107334",
-      "title": "tt14107334",
+      "type": "series",
+      "id": "tt21066182:1:1",
+      "title": "tt21066182:1:1",
       "username": "theaceofficials",
-      "lastActive": 1770054708762
+      "lastActive": 1770057460431
     },
     "106.192.198.253": {
       "type": "series",
@@ -85727,6 +85729,20 @@
       "title": "tt35019998",
       "username": "mutti9",
       "lastActive": 1770056282226
+    },
+    "2409:40d4:408f:df39:8000::": {
+      "type": "movie",
+      "id": "tt21103218",
+      "title": "The Lost Bus",
+      "username": "kdbotz",
+      "lastActive": 1770056625447
+    },
+    "2401:4900:8ff2:1829:30b8:b830:c9f0:3ef8": {
+      "type": "series",
+      "id": "tt13433812:1:12",
+      "title": "Vincenzo",
+      "username": "theaceofficials",
+      "lastActive": 1770056660150
     }
   }
 }
