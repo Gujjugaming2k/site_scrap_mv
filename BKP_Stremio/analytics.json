@@ -1,5 +1,5 @@
 {
-  "totalViews": 20184,
+  "totalViews": 20185,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4239,14 +4239,6 @@
     "103.46.200.105"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12867810:1:2",
-      "title": "tt12867810:1:2",
-      "timestamp": "2026-01-18T09:43:11.877Z",
-      "ip": "2409:40c4:311c:ee1:a844:64ff:feb3:f777",
-      "username": "napsteerr"
-    },
     {
       "type": "series",
       "id": "tt35335046",
@@ -84238,6 +84230,14 @@
       "timestamp": "2026-02-02T11:20:23.090Z",
       "ip": "182.77.78.99",
       "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt28299608:1:1",
+      "title": "tt28299608:1:1",
+      "timestamp": "2026-02-02T11:34:01.314Z",
+      "ip": "182.77.78.99",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -84323,7 +84323,7 @@
       "id": "tt28299608:1:1",
       "title": "tt28299608:1:1",
       "username": "theaceofficials",
-      "lastActive": 1770031223090
+      "lastActive": 1770032041314
     },
     "106.192.198.253": {
       "type": "series",
