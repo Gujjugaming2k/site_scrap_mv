@@ -1,5 +1,5 @@
 {
-  "totalViews": 20000,
+  "totalViews": 20004,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4221,41 +4221,10 @@
     "2a09:bac5:40b4:1a96::2a6:20",
     "2401:4900:8fe0:9569:14a0:2fd2:1106:d08b",
     "2409:40e2:209a:d135:b952:7daa:12e9:c581",
-    "2401:4900:1cb2:f1f4:25cb:264:1d59:a034"
+    "2401:4900:1cb2:f1f4:25cb:264:1d59:a034",
+    "2409:40d2:3005:6b89:6c4e:71a8:f8f1:fbc6"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt6246322",
-      "title": "Don't Breathe 2",
-      "timestamp": "2026-01-18T05:29:18.144Z",
-      "ip": "2402:a00:10a:815f:607e:6b3e:c011:e646",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt36538449",
-      "title": "tt36538449",
-      "timestamp": "2026-01-18T05:30:23.660Z",
-      "ip": "2402:a00:10a:815f:607e:6b3e:c011:e646",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:22",
-      "title": "Death Note",
-      "timestamp": "2026-01-18T05:32:20.175Z",
-      "ip": "2409:40d4:40db:ad3e:c96c:5a2c:34ce:827a",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt36538449",
-      "title": "tt36538449",
-      "timestamp": "2026-01-18T05:32:51.483Z",
-      "ip": "2402:a00:10a:815f:607e:6b3e:c011:e646",
-      "username": "vflix1993"
-    },
     {
       "type": "movie",
       "id": "tt36538449",
@@ -84223,6 +84192,38 @@
       "timestamp": "2026-02-02T04:18:39.762Z",
       "ip": "103.46.200.212",
       "username": "katdenningssss"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:1:1",
+      "title": "Fallout",
+      "timestamp": "2026-02-02T04:50:57.278Z",
+      "ip": "2409:40d2:3005:6b89:6c4e:71a8:f8f1:fbc6",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt30293074:1:1",
+      "title": "tt30293074:1:1",
+      "timestamp": "2026-02-02T04:51:30.529Z",
+      "ip": "2409:40d2:3005:6b89:6c4e:71a8:f8f1:fbc6",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt10220588:1:1",
+      "title": "tt10220588:1:1",
+      "timestamp": "2026-02-02T04:52:27.021Z",
+      "ip": "2409:40d2:3005:6b89:6c4e:71a8:f8f1:fbc6",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt10220588:1:1",
+      "title": "tt10220588:1:1",
+      "timestamp": "2026-02-02T04:53:24.088Z",
+      "ip": "2409:40d2:3005:6b89:6c4e:71a8:f8f1:fbc6",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -85219,6 +85220,13 @@
       "title": "Mission: Impossible - The Final Reckoning",
       "username": "gary",
       "lastActive": 1770004342701
+    },
+    "2409:40d2:3005:6b89:6c4e:71a8:f8f1:fbc6": {
+      "type": "series",
+      "id": "tt10220588:1:1",
+      "title": "tt10220588:1:1",
+      "username": "saurabhkaperwan",
+      "lastActive": 1770008004088
     }
   }
 }
