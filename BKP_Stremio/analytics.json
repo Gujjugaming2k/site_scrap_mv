@@ -1,5 +1,5 @@
 {
-  "totalViews": 20004,
+  "totalViews": 20008,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4222,41 +4222,10 @@
     "2401:4900:8fe0:9569:14a0:2fd2:1106:d08b",
     "2409:40e2:209a:d135:b952:7daa:12e9:c581",
     "2401:4900:1cb2:f1f4:25cb:264:1d59:a034",
-    "2409:40d2:3005:6b89:6c4e:71a8:f8f1:fbc6"
+    "2409:40d2:3005:6b89:6c4e:71a8:f8f1:fbc6",
+    "2401:4900:1cb2:f1f4:b462:1c8c:d71d:9e8b"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt36538449",
-      "title": "tt36538449",
-      "timestamp": "2026-01-18T05:33:29.128Z",
-      "ip": "2402:a00:10a:815f:61b1:748d:45f0:6f68",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt36538449",
-      "title": "tt36538449",
-      "timestamp": "2026-01-18T05:33:52.263Z",
-      "ip": "2402:a00:10a:815f:607e:6b3e:c011:e646",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt4129428",
-      "title": "tt4129428",
-      "timestamp": "2026-01-18T05:35:30.365Z",
-      "ip": "2404:7c80:7c:bf51:2dd0:a603:d2b9:c043",
-      "username": "reaper54x"
-    },
-    {
-      "type": "movie",
-      "id": "tt4129428",
-      "title": "tt4129428",
-      "timestamp": "2026-01-18T05:36:09.322Z",
-      "ip": "2404:7c80:7c:bf51:2dd0:a603:d2b9:c043",
-      "username": "reaper54x"
-    },
     {
       "type": "movie",
       "id": "tt36538449",
@@ -84224,6 +84193,38 @@
       "timestamp": "2026-02-02T04:53:24.088Z",
       "ip": "2409:40d2:3005:6b89:6c4e:71a8:f8f1:fbc6",
       "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt8075260",
+      "title": "tt8075260",
+      "timestamp": "2026-02-02T05:00:24.595Z",
+      "ip": "103.46.200.212",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-02T05:01:01.494Z",
+      "ip": "103.46.200.212",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:6",
+      "title": "tt31844233:1:6",
+      "timestamp": "2026-02-02T05:02:38.369Z",
+      "ip": "2401:4900:1cb2:f1f4:b462:1c8c:d71d:9e8b",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:6",
+      "title": "tt31844233:1:6",
+      "timestamp": "2026-02-02T05:02:38.467Z",
+      "ip": "2401:4900:1cb2:f1f4:b462:1c8c:d71d:9e8b",
+      "username": "saisrinivas"
     }
   ],
   "activeNow": {
@@ -84971,10 +84972,10 @@
     },
     "103.46.200.212": {
       "type": "movie",
-      "id": "tt33825123",
-      "title": "tt33825123",
+      "id": "tt27543632",
+      "title": "tt27543632",
       "username": "katdenningssss",
-      "lastActive": 1770005919762
+      "lastActive": 1770008461494
     },
     "2405:201:2022:b81c:fda2:2:e772:26f7": {
       "type": "movie",
@@ -85227,6 +85228,13 @@
       "title": "tt10220588:1:1",
       "username": "saurabhkaperwan",
       "lastActive": 1770008004088
+    },
+    "2401:4900:1cb2:f1f4:b462:1c8c:d71d:9e8b": {
+      "type": "series",
+      "id": "tt31844233:1:6",
+      "title": "tt31844233:1:6",
+      "username": "saisrinivas",
+      "lastActive": 1770008558467
     }
   }
 }
