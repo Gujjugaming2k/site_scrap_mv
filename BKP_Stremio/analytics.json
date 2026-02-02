@@ -1,5 +1,5 @@
 {
-  "totalViews": 20494,
+  "totalViews": 20495,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4284,17 +4284,10 @@
     "103.181.65.57",
     "2409:40d4:408f:df39:8000::",
     "2401:4900:8ff2:1829:30b8:b830:c9f0:3ef8",
-    "182.77.78.33"
+    "182.77.78.33",
+    "2409:40d4:4:36de:2866:74ff:fe56:8005"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt15398776",
-      "title": "Oppenheimer",
-      "timestamp": "2026-01-18T12:38:19.827Z",
-      "ip": "111.92.74.105",
-      "username": "un0fficial_itachi"
-    },
     {
       "type": "series",
       "id": "tt10919420:1:1",
@@ -84286,6 +84279,14 @@
       "timestamp": "2026-02-02T19:33:13.415Z",
       "ip": "2401:4900:8ff2:1829:30b8:b830:c9f0:3ef8",
       "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:1",
+      "title": "tt1399664:1:1",
+      "timestamp": "2026-02-02T20:18:20.287Z",
+      "ip": "2409:40d4:4:36de:2866:74ff:fe56:8005",
+      "username": "golu_vk"
     }
   ],
   "activeNow": {
@@ -85751,6 +85752,13 @@
       "title": "Nosferatu",
       "username": "theaceofficials",
       "lastActive": 1770060041784
+    },
+    "2409:40d4:4:36de:2866:74ff:fe56:8005": {
+      "type": "series",
+      "id": "tt1399664:1:1",
+      "title": "tt1399664:1:1",
+      "username": "golu_vk",
+      "lastActive": 1770063500287
     }
   }
 }
