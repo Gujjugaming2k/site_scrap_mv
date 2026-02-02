@@ -1,5 +1,5 @@
 {
-  "totalViews": 20200,
+  "totalViews": 20201,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4241,17 +4241,10 @@
     "2401:4900:1cb2:f1f4:48dc:f87d:ec5f:f2e4",
     "2409:40e5:11fc:16d0:6099:9eff:fee2:4468",
     "2409:40d2:3052:4175:895f:8bb5:a2c3:afe5",
-    "2401:4900:b85:a848:3484:22fe:fea5:4ecb"
+    "2401:4900:b85:a848:3484:22fe:fea5:4ecb",
+    "2405:201:2022:b81c:f87d:4fab:85b1:3cd2"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt22001978",
-      "title": "tt22001978",
-      "timestamp": "2026-01-18T09:53:15.894Z",
-      "ip": "202.173.124.39",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "movie",
       "id": "tt22001978",
@@ -84243,6 +84236,14 @@
       "timestamp": "2026-02-02T12:37:44.086Z",
       "ip": "2401:4900:b85:a848:3484:22fe:fea5:4ecb",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-02-02T12:47:38.528Z",
+      "ip": "2405:201:2022:b81c:f87d:4fab:85b1:3cd2",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -85393,6 +85394,13 @@
       "title": "tt5332206:1:1",
       "username": "gaendaswami",
       "lastActive": 1770035864086
+    },
+    "2405:201:2022:b81c:f87d:4fab:85b1:3cd2": {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "username": "zealousninja",
+      "lastActive": 1770036458528
     }
   }
 }
