@@ -1,5 +1,5 @@
 {
-  "totalViews": 20228,
+  "totalViews": 20232,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4247,41 +4247,11 @@
     "2401:4900:1f29:a02f:c8e8:d752:90af:4b8d",
     "2402:8100:2714:2a76:f2f5:1140:c208:3396",
     "157.48.73.139",
-    "2409:40d4:408d:afd9:89c5:5c6a:60a9:907d"
+    "2409:40d4:408d:afd9:89c5:5c6a:60a9:907d",
+    "2402:8100:2771:a9e4:21ff:ebd:d5a5:4088",
+    "2401:4900:8825:786f:5935:c3a8:8440:6842"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt28262653:1:3",
-      "title": "tt28262653:1:3",
-      "timestamp": "2026-01-18T10:31:17.990Z",
-      "ip": "47.15.116.134",
-      "username": "demon18319"
-    },
-    {
-      "type": "movie",
-      "id": "tt10548174",
-      "title": "28 Years Later",
-      "timestamp": "2026-01-18T10:33:23.634Z",
-      "ip": "106.51.164.224",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt10548174",
-      "title": "28 Years Later",
-      "timestamp": "2026-01-18T10:33:23.681Z",
-      "ip": "106.51.164.224",
-      "username": "outuou"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:1",
-      "title": "Death Note",
-      "timestamp": "2026-01-18T10:45:59.602Z",
-      "ip": "106.222.216.167",
-      "username": "anonymous_rare"
-    },
     {
       "type": "movie",
       "id": "tt26443597",
@@ -84249,6 +84219,38 @@
       "timestamp": "2026-02-02T13:43:31.270Z",
       "ip": "2409:40d4:408d:afd9:89c5:5c6a:60a9:907d",
       "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:1",
+      "title": "tt19244304:1:1",
+      "timestamp": "2026-02-02T13:44:31.604Z",
+      "ip": "2402:8100:2771:a9e4:21ff:ebd:d5a5:4088",
+      "username": "sat5d"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:5",
+      "title": "tt6354518:2:5",
+      "timestamp": "2026-02-02T13:55:25.348Z",
+      "ip": "2401:4900:8825:786f:5935:c3a8:8440:6842",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt11032374",
+      "title": "tt11032374",
+      "timestamp": "2026-02-02T13:58:47.450Z",
+      "ip": "2401:4900:8825:786f:5935:c3a8:8440:6842",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt9335498:3:9",
+      "title": "tt9335498:3:9",
+      "timestamp": "2026-02-02T13:58:58.961Z",
+      "ip": "2401:4900:8825:786f:5935:c3a8:8440:6842",
+      "username": "sinbad1722"
     }
   ],
   "activeNow": {
@@ -85441,6 +85443,20 @@
       "title": "Spider-Man: Homecoming",
       "username": "kdbotz",
       "lastActive": 1770039811270
+    },
+    "2402:8100:2771:a9e4:21ff:ebd:d5a5:4088": {
+      "type": "series",
+      "id": "tt19244304:1:1",
+      "title": "tt19244304:1:1",
+      "username": "sat5d",
+      "lastActive": 1770039871604
+    },
+    "2401:4900:8825:786f:5935:c3a8:8440:6842": {
+      "type": "series",
+      "id": "tt9335498:3:9",
+      "title": "tt9335498:3:9",
+      "username": "sinbad1722",
+      "lastActive": 1770040738961
     }
   }
 }
