@@ -1,5 +1,5 @@
 {
-  "totalViews": 20008,
+  "totalViews": 20009,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4226,14 +4226,6 @@
     "2401:4900:1cb2:f1f4:b462:1c8c:d71d:9e8b"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt36538449",
-      "title": "tt36538449",
-      "timestamp": "2026-01-18T05:36:39.952Z",
-      "ip": "2402:a00:10a:815f:f42a:ae4e:41c3:5c7",
-      "username": "vflix1993"
-    },
     {
       "type": "series",
       "id": "tt22202452:1:8",
@@ -84225,6 +84217,14 @@
       "timestamp": "2026-02-02T05:02:38.467Z",
       "ip": "2401:4900:1cb2:f1f4:b462:1c8c:d71d:9e8b",
       "username": "saisrinivas"
+    },
+    {
+      "type": "series",
+      "id": "tt13433812:1:11",
+      "title": "Vincenzo",
+      "timestamp": "2026-02-02T05:14:07.358Z",
+      "ip": "2401:4900:8833:cecd:e4b2:fdc8:a251:576c",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -85084,10 +85084,10 @@
     },
     "2401:4900:8833:cecd:e4b2:fdc8:a251:576c": {
       "type": "series",
-      "id": "tt13433812:1:10",
+      "id": "tt13433812:1:11",
       "title": "Vincenzo",
       "username": "theaceofficials",
-      "lastActive": 1769970363780
+      "lastActive": 1770009247358
     },
     "159.26.115.48": {
       "type": "series",
