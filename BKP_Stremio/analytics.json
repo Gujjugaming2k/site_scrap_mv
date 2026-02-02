@@ -1,5 +1,5 @@
 {
-  "totalViews": 20179,
+  "totalViews": 20183,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4239,38 +4239,6 @@
     "103.46.200.105"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046",
-      "title": "tt35335046",
-      "timestamp": "2026-01-18T09:42:41.841Z",
-      "ip": "223.181.17.16",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "series",
-      "id": "tt37062070:1:2",
-      "title": "tt37062070:1:2",
-      "timestamp": "2026-01-18T09:42:51.167Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt37062070:1:1",
-      "title": "tt37062070:1:1",
-      "timestamp": "2026-01-18T09:42:54.920Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt37062070:1:1",
-      "title": "tt37062070:1:1",
-      "timestamp": "2026-01-18T09:42:58.587Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "series",
       "id": "tt35335046",
@@ -84238,6 +84206,38 @@
       "timestamp": "2026-02-02T10:37:51.907Z",
       "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
       "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt10919420:3:2",
+      "title": "tt10919420:3:2",
+      "timestamp": "2026-02-02T10:38:03.743Z",
+      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt10919420:3:2",
+      "title": "tt10919420:3:2",
+      "timestamp": "2026-02-02T10:38:11.640Z",
+      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt10919420:3:1",
+      "title": "tt10919420:3:1",
+      "timestamp": "2026-02-02T10:38:31.857Z",
+      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt10919420:3:2",
+      "title": "tt10919420:3:2",
+      "timestamp": "2026-02-02T10:38:51.574Z",
+      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
+      "username": "anonymous_rare"
     }
   ],
   "activeNow": {
@@ -84705,10 +84705,10 @@
     },
     "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d": {
       "type": "series",
-      "id": "tt10919420:3:1",
-      "title": "tt10919420:3:1",
+      "id": "tt10919420:3:2",
+      "title": "tt10919420:3:2",
       "username": "anonymous_rare",
-      "lastActive": 1770028671907
+      "lastActive": 1770028731574
     },
     "2a09:bac5:40b1:1aaa::2a8:20": {
       "type": "movie",
