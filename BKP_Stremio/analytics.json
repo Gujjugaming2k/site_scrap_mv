@@ -1,5 +1,5 @@
 {
-  "totalViews": 19984,
+  "totalViews": 19985,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4219,17 +4219,10 @@
     "2a09:bac5:40d4:2719::3e5:3",
     "27.6.92.204",
     "2a09:bac5:40b4:1a96::2a6:20",
-    "2401:4900:8fe0:9569:14a0:2fd2:1106:d08b"
+    "2401:4900:8fe0:9569:14a0:2fd2:1106:d08b",
+    "2409:40e2:209a:d135:b952:7daa:12e9:c581"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0106677",
-      "title": "tt0106677",
-      "timestamp": "2026-01-18T05:23:33.585Z",
-      "ip": "93.47.121.138",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt0120238",
@@ -84221,6 +84214,14 @@
       "timestamp": "2026-02-02T02:49:53.789Z",
       "ip": "2401:4900:8fe0:9569:14a0:2fd2:1106:d08b",
       "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-02T02:57:33.918Z",
+      "ip": "2409:40e2:209a:d135:b952:7daa:12e9:c581",
+      "username": "adr7000"
     }
   ],
   "activeNow": {
@@ -85196,6 +85197,13 @@
       "title": "Stranger Things",
       "username": "ashwanileon",
       "lastActive": 1770000593789
+    },
+    "2409:40e2:209a:d135:b952:7daa:12e9:c581": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "adr7000",
+      "lastActive": 1770001053918
     }
   }
 }
