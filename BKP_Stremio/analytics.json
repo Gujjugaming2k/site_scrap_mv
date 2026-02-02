@@ -1,5 +1,5 @@
 {
-  "totalViews": 20487,
+  "totalViews": 20489,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4286,22 +4286,6 @@
     "2401:4900:8ff2:1829:30b8:b830:c9f0:3ef8"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-18T12:36:23.546Z",
-      "ip": "111.92.74.105",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-18T12:36:30.029Z",
-      "ip": "111.92.74.105",
-      "username": "un0fficial_itachi"
-    },
     {
       "type": "movie",
       "id": "tt32916440",
@@ -84285,6 +84269,22 @@
       "timestamp": "2026-02-02T18:40:46.969Z",
       "ip": "2401:4900:8ff2:1829:30b8:b830:c9f0:3ef8",
       "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt13433812:1:13",
+      "title": "Vincenzo",
+      "timestamp": "2026-02-02T18:42:35.804Z",
+      "ip": "2401:4900:8ff2:1829:30b8:b830:c9f0:3ef8",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:2:22",
+      "title": "Lost",
+      "timestamp": "2026-02-02T18:43:21.551Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -84675,10 +84675,10 @@
     },
     "116.68.74.75": {
       "type": "series",
-      "id": "tt0411008:2:21",
+      "id": "tt0411008:2:22",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1770054853020
+      "lastActive": 1770057801551
     },
     "2409:40e5:1046:7359:4852:fb48:776e:3d9d": {
       "type": "movie",
@@ -85742,7 +85742,7 @@
       "id": "tt13433812:1:13",
       "title": "Vincenzo",
       "username": "theaceofficials",
-      "lastActive": 1770057646969
+      "lastActive": 1770057755804
     }
   }
 }
