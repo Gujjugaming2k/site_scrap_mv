@@ -1,5 +1,5 @@
 {
-  "totalViews": 20172,
+  "totalViews": 20179,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4235,65 +4235,10 @@
     "2409:40c4:3155:14ba:d07e:37ff:fe11:b3d4",
     "2401:4900:8ff2:1829:2424:2600:300c:5951",
     "2402:3a80:1981:b95f:178:5634:1232:5476",
-    "2402:8100:2759:7f0a:fdc7:4d5:9f07:bbdb"
+    "2402:8100:2759:7f0a:fdc7:4d5:9f07:bbdb",
+    "103.46.200.105"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-18T09:34:01.227Z",
-      "ip": "223.181.17.16",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-18T09:40:22.951Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt37062070:1:1",
-      "title": "tt37062070:1:1",
-      "timestamp": "2026-01-18T09:41:08.515Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt37062070:1:2",
-      "title": "tt37062070:1:2",
-      "timestamp": "2026-01-18T09:41:21.955Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt37062070:1:2",
-      "title": "tt37062070:1:2",
-      "timestamp": "2026-01-18T09:41:56.439Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt37062070:1:1",
-      "title": "tt37062070:1:1",
-      "timestamp": "2026-01-18T09:42:13.208Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt37062070:1:2",
-      "title": "tt37062070:1:2",
-      "timestamp": "2026-01-18T09:42:16.129Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "series",
       "id": "tt35335046",
@@ -84237,6 +84182,62 @@
       "timestamp": "2026-02-02T10:10:50.415Z",
       "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
       "username": "anonymous_rare"
+    },
+    {
+      "type": "movie",
+      "id": "tt30274401",
+      "title": "tt30274401",
+      "timestamp": "2026-02-02T10:30:15.335Z",
+      "ip": "103.46.200.105",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt10919420:3:2",
+      "title": "tt10919420:3:2",
+      "timestamp": "2026-02-02T10:31:43.335Z",
+      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt10919420:3:1",
+      "title": "tt10919420:3:1",
+      "timestamp": "2026-02-02T10:31:44.534Z",
+      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt10919420:3:3",
+      "title": "tt10919420:3:3",
+      "timestamp": "2026-02-02T10:32:03.039Z",
+      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt10919420:3:2",
+      "title": "tt10919420:3:2",
+      "timestamp": "2026-02-02T10:32:04.370Z",
+      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt10919420:3:1",
+      "title": "tt10919420:3:1",
+      "timestamp": "2026-02-02T10:37:44.506Z",
+      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
+      "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt10919420:3:1",
+      "title": "tt10919420:3:1",
+      "timestamp": "2026-02-02T10:37:51.907Z",
+      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
+      "username": "anonymous_rare"
     }
   ],
   "activeNow": {
@@ -84704,10 +84705,10 @@
     },
     "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d": {
       "type": "series",
-      "id": "tt10919420:3:4",
-      "title": "tt10919420:3:4",
+      "id": "tt10919420:3:1",
+      "title": "tt10919420:3:1",
       "username": "anonymous_rare",
-      "lastActive": 1770027050415
+      "lastActive": 1770028671907
     },
     "2a09:bac5:40b1:1aaa::2a8:20": {
       "type": "movie",
@@ -85338,6 +85339,13 @@
       "title": "tt3032476:1:2",
       "username": "sat5d",
       "lastActive": 1770026172551
+    },
+    "103.46.200.105": {
+      "type": "movie",
+      "id": "tt30274401",
+      "title": "tt30274401",
+      "username": "brosportses",
+      "lastActive": 1770028215335
     }
   }
 }
