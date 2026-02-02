@@ -1,5 +1,5 @@
 {
-  "totalViews": 20198,
+  "totalViews": 20200,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4240,25 +4240,10 @@
     "2401:4900:1f29:a02f:f926:4acc:5225:3d2e",
     "2401:4900:1cb2:f1f4:48dc:f87d:ec5f:f2e4",
     "2409:40e5:11fc:16d0:6099:9eff:fee2:4468",
-    "2409:40d2:3052:4175:895f:8bb5:a2c3:afe5"
+    "2409:40d2:3052:4175:895f:8bb5:a2c3:afe5",
+    "2401:4900:b85:a848:3484:22fe:fea5:4ecb"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12867810:1:3",
-      "title": "tt12867810:1:3",
-      "timestamp": "2026-01-18T09:51:06.741Z",
-      "ip": "2409:40c4:311c:ee1:a844:64ff:feb3:f777",
-      "username": "napsteerr"
-    },
-    {
-      "type": "series",
-      "id": "tt12867810:1:4",
-      "title": "tt12867810:1:4",
-      "timestamp": "2026-01-18T09:51:08.826Z",
-      "ip": "2409:40c4:311c:ee1:a844:64ff:feb3:f777",
-      "username": "napsteerr"
-    },
     {
       "type": "movie",
       "id": "tt22001978",
@@ -84242,6 +84227,22 @@
       "timestamp": "2026-02-02T12:15:15.276Z",
       "ip": "2409:40d2:3052:4175:895f:8bb5:a2c3:afe5",
       "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt5332206:1:1",
+      "title": "tt5332206:1:1",
+      "timestamp": "2026-02-02T12:36:14.682Z",
+      "ip": "2401:4900:b85:a848:3484:22fe:fea5:4ecb",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt5332206:1:1",
+      "title": "tt5332206:1:1",
+      "timestamp": "2026-02-02T12:37:44.086Z",
+      "ip": "2401:4900:b85:a848:3484:22fe:fea5:4ecb",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -85385,6 +85386,13 @@
       "title": "tt38973594:1:1",
       "username": "saurabhkaperwan",
       "lastActive": 1770034515276
+    },
+    "2401:4900:b85:a848:3484:22fe:fea5:4ecb": {
+      "type": "series",
+      "id": "tt5332206:1:1",
+      "title": "tt5332206:1:1",
+      "username": "gaendaswami",
+      "lastActive": 1770035864086
     }
   }
 }
