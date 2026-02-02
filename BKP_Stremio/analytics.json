@@ -1,5 +1,5 @@
 {
-  "totalViews": 20015,
+  "totalViews": 20019,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4223,41 +4223,10 @@
     "2409:40e2:209a:d135:b952:7daa:12e9:c581",
     "2401:4900:1cb2:f1f4:25cb:264:1d59:a034",
     "2409:40d2:3005:6b89:6c4e:71a8:f8f1:fbc6",
-    "2401:4900:1cb2:f1f4:b462:1c8c:d71d:9e8b"
+    "2401:4900:1cb2:f1f4:b462:1c8c:d71d:9e8b",
+    "122.168.7.244"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt17526714",
-      "title": "The Substance",
-      "timestamp": "2026-01-18T05:54:15.732Z",
-      "ip": "146.196.32.227",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-18T05:56:43.400Z",
-      "ip": "43.248.152.196",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-18T06:09:29.982Z",
-      "ip": "111.92.74.105",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "series",
-      "id": "tt22202452:1:8",
-      "title": "tt22202452:1:8",
-      "timestamp": "2026-01-18T06:09:30.093Z",
-      "ip": "170.238.46.194",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt33035373:1:1",
@@ -84225,6 +84194,38 @@
       "timestamp": "2026-02-02T05:36:46.892Z",
       "ip": "103.46.200.212",
       "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt0465140",
+      "title": "tt0465140",
+      "timestamp": "2026-02-02T05:57:28.329Z",
+      "ip": "103.46.200.212",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt1740724",
+      "title": "tt1740724",
+      "timestamp": "2026-02-02T05:57:41.590Z",
+      "ip": "103.46.200.212",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt2653262",
+      "title": "tt2653262",
+      "timestamp": "2026-02-02T05:58:09.142Z",
+      "ip": "103.46.200.212",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt13433812:1:11",
+      "title": "Vincenzo",
+      "timestamp": "2026-02-02T05:58:56.930Z",
+      "ip": "122.168.7.244",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -84972,10 +84973,10 @@
     },
     "103.46.200.212": {
       "type": "movie",
-      "id": "tt39319989",
-      "title": "tt39319989",
-      "username": "katdenningssss",
-      "lastActive": 1770010606892
+      "id": "tt2653262",
+      "title": "tt2653262",
+      "username": "brosportses",
+      "lastActive": 1770011889142
     },
     "2405:201:2022:b81c:fda2:2:e772:26f7": {
       "type": "movie",
@@ -85235,6 +85236,13 @@
       "title": "tt31844233:1:6",
       "username": "saisrinivas",
       "lastActive": 1770008558467
+    },
+    "122.168.7.244": {
+      "type": "series",
+      "id": "tt13433812:1:11",
+      "title": "Vincenzo",
+      "username": "theaceofficials",
+      "lastActive": 1770011936930
     }
   }
 }
