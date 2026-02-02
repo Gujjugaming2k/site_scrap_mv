@@ -1,5 +1,5 @@
 {
-  "totalViews": 20486,
+  "totalViews": 20487,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4286,14 +4286,6 @@
     "2401:4900:8ff2:1829:30b8:b830:c9f0:3ef8"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt7737786",
-      "title": "Greenland",
-      "timestamp": "2026-01-18T12:34:06.057Z",
-      "ip": "109.76.17.47",
-      "username": "vflix1993"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:1",
@@ -84285,6 +84277,14 @@
       "timestamp": "2026-02-02T18:37:40.431Z",
       "ip": "182.77.78.99",
       "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt13433812:1:13",
+      "title": "Vincenzo",
+      "timestamp": "2026-02-02T18:40:46.969Z",
+      "ip": "2401:4900:8ff2:1829:30b8:b830:c9f0:3ef8",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -85739,10 +85739,10 @@
     },
     "2401:4900:8ff2:1829:30b8:b830:c9f0:3ef8": {
       "type": "series",
-      "id": "tt13433812:1:12",
+      "id": "tt13433812:1:13",
       "title": "Vincenzo",
       "username": "theaceofficials",
-      "lastActive": 1770056660150
+      "lastActive": 1770057646969
     }
   }
 }
