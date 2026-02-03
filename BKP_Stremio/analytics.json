@@ -1,5 +1,5 @@
 {
-  "totalViews": 20500,
+  "totalViews": 20503,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4286,33 +4286,10 @@
     "2401:4900:8ff2:1829:30b8:b830:c9f0:3ef8",
     "182.77.78.33",
     "2409:40d4:4:36de:2866:74ff:fe56:8005",
-    "2401:4900:8825:312c:99e2:4ef7:2771:7501"
+    "2401:4900:8825:312c:99e2:4ef7:2771:7501",
+    "2401:4900:3c8c:762f:8470:31ff:fe47:c24f"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt2055709",
-      "title": "tt2055709",
-      "timestamp": "2026-01-18T12:41:11.155Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:1",
-      "title": "Death Note",
-      "timestamp": "2026-01-18T12:44:17.798Z",
-      "ip": "106.222.216.167",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt3659388",
-      "title": "tt3659388",
-      "timestamp": "2026-01-18T12:44:29.360Z",
-      "ip": "2a09:bac5:3af5:11c3::1c5:3c",
-      "username": "switchoff009"
-    },
     {
       "type": "movie",
       "id": "tt21810110",
@@ -84288,6 +84265,30 @@
       "timestamp": "2026-02-02T22:18:20.972Z",
       "ip": "2401:4900:8825:312c:99e2:4ef7:2771:7501",
       "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt39137681:1:8",
+      "title": "tt39137681:1:8",
+      "timestamp": "2026-02-03T03:50:29.845Z",
+      "ip": "2401:4900:3c8c:762f:8470:31ff:fe47:c24f",
+      "username": "adshoyi"
+    },
+    {
+      "type": "series",
+      "id": "tt39137681:1:9",
+      "title": "tt39137681:1:9",
+      "timestamp": "2026-02-03T03:50:54.224Z",
+      "ip": "2401:4900:3c8c:762f:8470:31ff:fe47:c24f",
+      "username": "adshoyi"
+    },
+    {
+      "type": "series",
+      "id": "tt39137681:1:10",
+      "title": "tt39137681:1:10",
+      "timestamp": "2026-02-03T03:51:01.967Z",
+      "ip": "2401:4900:3c8c:762f:8470:31ff:fe47:c24f",
+      "username": "adshoyi"
     }
   ],
   "activeNow": {
@@ -85767,6 +85768,13 @@
       "title": "tt6354518:2:9",
       "username": "sinbad1722",
       "lastActive": 1770070700972
+    },
+    "2401:4900:3c8c:762f:8470:31ff:fe47:c24f": {
+      "type": "series",
+      "id": "tt39137681:1:10",
+      "title": "tt39137681:1:10",
+      "username": "adshoyi",
+      "lastActive": 1770090661967
     }
   }
 }
