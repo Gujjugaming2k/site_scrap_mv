@@ -1,5 +1,5 @@
 {
-  "totalViews": 20611,
+  "totalViews": 20614,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4309,33 +4309,11 @@
     "2402:8100:2701:e7a7:312a:23e2:4f5c:b2c6",
     "2a09:bac5:3b23:11cd::1c6:a",
     "2409:40d4:4012:ca1f:8000::",
-    "2401:4900:1f29:a02f:bda2:2907:d579:b3c7"
+    "2401:4900:1f29:a02f:bda2:2907:d579:b3c7",
+    "122.168.5.233",
+    "2409:40f0:2412:a54:ccfc:5cff:fef0:14a1"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt2055709",
-      "title": "tt2055709",
-      "timestamp": "2026-01-18T14:49:15.886Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt32141377",
-      "title": "tt32141377",
-      "timestamp": "2026-01-18T14:53:43.077Z",
-      "ip": "103.181.65.117",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32141377",
-      "title": "tt32141377",
-      "timestamp": "2026-01-18T14:53:43.122Z",
-      "ip": "103.181.65.117",
-      "username": "mutti9"
-    },
     {
       "type": "movie",
       "id": "tt32642706",
@@ -84311,15 +84289,39 @@
       "timestamp": "2026-02-03T12:46:56.904Z",
       "ip": "2401:4900:1f29:a02f:bda2:2907:d579:b3c7",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-03T13:19:00.142Z",
+      "ip": "182.69.180.214",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt13433812:1:15",
+      "title": "Vincenzo",
+      "timestamp": "2026-02-03T13:19:08.350Z",
+      "ip": "122.168.5.233",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt3566834",
+      "title": "A Minecraft Movie",
+      "timestamp": "2026-02-03T13:19:43.772Z",
+      "ip": "2409:40f0:2412:a54:ccfc:5cff:fef0:14a1",
+      "username": "sachinprem1"
     }
   ],
   "activeNow": {
     "182.69.180.214": {
       "type": "movie",
-      "id": "tt8144834",
-      "title": "tt8144834",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770060258947
+      "lastActive": 1770124740142
     },
     "2001:4490:4e65:825d:77:7056:26:8e31": {
       "type": "movie",
@@ -85958,6 +85960,20 @@
       "title": "tt0118751",
       "username": "gaendaswami",
       "lastActive": 1770122816904
+    },
+    "122.168.5.233": {
+      "type": "series",
+      "id": "tt13433812:1:15",
+      "title": "Vincenzo",
+      "username": "theaceofficials",
+      "lastActive": 1770124748350
+    },
+    "2409:40f0:2412:a54:ccfc:5cff:fef0:14a1": {
+      "type": "movie",
+      "id": "tt3566834",
+      "title": "A Minecraft Movie",
+      "username": "sachinprem1",
+      "lastActive": 1770124783772
     }
   }
 }
