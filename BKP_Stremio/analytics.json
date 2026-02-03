@@ -1,5 +1,5 @@
 {
-  "totalViews": 20559,
+  "totalViews": 20565,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4305,54 +4305,6 @@
     "2401:4900:8f60:5fe8:7c74:e2d6:ebd7:e9ef"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30818815",
-      "title": "tt30818815",
-      "timestamp": "2026-01-18T13:16:03.668Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "movie",
-      "id": "tt12850062",
-      "title": "tt12850062",
-      "timestamp": "2026-01-18T13:19:06.464Z",
-      "ip": "2409:40e0:1042:f8a0:d4b3:47a3:71d5:62f6",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "movie",
-      "id": "tt2643796",
-      "title": "Crayon Shin-chan: Great Adventure In Henderland",
-      "timestamp": "2026-01-18T13:20:14.900Z",
-      "ip": "2409:40e0:1042:f8a0:d4b3:47a3:71d5:62f6",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "movie",
-      "id": "tt4788606",
-      "title": "tt4788606",
-      "timestamp": "2026-01-18T13:20:42.035Z",
-      "ip": "2409:40e0:1042:f8a0:d4b3:47a3:71d5:62f6",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "movie",
-      "id": "tt4691348",
-      "title": "tt4691348",
-      "timestamp": "2026-01-18T13:20:46.993Z",
-      "ip": "2409:40e0:1042:f8a0:d4b3:47a3:71d5:62f6",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "movie",
-      "id": "tt4691348",
-      "title": "tt4691348",
-      "timestamp": "2026-01-18T13:21:11.341Z",
-      "ip": "2409:40e0:1042:f8a0:d4b3:47a3:71d5:62f6",
-      "username": "nobody_ismy_name"
-    },
     {
       "type": "movie",
       "id": "tt0816692",
@@ -84304,6 +84256,54 @@
       "timestamp": "2026-02-03T09:21:59.381Z",
       "ip": "119.42.59.126",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt6988116",
+      "title": "tt6988116",
+      "timestamp": "2026-02-03T09:43:35.397Z",
+      "ip": "2401:4900:8f60:5fe8:7c74:e2d6:ebd7:e9ef",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt6723592",
+      "title": "Tenet",
+      "timestamp": "2026-02-03T09:45:03.659Z",
+      "ip": "2401:4900:8f60:5fe8:7c74:e2d6:ebd7:e9ef",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt8983202",
+      "title": "tt8983202",
+      "timestamp": "2026-02-03T09:45:58.119Z",
+      "ip": "2401:4900:8f60:5fe8:7c74:e2d6:ebd7:e9ef",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt7294534",
+      "title": "tt7294534",
+      "timestamp": "2026-02-03T09:46:34.291Z",
+      "ip": "2401:4900:8f60:5fe8:7c74:e2d6:ebd7:e9ef",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt11230982:1:1",
+      "title": "tt11230982:1:1",
+      "timestamp": "2026-02-03T09:50:14.743Z",
+      "ip": "2401:4900:8f60:5fe8:7c74:e2d6:ebd7:e9ef",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-02-03T09:56:18.011Z",
+      "ip": "202.88.248.12",
+      "username": "deepak"
     }
   ],
   "activeNow": {
@@ -85680,11 +85680,11 @@
       "lastActive": 1770051892056
     },
     "202.88.248.12": {
-      "type": "series",
-      "id": "tt34683290:1:7",
-      "title": "tt34683290:1:7",
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
       "username": "deepak",
-      "lastActive": 1770052309034
+      "lastActive": 1770112578011
     },
     "2409:40d4:408d:afd9:f45a:bd5c:872f:89e9": {
       "type": "movie",
@@ -85890,11 +85890,11 @@
       "lastActive": 1770109248677
     },
     "2401:4900:8f60:5fe8:7c74:e2d6:ebd7:e9ef": {
-      "type": "movie",
-      "id": "tt2178470",
-      "title": "tt2178470",
+      "type": "series",
+      "id": "tt11230982:1:1",
+      "title": "tt11230982:1:1",
       "username": "theaceofficials",
-      "lastActive": 1770110393173
+      "lastActive": 1770112214743
     }
   }
 }
