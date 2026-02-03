@@ -1,5 +1,5 @@
 {
-  "totalViews": 20670,
+  "totalViews": 20675,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4330,49 +4330,11 @@
     "2409:40d4:408c:152b:8000::",
     "47.31.84.106",
     "45.8.19.82",
-    "2409:40e5:105c:44c7:b9ef:63ec:2880:336"
+    "2409:40e5:105c:44c7:b9ef:63ec:2880:336",
+    "2409:40e5:20c2:df3d:549c:3ff:fe75:3ffd",
+    "103.24.85.97"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2580046:5:1",
-      "title": "tt2580046:5:1",
-      "timestamp": "2026-01-18T15:14:03.169Z",
-      "ip": "2409:40e4:10a1:a8a9:39e5:35ff:968e:ba70",
-      "username": "askchm"
-    },
-    {
-      "type": "movie",
-      "id": "tt26443597",
-      "title": "tt26443597",
-      "timestamp": "2026-01-18T15:18:13.024Z",
-      "ip": "152.59.143.236",
-      "username": "askchm"
-    },
-    {
-      "type": "series",
-      "id": "tt38990492:1:6",
-      "title": "tt38990492:1:6",
-      "timestamp": "2026-01-18T15:22:12.890Z",
-      "ip": "109.76.17.47",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt12300742",
-      "title": "Bugonia",
-      "timestamp": "2026-01-18T15:24:04.798Z",
-      "ip": "205.254.185.192",
-      "username": "space_forca"
-    },
-    {
-      "type": "series",
-      "id": "tt32537124:1:14",
-      "title": "tt32537124:1:14",
-      "timestamp": "2026-01-18T15:26:03.605Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "movie",
       "id": "tt32245870",
@@ -84332,6 +84294,46 @@
       "timestamp": "2026-02-03T15:55:55.708Z",
       "ip": "38.224.232.52",
       "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt3741834",
+      "title": "tt3741834",
+      "timestamp": "2026-02-03T16:00:37.419Z",
+      "ip": "47.31.84.106",
+      "username": "magicmannn"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "timestamp": "2026-02-03T16:01:58.462Z",
+      "ip": "2409:40e5:20c2:df3d:549c:3ff:fe75:3ffd",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-02-03T16:01:59.957Z",
+      "ip": "2409:40e5:20c2:df3d:549c:3ff:fe75:3ffd",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt29638896",
+      "title": "tt29638896",
+      "timestamp": "2026-02-03T16:10:13.589Z",
+      "ip": "103.24.85.97",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt39049192",
+      "title": "tt39049192",
+      "timestamp": "2026-02-03T16:11:02.551Z",
+      "ip": "2409:40e4:10bc:3df3:69b4:ca2b:c48d:ce10",
+      "username": "adshoyi"
     }
   ],
   "activeNow": {
@@ -86072,11 +86074,11 @@
       "lastActive": 1770129801637
     },
     "2409:40e4:10bc:3df3:69b4:ca2b:c48d:ce10": {
-      "type": "series",
-      "id": "tt33035373:1:1",
-      "title": "tt33035373:1:1",
+      "type": "movie",
+      "id": "tt39049192",
+      "title": "tt39049192",
       "username": "adshoyi",
-      "lastActive": 1770129928178
+      "lastActive": 1770135062551
     },
     "2409:40d2:300e:307c:7025:3b1c:1edd:4358": {
       "type": "movie",
@@ -86108,10 +86110,10 @@
     },
     "47.31.84.106": {
       "type": "movie",
-      "id": "tt0454921",
-      "title": "The Pursuit of Happyness",
+      "id": "tt3741834",
+      "title": "tt3741834",
       "username": "magicmannn",
-      "lastActive": 1770131728715
+      "lastActive": 1770134437419
     },
     "45.8.19.82": {
       "type": "movie",
@@ -86126,6 +86128,20 @@
       "title": "tt3741834",
       "username": "magicmannn",
       "lastActive": 1770133992922
+    },
+    "2409:40e5:20c2:df3d:549c:3ff:fe75:3ffd": {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "username": "cyberboy12321",
+      "lastActive": 1770134519957
+    },
+    "103.24.85.97": {
+      "type": "movie",
+      "id": "tt29638896",
+      "title": "tt29638896",
+      "username": "william097",
+      "lastActive": 1770135013589
     }
   }
 }
