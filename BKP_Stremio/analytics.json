@@ -1,5 +1,5 @@
 {
-  "totalViews": 20581,
+  "totalViews": 20584,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4309,30 +4309,6 @@
     "2402:8100:2701:e7a7:312a:23e2:4f5c:b2c6"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt13706018:3:7",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-01-18T14:05:30.585Z",
-      "ip": "103.249.4.60",
-      "username": "tgh2r"
-    },
-    {
-      "type": "series",
-      "id": "tt13706018:3:8",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-01-18T14:05:53.977Z",
-      "ip": "103.249.4.60",
-      "username": "tgh2r"
-    },
-    {
-      "type": "series",
-      "id": "tt13706018:3:9",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-01-18T14:06:52.899Z",
-      "ip": "103.249.4.60",
-      "username": "tgh2r"
-    },
     {
       "type": "series",
       "id": "tt0386676:1:1",
@@ -84308,6 +84284,30 @@
       "timestamp": "2026-02-03T10:43:17.793Z",
       "ip": "106.222.216.176",
       "username": "anonymous_rare"
+    },
+    {
+      "type": "series",
+      "id": "tt6077448:1:2",
+      "title": "tt6077448:1:2",
+      "timestamp": "2026-02-03T10:45:40.475Z",
+      "ip": "2402:8100:2701:e7a7:312a:23e2:4f5c:b2c6",
+      "username": "harshra9999"
+    },
+    {
+      "type": "series",
+      "id": "tt6077448:1:1",
+      "title": "tt6077448:1:1",
+      "timestamp": "2026-02-03T10:45:47.774Z",
+      "ip": "2402:8100:2701:e7a7:312a:23e2:4f5c:b2c6",
+      "username": "harshra9999"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-03T10:56:42.385Z",
+      "ip": "38.224.232.52",
+      "username": "thala_75"
     }
   ],
   "activeNow": {
@@ -85639,7 +85639,7 @@
       "id": "tt33014583",
       "title": "Dhurandhar",
       "username": "thala_75",
-      "lastActive": 1770105898188
+      "lastActive": 1770116202385
     },
     "103.24.85.17": {
       "type": "movie",
@@ -85923,10 +85923,10 @@
     },
     "2402:8100:2701:e7a7:312a:23e2:4f5c:b2c6": {
       "type": "series",
-      "id": "tt6077448:1:2",
-      "title": "tt6077448:1:2",
+      "id": "tt6077448:1:1",
+      "title": "tt6077448:1:1",
       "username": "harshra9999",
-      "lastActive": 1770115396434
+      "lastActive": 1770115547774
     }
   }
 }
