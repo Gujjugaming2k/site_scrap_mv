@@ -1,5 +1,5 @@
 {
-  "totalViews": 20518,
+  "totalViews": 20519,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4291,17 +4291,10 @@
     "223.185.21.192",
     "2401:4900:8ff2:1829:8d19:d741:e40a:bf3",
     "2401:4900:1cb1:bcc6:d5a:4c9:72da:3c9e",
-    "2401:4900:ac04:8d51:9cef:d14d:2885:5a15"
+    "2401:4900:ac04:8d51:9cef:d14d:2885:5a15",
+    "2409:40d2:3059:edf1:51c1:95fa:903e:a622"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt36956670",
-      "title": "tt36956670",
-      "timestamp": "2026-01-18T12:58:48.467Z",
-      "ip": "27.60.139.22",
-      "username": "manaspatra"
-    },
     {
       "type": "series",
       "id": "tt12343534:3:1",
@@ -84293,6 +84286,14 @@
       "timestamp": "2026-02-03T05:16:25.304Z",
       "ip": "103.46.200.105",
       "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-02-03T05:40:43.671Z",
+      "ip": "2409:40d2:3059:edf1:51c1:95fa:903e:a622",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -85807,6 +85808,13 @@
       "title": "tt39393261:1:2",
       "username": "vflix1993",
       "lastActive": 1770095130118
+    },
+    "2409:40d2:3059:edf1:51c1:95fa:903e:a622": {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "username": "saurabhkaperwan",
+      "lastActive": 1770097243671
     }
   }
 }
