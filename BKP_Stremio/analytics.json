@@ -1,5 +1,5 @@
 {
-  "totalViews": 20634,
+  "totalViews": 20639,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4320,49 +4320,10 @@
     "2406:b400:1a:8c9a:a27:a8ff:fe42:855e",
     "2401:4900:8ff2:1829:5d25:eb76:ebc2:3c5a",
     "216.73.160.137",
-    "103.70.146.162"
+    "103.70.146.162",
+    "223.181.103.142"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12343534:3:4",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-18T15:02:09.712Z",
-      "ip": "146.196.32.227",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt39139925",
-      "title": "tt39139925",
-      "timestamp": "2026-01-18T15:02:25.169Z",
-      "ip": "2401:4900:8fda:e871:3158:adbd:3bb8:dfc8",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "movie",
-      "id": "tt0768171",
-      "title": "tt0768171",
-      "timestamp": "2026-01-18T15:02:26.974Z",
-      "ip": "103.46.200.248",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:3:4",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-18T15:02:28.905Z",
-      "ip": "146.196.32.227",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt0293734:1:1",
-      "title": "tt0293734:1:1",
-      "timestamp": "2026-01-18T15:02:35.435Z",
-      "ip": "2409:40f3:2006:2a4b:ad9a:6064:ddb8:6f6d",
-      "username": "goatedbentennyson"
-    },
     {
       "type": "series",
       "id": "tt12343534:3:4",
@@ -84322,6 +84283,46 @@
       "timestamp": "2026-02-03T14:02:09.419Z",
       "ip": "103.70.146.162",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:6",
+      "title": "tt30003786:4:6",
+      "timestamp": "2026-02-03T14:21:44.030Z",
+      "ip": "119.42.59.126",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:7",
+      "title": "tt30003786:4:7",
+      "timestamp": "2026-02-03T14:21:53.872Z",
+      "ip": "119.42.59.126",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:8",
+      "title": "tt30003786:4:8",
+      "timestamp": "2026-02-03T14:22:16.173Z",
+      "ip": "119.42.59.126",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "timestamp": "2026-02-03T14:34:49.534Z",
+      "ip": "223.181.103.142",
+      "username": "baljeet_002"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:2",
+      "title": "tt31844233:1:2",
+      "timestamp": "2026-02-03T14:35:17.512Z",
+      "ip": "223.181.103.142",
+      "username": "baljeet_002"
     }
   ],
   "activeNow": {
@@ -85895,10 +85896,10 @@
     },
     "119.42.59.126": {
       "type": "series",
-      "id": "tt30003786:4:6",
-      "title": "tt30003786:4:6",
+      "id": "tt30003786:4:8",
+      "title": "tt30003786:4:8",
       "username": "gaendaswami",
-      "lastActive": 1770110519381
+      "lastActive": 1770128536173
     },
     "2402:3a80:4308:3753:378:5634:1232:5476": {
       "type": "series",
@@ -86046,6 +86047,13 @@
       "title": "tt30387012",
       "username": "gaendaswami",
       "lastActive": 1770127329419
+    },
+    "223.181.103.142": {
+      "type": "series",
+      "id": "tt31844233:1:2",
+      "title": "tt31844233:1:2",
+      "username": "baljeet_002",
+      "lastActive": 1770129317512
     }
   }
 }
