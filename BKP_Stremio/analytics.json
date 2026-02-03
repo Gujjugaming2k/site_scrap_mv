@@ -1,5 +1,5 @@
 {
-  "totalViews": 20643,
+  "totalViews": 20646,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4324,33 +4324,10 @@
     "223.181.103.142",
     "216.73.160.141",
     "2409:40e4:10bc:3df3:69b4:ca2b:c48d:ce10",
-    "2409:40d2:300e:307c:7025:3b1c:1edd:4358"
+    "2409:40d2:300e:307c:7025:3b1c:1edd:4358",
+    "2401:4900:88ba:65a9:cbeb:75b6:32b7:1c3f"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0768171",
-      "title": "tt0768171",
-      "timestamp": "2026-01-18T15:02:57.924Z",
-      "ip": "103.46.200.248",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "series",
-      "id": "tt0293734:1:1",
-      "title": "tt0293734:1:1",
-      "timestamp": "2026-01-18T15:03:27.886Z",
-      "ip": "2409:40f3:2006:2a4b:ad9a:6064:ddb8:6f6d",
-      "username": "goatedbentennyson"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
-      "timestamp": "2026-01-18T15:03:37.606Z",
-      "ip": "2401:4900:8fda:e871:3158:adbd:3bb8:dfc8",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "movie",
       "id": "tt0089304",
@@ -84326,6 +84303,30 @@
       "timestamp": "2026-02-03T14:48:44.868Z",
       "ip": "2409:40d2:300e:307c:7025:3b1c:1edd:4358",
       "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt5215952",
+      "title": "tt5215952",
+      "timestamp": "2026-02-03T14:56:01.977Z",
+      "ip": "103.46.200.105",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt27828550",
+      "title": "tt27828550",
+      "timestamp": "2026-02-03T14:57:31.413Z",
+      "ip": "103.46.200.105",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-02-03T15:05:35.031Z",
+      "ip": "2401:4900:88ba:65a9:cbeb:75b6:32b7:1c3f",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -85430,10 +85431,10 @@
     },
     "103.46.200.105": {
       "type": "movie",
-      "id": "tt0353969",
-      "title": "tt0353969",
-      "username": "katdenningssss",
-      "lastActive": 1770121978439
+      "id": "tt27828550",
+      "title": "tt27828550",
+      "username": "brosportses",
+      "lastActive": 1770130651413
     },
     "2401:4900:1f29:a02f:f926:4acc:5225:3d2e": {
       "type": "series",
@@ -86078,6 +86079,13 @@
       "title": "Sinners",
       "username": "saurabhkaperwan",
       "lastActive": 1770130124868
+    },
+    "2401:4900:88ba:65a9:cbeb:75b6:32b7:1c3f": {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "username": "b1jju",
+      "lastActive": 1770131135031
     }
   }
 }
