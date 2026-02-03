@@ -1,5 +1,5 @@
 {
-  "totalViews": 20539,
+  "totalViews": 20546,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4296,65 +4296,11 @@
     "2401:4900:7dd6:1d9e:ec89:2eff:fef7:747e",
     "2401:4900:1cb1:bcc6:a58a:1080:7754:b5c6",
     "2405:201:900f:a92b:2812:9ee:dcc2:c295",
-    "59.95.32.67"
+    "59.95.32.67",
+    "2409:40d4:408d:afd9:ac56:d90d:b06d:ceeb",
+    "2401:4900:8f60:5fe8:c900:c66c:e5ea:4fd1"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12004706:1:1",
-      "title": "tt12004706:1:1",
-      "timestamp": "2026-01-18T13:05:38.795Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt12004706:1:2",
-      "title": "tt12004706:1:2",
-      "timestamp": "2026-01-18T13:05:55.799Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:23",
-      "title": "Death Note",
-      "timestamp": "2026-01-18T13:06:14.121Z",
-      "ip": "2409:40d4:40db:ad3e:d1f9:9078:6320:6a20",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt29954526",
-      "title": "tt29954526",
-      "timestamp": "2026-01-18T13:06:26.016Z",
-      "ip": "103.46.200.248",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt29954526",
-      "title": "tt29954526",
-      "timestamp": "2026-01-18T13:06:55.883Z",
-      "ip": "103.46.200.248",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt0250797",
-      "title": "Unfaithful",
-      "timestamp": "2026-01-18T13:06:59.181Z",
-      "ip": "103.46.200.248",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt29954526",
-      "title": "tt29954526",
-      "timestamp": "2026-01-18T13:07:37.151Z",
-      "ip": "103.46.200.248",
-      "username": "katdenningssss"
-    },
     {
       "type": "movie",
       "id": "tt29954526",
@@ -84298,6 +84244,62 @@
       "timestamp": "2026-02-03T07:53:21.802Z",
       "ip": "59.95.32.67",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt21103218",
+      "title": "The Lost Bus",
+      "timestamp": "2026-02-03T07:57:09.700Z",
+      "ip": "2409:40d4:408d:afd9:ac56:d90d:b06d:ceeb",
+      "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt33046197",
+      "title": "tt33046197",
+      "timestamp": "2026-02-03T07:58:20.609Z",
+      "ip": "2405:201:900f:a92b:2812:9ee:dcc2:c295",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt5040012",
+      "title": "Nosferatu",
+      "timestamp": "2026-02-03T08:01:21.323Z",
+      "ip": "2401:4900:8f60:5fe8:c900:c66c:e5ea:4fd1",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt21066182:1:1",
+      "title": "tt21066182:1:1",
+      "timestamp": "2026-02-03T08:04:18.292Z",
+      "ip": "2405:201:900f:a92b:2812:9ee:dcc2:c295",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-03T08:04:58.188Z",
+      "ip": "38.224.232.52",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt39100948",
+      "title": "tt39100948",
+      "timestamp": "2026-02-03T08:07:23.953Z",
+      "ip": "103.24.85.17",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt21066182:1:1",
+      "title": "tt21066182:1:1",
+      "timestamp": "2026-02-03T08:10:26.640Z",
+      "ip": "2401:4900:8f60:5fe8:c900:c66c:e5ea:4fd1",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -85626,17 +85628,17 @@
     },
     "38.224.232.52": {
       "type": "movie",
-      "id": "tt14195192",
-      "title": "tt14195192",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "thala_75",
-      "lastActive": 1770048629996
+      "lastActive": 1770105898188
     },
     "103.24.85.17": {
       "type": "movie",
       "id": "tt39100948",
       "title": "tt39100948",
       "username": "william097",
-      "lastActive": 1770092252196
+      "lastActive": 1770106043953
     },
     "223.181.78.41": {
       "type": "movie",
@@ -85835,11 +85837,11 @@
       "lastActive": 1770103071149
     },
     "2405:201:900f:a92b:2812:9ee:dcc2:c295": {
-      "type": "movie",
-      "id": "tt14850054",
-      "title": "tt14850054",
+      "type": "series",
+      "id": "tt21066182:1:1",
+      "title": "tt21066182:1:1",
       "username": "theonlyfreak",
-      "lastActive": 1770104169916
+      "lastActive": 1770105858292
     },
     "59.95.32.67": {
       "type": "movie",
@@ -85847,6 +85849,20 @@
       "title": "tt31227572",
       "username": "zealousninja",
       "lastActive": 1770105201802
+    },
+    "2409:40d4:408d:afd9:ac56:d90d:b06d:ceeb": {
+      "type": "movie",
+      "id": "tt21103218",
+      "title": "The Lost Bus",
+      "username": "kdbotz",
+      "lastActive": 1770105429700
+    },
+    "2401:4900:8f60:5fe8:c900:c66c:e5ea:4fd1": {
+      "type": "series",
+      "id": "tt21066182:1:1",
+      "title": "tt21066182:1:1",
+      "username": "theaceofficials",
+      "lastActive": 1770106226640
     }
   }
 }
