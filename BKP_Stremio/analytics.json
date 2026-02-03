@@ -1,5 +1,5 @@
 {
-  "totalViews": 20550,
+  "totalViews": 20552,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4299,25 +4299,10 @@
     "59.95.32.67",
     "2409:40d4:408d:afd9:ac56:d90d:b06d:ceeb",
     "2401:4900:8f60:5fe8:c900:c66c:e5ea:4fd1",
-    "2401:4900:ba21:d488::4b1:efc6"
+    "2401:4900:ba21:d488::4b1:efc6",
+    "119.42.59.126"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4746820:16:1",
-      "title": "tt4746820:16:1",
-      "timestamp": "2026-01-18T13:08:35.561Z",
-      "ip": "109.76.17.47",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt12004706:1:1",
-      "title": "tt12004706:1:1",
-      "timestamp": "2026-01-18T13:08:50.832Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "movie",
       "id": "tt29954526",
@@ -84301,6 +84286,22 @@
       "timestamp": "2026-02-03T08:28:55.638Z",
       "ip": "103.24.85.17",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:7",
+      "title": "tt30003786:4:7",
+      "timestamp": "2026-02-03T08:47:27.011Z",
+      "ip": "119.42.59.126",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:8",
+      "title": "tt30003786:4:8",
+      "timestamp": "2026-02-03T08:48:00.592Z",
+      "ip": "119.42.59.126",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -85871,6 +85872,13 @@
       "title": "tt16227240:1:2",
       "username": "baljeet_002",
       "lastActive": 1770107150684
+    },
+    "119.42.59.126": {
+      "type": "series",
+      "id": "tt30003786:4:8",
+      "title": "tt30003786:4:8",
+      "username": "gaendaswami",
+      "lastActive": 1770108480592
     }
   }
 }
