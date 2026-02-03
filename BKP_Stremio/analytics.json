@@ -1,5 +1,5 @@
 {
-  "totalViews": 20535,
+  "totalViews": 20539,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4295,41 +4295,10 @@
     "2409:40d2:3059:edf1:51c1:95fa:903e:a622",
     "2401:4900:7dd6:1d9e:ec89:2eff:fef7:747e",
     "2401:4900:1cb1:bcc6:a58a:1080:7754:b5c6",
-    "2405:201:900f:a92b:2812:9ee:dcc2:c295"
+    "2405:201:900f:a92b:2812:9ee:dcc2:c295",
+    "59.95.32.67"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1843112",
-      "title": "tt1843112",
-      "timestamp": "2026-01-18T13:03:43.207Z",
-      "ip": "103.46.200.248",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "series",
-      "id": "tt10530900:1:1",
-      "title": "tt10530900:1:1",
-      "timestamp": "2026-01-18T13:04:44.578Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt10530900:1:2",
-      "title": "tt10530900:1:2",
-      "timestamp": "2026-01-18T13:04:59.393Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt16085542:1:5",
-      "title": "tt16085542:1:5",
-      "timestamp": "2026-01-18T13:05:34.333Z",
-      "ip": "103.168.30.70",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt12004706:1:1",
@@ -84297,6 +84266,38 @@
       "timestamp": "2026-02-03T07:36:09.916Z",
       "ip": "2405:201:900f:a92b:2812:9ee:dcc2:c295",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-03T07:50:49.250Z",
+      "ip": "59.95.32.67",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-03T07:51:41.809Z",
+      "ip": "59.95.32.67",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-03T07:52:25.754Z",
+      "ip": "59.95.32.67",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-03T07:53:21.802Z",
+      "ip": "59.95.32.67",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -85839,6 +85840,13 @@
       "title": "tt14850054",
       "username": "theonlyfreak",
       "lastActive": 1770104169916
+    },
+    "59.95.32.67": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "zealousninja",
+      "lastActive": 1770105201802
     }
   }
 }
