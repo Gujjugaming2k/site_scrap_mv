@@ -1,5 +1,5 @@
 {
-  "totalViews": 20630,
+  "totalViews": 20634,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4317,41 +4317,12 @@
     "45.8.19.76",
     "2405:201:2022:b81c:c0b6:8f53:12b7:8e4f",
     "2402:3a80:1985:1f89:378:5634:1232:5476",
-    "2406:b400:1a:8c9a:a27:a8ff:fe42:855e"
+    "2406:b400:1a:8c9a:a27:a8ff:fe42:855e",
+    "2401:4900:8ff2:1829:5d25:eb76:ebc2:3c5a",
+    "216.73.160.137",
+    "103.70.146.162"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt23468450",
-      "title": "Longlegs",
-      "timestamp": "2026-01-18T15:00:23.618Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt28102595:2:4",
-      "title": "tt28102595:2:4",
-      "timestamp": "2026-01-18T15:00:44.601Z",
-      "ip": "103.181.65.117",
-      "username": "mutti9"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:3:4",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-18T15:01:09.102Z",
-      "ip": "146.196.32.227",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-18T15:01:54.966Z",
-      "ip": "2401:4900:8fda:e871:3158:adbd:3bb8:dfc8",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "series",
       "id": "tt12343534:3:4",
@@ -84319,6 +84290,38 @@
       "timestamp": "2026-02-03T13:50:36.284Z",
       "ip": "2406:b400:1a:8c9a:a27:a8ff:fe42:855e",
       "username": "nothingokk"
+    },
+    {
+      "type": "series",
+      "id": "tt13433812:1:15",
+      "title": "Vincenzo",
+      "timestamp": "2026-02-03T13:57:03.962Z",
+      "ip": "2401:4900:8ff2:1829:5d25:eb76:ebc2:3c5a",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-03T14:00:11.935Z",
+      "ip": "2406:b400:1a:8c9a:a27:a8ff:fe42:855e",
+      "username": "nothingokk"
+    },
+    {
+      "type": "movie",
+      "id": "tt27564844",
+      "title": "tt27564844",
+      "timestamp": "2026-02-03T14:00:31.189Z",
+      "ip": "216.73.160.137",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt30387012",
+      "title": "tt30387012",
+      "timestamp": "2026-02-03T14:02:09.419Z",
+      "ip": "103.70.146.162",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -86021,7 +86024,28 @@
       "id": "tt33014583",
       "title": "Dhurandhar",
       "username": "nothingokk",
-      "lastActive": 1770126636284
+      "lastActive": 1770127211935
+    },
+    "2401:4900:8ff2:1829:5d25:eb76:ebc2:3c5a": {
+      "type": "series",
+      "id": "tt13433812:1:15",
+      "title": "Vincenzo",
+      "username": "theaceofficials",
+      "lastActive": 1770127023962
+    },
+    "216.73.160.137": {
+      "type": "movie",
+      "id": "tt27564844",
+      "title": "tt27564844",
+      "username": "theonlyfreak",
+      "lastActive": 1770127231189
+    },
+    "103.70.146.162": {
+      "type": "movie",
+      "id": "tt30387012",
+      "title": "tt30387012",
+      "username": "gaendaswami",
+      "lastActive": 1770127329419
     }
   }
 }
