@@ -1,5 +1,5 @@
 {
-  "totalViews": 20614,
+  "totalViews": 20620,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4311,57 +4311,12 @@
     "2409:40d4:4012:ca1f:8000::",
     "2401:4900:1f29:a02f:bda2:2907:d579:b3c7",
     "122.168.5.233",
-    "2409:40f0:2412:a54:ccfc:5cff:fef0:14a1"
+    "2409:40f0:2412:a54:ccfc:5cff:fef0:14a1",
+    "216.73.160.136",
+    "2401:4900:8825:a674:99e2:4ef7:2771:7501",
+    "45.8.19.76"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-18T14:54:02.983Z",
-      "ip": "103.181.65.117",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-18T14:54:03.026Z",
-      "ip": "103.181.65.117",
-      "username": "mutti9"
-    },
-    {
-      "type": "movie",
-      "id": "tt33244668",
-      "title": "tt33244668",
-      "timestamp": "2026-01-18T14:54:47.639Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:3:1",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-18T14:55:06.324Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "series",
-      "id": "tt28102595:2:3",
-      "title": "tt28102595:2:3",
-      "timestamp": "2026-01-18T14:55:20.069Z",
-      "ip": "103.181.65.117",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt28102595:2:3",
-      "title": "tt28102595:2:3",
-      "timestamp": "2026-01-18T14:55:20.116Z",
-      "ip": "103.181.65.117",
-      "username": "mutti9"
-    },
     {
       "type": "series",
       "id": "tt36988358:1:1",
@@ -84313,6 +84268,54 @@
       "timestamp": "2026-02-03T13:19:43.772Z",
       "ip": "2409:40f0:2412:a54:ccfc:5cff:fef0:14a1",
       "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt1029234",
+      "title": "tt1029234",
+      "timestamp": "2026-02-03T13:23:05.089Z",
+      "ip": "216.73.160.136",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt2359704:5:38",
+      "title": "tt2359704:5:38",
+      "timestamp": "2026-02-03T13:23:06.327Z",
+      "ip": "2401:4900:8825:a674:99e2:4ef7:2771:7501",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt2359704:2:46",
+      "title": "tt2359704:2:46",
+      "timestamp": "2026-02-03T13:24:04.824Z",
+      "ip": "2401:4900:8825:a674:99e2:4ef7:2771:7501",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt6522546",
+      "title": "tt6522546",
+      "timestamp": "2026-02-03T13:24:35.268Z",
+      "ip": "2409:40f0:2412:a54:ccfc:5cff:fef0:14a1",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt6522546",
+      "title": "tt6522546",
+      "timestamp": "2026-02-03T13:28:29.901Z",
+      "ip": "2409:40f0:2412:a54:ccfc:5cff:fef0:14a1",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt0266308",
+      "title": "tt0266308",
+      "timestamp": "2026-02-03T13:31:22.990Z",
+      "ip": "45.8.19.76",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -85970,10 +85973,31 @@
     },
     "2409:40f0:2412:a54:ccfc:5cff:fef0:14a1": {
       "type": "movie",
-      "id": "tt3566834",
-      "title": "A Minecraft Movie",
+      "id": "tt6522546",
+      "title": "tt6522546",
       "username": "sachinprem1",
-      "lastActive": 1770124783772
+      "lastActive": 1770125309901
+    },
+    "216.73.160.136": {
+      "type": "movie",
+      "id": "tt1029234",
+      "title": "tt1029234",
+      "username": "theonlyfreak",
+      "lastActive": 1770124985089
+    },
+    "2401:4900:8825:a674:99e2:4ef7:2771:7501": {
+      "type": "series",
+      "id": "tt2359704:2:46",
+      "title": "tt2359704:2:46",
+      "username": "sinbad1722",
+      "lastActive": 1770125044824
+    },
+    "45.8.19.76": {
+      "type": "movie",
+      "id": "tt0266308",
+      "title": "tt0266308",
+      "username": "theonlyfreak",
+      "lastActive": 1770125482990
     }
   }
 }
