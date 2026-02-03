@@ -1,5 +1,5 @@
 {
-  "totalViews": 20667,
+  "totalViews": 20670,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4329,33 +4329,10 @@
     "157.48.237.156",
     "2409:40d4:408c:152b:8000::",
     "47.31.84.106",
-    "45.8.19.82"
+    "45.8.19.82",
+    "2409:40e5:105c:44c7:b9ef:63ec:2880:336"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2356777:1:1",
-      "title": "tt2356777:1:1",
-      "timestamp": "2026-01-18T15:10:55.066Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt0293734:1:1",
-      "title": "tt0293734:1:1",
-      "timestamp": "2026-01-18T15:11:30.844Z",
-      "ip": "2409:40f3:2006:2a4b:ad9a:6064:ddb8:6f6d",
-      "username": "goatedbentennyson"
-    },
-    {
-      "type": "series",
-      "id": "tt2356777:1:2",
-      "title": "tt2356777:1:2",
-      "timestamp": "2026-01-18T15:11:37.353Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
     {
       "type": "series",
       "id": "tt2580046:5:1",
@@ -84331,6 +84308,30 @@
       "timestamp": "2026-02-03T15:34:26.918Z",
       "ip": "2401:4900:88ba:65a9:cbeb:75b6:32b7:1c3f",
       "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt37449205:1:5",
+      "title": "tt37449205:1:5",
+      "timestamp": "2026-02-03T15:42:42.939Z",
+      "ip": "103.134.25.8",
+      "username": "spidey_again"
+    },
+    {
+      "type": "movie",
+      "id": "tt3741834",
+      "title": "tt3741834",
+      "timestamp": "2026-02-03T15:53:12.922Z",
+      "ip": "2409:40e5:105c:44c7:b9ef:63ec:2880:336",
+      "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt36616410",
+      "title": "tt36616410",
+      "timestamp": "2026-02-03T15:55:55.708Z",
+      "ip": "38.224.232.52",
+      "username": "thala_75"
     }
   ],
   "activeNow": {
@@ -84612,7 +84613,7 @@
       "id": "tt37449205:1:5",
       "title": "tt37449205:1:5",
       "username": "spidey_again",
-      "lastActive": 1769875056450
+      "lastActive": 1770133362939
     },
     "103.24.85.19": {
       "type": "movie",
@@ -85659,10 +85660,10 @@
     },
     "38.224.232.52": {
       "type": "movie",
-      "id": "tt0215033",
-      "title": "tt0215033",
+      "id": "tt36616410",
+      "title": "tt36616410",
       "username": "thala_75",
-      "lastActive": 1770116723550
+      "lastActive": 1770134155708
     },
     "103.24.85.17": {
       "type": "movie",
@@ -86118,6 +86119,13 @@
       "title": "tt14506058",
       "username": "theonlyfreak",
       "lastActive": 1770131735181
+    },
+    "2409:40e5:105c:44c7:b9ef:63ec:2880:336": {
+      "type": "movie",
+      "id": "tt3741834",
+      "title": "tt3741834",
+      "username": "magicmannn",
+      "lastActive": 1770133992922
     }
   }
 }
