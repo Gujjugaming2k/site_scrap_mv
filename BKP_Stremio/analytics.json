@@ -1,5 +1,5 @@
 {
-  "totalViews": 20555,
+  "totalViews": 20559,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4301,41 +4301,10 @@
     "2401:4900:8f60:5fe8:c900:c66c:e5ea:4fd1",
     "2401:4900:ba21:d488::4b1:efc6",
     "119.42.59.126",
-    "2402:3a80:4308:3753:378:5634:1232:5476"
+    "2402:3a80:4308:3753:378:5634:1232:5476",
+    "2401:4900:8f60:5fe8:7c74:e2d6:ebd7:e9ef"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-18T13:11:58.564Z",
-      "ip": "106.222.216.167",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-18T13:12:46.457Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-18T13:13:24.954Z",
-      "ip": "125.166.9.191",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt29402528",
-      "title": "Doraemon the Movie: Nobita's Earth Symphony",
-      "timestamp": "2026-01-18T13:14:06.017Z",
-      "ip": "106.222.216.167",
-      "username": "anonymous_rare"
-    },
     {
       "type": "movie",
       "id": "tt30818815",
@@ -84303,6 +84272,38 @@
       "timestamp": "2026-02-03T09:05:47.233Z",
       "ip": "119.42.59.126",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt2178470",
+      "title": "tt2178470",
+      "timestamp": "2026-02-03T09:16:34.722Z",
+      "ip": "2401:4900:8f60:5fe8:7c74:e2d6:ebd7:e9ef",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt22091076:2:12",
+      "title": "tt22091076:2:12",
+      "timestamp": "2026-02-03T09:18:24.477Z",
+      "ip": "2405:201:6820:a83c:e52e:5c2:bbcc:a56f",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt2178470",
+      "title": "tt2178470",
+      "timestamp": "2026-02-03T09:19:53.173Z",
+      "ip": "2401:4900:8f60:5fe8:7c74:e2d6:ebd7:e9ef",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:6",
+      "title": "tt30003786:4:6",
+      "timestamp": "2026-02-03T09:21:59.381Z",
+      "ip": "119.42.59.126",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -85354,7 +85355,7 @@
       "id": "tt22091076:2:12",
       "title": "tt22091076:2:12",
       "username": "demon18319",
-      "lastActive": 1770014776243
+      "lastActive": 1770110304477
     },
     "2405:201:5502:5c18:ad29:1244:5da9:38ab": {
       "type": "movie",
@@ -85876,10 +85877,10 @@
     },
     "119.42.59.126": {
       "type": "series",
-      "id": "tt30003786:4:5",
-      "title": "tt30003786:4:5",
+      "id": "tt30003786:4:6",
+      "title": "tt30003786:4:6",
       "username": "gaendaswami",
-      "lastActive": 1770109547233
+      "lastActive": 1770110519381
     },
     "2402:3a80:4308:3753:378:5634:1232:5476": {
       "type": "series",
@@ -85887,6 +85888,13 @@
       "title": "tt35335046:1:5",
       "username": "lazerkey",
       "lastActive": 1770109248677
+    },
+    "2401:4900:8f60:5fe8:7c74:e2d6:ebd7:e9ef": {
+      "type": "movie",
+      "id": "tt2178470",
+      "title": "tt2178470",
+      "username": "theaceofficials",
+      "lastActive": 1770110393173
     }
   }
 }
