@@ -1,5 +1,5 @@
 {
-  "totalViews": 20590,
+  "totalViews": 20591,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4306,17 +4306,10 @@
     "2401:4900:7dbc:6828:6010:9eff:feb9:75f5",
     "2409:40d4:408d:afd9:8831:94a1:b581:e530",
     "106.222.216.176",
-    "2402:8100:2701:e7a7:312a:23e2:4f5c:b2c6"
+    "2402:8100:2701:e7a7:312a:23e2:4f5c:b2c6",
+    "2a09:bac5:3b23:11cd::1c6:a"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt16085542:1:7",
-      "title": "tt16085542:1:7",
-      "timestamp": "2026-01-18T14:24:43.456Z",
-      "ip": "103.168.30.70",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt0411008:1:5",
@@ -84308,6 +84301,14 @@
       "timestamp": "2026-02-03T11:10:29.041Z",
       "ip": "115.187.50.135",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt6522546",
+      "title": "tt6522546",
+      "timestamp": "2026-02-03T11:28:30.894Z",
+      "ip": "2a09:bac5:3b23:11cd::1c6:a",
+      "username": "sachinprem1"
     }
   ],
   "activeNow": {
@@ -85934,6 +85935,13 @@
       "title": "tt29638896",
       "username": "william097",
       "lastActive": 1770117029041
+    },
+    "2a09:bac5:3b23:11cd::1c6:a": {
+      "type": "movie",
+      "id": "tt6522546",
+      "title": "tt6522546",
+      "username": "sachinprem1",
+      "lastActive": 1770118110894
     }
   }
 }
