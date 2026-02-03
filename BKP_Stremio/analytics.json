@@ -1,5 +1,5 @@
 {
-  "totalViews": 20567,
+  "totalViews": 20570,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4303,33 +4303,10 @@
     "119.42.59.126",
     "2402:3a80:4308:3753:378:5634:1232:5476",
     "2401:4900:8f60:5fe8:7c74:e2d6:ebd7:e9ef",
-    "2401:4900:7dbc:6828:6010:9eff:feb9:75f5"
+    "2401:4900:7dbc:6828:6010:9eff:feb9:75f5",
+    "2409:40d4:408d:afd9:8831:94a1:b581:e530"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt27263807",
-      "title": "tt27263807",
-      "timestamp": "2026-01-18T13:30:14.681Z",
-      "ip": "2409:40c2:601f:7ada:44be:aaff:fe26:34f5",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0816692",
-      "title": "Interstellar",
-      "timestamp": "2026-01-18T13:30:51.392Z",
-      "ip": "103.85.10.193",
-      "username": "switchoff009"
-    },
-    {
-      "type": "movie",
-      "id": "tt7275830",
-      "title": "tt7275830",
-      "timestamp": "2026-01-18T13:30:58.923Z",
-      "ip": "2800:320:c0b2:cf00:fcd5:e3bb:e6b:7472",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt0816692",
@@ -84305,6 +84282,30 @@
       "timestamp": "2026-02-03T10:03:26.628Z",
       "ip": "2401:4900:7dbc:6828:6010:9eff:feb9:75f5",
       "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt10872600",
+      "title": "Spider-Man: No Way Home",
+      "timestamp": "2026-02-03T10:24:13.508Z",
+      "ip": "2409:40d4:408d:afd9:8831:94a1:b581:e530",
+      "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-02-03T10:24:50.647Z",
+      "ip": "103.46.200.105",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-02-03T10:26:53.224Z",
+      "ip": "103.46.200.105",
+      "username": "katdenningssss"
     }
   ],
   "activeNow": {
@@ -85409,10 +85410,10 @@
     },
     "103.46.200.105": {
       "type": "movie",
-      "id": "tt0353969",
-      "title": "tt0353969",
+      "id": "tt33244668",
+      "title": "tt33244668",
       "username": "katdenningssss",
-      "lastActive": 1770095785304
+      "lastActive": 1770114413224
     },
     "2401:4900:1f29:a02f:f926:4acc:5225:3d2e": {
       "type": "series",
@@ -85903,6 +85904,13 @@
       "title": "tt14905854",
       "username": "chetan_b2",
       "lastActive": 1770113006628
+    },
+    "2409:40d4:408d:afd9:8831:94a1:b581:e530": {
+      "type": "movie",
+      "id": "tt10872600",
+      "title": "Spider-Man: No Way Home",
+      "username": "kdbotz",
+      "lastActive": 1770114253508
     }
   }
 }
