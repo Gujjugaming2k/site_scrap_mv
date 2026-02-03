@@ -1,5 +1,5 @@
 {
-  "totalViews": 20565,
+  "totalViews": 20567,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4302,25 +4302,10 @@
     "2401:4900:ba21:d488::4b1:efc6",
     "119.42.59.126",
     "2402:3a80:4308:3753:378:5634:1232:5476",
-    "2401:4900:8f60:5fe8:7c74:e2d6:ebd7:e9ef"
+    "2401:4900:8f60:5fe8:7c74:e2d6:ebd7:e9ef",
+    "2401:4900:7dbc:6828:6010:9eff:feb9:75f5"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0816692",
-      "title": "Interstellar",
-      "timestamp": "2026-01-18T13:26:10.620Z",
-      "ip": "103.85.10.193",
-      "username": "switchoff009"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:24",
-      "title": "Death Note",
-      "timestamp": "2026-01-18T13:26:55.509Z",
-      "ip": "2409:40d4:40db:ad3e:d1f9:9078:6320:6a20",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt27263807",
@@ -84304,6 +84289,22 @@
       "timestamp": "2026-02-03T09:56:18.011Z",
       "ip": "202.88.248.12",
       "username": "deepak"
+    },
+    {
+      "type": "movie",
+      "id": "tt33046197",
+      "title": "tt33046197",
+      "timestamp": "2026-02-03T10:00:52.555Z",
+      "ip": "202.88.248.12",
+      "username": "deepak"
+    },
+    {
+      "type": "movie",
+      "id": "tt14905854",
+      "title": "tt14905854",
+      "timestamp": "2026-02-03T10:03:26.628Z",
+      "ip": "2401:4900:7dbc:6828:6010:9eff:feb9:75f5",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -85681,10 +85682,10 @@
     },
     "202.88.248.12": {
       "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
+      "id": "tt33046197",
+      "title": "tt33046197",
       "username": "deepak",
-      "lastActive": 1770112578011
+      "lastActive": 1770112852555
     },
     "2409:40d4:408d:afd9:f45a:bd5c:872f:89e9": {
       "type": "movie",
@@ -85895,6 +85896,13 @@
       "title": "tt11230982:1:1",
       "username": "theaceofficials",
       "lastActive": 1770112214743
+    },
+    "2401:4900:7dbc:6828:6010:9eff:feb9:75f5": {
+      "type": "movie",
+      "id": "tt14905854",
+      "title": "tt14905854",
+      "username": "chetan_b2",
+      "lastActive": 1770113006628
     }
   }
 }
