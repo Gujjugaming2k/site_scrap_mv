@@ -1,5 +1,5 @@
 {
-  "totalViews": 20752,
+  "totalViews": 20755,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4347,33 +4347,10 @@
     "2405:201:2033:841:a84e:35aa:9276:53af",
     "2409:40c2:2f:30d9:c082:72ff:fe82:b96d",
     "103.181.65.109",
-    "103.44.117.67"
+    "103.44.117.67",
+    "2a09:bac5:3b20:11cd::1c6:7"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt9426210",
-      "title": "Weathering with You",
-      "timestamp": "2026-01-18T16:14:34.645Z",
-      "ip": "2409:40e4:10a1:a8a9:78e5:1a90:3c08:a675",
-      "username": "askchm"
-    },
-    {
-      "type": "series",
-      "id": "tt13930822:2:5",
-      "title": "tt13930822:2:5",
-      "timestamp": "2026-01-18T16:14:52.950Z",
-      "ip": "202.173.124.39",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "movie",
-      "id": "tt34610311",
-      "title": "The Shadow's Edge",
-      "timestamp": "2026-01-18T16:14:55.859Z",
-      "ip": "2401:4900:5777:f6f4:b030:c701:1e3d:115d",
-      "username": "vflix1993"
-    },
     {
       "type": "series",
       "id": "tt12867810:1:1",
@@ -84349,6 +84326,30 @@
       "timestamp": "2026-02-03T18:02:09.106Z",
       "ip": "103.44.117.67",
       "username": "anonymous050100"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:2:24",
+      "title": "Lost",
+      "timestamp": "2026-02-03T18:32:52.833Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt29638896",
+      "title": "tt29638896",
+      "timestamp": "2026-02-03T18:39:16.534Z",
+      "ip": "2a09:bac5:3b20:11cd::1c6:7",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt1183907",
+      "title": "tt1183907",
+      "timestamp": "2026-02-03T18:40:17.418Z",
+      "ip": "2a09:bac5:3b20:11cd::1c6:7",
+      "username": "sachinprem1"
     }
   ],
   "activeNow": {
@@ -84739,10 +84740,10 @@
     },
     "116.68.74.75": {
       "type": "series",
-      "id": "tt0411008:2:23",
+      "id": "tt0411008:2:24",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1770141055565
+      "lastActive": 1770143572833
     },
     "2409:40e5:1046:7359:4852:fb48:776e:3d9d": {
       "type": "movie",
@@ -86276,6 +86277,13 @@
       "title": "tt0460649:7:20",
       "username": "anonymous050100",
       "lastActive": 1770141729106
+    },
+    "2a09:bac5:3b20:11cd::1c6:7": {
+      "type": "movie",
+      "id": "tt1183907",
+      "title": "tt1183907",
+      "username": "sachinprem1",
+      "lastActive": 1770144017418
     }
   }
 }
