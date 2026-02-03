@@ -1,5 +1,5 @@
 {
-  "totalViews": 20515,
+  "totalViews": 20518,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4294,30 +4294,6 @@
     "2401:4900:ac04:8d51:9cef:d14d:2885:5a15"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt21810110",
-      "title": "tt21810110",
-      "timestamp": "2026-01-18T12:49:37.625Z",
-      "ip": "2409:40f2:32:c5c5:ace4:d5ff:fef6:3a47",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt21810110",
-      "title": "tt21810110",
-      "timestamp": "2026-01-18T12:49:40.104Z",
-      "ip": "2409:40f2:32:c5c5:ace4:d5ff:fef6:3a47",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt29954526",
-      "title": "tt29954526",
-      "timestamp": "2026-01-18T12:54:23.094Z",
-      "ip": "103.46.200.248",
-      "username": "katdenningssss"
-    },
     {
       "type": "movie",
       "id": "tt36956670",
@@ -84293,6 +84269,30 @@
       "timestamp": "2026-02-03T04:52:37.065Z",
       "ip": "2401:4900:ac04:8d51:9cef:d14d:2885:5a15",
       "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt39393261:1:2",
+      "title": "tt39393261:1:2",
+      "timestamp": "2026-02-03T05:05:30.118Z",
+      "ip": "2401:4900:ac04:8d51:9cef:d14d:2885:5a15",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-03T05:11:46.519Z",
+      "ip": "103.46.200.105",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt0353969",
+      "title": "tt0353969",
+      "timestamp": "2026-02-03T05:16:25.304Z",
+      "ip": "103.46.200.105",
+      "username": "katdenningssss"
     }
   ],
   "activeNow": {
@@ -85397,10 +85397,10 @@
     },
     "103.46.200.105": {
       "type": "movie",
-      "id": "tt2023587",
-      "title": "Mama",
+      "id": "tt0353969",
+      "title": "tt0353969",
       "username": "katdenningssss",
-      "lastActive": 1770053855148
+      "lastActive": 1770095785304
     },
     "2401:4900:1f29:a02f:f926:4acc:5225:3d2e": {
       "type": "series",
@@ -85803,10 +85803,10 @@
     },
     "2401:4900:ac04:8d51:9cef:d14d:2885:5a15": {
       "type": "series",
-      "id": "tt39393261:1:1",
-      "title": "tt39393261:1:1",
+      "id": "tt39393261:1:2",
+      "title": "tt39393261:1:2",
       "username": "vflix1993",
-      "lastActive": 1770094357065
+      "lastActive": 1770095130118
     }
   }
 }
