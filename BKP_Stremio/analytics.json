@@ -1,5 +1,5 @@
 {
-  "totalViews": 20503,
+  "totalViews": 20507,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4287,41 +4287,10 @@
     "182.77.78.33",
     "2409:40d4:4:36de:2866:74ff:fe56:8005",
     "2401:4900:8825:312c:99e2:4ef7:2771:7501",
-    "2401:4900:3c8c:762f:8470:31ff:fe47:c24f"
+    "2401:4900:3c8c:762f:8470:31ff:fe47:c24f",
+    "223.185.21.192"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt21810110",
-      "title": "tt21810110",
-      "timestamp": "2026-01-18T12:44:32.039Z",
-      "ip": "2409:40f2:32:c5c5:ace4:d5ff:fef6:3a47",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:2",
-      "title": "Death Note",
-      "timestamp": "2026-01-18T12:44:35.769Z",
-      "ip": "106.222.216.167",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:2",
-      "title": "Death Note",
-      "timestamp": "2026-01-18T12:44:40.602Z",
-      "ip": "106.222.216.167",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt21810110",
-      "title": "tt21810110",
-      "timestamp": "2026-01-18T12:44:46.145Z",
-      "ip": "2409:40f2:32:c5c5:ace4:d5ff:fef6:3a47",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt21810110",
@@ -84289,6 +84258,38 @@
       "timestamp": "2026-02-03T03:51:01.967Z",
       "ip": "2401:4900:3c8c:762f:8470:31ff:fe47:c24f",
       "username": "adshoyi"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:11",
+      "title": "tt6354518:2:11",
+      "timestamp": "2026-02-03T04:08:36.357Z",
+      "ip": "223.185.21.192",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:11",
+      "title": "tt6354518:2:11",
+      "timestamp": "2026-02-03T04:09:13.316Z",
+      "ip": "223.185.21.192",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:11",
+      "title": "tt6354518:2:11",
+      "timestamp": "2026-02-03T04:09:27.827Z",
+      "ip": "223.185.21.192",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt39100948",
+      "title": "tt39100948",
+      "timestamp": "2026-02-03T04:17:32.196Z",
+      "ip": "103.24.85.17",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -85624,10 +85625,10 @@
     },
     "103.24.85.17": {
       "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
+      "id": "tt39100948",
+      "title": "tt39100948",
       "username": "william097",
-      "lastActive": 1770049560258
+      "lastActive": 1770092252196
     },
     "223.181.78.41": {
       "type": "movie",
@@ -85775,6 +85776,13 @@
       "title": "tt39137681:1:10",
       "username": "adshoyi",
       "lastActive": 1770090661967
+    },
+    "223.185.21.192": {
+      "type": "series",
+      "id": "tt6354518:2:11",
+      "title": "tt6354518:2:11",
+      "username": "sinbad1722",
+      "lastActive": 1770091767827
     }
   }
 }
