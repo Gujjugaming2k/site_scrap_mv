@@ -1,5 +1,5 @@
 {
-  "totalViews": 20601,
+  "totalViews": 20602,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4310,14 +4310,6 @@
     "2a09:bac5:3b23:11cd::1c6:a"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32194932",
-      "title": "The Ritual",
-      "timestamp": "2026-01-18T14:36:57.430Z",
-      "ip": "2405:201:2022:b81c:4da3:caa8:e2bc:cbfe",
-      "username": "zealousninja"
-    },
     {
       "type": "series",
       "id": "tt0159206:4:4",
@@ -84309,6 +84301,14 @@
       "timestamp": "2026-02-03T11:41:19.817Z",
       "ip": "223.185.21.192",
       "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:14",
+      "title": "tt6354518:2:14",
+      "timestamp": "2026-02-03T12:03:38.859Z",
+      "ip": "223.185.21.192",
+      "username": "sinbad1722"
     }
   ],
   "activeNow": {
@@ -85798,10 +85798,10 @@
     },
     "223.185.21.192": {
       "type": "series",
-      "id": "tt6354518:2:13",
-      "title": "tt6354518:2:13",
+      "id": "tt6354518:2:14",
+      "title": "tt6354518:2:14",
       "username": "sinbad1722",
-      "lastActive": 1770118879817
+      "lastActive": 1770120218859
     },
     "2401:4900:8ff2:1829:8d19:d741:e40a:bf3": {
       "type": "series",
