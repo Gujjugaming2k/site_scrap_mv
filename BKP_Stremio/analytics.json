@@ -1,5 +1,5 @@
 {
-  "totalViews": 20755,
+  "totalViews": 20758,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4348,33 +4348,10 @@
     "2409:40c2:2f:30d9:c082:72ff:fe82:b96d",
     "103.181.65.109",
     "103.44.117.67",
-    "2a09:bac5:3b20:11cd::1c6:7"
+    "2a09:bac5:3b20:11cd::1c6:7",
+    "2401:4900:8f60:5fe8:48e:2a53:7823:6f4a"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12867810:1:1",
-      "title": "tt12867810:1:1",
-      "timestamp": "2026-01-18T16:15:04.491Z",
-      "ip": "2409:40c4:302f:4373:7c7d:b0ff:fefe:6209",
-      "username": "napsteerr"
-    },
-    {
-      "type": "series",
-      "id": "tt37062070:1:1",
-      "title": "tt37062070:1:1",
-      "timestamp": "2026-01-18T16:15:57.503Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt37062070:1:1",
-      "title": "tt37062070:1:1",
-      "timestamp": "2026-01-18T16:18:21.630Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "series",
       "id": "tt35335046:1:1",
@@ -84350,6 +84327,30 @@
       "timestamp": "2026-02-03T18:40:17.418Z",
       "ip": "2a09:bac5:3b20:11cd::1c6:7",
       "username": "sachinprem1"
+    },
+    {
+      "type": "series",
+      "id": "tt13676344:1:1",
+      "title": "tt13676344:1:1",
+      "timestamp": "2026-02-03T18:59:42.355Z",
+      "ip": "2401:4900:8f60:5fe8:48e:2a53:7823:6f4a",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt12324366:2:8",
+      "title": "tt12324366:2:8",
+      "timestamp": "2026-02-03T19:10:09.799Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt12324366:2:7",
+      "title": "tt12324366:2:7",
+      "timestamp": "2026-02-03T19:10:17.781Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -84697,11 +84698,11 @@
       "lastActive": 1769877863483
     },
     "203.192.255.46": {
-      "type": "movie",
-      "id": "tt1312221",
-      "title": "Frankenstein",
+      "type": "series",
+      "id": "tt12324366:2:7",
+      "title": "tt12324366:2:7",
       "username": "chetan_b2",
-      "lastActive": 1770048590283
+      "lastActive": 1770145817781
     },
     "157.48.83.94": {
       "type": "series",
@@ -86284,6 +86285,13 @@
       "title": "tt1183907",
       "username": "sachinprem1",
       "lastActive": 1770144017418
+    },
+    "2401:4900:8f60:5fe8:48e:2a53:7823:6f4a": {
+      "type": "series",
+      "id": "tt13676344:1:1",
+      "title": "tt13676344:1:1",
+      "username": "theaceofficials",
+      "lastActive": 1770145182355
     }
   }
 }
