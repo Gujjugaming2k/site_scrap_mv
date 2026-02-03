@@ -1,5 +1,5 @@
 {
-  "totalViews": 20639,
+  "totalViews": 20643,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4321,41 +4321,12 @@
     "2401:4900:8ff2:1829:5d25:eb76:ebc2:3c5a",
     "216.73.160.137",
     "103.70.146.162",
-    "223.181.103.142"
+    "223.181.103.142",
+    "216.73.160.141",
+    "2409:40e4:10bc:3df3:69b4:ca2b:c48d:ce10",
+    "2409:40d2:300e:307c:7025:3b1c:1edd:4358"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12343534:3:4",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-18T15:02:39.237Z",
-      "ip": "146.196.32.227",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt0272624",
-      "title": "tt0272624",
-      "timestamp": "2026-01-18T15:02:43.922Z",
-      "ip": "103.46.200.248",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt6604188",
-      "title": "TRON: Ares",
-      "timestamp": "2026-01-18T15:02:46.006Z",
-      "ip": "2401:4900:8fda:e871:3158:adbd:3bb8:dfc8",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "movie",
-      "id": "tt0768171",
-      "title": "tt0768171",
-      "timestamp": "2026-01-18T15:02:51.509Z",
-      "ip": "103.46.200.248",
-      "username": "katdenningssss"
-    },
     {
       "type": "movie",
       "id": "tt0768171",
@@ -84323,6 +84294,38 @@
       "timestamp": "2026-02-03T14:35:17.512Z",
       "ip": "223.181.103.142",
       "username": "baljeet_002"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-03T14:37:18.279Z",
+      "ip": "223.181.78.41",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt1653913",
+      "title": "tt1653913",
+      "timestamp": "2026-02-03T14:43:21.637Z",
+      "ip": "216.73.160.141",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
+      "timestamp": "2026-02-03T14:45:28.178Z",
+      "ip": "2409:40e4:10bc:3df3:69b4:ca2b:c48d:ce10",
+      "username": "adshoyi"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-02-03T14:48:44.868Z",
+      "ip": "2409:40d2:300e:307c:7025:3b1c:1edd:4358",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -85664,11 +85667,11 @@
       "lastActive": 1770107335638
     },
     "223.181.78.41": {
-      "type": "movie",
-      "id": "tt1375666",
-      "title": "Inception",
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
       "username": "b1jju",
-      "lastActive": 1770050646556
+      "lastActive": 1770129438279
     },
     "49.36.81.42": {
       "type": "movie",
@@ -86054,6 +86057,27 @@
       "title": "tt31844233:1:2",
       "username": "baljeet_002",
       "lastActive": 1770129317512
+    },
+    "216.73.160.141": {
+      "type": "movie",
+      "id": "tt1653913",
+      "title": "tt1653913",
+      "username": "theonlyfreak",
+      "lastActive": 1770129801637
+    },
+    "2409:40e4:10bc:3df3:69b4:ca2b:c48d:ce10": {
+      "type": "series",
+      "id": "tt33035373:1:1",
+      "title": "tt33035373:1:1",
+      "username": "adshoyi",
+      "lastActive": 1770129928178
+    },
+    "2409:40d2:300e:307c:7025:3b1c:1edd:4358": {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "username": "saurabhkaperwan",
+      "lastActive": 1770130124868
     }
   }
 }
