@@ -1,5 +1,5 @@
 {
-  "totalViews": 20507,
+  "totalViews": 20513,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4288,57 +4288,11 @@
     "2409:40d4:4:36de:2866:74ff:fe56:8005",
     "2401:4900:8825:312c:99e2:4ef7:2771:7501",
     "2401:4900:3c8c:762f:8470:31ff:fe47:c24f",
-    "223.185.21.192"
+    "223.185.21.192",
+    "2401:4900:8ff2:1829:8d19:d741:e40a:bf3",
+    "2401:4900:1cb1:bcc6:d5a:4c9:72da:3c9e"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt21810110",
-      "title": "tt21810110",
-      "timestamp": "2026-01-18T12:44:49.613Z",
-      "ip": "2409:40f2:32:c5c5:ace4:d5ff:fef6:3a47",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:3",
-      "title": "Death Note",
-      "timestamp": "2026-01-18T12:44:56.873Z",
-      "ip": "106.222.216.167",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt1375666",
-      "title": "Inception",
-      "timestamp": "2026-01-18T12:45:04.919Z",
-      "ip": "2a09:bac5:3af5:11c3::1c5:3c",
-      "username": "switchoff009"
-    },
-    {
-      "type": "movie",
-      "id": "tt21810110",
-      "title": "tt21810110",
-      "timestamp": "2026-01-18T12:45:10.825Z",
-      "ip": "2409:40f2:32:c5c5:ace4:d5ff:fef6:3a47",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt3659388",
-      "title": "tt3659388",
-      "timestamp": "2026-01-18T12:45:30.543Z",
-      "ip": "2a09:bac5:3af5:11c3::1c5:3c",
-      "username": "switchoff009"
-    },
-    {
-      "type": "movie",
-      "id": "tt1757678",
-      "title": "tt1757678",
-      "timestamp": "2026-01-18T12:45:37.593Z",
-      "ip": "2a09:bac5:3af5:11c3::1c5:3c",
-      "username": "switchoff009"
-    },
     {
       "type": "series",
       "id": "tt0877057:1:3",
@@ -84290,6 +84244,54 @@
       "timestamp": "2026-02-03T04:17:32.196Z",
       "ip": "103.24.85.17",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt13433812:1:14",
+      "title": "Vincenzo",
+      "timestamp": "2026-02-03T04:24:25.968Z",
+      "ip": "2401:4900:8ff2:1829:8d19:d741:e40a:bf3",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-03T04:26:44.821Z",
+      "ip": "117.212.5.188",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-03T04:28:40.820Z",
+      "ip": "117.212.5.188",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt39137681:1:3",
+      "title": "tt39137681:1:3",
+      "timestamp": "2026-02-03T04:29:21.984Z",
+      "ip": "2401:4900:1cb1:bcc6:d5a:4c9:72da:3c9e",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-03T04:29:39.661Z",
+      "ip": "117.212.5.188",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:12",
+      "title": "tt6354518:2:12",
+      "timestamp": "2026-02-03T04:31:21.447Z",
+      "ip": "223.185.21.192",
+      "username": "sinbad1722"
     }
   ],
   "activeNow": {
@@ -85362,7 +85364,7 @@
       "id": "tt31227572",
       "title": "tt31227572",
       "username": "zealousninja",
-      "lastActive": 1770027026796
+      "lastActive": 1770092979661
     },
     "2409:40c4:3155:14ba:d07e:37ff:fe11:b3d4": {
       "type": "series",
@@ -85779,10 +85781,24 @@
     },
     "223.185.21.192": {
       "type": "series",
-      "id": "tt6354518:2:11",
-      "title": "tt6354518:2:11",
+      "id": "tt6354518:2:12",
+      "title": "tt6354518:2:12",
       "username": "sinbad1722",
-      "lastActive": 1770091767827
+      "lastActive": 1770093081447
+    },
+    "2401:4900:8ff2:1829:8d19:d741:e40a:bf3": {
+      "type": "series",
+      "id": "tt13433812:1:14",
+      "title": "Vincenzo",
+      "username": "theaceofficials",
+      "lastActive": 1770092665968
+    },
+    "2401:4900:1cb1:bcc6:d5a:4c9:72da:3c9e": {
+      "type": "series",
+      "id": "tt39137681:1:3",
+      "title": "tt39137681:1:3",
+      "username": "saisrinivas",
+      "lastActive": 1770092961984
     }
   }
 }
