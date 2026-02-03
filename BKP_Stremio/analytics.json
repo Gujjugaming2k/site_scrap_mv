@@ -1,5 +1,5 @@
 {
-  "totalViews": 20546,
+  "totalViews": 20549,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4298,33 +4298,10 @@
     "2405:201:900f:a92b:2812:9ee:dcc2:c295",
     "59.95.32.67",
     "2409:40d4:408d:afd9:ac56:d90d:b06d:ceeb",
-    "2401:4900:8f60:5fe8:c900:c66c:e5ea:4fd1"
+    "2401:4900:8f60:5fe8:c900:c66c:e5ea:4fd1",
+    "2401:4900:ba21:d488::4b1:efc6"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt29954526",
-      "title": "tt29954526",
-      "timestamp": "2026-01-18T13:07:53.976Z",
-      "ip": "103.46.200.248",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt15911108",
-      "title": "tt15911108",
-      "timestamp": "2026-01-18T13:07:55.254Z",
-      "ip": "109.76.17.47",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt28551273",
-      "title": "tt28551273",
-      "timestamp": "2026-01-18T13:08:06.792Z",
-      "ip": "109.76.17.47",
-      "username": "vflix1993"
-    },
     {
       "type": "series",
       "id": "tt4746820:16:1",
@@ -84300,6 +84277,30 @@
       "timestamp": "2026-02-03T08:10:26.640Z",
       "ip": "2401:4900:8f60:5fe8:c900:c66c:e5ea:4fd1",
       "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt21216104:1:1",
+      "title": "tt21216104:1:1",
+      "timestamp": "2026-02-03T08:13:20.741Z",
+      "ip": "2401:4900:8f60:5fe8:c900:c66c:e5ea:4fd1",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt16227240:1:1",
+      "title": "tt16227240:1:1",
+      "timestamp": "2026-02-03T08:25:19.537Z",
+      "ip": "2401:4900:ba21:d488::4b1:efc6",
+      "username": "baljeet_002"
+    },
+    {
+      "type": "series",
+      "id": "tt16227240:1:2",
+      "title": "tt16227240:1:2",
+      "timestamp": "2026-02-03T08:25:50.684Z",
+      "ip": "2401:4900:ba21:d488::4b1:efc6",
+      "username": "baljeet_002"
     }
   ],
   "activeNow": {
@@ -85859,10 +85860,17 @@
     },
     "2401:4900:8f60:5fe8:c900:c66c:e5ea:4fd1": {
       "type": "series",
-      "id": "tt21066182:1:1",
-      "title": "tt21066182:1:1",
+      "id": "tt21216104:1:1",
+      "title": "tt21216104:1:1",
       "username": "theaceofficials",
-      "lastActive": 1770106226640
+      "lastActive": 1770106400741
+    },
+    "2401:4900:ba21:d488::4b1:efc6": {
+      "type": "series",
+      "id": "tt16227240:1:2",
+      "title": "tt16227240:1:2",
+      "username": "baljeet_002",
+      "lastActive": 1770107150684
     }
   }
 }
