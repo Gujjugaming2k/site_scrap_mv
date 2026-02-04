@@ -1,5 +1,5 @@
 {
-  "totalViews": 21003,
+  "totalViews": 21006,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4387,33 +4387,10 @@
     "2405:201:2022:b81c:7994:f72c:d267:4c15",
     "122.179.124.246",
     "2405:201:2022:b81c:a5a1:4eb0:e527:d7c2",
-    "49.36.76.162"
+    "49.36.76.162",
+    "2401:4900:ac17:a27f:91a4:d6f0:a974:b357"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1399664:1:1",
-      "title": "tt1399664:1:1",
-      "timestamp": "2026-01-19T02:30:24.551Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:1:1",
-      "title": "tt1399664:1:1",
-      "timestamp": "2026-01-19T02:30:34.202Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T02:30:42.900Z",
-      "ip": "106.222.216.167",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:1",
@@ -84389,6 +84366,30 @@
       "timestamp": "2026-02-04T15:57:26.101Z",
       "ip": "2405:201:2022:b81c:a5a1:4eb0:e527:d7c2",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-02-04T16:05:58.099Z",
+      "ip": "49.36.76.162",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt33046197",
+      "title": "tt33046197",
+      "timestamp": "2026-02-04T16:10:44.916Z",
+      "ip": "2401:4900:ac17:a27f:91a4:d6f0:a974:b357",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-04T16:13:05.203Z",
+      "ip": "5.32.86.178",
+      "username": "nobody_ismy_name"
     }
   ],
   "activeNow": {
@@ -84841,11 +84842,11 @@
       "lastActive": 1769929827675
     },
     "5.32.86.178": {
-      "type": "series",
-      "id": "tt30003786:4:6",
-      "title": "tt30003786:4:6",
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "nobody_ismy_name",
-      "lastActive": 1770189035537
+      "lastActive": 1770221585203
     },
     "2406:b400:1a:e8bc:a27:a8ff:fe42:855e": {
       "type": "series",
@@ -86599,10 +86600,17 @@
     },
     "49.36.76.162": {
       "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
+      "id": "tt1187043",
+      "title": "3 Idiots",
       "username": "zealousninja",
-      "lastActive": 1770220533929
+      "lastActive": 1770221158099
+    },
+    "2401:4900:ac17:a27f:91a4:d6f0:a974:b357": {
+      "type": "movie",
+      "id": "tt33046197",
+      "title": "tt33046197",
+      "username": "vflix1993",
+      "lastActive": 1770221444916
     }
   }
 }
