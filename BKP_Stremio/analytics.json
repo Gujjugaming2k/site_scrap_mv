@@ -1,5 +1,5 @@
 {
-  "totalViews": 20976,
+  "totalViews": 20978,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4380,25 +4380,11 @@
     "2401:4900:8825:a674:b4be:89cd:dda1:1b47",
     "2409:40c4:2f:fa6f:b43b:f7ff:fe12:b37b",
     "2406:b400:1a:3712:a27:a8ff:fe42:855e",
-    "152.58.56.209"
+    "152.58.56.209",
+    "2401:4900:8fe3:8030:f001:27fd:49b6:653b",
+    "2401:4900:8fe3:8030:d4c0:6f6c:2bed:5e36"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T01:56:07.822Z",
-      "ip": "106.222.216.167",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T01:56:32.034Z",
-      "ip": "106.222.216.167",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:3",
@@ -84382,6 +84368,22 @@
       "timestamp": "2026-02-04T14:33:22.725Z",
       "ip": "139.5.196.103",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt13433812:1:16",
+      "title": "Vincenzo",
+      "timestamp": "2026-02-04T14:54:24.892Z",
+      "ip": "2401:4900:8fe3:8030:f001:27fd:49b6:653b",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt13433812:1:16",
+      "title": "Vincenzo",
+      "timestamp": "2026-02-04T14:57:38.010Z",
+      "ip": "2401:4900:8fe3:8030:d4c0:6f6c:2bed:5e36",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -86547,6 +86549,20 @@
       "title": "Dhurandhar",
       "username": "b1jju",
       "lastActive": 1770214050797
+    },
+    "2401:4900:8fe3:8030:f001:27fd:49b6:653b": {
+      "type": "series",
+      "id": "tt13433812:1:16",
+      "title": "Vincenzo",
+      "username": "theaceofficials",
+      "lastActive": 1770216864892
+    },
+    "2401:4900:8fe3:8030:d4c0:6f6c:2bed:5e36": {
+      "type": "series",
+      "id": "tt13433812:1:16",
+      "title": "Vincenzo",
+      "username": "theaceofficials",
+      "lastActive": 1770217058010
     }
   }
 }
