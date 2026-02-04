@@ -1,5 +1,5 @@
 {
-  "totalViews": 21018,
+  "totalViews": 21024,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4392,57 +4392,10 @@
     "103.172.202.14",
     "2a09:bac5:3b25:11cd::1c6:3",
     "2405:201:2033:841:d594:34f5:e395:8043",
-    "2405:201:2022:b81c:f09c:143a:ab13:e28b"
+    "2405:201:2022:b81c:f09c:143a:ab13:e28b",
+    "2409:40d4:4020:181:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T02:36:03.469Z",
-      "ip": "106.222.216.167",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T02:36:04.758Z",
-      "ip": "106.222.216.167,167.235.1.173",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T02:36:23.630Z",
-      "ip": "106.222.216.167,167.235.1.173",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt1216496",
-      "title": "tt1216496",
-      "timestamp": "2026-01-19T02:37:25.203Z",
-      "ip": "106.222.216.167",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt1216496",
-      "title": "tt1216496",
-      "timestamp": "2026-01-19T02:37:25.785Z",
-      "ip": "106.222.216.167,144.76.108.212",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T02:44:14.168Z",
-      "ip": "2a09:bac5:3e74:1aa0::2a7:f",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:1",
@@ -84394,6 +84347,54 @@
       "timestamp": "2026-02-04T17:21:46.936Z",
       "ip": "2405:201:2022:b81c:f09c:143a:ab13:e28b",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-02-04T17:32:32.687Z",
+      "ip": "2405:201:2022:b81c:f09c:143a:ab13:e28b",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-02-04T17:34:47.352Z",
+      "ip": "2405:201:2022:b81c:f09c:143a:ab13:e28b",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-02-04T17:35:43.504Z",
+      "ip": "2405:201:2022:b81c:f09c:143a:ab13:e28b",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt16366836",
+      "title": "Venom: The Last Dance",
+      "timestamp": "2026-02-04T17:42:34.650Z",
+      "ip": "2409:40d4:4020:181:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt16366836",
+      "title": "Venom: The Last Dance",
+      "timestamp": "2026-02-04T17:43:13.893Z",
+      "ip": "2409:40d4:4020:181:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt22868844",
+      "title": "Black Clover: Sword of the Wizard King",
+      "timestamp": "2026-02-04T17:44:25.438Z",
+      "ip": "2409:40d4:4020:181:8000::",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -86642,7 +86643,14 @@
       "id": "tt1187043",
       "title": "3 Idiots",
       "username": "zealousninja",
-      "lastActive": 1770225706936
+      "lastActive": 1770226543504
+    },
+    "2409:40d4:4020:181:8000::": {
+      "type": "movie",
+      "id": "tt22868844",
+      "title": "Black Clover: Sword of the Wizard King",
+      "username": "kdbotz",
+      "lastActive": 1770227065438
     }
   }
 }
