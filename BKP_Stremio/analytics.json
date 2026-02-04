@@ -1,5 +1,5 @@
 {
-  "totalViews": 20956,
+  "totalViews": 20959,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4376,33 +4376,10 @@
     "2409:40f0:101e:4c11:f03a:2087:bb2e:fde7",
     "2a09:bac5:3b22:10dc::1ae:f",
     "2409:40e4:6e:ae96:bcbc:13ff:fe44:695d",
-    "2401:9640:801:8539:10c3:7f47:f5c3:c95b"
+    "2401:9640:801:8539:10c3:7f47:f5c3:c95b",
+    "2401:4900:8825:a674:b4be:89cd:dda1:1b47"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0816692",
-      "title": "Interstellar",
-      "timestamp": "2026-01-18T21:17:03.245Z",
-      "ip": "2a09:bac1:3680:120::29e:d5",
-      "username": "switchoff009"
-    },
-    {
-      "type": "series",
-      "id": "tt2365946:1:6",
-      "title": "tt2365946:1:6",
-      "timestamp": "2026-01-18T21:57:17.397Z",
-      "ip": "2a06:c701:474f:e900:ec3c:c9c2:fbde:c618",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2365946:1:6",
-      "title": "tt2365946:1:6",
-      "timestamp": "2026-01-18T21:57:17.465Z",
-      "ip": "2a06:c701:474f:e900:ec3c:c9c2:fbde:c618",
-      "username": "aviv"
-    },
     {
       "type": "series",
       "id": "tt0369179:2:14",
@@ -84378,6 +84355,30 @@
       "timestamp": "2026-02-04T11:47:18.556Z",
       "ip": "2401:9640:801:8539:10c3:7f47:f5c3:c95b",
       "username": "wwe"
+    },
+    {
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "timestamp": "2026-02-04T12:11:43.596Z",
+      "ip": "2401:4900:8825:a674:99e2:4ef7:2771:7501",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "timestamp": "2026-02-04T12:15:05.604Z",
+      "ip": "2401:4900:8825:a674:99e2:4ef7:2771:7501",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "timestamp": "2026-02-04T12:20:32.951Z",
+      "ip": "2401:4900:8825:a674:b4be:89cd:dda1:1b47",
+      "username": "sinbad1722"
     }
   ],
   "activeNow": {
@@ -86048,11 +86049,11 @@
       "lastActive": 1770124985089
     },
     "2401:4900:8825:a674:99e2:4ef7:2771:7501": {
-      "type": "series",
-      "id": "tt6354518:2:15",
-      "title": "tt6354518:2:15",
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
       "username": "sinbad1722",
-      "lastActive": 1770191252337
+      "lastActive": 1770207305604
     },
     "45.8.19.76": {
       "type": "movie",
@@ -86515,6 +86516,13 @@
       "title": "tt33046197",
       "username": "wwe",
       "lastActive": 1770205638556
+    },
+    "2401:4900:8825:a674:b4be:89cd:dda1:1b47": {
+      "type": "movie",
+      "id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "username": "sinbad1722",
+      "lastActive": 1770207632951
     }
   }
 }
