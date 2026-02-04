@@ -1,5 +1,5 @@
 {
-  "totalViews": 20916,
+  "totalViews": 20918,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4369,25 +4369,10 @@
     "49.47.153.50",
     "2405:201:6025:a88d:d952:7909:efdf:9491",
     "2405:201:6025:a88d:1c84:706d:eb33:b386",
-    "2402:3a80:1985:ba9b:378:5634:1232:5476"
+    "2402:3a80:1985:ba9b:378:5634:1232:5476",
+    "2409:40e2:20a6:f205:5d5:7b41:b958:4d6e"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0169102",
-      "title": "tt0169102",
-      "timestamp": "2026-01-18T19:33:44.021Z",
-      "ip": "2409:4085:84:5358::556:58a5",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-01-18T19:39:01.050Z",
-      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
-      "username": "gendaswammy"
-    },
     {
       "type": "movie",
       "id": "tt31227572",
@@ -84371,6 +84356,22 @@
       "timestamp": "2026-02-04T09:11:52.027Z",
       "ip": "139.5.196.103",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt26238710",
+      "title": "tt26238710",
+      "timestamp": "2026-02-04T09:21:01.914Z",
+      "ip": "2409:40e2:20a6:f205:5d5:7b41:b958:4d6e",
+      "username": "adr7000"
+    },
+    {
+      "type": "movie",
+      "id": "tt3526286",
+      "title": "tt3526286",
+      "timestamp": "2026-02-04T09:28:38.222Z",
+      "ip": "103.46.200.105",
+      "username": "katdenningssss"
     }
   ],
   "activeNow": {
@@ -85475,10 +85476,10 @@
     },
     "103.46.200.105": {
       "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
+      "id": "tt3526286",
+      "title": "tt3526286",
       "username": "katdenningssss",
-      "lastActive": 1770195371020
+      "lastActive": 1770197318222
     },
     "2401:4900:1f29:a02f:f926:4acc:5225:3d2e": {
       "type": "series",
@@ -86459,6 +86460,13 @@
       "title": "tt35335046:1:5",
       "username": "lazerkey",
       "lastActive": 1770194873411
+    },
+    "2409:40e2:20a6:f205:5d5:7b41:b958:4d6e": {
+      "type": "movie",
+      "id": "tt26238710",
+      "title": "tt26238710",
+      "username": "adr7000",
+      "lastActive": 1770196861914
     }
   }
 }
