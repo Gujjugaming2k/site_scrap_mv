@@ -1,5 +1,5 @@
 {
-  "totalViews": 20817,
+  "totalViews": 20819,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4356,22 +4356,6 @@
     "146.196.34.186"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0903747:4:11",
-      "title": "tt0903747:4:11",
-      "timestamp": "2026-01-18T17:25:04.803Z",
-      "ip": "2409:40e0:c:b41a:8000::",
-      "username": "tejmani"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:4:11",
-      "title": "tt0903747:4:11",
-      "timestamp": "2026-01-18T17:25:06.753Z",
-      "ip": "2409:40e0:c:b41a:8000::",
-      "username": "tejmani"
-    },
     {
       "type": "series",
       "id": "tt0903747:4:12",
@@ -84355,6 +84339,22 @@
       "timestamp": "2026-02-04T04:31:16.953Z",
       "ip": "146.196.34.186",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt39313294:1:4",
+      "title": "tt39313294:1:4",
+      "timestamp": "2026-02-04T04:45:12.171Z",
+      "ip": "190.140.187.206",
+      "username": "ymcinema"
+    },
+    {
+      "type": "series",
+      "id": "tt39313294:1:5",
+      "title": "tt39313294:1:5",
+      "timestamp": "2026-02-04T04:45:37.592Z",
+      "ip": "190.140.187.206",
+      "username": "ymcinema"
     }
   ],
   "activeNow": {
@@ -86324,6 +86324,13 @@
       "title": "tt27497448:1:3",
       "username": "gaendaswami",
       "lastActive": 1770179476953
+    },
+    "190.140.187.206": {
+      "type": "series",
+      "id": "tt39313294:1:5",
+      "title": "tt39313294:1:5",
+      "username": "ymcinema",
+      "lastActive": 1770180337592
     }
   }
 }
