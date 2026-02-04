@@ -1,5 +1,5 @@
 {
-  "totalViews": 20959,
+  "totalViews": 20960,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4377,17 +4377,10 @@
     "2a09:bac5:3b22:10dc::1ae:f",
     "2409:40e4:6e:ae96:bcbc:13ff:fe44:695d",
     "2401:9640:801:8539:10c3:7f47:f5c3:c95b",
-    "2401:4900:8825:a674:b4be:89cd:dda1:1b47"
+    "2401:4900:8825:a674:b4be:89cd:dda1:1b47",
+    "2409:40c4:2f:fa6f:b43b:f7ff:fe12:b37b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0369179:2:14",
-      "title": "tt0369179:2:14",
-      "timestamp": "2026-01-18T22:10:09.636Z",
-      "ip": "154.254.210.90",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt0106677",
@@ -84379,6 +84372,14 @@
       "timestamp": "2026-02-04T12:20:32.951Z",
       "ip": "2401:4900:8825:a674:b4be:89cd:dda1:1b47",
       "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "timestamp": "2026-02-04T13:05:47.731Z",
+      "ip": "2409:40c4:2f:fa6f:b43b:f7ff:fe12:b37b",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -86523,6 +86524,13 @@
       "title": "Chainsaw Man - The Movie: Reze Arc",
       "username": "sinbad1722",
       "lastActive": 1770207632951
+    },
+    "2409:40c4:2f:fa6f:b43b:f7ff:fe12:b37b": {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "username": "b1jju",
+      "lastActive": 1770210347731
     }
   }
 }
