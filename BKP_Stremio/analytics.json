@@ -1,5 +1,5 @@
 {
-  "totalViews": 21007,
+  "totalViews": 21011,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4388,41 +4388,10 @@
     "122.179.124.246",
     "2405:201:2022:b81c:a5a1:4eb0:e527:d7c2",
     "49.36.76.162",
-    "2401:4900:ac17:a27f:91a4:d6f0:a974:b357"
+    "2401:4900:ac17:a27f:91a4:d6f0:a974:b357",
+    "103.172.202.14"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T02:30:50.297Z",
-      "ip": "106.222.216.167,144.76.222.123",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:1:2",
-      "title": "tt1399664:1:2",
-      "timestamp": "2026-01-19T02:31:20.487Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T02:32:35.342Z",
-      "ip": "106.222.216.167",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T02:32:36.533Z",
-      "ip": "106.222.216.167,195.201.202.182",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:2",
@@ -84390,6 +84359,38 @@
       "timestamp": "2026-02-04T16:15:39.254Z",
       "ip": "139.5.196.103",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt35684868",
+      "title": "tt35684868",
+      "timestamp": "2026-02-04T16:30:55.291Z",
+      "ip": "103.172.202.14",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-02-04T16:32:32.411Z",
+      "ip": "2405:201:2022:b81c:a5a1:4eb0:e527:d7c2",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt26915338:1:1",
+      "title": "tt26915338:1:1",
+      "timestamp": "2026-02-04T16:43:44.736Z",
+      "ip": "146.196.34.186",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt26915338:1:2",
+      "title": "tt26915338:1:2",
+      "timestamp": "2026-02-04T16:44:09.729Z",
+      "ip": "146.196.34.186",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -86355,10 +86356,10 @@
     },
     "146.196.34.186": {
       "type": "series",
-      "id": "tt5332206:1:2",
-      "title": "tt5332206:1:2",
+      "id": "tt26915338:1:2",
+      "title": "tt26915338:1:2",
       "username": "gaendaswami",
-      "lastActive": 1770204589801
+      "lastActive": 1770223449729
     },
     "190.140.187.206": {
       "type": "movie",
@@ -86593,10 +86594,10 @@
     },
     "2405:201:2022:b81c:a5a1:4eb0:e527:d7c2": {
       "type": "movie",
-      "id": "tt1187043",
-      "title": "3 Idiots",
+      "id": "tt26443597",
+      "title": "tt26443597",
       "username": "zealousninja",
-      "lastActive": 1770220646101
+      "lastActive": 1770222752411
     },
     "49.36.76.162": {
       "type": "movie",
@@ -86611,6 +86612,13 @@
       "title": "tt33046197",
       "username": "vflix1993",
       "lastActive": 1770221444916
+    },
+    "103.172.202.14": {
+      "type": "movie",
+      "id": "tt35684868",
+      "title": "tt35684868",
+      "username": "saisrinivas",
+      "lastActive": 1770222655291
     }
   }
 }
