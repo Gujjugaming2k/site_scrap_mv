@@ -1,5 +1,5 @@
 {
-  "totalViews": 20844,
+  "totalViews": 20848,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4356,41 +4356,10 @@
     "146.196.34.186",
     "2409:40d2:305f:36e:b0e7:8fbc:2809:9366",
     "182.69.181.34",
-    "2401:4900:7dd0:e0f4:3811:6bff:fe7a:7b77"
+    "2401:4900:7dd0:e0f4:3811:6bff:fe7a:7b77",
+    "2409:40e4:1156:87c2:9c1a:8eff:fefd:7a36"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt6751668",
-      "title": "tt6751668",
-      "timestamp": "2026-01-18T17:54:38.493Z",
-      "ip": "2409:40d0:103a:86a8:7c3f:d4ff:fefb:b641",
-      "username": "magicmannn"
-    },
-    {
-      "type": "movie",
-      "id": "tt4901306",
-      "title": "tt4901306",
-      "timestamp": "2026-01-18T17:54:39.179Z",
-      "ip": "2a02:b023:40:b431:fba3:8acb:418e:986",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:1:7",
-      "title": "Lost",
-      "timestamp": "2026-01-18T17:54:52.059Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt2531336:2:3",
-      "title": "tt2531336:2:3",
-      "timestamp": "2026-01-18T17:54:58.287Z",
-      "ip": "49.43.32.197",
-      "username": "surti_lala"
-    },
     {
       "type": "series",
       "id": "tt32536168:1:1",
@@ -84358,6 +84327,38 @@
       "timestamp": "2026-02-04T05:49:24.073Z",
       "ip": "190.140.187.206",
       "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt32362695",
+      "title": "tt32362695",
+      "timestamp": "2026-02-04T06:15:14.705Z",
+      "ip": "2409:40e4:1156:87c2:9c1a:8eff:fefd:7a36",
+      "username": "skssunilbh"
+    },
+    {
+      "type": "movie",
+      "id": "tt30818815",
+      "title": "tt30818815",
+      "timestamp": "2026-02-04T06:17:05.709Z",
+      "ip": "2409:40e4:1156:87c2:9c1a:8eff:fefd:7a36",
+      "username": "skssunilbh"
+    },
+    {
+      "type": "movie",
+      "id": "tt28802657",
+      "title": "tt28802657",
+      "timestamp": "2026-02-04T06:20:56.587Z",
+      "ip": "2409:40e4:1156:87c2:9c1a:8eff:fefd:7a36",
+      "username": "skssunilbh"
+    },
+    {
+      "type": "movie",
+      "id": "tt0073115",
+      "title": "tt0073115",
+      "timestamp": "2026-02-04T06:22:52.254Z",
+      "ip": "2409:40e4:1156:87c2:9c1a:8eff:fefd:7a36",
+      "username": "skssunilbh"
     }
   ],
   "activeNow": {
@@ -86355,6 +86356,13 @@
       "title": "Fallout",
       "username": "chetan_b2",
       "lastActive": 1770183105355
+    },
+    "2409:40e4:1156:87c2:9c1a:8eff:fefd:7a36": {
+      "type": "movie",
+      "id": "tt0073115",
+      "title": "tt0073115",
+      "username": "skssunilbh",
+      "lastActive": 1770186172254
     }
   }
 }
