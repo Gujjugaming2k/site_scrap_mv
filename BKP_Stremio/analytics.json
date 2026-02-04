@@ -1,5 +1,5 @@
 {
-  "totalViews": 20930,
+  "totalViews": 20935,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4371,49 +4371,10 @@
     "2405:201:6025:a88d:1c84:706d:eb33:b386",
     "2402:3a80:1985:ba9b:378:5634:1232:5476",
     "2409:40e2:20a6:f205:5d5:7b41:b958:4d6e",
-    "157.48.66.127"
+    "157.48.66.127",
+    "173.239.211.31"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:2",
-      "title": "tt35335046:1:2",
-      "timestamp": "2026-01-18T19:56:47.823Z",
-      "ip": "76.119.235.176",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt27458939",
-      "title": "tt27458939",
-      "timestamp": "2026-01-18T20:09:11.056Z",
-      "ip": "109.76.17.47",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt3032476:3:1",
-      "title": "tt3032476:3:1",
-      "timestamp": "2026-01-18T20:09:18.503Z",
-      "ip": "109.76.17.47",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-18T20:16:10.833Z",
-      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:3",
-      "title": "tt35335046:1:3",
-      "timestamp": "2026-01-18T20:24:17.386Z",
-      "ip": "76.119.235.176",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt5057054:1:6",
@@ -84373,6 +84334,46 @@
       "timestamp": "2026-02-04T10:16:51.088Z",
       "ip": "27.6.92.204",
       "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:22:44",
+      "title": "tt0388629:22:44",
+      "timestamp": "2026-02-04T10:17:47.334Z",
+      "ip": "27.6.92.204",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:22:43",
+      "title": "tt0388629:22:43",
+      "timestamp": "2026-02-04T10:18:59.089Z",
+      "ip": "27.6.92.204",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:22:44",
+      "title": "tt0388629:22:44",
+      "timestamp": "2026-02-04T10:19:41.634Z",
+      "ip": "27.6.92.204",
+      "username": "nothing_8888"
+    },
+    {
+      "type": "movie",
+      "id": "tt0479968",
+      "title": "tt0479968",
+      "timestamp": "2026-02-04T10:31:48.117Z",
+      "ip": "173.239.211.31",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-04T10:31:58.322Z",
+      "ip": "103.46.200.105",
+      "username": "katdenningssss"
     }
   ],
   "activeNow": {
@@ -85330,10 +85331,10 @@
     },
     "27.6.92.204": {
       "type": "series",
-      "id": "tt0388629:22:43",
-      "title": "tt0388629:22:43",
+      "id": "tt0388629:22:44",
+      "title": "tt0388629:22:44",
       "username": "nothing_8888",
-      "lastActive": 1770200211088
+      "lastActive": 1770200381634
     },
     "2a09:bac5:40b4:1a96::2a6:20": {
       "type": "movie",
@@ -85477,10 +85478,10 @@
     },
     "103.46.200.105": {
       "type": "movie",
-      "id": "tt3526286",
-      "title": "tt3526286",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "katdenningssss",
-      "lastActive": 1770197318222
+      "lastActive": 1770201118322
     },
     "2401:4900:1f29:a02f:f926:4acc:5225:3d2e": {
       "type": "series",
@@ -86475,6 +86476,13 @@
       "title": "Black Clover: Sword of the Wizard King",
       "username": "kdbotz",
       "lastActive": 1770198006903
+    },
+    "173.239.211.31": {
+      "type": "movie",
+      "id": "tt0479968",
+      "title": "tt0479968",
+      "username": "theonlyfreak",
+      "lastActive": 1770201108117
     }
   }
 }
