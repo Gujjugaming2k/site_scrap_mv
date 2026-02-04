@@ -1,5 +1,5 @@
 {
-  "totalViews": 20965,
+  "totalViews": 20966,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4382,14 +4382,6 @@
     "2406:b400:1a:3712:a27:a8ff:fe42:855e"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0993846",
-      "title": "The Wolf of Wall Street",
-      "timestamp": "2026-01-18T23:52:35.671Z",
-      "ip": "162.247.55.241",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt10676052",
@@ -84381,6 +84373,14 @@
       "timestamp": "2026-02-04T13:25:43.696Z",
       "ip": "2409:40e2:20a6:f205:5d5:7b41:b958:4d6e",
       "username": "adr7000"
+    },
+    {
+      "type": "movie",
+      "id": "tt9537292",
+      "title": "tt9537292",
+      "timestamp": "2026-02-04T13:53:37.494Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -84553,11 +84553,11 @@
       "lastActive": 1769861905703
     },
     "139.5.196.103": {
-      "type": "series",
-      "id": "tt31844233:1:3",
-      "title": "tt31844233:1:3",
+      "type": "movie",
+      "id": "tt9537292",
+      "title": "tt9537292",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770196312027
+      "lastActive": 1770213217494
     },
     "94.156.30.57": {
       "type": "series",
