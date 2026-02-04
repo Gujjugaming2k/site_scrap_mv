@@ -1,5 +1,5 @@
 {
-  "totalViews": 20943,
+  "totalViews": 20945,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4375,25 +4375,10 @@
     "173.239.211.31",
     "2409:40f0:101e:4c11:f03a:2087:bb2e:fde7",
     "2a09:bac5:3b22:10dc::1ae:f",
-    "2409:40e4:6e:ae96:bcbc:13ff:fe44:695d"
+    "2409:40e4:6e:ae96:bcbc:13ff:fe44:695d",
+    "2401:9640:801:8539:10c3:7f47:f5c3:c95b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2365946:1:5",
-      "title": "tt2365946:1:5",
-      "timestamp": "2026-01-18T21:02:33.890Z",
-      "ip": "2a06:c701:474f:e900:ec3c:c9c2:fbde:c618",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2365946:1:5",
-      "title": "tt2365946:1:5",
-      "timestamp": "2026-01-18T21:02:33.954Z",
-      "ip": "2a06:c701:474f:e900:ec3c:c9c2:fbde:c618",
-      "username": "aviv"
-    },
     {
       "type": "series",
       "id": "tt2365946:1:4",
@@ -84377,6 +84362,22 @@
       "timestamp": "2026-02-04T10:56:53.020Z",
       "ip": "2409:40e4:6e:ae96:bcbc:13ff:fe44:695d",
       "username": "skssunilbh"
+    },
+    {
+      "type": "movie",
+      "id": "tt29638896",
+      "title": "tt29638896",
+      "timestamp": "2026-02-04T11:07:34.451Z",
+      "ip": "103.24.85.97",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt29713093",
+      "title": "tt29713093",
+      "timestamp": "2026-02-04T11:14:03.212Z",
+      "ip": "2401:9640:801:8539:10c3:7f47:f5c3:c95b",
+      "username": "superememayank"
     }
   ],
   "activeNow": {
@@ -86184,7 +86185,7 @@
       "id": "tt29638896",
       "title": "tt29638896",
       "username": "william097",
-      "lastActive": 1770194574995
+      "lastActive": 1770203254451
     },
     "2401:4900:8f60:5fe8:77b7:fec5:2001:b560": {
       "type": "series",
@@ -86507,6 +86508,13 @@
       "title": "Fifty Shades Freed",
       "username": "skssunilbh",
       "lastActive": 1770202613020
+    },
+    "2401:9640:801:8539:10c3:7f47:f5c3:c95b": {
+      "type": "movie",
+      "id": "tt29713093",
+      "title": "tt29713093",
+      "username": "superememayank",
+      "lastActive": 1770203643212
     }
   }
 }
