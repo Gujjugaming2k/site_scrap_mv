@@ -1,5 +1,5 @@
 {
-  "totalViews": 20809,
+  "totalViews": 20813,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4354,38 +4354,6 @@
     "2405:201:2022:b81c:bd7a:f113:556a:599d"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0119385",
-      "title": "tt0119385",
-      "timestamp": "2026-01-18T17:17:17.190Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt0119385",
-      "title": "tt0119385",
-      "timestamp": "2026-01-18T17:17:23.478Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt13349716",
-      "title": "tt13349716",
-      "timestamp": "2026-01-18T17:20:19.057Z",
-      "ip": "2401:4900:7909:6017:98cd:7c90:78a1:55c6",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "movie",
-      "id": "tt32175880",
-      "title": "tt32175880",
-      "timestamp": "2026-01-18T17:20:48.179Z",
-      "ip": "152.59.164.19",
-      "username": "jinwoooooi"
-    },
     {
       "type": "series",
       "id": "tt0903747:4:7",
@@ -84353,6 +84321,38 @@
       "timestamp": "2026-02-04T02:19:14.535Z",
       "ip": "2405:201:2022:b81c:bd7a:f113:556a:599d",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt13207736:1:1",
+      "title": "tt13207736:1:1",
+      "timestamp": "2026-02-04T02:34:15.236Z",
+      "ip": "2405:201:2022:b81c:bd7a:f113:556a:599d",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:5",
+      "title": "tt31812476:2:5",
+      "timestamp": "2026-02-04T02:36:48.900Z",
+      "ip": "103.24.85.97",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:5",
+      "title": "tt31812476:2:5",
+      "timestamp": "2026-02-04T02:37:19.522Z",
+      "ip": "103.24.85.97",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-02-04T02:40:12.248Z",
+      "ip": "103.24.85.97",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -86157,10 +86157,10 @@
     },
     "103.24.85.97": {
       "type": "movie",
-      "id": "tt0471571",
-      "title": "tt0471571",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
       "username": "william097",
-      "lastActive": 1770136146165
+      "lastActive": 1770172812248
     },
     "2401:4900:8f60:5fe8:77b7:fec5:2001:b560": {
       "type": "series",
@@ -86304,10 +86304,10 @@
     },
     "2405:201:2022:b81c:bd7a:f113:556a:599d": {
       "type": "series",
-      "id": "tt0158417:1:1",
-      "title": "tt0158417:1:1",
+      "id": "tt13207736:1:1",
+      "title": "tt13207736:1:1",
       "username": "zealousninja",
-      "lastActive": 1770171554535
+      "lastActive": 1770172455236
     }
   }
 }
