@@ -1,5 +1,5 @@
 {
-  "totalViews": 21024,
+  "totalViews": 21026,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4396,22 +4396,6 @@
     "2409:40d4:4020:181:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T02:44:14.595Z",
-      "ip": "2a09:bac5:3e74:1aa0::2a7:f,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T02:45:31.653Z",
-      "ip": "2a09:bac5:3e74:1aa0::2a7:f",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:1",
@@ -84395,6 +84379,22 @@
       "timestamp": "2026-02-04T17:44:25.438Z",
       "ip": "2409:40d4:4020:181:8000::",
       "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-02-04T17:54:57.447Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "movie",
+      "id": "tt32360696",
+      "title": "French Lover",
+      "timestamp": "2026-02-04T17:58:54.431Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -84742,11 +84742,11 @@
       "lastActive": 1769877863483
     },
     "203.192.255.46": {
-      "type": "series",
-      "id": "tt14186672:2:2",
-      "title": "tt14186672:2:2",
+      "type": "movie",
+      "id": "tt32360696",
+      "title": "French Lover",
       "username": "chetan_b2",
-      "lastActive": 1770218837019
+      "lastActive": 1770227934431
     },
     "157.48.83.94": {
       "type": "series",
@@ -85716,10 +85716,10 @@
     },
     "103.175.168.106": {
       "type": "series",
-      "id": "tt1355642:1:2",
-      "title": "tt1355642:1:2",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
       "username": "un0fficial_itachi",
-      "lastActive": 1770047692422
+      "lastActive": 1770227697447
     },
     "38.224.232.52": {
       "type": "movie",
