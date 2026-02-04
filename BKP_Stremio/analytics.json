@@ -1,5 +1,5 @@
 {
-  "totalViews": 20900,
+  "totalViews": 20905,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4364,49 +4364,10 @@
     "2409:40e4:5b:b7f5:1c64:faff:feb6:3cb",
     "2401:4900:1c0e:5dad:28bb:3c66:2fd6:20f8",
     "2409:40e5:11a0:2242:982e:bff:fe53:1da1",
-    "117.198.115.157"
+    "117.198.115.157",
+    "2405:201:6025:a88d:7239:6c35:1889:e8ef"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt28102595:2:5",
-      "title": "tt28102595:2:5",
-      "timestamp": "2026-01-18T19:02:03.439Z",
-      "ip": "103.181.65.117",
-      "username": "mutti9"
-    },
-    {
-      "type": "series",
-      "id": "tt28102595:2:6",
-      "title": "tt28102595:2:6",
-      "timestamp": "2026-01-18T19:02:42.907Z",
-      "ip": "103.181.65.117",
-      "username": "mutti9"
-    },
-    {
-      "type": "movie",
-      "id": "tt0816692",
-      "title": "Interstellar",
-      "timestamp": "2026-01-18T19:04:30.647Z",
-      "ip": "2a09:bac5:3c93:1a46::29e:39",
-      "username": "switchoff009"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-18T19:05:08.713Z",
-      "ip": "76.119.235.176",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-18T19:06:21.590Z",
-      "ip": "76.119.235.176",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt22898462",
@@ -84366,6 +84327,46 @@
       "timestamp": "2026-02-04T07:48:24.912Z",
       "ip": "117.198.115.157",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt28629017",
+      "title": "tt28629017",
+      "timestamp": "2026-02-04T08:00:41.651Z",
+      "ip": "2406:b400:1a:8c9a:a27:a8ff:fe42:855e",
+      "username": "nothingokk"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-04T08:03:33.509Z",
+      "ip": "49.36.211.45",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-04T08:04:43.974Z",
+      "ip": "49.36.211.45",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-04T08:04:56.302Z",
+      "ip": "2405:201:6025:a88d:7239:6c35:1889:e8ef",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-04T08:05:26.695Z",
+      "ip": "49.36.211.45",
+      "username": "infinityseeker"
     }
   ],
   "activeNow": {
@@ -86065,10 +86066,10 @@
     },
     "2406:b400:1a:8c9a:a27:a8ff:fe42:855e": {
       "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "id": "tt28629017",
+      "title": "tt28629017",
       "username": "nothingokk",
-      "lastActive": 1770167569215
+      "lastActive": 1770192041651
     },
     "2401:4900:8ff2:1829:5d25:eb76:ebc2:3c5a": {
       "type": "series",
@@ -86215,7 +86216,7 @@
       "id": "tt33014583",
       "title": "Dhurandhar",
       "username": "infinityseeker",
-      "lastActive": 1770137397467
+      "lastActive": 1770192326695
     },
     "2402:8100:2701:e7a7:2cfb:ea1c:93f4:8c99": {
       "type": "movie",
@@ -86419,6 +86420,13 @@
       "title": "Weapons",
       "username": "zealousninja",
       "lastActive": 1770191304912
+    },
+    "2405:201:6025:a88d:7239:6c35:1889:e8ef": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "infinityseeker",
+      "lastActive": 1770192296302
     }
   }
 }
