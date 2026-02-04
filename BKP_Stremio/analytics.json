@@ -1,5 +1,5 @@
 {
-  "totalViews": 21048,
+  "totalViews": 21051,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4400,30 +4400,6 @@
     "2409:40d4:106c:e86b:ccfa:87ff:fef5:617c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1679482:1:1",
-      "title": "tt1679482:1:1",
-      "timestamp": "2026-01-19T03:07:31.380Z",
-      "ip": "2409:40e0:105d:35d1:ac08:8bff:feec:8edb",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1679482:1:1",
-      "title": "tt1679482:1:1",
-      "timestamp": "2026-01-19T03:07:57.222Z",
-      "ip": "2409:40e0:105d:35d1:ac08:8bff:feec:8edb",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt31812476:2:1",
-      "title": "tt31812476:2:1",
-      "timestamp": "2026-01-19T03:07:58.911Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
     {
       "type": "series",
       "id": "tt31812476:2:2",
@@ -84399,6 +84375,30 @@
       "timestamp": "2026-02-04T20:13:59.149Z",
       "ip": "2401:4900:8825:a674:b4be:89cd:dda1:1b47",
       "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:1:1",
+      "title": "tt28102595:1:1",
+      "timestamp": "2026-02-04T20:42:23.660Z",
+      "ip": "5.32.86.178",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:1:2",
+      "title": "tt28102595:1:2",
+      "timestamp": "2026-02-04T20:43:24.509Z",
+      "ip": "5.32.86.178",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt35684868",
+      "title": "tt35684868",
+      "timestamp": "2026-02-04T20:44:33.842Z",
+      "ip": "103.172.202.14",
+      "username": "saisrinivas"
     }
   ],
   "activeNow": {
@@ -84851,11 +84851,11 @@
       "lastActive": 1769929827675
     },
     "5.32.86.178": {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "type": "series",
+      "id": "tt28102595:1:2",
+      "title": "tt28102595:1:2",
       "username": "nobody_ismy_name",
-      "lastActive": 1770221585203
+      "lastActive": 1770237804509
     },
     "2406:b400:1a:e8bc:a27:a8ff:fe42:855e": {
       "type": "series",
@@ -86626,7 +86626,7 @@
       "id": "tt35684868",
       "title": "tt35684868",
       "username": "saisrinivas",
-      "lastActive": 1770222655291
+      "lastActive": 1770237873842
     },
     "2a09:bac5:3b25:11cd::1c6:3": {
       "type": "movie",
