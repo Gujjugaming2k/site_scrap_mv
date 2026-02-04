@@ -1,5 +1,5 @@
 {
-  "totalViews": 21052,
+  "totalViews": 21054,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4397,25 +4397,10 @@
     "2409:40e5:11e3:27e4:b891:5fff:fee8:7736",
     "2409:40c4:100d:41ef:7070:a1ff:feda:1a21",
     "2409:40d4:e:13a6:a46f:5bff:feb5:c921",
-    "2409:40d4:106c:e86b:ccfa:87ff:fef5:617c"
+    "2409:40d4:106c:e86b:ccfa:87ff:fef5:617c",
+    "2405:201:a001:21d8:1262:935:cd50:43ff"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31812476:2:3",
-      "title": "tt31812476:2:3",
-      "timestamp": "2026-01-19T03:08:28.194Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt27263807",
-      "title": "tt27263807",
-      "timestamp": "2026-01-19T03:27:56.120Z",
-      "ip": "2409:40c0:2c:751a:e868:bff:fe7f:144f",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt27263807",
@@ -84399,6 +84384,22 @@
       "timestamp": "2026-02-04T20:55:13.813Z",
       "ip": "5.32.86.178",
       "username": "nobody_ismy_name"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:2:1",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-04T21:56:35.544Z",
+      "ip": "2405:201:a001:21d8:1262:935:cd50:43ff",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:2:2",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-04T21:57:23.171Z",
+      "ip": "2405:201:a001:21d8:1262:935:cd50:43ff",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -86690,6 +86691,13 @@
       "title": "tt1399664:1:2",
       "username": "golu_vk",
       "lastActive": 1770234618555
+    },
+    "2405:201:a001:21d8:1262:935:cd50:43ff": {
+      "type": "series",
+      "id": "tt12343534:2:2",
+      "title": "JUJUTSU KAISEN",
+      "username": "william097",
+      "lastActive": 1770242243171
     }
   }
 }
