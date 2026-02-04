@@ -1,5 +1,5 @@
 {
-  "totalViews": 21006,
+  "totalViews": 21007,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4391,14 +4391,6 @@
     "2401:4900:ac17:a27f:91a4:d6f0:a974:b357"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T02:30:43.307Z",
-      "ip": "106.222.216.167,144.76.222.123",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:2",
@@ -84390,6 +84382,14 @@
       "timestamp": "2026-02-04T16:13:05.203Z",
       "ip": "5.32.86.178",
       "username": "nobody_ismy_name"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:7",
+      "title": "tt31844233:1:7",
+      "timestamp": "2026-02-04T16:15:39.254Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -84563,10 +84563,10 @@
     },
     "139.5.196.103": {
       "type": "series",
-      "id": "tt39227709:1:1",
-      "title": "tt39227709:1:1",
+      "id": "tt31844233:1:7",
+      "title": "tt31844233:1:7",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770219113873
+      "lastActive": 1770221739254
     },
     "94.156.30.57": {
       "type": "series",
