@@ -1,5 +1,5 @@
 {
-  "totalViews": 20995,
+  "totalViews": 21000,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4384,49 +4384,11 @@
     "2401:4900:8fe3:8030:f001:27fd:49b6:653b",
     "2401:4900:8fe3:8030:d4c0:6f6c:2bed:5e36",
     "2401:4900:3daa:2825:8445:12ff:fe81:7cef",
-    "2405:201:2022:b81c:7994:f72c:d267:4c15"
+    "2405:201:2022:b81c:7994:f72c:d267:4c15",
+    "122.179.124.246",
+    "2405:201:2022:b81c:a5a1:4eb0:e527:d7c2"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt6604188",
-      "title": "TRON: Ares",
-      "timestamp": "2026-01-19T02:27:38.954Z",
-      "ip": "47.15.115.41",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T02:28:43.146Z",
-      "ip": "106.222.216.167",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T02:28:44.382Z",
-      "ip": "106.222.216.167,144.76.222.123",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T02:28:59.426Z",
-      "ip": "106.222.216.167,144.76.222.123",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt1312221",
-      "title": "Frankenstein",
-      "timestamp": "2026-01-19T02:29:05.271Z",
-      "ip": "2409:40d4:40db:ad3e:8000::",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt1312221",
@@ -84386,6 +84348,46 @@
       "timestamp": "2026-02-04T15:27:17.019Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt29638896",
+      "title": "tt29638896",
+      "timestamp": "2026-02-04T15:31:27.293Z",
+      "ip": "122.179.124.246",
+      "username": "user_9b"
+    },
+    {
+      "type": "series",
+      "id": "tt39227709:1:1",
+      "title": "tt39227709:1:1",
+      "timestamp": "2026-02-04T15:31:53.873Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:2:23",
+      "title": "Lost",
+      "timestamp": "2026-02-04T15:32:08.927Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:3:2",
+      "title": "Lost",
+      "timestamp": "2026-02-04T15:32:16.970Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-02-04T15:34:40.568Z",
+      "ip": "2405:201:2022:b81c:a5a1:4eb0:e527:d7c2",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -84559,10 +84561,10 @@
     },
     "139.5.196.103": {
       "type": "series",
-      "id": "tt31844233:1:6",
-      "title": "tt31844233:1:6",
+      "id": "tt39227709:1:1",
+      "title": "tt39227709:1:1",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770217717544
+      "lastActive": 1770219113873
     },
     "94.156.30.57": {
       "type": "series",
@@ -84776,10 +84778,10 @@
     },
     "116.68.74.75": {
       "type": "series",
-      "id": "tt0411008:3:1",
+      "id": "tt0411008:3:2",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1770188042543
+      "lastActive": 1770219136970
     },
     "2409:40e5:1046:7359:4852:fb48:776e:3d9d": {
       "type": "movie",
@@ -86579,6 +86581,20 @@
       "title": "tt26443597",
       "username": "zealousninja",
       "lastActive": 1770218618512
+    },
+    "122.179.124.246": {
+      "type": "movie",
+      "id": "tt29638896",
+      "title": "tt29638896",
+      "username": "user_9b",
+      "lastActive": 1770219087293
+    },
+    "2405:201:2022:b81c:a5a1:4eb0:e527:d7c2": {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "username": "zealousninja",
+      "lastActive": 1770219280568
     }
   }
 }
