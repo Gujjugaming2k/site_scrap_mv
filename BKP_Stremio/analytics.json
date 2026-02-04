@@ -1,5 +1,5 @@
 {
-  "totalViews": 20960,
+  "totalViews": 20964,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4378,41 +4378,10 @@
     "2409:40e4:6e:ae96:bcbc:13ff:fe44:695d",
     "2401:9640:801:8539:10c3:7f47:f5c3:c95b",
     "2401:4900:8825:a674:b4be:89cd:dda1:1b47",
-    "2409:40c4:2f:fa6f:b43b:f7ff:fe12:b37b"
+    "2409:40c4:2f:fa6f:b43b:f7ff:fe12:b37b",
+    "2406:b400:1a:3712:a27:a8ff:fe42:855e"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0106677",
-      "title": "tt0106677",
-      "timestamp": "2026-01-18T22:35:38.795Z",
-      "ip": "185.111.157.253",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0993846",
-      "title": "The Wolf of Wall Street",
-      "timestamp": "2026-01-18T22:48:16.317Z",
-      "ip": "162.247.55.241",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt5574490:6:7",
-      "title": "tt5574490:6:7",
-      "timestamp": "2026-01-18T22:51:44.053Z",
-      "ip": "154.208.49.96",
-      "username": "cutepupper"
-    },
-    {
-      "type": "movie",
-      "id": "tt10726604",
-      "title": "tt10726604",
-      "timestamp": "2026-01-18T23:02:28.958Z",
-      "ip": "49.204.16.76",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt3032476:3:5",
@@ -84380,6 +84349,38 @@
       "timestamp": "2026-02-04T13:05:47.731Z",
       "ip": "2409:40c4:2f:fa6f:b43b:f7ff:fe12:b37b",
       "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:2",
+      "title": "tt31844233:1:2",
+      "timestamp": "2026-02-04T13:13:46.966Z",
+      "ip": "2409:40c4:2f:fa6f:b43b:f7ff:fe12:b37b",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:3",
+      "title": "tt31844233:1:3",
+      "timestamp": "2026-02-04T13:14:51.279Z",
+      "ip": "2409:40c4:2f:fa6f:b43b:f7ff:fe12:b37b",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:3",
+      "title": "tt35335046:1:3",
+      "timestamp": "2026-02-04T13:17:07.487Z",
+      "ip": "2409:40c4:2f:fa6f:b43b:f7ff:fe12:b37b",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-04T13:22:26.168Z",
+      "ip": "2406:b400:1a:3712:a27:a8ff:fe42:855e",
+      "username": "nothingokk"
     }
   ],
   "activeNow": {
@@ -86527,10 +86528,17 @@
     },
     "2409:40c4:2f:fa6f:b43b:f7ff:fe12:b37b": {
       "type": "series",
-      "id": "tt31844233:1:1",
-      "title": "tt31844233:1:1",
+      "id": "tt35335046:1:3",
+      "title": "tt35335046:1:3",
       "username": "b1jju",
-      "lastActive": 1770210347731
+      "lastActive": 1770211027487
+    },
+    "2406:b400:1a:3712:a27:a8ff:fe42:855e": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "nothingokk",
+      "lastActive": 1770211346168
     }
   }
 }
