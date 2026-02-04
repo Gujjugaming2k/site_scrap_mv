@@ -1,5 +1,5 @@
 {
-  "totalViews": 20966,
+  "totalViews": 20970,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4379,41 +4379,10 @@
     "2401:9640:801:8539:10c3:7f47:f5c3:c95b",
     "2401:4900:8825:a674:b4be:89cd:dda1:1b47",
     "2409:40c4:2f:fa6f:b43b:f7ff:fe12:b37b",
-    "2406:b400:1a:3712:a27:a8ff:fe42:855e"
+    "2406:b400:1a:3712:a27:a8ff:fe42:855e",
+    "152.58.56.209"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt10676052",
-      "title": "The Fantastic 4: First Steps",
-      "timestamp": "2026-01-19T00:12:23.311Z",
-      "ip": "178.147.149.18",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt33035373:1:1",
-      "title": "tt33035373:1:1",
-      "timestamp": "2026-01-19T00:38:22.574Z",
-      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
-      "username": "demon18319"
-    },
-    {
-      "type": "movie",
-      "id": "tt6604188",
-      "title": "TRON: Ares",
-      "timestamp": "2026-01-19T00:58:09.978Z",
-      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:5:6",
-      "title": "tt0903747:5:6",
-      "timestamp": "2026-01-19T01:01:32.824Z",
-      "ip": "182.69.183.164",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt12374544:1:1",
@@ -84381,6 +84350,38 @@
       "timestamp": "2026-02-04T13:53:37.494Z",
       "ip": "139.5.196.103",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:3",
+      "title": "tt31844233:1:3",
+      "timestamp": "2026-02-04T14:06:59.062Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:3",
+      "title": "tt31844233:1:3",
+      "timestamp": "2026-02-04T14:07:28.540Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-04T14:07:30.797Z",
+      "ip": "152.58.56.209",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:4",
+      "title": "tt31844233:1:4",
+      "timestamp": "2026-02-04T14:09:41.856Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -84553,11 +84554,11 @@
       "lastActive": 1769861905703
     },
     "139.5.196.103": {
-      "type": "movie",
-      "id": "tt9537292",
-      "title": "tt9537292",
+      "type": "series",
+      "id": "tt31844233:1:4",
+      "title": "tt31844233:1:4",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770213217494
+      "lastActive": 1770214181856
     },
     "94.156.30.57": {
       "type": "series",
@@ -86539,6 +86540,13 @@
       "title": "Dhurandhar",
       "username": "nothingokk",
       "lastActive": 1770211346168
+    },
+    "152.58.56.209": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "b1jju",
+      "lastActive": 1770214050797
     }
   }
 }
