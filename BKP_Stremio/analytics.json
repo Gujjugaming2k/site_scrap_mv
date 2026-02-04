@@ -1,5 +1,5 @@
 {
-  "totalViews": 20890,
+  "totalViews": 20892,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4362,25 +4362,10 @@
     "2401:4900:71b4:681e:c916:cd27:d978:e1d5",
     "2409:40e5:2046:8c0b:c407:71ff:fe34:d1da",
     "2409:40e4:5b:b7f5:1c64:faff:feb6:3cb",
-    "2401:4900:1c0e:5dad:28bb:3c66:2fd6:20f8"
+    "2401:4900:1c0e:5dad:28bb:3c66:2fd6:20f8",
+    "2409:40e5:11a0:2242:982e:bff:fe53:1da1"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt23790696",
-      "title": "tt23790696",
-      "timestamp": "2026-01-18T18:44:14.175Z",
-      "ip": "2409:4052:dbf:2e57:1c0b:1779:dcf2:2304",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt6197170:1:12",
-      "title": "tt6197170:1:12",
-      "timestamp": "2026-01-18T18:45:20.978Z",
-      "ip": "2409:4052:dbf:2e57:1c0b:1779:dcf2:2304",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt2531336:2:1",
@@ -84364,6 +84349,22 @@
       "timestamp": "2026-02-04T07:24:07.469Z",
       "ip": "139.5.196.103",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt30007502",
+      "title": "tt30007502",
+      "timestamp": "2026-02-04T07:30:40.538Z",
+      "ip": "2409:40e5:11a0:2242:982e:bff:fe53:1da1",
+      "username": "skssunilbh"
+    },
+    {
+      "type": "movie",
+      "id": "tt30007502",
+      "title": "tt30007502",
+      "timestamp": "2026-02-04T07:31:31.191Z",
+      "ip": "2409:40e5:11a0:2242:982e:bff:fe53:1da1",
+      "username": "skssunilbh"
     }
   ],
   "activeNow": {
@@ -86403,6 +86404,13 @@
       "title": "tt29638896",
       "username": "saisrinivas",
       "lastActive": 1770189087321
+    },
+    "2409:40e5:11a0:2242:982e:bff:fe53:1da1": {
+      "type": "movie",
+      "id": "tt30007502",
+      "title": "tt30007502",
+      "username": "skssunilbh",
+      "lastActive": 1770190291191
     }
   }
 }
