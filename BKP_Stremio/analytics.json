@@ -1,5 +1,5 @@
 {
-  "totalViews": 21000,
+  "totalViews": 21003,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4386,33 +4386,10 @@
     "2401:4900:3daa:2825:8445:12ff:fe81:7cef",
     "2405:201:2022:b81c:7994:f72c:d267:4c15",
     "122.179.124.246",
-    "2405:201:2022:b81c:a5a1:4eb0:e527:d7c2"
+    "2405:201:2022:b81c:a5a1:4eb0:e527:d7c2",
+    "49.36.76.162"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1312221",
-      "title": "Frankenstein",
-      "timestamp": "2026-01-19T02:29:06.542Z",
-      "ip": "2409:40d4:40db:ad3e:8000::",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:1:1",
-      "title": "tt1399664:1:1",
-      "timestamp": "2026-01-19T02:29:07.541Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:1:2",
-      "title": "tt1399664:1:2",
-      "timestamp": "2026-01-19T02:29:45.896Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
     {
       "type": "series",
       "id": "tt1399664:1:1",
@@ -84388,6 +84365,30 @@
       "timestamp": "2026-02-04T15:34:40.568Z",
       "ip": "2405:201:2022:b81c:a5a1:4eb0:e527:d7c2",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt7721946",
+      "title": "tt7721946",
+      "timestamp": "2026-02-04T15:46:25.912Z",
+      "ip": "2401:4900:88ba:65a9:cbeb:75b6:32b7:1c3f",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-04T15:55:33.929Z",
+      "ip": "49.36.76.162",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-02-04T15:57:26.101Z",
+      "ip": "2405:201:2022:b81c:a5a1:4eb0:e527:d7c2",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -86143,10 +86144,10 @@
     },
     "2401:4900:88ba:65a9:cbeb:75b6:32b7:1c3f": {
       "type": "movie",
-      "id": "tt33244668",
-      "title": "tt33244668",
+      "id": "tt7721946",
+      "title": "tt7721946",
       "username": "b1jju",
-      "lastActive": 1770132866918
+      "lastActive": 1770219985912
     },
     "157.48.237.156": {
       "type": "series",
@@ -86594,7 +86595,14 @@
       "id": "tt1187043",
       "title": "3 Idiots",
       "username": "zealousninja",
-      "lastActive": 1770219280568
+      "lastActive": 1770220646101
+    },
+    "49.36.76.162": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "zealousninja",
+      "lastActive": 1770220533929
     }
   }
 }
