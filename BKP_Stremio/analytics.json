@@ -1,5 +1,5 @@
 {
-  "totalViews": 21036,
+  "totalViews": 21040,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4395,41 +4395,11 @@
     "2405:201:2022:b81c:f09c:143a:ab13:e28b",
     "2409:40d4:4020:181:8000::",
     "2409:40e5:11e3:27e4:b891:5fff:fee8:7736",
-    "2409:40c4:100d:41ef:7070:a1ff:feda:1a21"
+    "2409:40c4:100d:41ef:7070:a1ff:feda:1a21",
+    "2409:40d4:e:13a6:a46f:5bff:feb5:c921",
+    "2409:40d4:106c:e86b:ccfa:87ff:fef5:617c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T02:48:40.879Z",
-      "ip": "2a09:bac5:3e74:1aa0::2a7:f",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T02:48:41.444Z",
-      "ip": "2a09:bac5:3e74:1aa0::2a7:f,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T02:51:25.269Z",
-      "ip": "106.222.216.167,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T02:51:27.321Z",
-      "ip": "106.222.216.167",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:1",
@@ -84397,6 +84367,38 @@
       "timestamp": "2026-02-04T18:17:27.439Z",
       "ip": "2405:201:2022:b81c:7994:f72c:d267:4c15",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:2",
+      "title": "tt1399664:1:2",
+      "timestamp": "2026-02-04T19:03:14.222Z",
+      "ip": "2409:40d4:e:13a6:a46f:5bff:feb5:c921",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:1",
+      "title": "tt1399664:1:1",
+      "timestamp": "2026-02-04T19:04:14.289Z",
+      "ip": "2409:40d4:e:13a6:a46f:5bff:feb5:c921",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:2",
+      "title": "tt1399664:1:2",
+      "timestamp": "2026-02-04T19:05:03.653Z",
+      "ip": "2409:40d4:e:13a6:a46f:5bff:feb5:c921",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:2",
+      "title": "tt1399664:1:2",
+      "timestamp": "2026-02-04T19:06:31.765Z",
+      "ip": "2409:40d4:106c:e86b:ccfa:87ff:fef5:617c",
+      "username": "golu_vk"
     }
   ],
   "activeNow": {
@@ -86674,6 +86676,20 @@
       "title": "tt9140554:1:3",
       "username": "b1jju",
       "lastActive": 1770228321548
+    },
+    "2409:40d4:e:13a6:a46f:5bff:feb5:c921": {
+      "type": "series",
+      "id": "tt1399664:1:2",
+      "title": "tt1399664:1:2",
+      "username": "golu_vk",
+      "lastActive": 1770231903653
+    },
+    "2409:40d4:106c:e86b:ccfa:87ff:fef5:617c": {
+      "type": "series",
+      "id": "tt1399664:1:2",
+      "title": "tt1399664:1:2",
+      "username": "golu_vk",
+      "lastActive": 1770231991765
     }
   }
 }
