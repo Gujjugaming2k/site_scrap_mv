@@ -1,5 +1,5 @@
 {
-  "totalViews": 20918,
+  "totalViews": 20919,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4370,17 +4370,10 @@
     "2405:201:6025:a88d:d952:7909:efdf:9491",
     "2405:201:6025:a88d:1c84:706d:eb33:b386",
     "2402:3a80:1985:ba9b:378:5634:1232:5476",
-    "2409:40e2:20a6:f205:5d5:7b41:b958:4d6e"
+    "2409:40e2:20a6:f205:5d5:7b41:b958:4d6e",
+    "157.48.66.127"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-01-18T19:39:16.859Z",
-      "ip": "38.199.5.35",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt28102595:2:6",
@@ -84372,6 +84365,14 @@
       "timestamp": "2026-02-04T09:28:38.222Z",
       "ip": "103.46.200.105",
       "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt22868844",
+      "title": "Black Clover: Sword of the Wizard King",
+      "timestamp": "2026-02-04T09:40:06.903Z",
+      "ip": "157.48.66.127",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -86467,6 +86468,13 @@
       "title": "tt26238710",
       "username": "adr7000",
       "lastActive": 1770196861914
+    },
+    "157.48.66.127": {
+      "type": "movie",
+      "id": "tt22868844",
+      "title": "Black Clover: Sword of the Wizard King",
+      "username": "kdbotz",
+      "lastActive": 1770198006903
     }
   }
 }
