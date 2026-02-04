@@ -1,5 +1,5 @@
 {
-  "totalViews": 21011,
+  "totalViews": 21015,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4389,41 +4389,11 @@
     "2405:201:2022:b81c:a5a1:4eb0:e527:d7c2",
     "49.36.76.162",
     "2401:4900:ac17:a27f:91a4:d6f0:a974:b357",
-    "103.172.202.14"
+    "103.172.202.14",
+    "2a09:bac5:3b25:11cd::1c6:3",
+    "2405:201:2033:841:d594:34f5:e395:8043"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T02:32:52.083Z",
-      "ip": "106.222.216.167,195.201.202.182",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt31812476:2:1",
-      "title": "tt31812476:2:1",
-      "timestamp": "2026-01-19T02:32:55.942Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt10919420:3:1",
-      "title": "tt10919420:3:1",
-      "timestamp": "2026-01-19T02:33:11.720Z",
-      "ip": "106.222.216.167",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt10919420:3:1",
-      "title": "tt10919420:3:1",
-      "timestamp": "2026-01-19T02:33:12.173Z",
-      "ip": "106.222.216.167,162.55.141.20",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt10919420:3:2",
@@ -84391,6 +84361,38 @@
       "timestamp": "2026-02-04T16:44:09.729Z",
       "ip": "146.196.34.186",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-04T16:48:10.201Z",
+      "ip": "103.46.200.105",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt0469027",
+      "title": "tt0469027",
+      "timestamp": "2026-02-04T16:50:55.155Z",
+      "ip": "2a09:bac5:3b25:11cd::1c6:3",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-04T16:55:31.395Z",
+      "ip": "2401:4900:8f60:5fe8:c4c7:befd:3cfb:fa6c",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt17538632",
+      "title": "Hot Milk",
+      "timestamp": "2026-02-04T16:58:47.867Z",
+      "ip": "2405:201:2033:841:d594:34f5:e395:8043",
+      "username": "surti_lala"
     }
   ],
   "activeNow": {
@@ -85495,10 +85497,10 @@
     },
     "103.46.200.105": {
       "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "id": "tt27543632",
+      "title": "tt27543632",
       "username": "katdenningssss",
-      "lastActive": 1770201118322
+      "lastActive": 1770223690201
     },
     "2401:4900:1f29:a02f:f926:4acc:5225:3d2e": {
       "type": "series",
@@ -86397,11 +86399,11 @@
       "lastActive": 1770186594178
     },
     "2401:4900:8f60:5fe8:c4c7:befd:3cfb:fa6c": {
-      "type": "series",
-      "id": "tt13676344:1:1",
-      "title": "tt13676344:1:1",
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "theaceofficials",
-      "lastActive": 1770187459254
+      "lastActive": 1770224131395
     },
     "2401:4900:71b4:681e:c916:cd27:d978:e1d5": {
       "type": "movie",
@@ -86619,6 +86621,20 @@
       "title": "tt35684868",
       "username": "saisrinivas",
       "lastActive": 1770222655291
+    },
+    "2a09:bac5:3b25:11cd::1c6:3": {
+      "type": "movie",
+      "id": "tt0469027",
+      "title": "tt0469027",
+      "username": "sachinprem1",
+      "lastActive": 1770223855155
+    },
+    "2405:201:2033:841:d594:34f5:e395:8043": {
+      "type": "movie",
+      "id": "tt17538632",
+      "title": "Hot Milk",
+      "username": "surti_lala",
+      "lastActive": 1770224327867
     }
   }
 }
