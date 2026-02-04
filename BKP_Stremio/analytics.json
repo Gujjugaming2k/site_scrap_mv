@@ -1,5 +1,5 @@
 {
-  "totalViews": 20905,
+  "totalViews": 20907,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4365,25 +4365,11 @@
     "2401:4900:1c0e:5dad:28bb:3c66:2fd6:20f8",
     "2409:40e5:11a0:2242:982e:bff:fe53:1da1",
     "117.198.115.157",
-    "2405:201:6025:a88d:7239:6c35:1889:e8ef"
+    "2405:201:6025:a88d:7239:6c35:1889:e8ef",
+    "49.47.153.50",
+    "2405:201:6025:a88d:d952:7909:efdf:9491"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt22898462",
-      "title": "The Conjuring: Last Rites",
-      "timestamp": "2026-01-18T19:08:57.462Z",
-      "ip": "2401:4900:8fda:e871:3158:adbd:3bb8:dfc8",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt5057054:1:4",
-      "title": "tt5057054:1:4",
-      "timestamp": "2026-01-18T19:12:16.060Z",
-      "ip": "103.4.221.252",
-      "username": "sexhabibi"
-    },
     {
       "type": "series",
       "id": "tt5057054:1:4",
@@ -84367,6 +84353,22 @@
       "timestamp": "2026-02-04T08:05:26.695Z",
       "ip": "49.36.211.45",
       "username": "infinityseeker"
+    },
+    {
+      "type": "series",
+      "id": "tt31250134:1:1",
+      "title": "tt31250134:1:1",
+      "timestamp": "2026-02-04T08:17:39.858Z",
+      "ip": "49.47.153.50",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-04T08:21:54.663Z",
+      "ip": "2405:201:6025:a88d:d952:7909:efdf:9491",
+      "username": "infinityseeker"
     }
   ],
   "activeNow": {
@@ -86427,6 +86429,20 @@
       "title": "Dhurandhar",
       "username": "infinityseeker",
       "lastActive": 1770192296302
+    },
+    "49.47.153.50": {
+      "type": "series",
+      "id": "tt31250134:1:1",
+      "title": "tt31250134:1:1",
+      "username": "theonlyfreak",
+      "lastActive": 1770193059858
+    },
+    "2405:201:6025:a88d:d952:7909:efdf:9491": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "infinityseeker",
+      "lastActive": 1770193314663
     }
   }
 }
