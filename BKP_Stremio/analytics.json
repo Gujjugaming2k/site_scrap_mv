@@ -1,5 +1,5 @@
 {
-  "totalViews": 20942,
+  "totalViews": 20943,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4374,17 +4374,10 @@
     "157.48.66.127",
     "173.239.211.31",
     "2409:40f0:101e:4c11:f03a:2087:bb2e:fde7",
-    "2a09:bac5:3b22:10dc::1ae:f"
+    "2a09:bac5:3b22:10dc::1ae:f",
+    "2409:40e4:6e:ae96:bcbc:13ff:fe44:695d"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt5574490:6:5",
-      "title": "tt5574490:6:5",
-      "timestamp": "2026-01-18T21:00:08.073Z",
-      "ip": "154.208.49.98",
-      "username": "cutepupper"
-    },
     {
       "type": "series",
       "id": "tt2365946:1:5",
@@ -84376,6 +84369,14 @@
       "timestamp": "2026-02-04T10:47:55.687Z",
       "ip": "2a09:bac5:3b22:10dc::1ae:f",
       "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt4477536",
+      "title": "Fifty Shades Freed",
+      "timestamp": "2026-02-04T10:56:53.020Z",
+      "ip": "2409:40e4:6e:ae96:bcbc:13ff:fe44:695d",
+      "username": "skssunilbh"
     }
   ],
   "activeNow": {
@@ -86499,6 +86500,13 @@
       "title": "tt4833824",
       "username": "sachinprem1",
       "lastActive": 1770202075687
+    },
+    "2409:40e4:6e:ae96:bcbc:13ff:fe44:695d": {
+      "type": "movie",
+      "id": "tt4477536",
+      "title": "Fifty Shades Freed",
+      "username": "skssunilbh",
+      "lastActive": 1770202613020
     }
   }
 }
