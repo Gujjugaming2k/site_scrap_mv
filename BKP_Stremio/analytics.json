@@ -1,5 +1,5 @@
 {
-  "totalViews": 20910,
+  "totalViews": 20915,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4367,49 +4367,11 @@
     "117.198.115.157",
     "2405:201:6025:a88d:7239:6c35:1889:e8ef",
     "49.47.153.50",
-    "2405:201:6025:a88d:d952:7909:efdf:9491"
+    "2405:201:6025:a88d:d952:7909:efdf:9491",
+    "2405:201:6025:a88d:1c84:706d:eb33:b386",
+    "2402:3a80:1985:ba9b:378:5634:1232:5476"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-18T19:28:30.229Z",
-      "ip": "2409:4085:84:5358::556:58a5",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt32278054",
-      "title": "tt32278054",
-      "timestamp": "2026-01-18T19:29:20.382Z",
-      "ip": "103.249.4.60",
-      "username": "tgh2r"
-    },
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-18T19:31:50.931Z",
-      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "movie",
-      "id": "tt38840875",
-      "title": "tt38840875",
-      "timestamp": "2026-01-18T19:32:59.401Z",
-      "ip": "2409:4085:84:5358::556:58a5",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt8141442:1:1",
-      "title": "tt8141442:1:1",
-      "timestamp": "2026-01-18T19:33:26.209Z",
-      "ip": "2409:4085:84:5358::556:58a5",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt5057054:1:5",
@@ -84369,6 +84331,46 @@
       "timestamp": "2026-02-04T08:42:54.995Z",
       "ip": "103.24.85.97",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-04T08:45:42.836Z",
+      "ip": "2405:201:6025:a88d:1c84:706d:eb33:b386",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-04T08:46:02.319Z",
+      "ip": "2405:201:6025:a88d:1c84:706d:eb33:b386",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:6",
+      "title": "tt35335046:1:6",
+      "timestamp": "2026-02-04T08:47:32.304Z",
+      "ip": "2402:3a80:1985:ba9b:378:5634:1232:5476",
+      "username": "lazerkey"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:5",
+      "title": "tt35335046:1:5",
+      "timestamp": "2026-02-04T08:47:53.411Z",
+      "ip": "2402:3a80:1985:ba9b:378:5634:1232:5476",
+      "username": "lazerkey"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-04T08:56:11.020Z",
+      "ip": "103.46.200.105",
+      "username": "katdenningssss"
     }
   ],
   "activeNow": {
@@ -85476,7 +85478,7 @@
       "id": "tt27543632",
       "title": "tt27543632",
       "username": "katdenningssss",
-      "lastActive": 1770164992874
+      "lastActive": 1770195371020
     },
     "2401:4900:1f29:a02f:f926:4acc:5225:3d2e": {
       "type": "series",
@@ -86443,6 +86445,20 @@
       "title": "Dhurandhar",
       "username": "infinityseeker",
       "lastActive": 1770193314663
+    },
+    "2405:201:6025:a88d:1c84:706d:eb33:b386": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "infinityseeker",
+      "lastActive": 1770194762319
+    },
+    "2402:3a80:1985:ba9b:378:5634:1232:5476": {
+      "type": "series",
+      "id": "tt35335046:1:5",
+      "title": "tt35335046:1:5",
+      "username": "lazerkey",
+      "lastActive": 1770194873411
     }
   }
 }
