@@ -1,5 +1,5 @@
 {
-  "totalViews": 21047,
+  "totalViews": 21048,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4400,14 +4400,6 @@
     "2409:40d4:106c:e86b:ccfa:87ff:fef5:617c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1679482:1:2",
-      "title": "tt1679482:1:2",
-      "timestamp": "2026-01-19T03:07:03.293Z",
-      "ip": "2409:40e0:105d:35d1:ac08:8bff:feec:8edb",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt1679482:1:1",
@@ -84399,6 +84391,14 @@
       "timestamp": "2026-02-04T19:50:18.555Z",
       "ip": "2409:40d4:106c:e86b:ccfa:87ff:fef5:617c",
       "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:15",
+      "title": "tt6354518:2:15",
+      "timestamp": "2026-02-04T20:13:59.149Z",
+      "ip": "2401:4900:8825:a674:b4be:89cd:dda1:1b47",
+      "username": "sinbad1722"
     }
   ],
   "activeNow": {
@@ -86538,11 +86538,11 @@
       "lastActive": 1770205638556
     },
     "2401:4900:8825:a674:b4be:89cd:dda1:1b47": {
-      "type": "movie",
-      "id": "tt30472557",
-      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "type": "series",
+      "id": "tt6354518:2:15",
+      "title": "tt6354518:2:15",
       "username": "sinbad1722",
-      "lastActive": 1770207632951
+      "lastActive": 1770236039149
     },
     "2409:40c4:2f:fa6f:b43b:f7ff:fe12:b37b": {
       "type": "series",
