@@ -1,5 +1,5 @@
 {
-  "totalViews": 21132,
+  "totalViews": 21134,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4427,22 +4427,6 @@
     "2405:201:a001:21d8:f89f:3e0a:d42b:775b"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-19T06:43:58.719Z",
-      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt0434409",
-      "title": "V for Vendetta",
-      "timestamp": "2026-01-19T06:57:09.194Z",
-      "ip": "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72",
-      "username": "golu_vk"
-    },
     {
       "type": "movie",
       "id": "tt0468569",
@@ -84426,6 +84410,22 @@
       "timestamp": "2026-02-05T08:08:51.216Z",
       "ip": "2409:40d4:1002:9654:dcf6:deff:fe53:a72a",
       "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt32278140",
+      "title": "tt32278140",
+      "timestamp": "2026-02-05T08:18:55.875Z",
+      "ip": "38.224.232.52",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt22742720",
+      "title": "tt22742720",
+      "timestamp": "2026-02-05T08:28:55.218Z",
+      "ip": "103.240.170.95",
+      "username": "pingmenoone"
     }
   ],
   "activeNow": {
@@ -85754,10 +85754,10 @@
     },
     "38.224.232.52": {
       "type": "movie",
-      "id": "tt36616410",
-      "title": "tt36616410",
+      "id": "tt32278140",
+      "title": "tt32278140",
       "username": "thala_75",
-      "lastActive": 1770134155708
+      "lastActive": 1770279535875
     },
     "103.24.85.17": {
       "type": "movie",
@@ -86310,7 +86310,7 @@
       "id": "tt22742720",
       "title": "tt22742720",
       "username": "pingmenoone",
-      "lastActive": 1770218563829
+      "lastActive": 1770280135218
     },
     "2405:201:202d:d014:309e:99c2:a8ae:7705": {
       "type": "movie",
