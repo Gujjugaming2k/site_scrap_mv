@@ -1,5 +1,5 @@
 {
-  "totalViews": 21165,
+  "totalViews": 21167,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4443,22 +4443,6 @@
     "223.185.27.89"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4236770:3:9",
-      "title": "tt4236770:3:9",
-      "timestamp": "2026-01-19T08:03:05.473Z",
-      "ip": "2401:4900:1f3a:6bcf:cdcf:c:15c0:a703",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-19T08:07:39.055Z",
-      "ip": "2409:40e2:10df:dffe:d94b:192d:cba7:994b",
-      "username": "johnwick"
-    },
     {
       "type": "series",
       "id": "tt27497448:1:2",
@@ -84442,6 +84426,22 @@
       "timestamp": "2026-02-05T11:51:46.710Z",
       "ip": "2409:40d4:40d5:9d25:8000::",
       "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt1392190",
+      "title": "Mad Max: Fury Road",
+      "timestamp": "2026-02-05T12:22:36.783Z",
+      "ip": "103.46.200.105",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt34365591",
+      "title": "tt34365591",
+      "timestamp": "2026-02-05T12:24:17.174Z",
+      "ip": "103.46.200.105",
+      "username": "brosportses"
     }
   ],
   "activeNow": {
@@ -85546,10 +85546,10 @@
     },
     "103.46.200.105": {
       "type": "movie",
-      "id": "tt1846675",
-      "title": "tt1846675",
+      "id": "tt34365591",
+      "title": "tt34365591",
       "username": "brosportses",
-      "lastActive": 1770286768677
+      "lastActive": 1770294257174
     },
     "2401:4900:1f29:a02f:f926:4acc:5225:3d2e": {
       "type": "series",
