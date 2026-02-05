@@ -1,5 +1,5 @@
 {
-  "totalViews": 21187,
+  "totalViews": 21194,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4447,65 +4447,12 @@
     "49.47.153.90",
     "152.58.37.112",
     "103.46.200.34",
-    "2401:4900:1f29:9d85:d9e2:9f14:f815:fd2a"
+    "2401:4900:1f29:9d85:d9e2:9f14:f815:fd2a",
+    "2409:40d4:30d3:22a7:5460:85ff:fed8:941b",
+    "2401:4900:8f60:5fe8:e12b:5288:b61d:4ce4",
+    "2409:40d4:f9:10fb:34fa:caff:fe33:7a9c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt6197170:1:2",
-      "title": "tt6197170:1:2",
-      "timestamp": "2026-01-19T08:50:52.992Z",
-      "ip": "2409:4085:2db4:59bf::1489:3211",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt0760437:1:1",
-      "title": "tt0760437:1:1",
-      "timestamp": "2026-01-19T08:51:20.886Z",
-      "ip": "103.170.53.195",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt0760437:1:2",
-      "title": "tt0760437:1:2",
-      "timestamp": "2026-01-19T08:51:48.045Z",
-      "ip": "103.170.53.195",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-19T08:52:15.133Z",
-      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-19T08:52:15.215Z",
-      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
-      "username": "nabakun"
-    },
-    {
-      "type": "series",
-      "id": "tt0760437:1:2",
-      "title": "tt0760437:1:2",
-      "timestamp": "2026-01-19T08:52:42.069Z",
-      "ip": "103.170.53.195",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt0760437:1:2",
-      "title": "tt0760437:1:2",
-      "timestamp": "2026-01-19T08:53:31.842Z",
-      "ip": "103.170.53.195",
-      "username": "gaendaswami"
-    },
     {
       "type": "movie",
       "id": "tt3758172",
@@ -84449,6 +84396,62 @@
       "timestamp": "2026-02-05T14:10:36.463Z",
       "ip": "2401:4900:1f29:9d85:d9e2:9f14:f815:fd2a",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt3606756",
+      "title": "Incredibles 2",
+      "timestamp": "2026-02-05T14:20:22.644Z",
+      "ip": "2401:4900:1f29:9d85:d9e2:9f14:f815:fd2a",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "timestamp": "2026-02-05T14:22:20.154Z",
+      "ip": "2409:40d4:30d3:22a7:5460:85ff:fed8:941b",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:2",
+      "title": "tt31844233:1:2",
+      "timestamp": "2026-02-05T14:23:30.546Z",
+      "ip": "2409:40d4:30d3:22a7:5460:85ff:fed8:941b",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt27922706",
+      "title": "tt27922706",
+      "timestamp": "2026-02-05T14:25:27.914Z",
+      "ip": "2401:4900:8f60:5fe8:e12b:5288:b61d:4ce4",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:8",
+      "title": "Fallout",
+      "timestamp": "2026-02-05T14:25:33.281Z",
+      "ip": "2409:40d4:f9:10fb:34fa:caff:fe33:7a9c",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:2",
+      "title": "tt1399664:1:2",
+      "timestamp": "2026-02-05T14:28:52.271Z",
+      "ip": "2409:40d4:f9:10fb:34fa:caff:fe33:7a9c",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt4907198",
+      "title": "tt4907198",
+      "timestamp": "2026-02-05T14:29:24.816Z",
+      "ip": "2409:40d4:f9:10fb:34fa:caff:fe33:7a9c",
+      "username": "golu_vk"
     }
   ],
   "activeNow": {
@@ -87086,10 +87089,31 @@
     },
     "2401:4900:1f29:9d85:d9e2:9f14:f815:fd2a": {
       "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
+      "id": "tt3606756",
+      "title": "Incredibles 2",
       "username": "gaendaswami",
-      "lastActive": 1770300636463
+      "lastActive": 1770301222644
+    },
+    "2409:40d4:30d3:22a7:5460:85ff:fed8:941b": {
+      "type": "series",
+      "id": "tt31844233:1:2",
+      "title": "tt31844233:1:2",
+      "username": "golu_vk",
+      "lastActive": 1770301410546
+    },
+    "2401:4900:8f60:5fe8:e12b:5288:b61d:4ce4": {
+      "type": "movie",
+      "id": "tt27922706",
+      "title": "tt27922706",
+      "username": "theaceofficials",
+      "lastActive": 1770301527914
+    },
+    "2409:40d4:f9:10fb:34fa:caff:fe33:7a9c": {
+      "type": "movie",
+      "id": "tt4907198",
+      "title": "tt4907198",
+      "username": "golu_vk",
+      "lastActive": 1770301764816
     }
   }
 }
