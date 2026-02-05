@@ -1,5 +1,5 @@
 {
-  "totalViews": 21073,
+  "totalViews": 21076,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4409,30 +4409,6 @@
     "2409:40d2:3052:ad9c:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31938062:1:1",
-      "title": "tt31938062:1:1",
-      "timestamp": "2026-01-19T05:02:18.352Z",
-      "ip": "2409:40e4:27:3c9c:dd21:340f:d678:93c8",
-      "username": "golu_8340"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:1:2",
-      "title": "tt31938062:1:2",
-      "timestamp": "2026-01-19T05:03:06.646Z",
-      "ip": "2409:40e4:27:3c9c:dd21:340f:d678:93c8",
-      "username": "golu_8340"
-    },
-    {
-      "type": "series",
-      "id": "tt30293074:1:1",
-      "title": "tt30293074:1:1",
-      "timestamp": "2026-01-19T05:10:12.884Z",
-      "ip": "103.250.161.250",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt10872600",
@@ -84408,6 +84384,30 @@
       "timestamp": "2026-02-05T03:22:56.191Z",
       "ip": "2409:40d2:3052:ad9c:8000::",
       "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:3",
+      "title": "tt27497448:1:3",
+      "timestamp": "2026-02-05T03:23:43.103Z",
+      "ip": "2409:40d2:3052:ad9c:8000::",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt29921437:1:1",
+      "title": "tt29921437:1:1",
+      "timestamp": "2026-02-05T03:32:13.157Z",
+      "ip": "2405:201:2022:b81c:7994:f72c:d267:4c15",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt29921437:1:1",
+      "title": "tt29921437:1:1",
+      "timestamp": "2026-02-05T03:32:54.807Z",
+      "ip": "2405:201:2022:b81c:7994:f72c:d267:4c15",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -86596,11 +86596,11 @@
       "lastActive": 1770217941288
     },
     "2405:201:2022:b81c:7994:f72c:d267:4c15": {
-      "type": "movie",
-      "id": "tt29471573",
-      "title": "tt29471573",
+      "type": "series",
+      "id": "tt29921437:1:1",
+      "title": "tt29921437:1:1",
       "username": "zealousninja",
-      "lastActive": 1770229047439
+      "lastActive": 1770262374807
     },
     "122.179.124.246": {
       "type": "movie",
@@ -86758,10 +86758,10 @@
     },
     "2409:40d2:3052:ad9c:8000::": {
       "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
+      "id": "tt27497448:1:3",
+      "title": "tt27497448:1:3",
       "username": "demon18319",
-      "lastActive": 1770261776191
+      "lastActive": 1770261823103
     }
   }
 }
