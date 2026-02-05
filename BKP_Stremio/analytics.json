@@ -1,5 +1,5 @@
 {
-  "totalViews": 21124,
+  "totalViews": 21128,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4421,41 +4421,10 @@
     "2405:201:a001:21d8:193b:3900:4bd6:1614",
     "49.37.117.145",
     "2401:4900:1f29:9d85:20a6:268a:1d14:488b",
-    "2401:4900:1c0a:539c:18ea:3662:43dc:77d2"
+    "2401:4900:1c0a:539c:18ea:3662:43dc:77d2",
+    "2405:201:a001:21d8:8955:67a5:c548:55b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:1:7",
-      "title": "Lost",
-      "timestamp": "2026-01-19T06:35:13.938Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:1:7",
-      "title": "Lost",
-      "timestamp": "2026-01-19T06:35:37.054Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:1:8",
-      "title": "Lost",
-      "timestamp": "2026-01-19T06:36:00.385Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt0303068",
-      "title": "tt0303068",
-      "timestamp": "2026-01-19T06:37:08.803Z",
-      "ip": "2409:40c1:31c4:c72c:a016:9aff:fe01:d5d7",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt14364480",
@@ -84423,6 +84392,38 @@
       "timestamp": "2026-02-05T07:28:59.352Z",
       "ip": "2401:4900:1c0a:539c:18ea:3662:43dc:77d2",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt5950044",
+      "title": "Superman",
+      "timestamp": "2026-02-05T07:47:31.096Z",
+      "ip": "2409:40d4:1002:9654:dcf6:deff:fe53:a72a",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt35727678",
+      "title": "tt35727678",
+      "timestamp": "2026-02-05T07:52:26.320Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt9253866:1:7",
+      "title": "tt9253866:1:7",
+      "timestamp": "2026-02-05T07:55:20.644Z",
+      "ip": "2405:201:a001:21d8:8955:67a5:c548:55b",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt36815135",
+      "title": "tt36815135",
+      "timestamp": "2026-02-05T07:58:23.019Z",
+      "ip": "2a10:484:3:1::13",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -84595,11 +84596,11 @@
       "lastActive": 1769861905703
     },
     "139.5.196.103": {
-      "type": "series",
-      "id": "tt31844233:1:7",
-      "title": "tt31844233:1:7",
+      "type": "movie",
+      "id": "tt35727678",
+      "title": "tt35727678",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770221739254
+      "lastActive": 1770277946320
     },
     "94.156.30.57": {
       "type": "series",
@@ -86738,10 +86739,10 @@
     },
     "2a10:484:3:1::13": {
       "type": "movie",
-      "id": "tt27673536",
-      "title": "tt27673536",
+      "id": "tt36815135",
+      "title": "tt36815135",
       "username": "william097",
-      "lastActive": 1770256546165
+      "lastActive": 1770278303019
     },
     "152.59.48.52": {
       "type": "movie",
@@ -86849,11 +86850,11 @@
       "lastActive": 1770274163019
     },
     "2409:40d4:1002:9654:dcf6:deff:fe53:a72a": {
-      "type": "series",
-      "id": "tt12637874:2:8",
-      "title": "Fallout",
+      "type": "movie",
+      "id": "tt5950044",
+      "title": "Superman",
       "username": "golu_vk",
-      "lastActive": 1770274820288
+      "lastActive": 1770277651096
     },
     "2405:201:a001:21d8:193b:3900:4bd6:1614": {
       "type": "series",
@@ -86882,6 +86883,13 @@
       "title": "tt15830678:1:6",
       "username": "dillon_ka_shooter",
       "lastActive": 1770276539352
+    },
+    "2405:201:a001:21d8:8955:67a5:c548:55b": {
+      "type": "series",
+      "id": "tt9253866:1:7",
+      "title": "tt9253866:1:7",
+      "username": "william097",
+      "lastActive": 1770278120644
     }
   }
 }
