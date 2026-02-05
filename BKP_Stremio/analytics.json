@@ -1,5 +1,5 @@
 {
-  "totalViews": 21105,
+  "totalViews": 21106,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4418,14 +4418,6 @@
     "2405:201:202d:d014:ab57:3dc2:21c:b4e6"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt16385150:1:3",
-      "title": "tt16385150:1:3",
-      "timestamp": "2026-01-19T05:57:39.318Z",
-      "ip": "2405:201:6025:a88d:f7dc:690d:cd4:1b64",
-      "username": "infinityseeker"
-    },
     {
       "type": "movie",
       "id": "tt1855329",
@@ -84417,6 +84409,14 @@
       "timestamp": "2026-02-05T05:37:45.576Z",
       "ip": "2405:201:202d:d014:ab57:3dc2:21c:b4e6",
       "username": "explorerindia"
+    },
+    {
+      "type": "series",
+      "id": "tt4083422:1:1",
+      "title": "tt4083422:1:1",
+      "timestamp": "2026-02-05T05:55:33.832Z",
+      "ip": "2401:4900:88ba:65a9:cbeb:75b6:32b7:1c3f",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -86172,10 +86172,10 @@
     },
     "2401:4900:88ba:65a9:cbeb:75b6:32b7:1c3f": {
       "type": "series",
-      "id": "tt39393261:1:2",
-      "title": "tt39393261:1:2",
+      "id": "tt4083422:1:1",
+      "title": "tt4083422:1:1",
       "username": "b1jju",
-      "lastActive": 1770268995424
+      "lastActive": 1770270933832
     },
     "157.48.237.156": {
       "type": "series",
