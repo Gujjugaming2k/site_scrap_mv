@@ -1,5 +1,5 @@
 {
-  "totalViews": 21148,
+  "totalViews": 21150,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4428,25 +4428,11 @@
     "2402:3a80:1985:b8d:378:5634:1232:5476",
     "157.48.65.6",
     "2409:40d4:409a:399b:886f:c07d:edae:8074",
-    "2405:201:900f:a92b:495d:2c3c:bcfa:bfac"
+    "2405:201:900f:a92b:495d:2c3c:bcfa:bfac",
+    "2401:4900:1c62:2076:e6b9:4da3:e535:610c",
+    "2406:b400:1a:4888:a27:a8ff:fe42:855e"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt30003786:4:8",
-      "title": "tt30003786:4:8",
-      "timestamp": "2026-01-19T07:28:53.234Z",
-      "ip": "103.170.53.195",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt4236770:3:9",
-      "title": "tt4236770:3:9",
-      "timestamp": "2026-01-19T07:29:38.966Z",
-      "ip": "2401:4900:1f3a:6bcf:cdcf:c:15c0:a703",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt30003786:4:9",
@@ -84430,6 +84416,22 @@
       "timestamp": "2026-02-05T09:07:57.054Z",
       "ip": "2405:201:900f:a92b:495d:2c3c:bcfa:bfac",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt38221085:1:7",
+      "title": "tt38221085:1:7",
+      "timestamp": "2026-02-05T09:26:23.389Z",
+      "ip": "2401:4900:1c62:2076:e6b9:4da3:e535:610c",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt29638896",
+      "title": "tt29638896",
+      "timestamp": "2026-02-05T09:33:21.714Z",
+      "ip": "2406:b400:1a:4888:a27:a8ff:fe42:855e",
+      "username": "nothingokk"
     }
   ],
   "activeNow": {
@@ -86938,6 +86940,20 @@
       "title": "tt1121794",
       "username": "theonlyfreak",
       "lastActive": 1770282477054
+    },
+    "2401:4900:1c62:2076:e6b9:4da3:e535:610c": {
+      "type": "series",
+      "id": "tt38221085:1:7",
+      "title": "tt38221085:1:7",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1770283583389
+    },
+    "2406:b400:1a:4888:a27:a8ff:fe42:855e": {
+      "type": "movie",
+      "id": "tt29638896",
+      "title": "tt29638896",
+      "username": "nothingokk",
+      "lastActive": 1770284001714
     }
   }
 }
