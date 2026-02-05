@@ -1,5 +1,5 @@
 {
-  "totalViews": 21079,
+  "totalViews": 21080,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4408,17 +4408,10 @@
     "2a09:bac5:40b3:18be::277:19",
     "2409:40d2:3052:ad9c:8000::",
     "2405:201:2033:841:39b3:ecee:97b8:303",
-    "2409:40d4:409a:399b:8000::"
+    "2409:40d4:409a:399b:8000::",
+    "2405:201:900f:a92b:6c2c:3ea0:d272:7a4f"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0182576:4:11",
-      "title": "tt0182576:4:11",
-      "timestamp": "2026-01-19T05:28:37.861Z",
-      "ip": "2604:3d09:d7f:1600:5da2:a58:45c9:e5e2",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt1582519",
@@ -84410,6 +84403,14 @@
       "timestamp": "2026-02-05T04:15:50.928Z",
       "ip": "2409:40d4:409a:399b:8000::",
       "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt7382936:1:1",
+      "title": "tt7382936:1:1",
+      "timestamp": "2026-02-05T04:32:01.257Z",
+      "ip": "2405:201:900f:a92b:6c2c:3ea0:d272:7a4f",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -86778,6 +86779,13 @@
       "title": "Superman",
       "username": "kdbotz",
       "lastActive": 1770264950928
+    },
+    "2405:201:900f:a92b:6c2c:3ea0:d272:7a4f": {
+      "type": "series",
+      "id": "tt7382936:1:1",
+      "title": "tt7382936:1:1",
+      "username": "theonlyfreak",
+      "lastActive": 1770265921257
     }
   }
 }
