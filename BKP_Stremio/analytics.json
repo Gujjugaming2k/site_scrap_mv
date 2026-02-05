@@ -1,5 +1,5 @@
 {
-  "totalViews": 21167,
+  "totalViews": 21168,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4443,14 +4443,6 @@
     "223.185.27.89"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27497448:1:2",
-      "title": "tt27497448:1:2",
-      "timestamp": "2026-01-19T08:08:21.497Z",
-      "ip": "2409:40e2:10df:dffe:d94b:192d:cba7:994b",
-      "username": "johnwick"
-    },
     {
       "type": "series",
       "id": "tt27497448:1:1",
@@ -84442,6 +84434,14 @@
       "timestamp": "2026-02-05T12:24:17.174Z",
       "ip": "103.46.200.105",
       "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt34365591",
+      "title": "tt34365591",
+      "timestamp": "2026-02-05T12:29:29.051Z",
+      "ip": "103.46.200.105",
+      "username": "brosportses"
     }
   ],
   "activeNow": {
@@ -85549,7 +85549,7 @@
       "id": "tt34365591",
       "title": "tt34365591",
       "username": "brosportses",
-      "lastActive": 1770294257174
+      "lastActive": 1770294569051
     },
     "2401:4900:1f29:a02f:f926:4acc:5225:3d2e": {
       "type": "series",
