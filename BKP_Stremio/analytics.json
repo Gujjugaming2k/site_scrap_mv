@@ -1,5 +1,5 @@
 {
-  "totalViews": 21186,
+  "totalViews": 21187,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4446,17 +4446,10 @@
     "2409:40e5:1008:62fa:f472:30ff:feb7:3dca",
     "49.47.153.90",
     "152.58.37.112",
-    "103.46.200.34"
+    "103.46.200.34",
+    "2401:4900:1f29:9d85:d9e2:9f14:f815:fd2a"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt6197170:1:1",
-      "title": "tt6197170:1:1",
-      "timestamp": "2026-01-19T08:50:19.787Z",
-      "ip": "2409:4085:2db4:59bf::1489:3211",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt6197170:1:2",
@@ -84448,6 +84441,14 @@
       "timestamp": "2026-02-05T13:32:33.342Z",
       "ip": "103.46.200.34",
       "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-05T14:10:36.463Z",
+      "ip": "2401:4900:1f29:9d85:d9e2:9f14:f815:fd2a",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -87082,6 +87083,13 @@
       "title": "tt7639372",
       "username": "brosportses",
       "lastActive": 1770298353342
+    },
+    "2401:4900:1f29:9d85:d9e2:9f14:f815:fd2a": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "gaendaswami",
+      "lastActive": 1770300636463
     }
   }
 }
