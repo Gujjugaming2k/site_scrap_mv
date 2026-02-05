@@ -1,5 +1,5 @@
 {
-  "totalViews": 21214,
+  "totalViews": 21222,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4453,73 +4453,12 @@
     "2409:40d4:f9:10fb:34fa:caff:fe33:7a9c",
     "2409:40c0:1038:7518:99a8:b26d:3121:d135",
     "2409:40c0:1075:6fdf:c5c2:51c3:90a5:ea30",
-    "152.58.44.145"
+    "152.58.44.145",
+    "45.131.195.247",
+    "47.15.65.57",
+    "2401:4900:8fe3:6e16:580b:5acf:686d:1c6b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4158110:1:1",
-      "title": "tt4158110:1:1",
-      "timestamp": "2026-01-19T09:21:36.279Z",
-      "ip": "2409:40e2:10df:dffe:d94b:192d:cba7:994b",
-      "username": "johnwick"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T09:23:21.462Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T09:23:21.727Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T09:23:39.626Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T09:27:17.953Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T09:27:18.593Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt0460649:3:10",
-      "title": "tt0460649:3:10",
-      "timestamp": "2026-01-19T09:27:33.563Z",
-      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T09:27:33.682Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt32537124:1:18",
@@ -84455,6 +84394,70 @@
       "timestamp": "2026-02-05T15:31:34.097Z",
       "ip": "116.68.64.13",
       "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt29609422",
+      "title": "tt29609422",
+      "timestamp": "2026-02-05T15:31:58.494Z",
+      "ip": "45.131.195.247",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt34704729",
+      "title": "tt34704729",
+      "timestamp": "2026-02-05T15:32:05.743Z",
+      "ip": "45.131.195.247",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt29609422",
+      "title": "tt29609422",
+      "timestamp": "2026-02-05T15:32:27.195Z",
+      "ip": "45.131.195.247",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt31513578",
+      "title": "tt31513578",
+      "timestamp": "2026-02-05T15:33:39.872Z",
+      "ip": "45.131.195.247",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt34704729",
+      "title": "tt34704729",
+      "timestamp": "2026-02-05T15:36:03.159Z",
+      "ip": "45.131.195.247",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt10015812",
+      "title": "tt10015812",
+      "timestamp": "2026-02-05T15:37:50.642Z",
+      "ip": "45.131.195.247",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:8",
+      "title": "Fallout",
+      "timestamp": "2026-02-05T15:40:47.338Z",
+      "ip": "47.15.65.57",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:7",
+      "title": "tt31812476:2:7",
+      "timestamp": "2026-02-05T15:43:18.993Z",
+      "ip": "2401:4900:8fe3:6e16:580b:5acf:686d:1c6b",
+      "username": "ashwanileon"
     }
   ],
   "activeNow": {
@@ -87145,6 +87148,27 @@
       "title": "Lost",
       "username": "aravindsivan",
       "lastActive": 1770305494097
+    },
+    "45.131.195.247": {
+      "type": "movie",
+      "id": "tt10015812",
+      "title": "tt10015812",
+      "username": "theonlyfreak",
+      "lastActive": 1770305870642
+    },
+    "47.15.65.57": {
+      "type": "series",
+      "id": "tt12637874:2:8",
+      "title": "Fallout",
+      "username": "golu_vk",
+      "lastActive": 1770306047338
+    },
+    "2401:4900:8fe3:6e16:580b:5acf:686d:1c6b": {
+      "type": "series",
+      "id": "tt31812476:2:7",
+      "title": "tt31812476:2:7",
+      "username": "ashwanileon",
+      "lastActive": 1770306198993
     }
   }
 }
