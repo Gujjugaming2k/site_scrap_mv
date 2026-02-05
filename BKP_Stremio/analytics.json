@@ -1,5 +1,5 @@
 {
-  "totalViews": 21282,
+  "totalViews": 21283,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4472,14 +4472,6 @@
     "122.161.240.62"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-19T10:37:39.486Z",
-      "ip": "172.68.234.25,206.53.3.179",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt12300742",
@@ -84471,6 +84463,14 @@
       "timestamp": "2026-02-05T19:44:46.190Z",
       "ip": "47.15.65.57",
       "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:5",
+      "title": "tt1399664:1:5",
+      "timestamp": "2026-02-05T20:23:54.005Z",
+      "ip": "47.15.65.57",
+      "username": "golu_vk"
     }
   ],
   "activeNow": {
@@ -87171,10 +87171,10 @@
     },
     "47.15.65.57": {
       "type": "series",
-      "id": "tt1399664:1:3",
-      "title": "tt1399664:1:3",
+      "id": "tt1399664:1:5",
+      "title": "tt1399664:1:5",
       "username": "golu_vk",
-      "lastActive": 1770320686190
+      "lastActive": 1770323034005
     },
     "2401:4900:8fe3:6e16:580b:5acf:686d:1c6b": {
       "type": "series",
