@@ -1,5 +1,5 @@
 {
-  "totalViews": 21063,
+  "totalViews": 21066,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4401,33 +4401,11 @@
     "2405:201:a001:21d8:1262:935:cd50:43ff",
     "152.56.135.193",
     "2409:40d7:1003:d896:401f:daff:fe9e:d99f",
-    "2a10:484:3:1::13"
+    "2a10:484:3:1::13",
+    "152.59.48.52",
+    "2401:4900:adbc:221a:3096:33ff:fe02:321a"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31812476:2:3",
-      "title": "tt31812476:2:3",
-      "timestamp": "2026-01-19T04:04:20.406Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt31812476:2:4",
-      "title": "tt31812476:2:4",
-      "timestamp": "2026-01-19T04:04:39.731Z",
-      "ip": "103.24.85.161",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-19T04:06:01.679Z",
-      "ip": "119.73.114.249",
-      "username": "itx_tj11"
-    },
     {
       "type": "series",
       "id": "tt7587890:8:1",
@@ -84403,6 +84381,30 @@
       "timestamp": "2026-02-05T01:55:46.165Z",
       "ip": "2a10:484:3:1::13",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-05T02:08:17.126Z",
+      "ip": "152.59.48.52",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt2283362",
+      "title": "Jumanji: Welcome to the Jungle",
+      "timestamp": "2026-02-05T02:11:21.775Z",
+      "ip": "152.59.48.52",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt2283362",
+      "title": "Jumanji: Welcome to the Jungle",
+      "timestamp": "2026-02-05T02:17:47.483Z",
+      "ip": "2401:4900:adbc:221a:3096:33ff:fe02:321a",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -86722,6 +86724,20 @@
       "title": "tt27673536",
       "username": "william097",
       "lastActive": 1770256546165
+    },
+    "152.59.48.52": {
+      "type": "movie",
+      "id": "tt2283362",
+      "title": "Jumanji: Welcome to the Jungle",
+      "username": "b1jju",
+      "lastActive": 1770257481775
+    },
+    "2401:4900:adbc:221a:3096:33ff:fe02:321a": {
+      "type": "movie",
+      "id": "tt2283362",
+      "title": "Jumanji: Welcome to the Jungle",
+      "username": "b1jju",
+      "lastActive": 1770257867483
     }
   }
 }
