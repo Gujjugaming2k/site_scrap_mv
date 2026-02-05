@@ -1,5 +1,5 @@
 {
-  "totalViews": 21151,
+  "totalViews": 21155,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4431,41 +4431,11 @@
     "2405:201:900f:a92b:495d:2c3c:bcfa:bfac",
     "2401:4900:1c62:2076:e6b9:4da3:e535:610c",
     "2406:b400:1a:4888:a27:a8ff:fe42:855e",
-    "106.200.207.42"
+    "106.200.207.42",
+    "2401:4900:ae2b:a94f:3cee:e86d:bf6b:434",
+    "2409:40d4:40d5:9d25:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-19T07:30:10.818Z",
-      "ip": "2401:4900:8516:f3a6::3c6b:432c",
-      "username": "baljeet_002"
-    },
-    {
-      "type": "series",
-      "id": "tt30003786:4:9",
-      "title": "tt30003786:4:9",
-      "timestamp": "2026-01-19T07:32:13.516Z",
-      "ip": "103.170.53.195",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-19T07:37:36.435Z",
-      "ip": "115.98.99.86",
-      "username": "nothing_8888"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:2",
-      "title": "tt35335046:1:2",
-      "timestamp": "2026-01-19T07:39:32.962Z",
-      "ip": "115.98.99.86",
-      "username": "nothing_8888"
-    },
     {
       "type": "series",
       "id": "tt0411008:1:8",
@@ -84433,6 +84403,38 @@
       "timestamp": "2026-02-05T09:58:22.536Z",
       "ip": "106.200.207.42",
       "username": "user_9b"
+    },
+    {
+      "type": "series",
+      "id": "tt39221314:1:1",
+      "title": "tt39221314:1:1",
+      "timestamp": "2026-02-05T10:18:38.736Z",
+      "ip": "2401:4900:ae2b:a94f:3cee:e86d:bf6b:434",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt39139925",
+      "title": "tt39139925",
+      "timestamp": "2026-02-05T10:19:14.056Z",
+      "ip": "2409:40d4:40d5:9d25:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt1846675",
+      "title": "tt1846675",
+      "timestamp": "2026-02-05T10:19:28.677Z",
+      "ip": "103.46.200.105",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-05T10:19:31.340Z",
+      "ip": "2409:40d4:40d5:9d25:8000::",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -85537,10 +85539,10 @@
     },
     "103.46.200.105": {
       "type": "movie",
-      "id": "tt29713093",
-      "title": "tt29713093",
-      "username": "katdenningssss",
-      "lastActive": 1770252651090
+      "id": "tt1846675",
+      "title": "tt1846675",
+      "username": "brosportses",
+      "lastActive": 1770286768677
     },
     "2401:4900:1f29:a02f:f926:4acc:5225:3d2e": {
       "type": "series",
@@ -86962,6 +86964,20 @@
       "title": "tt29638896",
       "username": "user_9b",
       "lastActive": 1770285502536
+    },
+    "2401:4900:ae2b:a94f:3cee:e86d:bf6b:434": {
+      "type": "series",
+      "id": "tt39221314:1:1",
+      "title": "tt39221314:1:1",
+      "username": "vflix1993",
+      "lastActive": 1770286718736
+    },
+    "2409:40d4:40d5:9d25:8000::": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "kdbotz",
+      "lastActive": 1770286771340
     }
   }
 }
