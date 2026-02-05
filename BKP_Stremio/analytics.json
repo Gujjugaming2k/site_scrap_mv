@@ -1,5 +1,5 @@
 {
-  "totalViews": 21263,
+  "totalViews": 21267,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4466,41 +4466,11 @@
     "2409:40d4:40c9:361b:8000::",
     "49.36.79.165",
     "2401:4900:8825:a674:f124:e493:870d:41de",
-    "2409:40e5:116c:894a:c44e:e8ff:fe5a:148b"
+    "2409:40e5:116c:894a:c44e:e8ff:fe5a:148b",
+    "152.57.171.156",
+    "2409:40f0:1195:e0a3:eca0:baff:fec9:7bba"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt14169960:1:2",
-      "title": "All of Us Are Dead",
-      "timestamp": "2026-01-19T10:23:10.270Z",
-      "ip": "2409:40c1:3152:746:5006:c9ff:fed7:7be2",
-      "username": "tips9694"
-    },
-    {
-      "type": "movie",
-      "id": "tt14142060",
-      "title": "tt14142060",
-      "timestamp": "2026-01-19T10:23:24.801Z",
-      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt14169960:1:1",
-      "title": "All of Us Are Dead",
-      "timestamp": "2026-01-19T10:23:27.592Z",
-      "ip": "2409:40c1:3152:746:5006:c9ff:fed7:7be2",
-      "username": "tips9694"
-    },
-    {
-      "type": "series",
-      "id": "tt14169960:1:1",
-      "title": "All of Us Are Dead",
-      "timestamp": "2026-01-19T10:23:27.871Z",
-      "ip": "2409:40c1:3152:746:5006:c9ff:fed7:7be2",
-      "username": "tips9694"
-    },
     {
       "type": "movie",
       "id": "tt14961016",
@@ -84468,6 +84438,38 @@
       "timestamp": "2026-02-05T18:03:13.919Z",
       "ip": "2409:40e5:116c:894a:c44e:e8ff:fe5a:148b",
       "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt11531530",
+      "title": "tt11531530",
+      "timestamp": "2026-02-05T18:08:52.324Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:1:3",
+      "title": "tt0388629:1:3",
+      "timestamp": "2026-02-05T18:10:19.820Z",
+      "ip": "152.57.171.156",
+      "username": "rick grimes"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:21:180",
+      "title": "tt0388629:21:180",
+      "timestamp": "2026-02-05T18:12:29.920Z",
+      "ip": "2409:40f0:1195:e0a3:eca0:baff:fec9:7bba",
+      "username": "rick grimes"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:21:181",
+      "title": "tt0388629:21:181",
+      "timestamp": "2026-02-05T18:13:03.548Z",
+      "ip": "2409:40f0:1195:e0a3:eca0:baff:fec9:7bba",
+      "username": "rick grimes"
     }
   ],
   "activeNow": {
@@ -84640,11 +84642,11 @@
       "lastActive": 1769861905703
     },
     "139.5.196.103": {
-      "type": "series",
-      "id": "tt31844233:1:4",
-      "title": "tt31844233:1:4",
+      "type": "movie",
+      "id": "tt11531530",
+      "title": "tt11531530",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770313136166
+      "lastActive": 1770314932324
     },
     "94.156.30.57": {
       "type": "series",
@@ -87249,6 +87251,20 @@
       "title": "tt27497448:1:3",
       "username": "magicmannn",
       "lastActive": 1770314593919
+    },
+    "152.57.171.156": {
+      "type": "series",
+      "id": "tt0388629:1:3",
+      "title": "tt0388629:1:3",
+      "username": "rick grimes",
+      "lastActive": 1770315019820
+    },
+    "2409:40f0:1195:e0a3:eca0:baff:fec9:7bba": {
+      "type": "series",
+      "id": "tt0388629:21:181",
+      "title": "tt0388629:21:181",
+      "username": "rick grimes",
+      "lastActive": 1770315183548
     }
   }
 }
