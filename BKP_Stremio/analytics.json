@@ -1,5 +1,5 @@
 {
-  "totalViews": 21150,
+  "totalViews": 21151,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4430,17 +4430,10 @@
     "2409:40d4:409a:399b:886f:c07d:edae:8074",
     "2405:201:900f:a92b:495d:2c3c:bcfa:bfac",
     "2401:4900:1c62:2076:e6b9:4da3:e535:610c",
-    "2406:b400:1a:4888:a27:a8ff:fe42:855e"
+    "2406:b400:1a:4888:a27:a8ff:fe42:855e",
+    "106.200.207.42"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt30003786:4:9",
-      "title": "tt30003786:4:9",
-      "timestamp": "2026-01-19T07:30:02.634Z",
-      "ip": "103.170.53.195",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt0944947:1:1",
@@ -84432,6 +84425,14 @@
       "timestamp": "2026-02-05T09:33:21.714Z",
       "ip": "2406:b400:1a:4888:a27:a8ff:fe42:855e",
       "username": "nothingokk"
+    },
+    {
+      "type": "movie",
+      "id": "tt29638896",
+      "title": "tt29638896",
+      "timestamp": "2026-02-05T09:58:22.536Z",
+      "ip": "106.200.207.42",
+      "username": "user_9b"
     }
   ],
   "activeNow": {
@@ -86954,6 +86955,13 @@
       "title": "tt29638896",
       "username": "nothingokk",
       "lastActive": 1770284001714
+    },
+    "106.200.207.42": {
+      "type": "movie",
+      "id": "tt29638896",
+      "title": "tt29638896",
+      "username": "user_9b",
+      "lastActive": 1770285502536
     }
   }
 }
