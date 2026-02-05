@@ -1,5 +1,5 @@
 {
-  "totalViews": 21104,
+  "totalViews": 21105,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4414,17 +4414,10 @@
     "2409:40d4:106a:9323:1570:918b:7742:924a",
     "157.48.208.191",
     "223.185.57.114",
-    "2a09:bac5:3b5e:2719::3e5:6"
+    "2a09:bac5:3b5e:2719::3e5:6",
+    "2405:201:202d:d014:ab57:3dc2:21c:b4e6"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-19T05:57:37.606Z",
-      "ip": "2405:201:6820:a83c:3d28:2af3:e41f:b0a9",
-      "username": "demon18319"
-    },
     {
       "type": "series",
       "id": "tt16385150:1:3",
@@ -84416,6 +84409,14 @@
       "timestamp": "2026-02-05T05:25:00.879Z",
       "ip": "2a09:bac5:3b5e:2719::3e5:6",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt23804378",
+      "title": "tt23804378",
+      "timestamp": "2026-02-05T05:37:45.576Z",
+      "ip": "2405:201:202d:d014:ab57:3dc2:21c:b4e6",
+      "username": "explorerindia"
     }
   ],
   "activeNow": {
@@ -86826,6 +86827,13 @@
       "title": "tt27497448:1:3",
       "username": "demon18319",
       "lastActive": 1770269100879
+    },
+    "2405:201:202d:d014:ab57:3dc2:21c:b4e6": {
+      "type": "movie",
+      "id": "tt23804378",
+      "title": "tt23804378",
+      "username": "explorerindia",
+      "lastActive": 1770269865576
     }
   }
 }
