@@ -1,5 +1,5 @@
 {
-  "totalViews": 21222,
+  "totalViews": 21224,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4459,22 +4459,6 @@
     "2401:4900:8fe3:6e16:580b:5acf:686d:1c6b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt32537124:1:18",
-      "title": "tt32537124:1:18",
-      "timestamp": "2026-01-19T09:29:57.020Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T09:29:58.142Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:1",
@@ -84458,6 +84442,22 @@
       "timestamp": "2026-02-05T15:43:18.993Z",
       "ip": "2401:4900:8fe3:6e16:580b:5acf:686d:1c6b",
       "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt0122690",
+      "title": "tt0122690",
+      "timestamp": "2026-02-05T16:00:13.104Z",
+      "ip": "49.42.175.51",
+      "username": "adr7000"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:3",
+      "title": "tt31844233:1:3",
+      "timestamp": "2026-02-05T16:01:18.662Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -84631,10 +84631,10 @@
     },
     "139.5.196.103": {
       "type": "series",
-      "id": "tt31844233:1:2",
-      "title": "tt31844233:1:2",
+      "id": "tt31844233:1:3",
+      "title": "tt31844233:1:3",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770305195520
+      "lastActive": 1770307278662
     },
     "94.156.30.57": {
       "type": "series",
@@ -87025,10 +87025,10 @@
     },
     "49.42.175.51": {
       "type": "movie",
-      "id": "tt25872924",
-      "title": "tt25872924",
+      "id": "tt0122690",
+      "title": "tt0122690",
       "username": "adr7000",
-      "lastActive": 1770288577364
+      "lastActive": 1770307213104
     },
     "2409:40e1:3033:874e:1dc3:dd1a:ce2e:cbb4": {
       "type": "movie",
