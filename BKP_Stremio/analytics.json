@@ -1,5 +1,5 @@
 {
-  "totalViews": 21070,
+  "totalViews": 21073,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4404,33 +4404,11 @@
     "2a10:484:3:1::13",
     "152.59.48.52",
     "2401:4900:adbc:221a:3096:33ff:fe02:321a",
-    "2401:4900:8fe3:6e16:141c:e55:72f0:cc29"
+    "2401:4900:8fe3:6e16:141c:e55:72f0:cc29",
+    "2a09:bac5:40b3:18be::277:19",
+    "2409:40d2:3052:ad9c:8000::"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-19T04:59:05.065Z",
-      "ip": "71.179.184.52",
-      "username": "anupambabu_97"
-    },
-    {
-      "type": "movie",
-      "id": "tt28551273",
-      "title": "tt28551273",
-      "timestamp": "2026-01-19T05:00:26.165Z",
-      "ip": "71.179.184.52",
-      "username": "anupambabu_97"
-    },
-    {
-      "type": "movie",
-      "id": "tt28551273",
-      "title": "tt28551273",
-      "timestamp": "2026-01-19T05:00:49.020Z",
-      "ip": "71.179.184.52",
-      "username": "anupambabu_97"
-    },
     {
       "type": "series",
       "id": "tt31938062:1:1",
@@ -84406,6 +84384,30 @@
       "timestamp": "2026-02-05T03:02:45.501Z",
       "ip": "2401:4900:8fe3:6e16:141c:e55:72f0:cc29",
       "username": "ashwanileon"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-05T03:11:30.904Z",
+      "ip": "2401:4900:8fe3:6e16:141c:e55:72f0:cc29",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-02-05T03:21:03.327Z",
+      "ip": "2a09:bac5:40b3:18be::277:19",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-02-05T03:22:56.191Z",
+      "ip": "2409:40d2:3052:ad9c:8000::",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -86745,7 +86747,21 @@
       "id": "tt4574334:5:2",
       "title": "Stranger Things",
       "username": "ashwanileon",
-      "lastActive": 1770260565501
+      "lastActive": 1770261090904
+    },
+    "2a09:bac5:40b3:18be::277:19": {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "username": "demon18319",
+      "lastActive": 1770261663327
+    },
+    "2409:40d2:3052:ad9c:8000::": {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "username": "demon18319",
+      "lastActive": 1770261776191
     }
   }
 }
