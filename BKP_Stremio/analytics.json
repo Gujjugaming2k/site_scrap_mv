@@ -1,5 +1,5 @@
 {
-  "totalViews": 21171,
+  "totalViews": 21174,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4441,33 +4441,10 @@
     "2409:40e1:3033:874e:1dc3:dd1a:ce2e:cbb4",
     "2405:201:5502:5c18:8887:5d9a:6ac8:9633",
     "223.185.27.89",
-    "2409:40c1:101b:3efb:4dfe:b861:873a:51d1"
+    "2409:40c1:101b:3efb:4dfe:b861:873a:51d1",
+    "2401:4900:8820:9f99:2996:5797:eaea:7199"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-19T08:10:46.518Z",
-      "ip": "2409:40e2:10df:dffe:d94b:192d:cba7:994b",
-      "username": "johnwick"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-19T08:10:57.873Z",
-      "ip": "2409:40e2:10df:dffe:d94b:192d:cba7:994b",
-      "username": "johnwick"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:2",
-      "title": "tt27497448:1:2",
-      "timestamp": "2026-01-19T08:12:11.242Z",
-      "ip": "2409:40e2:10df:dffe:d94b:192d:cba7:994b",
-      "username": "johnwick"
-    },
     {
       "type": "series",
       "id": "tt31812476:2:3",
@@ -84443,6 +84420,30 @@
       "timestamp": "2026-02-05T12:52:08.488Z",
       "ip": "2405:201:900f:a92b:495d:2c3c:bcfa:bfac",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt0114746",
+      "title": "Twelve Monkeys",
+      "timestamp": "2026-02-05T12:55:54.460Z",
+      "ip": "2405:201:900f:a92b:495d:2c3c:bcfa:bfac",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt2338151",
+      "title": "tt2338151",
+      "timestamp": "2026-02-05T13:07:29.989Z",
+      "ip": "2401:4900:8820:9f99:2996:5797:eaea:7199",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt9420648",
+      "title": "tt9420648",
+      "timestamp": "2026-02-05T13:07:56.462Z",
+      "ip": "2401:4900:8820:9f99:2996:5797:eaea:7199",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -86946,11 +86947,11 @@
       "lastActive": 1770281502819
     },
     "2405:201:900f:a92b:495d:2c3c:bcfa:bfac": {
-      "type": "series",
-      "id": "tt7382936:1:1",
-      "title": "tt7382936:1:1",
+      "type": "movie",
+      "id": "tt0114746",
+      "title": "Twelve Monkeys",
       "username": "theonlyfreak",
-      "lastActive": 1770295928488
+      "lastActive": 1770296154460
     },
     "2401:4900:1c62:2076:e6b9:4da3:e535:610c": {
       "type": "series",
@@ -87042,6 +87043,13 @@
       "title": "tt22742720",
       "username": "pingmenoone",
       "lastActive": 1770295344788
+    },
+    "2401:4900:8820:9f99:2996:5797:eaea:7199": {
+      "type": "movie",
+      "id": "tt9420648",
+      "title": "tt9420648",
+      "username": "b1jju",
+      "lastActive": 1770296876462
     }
   }
 }
