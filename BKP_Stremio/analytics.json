@@ -1,5 +1,5 @@
 {
-  "totalViews": 21112,
+  "totalViews": 21118,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4417,57 +4417,11 @@
     "2a09:bac5:3b5e:2719::3e5:6",
     "2405:201:202d:d014:ab57:3dc2:21c:b4e6",
     "2409:40d4:152:59ef:3c0c:ccff:feb3:2afe",
-    "2409:40d4:1002:9654:dcf6:deff:fe53:a72a"
+    "2409:40d4:1002:9654:dcf6:deff:fe53:a72a",
+    "2405:201:a001:21d8:193b:3900:4bd6:1614",
+    "49.37.117.145"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-19T06:20:57.121Z",
-      "ip": "109.76.254.115",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-19T06:21:32.459Z",
-      "ip": "109.76.254.115",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-19T06:21:51.834Z",
-      "ip": "109.76.254.115",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-19T06:23:51.279Z",
-      "ip": "103.158.144.178",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt22202452:1:1",
-      "title": "tt22202452:1:1",
-      "timestamp": "2026-01-19T06:27:21.389Z",
-      "ip": "2405:201:6002:506f:604b:afe4:1f34:f511",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt16385150:1:3",
-      "title": "tt16385150:1:3",
-      "timestamp": "2026-01-19T06:31:25.467Z",
-      "ip": "49.43.112.249",
-      "username": "infinityseeker"
-    },
     {
       "type": "series",
       "id": "tt27497448:1:1",
@@ -84419,6 +84373,54 @@
       "timestamp": "2026-02-05T07:00:48.602Z",
       "ip": "2405:201:900f:a92b:6c2c:3ea0:d272:7a4f",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt9253866:1:7",
+      "title": "tt9253866:1:7",
+      "timestamp": "2026-02-05T07:01:51.221Z",
+      "ip": "2405:201:a001:21d8:193b:3900:4bd6:1614",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt9253866:1:7",
+      "title": "tt9253866:1:7",
+      "timestamp": "2026-02-05T07:11:15.845Z",
+      "ip": "2405:201:a001:21d8:193b:3900:4bd6:1614",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt9253866:1:7",
+      "title": "tt9253866:1:7",
+      "timestamp": "2026-02-05T07:11:58.390Z",
+      "ip": "49.37.117.145",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt26915338:1:1",
+      "title": "tt26915338:1:1",
+      "timestamp": "2026-02-05T07:13:09.081Z",
+      "ip": "103.70.146.162",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt26915338:1:1",
+      "title": "tt26915338:1:1",
+      "timestamp": "2026-02-05T07:14:12.679Z",
+      "ip": "103.70.146.162",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-02-05T07:14:31.545Z",
+      "ip": "103.70.146.162",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -86139,10 +86141,10 @@
     },
     "103.70.146.162": {
       "type": "movie",
-      "id": "tt30387012",
-      "title": "tt30387012",
+      "id": "tt33244668",
+      "title": "tt33244668",
       "username": "gaendaswami",
-      "lastActive": 1770127329419
+      "lastActive": 1770275671545
     },
     "223.181.103.142": {
       "type": "series",
@@ -86850,6 +86852,20 @@
       "title": "Fallout",
       "username": "golu_vk",
       "lastActive": 1770274820288
+    },
+    "2405:201:a001:21d8:193b:3900:4bd6:1614": {
+      "type": "series",
+      "id": "tt9253866:1:7",
+      "title": "tt9253866:1:7",
+      "username": "william097",
+      "lastActive": 1770275475845
+    },
+    "49.37.117.145": {
+      "type": "series",
+      "id": "tt9253866:1:7",
+      "title": "tt9253866:1:7",
+      "username": "william097",
+      "lastActive": 1770275518390
     }
   }
 }
