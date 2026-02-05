@@ -1,5 +1,5 @@
 {
-  "totalViews": 21066,
+  "totalViews": 21067,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4406,14 +4406,6 @@
     "2401:4900:adbc:221a:3096:33ff:fe02:321a"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt7587890:8:1",
-      "title": "tt7587890:8:1",
-      "timestamp": "2026-01-19T04:09:30.104Z",
-      "ip": "2409:40c1:10bf:8d13:8000::",
-      "username": "rahul_officialx"
-    },
     {
       "type": "series",
       "id": "tt31812476:2:4",
@@ -84405,6 +84397,14 @@
       "timestamp": "2026-02-05T02:17:47.483Z",
       "ip": "2401:4900:adbc:221a:3096:33ff:fe02:321a",
       "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt2338151",
+      "title": "tt2338151",
+      "timestamp": "2026-02-05T02:25:03.719Z",
+      "ip": "2401:4900:adbc:221a:3096:33ff:fe02:321a",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -86734,10 +86734,10 @@
     },
     "2401:4900:adbc:221a:3096:33ff:fe02:321a": {
       "type": "movie",
-      "id": "tt2283362",
-      "title": "Jumanji: Welcome to the Jungle",
+      "id": "tt2338151",
+      "title": "tt2338151",
       "username": "b1jju",
-      "lastActive": 1770257867483
+      "lastActive": 1770258303719
     }
   }
 }
