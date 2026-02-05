@@ -1,5 +1,5 @@
 {
-  "totalViews": 21106,
+  "totalViews": 21112,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4415,57 +4415,11 @@
     "157.48.208.191",
     "223.185.57.114",
     "2a09:bac5:3b5e:2719::3e5:6",
-    "2405:201:202d:d014:ab57:3dc2:21c:b4e6"
+    "2405:201:202d:d014:ab57:3dc2:21c:b4e6",
+    "2409:40d4:152:59ef:3c0c:ccff:feb3:2afe",
+    "2409:40d4:1002:9654:dcf6:deff:fe53:a72a"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1855329",
-      "title": "tt1855329",
-      "timestamp": "2026-01-19T05:59:08.475Z",
-      "ip": "103.119.172.132",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt27263807",
-      "title": "tt27263807",
-      "timestamp": "2026-01-19T06:01:37.376Z",
-      "ip": "103.119.172.132",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1433905",
-      "title": "tt1433905",
-      "timestamp": "2026-01-19T06:06:38.530Z",
-      "ip": "2409:40c4:13b:288b:28ee:35ff:fee8:a649",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-19T06:16:08.297Z",
-      "ip": "109.76.254.115",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-19T06:20:54.052Z",
-      "ip": "109.76.254.115",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-19T06:20:55.213Z",
-      "ip": "109.76.254.115",
-      "username": "vflix1993"
-    },
     {
       "type": "series",
       "id": "tt27497448:1:1",
@@ -84417,6 +84371,54 @@
       "timestamp": "2026-02-05T05:55:33.832Z",
       "ip": "2401:4900:88ba:65a9:cbeb:75b6:32b7:1c3f",
       "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt9603208",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "timestamp": "2026-02-05T06:47:41.458Z",
+      "ip": "2405:201:900f:a92b:6c2c:3ea0:d272:7a4f",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:8",
+      "title": "Fallout",
+      "timestamp": "2026-02-05T06:49:23.019Z",
+      "ip": "2409:40d4:152:59ef:3c0c:ccff:feb3:2afe",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt6604188",
+      "title": "TRON: Ares",
+      "timestamp": "2026-02-05T06:53:22.699Z",
+      "ip": "2405:201:900f:a92b:6c2c:3ea0:d272:7a4f",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:8",
+      "title": "Fallout",
+      "timestamp": "2026-02-05T06:57:19.115Z",
+      "ip": "2409:40d4:1002:9654:dcf6:deff:fe53:a72a",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:8",
+      "title": "Fallout",
+      "timestamp": "2026-02-05T07:00:20.288Z",
+      "ip": "2409:40d4:1002:9654:dcf6:deff:fe53:a72a",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt0120616",
+      "title": "The Mummy",
+      "timestamp": "2026-02-05T07:00:48.602Z",
+      "ip": "2405:201:900f:a92b:6c2c:3ea0:d272:7a4f",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -86787,11 +86789,11 @@
       "lastActive": 1770264950928
     },
     "2405:201:900f:a92b:6c2c:3ea0:d272:7a4f": {
-      "type": "series",
-      "id": "tt7382936:1:1",
-      "title": "tt7382936:1:1",
+      "type": "movie",
+      "id": "tt0120616",
+      "title": "The Mummy",
       "username": "theonlyfreak",
-      "lastActive": 1770267322435
+      "lastActive": 1770274848602
     },
     "2409:40f0:28:4660:b0e5:5bff:fede:bdb6": {
       "type": "movie",
@@ -86834,6 +86836,20 @@
       "title": "tt23804378",
       "username": "explorerindia",
       "lastActive": 1770269865576
+    },
+    "2409:40d4:152:59ef:3c0c:ccff:feb3:2afe": {
+      "type": "series",
+      "id": "tt12637874:2:8",
+      "title": "Fallout",
+      "username": "golu_vk",
+      "lastActive": 1770274163019
+    },
+    "2409:40d4:1002:9654:dcf6:deff:fe53:a72a": {
+      "type": "series",
+      "id": "tt12637874:2:8",
+      "title": "Fallout",
+      "username": "golu_vk",
+      "lastActive": 1770274820288
     }
   }
 }
