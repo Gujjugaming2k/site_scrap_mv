@@ -1,5 +1,5 @@
 {
-  "totalViews": 21276,
+  "totalViews": 21280,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4468,41 +4468,10 @@
     "2401:4900:8825:a674:f124:e493:870d:41de",
     "2409:40e5:116c:894a:c44e:e8ff:fe5a:148b",
     "152.57.171.156",
-    "2409:40f0:1195:e0a3:eca0:baff:fec9:7bba"
+    "2409:40f0:1195:e0a3:eca0:baff:fec9:7bba",
+    "122.161.240.62"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt16385150:1:5",
-      "title": "tt16385150:1:5",
-      "timestamp": "2026-01-19T10:31:43.040Z",
-      "ip": "2405:201:6025:a88d:f7dc:690d:cd4:1b64",
-      "username": "infinityseeker"
-    },
-    {
-      "type": "series",
-      "id": "tt16385150:1:6",
-      "title": "tt16385150:1:6",
-      "timestamp": "2026-01-19T10:31:51.307Z",
-      "ip": "2405:201:6025:a88d:f7dc:690d:cd4:1b64",
-      "username": "infinityseeker"
-    },
-    {
-      "type": "movie",
-      "id": "tt1493274",
-      "title": "Caught Stealing",
-      "timestamp": "2026-01-19T10:32:53.074Z",
-      "ip": "205.254.185.113",
-      "username": "space_forca"
-    },
-    {
-      "type": "movie",
-      "id": "tt32447918",
-      "title": "tt32447918",
-      "timestamp": "2026-01-19T10:33:37.779Z",
-      "ip": "205.254.185.113",
-      "username": "space_forca"
-    },
     {
       "type": "series",
       "id": "tt4574334:5:8",
@@ -84470,6 +84439,38 @@
       "timestamp": "2026-02-05T18:55:42.338Z",
       "ip": "2409:40f0:1195:e0a3:eca0:baff:fec9:7bba",
       "username": "rick grimes"
+    },
+    {
+      "type": "series",
+      "id": "tt4052886:6:8",
+      "title": "tt4052886:6:8",
+      "timestamp": "2026-02-05T19:12:09.815Z",
+      "ip": "122.161.240.62",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt4052886:6:9",
+      "title": "tt4052886:6:9",
+      "timestamp": "2026-02-05T19:12:58.553Z",
+      "ip": "122.161.240.62",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:22:59",
+      "title": "tt0388629:22:59",
+      "timestamp": "2026-02-05T19:14:12.566Z",
+      "ip": "2409:40f0:1195:e0a3:eca0:baff:fec9:7bba",
+      "username": "rick grimes"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:22:70",
+      "title": "tt0388629:22:70",
+      "timestamp": "2026-02-05T19:15:00.049Z",
+      "ip": "2409:40f0:1195:e0a3:eca0:baff:fec9:7bba",
+      "username": "rick grimes"
     }
   ],
   "activeNow": {
@@ -87261,10 +87262,17 @@
     },
     "2409:40f0:1195:e0a3:eca0:baff:fec9:7bba": {
       "type": "series",
-      "id": "tt0388629:21:181",
-      "title": "tt0388629:21:181",
+      "id": "tt0388629:22:70",
+      "title": "tt0388629:22:70",
       "username": "rick grimes",
-      "lastActive": 1770317742338
+      "lastActive": 1770318900049
+    },
+    "122.161.240.62": {
+      "type": "series",
+      "id": "tt4052886:6:9",
+      "title": "tt4052886:6:9",
+      "username": "dawnstar930",
+      "lastActive": 1770318778553
     }
   }
 }
