@@ -1,5 +1,5 @@
 {
-  "totalViews": 21254,
+  "totalViews": 21258,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4463,41 +4463,10 @@
     "171.49.201.113",
     "2402:3a80:1981:c8f:178:5634:1232:5476",
     "2405:201:900f:a92b:943d:6d19:273f:40b0",
-    "2409:40d4:40c9:361b:8000::"
+    "2409:40d4:40c9:361b:8000::",
+    "49.36.79.165"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt34812090",
-      "title": "tt34812090",
-      "timestamp": "2026-01-19T10:05:40.218Z",
-      "ip": "2409:40e0:1019:66e6:8086:51ff:fe47:36a4",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt28664733",
-      "title": "Lost in Starlight",
-      "timestamp": "2026-01-19T10:06:47.035Z",
-      "ip": "2409:40e0:1019:66e6:8086:51ff:fe47:36a4",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt28664733",
-      "title": "Lost in Starlight",
-      "timestamp": "2026-01-19T10:06:47.080Z",
-      "ip": "2409:40e0:1019:66e6:8086:51ff:fe47:36a4",
-      "username": "eshan95g"
-    },
-    {
-      "type": "movie",
-      "id": "tt1216496",
-      "title": "tt1216496",
-      "timestamp": "2026-01-19T10:07:26.110Z",
-      "ip": "2a09:bac5:3e74:1aa0::2a7:f,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
     {
       "type": "movie",
       "id": "tt0851578",
@@ -84465,6 +84434,38 @@
       "timestamp": "2026-02-05T17:11:42.861Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "timestamp": "2026-02-05T17:38:56.074Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:4",
+      "title": "tt31844233:1:4",
+      "timestamp": "2026-02-05T17:38:56.166Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt32360696",
+      "title": "French Lover",
+      "timestamp": "2026-02-05T17:46:41.582Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt38525492",
+      "title": "tt38525492",
+      "timestamp": "2026-02-05T17:48:28.817Z",
+      "ip": "49.36.79.165",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -84641,7 +84642,7 @@
       "id": "tt31844233:1:4",
       "title": "tt31844233:1:4",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770310276341
+      "lastActive": 1770313136166
     },
     "94.156.30.57": {
       "type": "series",
@@ -84816,7 +84817,7 @@
       "id": "tt32360696",
       "title": "French Lover",
       "username": "chetan_b2",
-      "lastActive": 1770311502861
+      "lastActive": 1770313601582
     },
     "157.48.83.94": {
       "type": "series",
@@ -87225,6 +87226,13 @@
       "title": "tt15131266",
       "username": "kdbotz",
       "lastActive": 1770309860897
+    },
+    "49.36.79.165": {
+      "type": "movie",
+      "id": "tt38525492",
+      "title": "tt38525492",
+      "username": "zealousninja",
+      "lastActive": 1770313708817
     }
   }
 }
