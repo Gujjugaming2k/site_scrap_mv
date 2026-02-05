@@ -1,5 +1,5 @@
 {
-  "totalViews": 21077,
+  "totalViews": 21079,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4407,25 +4407,10 @@
     "2401:4900:8fe3:6e16:141c:e55:72f0:cc29",
     "2a09:bac5:40b3:18be::277:19",
     "2409:40d2:3052:ad9c:8000::",
-    "2405:201:2033:841:39b3:ecee:97b8:303"
+    "2405:201:2033:841:39b3:ecee:97b8:303",
+    "2409:40d4:409a:399b:8000::"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1187043",
-      "title": "3 Idiots",
-      "timestamp": "2026-01-19T05:23:21.129Z",
-      "ip": "81.17.122.167",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt1582519",
-      "title": "tt1582519",
-      "timestamp": "2026-01-19T05:24:11.760Z",
-      "ip": "71.179.184.52",
-      "username": "anupambabu_97"
-    },
     {
       "type": "series",
       "id": "tt0182576:4:11",
@@ -84409,6 +84394,22 @@
       "timestamp": "2026-02-05T04:03:23.105Z",
       "ip": "2405:201:2033:841:39b3:ecee:97b8:303",
       "username": "surti_lala"
+    },
+    {
+      "type": "movie",
+      "id": "tt12300742",
+      "title": "Bugonia",
+      "timestamp": "2026-02-05T04:15:08.239Z",
+      "ip": "2409:40d4:409a:399b:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt5950044",
+      "title": "Superman",
+      "timestamp": "2026-02-05T04:15:50.928Z",
+      "ip": "2409:40d4:409a:399b:8000::",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -86770,6 +86771,13 @@
       "title": "Hot Milk",
       "username": "surti_lala",
       "lastActive": 1770264203105
+    },
+    "2409:40d4:409a:399b:8000::": {
+      "type": "movie",
+      "id": "tt5950044",
+      "title": "Superman",
+      "username": "kdbotz",
+      "lastActive": 1770264950928
     }
   }
 }
