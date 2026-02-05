@@ -1,5 +1,5 @@
 {
-  "totalViews": 21160,
+  "totalViews": 21163,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4437,33 +4437,11 @@
     "2409:40d4:107c:b6c1:d0bc:ccff:fee2:b23c",
     "2405:201:6025:a88d:48da:db5:a66d:b2fb",
     "2401:9640:801:f425:cd2b:8f75:ee16:b6d3",
-    "49.42.175.51"
+    "49.42.175.51",
+    "2409:40e1:3033:874e:1dc3:dd1a:ce2e:cbb4",
+    "2405:201:5502:5c18:8887:5d9a:6ac8:9633"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31812476:2:3",
-      "title": "tt31812476:2:3",
-      "timestamp": "2026-01-19T07:58:11.122Z",
-      "ip": "103.24.85.44",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt31812476:2:4",
-      "title": "tt31812476:2:4",
-      "timestamp": "2026-01-19T07:58:45.324Z",
-      "ip": "103.24.85.44",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-19T07:58:49.406Z",
-      "ip": "2401:4900:aa73:f485:ecf6:baff:fe5d:ea81",
-      "username": "b1jju"
-    },
     {
       "type": "movie",
       "id": "tt27263807",
@@ -84439,6 +84417,30 @@
       "timestamp": "2026-02-05T10:49:37.364Z",
       "ip": "49.42.175.51",
       "username": "adr7000"
+    },
+    {
+      "type": "movie",
+      "id": "tt5580390",
+      "title": "tt5580390",
+      "timestamp": "2026-02-05T10:56:53.930Z",
+      "ip": "2409:40e1:3033:874e:1dc3:dd1a:ce2e:cbb4",
+      "username": "jinwoooooi"
+    },
+    {
+      "type": "series",
+      "id": "tt4052886:6:5",
+      "title": "tt4052886:6:5",
+      "timestamp": "2026-02-05T11:01:32.635Z",
+      "ip": "2405:201:5502:5c18:8887:5d9a:6ac8:9633",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt4052886:6:6",
+      "title": "tt4052886:6:6",
+      "timestamp": "2026-02-05T11:02:12.119Z",
+      "ip": "2405:201:5502:5c18:8887:5d9a:6ac8:9633",
+      "username": "dawnstar930"
     }
   ],
   "activeNow": {
@@ -87010,6 +87012,20 @@
       "title": "tt25872924",
       "username": "adr7000",
       "lastActive": 1770288577364
+    },
+    "2409:40e1:3033:874e:1dc3:dd1a:ce2e:cbb4": {
+      "type": "movie",
+      "id": "tt5580390",
+      "title": "tt5580390",
+      "username": "jinwoooooi",
+      "lastActive": 1770289013930
+    },
+    "2405:201:5502:5c18:8887:5d9a:6ac8:9633": {
+      "type": "series",
+      "id": "tt4052886:6:6",
+      "title": "tt4052886:6:6",
+      "username": "dawnstar930",
+      "lastActive": 1770289332119
     }
   }
 }
