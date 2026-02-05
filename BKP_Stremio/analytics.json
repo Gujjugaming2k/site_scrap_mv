@@ -1,5 +1,5 @@
 {
-  "totalViews": 21239,
+  "totalViews": 21245,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4459,57 +4459,13 @@
     "2401:4900:8fe3:6e16:580b:5acf:686d:1c6b",
     "2405:201:2022:b81c:9174:e242:4150:ce9c",
     "2409:40d2:3054:828b:6f9f:e80:fb34:dd7e",
-    "47.15.112.49"
+    "47.15.112.49",
+    "171.49.201.113",
+    "2402:3a80:1981:c8f:178:5634:1232:5476",
+    "2405:201:900f:a92b:943d:6d19:273f:40b0",
+    "2409:40d4:40c9:361b:8000::"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-19T09:38:14.022Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt0460649:3:11",
-      "title": "tt0460649:3:11",
-      "timestamp": "2026-01-19T09:38:27.841Z",
-      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
-      "username": "demon18319"
-    },
-    {
-      "type": "movie",
-      "id": "tt0167260",
-      "title": "The Lord of the Rings: The Return of the King",
-      "timestamp": "2026-01-19T09:42:58.087Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "movie",
-      "id": "tt0167260",
-      "title": "The Lord of the Rings: The Return of the King",
-      "timestamp": "2026-01-19T09:45:11.115Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "movie",
-      "id": "tt1216496",
-      "title": "tt1216496",
-      "timestamp": "2026-01-19T09:45:40.046Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt38235589:1:1",
-      "title": "tt38235589:1:1",
-      "timestamp": "2026-01-19T09:47:31.576Z",
-      "ip": "110.172.131.102",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "series",
       "id": "tt16385150:1:4",
@@ -84461,6 +84417,54 @@
       "timestamp": "2026-02-05T16:25:57.567Z",
       "ip": "47.15.112.49",
       "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt35146696",
+      "title": "tt35146696",
+      "timestamp": "2026-02-05T16:40:17.075Z",
+      "ip": "171.49.201.113",
+      "username": "user_9b"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:6",
+      "title": "tt35335046:1:6",
+      "timestamp": "2026-02-05T16:41:59.794Z",
+      "ip": "2402:3a80:1981:c8f:178:5634:1232:5476",
+      "username": "lazerkey"
+    },
+    {
+      "type": "series",
+      "id": "tt14460684:1:1",
+      "title": "tt14460684:1:1",
+      "timestamp": "2026-02-05T16:42:21.516Z",
+      "ip": "2405:201:900f:a92b:943d:6d19:273f:40b0",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:5",
+      "title": "tt35335046:1:5",
+      "timestamp": "2026-02-05T16:42:24.557Z",
+      "ip": "2402:3a80:1981:c8f:178:5634:1232:5476",
+      "username": "lazerkey"
+    },
+    {
+      "type": "movie",
+      "id": "tt35146696",
+      "title": "tt35146696",
+      "timestamp": "2026-02-05T16:42:45.328Z",
+      "ip": "171.49.201.113",
+      "username": "user_9b"
+    },
+    {
+      "type": "movie",
+      "id": "tt15131266",
+      "title": "tt15131266",
+      "timestamp": "2026-02-05T16:44:20.897Z",
+      "ip": "2409:40d4:40c9:361b:8000::",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -87193,6 +87197,34 @@
       "title": "Fallout",
       "username": "saurabhkaperwan",
       "lastActive": 1770308757567
+    },
+    "171.49.201.113": {
+      "type": "movie",
+      "id": "tt35146696",
+      "title": "tt35146696",
+      "username": "user_9b",
+      "lastActive": 1770309765328
+    },
+    "2402:3a80:1981:c8f:178:5634:1232:5476": {
+      "type": "series",
+      "id": "tt35335046:1:5",
+      "title": "tt35335046:1:5",
+      "username": "lazerkey",
+      "lastActive": 1770309744557
+    },
+    "2405:201:900f:a92b:943d:6d19:273f:40b0": {
+      "type": "series",
+      "id": "tt14460684:1:1",
+      "title": "tt14460684:1:1",
+      "username": "theonlyfreak",
+      "lastActive": 1770309741516
+    },
+    "2409:40d4:40c9:361b:8000::": {
+      "type": "movie",
+      "id": "tt15131266",
+      "title": "tt15131266",
+      "username": "kdbotz",
+      "lastActive": 1770309860897
     }
   }
 }
