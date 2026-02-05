@@ -1,5 +1,5 @@
 {
-  "totalViews": 21062,
+  "totalViews": 21063,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4400,17 +4400,10 @@
     "2409:40d4:106c:e86b:ccfa:87ff:fef5:617c",
     "2405:201:a001:21d8:1262:935:cd50:43ff",
     "152.56.135.193",
-    "2409:40d7:1003:d896:401f:daff:fe9e:d99f"
+    "2409:40d7:1003:d896:401f:daff:fe9e:d99f",
+    "2a10:484:3:1::13"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-19T03:56:36.446Z",
-      "ip": "119.73.114.249",
-      "username": "itx_tj11"
-    },
     {
       "type": "series",
       "id": "tt31812476:2:3",
@@ -84402,6 +84395,14 @@
       "timestamp": "2026-02-05T01:35:57.189Z",
       "ip": "2409:40d7:1003:d896:401f:daff:fe9e:d99f",
       "username": "mailrahulboora"
+    },
+    {
+      "type": "movie",
+      "id": "tt27673536",
+      "title": "tt27673536",
+      "timestamp": "2026-02-05T01:55:46.165Z",
+      "ip": "2a10:484:3:1::13",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -86714,6 +86715,13 @@
       "title": "3 Idiots",
       "username": "mailrahulboora",
       "lastActive": 1770255357189
+    },
+    "2a10:484:3:1::13": {
+      "type": "movie",
+      "id": "tt27673536",
+      "title": "tt27673536",
+      "username": "william097",
+      "lastActive": 1770256546165
     }
   }
 }
