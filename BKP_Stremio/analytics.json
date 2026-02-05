@@ -1,5 +1,5 @@
 {
-  "totalViews": 21163,
+  "totalViews": 21165,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4439,25 +4439,10 @@
     "2401:9640:801:f425:cd2b:8f75:ee16:b6d3",
     "49.42.175.51",
     "2409:40e1:3033:874e:1dc3:dd1a:ce2e:cbb4",
-    "2405:201:5502:5c18:8887:5d9a:6ac8:9633"
+    "2405:201:5502:5c18:8887:5d9a:6ac8:9633",
+    "223.185.27.89"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt27263807",
-      "title": "tt27263807",
-      "timestamp": "2026-01-19T08:00:15.497Z",
-      "ip": "103.119.172.132",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt27263807",
-      "title": "tt27263807",
-      "timestamp": "2026-01-19T08:00:26.606Z",
-      "ip": "103.119.172.132",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt4236770:3:9",
@@ -84441,6 +84426,22 @@
       "timestamp": "2026-02-05T11:02:12.119Z",
       "ip": "2405:201:5502:5c18:8887:5d9a:6ac8:9633",
       "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:15",
+      "title": "tt6354518:2:15",
+      "timestamp": "2026-02-05T11:47:19.513Z",
+      "ip": "223.185.27.89",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt7469726",
+      "title": "tt7469726",
+      "timestamp": "2026-02-05T11:51:46.710Z",
+      "ip": "2409:40d4:40d5:9d25:8000::",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -86980,10 +86981,10 @@
     },
     "2409:40d4:40d5:9d25:8000::": {
       "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "id": "tt7469726",
+      "title": "tt7469726",
       "username": "kdbotz",
-      "lastActive": 1770286771340
+      "lastActive": 1770292306710
     },
     "2409:40d4:107c:b6c1:d0bc:ccff:fee2:b23c": {
       "type": "series",
@@ -87026,6 +87027,13 @@
       "title": "tt4052886:6:6",
       "username": "dawnstar930",
       "lastActive": 1770289332119
+    },
+    "223.185.27.89": {
+      "type": "series",
+      "id": "tt6354518:2:15",
+      "title": "tt6354518:2:15",
+      "username": "sinbad1722",
+      "lastActive": 1770292039513
     }
   }
 }
