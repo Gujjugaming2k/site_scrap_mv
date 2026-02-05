@@ -1,5 +1,5 @@
 {
-  "totalViews": 21283,
+  "totalViews": 21284,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4472,14 +4472,6 @@
     "122.161.240.62"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt12300742",
-      "title": "Bugonia",
-      "timestamp": "2026-01-19T10:39:52.300Z",
-      "ip": "205.254.185.113",
-      "username": "space_forca"
-    },
     {
       "type": "movie",
       "id": "tt1216496",
@@ -84471,6 +84463,14 @@
       "timestamp": "2026-02-05T20:23:54.005Z",
       "ip": "47.15.65.57",
       "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:6",
+      "title": "tt1399664:1:6",
+      "timestamp": "2026-02-05T20:55:10.647Z",
+      "ip": "47.15.65.57",
+      "username": "golu_vk"
     }
   ],
   "activeNow": {
@@ -87171,10 +87171,10 @@
     },
     "47.15.65.57": {
       "type": "series",
-      "id": "tt1399664:1:5",
-      "title": "tt1399664:1:5",
+      "id": "tt1399664:1:6",
+      "title": "tt1399664:1:6",
       "username": "golu_vk",
-      "lastActive": 1770323034005
+      "lastActive": 1770324910647
     },
     "2401:4900:8fe3:6e16:580b:5acf:686d:1c6b": {
       "type": "series",
