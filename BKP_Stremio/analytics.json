@@ -1,5 +1,5 @@
 {
-  "totalViews": 21200,
+  "totalViews": 21202,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4450,25 +4450,11 @@
     "2401:4900:1f29:9d85:d9e2:9f14:f815:fd2a",
     "2409:40d4:30d3:22a7:5460:85ff:fed8:941b",
     "2401:4900:8f60:5fe8:e12b:5288:b61d:4ce4",
-    "2409:40d4:f9:10fb:34fa:caff:fe33:7a9c"
+    "2409:40d4:f9:10fb:34fa:caff:fe33:7a9c",
+    "2409:40c0:1038:7518:99a8:b26d:3121:d135",
+    "2409:40c0:1075:6fdf:c5c2:51c3:90a5:ea30"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt36616410",
-      "title": "tt36616410",
-      "timestamp": "2026-01-19T09:00:12.670Z",
-      "ip": "110.235.219.255",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-01-19T09:02:35.433Z",
-      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
-      "username": "nabakun24"
-    },
     {
       "type": "movie",
       "id": "tt31227572",
@@ -84452,6 +84438,22 @@
       "timestamp": "2026-02-05T14:44:21.644Z",
       "ip": "182.69.181.34",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt14526318",
+      "title": "tt14526318",
+      "timestamp": "2026-02-05T14:51:29.092Z",
+      "ip": "2409:40c0:1038:7518:99a8:b26d:3121:d135",
+      "username": "oo0o0a0o0oo"
+    },
+    {
+      "type": "movie",
+      "id": "tt14526318",
+      "title": "tt14526318",
+      "timestamp": "2026-02-05T14:52:37.135Z",
+      "ip": "2409:40c0:1075:6fdf:c5c2:51c3:90a5:ea30",
+      "username": "oo0o0a0o0oo"
     }
   ],
   "activeNow": {
@@ -87114,6 +87116,20 @@
       "title": "tt4907198",
       "username": "golu_vk",
       "lastActive": 1770301764816
+    },
+    "2409:40c0:1038:7518:99a8:b26d:3121:d135": {
+      "type": "movie",
+      "id": "tt14526318",
+      "title": "tt14526318",
+      "username": "oo0o0a0o0oo",
+      "lastActive": 1770303089092
+    },
+    "2409:40c0:1075:6fdf:c5c2:51c3:90a5:ea30": {
+      "type": "movie",
+      "id": "tt14526318",
+      "title": "tt14526318",
+      "username": "oo0o0a0o0oo",
+      "lastActive": 1770303157135
     }
   }
 }
