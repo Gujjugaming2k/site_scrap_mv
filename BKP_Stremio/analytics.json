@@ -1,5 +1,5 @@
 {
-  "totalViews": 21174,
+  "totalViews": 21179,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4442,49 +4442,13 @@
     "2405:201:5502:5c18:8887:5d9a:6ac8:9633",
     "223.185.27.89",
     "2409:40c1:101b:3efb:4dfe:b861:873a:51d1",
-    "2401:4900:8820:9f99:2996:5797:eaea:7199"
+    "2401:4900:8820:9f99:2996:5797:eaea:7199",
+    "2409:40e5:1008:62fa:f472:30ff:feb7:3dca",
+    "49.47.153.90",
+    "152.58.37.112",
+    "103.46.200.34"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31812476:2:3",
-      "title": "tt31812476:2:3",
-      "timestamp": "2026-01-19T08:14:27.964Z",
-      "ip": "103.24.85.44",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt7737786",
-      "title": "Greenland",
-      "timestamp": "2026-01-19T08:16:17.215Z",
-      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt7737786",
-      "title": "Greenland",
-      "timestamp": "2026-01-19T08:16:17.324Z",
-      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
-      "username": "nabakun"
-    },
-    {
-      "type": "series",
-      "id": "tt2250064:1:1",
-      "title": "tt2250064:1:1",
-      "timestamp": "2026-01-19T08:28:03.724Z",
-      "ip": "2400:1a00:7b4c:192a:da6e:bbf3:3e58:d562",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt16385150:1:4",
-      "title": "tt16385150:1:4",
-      "timestamp": "2026-01-19T08:31:24.273Z",
-      "ip": "2405:201:6025:a88d:f7dc:690d:cd4:1b64",
-      "username": "infinityseeker"
-    },
     {
       "type": "movie",
       "id": "tt32642706",
@@ -84444,6 +84408,46 @@
       "timestamp": "2026-02-05T13:07:56.462Z",
       "ip": "2401:4900:8820:9f99:2996:5797:eaea:7199",
       "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt9362736",
+      "title": "Die My Love",
+      "timestamp": "2026-02-05T13:12:27.471Z",
+      "ip": "2409:40e5:1008:62fa:f472:30ff:feb7:3dca",
+      "username": "skssunilbh"
+    },
+    {
+      "type": "movie",
+      "id": "tt1395135",
+      "title": "tt1395135",
+      "timestamp": "2026-02-05T13:15:34.006Z",
+      "ip": "49.47.153.90",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt22742720",
+      "title": "tt22742720",
+      "timestamp": "2026-02-05T13:18:14.891Z",
+      "ip": "152.58.37.112",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "movie",
+      "id": "tt0930083",
+      "title": "tt0930083",
+      "timestamp": "2026-02-05T13:18:21.706Z",
+      "ip": "2405:201:900f:a92b:495d:2c3c:bcfa:bfac",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-02-05T13:20:05.058Z",
+      "ip": "103.46.200.34",
+      "username": "brosportses"
     }
   ],
   "activeNow": {
@@ -86948,10 +86952,10 @@
     },
     "2405:201:900f:a92b:495d:2c3c:bcfa:bfac": {
       "type": "movie",
-      "id": "tt0114746",
-      "title": "Twelve Monkeys",
+      "id": "tt0930083",
+      "title": "tt0930083",
       "username": "theonlyfreak",
-      "lastActive": 1770296154460
+      "lastActive": 1770297501706
     },
     "2401:4900:1c62:2076:e6b9:4da3:e535:610c": {
       "type": "series",
@@ -87050,6 +87054,34 @@
       "title": "tt9420648",
       "username": "b1jju",
       "lastActive": 1770296876462
+    },
+    "2409:40e5:1008:62fa:f472:30ff:feb7:3dca": {
+      "type": "movie",
+      "id": "tt9362736",
+      "title": "Die My Love",
+      "username": "skssunilbh",
+      "lastActive": 1770297147471
+    },
+    "49.47.153.90": {
+      "type": "movie",
+      "id": "tt1395135",
+      "title": "tt1395135",
+      "username": "theonlyfreak",
+      "lastActive": 1770297334006
+    },
+    "152.58.37.112": {
+      "type": "movie",
+      "id": "tt22742720",
+      "title": "tt22742720",
+      "username": "pingmenoone",
+      "lastActive": 1770297494891
+    },
+    "103.46.200.34": {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "username": "brosportses",
+      "lastActive": 1770297605058
     }
   }
 }
