@@ -1,5 +1,5 @@
 {
-  "totalViews": 21168,
+  "totalViews": 21171,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4440,33 +4440,10 @@
     "49.42.175.51",
     "2409:40e1:3033:874e:1dc3:dd1a:ce2e:cbb4",
     "2405:201:5502:5c18:8887:5d9a:6ac8:9633",
-    "223.185.27.89"
+    "223.185.27.89",
+    "2409:40c1:101b:3efb:4dfe:b861:873a:51d1"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-19T08:10:41.291Z",
-      "ip": "2409:40e2:10df:dffe:d94b:192d:cba7:994b",
-      "username": "johnwick"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-19T08:10:45.200Z",
-      "ip": "2409:40e2:10df:dffe:d94b:192d:cba7:994b",
-      "username": "johnwick"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-19T08:10:46.036Z",
-      "ip": "2409:40e2:10df:dffe:d94b:192d:cba7:994b",
-      "username": "johnwick"
-    },
     {
       "type": "series",
       "id": "tt27497448:1:1",
@@ -84442,6 +84419,30 @@
       "timestamp": "2026-02-05T12:29:29.051Z",
       "ip": "103.46.200.105",
       "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt22742720",
+      "title": "tt22742720",
+      "timestamp": "2026-02-05T12:42:24.788Z",
+      "ip": "2409:40c1:101b:3efb:4dfe:b861:873a:51d1",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt7382936:1:2",
+      "title": "tt7382936:1:2",
+      "timestamp": "2026-02-05T12:51:52.300Z",
+      "ip": "2405:201:900f:a92b:495d:2c3c:bcfa:bfac",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt7382936:1:1",
+      "title": "tt7382936:1:1",
+      "timestamp": "2026-02-05T12:52:08.488Z",
+      "ip": "2405:201:900f:a92b:495d:2c3c:bcfa:bfac",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -86945,11 +86946,11 @@
       "lastActive": 1770281502819
     },
     "2405:201:900f:a92b:495d:2c3c:bcfa:bfac": {
-      "type": "movie",
-      "id": "tt1121794",
-      "title": "tt1121794",
+      "type": "series",
+      "id": "tt7382936:1:1",
+      "title": "tt7382936:1:1",
       "username": "theonlyfreak",
-      "lastActive": 1770282477054
+      "lastActive": 1770295928488
     },
     "2401:4900:1c62:2076:e6b9:4da3:e535:610c": {
       "type": "series",
@@ -87034,6 +87035,13 @@
       "title": "tt6354518:2:15",
       "username": "sinbad1722",
       "lastActive": 1770292039513
+    },
+    "2409:40c1:101b:3efb:4dfe:b861:873a:51d1": {
+      "type": "movie",
+      "id": "tt22742720",
+      "title": "tt22742720",
+      "username": "pingmenoone",
+      "lastActive": 1770295344788
     }
   }
 }
