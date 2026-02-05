@@ -1,5 +1,5 @@
 {
-  "totalViews": 21134,
+  "totalViews": 21140,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4424,57 +4424,11 @@
     "2401:4900:1c0a:539c:18ea:3662:43dc:77d2",
     "2405:201:a001:21d8:8955:67a5:c548:55b",
     "157.48.223.163",
-    "2405:201:a001:21d8:f89f:3e0a:d42b:775b"
+    "2405:201:a001:21d8:f89f:3e0a:d42b:775b",
+    "2402:3a80:1985:b8d:378:5634:1232:5476",
+    "157.48.65.6"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0468569",
-      "title": "The Dark Knight",
-      "timestamp": "2026-01-19T06:57:16.679Z",
-      "ip": "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72",
-      "username": "golu_vk"
-    },
-    {
-      "type": "movie",
-      "id": "tt15911108",
-      "title": "tt15911108",
-      "timestamp": "2026-01-19T06:58:22.163Z",
-      "ip": "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72",
-      "username": "golu_vk"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:2",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-19T07:06:46.189Z",
-      "ip": "2401:4900:ba29:8ec9::2c38:7c28",
-      "username": "baljeet_002"
-    },
-    {
-      "type": "series",
-      "id": "tt30003786:4:5",
-      "title": "tt30003786:4:5",
-      "timestamp": "2026-01-19T07:09:48.370Z",
-      "ip": "103.170.53.195",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt30003786:4:6",
-      "title": "tt30003786:4:6",
-      "timestamp": "2026-01-19T07:10:35.884Z",
-      "ip": "103.170.53.195",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt30003786:4:7",
-      "title": "tt30003786:4:7",
-      "timestamp": "2026-01-19T07:10:56.886Z",
-      "ip": "103.170.53.195",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt30003786:4:8",
@@ -84426,6 +84380,54 @@
       "timestamp": "2026-02-05T08:28:55.218Z",
       "ip": "103.240.170.95",
       "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:6",
+      "title": "tt35335046:1:6",
+      "timestamp": "2026-02-05T08:40:57.859Z",
+      "ip": "2402:3a80:1985:b8d:378:5634:1232:5476",
+      "username": "lazerkey"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:5",
+      "title": "tt35335046:1:5",
+      "timestamp": "2026-02-05T08:41:31.312Z",
+      "ip": "2402:3a80:1985:b8d:378:5634:1232:5476",
+      "username": "lazerkey"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "timestamp": "2026-02-05T08:45:33.547Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:6",
+      "title": "tt35335046:1:6",
+      "timestamp": "2026-02-05T08:46:30.529Z",
+      "ip": "2402:3a80:1985:b8d:378:5634:1232:5476",
+      "username": "lazerkey"
+    },
+    {
+      "type": "movie",
+      "id": "tt39139925",
+      "title": "tt39139925",
+      "timestamp": "2026-02-05T08:47:55.050Z",
+      "ip": "157.48.65.6",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:5",
+      "title": "tt35335046:1:5",
+      "timestamp": "2026-02-05T08:47:56.122Z",
+      "ip": "2402:3a80:1985:b8d:378:5634:1232:5476",
+      "username": "lazerkey"
     }
   ],
   "activeNow": {
@@ -84598,11 +84600,11 @@
       "lastActive": 1769861905703
     },
     "139.5.196.103": {
-      "type": "movie",
-      "id": "tt35727678",
-      "title": "tt35727678",
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770277946320
+      "lastActive": 1770281133547
     },
     "94.156.30.57": {
       "type": "series",
@@ -86906,6 +86908,20 @@
       "title": "tt23181388:1:2",
       "username": "william097",
       "lastActive": 1770278800609
+    },
+    "2402:3a80:1985:b8d:378:5634:1232:5476": {
+      "type": "series",
+      "id": "tt35335046:1:5",
+      "title": "tt35335046:1:5",
+      "username": "lazerkey",
+      "lastActive": 1770281276122
+    },
+    "157.48.65.6": {
+      "type": "movie",
+      "id": "tt39139925",
+      "title": "tt39139925",
+      "username": "kdbotz",
+      "lastActive": 1770281275050
     }
   }
 }
