@@ -1,5 +1,5 @@
 {
-  "totalViews": 21275,
+  "totalViews": 21276,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4471,14 +4471,6 @@
     "2409:40f0:1195:e0a3:eca0:baff:fec9:7bba"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt16385150:1:5",
-      "title": "tt16385150:1:5",
-      "timestamp": "2026-01-19T10:31:36.655Z",
-      "ip": "2405:201:6025:a88d:f7dc:690d:cd4:1b64",
-      "username": "infinityseeker"
-    },
     {
       "type": "series",
       "id": "tt16385150:1:5",
@@ -84470,6 +84462,14 @@
       "timestamp": "2026-02-05T18:47:53.490Z",
       "ip": "116.68.74.75",
       "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:21:181",
+      "title": "tt0388629:21:181",
+      "timestamp": "2026-02-05T18:55:42.338Z",
+      "ip": "2409:40f0:1195:e0a3:eca0:baff:fec9:7bba",
+      "username": "rick grimes"
     }
   ],
   "activeNow": {
@@ -87261,10 +87261,10 @@
     },
     "2409:40f0:1195:e0a3:eca0:baff:fec9:7bba": {
       "type": "series",
-      "id": "tt0388629:22:3",
-      "title": "tt0388629:22:3",
+      "id": "tt0388629:21:181",
+      "title": "tt0388629:21:181",
       "username": "rick grimes",
-      "lastActive": 1770316880259
+      "lastActive": 1770317742338
     }
   }
 }
