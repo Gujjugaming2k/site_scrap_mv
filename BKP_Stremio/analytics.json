@@ -1,5 +1,5 @@
 {
-  "totalViews": 21300,
+  "totalViews": 21302,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4477,22 +4477,6 @@
     "2409:40e4:b:6b71:d8f2:7aff:fed0:da1b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0877057:1:28",
-      "title": "Death Note",
-      "timestamp": "2026-01-19T11:04:49.188Z",
-      "ip": "2409:40d4:40db:ad3e:b808:3e0a:51c4:7db0",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1442550",
-      "title": "tt1442550",
-      "timestamp": "2026-01-19T11:05:19.958Z",
-      "ip": "2401:4900:8fe2:4c46:f813:2c06:e63a:9be7",
-      "username": "ashwanileon"
-    },
     {
       "type": "series",
       "id": "tt0877057:1:28",
@@ -84476,6 +84460,22 @@
       "timestamp": "2026-02-06T02:42:45.293Z",
       "ip": "2405:201:2022:b81c:ec61:8512:70ed:4d4",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:3:4",
+      "title": "Lost",
+      "timestamp": "2026-02-06T03:48:28.599Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:3:5",
+      "title": "Lost",
+      "timestamp": "2026-02-06T03:48:32.417Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -84866,10 +84866,10 @@
     },
     "116.68.74.75": {
       "type": "series",
-      "id": "tt0411008:3:4",
+      "id": "tt0411008:3:5",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1770317273490
+      "lastActive": 1770349712417
     },
     "2409:40e5:1046:7359:4852:fb48:776e:3d9d": {
       "type": "movie",
