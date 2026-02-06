@@ -1,5 +1,5 @@
 {
-  "totalViews": 21302,
+  "totalViews": 21304,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4474,25 +4474,10 @@
     "2409:40d2:301f:551:8000::",
     "2409:40e4:5a:c762:9ce1:caff:fe85:14dc",
     "2405:201:2022:b81c:ec61:8512:70ed:4d4",
-    "2409:40e4:b:6b71:d8f2:7aff:fed0:da1b"
+    "2409:40e4:b:6b71:d8f2:7aff:fed0:da1b",
+    "192.166.244.84"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0877057:1:28",
-      "title": "Death Note",
-      "timestamp": "2026-01-19T11:05:24.474Z",
-      "ip": "2409:40d4:40db:ad3e:b808:3e0a:51c4:7db0",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt16385150",
-      "title": "tt16385150",
-      "timestamp": "2026-01-19T11:05:44.594Z",
-      "ip": "2401:4900:8fe2:4c46:f813:2c06:e63a:9be7",
-      "username": "ashwanileon"
-    },
     {
       "type": "series",
       "id": "tt16385150",
@@ -84476,6 +84461,22 @@
       "timestamp": "2026-02-06T03:48:32.417Z",
       "ip": "116.68.74.75",
       "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt2560140:4:13",
+      "title": "tt2560140:4:13",
+      "timestamp": "2026-02-06T03:57:11.036Z",
+      "ip": "192.166.244.84",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "series",
+      "id": "tt2560140:4:14",
+      "title": "tt2560140:4:14",
+      "timestamp": "2026-02-06T04:02:15.055Z",
+      "ip": "192.166.244.84",
+      "username": "saisrinivas"
     }
   ],
   "activeNow": {
@@ -87313,6 +87314,13 @@
       "title": "tt2359810",
       "username": "skssunilbh",
       "lastActive": 1770345621844
+    },
+    "192.166.244.84": {
+      "type": "series",
+      "id": "tt2560140:4:14",
+      "title": "tt2560140:4:14",
+      "username": "saisrinivas",
+      "lastActive": 1770350535055
     }
   }
 }
