@@ -1,5 +1,5 @@
 {
-  "totalViews": 21488,
+  "totalViews": 21490,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4523,25 +4523,10 @@
     "2409:40d4:1a:2316:cf5:80ff:fef4:bb5b",
     "2001:4490:4e65:b1df:aed:82e0:bbbc:d596",
     "2401:4900:1c53:5b65:dc0b:7c5b:4b75:6d6",
-    "146.196.32.182"
+    "146.196.32.182",
+    "2409:40d4:4008:1836:8000::"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-19T16:12:24.017Z",
-      "ip": "182.69.183.164",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt32536168:1:1",
-      "title": "tt32536168:1:1",
-      "timestamp": "2026-01-19T16:13:18.545Z",
-      "ip": "2409:40d0:2c:d1ba:a4f4:dfff:fe47:1608",
-      "username": "magicmannn"
-    },
     {
       "type": "movie",
       "id": "tt22740896",
@@ -84525,6 +84510,22 @@
       "timestamp": "2026-02-06T19:11:12.957Z",
       "ip": "103.249.4.50",
       "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-06T19:38:16.404Z",
+      "ip": "2409:40d4:4008:1836:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt13654226",
+      "title": "The Gorge",
+      "timestamp": "2026-02-06T19:40:32.329Z",
+      "ip": "2409:40d4:4008:1836:8000::",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -87705,6 +87706,13 @@
       "title": "tt26915338:1:8",
       "username": "gaendaswami",
       "lastActive": 1770404382936
+    },
+    "2409:40d4:4008:1836:8000::": {
+      "type": "movie",
+      "id": "tt13654226",
+      "title": "The Gorge",
+      "username": "kdbotz",
+      "lastActive": 1770406832329
     }
   }
 }
