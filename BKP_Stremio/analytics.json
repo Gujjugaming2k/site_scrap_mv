@@ -1,5 +1,5 @@
 {
-  "totalViews": 21324,
+  "totalViews": 21330,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4480,57 +4480,11 @@
     "2409:40e4:205d:dfc0:d4f3:b2ff:fe24:b7d2",
     "2a09:bac5:3b5b:c8::14:2ba",
     "2409:40e5:96:8089:ec81:bff:fe2e:a240",
-    "2409:40d0:2456:6895:741e:e409:24da:ef8d"
+    "2409:40d0:2456:6895:741e:e409:24da:ef8d",
+    "2409:40d4:101b:2004:949c:837d:6d50:50e2",
+    "2405:201:5502:5c18:f8e6:5b26:baf2:e489"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T11:26:24.745Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T11:26:34.399Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt1235547:1:1",
-      "title": "tt1235547:1:1",
-      "timestamp": "2026-01-19T11:28:43.459Z",
-      "ip": "205.254.185.113",
-      "username": "space_forca"
-    },
-    {
-      "type": "movie",
-      "id": "tt1216496",
-      "title": "tt1216496",
-      "timestamp": "2026-01-19T11:30:17.561Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt0045693",
-      "title": "tt0045693",
-      "timestamp": "2026-01-19T11:31:28.143Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt15576504:2:2",
-      "title": "tt15576504:2:2",
-      "timestamp": "2026-01-19T11:32:13.090Z",
-      "ip": "27.107.175.20",
-      "username": "anonymous050100"
-    },
     {
       "type": "series",
       "id": "tt15576504:1:1",
@@ -84482,6 +84436,54 @@
       "timestamp": "2026-02-06T05:52:44.487Z",
       "ip": "2409:40d2:3054:5:aac9:2d02:a44f:9dd7",
       "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt14115938:1:1",
+      "title": "The Eminence in Shadow",
+      "timestamp": "2026-02-06T06:19:15.721Z",
+      "ip": "2409:40d4:101b:2004:949c:837d:6d50:50e2",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt14115938:1:2",
+      "title": "The Eminence in Shadow",
+      "timestamp": "2026-02-06T06:20:15.125Z",
+      "ip": "2409:40d4:101b:2004:949c:837d:6d50:50e2",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt4052886:6:8",
+      "title": "tt4052886:6:8",
+      "timestamp": "2026-02-06T06:20:30.315Z",
+      "ip": "2405:201:5502:5c18:f8e6:5b26:baf2:e489",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt4052886:6:9",
+      "title": "tt4052886:6:9",
+      "timestamp": "2026-02-06T06:21:01.654Z",
+      "ip": "2405:201:5502:5c18:f8e6:5b26:baf2:e489",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt4052886:6:9",
+      "title": "tt4052886:6:9",
+      "timestamp": "2026-02-06T06:21:51.227Z",
+      "ip": "2405:201:5502:5c18:f8e6:5b26:baf2:e489",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-02-06T06:25:42.610Z",
+      "ip": "2409:40d4:101b:2004:949c:837d:6d50:50e2",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -87361,6 +87363,20 @@
       "title": "tt0079501",
       "username": "katdenningssss",
       "lastActive": 1770356813362
+    },
+    "2409:40d4:101b:2004:949c:837d:6d50:50e2": {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "username": "gaendaswami",
+      "lastActive": 1770359142610
+    },
+    "2405:201:5502:5c18:f8e6:5b26:baf2:e489": {
+      "type": "series",
+      "id": "tt4052886:6:9",
+      "title": "tt4052886:6:9",
+      "username": "dawnstar930",
+      "lastActive": 1770358911227
     }
   }
 }
