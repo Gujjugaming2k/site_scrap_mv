@@ -1,5 +1,5 @@
 {
-  "totalViews": 21373,
+  "totalViews": 21374,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4494,14 +4494,6 @@
     "2409:4085:2e0d:f36::1489:3102"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:1:6",
-      "title": "Lost",
-      "timestamp": "2026-01-19T12:30:04.532Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
     {
       "type": "series",
       "id": "tt0411008:1:6",
@@ -84493,6 +84485,14 @@
       "timestamp": "2026-02-06T09:03:47.029Z",
       "ip": "2409:4085:2e0d:f36::1489:3102",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt15830678:1:9",
+      "title": "tt15830678:1:9",
+      "timestamp": "2026-02-06T09:20:52.305Z",
+      "ip": "182.69.181.34",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -86482,7 +86482,7 @@
       "id": "tt15830678:1:9",
       "title": "tt15830678:1:9",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770361196227
+      "lastActive": 1770369652305
     },
     "2401:4900:7dd0:e0f4:3811:6bff:fe7a:7b77": {
       "type": "series",
