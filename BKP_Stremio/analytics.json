@@ -1,5 +1,5 @@
 {
-  "totalViews": 21338,
+  "totalViews": 21342,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4487,38 +4487,6 @@
     "2409:40d4:4038:3c99:8000::"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt2338151",
-      "title": "tt2338151",
-      "timestamp": "2026-01-19T11:35:21.548Z",
-      "ip": "27.107.189.26",
-      "username": "anonymous050100"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-19T11:37:51.037Z",
-      "ip": "182.77.75.100",
-      "username": "thebatmanbyte"
-    },
-    {
-      "type": "series",
-      "id": "tt10919420:3:2",
-      "title": "tt10919420:3:2",
-      "timestamp": "2026-01-19T11:38:09.266Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt10919420:3:3",
-      "title": "tt10919420:3:3",
-      "timestamp": "2026-01-19T11:38:23.911Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt27497448:1:2",
@@ -84486,6 +84454,38 @@
       "timestamp": "2026-02-06T07:03:02.957Z",
       "ip": "2409:40d4:4038:3c99:8000::",
       "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-02-06T07:11:00.601Z",
+      "ip": "2409:40d2:3054:5:aac9:2d02:a44f:9dd7",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-02-06T07:11:54.565Z",
+      "ip": "2409:40d2:3054:5:aac9:2d02:a44f:9dd7",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt3316948",
+      "title": "American Ultra",
+      "timestamp": "2026-02-06T07:15:23.406Z",
+      "ip": "2409:40d4:4038:3c99:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt3316948",
+      "title": "American Ultra",
+      "timestamp": "2026-02-06T07:16:18.873Z",
+      "ip": "2409:40d4:4038:3c99:8000::",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -87333,10 +87333,10 @@
     },
     "2409:40d2:3054:5:aac9:2d02:a44f:9dd7": {
       "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
       "username": "saurabhkaperwan",
-      "lastActive": 1770357164487
+      "lastActive": 1770361914565
     },
     "2409:40e4:205d:dfc0:d4f3:b2ff:fe24:b7d2": {
       "type": "movie",
@@ -87392,7 +87392,7 @@
       "id": "tt3316948",
       "title": "American Ultra",
       "username": "kdbotz",
-      "lastActive": 1770361382957
+      "lastActive": 1770362178873
     }
   }
 }
