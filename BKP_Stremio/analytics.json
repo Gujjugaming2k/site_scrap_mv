@@ -1,5 +1,5 @@
 {
-  "totalViews": 21483,
+  "totalViews": 21484,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4521,17 +4521,10 @@
     "202.173.124.141",
     "2402:3a80:4304:626:278:5634:1232:5476",
     "2409:40d4:1a:2316:cf5:80ff:fef4:bb5b",
-    "2001:4490:4e65:b1df:aed:82e0:bbbc:d596"
+    "2001:4490:4e65:b1df:aed:82e0:bbbc:d596",
+    "2401:4900:1c53:5b65:dc0b:7c5b:4b75:6d6"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0877057:1:30",
-      "title": "Death Note",
-      "timestamp": "2026-01-19T15:59:46.810Z",
-      "ip": "2409:40d4:40db:ad3e:8000::",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt35335046:1:3",
@@ -84523,6 +84516,14 @@
       "timestamp": "2026-02-06T18:25:26.223Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-06T18:52:59.238Z",
+      "ip": "2401:4900:1c53:5b65:dc0b:7c5b:4b75:6d6",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -87689,6 +87690,13 @@
       "title": "Avengers: Age of Ultron",
       "username": "adiyogivishwanath",
       "lastActive": 1770401699744
+    },
+    "2401:4900:1c53:5b65:dc0b:7c5b:4b75:6d6": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1770403979238
     }
   }
 }
