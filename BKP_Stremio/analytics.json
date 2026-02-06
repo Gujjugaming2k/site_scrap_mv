@@ -1,5 +1,5 @@
 {
-  "totalViews": 21316,
+  "totalViews": 21317,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4478,17 +4478,10 @@
     "192.166.244.84",
     "2409:40d2:3054:5:aac9:2d02:a44f:9dd7",
     "2409:40e4:205d:dfc0:d4f3:b2ff:fe24:b7d2",
-    "2a09:bac5:3b5b:c8::14:2ba"
+    "2a09:bac5:3b5b:c8::14:2ba",
+    "2409:40e5:96:8089:ec81:bff:fe2e:a240"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt7961060",
-      "title": "tt7961060",
-      "timestamp": "2026-01-19T11:21:39.373Z",
-      "ip": "2405:201:500c:496b:2e1b:3aff:fe14:f417",
-      "username": "karthik"
-    },
     {
       "type": "movie",
       "id": "tt33244668",
@@ -84480,6 +84473,14 @@
       "timestamp": "2026-02-06T04:54:26.794Z",
       "ip": "2a09:bac5:3b5b:c8::14:2ba",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-06T05:20:01.294Z",
+      "ip": "2409:40e5:96:8089:ec81:bff:fe2e:a240",
+      "username": "ig_sirmour"
     }
   ],
   "activeNow": {
@@ -87345,6 +87346,13 @@
       "title": "tt14905854",
       "username": "demon18319",
       "lastActive": 1770353666794
+    },
+    "2409:40e5:96:8089:ec81:bff:fe2e:a240": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "ig_sirmour",
+      "lastActive": 1770355201294
     }
   }
 }
