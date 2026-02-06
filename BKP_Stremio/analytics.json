@@ -1,5 +1,5 @@
 {
-  "totalViews": 21330,
+  "totalViews": 21333,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4482,33 +4482,10 @@
     "2409:40e5:96:8089:ec81:bff:fe2e:a240",
     "2409:40d0:2456:6895:741e:e409:24da:ef8d",
     "2409:40d4:101b:2004:949c:837d:6d50:50e2",
-    "2405:201:5502:5c18:f8e6:5b26:baf2:e489"
+    "2405:201:5502:5c18:f8e6:5b26:baf2:e489",
+    "2401:4900:1c62:241a:2d18:79b4:5b10:5191"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt15576504:1:1",
-      "title": "tt15576504:1:1",
-      "timestamp": "2026-01-19T11:32:16.767Z",
-      "ip": "27.107.175.20",
-      "username": "anonymous050100"
-    },
-    {
-      "type": "series",
-      "id": "tt15576504:1:1",
-      "title": "tt15576504:1:1",
-      "timestamp": "2026-01-19T11:32:29.475Z",
-      "ip": "27.107.175.20",
-      "username": "anonymous050100"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
-      "timestamp": "2026-01-19T11:34:19.639Z",
-      "ip": "27.107.189.26",
-      "username": "anonymous050100"
-    },
     {
       "type": "series",
       "id": "tt10919420:3:1",
@@ -84484,6 +84461,30 @@
       "timestamp": "2026-02-06T06:25:42.610Z",
       "ip": "2409:40d4:101b:2004:949c:837d:6d50:50e2",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt10233448:1:3",
+      "title": "Vinland Saga",
+      "timestamp": "2026-02-06T06:40:27.730Z",
+      "ip": "202.88.248.12",
+      "username": "deepak"
+    },
+    {
+      "type": "series",
+      "id": "tt38221085:1:5",
+      "title": "tt38221085:1:5",
+      "timestamp": "2026-02-06T06:43:58.937Z",
+      "ip": "2401:4900:1c62:241a:2d18:79b4:5b10:5191",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt38221085:1:7",
+      "title": "tt38221085:1:7",
+      "timestamp": "2026-02-06T06:47:56.583Z",
+      "ip": "2401:4900:1c62:241a:2d18:79b4:5b10:5191",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -85860,11 +85861,11 @@
       "lastActive": 1770051892056
     },
     "202.88.248.12": {
-      "type": "movie",
-      "id": "tt32362695",
-      "title": "tt32362695",
+      "type": "series",
+      "id": "tt10233448:1:3",
+      "title": "Vinland Saga",
       "username": "deepak",
-      "lastActive": 1770308650875
+      "lastActive": 1770360027730
     },
     "2409:40d4:408d:afd9:f45a:bd5c:872f:89e9": {
       "type": "movie",
@@ -87377,6 +87378,13 @@
       "title": "tt4052886:6:9",
       "username": "dawnstar930",
       "lastActive": 1770358911227
+    },
+    "2401:4900:1c62:241a:2d18:79b4:5b10:5191": {
+      "type": "series",
+      "id": "tt38221085:1:7",
+      "title": "tt38221085:1:7",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1770360476583
     }
   }
 }
