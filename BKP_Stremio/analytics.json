@@ -1,5 +1,5 @@
 {
-  "totalViews": 21446,
+  "totalViews": 21447,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4519,14 +4519,6 @@
     "2401:4900:8822:7be7:203c:adb0:59db:b646"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1520211:10:2",
-      "title": "tt1520211:10:2",
-      "timestamp": "2026-01-19T15:24:35.683Z",
-      "ip": "41.104.98.59",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt0071800",
@@ -84518,6 +84510,14 @@
       "timestamp": "2026-02-06T15:59:32.828Z",
       "ip": "103.24.85.184",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-02-06T16:09:33.535Z",
+      "ip": "2409:40d2:305f:fb47:d7f3:4356:5eb3:5443",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -87609,11 +87609,11 @@
       "lastActive": 1770386469326
     },
     "2409:40d2:305f:fb47:d7f3:4356:5eb3:5443": {
-      "type": "series",
-      "id": "tt4574334:5:1",
-      "title": "Stranger Things",
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
       "username": "saurabhkaperwan",
-      "lastActive": 1770391002866
+      "lastActive": 1770394173535
     },
     "2401:4900:8fe3:6e16:d28:943b:f122:c2e1": {
       "type": "movie",
