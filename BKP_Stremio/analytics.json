@@ -1,5 +1,5 @@
 {
-  "totalViews": 21447,
+  "totalViews": 21451,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4516,41 +4516,11 @@
     "119.42.59.59",
     "190.250.187.215",
     "59.88.130.251",
-    "2401:4900:8822:7be7:203c:adb0:59db:b646"
+    "2401:4900:8822:7be7:203c:adb0:59db:b646",
+    "2409:40c0:11:3174:69b5:fcab:c0ca:2c2",
+    "202.173.124.141"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0071800",
-      "title": "tt0071800",
-      "timestamp": "2026-01-19T15:25:03.649Z",
-      "ip": "119.42.57.23",
-      "username": "amit suryavanshi"
-    },
-    {
-      "type": "series",
-      "id": "tt5057054:2:1",
-      "title": "tt5057054:2:1",
-      "timestamp": "2026-01-19T15:27:02.002Z",
-      "ip": "14.96.13.220",
-      "username": "sexhabibi"
-    },
-    {
-      "type": "series",
-      "id": "tt32537124:1:24",
-      "title": "tt32537124:1:24",
-      "timestamp": "2026-01-19T15:35:45.795Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt10627720",
-      "title": "Ne Zha",
-      "timestamp": "2026-01-19T15:37:37.327Z",
-      "ip": "202.142.105.208",
-      "username": "nobody_ismy_name"
-    },
     {
       "type": "series",
       "id": "tt1520211:10:3",
@@ -84518,6 +84488,38 @@
       "timestamp": "2026-02-06T16:09:33.535Z",
       "ip": "2409:40d2:305f:fb47:d7f3:4356:5eb3:5443",
       "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt36463894",
+      "title": "Predator: Killer of Killers",
+      "timestamp": "2026-02-06T16:24:31.207Z",
+      "ip": "182.77.74.249",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt35684868",
+      "title": "tt35684868",
+      "timestamp": "2026-02-06T16:30:34.405Z",
+      "ip": "2409:40c0:11:3174:69b5:fcab:c0ca:2c2",
+      "username": "oo0o0a0o0oo"
+    },
+    {
+      "type": "movie",
+      "id": "tt11773426",
+      "title": "tt11773426",
+      "timestamp": "2026-02-06T16:31:36.460Z",
+      "ip": "2409:40c0:11:3174:69b5:fcab:c0ca:2c2",
+      "username": "oo0o0a0o0oo"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-06T16:34:53.467Z",
+      "ip": "202.173.124.141",
+      "username": "ryuzaklo26"
     }
   ],
   "activeNow": {
@@ -87497,11 +87499,11 @@
       "lastActive": 1770393572828
     },
     "182.77.74.249": {
-      "type": "series",
-      "id": "tt33028568:1:9",
-      "title": "tt33028568:1:9",
+      "type": "movie",
+      "id": "tt36463894",
+      "title": "Predator: Killer of Killers",
       "username": "theaceofficials",
-      "lastActive": 1770374631809
+      "lastActive": 1770395071207
     },
     "2406:b400:1a:4888:fc4c:a4ee:2324:5b2a": {
       "type": "movie",
@@ -87649,6 +87651,20 @@
       "title": "tt9420648",
       "username": "b1jju",
       "lastActive": 1770391175115
+    },
+    "2409:40c0:11:3174:69b5:fcab:c0ca:2c2": {
+      "type": "movie",
+      "id": "tt11773426",
+      "title": "tt11773426",
+      "username": "oo0o0a0o0oo",
+      "lastActive": 1770395496460
+    },
+    "202.173.124.141": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "ryuzaklo26",
+      "lastActive": 1770395693467
     }
   }
 }
