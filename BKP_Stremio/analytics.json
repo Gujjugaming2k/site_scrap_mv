@@ -1,5 +1,5 @@
 {
-  "totalViews": 21395,
+  "totalViews": 21397,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4500,22 +4500,6 @@
     "182.68.205.135"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-19T13:49:59.262Z",
-      "ip": "172.69.86.91,206.53.3.179",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1475582:1:3",
-      "title": "tt1475582:1:3",
-      "timestamp": "2026-01-19T13:52:47.832Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
     {
       "type": "movie",
       "id": "tt22740896",
@@ -84499,6 +84483,22 @@
       "timestamp": "2026-02-06T11:53:04.903Z",
       "ip": "182.68.205.135",
       "username": "user_9b"
+    },
+    {
+      "type": "movie",
+      "id": "tt35146696",
+      "title": "tt35146696",
+      "timestamp": "2026-02-06T11:57:54.550Z",
+      "ip": "182.68.205.135",
+      "username": "user_9b"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-02-06T11:59:14.958Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -87475,7 +87475,7 @@
       "id": "tt15387182",
       "title": "tt15387182",
       "username": "william097",
-      "lastActive": 1770377519250
+      "lastActive": 1770379154958
     },
     "182.77.74.249": {
       "type": "series",
@@ -87496,7 +87496,7 @@
       "id": "tt35146696",
       "title": "tt35146696",
       "username": "user_9b",
-      "lastActive": 1770378784903
+      "lastActive": 1770379074550
     }
   }
 }
