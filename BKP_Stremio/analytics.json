@@ -1,5 +1,5 @@
 {
-  "totalViews": 21295,
+  "totalViews": 21298,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4473,33 +4473,10 @@
     "2a02:cb80:40bc:bbf2:10da:8089:e4c7:ea17",
     "2409:40d2:301f:551:8000::",
     "2409:40e4:5a:c762:9ce1:caff:fe85:14dc",
-    "2405:201:2022:b81c:ec61:8512:70ed:4d4"
+    "2405:201:2022:b81c:ec61:8512:70ed:4d4",
+    "2409:40e4:b:6b71:d8f2:7aff:fed0:da1b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-19T10:51:58.525Z",
-      "ip": "111.92.74.105",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "series",
-      "id": "tt0149460:3:7",
-      "title": "tt0149460:3:7",
-      "timestamp": "2026-01-19T10:53:18.392Z",
-      "ip": "2401:4900:1f3a:6bcf:cdcf:c:15c0:a703",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-19T10:55:00.516Z",
-      "ip": "111.92.74.105",
-      "username": "un0fficial_itachi"
-    },
     {
       "type": "movie",
       "id": "tt32642706",
@@ -84475,6 +84452,30 @@
       "timestamp": "2026-02-06T02:18:39.577Z",
       "ip": "2405:201:2022:b81c:ec61:8512:70ed:4d4",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt29471573",
+      "title": "tt29471573",
+      "timestamp": "2026-02-06T02:26:36.104Z",
+      "ip": "2405:201:2022:b81c:ec61:8512:70ed:4d4",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt27431598",
+      "title": "tt27431598",
+      "timestamp": "2026-02-06T02:33:48.930Z",
+      "ip": "2405:201:2022:b81c:ec61:8512:70ed:4d4",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt2359810",
+      "title": "tt2359810",
+      "timestamp": "2026-02-06T02:40:21.844Z",
+      "ip": "2409:40e4:b:6b71:d8f2:7aff:fed0:da1b",
+      "username": "skssunilbh"
     }
   ],
   "activeNow": {
@@ -87301,10 +87302,17 @@
     },
     "2405:201:2022:b81c:ec61:8512:70ed:4d4": {
       "type": "movie",
-      "id": "tt2513380",
-      "title": "tt2513380",
+      "id": "tt27431598",
+      "title": "tt27431598",
       "username": "zealousninja",
-      "lastActive": 1770344319577
+      "lastActive": 1770345228930
+    },
+    "2409:40e4:b:6b71:d8f2:7aff:fed0:da1b": {
+      "type": "movie",
+      "id": "tt2359810",
+      "title": "tt2359810",
+      "username": "skssunilbh",
+      "lastActive": 1770345621844
     }
   }
 }
