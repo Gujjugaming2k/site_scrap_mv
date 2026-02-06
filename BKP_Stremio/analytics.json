@@ -1,5 +1,5 @@
 {
-  "totalViews": 21389,
+  "totalViews": 21391,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4495,25 +4495,10 @@
     "2409:40e5:2098:19bd:e0f3:72ff:fe72:3be6",
     "2405:201:203e:b01c:f918:1384:f7fe:e790",
     "103.24.85.184",
-    "182.77.74.249"
+    "182.77.74.249",
+    "2406:b400:1a:4888:fc4c:a4ee:2324:5b2a"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0330373",
-      "title": "Harry Potter and the Goblet of Fire",
-      "timestamp": "2026-01-19T13:44:28.843Z",
-      "ip": "2001:8f8:1c61:10e:6d22:2f71:69c0:7c12",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0330373",
-      "title": "Harry Potter and the Goblet of Fire",
-      "timestamp": "2026-01-19T13:45:44.995Z",
-      "ip": "2001:8f8:1c61:10e:6d22:2f71:69c0:7c12",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt0330373",
@@ -84497,6 +84482,22 @@
       "timestamp": "2026-02-06T10:50:51.512Z",
       "ip": "139.5.196.103",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-02-06T11:31:59.250Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt28629017",
+      "title": "tt28629017",
+      "timestamp": "2026-02-06T11:33:01.123Z",
+      "ip": "2406:b400:1a:4888:fc4c:a4ee:2324:5b2a",
+      "username": "nothingokk"
     }
   ],
   "activeNow": {
@@ -87473,7 +87474,7 @@
       "id": "tt15387182",
       "title": "tt15387182",
       "username": "william097",
-      "lastActive": 1770374727717
+      "lastActive": 1770377519250
     },
     "182.77.74.249": {
       "type": "series",
@@ -87481,6 +87482,13 @@
       "title": "tt33028568:1:9",
       "username": "theaceofficials",
       "lastActive": 1770374631809
+    },
+    "2406:b400:1a:4888:fc4c:a4ee:2324:5b2a": {
+      "type": "movie",
+      "id": "tt28629017",
+      "title": "tt28629017",
+      "username": "nothingokk",
+      "lastActive": 1770377581123
     }
   }
 }
