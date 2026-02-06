@@ -1,5 +1,5 @@
 {
-  "totalViews": 21317,
+  "totalViews": 21323,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4479,57 +4479,10 @@
     "2409:40d2:3054:5:aac9:2d02:a44f:9dd7",
     "2409:40e4:205d:dfc0:d4f3:b2ff:fe24:b7d2",
     "2a09:bac5:3b5b:c8::14:2ba",
-    "2409:40e5:96:8089:ec81:bff:fe2e:a240"
+    "2409:40e5:96:8089:ec81:bff:fe2e:a240",
+    "2409:40d0:2456:6895:741e:e409:24da:ef8d"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33244668",
-      "title": "tt33244668",
-      "timestamp": "2026-01-19T11:22:18.098Z",
-      "ip": "205.254.185.113",
-      "username": "space_forca"
-    },
-    {
-      "type": "movie",
-      "id": "tt0142239",
-      "title": "tt0142239",
-      "timestamp": "2026-01-19T11:22:56.277Z",
-      "ip": "2405:201:500c:496b:2e1b:3aff:fe14:f417",
-      "username": "karthik"
-    },
-    {
-      "type": "movie",
-      "id": "tt1216496",
-      "title": "tt1216496",
-      "timestamp": "2026-01-19T11:24:02.186Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt1216496",
-      "title": "tt1216496",
-      "timestamp": "2026-01-19T11:24:02.909Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T11:26:03.655Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T11:26:04.211Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:1",
@@ -84481,6 +84434,54 @@
       "timestamp": "2026-02-06T05:20:01.294Z",
       "ip": "2409:40e5:96:8089:ec81:bff:fe2e:a240",
       "username": "ig_sirmour"
+    },
+    {
+      "type": "series",
+      "id": "tt30293074:1:1",
+      "title": "tt30293074:1:1",
+      "timestamp": "2026-02-06T05:38:33.812Z",
+      "ip": "2409:40d2:3054:5:aac9:2d02:a44f:9dd7",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "timestamp": "2026-02-06T05:42:23.535Z",
+      "ip": "2409:40d2:3054:5:aac9:2d02:a44f:9dd7",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-02-06T05:43:00.316Z",
+      "ip": "2409:40d2:3054:5:aac9:2d02:a44f:9dd7",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt29713093",
+      "title": "tt29713093",
+      "timestamp": "2026-02-06T05:45:43.976Z",
+      "ip": "2409:40d0:2456:6895:741e:e409:24da:ef8d",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt33046197",
+      "title": "tt33046197",
+      "timestamp": "2026-02-06T05:46:43.794Z",
+      "ip": "2409:40d0:2456:6895:741e:e409:24da:ef8d",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt0079501",
+      "title": "tt0079501",
+      "timestamp": "2026-02-06T05:46:53.362Z",
+      "ip": "2409:40d0:2456:6895:741e:e409:24da:ef8d",
+      "username": "katdenningssss"
     }
   ],
   "activeNow": {
@@ -87327,11 +87328,11 @@
       "lastActive": 1770350535055
     },
     "2409:40d2:3054:5:aac9:2d02:a44f:9dd7": {
-      "type": "series",
-      "id": "tt23734948:1:1",
-      "title": "tt23734948:1:1",
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
       "username": "saurabhkaperwan",
-      "lastActive": 1770353372774
+      "lastActive": 1770356580316
     },
     "2409:40e4:205d:dfc0:d4f3:b2ff:fe24:b7d2": {
       "type": "movie",
@@ -87353,6 +87354,13 @@
       "title": "Dhurandhar",
       "username": "ig_sirmour",
       "lastActive": 1770355201294
+    },
+    "2409:40d0:2456:6895:741e:e409:24da:ef8d": {
+      "type": "movie",
+      "id": "tt0079501",
+      "title": "tt0079501",
+      "username": "katdenningssss",
+      "lastActive": 1770356813362
     }
   }
 }
