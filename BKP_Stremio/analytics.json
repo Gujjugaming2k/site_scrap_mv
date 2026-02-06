@@ -1,5 +1,5 @@
 {
-  "totalViews": 21333,
+  "totalViews": 21338,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4483,49 +4483,10 @@
     "2409:40d0:2456:6895:741e:e409:24da:ef8d",
     "2409:40d4:101b:2004:949c:837d:6d50:50e2",
     "2405:201:5502:5c18:f8e6:5b26:baf2:e489",
-    "2401:4900:1c62:241a:2d18:79b4:5b10:5191"
+    "2401:4900:1c62:241a:2d18:79b4:5b10:5191",
+    "2409:40d4:4038:3c99:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt10919420:3:1",
-      "title": "tt10919420:3:1",
-      "timestamp": "2026-01-19T11:34:23.063Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt14142060",
-      "title": "tt14142060",
-      "timestamp": "2026-01-19T11:34:27.594Z",
-      "ip": "154.18.196.100",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt10919420:3:2",
-      "title": "tt10919420:3:2",
-      "timestamp": "2026-01-19T11:34:46.060Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt0374887",
-      "title": "tt0374887",
-      "timestamp": "2026-01-19T11:34:51.466Z",
-      "ip": "27.107.189.26",
-      "username": "anonymous050100"
-    },
-    {
-      "type": "movie",
-      "id": "tt0374887",
-      "title": "tt0374887",
-      "timestamp": "2026-01-19T11:35:02.709Z",
-      "ip": "27.107.189.26",
-      "username": "anonymous050100"
-    },
     {
       "type": "movie",
       "id": "tt2338151",
@@ -84485,6 +84446,46 @@
       "timestamp": "2026-02-06T06:47:56.583Z",
       "ip": "2401:4900:1c62:241a:2d18:79b4:5b10:5191",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt38221085:1:6",
+      "title": "tt38221085:1:6",
+      "timestamp": "2026-02-06T06:49:31.094Z",
+      "ip": "2401:4900:1c62:241a:2d18:79b4:5b10:5191",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt38221085:1:6",
+      "title": "tt38221085:1:6",
+      "timestamp": "2026-02-06T06:49:31.189Z",
+      "ip": "2401:4900:1c62:241a:2d18:79b4:5b10:5191",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt15830678:1:9",
+      "title": "tt15830678:1:9",
+      "timestamp": "2026-02-06T06:59:41.494Z",
+      "ip": "182.69.181.34",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt15830678:1:9",
+      "title": "tt15830678:1:9",
+      "timestamp": "2026-02-06T06:59:56.227Z",
+      "ip": "182.69.181.34",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt3316948",
+      "title": "American Ultra",
+      "timestamp": "2026-02-06T07:03:02.957Z",
+      "ip": "2409:40d4:4038:3c99:8000::",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -86471,10 +86472,10 @@
     },
     "182.69.181.34": {
       "type": "series",
-      "id": "tt15830678:1:10",
-      "title": "tt15830678:1:10",
+      "id": "tt15830678:1:9",
+      "title": "tt15830678:1:9",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770304504023
+      "lastActive": 1770361196227
     },
     "2401:4900:7dd0:e0f4:3811:6bff:fe7a:7b77": {
       "type": "series",
@@ -87381,10 +87382,17 @@
     },
     "2401:4900:1c62:241a:2d18:79b4:5b10:5191": {
       "type": "series",
-      "id": "tt38221085:1:7",
-      "title": "tt38221085:1:7",
+      "id": "tt38221085:1:6",
+      "title": "tt38221085:1:6",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770360476583
+      "lastActive": 1770360571189
+    },
+    "2409:40d4:4038:3c99:8000::": {
+      "type": "movie",
+      "id": "tt3316948",
+      "title": "American Ultra",
+      "username": "kdbotz",
+      "lastActive": 1770361382957
     }
   }
 }
