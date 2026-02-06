@@ -1,5 +1,5 @@
 {
-  "totalViews": 21400,
+  "totalViews": 21404,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4499,41 +4499,11 @@
     "2406:b400:1a:4888:fc4c:a4ee:2324:5b2a",
     "182.68.205.135",
     "2401:4900:8fe3:6e16:93fc:842e:2afd:306",
-    "2401:4900:8830:cf8f:b1d2:72e8:b1e0:232a"
+    "2401:4900:8830:cf8f:b1d2:72e8:b1e0:232a",
+    "2409:40c2:24:1be0:1036:1cbe:a5a3:e3d5",
+    "2409:40c0:48:3104:69b5:fcab:c0ca:2c2"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt9426210",
-      "title": "Weathering with You",
-      "timestamp": "2026-01-19T14:12:23.562Z",
-      "ip": "2409:40e4:10bb:7d84:78e5:1a90:3c08:a675",
-      "username": "askchm"
-    },
-    {
-      "type": "series",
-      "id": "tt3718778:1:1",
-      "title": "tt3718778:1:1",
-      "timestamp": "2026-01-19T14:14:14.045Z",
-      "ip": "2409:40e0:11:35cb:3839:20ff:fe12:3f36",
-      "username": "eshan95g"
-    },
-    {
-      "type": "series",
-      "id": "tt3718778:1:1",
-      "title": "tt3718778:1:1",
-      "timestamp": "2026-01-19T14:14:14.134Z",
-      "ip": "2409:40e0:11:35cb:3839:20ff:fe12:3f36",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt9426210",
-      "title": "Weathering with You",
-      "timestamp": "2026-01-19T14:14:57.453Z",
-      "ip": "2409:40e4:10bb:7d84:78e5:1a90:3c08:a675",
-      "username": "askchm"
-    },
     {
       "type": "series",
       "id": "tt3718778:1:2",
@@ -84501,6 +84471,38 @@
       "timestamp": "2026-02-06T12:40:18.579Z",
       "ip": "2401:4900:8830:cf8f:b1d2:72e8:b1e0:232a",
       "username": "imareallygoodlawyer"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:5",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-06T12:47:58.923Z",
+      "ip": "2409:40c2:24:1be0:1036:1cbe:a5a3:e3d5",
+      "username": "agentmj47"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:5",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-06T12:48:15.635Z",
+      "ip": "2409:40c2:24:1be0:1036:1cbe:a5a3:e3d5",
+      "username": "agentmj47"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:1",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-06T12:49:42.571Z",
+      "ip": "2409:40c2:24:1be0:1036:1cbe:a5a3:e3d5",
+      "username": "agentmj47"
+    },
+    {
+      "type": "movie",
+      "id": "tt14526318",
+      "title": "tt14526318",
+      "timestamp": "2026-02-06T12:57:11.844Z",
+      "ip": "2409:40c0:48:3104:69b5:fcab:c0ca:2c2",
+      "username": "oo0o0a0o0oo"
     }
   ],
   "activeNow": {
@@ -87513,6 +87515,20 @@
       "title": "Death Note",
       "username": "imareallygoodlawyer",
       "lastActive": 1770381618579
+    },
+    "2409:40c2:24:1be0:1036:1cbe:a5a3:e3d5": {
+      "type": "series",
+      "id": "tt12343534:3:1",
+      "title": "JUJUTSU KAISEN",
+      "username": "agentmj47",
+      "lastActive": 1770382182571
+    },
+    "2409:40c0:48:3104:69b5:fcab:c0ca:2c2": {
+      "type": "movie",
+      "id": "tt14526318",
+      "title": "tt14526318",
+      "username": "oo0o0a0o0oo",
+      "lastActive": 1770382631844
     }
   }
 }
