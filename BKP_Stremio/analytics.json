@@ -1,5 +1,5 @@
 {
-  "totalViews": 21440,
+  "totalViews": 21442,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4514,25 +4514,10 @@
     "2409:40d2:305f:fb47:d7f3:4356:5eb3:5443",
     "2401:4900:8fe3:6e16:d28:943b:f122:c2e1",
     "119.42.59.59",
-    "190.250.187.215"
+    "190.250.187.215",
+    "59.88.130.251"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0760437:1:2",
-      "title": "tt0760437:1:2",
-      "timestamp": "2026-01-19T15:18:30.857Z",
-      "ip": "103.170.53.195",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt0760437:1:2",
-      "title": "tt0760437:1:2",
-      "timestamp": "2026-01-19T15:18:40.156Z",
-      "ip": "103.170.53.195",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt0760437:1:3",
@@ -84516,6 +84501,22 @@
       "timestamp": "2026-02-06T15:03:49.427Z",
       "ip": "190.250.187.215",
       "username": "ymcinema"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-06T15:16:42.866Z",
+      "ip": "2409:40d2:305f:fb47:d7f3:4356:5eb3:5443",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt32362695",
+      "title": "tt32362695",
+      "timestamp": "2026-02-06T15:18:30.145Z",
+      "ip": "59.88.130.251",
+      "username": "adiyogivishwanath"
     }
   ],
   "activeNow": {
@@ -87607,11 +87608,11 @@
       "lastActive": 1770386469326
     },
     "2409:40d2:305f:fb47:d7f3:4356:5eb3:5443": {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
+      "type": "series",
+      "id": "tt4574334:5:1",
+      "title": "Stranger Things",
       "username": "saurabhkaperwan",
-      "lastActive": 1770389232918
+      "lastActive": 1770391002866
     },
     "2401:4900:8fe3:6e16:d28:943b:f122:c2e1": {
       "type": "movie",
@@ -87633,6 +87634,13 @@
       "title": "tt38990492:1:2",
       "username": "ymcinema",
       "lastActive": 1770390229427
+    },
+    "59.88.130.251": {
+      "type": "movie",
+      "id": "tt32362695",
+      "title": "tt32362695",
+      "username": "adiyogivishwanath",
+      "lastActive": 1770391110145
     }
   }
 }
