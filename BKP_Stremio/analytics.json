@@ -1,5 +1,5 @@
 {
-  "totalViews": 21423,
+  "totalViews": 21426,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4510,33 +4510,11 @@
     "49.36.118.196",
     "2401:4900:8826:991a:f124:e493:870d:41de",
     "2405:201:6816:e9b5:a4d2:c52f:fefc:2e83",
-    "2409:40e4:1092:edd4:18f2:c134:21a6:b011"
+    "2409:40e4:1092:edd4:18f2:c134:21a6:b011",
+    "2409:40d2:305f:fb47:d7f3:4356:5eb3:5443",
+    "2401:4900:8fe3:6e16:d28:943b:f122:c2e1"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt20244430:3:1",
-      "title": "tt20244430:3:1",
-      "timestamp": "2026-01-19T14:53:00.319Z",
-      "ip": "94.204.241.103",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt7181546",
-      "title": "Ballerina",
-      "timestamp": "2026-01-19T14:53:50.994Z",
-      "ip": "94.204.241.103",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1187043",
-      "title": "3 Idiots",
-      "timestamp": "2026-01-19T14:54:35.022Z",
-      "ip": "2401:4900:8822:749a:713b:c2b8:e9d:9ab2",
-      "username": "b1jju"
-    },
     {
       "type": "series",
       "id": "tt2531336:2:3",
@@ -84512,6 +84490,30 @@
       "timestamp": "2026-02-06T14:01:09.326Z",
       "ip": "2409:40e4:1092:edd4:18f2:c134:21a6:b011",
       "username": "adshoyi"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-02-06T14:20:40.388Z",
+      "ip": "2409:40d2:305f:fb47:d7f3:4356:5eb3:5443",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:8",
+      "title": "tt31812476:2:8",
+      "timestamp": "2026-02-06T14:24:11.614Z",
+      "ip": "2401:4900:8fe3:6e16:d28:943b:f122:c2e1",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt12472554",
+      "title": "tt12472554",
+      "timestamp": "2026-02-06T14:24:44.347Z",
+      "ip": "2401:4900:8fe3:6e16:d28:943b:f122:c2e1",
+      "username": "ashwanileon"
     }
   ],
   "activeNow": {
@@ -87601,6 +87603,20 @@
       "title": "tt2359810",
       "username": "adshoyi",
       "lastActive": 1770386469326
+    },
+    "2409:40d2:305f:fb47:d7f3:4356:5eb3:5443": {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "username": "saurabhkaperwan",
+      "lastActive": 1770387640388
+    },
+    "2401:4900:8fe3:6e16:d28:943b:f122:c2e1": {
+      "type": "movie",
+      "id": "tt12472554",
+      "title": "tt12472554",
+      "username": "ashwanileon",
+      "lastActive": 1770387884347
     }
   }
 }
