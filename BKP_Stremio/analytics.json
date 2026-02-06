@@ -1,5 +1,5 @@
 {
-  "totalViews": 21323,
+  "totalViews": 21324,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4483,14 +4483,6 @@
     "2409:40d0:2456:6895:741e:e409:24da:ef8d"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-19T11:26:13.659Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:2",
@@ -84482,6 +84474,14 @@
       "timestamp": "2026-02-06T05:46:53.362Z",
       "ip": "2409:40d0:2456:6895:741e:e409:24da:ef8d",
       "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-02-06T05:52:44.487Z",
+      "ip": "2409:40d2:3054:5:aac9:2d02:a44f:9dd7",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -87332,7 +87332,7 @@
       "id": "tt31193180",
       "title": "Sinners",
       "username": "saurabhkaperwan",
-      "lastActive": 1770356580316
+      "lastActive": 1770357164487
     },
     "2409:40e4:205d:dfc0:d4f3:b2ff:fe24:b7d2": {
       "type": "movie",
