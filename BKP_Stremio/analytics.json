@@ -1,5 +1,5 @@
 {
-  "totalViews": 21397,
+  "totalViews": 21399,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4497,25 +4497,10 @@
     "103.24.85.184",
     "182.77.74.249",
     "2406:b400:1a:4888:fc4c:a4ee:2324:5b2a",
-    "182.68.205.135"
+    "182.68.205.135",
+    "2401:4900:8fe3:6e16:93fc:842e:2afd:306"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt22740896",
-      "title": "tt22740896",
-      "timestamp": "2026-01-19T13:54:17.378Z",
-      "ip": "2405:201:6820:a83c:7853:e82f:cb85:765a",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt22248376:1:1",
-      "title": "tt22248376:1:1",
-      "timestamp": "2026-01-19T13:54:31.012Z",
-      "ip": "2a09:bac5:3c5a:1a46::29e:2b",
-      "username": "switchoff009"
-    },
     {
       "type": "series",
       "id": "tt2306299:1:1",
@@ -84499,6 +84484,22 @@
       "timestamp": "2026-02-06T11:59:14.958Z",
       "ip": "103.24.85.184",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt12472554",
+      "title": "tt12472554",
+      "timestamp": "2026-02-06T12:17:07.667Z",
+      "ip": "2401:4900:8fe3:6e16:93fc:842e:2afd:306",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt29638896",
+      "title": "tt29638896",
+      "timestamp": "2026-02-06T12:18:09.582Z",
+      "ip": "2401:4900:8fe3:6e16:93fc:842e:2afd:306",
+      "username": "ashwanileon"
     }
   ],
   "activeNow": {
@@ -87497,6 +87498,13 @@
       "title": "tt35146696",
       "username": "user_9b",
       "lastActive": 1770379074550
+    },
+    "2401:4900:8fe3:6e16:93fc:842e:2afd:306": {
+      "type": "movie",
+      "id": "tt29638896",
+      "title": "tt29638896",
+      "username": "ashwanileon",
+      "lastActive": 1770380289582
     }
   }
 }
