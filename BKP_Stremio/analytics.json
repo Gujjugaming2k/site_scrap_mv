@@ -1,5 +1,5 @@
 {
-  "totalViews": 21290,
+  "totalViews": 21294,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4471,41 +4471,10 @@
     "2409:40f0:1195:e0a3:eca0:baff:fec9:7bba",
     "122.161.240.62",
     "2a02:cb80:40bc:bbf2:10da:8089:e4c7:ea17",
-    "2409:40d2:301f:551:8000::"
+    "2409:40d2:301f:551:8000::",
+    "2409:40e4:5a:c762:9ce1:caff:fe85:14dc"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1216496",
-      "title": "tt1216496",
-      "timestamp": "2026-01-19T10:44:40.365Z",
-      "ip": "2a09:bac5:3e74:1aa0::2a7:f,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt1216496",
-      "title": "tt1216496",
-      "timestamp": "2026-01-19T10:46:09.312Z",
-      "ip": "2a09:bac5:3e74:1aa0::2a7:f,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:27",
-      "title": "Death Note",
-      "timestamp": "2026-01-19T10:48:13.095Z",
-      "ip": "2409:40d4:40db:ad3e:b808:3e0a:51c4:7db0",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1216496",
-      "title": "tt1216496",
-      "timestamp": "2026-01-19T10:49:22.386Z",
-      "ip": "2a09:bac5:3e74:1aa0::2a7:f,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
     {
       "type": "movie",
       "id": "tt1216496",
@@ -84473,6 +84442,38 @@
       "timestamp": "2026-02-06T01:34:37.993Z",
       "ip": "2409:40d2:301f:551:8000::",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-06T01:49:58.006Z",
+      "ip": "2409:40d2:301f:551:8000::",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:7",
+      "title": "tt31812476:2:7",
+      "timestamp": "2026-02-06T01:50:53.378Z",
+      "ip": "2401:4900:8fe3:6e16:580b:5acf:686d:1c6b",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt2359810",
+      "title": "tt2359810",
+      "timestamp": "2026-02-06T01:51:39.259Z",
+      "ip": "2409:40e4:5a:c762:9ce1:caff:fe85:14dc",
+      "username": "skssunilbh"
+    },
+    {
+      "type": "movie",
+      "id": "tt32360696",
+      "title": "French Lover",
+      "timestamp": "2026-02-06T01:52:48.672Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -84824,7 +84825,7 @@
       "id": "tt32360696",
       "title": "French Lover",
       "username": "chetan_b2",
-      "lastActive": 1770316562308
+      "lastActive": 1770342768672
     },
     "157.48.83.94": {
       "type": "series",
@@ -87183,7 +87184,7 @@
       "id": "tt31812476:2:7",
       "title": "tt31812476:2:7",
       "username": "ashwanileon",
-      "lastActive": 1770306198993
+      "lastActive": 1770342653378
     },
     "2405:201:2022:b81c:9174:e242:4150:ce9c": {
       "type": "series",
@@ -87284,11 +87285,18 @@
       "lastActive": 1770339691128
     },
     "2409:40d2:301f:551:8000::": {
-      "type": "series",
-      "id": "tt27497448:1:3",
-      "title": "tt27497448:1:3",
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
       "username": "demon18319",
-      "lastActive": 1770341677993
+      "lastActive": 1770342598006
+    },
+    "2409:40e4:5a:c762:9ce1:caff:fe85:14dc": {
+      "type": "movie",
+      "id": "tt2359810",
+      "title": "tt2359810",
+      "username": "skssunilbh",
+      "lastActive": 1770342699259
     }
   }
 }
