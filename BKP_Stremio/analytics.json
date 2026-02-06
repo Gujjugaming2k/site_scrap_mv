@@ -1,5 +1,5 @@
 {
-  "totalViews": 21491,
+  "totalViews": 21494,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4524,33 +4524,10 @@
     "2001:4490:4e65:b1df:aed:82e0:bbbc:d596",
     "2401:4900:1c53:5b65:dc0b:7c5b:4b75:6d6",
     "146.196.32.182",
-    "2409:40d4:4008:1836:8000::"
+    "2409:40d4:4008:1836:8000::",
+    "2001:4490:4e65:b1df:7e6a:878d:43f4:bc49"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt32536168:1:2",
-      "title": "tt32536168:1:2",
-      "timestamp": "2026-01-19T16:14:06.775Z",
-      "ip": "2409:40d0:2c:d1ba:a4f4:dfff:fe47:1608",
-      "username": "magicmannn"
-    },
-    {
-      "type": "movie",
-      "id": "tt8960382",
-      "title": "tt8960382",
-      "timestamp": "2026-01-19T16:14:41.091Z",
-      "ip": "2409:40e4:10bb:7d84:7dbd:f95f:ec58:1d85",
-      "username": "mu1ku"
-    },
-    {
-      "type": "movie",
-      "id": "tt23220552",
-      "title": "tt23220552",
-      "timestamp": "2026-01-19T16:15:18.213Z",
-      "ip": "182.69.183.164",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt32536168:1:1",
@@ -84526,6 +84503,30 @@
       "timestamp": "2026-02-06T19:45:52.956Z",
       "ip": "103.249.4.50",
       "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "timestamp": "2026-02-06T20:03:54.403Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt4154796",
+      "title": "Avengers: Endgame",
+      "timestamp": "2026-02-06T20:11:55.515Z",
+      "ip": "2001:4490:4e65:b1df:7e6a:878d:43f4:bc49",
+      "username": "adiyogivishwanath"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-02-06T20:11:58.547Z",
+      "ip": "2401:4900:1f29:9d85:41a1:d68a:5534:4ff2",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -84874,10 +84875,10 @@
     },
     "203.192.255.46": {
       "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "id": "tt28142095",
+      "title": "tt28142095",
       "username": "chetan_b2",
-      "lastActive": 1770402326223
+      "lastActive": 1770408234403
     },
     "157.48.83.94": {
       "type": "series",
@@ -87562,10 +87563,10 @@
     },
     "2401:4900:1f29:9d85:41a1:d68a:5534:4ff2": {
       "type": "movie",
-      "id": "tt0317705",
-      "title": "The Incredibles",
+      "id": "tt32642706",
+      "title": "tt32642706",
       "username": "gaendaswami",
-      "lastActive": 1770385659974
+      "lastActive": 1770408718547
     },
     "2409:40d2:3017:ace:8000::": {
       "type": "series",
@@ -87713,6 +87714,13 @@
       "title": "The Gorge",
       "username": "kdbotz",
       "lastActive": 1770406832329
+    },
+    "2001:4490:4e65:b1df:7e6a:878d:43f4:bc49": {
+      "type": "movie",
+      "id": "tt4154796",
+      "title": "Avengers: Endgame",
+      "username": "adiyogivishwanath",
+      "lastActive": 1770408715515
     }
   }
 }
