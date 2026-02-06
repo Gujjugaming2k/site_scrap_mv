@@ -1,5 +1,5 @@
 {
-  "totalViews": 21399,
+  "totalViews": 21400,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4498,17 +4498,10 @@
     "182.77.74.249",
     "2406:b400:1a:4888:fc4c:a4ee:2324:5b2a",
     "182.68.205.135",
-    "2401:4900:8fe3:6e16:93fc:842e:2afd:306"
+    "2401:4900:8fe3:6e16:93fc:842e:2afd:306",
+    "2401:4900:8830:cf8f:b1d2:72e8:b1e0:232a"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2306299:1:1",
-      "title": "tt2306299:1:1",
-      "timestamp": "2026-01-19T13:59:53.274Z",
-      "ip": "2a09:bac5:3c5a:1a46::29e:2b",
-      "username": "switchoff009"
-    },
     {
       "type": "movie",
       "id": "tt9426210",
@@ -84500,6 +84493,14 @@
       "timestamp": "2026-02-06T12:18:09.582Z",
       "ip": "2401:4900:8fe3:6e16:93fc:842e:2afd:306",
       "username": "ashwanileon"
+    },
+    {
+      "type": "series",
+      "id": "tt0877057:1:1",
+      "title": "Death Note",
+      "timestamp": "2026-02-06T12:40:18.579Z",
+      "ip": "2401:4900:8830:cf8f:b1d2:72e8:b1e0:232a",
+      "username": "imareallygoodlawyer"
     }
   ],
   "activeNow": {
@@ -87505,6 +87506,13 @@
       "title": "tt29638896",
       "username": "ashwanileon",
       "lastActive": 1770380289582
+    },
+    "2401:4900:8830:cf8f:b1d2:72e8:b1e0:232a": {
+      "type": "series",
+      "id": "tt0877057:1:1",
+      "title": "Death Note",
+      "username": "imareallygoodlawyer",
+      "lastActive": 1770381618579
     }
   }
 }
