@@ -1,5 +1,5 @@
 {
-  "totalViews": 21347,
+  "totalViews": 21351,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4486,41 +4486,11 @@
     "2401:4900:1c62:241a:2d18:79b4:5b10:5191",
     "2409:40d4:4038:3c99:8000::",
     "123.63.68.1",
-    "2409:40d4:101e:5558:949c:837d:6d50:50e2"
+    "2409:40d4:101e:5558:949c:837d:6d50:50e2",
+    "223.181.99.68",
+    "47.31.91.142"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1694542",
-      "title": "tt1694542",
-      "timestamp": "2026-01-19T11:40:09.359Z",
-      "ip": "182.77.75.100",
-      "username": "thebatmanbyte"
-    },
-    {
-      "type": "series",
-      "id": "tt10919420:3:2",
-      "title": "tt10919420:3:2",
-      "timestamp": "2026-01-19T11:40:40.641Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt1312221",
-      "title": "Frankenstein",
-      "timestamp": "2026-01-19T11:40:52.417Z",
-      "ip": "157.50.100.84",
-      "username": "mr_anonymous_0004"
-    },
-    {
-      "type": "series",
-      "id": "tt10919420:3:3",
-      "title": "tt10919420:3:3",
-      "timestamp": "2026-01-19T11:40:55.202Z",
-      "ip": "2401:4900:8820:8915:c127:df19:fbc7:a3c8,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
     {
       "type": "movie",
       "id": "tt1312221",
@@ -84488,6 +84458,38 @@
       "timestamp": "2026-02-06T07:42:49.356Z",
       "ip": "2409:40d4:101e:5558:949c:837d:6d50:50e2",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt13433812:1:19",
+      "title": "Vincenzo",
+      "timestamp": "2026-02-06T07:49:54.967Z",
+      "ip": "223.181.99.68",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-06T07:55:04.895Z",
+      "ip": "2409:40d2:3054:5:aac9:2d02:a44f:9dd7",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:3",
+      "title": "tt27497448:1:3",
+      "timestamp": "2026-02-06T07:59:27.961Z",
+      "ip": "47.31.91.142",
+      "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-06T08:04:27.184Z",
+      "ip": "47.31.91.142",
+      "username": "magicmannn"
     }
   ],
   "activeNow": {
@@ -87335,10 +87337,10 @@
     },
     "2409:40d2:3054:5:aac9:2d02:a44f:9dd7": {
       "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
+      "id": "tt27543632",
+      "title": "tt27543632",
       "username": "saurabhkaperwan",
-      "lastActive": 1770362628030
+      "lastActive": 1770364504895
     },
     "2409:40e4:205d:dfc0:d4f3:b2ff:fe24:b7d2": {
       "type": "movie",
@@ -87409,6 +87411,20 @@
       "title": "tt39049192",
       "username": "gaendaswami",
       "lastActive": 1770363769356
+    },
+    "223.181.99.68": {
+      "type": "series",
+      "id": "tt13433812:1:19",
+      "title": "Vincenzo",
+      "username": "theaceofficials",
+      "lastActive": 1770364194967
+    },
+    "47.31.91.142": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "magicmannn",
+      "lastActive": 1770365067184
     }
   }
 }
