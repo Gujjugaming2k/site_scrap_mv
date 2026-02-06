@@ -1,5 +1,5 @@
 {
-  "totalViews": 21479,
+  "totalViews": 21483,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4520,41 +4520,10 @@
     "2409:40c0:11:3174:69b5:fcab:c0ca:2c2",
     "202.173.124.141",
     "2402:3a80:4304:626:278:5634:1232:5476",
-    "2409:40d4:1a:2316:cf5:80ff:fef4:bb5b"
+    "2409:40d4:1a:2316:cf5:80ff:fef4:bb5b",
+    "2001:4490:4e65:b1df:aed:82e0:bbbc:d596"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt22740896",
-      "title": "tt22740896",
-      "timestamp": "2026-01-19T15:59:14.725Z",
-      "ip": "2409:40d4:40db:ad3e:8000::",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:29",
-      "title": "Death Note",
-      "timestamp": "2026-01-19T15:59:25.192Z",
-      "ip": "2409:40d4:40db:ad3e:8000::",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:29",
-      "title": "Death Note",
-      "timestamp": "2026-01-19T15:59:31.131Z",
-      "ip": "2409:40d4:40db:ad3e:8000::",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:29",
-      "title": "Death Note",
-      "timestamp": "2026-01-19T15:59:39.441Z",
-      "ip": "2409:40d4:40db:ad3e:8000::",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0877057:1:30",
@@ -84522,6 +84491,38 @@
       "timestamp": "2026-02-06T18:05:42.302Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt2395427",
+      "title": "Avengers: Age of Ultron",
+      "timestamp": "2026-02-06T18:14:59.744Z",
+      "ip": "2001:4490:4e65:b1df:aed:82e0:bbbc:d596",
+      "username": "adiyogivishwanath"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:2",
+      "title": "tt14186672:2:2",
+      "timestamp": "2026-02-06T18:23:35.198Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-06T18:25:19.788Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-06T18:25:26.223Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -84869,11 +84870,11 @@
       "lastActive": 1769877863483
     },
     "203.192.255.46": {
-      "type": "series",
-      "id": "tt14186672:2:2",
-      "title": "tt14186672:2:2",
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "chetan_b2",
-      "lastActive": 1770401142302
+      "lastActive": 1770402326223
     },
     "157.48.83.94": {
       "type": "series",
@@ -87681,6 +87682,13 @@
       "title": "Superman",
       "username": "golu_vk",
       "lastActive": 1770397490469
+    },
+    "2001:4490:4e65:b1df:aed:82e0:bbbc:d596": {
+      "type": "movie",
+      "id": "tt2395427",
+      "title": "Avengers: Age of Ultron",
+      "username": "adiyogivishwanath",
+      "lastActive": 1770401699744
     }
   }
 }
