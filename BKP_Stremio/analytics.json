@@ -1,5 +1,5 @@
 {
-  "totalViews": 21391,
+  "totalViews": 21395,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4496,41 +4496,10 @@
     "2405:201:203e:b01c:f918:1384:f7fe:e790",
     "103.24.85.184",
     "182.77.74.249",
-    "2406:b400:1a:4888:fc4c:a4ee:2324:5b2a"
+    "2406:b400:1a:4888:fc4c:a4ee:2324:5b2a",
+    "182.68.205.135"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0330373",
-      "title": "Harry Potter and the Goblet of Fire",
-      "timestamp": "2026-01-19T13:46:22.844Z",
-      "ip": "2001:8f8:1d0c:1a95:7466:c3bc:e619:e4c6",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1694542",
-      "title": "tt1694542",
-      "timestamp": "2026-01-19T13:47:37.524Z",
-      "ip": "182.77.75.100",
-      "username": "thebatmanbyte"
-    },
-    {
-      "type": "movie",
-      "id": "tt2140465",
-      "title": "tt2140465",
-      "timestamp": "2026-01-19T13:47:45.918Z",
-      "ip": "182.77.75.100",
-      "username": "thebatmanbyte"
-    },
-    {
-      "type": "movie",
-      "id": "tt1694542",
-      "title": "tt1694542",
-      "timestamp": "2026-01-19T13:47:48.058Z",
-      "ip": "182.77.75.100",
-      "username": "thebatmanbyte"
-    },
     {
       "type": "series",
       "id": "tt35335046:1:1",
@@ -84498,6 +84467,38 @@
       "timestamp": "2026-02-06T11:33:01.123Z",
       "ip": "2406:b400:1a:4888:fc4c:a4ee:2324:5b2a",
       "username": "nothingokk"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:3:4",
+      "title": "Lost",
+      "timestamp": "2026-02-06T11:45:55.807Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:3:5",
+      "title": "Lost",
+      "timestamp": "2026-02-06T11:46:30.216Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:3:6",
+      "title": "Lost",
+      "timestamp": "2026-02-06T11:47:57.942Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt35146696",
+      "title": "tt35146696",
+      "timestamp": "2026-02-06T11:53:04.903Z",
+      "ip": "182.68.205.135",
+      "username": "user_9b"
     }
   ],
   "activeNow": {
@@ -84888,10 +84889,10 @@
     },
     "116.68.74.75": {
       "type": "series",
-      "id": "tt0411008:3:5",
+      "id": "tt0411008:3:6",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1770349712417
+      "lastActive": 1770378477942
     },
     "2409:40e5:1046:7359:4852:fb48:776e:3d9d": {
       "type": "movie",
@@ -87489,6 +87490,13 @@
       "title": "tt28629017",
       "username": "nothingokk",
       "lastActive": 1770377581123
+    },
+    "182.68.205.135": {
+      "type": "movie",
+      "id": "tt35146696",
+      "title": "tt35146696",
+      "username": "user_9b",
+      "lastActive": 1770378784903
     }
   }
 }
