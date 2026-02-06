@@ -1,5 +1,5 @@
 {
-  "totalViews": 21386,
+  "totalViews": 21389,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4494,33 +4494,10 @@
     "2409:4085:2e0d:f36::1489:3102",
     "2409:40e5:2098:19bd:e0f3:72ff:fe72:3be6",
     "2405:201:203e:b01c:f918:1384:f7fe:e790",
-    "103.24.85.184"
+    "103.24.85.184",
+    "182.77.74.249"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt14142060",
-      "title": "tt14142060",
-      "timestamp": "2026-01-19T13:30:24.035Z",
-      "ip": "47.15.117.135",
-      "username": "demon18319"
-    },
-    {
-      "type": "movie",
-      "id": "tt6751668",
-      "title": "tt6751668",
-      "timestamp": "2026-01-19T13:38:44.367Z",
-      "ip": "2409:40e1:113e:e3ac:5931:25a4:5f22:b592",
-      "username": "jinwoooooi"
-    },
-    {
-      "type": "movie",
-      "id": "tt0330373",
-      "title": "Harry Potter and the Goblet of Fire",
-      "timestamp": "2026-01-19T13:40:44.486Z",
-      "ip": "2001:8f8:1c61:10e:6d22:2f71:69c0:7c12",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt0330373",
@@ -84496,6 +84473,30 @@
       "timestamp": "2026-02-06T10:12:59.024Z",
       "ip": "103.24.85.184",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt33028568:1:9",
+      "title": "tt33028568:1:9",
+      "timestamp": "2026-02-06T10:43:51.809Z",
+      "ip": "182.77.74.249",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-02-06T10:45:27.717Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt35694565",
+      "title": "tt35694565",
+      "timestamp": "2026-02-06T10:50:51.512Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -84669,10 +84670,10 @@
     },
     "139.5.196.103": {
       "type": "movie",
-      "id": "tt11531530",
-      "title": "tt11531530",
+      "id": "tt35694565",
+      "title": "tt35694565",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770314932324
+      "lastActive": 1770375051512
     },
     "94.156.30.57": {
       "type": "series",
@@ -87472,7 +87473,14 @@
       "id": "tt15387182",
       "title": "tt15387182",
       "username": "william097",
-      "lastActive": 1770372779024
+      "lastActive": 1770374727717
+    },
+    "182.77.74.249": {
+      "type": "series",
+      "id": "tt33028568:1:9",
+      "title": "tt33028568:1:9",
+      "username": "theaceofficials",
+      "lastActive": 1770374631809
     }
   }
 }
