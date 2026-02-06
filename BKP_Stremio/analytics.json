@@ -1,5 +1,5 @@
 {
-  "totalViews": 21298,
+  "totalViews": 21300,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4477,22 +4477,6 @@
     "2409:40e4:b:6b71:d8f2:7aff:fed0:da1b"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-19T11:00:17.534Z",
-      "ip": "195.123.218.184",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2401256:1:1",
-      "title": "tt2401256:1:1",
-      "timestamp": "2026-01-19T11:03:20.135Z",
-      "ip": "2401:4900:84d1:10dc:2c50:b1ff:fe89:afb9",
-      "username": "pikazesty"
-    },
     {
       "type": "series",
       "id": "tt0877057:1:28",
@@ -84476,6 +84460,22 @@
       "timestamp": "2026-02-06T02:40:21.844Z",
       "ip": "2409:40e4:b:6b71:d8f2:7aff:fed0:da1b",
       "username": "skssunilbh"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:1:1",
+      "title": "tt19854762:1:1",
+      "timestamp": "2026-02-06T02:41:58.257Z",
+      "ip": "2405:201:2022:b81c:ec61:8512:70ed:4d4",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt0120737",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "timestamp": "2026-02-06T02:42:45.293Z",
+      "ip": "2405:201:2022:b81c:ec61:8512:70ed:4d4",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -87302,10 +87302,10 @@
     },
     "2405:201:2022:b81c:ec61:8512:70ed:4d4": {
       "type": "movie",
-      "id": "tt27431598",
-      "title": "tt27431598",
+      "id": "tt0120737",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
       "username": "zealousninja",
-      "lastActive": 1770345228930
+      "lastActive": 1770345765293
     },
     "2409:40e4:b:6b71:d8f2:7aff:fed0:da1b": {
       "type": "movie",
