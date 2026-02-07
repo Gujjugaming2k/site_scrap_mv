@@ -1,5 +1,5 @@
 {
-  "totalViews": 21617,
+  "totalViews": 21618,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4551,14 +4551,6 @@
     "2405:201:a001:21d8:a5a2:c104:c186:c90c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:1:8",
-      "title": "Lost",
-      "timestamp": "2026-01-19T18:18:27.435Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
     {
       "type": "series",
       "id": "tt0411008:1:9",
@@ -84550,6 +84542,14 @@
       "timestamp": "2026-02-07T12:11:41.428Z",
       "ip": "2405:201:a001:21d8:a5a2:c104:c186:c90c",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt1034314",
+      "title": "tt1034314",
+      "timestamp": "2026-02-07T12:30:42.014Z",
+      "ip": "49.47.152.2",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -87873,10 +87873,10 @@
     },
     "49.47.152.2": {
       "type": "movie",
-      "id": "tt0126029",
-      "title": "Shrek",
+      "id": "tt1034314",
+      "title": "tt1034314",
       "username": "theonlyfreak",
-      "lastActive": 1770455277109
+      "lastActive": 1770467442014
     },
     "103.149.158.139": {
       "type": "movie",
