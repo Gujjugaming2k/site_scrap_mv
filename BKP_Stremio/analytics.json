@@ -1,5 +1,5 @@
 {
-  "totalViews": 21548,
+  "totalViews": 21553,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4537,49 +4537,10 @@
     "2001:4490:444d:4a3b:10d3:a39d:9cca:8fa2",
     "2409:40d2:3009:2a37:2fb1:8a0:cce3:2b24",
     "190.250.137.135",
-    "103.161.231.139"
+    "103.161.231.139",
+    "47.15.113.223"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1520211:1:1",
-      "title": "tt1520211:1:1",
-      "timestamp": "2026-01-19T17:25:55.958Z",
-      "ip": "39.60.250.91",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt14186672:1:8",
-      "title": "tt14186672:1:8",
-      "timestamp": "2026-01-19T17:26:24.780Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "series",
-      "id": "tt20244430:3:2",
-      "title": "tt20244430:3:2",
-      "timestamp": "2026-01-19T17:29:10.661Z",
-      "ip": "94.204.241.103",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt20244430:3:2",
-      "title": "tt20244430:3:2",
-      "timestamp": "2026-01-19T17:29:13.474Z",
-      "ip": "94.204.241.103",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt14107334",
-      "title": "tt14107334",
-      "timestamp": "2026-01-19T17:29:49.198Z",
-      "ip": "94.204.241.103",
-      "username": "subhoghosh69"
-    },
     {
       "type": "movie",
       "id": "tt14107334",
@@ -84539,6 +84500,46 @@
       "timestamp": "2026-02-07T06:12:50.882Z",
       "ip": "103.161.231.139",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt8144834",
+      "title": "tt8144834",
+      "timestamp": "2026-02-07T06:21:28.664Z",
+      "ip": "190.140.187.206",
+      "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-02-07T06:30:40.369Z",
+      "ip": "47.15.113.223",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:2:1",
+      "title": "tt31938062:2:1",
+      "timestamp": "2026-02-07T06:31:16.991Z",
+      "ip": "47.15.113.223",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:2:1",
+      "title": "tt31938062:2:1",
+      "timestamp": "2026-02-07T06:31:36.711Z",
+      "ip": "47.15.113.223",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:1:1",
+      "title": "tt19854762:1:1",
+      "timestamp": "2026-02-07T06:34:15.039Z",
+      "ip": "2001:4490:444d:4a3b:10d3:a39d:9cca:8fa2",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -86511,10 +86512,10 @@
     },
     "190.140.187.206": {
       "type": "movie",
-      "id": "tt30387012",
-      "title": "tt30387012",
+      "id": "tt8144834",
+      "title": "tt8144834",
       "username": "ymcinema",
-      "lastActive": 1770442654211
+      "lastActive": 1770445288664
     },
     "2409:40d2:305f:36e:b0e7:8fbc:2809:9366": {
       "type": "series",
@@ -87791,11 +87792,11 @@
       "lastActive": 1770441970954
     },
     "2001:4490:444d:4a3b:10d3:a39d:9cca:8fa2": {
-      "type": "movie",
-      "id": "tt33046197",
-      "title": "tt33046197",
+      "type": "series",
+      "id": "tt19854762:1:1",
+      "title": "tt19854762:1:1",
       "username": "zealousninja",
-      "lastActive": 1770442179209
+      "lastActive": 1770446055039
     },
     "2409:40d2:3009:2a37:2fb1:8a0:cce3:2b24": {
       "type": "movie",
@@ -87817,6 +87818,13 @@
       "title": "The Boy Next Door",
       "username": "gaendaswami",
       "lastActive": 1770444770882
+    },
+    "47.15.113.223": {
+      "type": "series",
+      "id": "tt31938062:2:1",
+      "title": "tt31938062:2:1",
+      "username": "saurabhkaperwan",
+      "lastActive": 1770445896711
     }
   }
 }
