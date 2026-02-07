@@ -1,5 +1,5 @@
 {
-  "totalViews": 21538,
+  "totalViews": 21539,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4533,17 +4533,10 @@
     "2409:40e4:8:90a:d86a:c8ff:fe19:e266",
     "2409:40e0:104c:319a:8000::",
     "2405:201:2022:b81c:fda9:30ad:3881:7d6e",
-    "2401:4900:8fe3:1191:6c29:f295:878e:f7d1"
+    "2401:4900:8fe3:1191:6c29:f295:878e:f7d1",
+    "2001:4490:444d:4a3b:10d3:a39d:9cca:8fa2"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1160419",
-      "title": "Dune",
-      "timestamp": "2026-01-19T17:18:47.389Z",
-      "ip": "2409:40e4:10bb:7d84:7dbd:f95f:ec58:1d85",
-      "username": "mu1ku"
-    },
     {
       "type": "movie",
       "id": "tt6343314",
@@ -84535,6 +84528,14 @@
       "timestamp": "2026-02-07T04:22:22.934Z",
       "ip": "139.5.196.103",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt27564844",
+      "title": "tt27564844",
+      "timestamp": "2026-02-07T04:39:00.139Z",
+      "ip": "2001:4490:444d:4a3b:10d3:a39d:9cca:8fa2",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -87785,6 +87786,13 @@
       "title": "Stranger Things",
       "username": "ashwanileon",
       "lastActive": 1770434103643
+    },
+    "2001:4490:444d:4a3b:10d3:a39d:9cca:8fa2": {
+      "type": "movie",
+      "id": "tt27564844",
+      "title": "tt27564844",
+      "username": "zealousninja",
+      "lastActive": 1770439140139
     }
   }
 }
