@@ -1,5 +1,5 @@
 {
-  "totalViews": 21644,
+  "totalViews": 21647,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4553,33 +4553,10 @@
     "2409:40c0:e:f19c:bd85:55cb:6721:8830",
     "103.44.117.94",
     "2402:8100:26e4:d367:ed94:382e:7bf1:3f77",
-    "2001:4490:4e65:5f53:dd9b:50e3:f78a:d3d"
+    "2001:4490:4e65:5f53:dd9b:50e3:f78a:d3d",
+    "2402:3a80:4304:9326:278:5634:1232:5476"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-19T18:27:41.360Z",
-      "ip": "103.100.4.253",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt28690468",
-      "title": "tt28690468",
-      "timestamp": "2026-01-19T18:35:03.722Z",
-      "ip": "205.254.185.113",
-      "username": "space_forca"
-    },
-    {
-      "type": "movie",
-      "id": "tt35684868",
-      "title": "tt35684868",
-      "timestamp": "2026-01-19T18:38:24.183Z",
-      "ip": "103.181.65.40",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt35684868",
@@ -84555,6 +84532,30 @@
       "timestamp": "2026-02-07T15:35:28.637Z",
       "ip": "49.47.152.2",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
+      "timestamp": "2026-02-07T15:40:24.022Z",
+      "ip": "2402:3a80:4304:9326:278:5634:1232:5476",
+      "username": "lazerkey"
+    },
+    {
+      "type": "series",
+      "id": "tt31918578:1:7",
+      "title": "tt31918578:1:7",
+      "timestamp": "2026-02-07T15:44:22.107Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt31918578:1:6",
+      "title": "tt31918578:1:6",
+      "timestamp": "2026-02-07T15:44:22.200Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -84728,10 +84729,10 @@
     },
     "139.5.196.103": {
       "type": "series",
-      "id": "tt31918578:1:5",
-      "title": "tt31918578:1:5",
+      "id": "tt31918578:1:6",
+      "title": "tt31918578:1:6",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770464693963
+      "lastActive": 1770479062200
     },
     "94.156.30.57": {
       "type": "series",
@@ -87959,6 +87960,13 @@
       "title": "Catch Me If You Can",
       "username": "adiyogivishwanath",
       "lastActive": 1770478477035
+    },
+    "2402:3a80:4304:9326:278:5634:1232:5476": {
+      "type": "series",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
+      "username": "lazerkey",
+      "lastActive": 1770478824022
     }
   }
 }
