@@ -1,5 +1,5 @@
 {
-  "totalViews": 21698,
+  "totalViews": 21704,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4562,57 +4562,10 @@
     "2401:4900:8ffd:b77f:79dd:8dba:327d:29bf",
     "2400:adc5:4a2:5b00:4741:d14a:94a:fa87",
     "122.161.242.29",
-    "157.48.249.169"
+    "157.48.249.169",
+    "2405:201:a001:21d8:f3:5eb2:9ca1:86f"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2306299:1:1",
-      "title": "tt2306299:1:1",
-      "timestamp": "2026-01-19T21:01:31.855Z",
-      "ip": "2a09:bac5:3af3:11c3::1c5:6d",
-      "username": "switchoff009"
-    },
-    {
-      "type": "series",
-      "id": "tt2365946:1:8",
-      "title": "tt2365946:1:8",
-      "timestamp": "2026-01-19T21:01:50.148Z",
-      "ip": "2a06:c701:474f:e900:997a:184c:b52f:1d13",
-      "username": "aviv"
-    },
-    {
-      "type": "movie",
-      "id": "tt0105156",
-      "title": "Poison Ivy",
-      "timestamp": "2026-01-19T21:02:43.237Z",
-      "ip": "2409:40e1:404f:15b9:3cfd:f0ff:fe0b:1a8a",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt33028778",
-      "title": "tt33028778",
-      "timestamp": "2026-01-19T21:02:44.228Z",
-      "ip": "85.86.58.139",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:3",
-      "title": "tt35335046:1:3",
-      "timestamp": "2026-01-19T21:02:54.673Z",
-      "ip": "172.69.94.103,206.53.3.179",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32141377",
-      "title": "tt32141377",
-      "timestamp": "2026-01-19T21:08:07.182Z",
-      "ip": "2a09:bac5:3af3:11c3::1c5:6d",
-      "username": "switchoff009"
-    },
     {
       "type": "series",
       "id": "tt0412142:8:15",
@@ -84564,6 +84517,54 @@
       "timestamp": "2026-02-07T18:41:42.680Z",
       "ip": "103.46.200.34",
       "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt0993846",
+      "title": "The Wolf of Wall Street",
+      "timestamp": "2026-02-07T18:46:35.494Z",
+      "ip": "202.88.248.12",
+      "username": "kiran"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:2",
+      "title": "tt1399664:2:2",
+      "timestamp": "2026-02-07T18:55:00.625Z",
+      "ip": "157.48.249.169",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt9253866:1:6",
+      "title": "tt9253866:1:6",
+      "timestamp": "2026-02-07T18:56:00.829Z",
+      "ip": "2405:201:a001:21d8:f3:5eb2:9ca1:86f",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:7",
+      "title": "tt31844233:1:7",
+      "timestamp": "2026-02-07T18:57:43.156Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:5",
+      "title": "tt31844233:1:5",
+      "timestamp": "2026-02-07T18:57:43.243Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:3",
+      "title": "tt0903747:1:3",
+      "timestamp": "2026-02-07T18:59:48.576Z",
+      "ip": "103.249.4.50",
+      "username": "tgh2r"
     }
   ],
   "activeNow": {
@@ -84737,10 +84738,10 @@
     },
     "139.5.196.103": {
       "type": "series",
-      "id": "tt31844233:1:7",
-      "title": "tt31844233:1:7",
+      "id": "tt31844233:1:5",
+      "title": "tt31844233:1:5",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770488975677
+      "lastActive": 1770490663243
     },
     "94.156.30.57": {
       "type": "series",
@@ -85850,10 +85851,10 @@
     },
     "103.249.4.50": {
       "type": "series",
-      "id": "tt0903747:1:2",
-      "title": "tt0903747:1:2",
+      "id": "tt0903747:1:3",
+      "title": "tt0903747:1:3",
       "username": "tgh2r",
-      "lastActive": 1770407152956
+      "lastActive": 1770490788576
     },
     "2401:4900:1cb2:f1f4:79de:3781:35de:5bf": {
       "type": "series",
@@ -85943,8 +85944,8 @@
       "type": "movie",
       "id": "tt0993846",
       "title": "The Wolf of Wall Street",
-      "username": "deepak",
-      "lastActive": 1770489184823
+      "username": "kiran",
+      "lastActive": 1770489995494
     },
     "2409:40d4:408d:afd9:f45a:bd5c:872f:89e9": {
       "type": "movie",
@@ -88027,10 +88028,17 @@
     },
     "157.48.249.169": {
       "type": "series",
-      "id": "tt1399664:2:1",
-      "title": "tt1399664:2:1",
+      "id": "tt1399664:2:2",
+      "title": "tt1399664:2:2",
       "username": "golu_vk",
-      "lastActive": 1770487943408
+      "lastActive": 1770490500625
+    },
+    "2405:201:a001:21d8:f3:5eb2:9ca1:86f": {
+      "type": "series",
+      "id": "tt9253866:1:6",
+      "title": "tt9253866:1:6",
+      "username": "william097",
+      "lastActive": 1770490560829
     }
   }
 }
