@@ -1,5 +1,5 @@
 {
-  "totalViews": 21639,
+  "totalViews": 21644,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4552,49 +4552,10 @@
     "2409:40e4:131d:7bb4:c062:59ff:fea8:1e13",
     "2409:40c0:e:f19c:bd85:55cb:6721:8830",
     "103.44.117.94",
-    "2402:8100:26e4:d367:ed94:382e:7bf1:3f77"
+    "2402:8100:26e4:d367:ed94:382e:7bf1:3f77",
+    "2001:4490:4e65:5f53:dd9b:50e3:f78a:d3d"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt15911108",
-      "title": "tt15911108",
-      "timestamp": "2026-01-19T18:24:47.575Z",
-      "ip": "157.48.214.143",
-      "username": "golu_vk"
-    },
-    {
-      "type": "movie",
-      "id": "tt29644189",
-      "title": "Black Phone 2",
-      "timestamp": "2026-01-19T18:25:05.743Z",
-      "ip": "103.100.4.253",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4156586:2:1",
-      "title": "tt4156586:2:1",
-      "timestamp": "2026-01-19T18:25:16.119Z",
-      "ip": "2405:201:2022:b81c:c43a:cde0:a2e:5228",
-      "username": "zealousninja"
-    },
-    {
-      "type": "series",
-      "id": "tt30263074:1:1",
-      "title": "tt30263074:1:1",
-      "timestamp": "2026-01-19T18:25:27.698Z",
-      "ip": "2405:201:2022:b81c:c43a:cde0:a2e:5228",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt1431045",
-      "title": "Deadpool",
-      "timestamp": "2026-01-19T18:26:03.043Z",
-      "ip": "2405:201:2022:b81c:c43a:cde0:a2e:5228",
-      "username": "zealousninja"
-    },
     {
       "type": "movie",
       "id": "tt30144839",
@@ -84554,6 +84515,46 @@
       "timestamp": "2026-02-07T15:14:16.284Z",
       "ip": "2406:b400:1a:4888:a27:a8ff:fe42:855e",
       "username": "nothingokk"
+    },
+    {
+      "type": "movie",
+      "id": "tt8036976",
+      "title": "tt8036976",
+      "timestamp": "2026-02-07T15:25:43.139Z",
+      "ip": "139.135.35.56",
+      "username": "salman730"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-02-07T15:28:55.893Z",
+      "ip": "139.135.35.56",
+      "username": "salman730"
+    },
+    {
+      "type": "movie",
+      "id": "tt0099785",
+      "title": "Home Alone",
+      "timestamp": "2026-02-07T15:31:00.596Z",
+      "ip": "139.135.35.56",
+      "username": "salman730"
+    },
+    {
+      "type": "movie",
+      "id": "tt0264464",
+      "title": "Catch Me If You Can",
+      "timestamp": "2026-02-07T15:34:37.035Z",
+      "ip": "2001:4490:4e65:5f53:dd9b:50e3:f78a:d3d",
+      "username": "adiyogivishwanath"
+    },
+    {
+      "type": "movie",
+      "id": "tt1713476",
+      "title": "tt1713476",
+      "timestamp": "2026-02-07T15:35:28.637Z",
+      "ip": "49.47.152.2",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -87877,10 +87878,10 @@
     },
     "49.47.152.2": {
       "type": "movie",
-      "id": "tt0207201",
-      "title": "tt0207201",
+      "id": "tt1713476",
+      "title": "tt1713476",
       "username": "theonlyfreak",
-      "lastActive": 1770468056895
+      "lastActive": 1770478528637
     },
     "103.149.158.139": {
       "type": "movie",
@@ -87947,10 +87948,17 @@
     },
     "139.135.35.56": {
       "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
+      "id": "tt0099785",
+      "title": "Home Alone",
       "username": "salman730",
-      "lastActive": 1770477233465
+      "lastActive": 1770478260596
+    },
+    "2001:4490:4e65:5f53:dd9b:50e3:f78a:d3d": {
+      "type": "movie",
+      "id": "tt0264464",
+      "title": "Catch Me If You Can",
+      "username": "adiyogivishwanath",
+      "lastActive": 1770478477035
     }
   }
 }
