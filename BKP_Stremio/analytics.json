@@ -1,5 +1,5 @@
 {
-  "totalViews": 21659,
+  "totalViews": 21665,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4557,57 +4557,10 @@
     "2402:3a80:4304:9326:278:5634:1232:5476",
     "2405:201:2022:b81c:1dd6:db07:2146:be6b",
     "2405:201:203e:b839:b598:514a:5d73:f414",
-    "122.179.116.33"
+    "122.179.116.33",
+    "2404:3100:18a1:fc0f:5460:7aff:fe82:9723"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:1:11",
-      "title": "Lost",
-      "timestamp": "2026-01-19T19:05:24.011Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:1:12",
-      "title": "Lost",
-      "timestamp": "2026-01-19T19:05:29.202Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt28102595:2:7",
-      "title": "tt28102595:2:7",
-      "timestamp": "2026-01-19T19:14:29.557Z",
-      "ip": "103.181.65.40",
-      "username": "mutti9"
-    },
-    {
-      "type": "series",
-      "id": "tt28102595:2:7",
-      "title": "tt28102595:2:7",
-      "timestamp": "2026-01-19T19:14:29.676Z",
-      "ip": "103.181.65.40",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt7587890:8:2",
-      "title": "tt7587890:8:2",
-      "timestamp": "2026-01-19T19:27:25.630Z",
-      "ip": "152.59.32.15",
-      "username": "rahul_officialx"
-    },
-    {
-      "type": "series",
-      "id": "tt10577736:1:6",
-      "title": "Tehran",
-      "timestamp": "2026-01-19T19:33:00.327Z",
-      "ip": "2a06:c701:7169:5200:b981:ea25:68f9:aaed",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt9680440:1:4",
@@ -84559,6 +84512,54 @@
       "timestamp": "2026-02-07T16:38:21.481Z",
       "ip": "122.179.116.33",
       "username": "user_9b"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:4",
+      "title": "tt31844233:1:4",
+      "timestamp": "2026-02-07T17:06:32.145Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt14107334",
+      "title": "tt14107334",
+      "timestamp": "2026-02-07T17:06:56.456Z",
+      "ip": "2404:3100:18a1:fc0f:5460:7aff:fe82:9723",
+      "username": "salman730"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "timestamp": "2026-02-07T17:07:41.922Z",
+      "ip": "103.181.65.86",
+      "username": "mutti9"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:5",
+      "title": "tt31844233:1:5",
+      "timestamp": "2026-02-07T17:08:48.755Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:4",
+      "title": "tt31844233:1:4",
+      "timestamp": "2026-02-07T17:08:58.745Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:5",
+      "title": "tt31844233:1:5",
+      "timestamp": "2026-02-07T17:09:03.639Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -84732,10 +84733,10 @@
     },
     "139.5.196.103": {
       "type": "series",
-      "id": "tt31918578:1:8",
-      "title": "tt31918578:1:8",
+      "id": "tt31844233:1:5",
+      "title": "tt31844233:1:5",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770482126350
+      "lastActive": 1770484143639
     },
     "94.156.30.57": {
       "type": "series",
@@ -86818,10 +86819,10 @@
     },
     "103.181.65.86": {
       "type": "series",
-      "id": "tt31844233:1:2",
-      "title": "tt31844233:1:2",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
       "username": "mutti9",
-      "lastActive": 1770482257226
+      "lastActive": 1770484061922
     },
     "2409:40e5:11e3:27e4:b891:5fff:fee8:7736": {
       "type": "series",
@@ -87991,6 +87992,13 @@
       "title": "tt29549471",
       "username": "user_9b",
       "lastActive": 1770482301481
+    },
+    "2404:3100:18a1:fc0f:5460:7aff:fe82:9723": {
+      "type": "movie",
+      "id": "tt14107334",
+      "title": "tt14107334",
+      "username": "salman730",
+      "lastActive": 1770484016456
     }
   }
 }
