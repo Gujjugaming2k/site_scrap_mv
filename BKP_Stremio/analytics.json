@@ -1,5 +1,5 @@
 {
-  "totalViews": 21560,
+  "totalViews": 21561,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4544,14 +4544,6 @@
     "2409:40d4:4082:4b3a:8000::"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0068646",
-      "title": "The Godfather",
-      "timestamp": "2026-01-19T17:39:59.903Z",
-      "ip": "182.69.183.164",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "movie",
       "id": "tt14107334",
@@ -84543,6 +84535,14 @@
       "timestamp": "2026-02-07T08:00:37.957Z",
       "ip": "2409:40d4:4082:4b3a:8000::",
       "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt39306333:1:1",
+      "title": "tt39306333:1:1",
+      "timestamp": "2026-02-07T08:16:20.856Z",
+      "ip": "43.241.194.253",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -87849,6 +87849,13 @@
       "title": "The Gorge",
       "username": "kdbotz",
       "lastActive": 1770451237957
+    },
+    "43.241.194.253": {
+      "type": "series",
+      "id": "tt39306333:1:1",
+      "title": "tt39306333:1:1",
+      "username": "vflix1993",
+      "lastActive": 1770452180856
     }
   }
 }
