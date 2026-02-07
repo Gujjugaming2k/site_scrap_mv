@@ -1,5 +1,5 @@
 {
-  "totalViews": 21539,
+  "totalViews": 21543,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4537,38 +4537,6 @@
     "2001:4490:444d:4a3b:10d3:a39d:9cca:8fa2"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt6343314",
-      "title": "Creed II",
-      "timestamp": "2026-01-19T17:19:15.558Z",
-      "ip": "2405:201:2022:b81c:c43a:cde0:a2e:5228",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-19T17:19:52.167Z",
-      "ip": "2405:201:2022:b81c:9057:1cb7:4595:3d97",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt6343314",
-      "title": "Creed II",
-      "timestamp": "2026-01-19T17:20:40.449Z",
-      "ip": "2405:201:2022:b81c:9057:1cb7:4595:3d97",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt1160419",
-      "title": "Dune",
-      "timestamp": "2026-01-19T17:20:48.899Z",
-      "ip": "2409:40e4:10bb:7d84:7dbd:f95f:ec58:1d85",
-      "username": "mu1ku"
-    },
     {
       "type": "movie",
       "id": "tt6343314",
@@ -84536,6 +84504,38 @@
       "timestamp": "2026-02-07T04:39:00.139Z",
       "ip": "2001:4490:444d:4a3b:10d3:a39d:9cca:8fa2",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:4",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-07T05:25:41.115Z",
+      "ip": "2401:4900:8fe3:1191:6c29:f295:878e:f7d1",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt35019998",
+      "title": "tt35019998",
+      "timestamp": "2026-02-07T05:25:47.972Z",
+      "ip": "38.224.232.52",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:5",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-07T05:26:10.954Z",
+      "ip": "2401:4900:8fe3:1191:6c29:f295:878e:f7d1",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt33046197",
+      "title": "tt33046197",
+      "timestamp": "2026-02-07T05:29:39.209Z",
+      "ip": "2001:4490:444d:4a3b:10d3:a39d:9cca:8fa2",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -85864,10 +85864,10 @@
     },
     "38.224.232.52": {
       "type": "movie",
-      "id": "tt38123566",
-      "title": "tt38123566",
+      "id": "tt35019998",
+      "title": "tt35019998",
       "username": "thala_75",
-      "lastActive": 1770384450633
+      "lastActive": 1770441947972
     },
     "103.24.85.17": {
       "type": "movie",
@@ -87782,17 +87782,17 @@
     },
     "2401:4900:8fe3:1191:6c29:f295:878e:f7d1": {
       "type": "series",
-      "id": "tt4574334:5:4",
+      "id": "tt4574334:5:5",
       "title": "Stranger Things",
       "username": "ashwanileon",
-      "lastActive": 1770434103643
+      "lastActive": 1770441970954
     },
     "2001:4490:444d:4a3b:10d3:a39d:9cca:8fa2": {
       "type": "movie",
-      "id": "tt27564844",
-      "title": "tt27564844",
+      "id": "tt33046197",
+      "title": "tt33046197",
       "username": "zealousninja",
-      "lastActive": 1770439140139
+      "lastActive": 1770442179209
     }
   }
 }
