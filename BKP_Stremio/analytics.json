@@ -1,5 +1,5 @@
 {
-  "totalViews": 21625,
+  "totalViews": 21628,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4550,33 +4550,11 @@
     "2406:b400:1a:4888:41db:4229:c4e:4fc1",
     "2405:201:a001:21d8:a5a2:c104:c186:c90c",
     "2409:40e4:131d:7bb4:c062:59ff:fea8:1e13",
-    "2409:40c0:e:f19c:bd85:55cb:6721:8830"
+    "2409:40c0:e:f19c:bd85:55cb:6721:8830",
+    "103.44.117.94",
+    "2402:8100:26e4:d367:ed94:382e:7bf1:3f77"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31378509",
-      "title": "tt31378509",
-      "timestamp": "2026-01-19T18:20:51.838Z",
-      "ip": "150.107.212.194",
-      "username": "abelboby"
-    },
-    {
-      "type": "movie",
-      "id": "tt15239678",
-      "title": "Dune: Part Two",
-      "timestamp": "2026-01-19T18:21:07.069Z",
-      "ip": "150.107.212.194",
-      "username": "abelboby"
-    },
-    {
-      "type": "series",
-      "id": "tt4156586:2:1",
-      "title": "tt4156586:2:1",
-      "timestamp": "2026-01-19T18:21:12.163Z",
-      "ip": "2405:201:2022:b81c:c43a:cde0:a2e:5228",
-      "username": "zealousninja"
-    },
     {
       "type": "movie",
       "id": "tt1160419",
@@ -84552,6 +84530,30 @@
       "timestamp": "2026-02-07T13:13:45.963Z",
       "ip": "116.68.74.75",
       "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:8:2",
+      "title": "tt0460649:8:2",
+      "timestamp": "2026-02-07T13:38:30.218Z",
+      "ip": "103.44.117.94",
+      "username": "anonymous050100"
+    },
+    {
+      "type": "movie",
+      "id": "tt0133093",
+      "title": "The Matrix",
+      "timestamp": "2026-02-07T13:47:21.865Z",
+      "ip": "2402:8100:26e4:d367:ed94:382e:7bf1:3f77",
+      "username": "harshra9999"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:8:1",
+      "title": "tt0460649:8:1",
+      "timestamp": "2026-02-07T13:49:42.234Z",
+      "ip": "103.44.117.94",
+      "username": "anonymous050100"
     }
   ],
   "activeNow": {
@@ -87928,6 +87930,20 @@
       "title": "tt0460649:8:1",
       "username": "anonymous050100",
       "lastActive": 1770469815900
+    },
+    "103.44.117.94": {
+      "type": "series",
+      "id": "tt0460649:8:1",
+      "title": "tt0460649:8:1",
+      "username": "anonymous050100",
+      "lastActive": 1770472182234
+    },
+    "2402:8100:26e4:d367:ed94:382e:7bf1:3f77": {
+      "type": "movie",
+      "id": "tt0133093",
+      "title": "The Matrix",
+      "username": "harshra9999",
+      "lastActive": 1770472041865
     }
   }
 }
