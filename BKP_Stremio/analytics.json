@@ -1,5 +1,5 @@
 {
-  "totalViews": 21554,
+  "totalViews": 21558,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4539,41 +4539,10 @@
     "190.250.137.135",
     "103.161.231.139",
     "47.15.113.223",
-    "2001:4490:4e65:b1df:7196:3e34:a40f:8cf2"
+    "2001:4490:4e65:b1df:7196:3e34:a40f:8cf2",
+    "2401:4900:be83:9a6b:8651:8f12:ba6d:c833"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0066864",
-      "title": "tt0066864",
-      "timestamp": "2026-01-19T17:30:17.619Z",
-      "ip": "81.108.197.0",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt23220552",
-      "title": "tt23220552",
-      "timestamp": "2026-01-19T17:33:22.513Z",
-      "ip": "182.69.183.164",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt0068646",
-      "title": "The Godfather",
-      "timestamp": "2026-01-19T17:33:57.108Z",
-      "ip": "182.69.183.164",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt2531336:2:4",
-      "title": "tt2531336:2:4",
-      "timestamp": "2026-01-19T17:37:02.842Z",
-      "ip": "49.43.32.106",
-      "username": "surti_lala"
-    },
     {
       "type": "movie",
       "id": "tt31227572",
@@ -84541,6 +84510,38 @@
       "timestamp": "2026-02-07T06:53:23.870Z",
       "ip": "2001:4490:4e65:b1df:7196:3e34:a40f:8cf2",
       "username": "adiyogivishwanath"
+    },
+    {
+      "type": "movie",
+      "id": "tt0079501",
+      "title": "tt0079501",
+      "timestamp": "2026-02-07T07:30:29.672Z",
+      "ip": "2401:4900:be83:9a6b:8651:8f12:ba6d:c833",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:3:5",
+      "title": "Lost",
+      "timestamp": "2026-02-07T07:35:55.422Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:3:7",
+      "title": "Lost",
+      "timestamp": "2026-02-07T07:36:06.748Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:3:8",
+      "title": "Lost",
+      "timestamp": "2026-02-07T07:37:38.120Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -84931,10 +84932,10 @@
     },
     "116.68.74.75": {
       "type": "series",
-      "id": "tt0411008:3:7",
+      "id": "tt0411008:3:8",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1770400709044
+      "lastActive": 1770449858120
     },
     "2409:40e5:1046:7359:4852:fb48:776e:3d9d": {
       "type": "movie",
@@ -87833,6 +87834,13 @@
       "title": "Avengers: Endgame",
       "username": "adiyogivishwanath",
       "lastActive": 1770447203870
+    },
+    "2401:4900:be83:9a6b:8651:8f12:ba6d:c833": {
+      "type": "movie",
+      "id": "tt0079501",
+      "title": "tt0079501",
+      "username": "katdenningssss",
+      "lastActive": 1770449429672
     }
   }
 }
