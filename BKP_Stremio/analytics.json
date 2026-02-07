@@ -1,5 +1,5 @@
 {
-  "totalViews": 21676,
+  "totalViews": 21678,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4560,25 +4560,10 @@
     "122.179.116.33",
     "2404:3100:18a1:fc0f:5460:7aff:fe82:9723",
     "2401:4900:8ffd:b77f:79dd:8dba:327d:29bf",
-    "2400:adc5:4a2:5b00:4741:d14a:94a:fa87"
+    "2400:adc5:4a2:5b00:4741:d14a:94a:fa87",
+    "122.161.242.29"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2365946:1:7",
-      "title": "tt2365946:1:7",
-      "timestamp": "2026-01-19T20:07:33.912Z",
-      "ip": "2a06:c701:474f:e900:997a:184c:b52f:1d13",
-      "username": "aviv"
-    },
-    {
-      "type": "series",
-      "id": "tt2365946:1:7",
-      "title": "tt2365946:1:7",
-      "timestamp": "2026-01-19T20:08:42.078Z",
-      "ip": "2a06:c701:474f:e900:997a:184c:b52f:1d13",
-      "username": "aviv"
-    },
     {
       "type": "series",
       "id": "tt15576504:1:1",
@@ -84562,6 +84547,22 @@
       "timestamp": "2026-02-07T17:44:39.857Z",
       "ip": "139.135.35.56",
       "username": "salman730"
+    },
+    {
+      "type": "series",
+      "id": "tt5753856:1:1",
+      "title": "tt5753856:1:1",
+      "timestamp": "2026-02-07T17:45:30.100Z",
+      "ip": "122.161.242.29",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt5753856:1:2",
+      "title": "tt5753856:1:2",
+      "timestamp": "2026-02-07T17:46:11.986Z",
+      "ip": "122.161.242.29",
+      "username": "dawnstar930"
     }
   ],
   "activeNow": {
@@ -88015,6 +88016,13 @@
       "title": "JUJUTSU KAISEN",
       "username": "salman730",
       "lastActive": 1770485804747
+    },
+    "122.161.242.29": {
+      "type": "series",
+      "id": "tt5753856:1:2",
+      "title": "tt5753856:1:2",
+      "username": "dawnstar930",
+      "lastActive": 1770486371986
     }
   }
 }
