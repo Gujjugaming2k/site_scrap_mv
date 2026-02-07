@@ -1,5 +1,5 @@
 {
-  "totalViews": 21600,
+  "totalViews": 21602,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4545,25 +4545,10 @@
     "2402:3a80:4304:1b62:278:5634:1232:5476",
     "49.47.152.2",
     "103.149.158.139",
-    "103.170.54.106"
+    "103.170.54.106",
+    "42.108.27.206"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt9251798:1:6",
-      "title": "tt9251798:1:6",
-      "timestamp": "2026-01-19T17:55:59.335Z",
-      "ip": "27.58.75.79",
-      "username": "user_9b"
-    },
-    {
-      "type": "series",
-      "id": "tt9251798:2:1",
-      "title": "tt9251798:2:1",
-      "timestamp": "2026-01-19T17:56:32.427Z",
-      "ip": "27.58.75.79",
-      "username": "user_9b"
-    },
     {
       "type": "movie",
       "id": "tt1335975",
@@ -84547,6 +84532,22 @@
       "timestamp": "2026-02-07T10:44:30.214Z",
       "ip": "103.170.54.106",
       "username": "babybloom1"
+    },
+    {
+      "type": "series",
+      "id": "tt31918578:1:4",
+      "title": "tt31918578:1:4",
+      "timestamp": "2026-02-07T10:57:32.448Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "timestamp": "2026-02-07T10:57:41.388Z",
+      "ip": "42.108.27.206",
+      "username": "adshoyi"
     }
   ],
   "activeNow": {
@@ -84719,11 +84720,11 @@
       "lastActive": 1769861905703
     },
     "139.5.196.103": {
-      "type": "movie",
-      "id": "tt24060892",
-      "title": "tt24060892",
+      "type": "series",
+      "id": "tt31918578:1:4",
+      "title": "tt31918578:1:4",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770438142934
+      "lastActive": 1770461852448
     },
     "94.156.30.57": {
       "type": "series",
@@ -87888,6 +87889,13 @@
       "title": "tt35099420",
       "username": "babybloom1",
       "lastActive": 1770461070214
+    },
+    "42.108.27.206": {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "username": "adshoyi",
+      "lastActive": 1770461861388
     }
   }
 }
