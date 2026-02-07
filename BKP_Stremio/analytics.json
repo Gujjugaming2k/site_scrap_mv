@@ -1,5 +1,5 @@
 {
-  "totalViews": 21543,
+  "totalViews": 21547,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4534,41 +4534,11 @@
     "2409:40e0:104c:319a:8000::",
     "2405:201:2022:b81c:fda9:30ad:3881:7d6e",
     "2401:4900:8fe3:1191:6c29:f295:878e:f7d1",
-    "2001:4490:444d:4a3b:10d3:a39d:9cca:8fa2"
+    "2001:4490:444d:4a3b:10d3:a39d:9cca:8fa2",
+    "2409:40d2:3009:2a37:2fb1:8a0:cce3:2b24",
+    "190.250.137.135"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt6343314",
-      "title": "Creed II",
-      "timestamp": "2026-01-19T17:21:57.365Z",
-      "ip": "49.36.76.88",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt6343314",
-      "title": "Creed II",
-      "timestamp": "2026-01-19T17:22:10.865Z",
-      "ip": "2405:201:2022:b81c:9057:1cb7:4595:3d97",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt6343314",
-      "title": "Creed II",
-      "timestamp": "2026-01-19T17:22:57.067Z",
-      "ip": "2405:201:2022:b81c:9057:1cb7:4595:3d97",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-19T17:23:35.755Z",
-      "ip": "182.69.183.164",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt14186672:1:8",
@@ -84536,6 +84506,38 @@
       "timestamp": "2026-02-07T05:29:39.209Z",
       "ip": "2001:4490:444d:4a3b:10d3:a39d:9cca:8fa2",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-07T05:37:03.856Z",
+      "ip": "2409:40d2:3009:2a37:2fb1:8a0:cce3:2b24",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt30387012",
+      "title": "tt30387012",
+      "timestamp": "2026-02-07T05:37:34.211Z",
+      "ip": "190.140.187.206",
+      "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt35019998",
+      "title": "tt35019998",
+      "timestamp": "2026-02-07T05:37:53.146Z",
+      "ip": "38.224.232.52",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt38990492:1:3",
+      "title": "tt38990492:1:3",
+      "timestamp": "2026-02-07T05:43:18.680Z",
+      "ip": "190.250.137.135",
+      "username": "ymcinema"
     }
   ],
   "activeNow": {
@@ -85867,7 +85869,7 @@
       "id": "tt35019998",
       "title": "tt35019998",
       "username": "thala_75",
-      "lastActive": 1770441947972
+      "lastActive": 1770442673146
     },
     "103.24.85.17": {
       "type": "movie",
@@ -86508,10 +86510,10 @@
     },
     "190.140.187.206": {
       "type": "movie",
-      "id": "tt24268454",
-      "title": "tt24268454",
+      "id": "tt30387012",
+      "title": "tt30387012",
       "username": "ymcinema",
-      "lastActive": 1770184164073
+      "lastActive": 1770442654211
     },
     "2409:40d2:305f:36e:b0e7:8fbc:2809:9366": {
       "type": "series",
@@ -87793,6 +87795,20 @@
       "title": "tt33046197",
       "username": "zealousninja",
       "lastActive": 1770442179209
+    },
+    "2409:40d2:3009:2a37:2fb1:8a0:cce3:2b24": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "saurabhkaperwan",
+      "lastActive": 1770442623856
+    },
+    "190.250.137.135": {
+      "type": "series",
+      "id": "tt38990492:1:3",
+      "title": "tt38990492:1:3",
+      "username": "ymcinema",
+      "lastActive": 1770442998680
     }
   }
 }
