@@ -1,5 +1,5 @@
 {
-  "totalViews": 21618,
+  "totalViews": 21622,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4548,41 +4548,10 @@
     "103.170.54.106",
     "42.108.27.206",
     "2406:b400:1a:4888:41db:4229:c4e:4fc1",
-    "2405:201:a001:21d8:a5a2:c104:c186:c90c"
+    "2405:201:a001:21d8:a5a2:c104:c186:c90c",
+    "2409:40e4:131d:7bb4:c062:59ff:fea8:1e13"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:1:9",
-      "title": "Lost",
-      "timestamp": "2026-01-19T18:19:05.438Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt12867810:1:3",
-      "title": "tt12867810:1:3",
-      "timestamp": "2026-01-19T18:19:19.465Z",
-      "ip": "2409:40c4:315c:dd35:8408:24ff:fed1:30b8",
-      "username": "napsteerr"
-    },
-    {
-      "type": "series",
-      "id": "tt12867810:1:4",
-      "title": "tt12867810:1:4",
-      "timestamp": "2026-01-19T18:19:44.121Z",
-      "ip": "2409:40c4:315c:dd35:8408:24ff:fed1:30b8",
-      "username": "napsteerr"
-    },
-    {
-      "type": "movie",
-      "id": "tt15239678",
-      "title": "Dune: Part Two",
-      "timestamp": "2026-01-19T18:19:50.205Z",
-      "ip": "150.107.212.194",
-      "username": "abelboby"
-    },
     {
       "type": "series",
       "id": "tt0411008:1:9",
@@ -84550,6 +84519,38 @@
       "timestamp": "2026-02-07T12:30:42.014Z",
       "ip": "49.47.152.2",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt2359810",
+      "title": "tt2359810",
+      "timestamp": "2026-02-07T12:37:15.142Z",
+      "ip": "2409:40e4:131d:7bb4:c062:59ff:fea8:1e13",
+      "username": "skssunilbh"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:2",
+      "title": "tt14186672:2:2",
+      "timestamp": "2026-02-07T12:40:29.993Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt0207201",
+      "title": "tt0207201",
+      "timestamp": "2026-02-07T12:40:56.895Z",
+      "ip": "49.47.152.2",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-02-07T12:44:49.400Z",
+      "ip": "2409:40e4:131d:7bb4:c062:59ff:fea8:1e13",
+      "username": "skssunilbh"
     }
   ],
   "activeNow": {
@@ -84897,11 +84898,11 @@
       "lastActive": 1769877863483
     },
     "203.192.255.46": {
-      "type": "movie",
-      "id": "tt28142095",
-      "title": "tt28142095",
+      "type": "series",
+      "id": "tt14186672:2:2",
+      "title": "tt14186672:2:2",
       "username": "chetan_b2",
-      "lastActive": 1770408234403
+      "lastActive": 1770468029993
     },
     "157.48.83.94": {
       "type": "series",
@@ -87873,10 +87874,10 @@
     },
     "49.47.152.2": {
       "type": "movie",
-      "id": "tt1034314",
-      "title": "tt1034314",
+      "id": "tt0207201",
+      "title": "tt0207201",
       "username": "theonlyfreak",
-      "lastActive": 1770467442014
+      "lastActive": 1770468056895
     },
     "103.149.158.139": {
       "type": "movie",
@@ -87912,6 +87913,13 @@
       "title": "tt9253866:1:6",
       "username": "william097",
       "lastActive": 1770466301428
+    },
+    "2409:40e4:131d:7bb4:c062:59ff:fea8:1e13": {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "username": "skssunilbh",
+      "lastActive": 1770468289400
     }
   }
 }
