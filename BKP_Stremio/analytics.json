@@ -1,5 +1,5 @@
 {
-  "totalViews": 21678,
+  "totalViews": 21681,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4561,33 +4561,10 @@
     "2404:3100:18a1:fc0f:5460:7aff:fe82:9723",
     "2401:4900:8ffd:b77f:79dd:8dba:327d:29bf",
     "2400:adc5:4a2:5b00:4741:d14a:94a:fa87",
-    "122.161.242.29"
+    "122.161.242.29",
+    "157.48.249.169"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt15576504:1:1",
-      "title": "tt15576504:1:1",
-      "timestamp": "2026-01-19T20:11:19.764Z",
-      "ip": "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72",
-      "username": "golu_vk"
-    },
-    {
-      "type": "series",
-      "id": "tt15576504:1:1",
-      "title": "tt15576504:1:1",
-      "timestamp": "2026-01-19T20:11:20.679Z",
-      "ip": "2409:40d4:1018:16e5:cc9d:15ff:fee5:ec72,51.89.197.91",
-      "username": "virat"
-    },
-    {
-      "type": "movie",
-      "id": "tt1615091",
-      "title": "tt1615091",
-      "timestamp": "2026-01-19T20:13:17.177Z",
-      "ip": "41.105.53.43",
-      "username": "hkhhjj"
-    },
     {
       "type": "movie",
       "id": "tt1615091",
@@ -84563,6 +84540,30 @@
       "timestamp": "2026-02-07T17:46:11.986Z",
       "ip": "122.161.242.29",
       "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt21066182:1:2",
+      "title": "tt21066182:1:2",
+      "timestamp": "2026-02-07T18:05:12.451Z",
+      "ip": "2405:201:2022:b81c:1dd6:db07:2146:be6b",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt21066182:1:2",
+      "title": "tt21066182:1:2",
+      "timestamp": "2026-02-07T18:06:29.332Z",
+      "ip": "2405:201:2022:b81c:1dd6:db07:2146:be6b",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:1",
+      "title": "tt1399664:2:1",
+      "timestamp": "2026-02-07T18:12:23.408Z",
+      "ip": "157.48.249.169",
+      "username": "golu_vk"
     }
   ],
   "activeNow": {
@@ -87977,10 +87978,10 @@
     },
     "2405:201:2022:b81c:1dd6:db07:2146:be6b": {
       "type": "series",
-      "id": "tt21066182:1:1",
-      "title": "tt21066182:1:1",
+      "id": "tt21066182:1:2",
+      "title": "tt21066182:1:2",
       "username": "zealousninja",
-      "lastActive": 1770480111763
+      "lastActive": 1770487589332
     },
     "2405:201:203e:b839:b598:514a:5d73:f414": {
       "type": "movie",
@@ -88023,6 +88024,13 @@
       "title": "tt5753856:1:2",
       "username": "dawnstar930",
       "lastActive": 1770486371986
+    },
+    "157.48.249.169": {
+      "type": "series",
+      "id": "tt1399664:2:1",
+      "title": "tt1399664:2:1",
+      "username": "golu_vk",
+      "lastActive": 1770487943408
     }
   }
 }
