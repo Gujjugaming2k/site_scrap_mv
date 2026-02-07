@@ -1,5 +1,5 @@
 {
-  "totalViews": 21582,
+  "totalViews": 21586,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4541,41 +4541,12 @@
     "47.15.113.223",
     "2001:4490:4e65:b1df:7196:3e34:a40f:8cf2",
     "2401:4900:be83:9a6b:8651:8f12:ba6d:c833",
-    "2409:40d4:4082:4b3a:8000::"
+    "2409:40d4:4082:4b3a:8000::",
+    "2402:3a80:4304:1b62:278:5634:1232:5476",
+    "49.47.152.2",
+    "103.149.158.139"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt7737786",
-      "title": "Greenland",
-      "timestamp": "2026-01-19T17:53:15.775Z",
-      "ip": "27.58.75.79",
-      "username": "user_9b"
-    },
-    {
-      "type": "movie",
-      "id": "tt31495504",
-      "title": "tt31495504",
-      "timestamp": "2026-01-19T17:53:16.634Z",
-      "ip": "2405:201:2022:b81c:c43a:cde0:a2e:5228",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt1335975",
-      "title": "47 Ronin",
-      "timestamp": "2026-01-19T17:53:17.676Z",
-      "ip": "94.204.241.103",
-      "username": "subhoghosh69"
-    },
-    {
-      "type": "movie",
-      "id": "tt1335975",
-      "title": "47 Ronin",
-      "timestamp": "2026-01-19T17:53:17.750Z",
-      "ip": "94.204.241.103",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt1335975",
@@ -84543,6 +84514,38 @@
       "timestamp": "2026-02-07T08:57:26.773Z",
       "ip": "182.77.74.249",
       "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
+      "timestamp": "2026-02-07T09:02:03.389Z",
+      "ip": "2402:3a80:4304:1b62:278:5634:1232:5476",
+      "username": "lazerkey"
+    },
+    {
+      "type": "movie",
+      "id": "tt0126029",
+      "title": "Shrek",
+      "timestamp": "2026-02-07T09:07:57.109Z",
+      "ip": "49.47.152.2",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt35099420",
+      "title": "tt35099420",
+      "timestamp": "2026-02-07T09:11:10.357Z",
+      "ip": "103.149.158.139",
+      "username": "babybloom1"
+    },
+    {
+      "type": "movie",
+      "id": "tt35099420",
+      "title": "tt35099420",
+      "timestamp": "2026-02-07T09:11:38.780Z",
+      "ip": "103.149.158.139",
+      "username": "babybloom1"
     }
   ],
   "activeNow": {
@@ -87856,6 +87859,27 @@
       "title": "tt39306333:1:1",
       "username": "vflix1993",
       "lastActive": 1770452180856
+    },
+    "2402:3a80:4304:1b62:278:5634:1232:5476": {
+      "type": "series",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
+      "username": "lazerkey",
+      "lastActive": 1770454923389
+    },
+    "49.47.152.2": {
+      "type": "movie",
+      "id": "tt0126029",
+      "title": "Shrek",
+      "username": "theonlyfreak",
+      "lastActive": 1770455277109
+    },
+    "103.149.158.139": {
+      "type": "movie",
+      "id": "tt35099420",
+      "title": "tt35099420",
+      "username": "babybloom1",
+      "lastActive": 1770455498780
     }
   }
 }
