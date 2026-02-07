@@ -1,5 +1,5 @@
 {
-  "totalViews": 21665,
+  "totalViews": 21666,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4561,14 +4561,6 @@
     "2404:3100:18a1:fc0f:5460:7aff:fe82:9723"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt9680440:1:4",
-      "title": "tt9680440:1:4",
-      "timestamp": "2026-01-19T19:41:11.440Z",
-      "ip": "2409:40e5:1e:a1eb:28d0:3fff:fe0d:7ba4",
-      "username": "cyberboy12321"
-    },
     {
       "type": "series",
       "id": "tt9680440:2:3",
@@ -84560,6 +84552,14 @@
       "timestamp": "2026-02-07T17:09:03.639Z",
       "ip": "139.5.196.103",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:2",
+      "title": "tt31844233:1:2",
+      "timestamp": "2026-02-07T17:29:02.940Z",
+      "ip": "103.181.65.86",
+      "username": "mutti9"
     }
   ],
   "activeNow": {
@@ -86819,10 +86819,10 @@
     },
     "103.181.65.86": {
       "type": "series",
-      "id": "tt31844233:1:1",
-      "title": "tt31844233:1:1",
+      "id": "tt31844233:1:2",
+      "title": "tt31844233:1:2",
       "username": "mutti9",
-      "lastActive": 1770484061922
+      "lastActive": 1770485342940
     },
     "2409:40e5:11e3:27e4:b891:5fff:fee8:7736": {
       "type": "series",
