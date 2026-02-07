@@ -1,5 +1,5 @@
 {
-  "totalViews": 21530,
+  "totalViews": 21532,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4532,25 +4532,10 @@
     "2409:40e5:200b:645:9890:cff:feb9:40e8",
     "2409:40e4:8:90a:d86a:c8ff:fe19:e266",
     "2409:40e0:104c:319a:8000::",
-    "2405:201:2022:b81c:fda9:30ad:3881:7d6e"
+    "2405:201:2022:b81c:fda9:30ad:3881:7d6e",
+    "2401:4900:8fe3:1191:6c29:f295:878e:f7d1"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt26439764",
-      "title": "tt26439764",
-      "timestamp": "2026-01-19T17:15:24.730Z",
-      "ip": "2405:201:2022:b81c:9057:1cb7:4595:3d97",
-      "username": "zealousninja"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:2",
-      "title": "Death Note",
-      "timestamp": "2026-01-19T17:16:03.501Z",
-      "ip": "106.222.216.167,2a09:bac5:37ac:26d2::3de:30",
-      "username": "anonymous_rare"
-    },
     {
       "type": "movie",
       "id": "tt26439764",
@@ -84534,6 +84519,22 @@
       "timestamp": "2026-02-07T02:41:02.491Z",
       "ip": "2405:201:2022:b81c:fda9:30ad:3881:7d6e",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:3",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-07T03:14:18.015Z",
+      "ip": "2401:4900:8fe3:1191:6c29:f295:878e:f7d1",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:4",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-07T03:15:03.643Z",
+      "ip": "2401:4900:8fe3:1191:6c29:f295:878e:f7d1",
+      "username": "ashwanileon"
     }
   ],
   "activeNow": {
@@ -87777,6 +87778,13 @@
       "title": "tt27431598",
       "username": "zealousninja",
       "lastActive": 1770432062491
+    },
+    "2401:4900:8fe3:1191:6c29:f295:878e:f7d1": {
+      "type": "series",
+      "id": "tt4574334:5:4",
+      "title": "Stranger Things",
+      "username": "ashwanileon",
+      "lastActive": 1770434103643
     }
   }
 }
