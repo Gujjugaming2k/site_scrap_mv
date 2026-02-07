@@ -1,5 +1,5 @@
 {
-  "totalViews": 21622,
+  "totalViews": 21625,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4549,33 +4549,10 @@
     "42.108.27.206",
     "2406:b400:1a:4888:41db:4229:c4e:4fc1",
     "2405:201:a001:21d8:a5a2:c104:c186:c90c",
-    "2409:40e4:131d:7bb4:c062:59ff:fea8:1e13"
+    "2409:40e4:131d:7bb4:c062:59ff:fea8:1e13",
+    "2409:40c0:e:f19c:bd85:55cb:6721:8830"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:1:9",
-      "title": "Lost",
-      "timestamp": "2026-01-19T18:20:07.563Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:1:10",
-      "title": "Lost",
-      "timestamp": "2026-01-19T18:20:23.161Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt23137904",
-      "title": "Rebel Moon - Part Two: The Scargiver",
-      "timestamp": "2026-01-19T18:20:34.272Z",
-      "ip": "150.107.212.194",
-      "username": "abelboby"
-    },
     {
       "type": "movie",
       "id": "tt31378509",
@@ -84551,6 +84528,30 @@
       "timestamp": "2026-02-07T12:44:49.400Z",
       "ip": "2409:40e4:131d:7bb4:c062:59ff:fea8:1e13",
       "username": "skssunilbh"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:8:1",
+      "title": "tt0460649:8:1",
+      "timestamp": "2026-02-07T13:10:15.900Z",
+      "ip": "2409:40c0:e:f19c:bd85:55cb:6721:8830",
+      "username": "anonymous050100"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:3:9",
+      "title": "Lost",
+      "timestamp": "2026-02-07T13:13:42.867Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:3:11",
+      "title": "Lost",
+      "timestamp": "2026-02-07T13:13:45.963Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -84941,10 +84942,10 @@
     },
     "116.68.74.75": {
       "type": "series",
-      "id": "tt0411008:3:10",
+      "id": "tt0411008:3:11",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1770466031975
+      "lastActive": 1770470025963
     },
     "2409:40e5:1046:7359:4852:fb48:776e:3d9d": {
       "type": "movie",
@@ -87920,6 +87921,13 @@
       "title": "tt23790696",
       "username": "skssunilbh",
       "lastActive": 1770468289400
+    },
+    "2409:40c0:e:f19c:bd85:55cb:6721:8830": {
+      "type": "series",
+      "id": "tt0460649:8:1",
+      "title": "tt0460649:8:1",
+      "username": "anonymous050100",
+      "lastActive": 1770469815900
     }
   }
 }
