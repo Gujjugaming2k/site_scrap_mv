@@ -1,5 +1,5 @@
 {
-  "totalViews": 21635,
+  "totalViews": 21639,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4555,38 +4555,6 @@
     "2402:8100:26e4:d367:ed94:382e:7bf1:3f77"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt28690468",
-      "title": "tt28690468",
-      "timestamp": "2026-01-19T18:22:33.122Z",
-      "ip": "205.254.185.113",
-      "username": "space_forca"
-    },
-    {
-      "type": "movie",
-      "id": "tt1757678",
-      "title": "tt1757678",
-      "timestamp": "2026-01-19T18:23:05.129Z",
-      "ip": "150.107.212.194",
-      "username": "abelboby"
-    },
-    {
-      "type": "movie",
-      "id": "tt22740896",
-      "title": "tt22740896",
-      "timestamp": "2026-01-19T18:23:20.030Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "series",
-      "id": "tt7671070:1:1",
-      "title": "tt7671070:1:1",
-      "timestamp": "2026-01-19T18:24:33.437Z",
-      "ip": "103.100.4.253",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt15911108",
@@ -84554,6 +84522,38 @@
       "timestamp": "2026-02-07T14:45:51.953Z",
       "ip": "2409:40e4:131d:7bb4:c062:59ff:fea8:1e13",
       "username": "skssunilbh"
+    },
+    {
+      "type": "movie",
+      "id": "tt33046197",
+      "title": "tt33046197",
+      "timestamp": "2026-02-07T15:12:12.968Z",
+      "ip": "139.135.35.56",
+      "username": "salman730"
+    },
+    {
+      "type": "movie",
+      "id": "tt27564844",
+      "title": "tt27564844",
+      "timestamp": "2026-02-07T15:12:19.496Z",
+      "ip": "139.135.35.56",
+      "username": "salman730"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-02-07T15:13:53.465Z",
+      "ip": "139.135.35.56",
+      "username": "salman730"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-02-07T15:14:16.284Z",
+      "ip": "2406:b400:1a:4888:a27:a8ff:fe42:855e",
+      "username": "nothingokk"
     }
   ],
   "activeNow": {
@@ -87072,10 +87072,10 @@
     },
     "2406:b400:1a:4888:a27:a8ff:fe42:855e": {
       "type": "movie",
-      "id": "tt29638896",
-      "title": "tt29638896",
+      "id": "tt23790696",
+      "title": "tt23790696",
       "username": "nothingokk",
-      "lastActive": 1770284001714
+      "lastActive": 1770477256284
     },
     "106.200.207.42": {
       "type": "movie",
@@ -87944,6 +87944,13 @@
       "title": "The Matrix",
       "username": "harshra9999",
       "lastActive": 1770472041865
+    },
+    "139.135.35.56": {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "username": "salman730",
+      "lastActive": 1770477233465
     }
   }
 }
