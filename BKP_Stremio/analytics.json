@@ -1,5 +1,5 @@
 {
-  "totalViews": 21704,
+  "totalViews": 21706,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4566,22 +4566,6 @@
     "2405:201:a001:21d8:f3:5eb2:9ca1:86f"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0412142:8:15",
-      "title": "tt0412142:8:15",
-      "timestamp": "2026-01-19T21:12:14.006Z",
-      "ip": "82.79.141.254",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0052451:1:2",
-      "title": "tt0052451:1:2",
-      "timestamp": "2026-01-19T21:21:19.684Z",
-      "ip": "170.246.157.173",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt2365946:1:8",
@@ -84565,6 +84549,22 @@
       "timestamp": "2026-02-07T18:59:48.576Z",
       "ip": "103.249.4.50",
       "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt0993846",
+      "title": "The Wolf of Wall Street",
+      "timestamp": "2026-02-07T19:01:25.174Z",
+      "ip": "202.88.248.12",
+      "username": "kiran"
+    },
+    {
+      "type": "movie",
+      "id": "tt32360696",
+      "title": "French Lover",
+      "timestamp": "2026-02-07T19:14:04.739Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -84916,7 +84916,7 @@
       "id": "tt32360696",
       "title": "French Lover",
       "username": "chetan_b2",
-      "lastActive": 1770489274233
+      "lastActive": 1770491644739
     },
     "157.48.83.94": {
       "type": "series",
@@ -85945,7 +85945,7 @@
       "id": "tt0993846",
       "title": "The Wolf of Wall Street",
       "username": "kiran",
-      "lastActive": 1770489995494
+      "lastActive": 1770490885174
     },
     "2409:40d4:408d:afd9:f45a:bd5c:872f:89e9": {
       "type": "movie",
