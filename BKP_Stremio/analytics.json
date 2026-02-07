@@ -1,5 +1,5 @@
 {
-  "totalViews": 21706,
+  "totalViews": 21707,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4566,14 +4566,6 @@
     "2405:201:a001:21d8:f3:5eb2:9ca1:86f"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2365946:1:8",
-      "title": "tt2365946:1:8",
-      "timestamp": "2026-01-19T21:42:37.832Z",
-      "ip": "2a06:c701:474f:e900:997a:184c:b52f:1d13",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt2365946:1:8",
@@ -84565,6 +84557,14 @@
       "timestamp": "2026-02-07T19:14:04.739Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt32360696",
+      "title": "French Lover",
+      "timestamp": "2026-02-07T19:21:55.421Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -84916,7 +84916,7 @@
       "id": "tt32360696",
       "title": "French Lover",
       "username": "chetan_b2",
-      "lastActive": 1770491644739
+      "lastActive": 1770492115421
     },
     "157.48.83.94": {
       "type": "series",
