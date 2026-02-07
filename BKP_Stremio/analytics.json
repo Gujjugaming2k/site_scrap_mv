@@ -1,5 +1,5 @@
 {
-  "totalViews": 21730,
+  "totalViews": 21731,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4569,14 +4569,6 @@
     "103.178.205.116"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0903747:5:6",
-      "title": "tt0903747:5:6",
-      "timestamp": "2026-01-20T00:35:59.892Z",
-      "ip": "182.69.183.164",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt0903747:5:7",
@@ -84568,6 +84560,14 @@
       "timestamp": "2026-02-07T21:17:26.027Z",
       "ip": "202.88.248.12",
       "username": "kiran"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-02-07T22:53:56.416Z",
+      "ip": "139.135.35.56",
+      "username": "salman730"
     }
   ],
   "activeNow": {
@@ -87960,11 +87960,11 @@
       "lastActive": 1770472041865
     },
     "139.135.35.56": {
-      "type": "series",
-      "id": "tt0478441:18:1",
-      "title": "tt0478441:18:1",
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
       "username": "salman730",
-      "lastActive": 1770488800596
+      "lastActive": 1770504836416
     },
     "2001:4490:4e65:5f53:dd9b:50e3:f78a:d3d": {
       "type": "movie",
