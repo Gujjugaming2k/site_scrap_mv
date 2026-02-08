@@ -1,5 +1,5 @@
 {
-  "totalViews": 21971,
+  "totalViews": 21974,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4605,33 +4605,10 @@
     "103.170.55.84",
     "2405:201:2022:b81c:e882:d263:9d47:f5f",
     "2409:40e4:1:b814:c876:d7ff:fee7:6fd3",
-    "152.58.189.204"
+    "152.58.189.204",
+    "2409:40e6:38:b04e:e41b:2cff:febb:5475"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12867810:1:5",
-      "title": "tt12867810:1:5",
-      "timestamp": "2026-01-20T08:53:56.148Z",
-      "ip": "2409:40c4:315c:dd35:8408:24ff:fed1:30b8",
-      "username": "napsteerr"
-    },
-    {
-      "type": "series",
-      "id": "tt12867810:1:6",
-      "title": "tt12867810:1:6",
-      "timestamp": "2026-01-20T08:54:13.423Z",
-      "ip": "2409:40c4:315c:dd35:8408:24ff:fed1:30b8",
-      "username": "napsteerr"
-    },
-    {
-      "type": "movie",
-      "id": "tt32135720",
-      "title": "tt32135720",
-      "timestamp": "2026-01-20T08:54:18.260Z",
-      "ip": "2401:4900:b4ef:8358:4dfd:9242:883a:6ddc",
-      "username": "rajeshbhattawari"
-    },
     {
       "type": "movie",
       "id": "tt9426210",
@@ -84607,6 +84584,30 @@
       "timestamp": "2026-02-08T16:30:34.940Z",
       "ip": "152.58.189.204",
       "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-08T16:37:26.826Z",
+      "ip": "2409:40e6:38:b04e:e41b:2cff:febb:5475",
+      "username": "n a b a."
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-08T16:37:50.845Z",
+      "ip": "2409:40e6:38:b04e:e41b:2cff:febb:5475",
+      "username": "n a b a."
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-08T16:43:03.786Z",
+      "ip": "2409:40e6:38:b04e:e41b:2cff:febb:5475",
+      "username": "n a b a."
     }
   ],
   "activeNow": {
@@ -88375,6 +88376,13 @@
       "title": "tt32237534:1:1",
       "username": "cyberboy12321",
       "lastActive": 1770568234940
+    },
+    "2409:40e6:38:b04e:e41b:2cff:febb:5475": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "n a b a.",
+      "lastActive": 1770568983786
     }
   }
 }
