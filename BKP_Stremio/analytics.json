@@ -1,5 +1,5 @@
 {
-  "totalViews": 22028,
+  "totalViews": 22030,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4614,25 +4614,10 @@
     "2401:4900:a9b9:90a8:7736:3a0b:72e0:c76a",
     "47.11.130.67",
     "2401:4900:88b8:32ba:a704:1035:ab06:5706",
-    "2409:40e5:11ef:b196:d88f:16ff:feb9:2876"
+    "2409:40e5:11ef:b196:d88f:16ff:feb9:2876",
+    "27.34.65.188"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0085011:1:1",
-      "title": "tt0085011:1:1",
-      "timestamp": "2026-01-20T09:48:32.286Z",
-      "ip": "103.175.9.17",
-      "username": "chouhanji007"
-    },
-    {
-      "type": "series",
-      "id": "tt0085011:1:1",
-      "title": "tt0085011:1:1",
-      "timestamp": "2026-01-20T09:48:33.316Z",
-      "ip": "103.175.9.17",
-      "username": "chouhanji007"
-    },
     {
       "type": "series",
       "id": "tt0085011:1:2",
@@ -84616,6 +84601,22 @@
       "timestamp": "2026-02-08T18:27:51.738Z",
       "ip": "2401:4900:88b8:32ba:7450:da6d:fed8:485d",
       "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt0108778:1:1",
+      "title": "tt0108778:1:1",
+      "timestamp": "2026-02-08T18:46:39.971Z",
+      "ip": "27.34.65.188",
+      "username": "frostqill"
+    },
+    {
+      "type": "series",
+      "id": "tt9544034:3:1",
+      "title": "tt9544034:3:1",
+      "timestamp": "2026-02-08T18:48:04.138Z",
+      "ip": "27.34.65.188",
+      "username": "frostqill"
     }
   ],
   "activeNow": {
@@ -88447,6 +88448,13 @@
       "title": "tt27497448:1:3",
       "username": "magicmannn",
       "lastActive": 1770575170955
+    },
+    "27.34.65.188": {
+      "type": "series",
+      "id": "tt9544034:3:1",
+      "title": "tt9544034:3:1",
+      "username": "frostqill",
+      "lastActive": 1770576484138
     }
   }
 }
