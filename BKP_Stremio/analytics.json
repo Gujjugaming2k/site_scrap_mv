@@ -1,5 +1,5 @@
 {
-  "totalViews": 21749,
+  "totalViews": 21753,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4571,38 +4571,6 @@
     "2401:4900:55ad:907f:5c09:a1ff:fe00:6598"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt10795658:3:2",
-      "title": "Alice in Borderland",
-      "timestamp": "2026-01-20T01:32:27.169Z",
-      "ip": "106.222.216.167,2a09:bac5:37a8:26d2::3de:2b",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt10795658:3:2",
-      "title": "Alice in Borderland",
-      "timestamp": "2026-01-20T01:32:32.665Z",
-      "ip": "106.222.216.167,2a09:bac5:37a8:26d2::3de:2b",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt10795658:3:3",
-      "title": "Alice in Borderland",
-      "timestamp": "2026-01-20T01:32:40.262Z",
-      "ip": "106.222.216.167,2a09:bac5:37a8:26d2::3de:2b",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt1300854",
-      "title": "Iron Man 3",
-      "timestamp": "2026-01-20T01:32:41.572Z",
-      "ip": "106.222.215.46",
-      "username": "b1jju"
-    },
     {
       "type": "series",
       "id": "tt35335046:1:2",
@@ -84570,6 +84538,38 @@
       "timestamp": "2026-02-08T03:32:20.317Z",
       "ip": "2401:4900:55ad:907f:5c09:a1ff:fe00:6598",
       "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt32360696",
+      "title": "French Lover",
+      "timestamp": "2026-02-08T03:41:56.931Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt1757678",
+      "title": "tt1757678",
+      "timestamp": "2026-02-08T03:43:10.805Z",
+      "ip": "2401:4900:55ad:907f:5c09:a1ff:fe00:6598",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt1757678",
+      "title": "tt1757678",
+      "timestamp": "2026-02-08T03:43:23.342Z",
+      "ip": "2401:4900:55ad:907f:5c09:a1ff:fe00:6598",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt0499549",
+      "title": "Avatar",
+      "timestamp": "2026-02-08T03:47:51.940Z",
+      "ip": "2401:4900:55ad:907f:5c09:a1ff:fe00:6598",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -84921,7 +84921,7 @@
       "id": "tt32360696",
       "title": "French Lover",
       "username": "chetan_b2",
-      "lastActive": 1770520281115
+      "lastActive": 1770522116931
     },
     "157.48.83.94": {
       "type": "series",
@@ -88075,10 +88075,10 @@
     },
     "2401:4900:55ad:907f:5c09:a1ff:fe00:6598": {
       "type": "movie",
-      "id": "tt30742355",
-      "title": "tt30742355",
+      "id": "tt0499549",
+      "title": "Avatar",
       "username": "b1jju",
-      "lastActive": 1770521540317
+      "lastActive": 1770522471940
     }
   }
 }
