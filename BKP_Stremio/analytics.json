@@ -1,5 +1,5 @@
 {
-  "totalViews": 21765,
+  "totalViews": 21767,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4568,25 +4568,10 @@
     "2405:201:202d:d014:3e17:fd30:c59a:2eaf",
     "103.178.205.116",
     "2a09:bac5:3af1:8b4::de:36",
-    "2401:4900:55ad:907f:5c09:a1ff:fe00:6598"
+    "2401:4900:55ad:907f:5c09:a1ff:fe00:6598",
+    "2409:40e4:2014:2f39:482f:35ff:fe4a:4804"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt10795658:3:3",
-      "title": "Alice in Borderland",
-      "timestamp": "2026-01-20T01:38:13.159Z",
-      "ip": "106.222.216.167,2a09:bac5:37a8:26d2::3de:2b",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt10795658:3:1",
-      "title": "Alice in Borderland",
-      "timestamp": "2026-01-20T01:38:20.874Z",
-      "ip": "106.222.216.167,2a09:bac5:37a8:26d2::3de:2b",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt10795658:3:2",
@@ -84570,6 +84555,22 @@
       "timestamp": "2026-02-08T04:43:49.076Z",
       "ip": "103.46.200.34",
       "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-02-08T05:07:04.323Z",
+      "ip": "2409:40e4:2014:2f39:482f:35ff:fe4a:4804",
+      "username": "skssunilbh"
+    },
+    {
+      "type": "movie",
+      "id": "tt2359810",
+      "title": "tt2359810",
+      "timestamp": "2026-02-08T05:08:53.432Z",
+      "ip": "2409:40e4:2014:2f39:482f:35ff:fe4a:4804",
+      "username": "skssunilbh"
     }
   ],
   "activeNow": {
@@ -88079,6 +88080,13 @@
       "title": "Avatar: The Way of Water",
       "username": "b1jju",
       "lastActive": 1770523461372
+    },
+    "2409:40e4:2014:2f39:482f:35ff:fe4a:4804": {
+      "type": "movie",
+      "id": "tt2359810",
+      "title": "tt2359810",
+      "username": "skssunilbh",
+      "lastActive": 1770527333432
     }
   }
 }
