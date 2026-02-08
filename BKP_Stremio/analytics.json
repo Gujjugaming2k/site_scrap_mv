@@ -1,5 +1,5 @@
 {
-  "totalViews": 21956,
+  "totalViews": 21957,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4603,14 +4603,6 @@
     "2405:201:a001:21d8:d465:61e:c3f3:4796"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt15387182",
-      "title": "tt15387182",
-      "timestamp": "2026-01-20T08:43:59.083Z",
-      "ip": "2401:4900:b4ef:8358:4dfd:9242:883a:6ddc",
-      "username": "rajeshbhattawari"
-    },
     {
       "type": "series",
       "id": "tt27497448:1:2",
@@ -84602,6 +84594,14 @@
       "timestamp": "2026-02-08T15:12:30.797Z",
       "ip": "103.181.65.86",
       "username": "mutti9"
+    },
+    {
+      "type": "movie",
+      "id": "tt6723592",
+      "title": "Tenet",
+      "timestamp": "2026-02-08T15:13:02.837Z",
+      "ip": "103.181.65.86",
+      "username": "mutti9"
     }
   ],
   "activeNow": {
@@ -86861,10 +86861,10 @@
     },
     "103.181.65.86": {
       "type": "movie",
-      "id": "tt14846026",
-      "title": "Sisu",
+      "id": "tt6723592",
+      "title": "Tenet",
       "username": "mutti9",
-      "lastActive": 1770563550797
+      "lastActive": 1770563582837
     },
     "2409:40e5:11e3:27e4:b891:5fff:fee8:7736": {
       "type": "series",
