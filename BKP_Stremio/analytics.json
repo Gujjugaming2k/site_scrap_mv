@@ -1,5 +1,5 @@
 {
-  "totalViews": 21857,
+  "totalViews": 21858,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4584,14 +4584,6 @@
     "49.37.219.33"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt28142095",
-      "title": "tt28142095",
-      "timestamp": "2026-01-20T04:56:31.962Z",
-      "ip": "182.77.75.100",
-      "username": "thebatmanbyte"
-    },
     {
       "type": "series",
       "id": "tt0305051:1:1",
@@ -84583,6 +84575,14 @@
       "timestamp": "2026-02-08T08:56:15.351Z",
       "ip": "49.37.219.33",
       "username": "execute28"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:6",
+      "title": "tt1399664:2:6",
+      "timestamp": "2026-02-08T09:16:44.139Z",
+      "ip": "2409:40d4:3108:6fc0:402d:f2ff:feb7:c1a3",
+      "username": "golu_vk"
     }
   ],
   "activeNow": {
@@ -88151,10 +88151,10 @@
     },
     "2409:40d4:3108:6fc0:402d:f2ff:feb7:c1a3": {
       "type": "series",
-      "id": "tt1399664:2:5",
-      "title": "tt1399664:2:5",
+      "id": "tt1399664:2:6",
+      "title": "tt1399664:2:6",
       "username": "golu_vk",
-      "lastActive": 1770539530019
+      "lastActive": 1770542204139
     },
     "2405:201:2033:841:d173:2cee:e962:cfe9": {
       "type": "movie",
