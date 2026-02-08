@@ -1,5 +1,5 @@
 {
-  "totalViews": 21887,
+  "totalViews": 21892,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4584,49 +4584,11 @@
     "49.37.219.33",
     "2a09:bac5:40b6:a82::10c:6b",
     "2409:40c1:25:b4b4:1c9f:d80a:8adc:465",
-    "110.227.50.100"
+    "110.227.50.100",
+    "223.185.16.35",
+    "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt8438524:2:1",
-      "title": "tt8438524:2:1",
-      "timestamp": "2026-01-20T05:40:31.362Z",
-      "ip": "223.233.73.211",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt8438524:2:2",
-      "title": "tt8438524:2:2",
-      "timestamp": "2026-01-20T05:41:09.059Z",
-      "ip": "223.233.73.211",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt8438524:2:4",
-      "title": "tt8438524:2:4",
-      "timestamp": "2026-01-20T05:41:15.422Z",
-      "ip": "223.233.73.211",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt8438524:2:3",
-      "title": "tt8438524:2:3",
-      "timestamp": "2026-01-20T05:41:25.895Z",
-      "ip": "223.233.73.211",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt8438524:2:5",
-      "title": "tt8438524:2:5",
-      "timestamp": "2026-01-20T05:41:44.317Z",
-      "ip": "223.233.73.211",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt8438524:2:6",
@@ -84586,6 +84548,46 @@
       "timestamp": "2026-02-08T10:30:58.798Z",
       "ip": "110.227.50.100",
       "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:2",
+      "title": "tt1399664:2:2",
+      "timestamp": "2026-02-08T10:34:42.961Z",
+      "ip": "223.185.16.35",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:2:1",
+      "title": "tt1399664:2:1",
+      "timestamp": "2026-02-08T10:34:43.058Z",
+      "ip": "223.185.16.35",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:4",
+      "title": "tt27497448:1:4",
+      "timestamp": "2026-02-08T10:39:36.020Z",
+      "ip": "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e",
+      "username": "adshoyi"
+    },
+    {
+      "type": "movie",
+      "id": "tt0073707",
+      "title": "tt0073707",
+      "timestamp": "2026-02-08T10:40:34.211Z",
+      "ip": "110.227.50.100",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt1630029",
+      "title": "Avatar: The Way of Water",
+      "timestamp": "2026-02-08T10:47:29.450Z",
+      "ip": "110.227.50.100",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -88203,10 +88205,24 @@
     },
     "110.227.50.100": {
       "type": "movie",
-      "id": "tt0073707",
-      "title": "tt0073707",
+      "id": "tt1630029",
+      "title": "Avatar: The Way of Water",
       "username": "b1jju",
-      "lastActive": 1770546658798
+      "lastActive": 1770547649450
+    },
+    "223.185.16.35": {
+      "type": "series",
+      "id": "tt1399664:2:1",
+      "title": "tt1399664:2:1",
+      "username": "golu_vk",
+      "lastActive": 1770546883058
+    },
+    "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e": {
+      "type": "series",
+      "id": "tt27497448:1:4",
+      "title": "tt27497448:1:4",
+      "username": "adshoyi",
+      "lastActive": 1770547176020
     }
   }
 }
