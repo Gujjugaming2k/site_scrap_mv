@@ -1,5 +1,5 @@
 {
-  "totalViews": 22015,
+  "totalViews": 22021,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4612,57 +4612,10 @@
     "103.172.203.86",
     "2401:4900:1ca9:17fd:48ee:9138:3231:a04d",
     "2401:4900:a9b9:90a8:7736:3a0b:72e0:c76a",
-    "47.11.130.67"
+    "47.11.130.67",
+    "2401:4900:88b8:32ba:a704:1035:ab06:5706"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1192169:1:2",
-      "title": "tt1192169:1:2",
-      "timestamp": "2026-01-20T09:45:37.482Z",
-      "ip": "103.170.53.195",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt1192169:1:2",
-      "title": "tt1192169:1:2",
-      "timestamp": "2026-01-20T09:45:49.985Z",
-      "ip": "103.170.53.195",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt1192169:1:3",
-      "title": "tt1192169:1:3",
-      "timestamp": "2026-01-20T09:45:52.919Z",
-      "ip": "103.170.53.195",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt1192169:1:3",
-      "title": "tt1192169:1:3",
-      "timestamp": "2026-01-20T09:46:01.748Z",
-      "ip": "103.170.53.195",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt1192169:1:4",
-      "title": "tt1192169:1:4",
-      "timestamp": "2026-01-20T09:46:08.234Z",
-      "ip": "103.170.53.195",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-01-20T09:46:51.485Z",
-      "ip": "2409:40e5:1d:add0:f3:cdff:fe55:5c46",
-      "username": "cyberboy12321"
-    },
     {
       "type": "series",
       "id": "tt1192169:1:4",
@@ -84614,6 +84567,54 @@
       "timestamp": "2026-02-08T18:04:24.334Z",
       "ip": "2401:4900:88b8:32ba:7450:da6d:fed8:485d",
       "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:1:4",
+      "title": "The Boys",
+      "timestamp": "2026-02-08T18:05:38.091Z",
+      "ip": "2401:4900:a9b9:90a8:7736:3a0b:72e0:c76a",
+      "username": "extremeyat"
+    },
+    {
+      "type": "movie",
+      "id": "tt1187043",
+      "title": "3 Idiots",
+      "timestamp": "2026-02-08T18:09:51.213Z",
+      "ip": "2401:4900:88b8:32ba:7450:da6d:fed8:485d",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-02-08T18:11:53.195Z",
+      "ip": "2401:4900:88b8:32ba:7450:da6d:fed8:485d",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:3",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-08T18:15:54.237Z",
+      "ip": "2401:4900:a9b9:90a8:7736:3a0b:72e0:c76a",
+      "username": "extremeyat"
+    },
+    {
+      "type": "movie",
+      "id": "tt35146696",
+      "title": "tt35146696",
+      "timestamp": "2026-02-08T18:16:24.023Z",
+      "ip": "2401:4900:88b8:32ba:a704:1035:ab06:5706",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-08T18:17:30.737Z",
+      "ip": "2401:4900:a9b9:90a8:7736:3a0b:72e0:c76a",
+      "username": "extremeyat"
     }
   ],
   "activeNow": {
@@ -88273,10 +88274,10 @@
     },
     "2401:4900:88b8:32ba:7450:da6d:fed8:485d": {
       "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "id": "tt23790696",
+      "title": "tt23790696",
       "username": "b1jju",
-      "lastActive": 1770573864334
+      "lastActive": 1770574313195
     },
     "115.98.232.18": {
       "type": "series",
@@ -88420,10 +88421,10 @@
     },
     "2401:4900:a9b9:90a8:7736:3a0b:72e0:c76a": {
       "type": "series",
-      "id": "tt1190634:1:4",
-      "title": "The Boys",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
       "username": "extremeyat",
-      "lastActive": 1770573843995
+      "lastActive": 1770574650737
     },
     "47.11.130.67": {
       "type": "movie",
@@ -88431,6 +88432,13 @@
       "title": "tt32141377",
       "username": "jinwoooooi",
       "lastActive": 1770573467863
+    },
+    "2401:4900:88b8:32ba:a704:1035:ab06:5706": {
+      "type": "movie",
+      "id": "tt35146696",
+      "title": "tt35146696",
+      "username": "b1jju",
+      "lastActive": 1770574584023
     }
   }
 }
