@@ -1,5 +1,5 @@
 {
-  "totalViews": 21901,
+  "totalViews": 21903,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4590,22 +4590,6 @@
     "157.48.97.1"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1190634:1:2",
-      "title": "The Boys",
-      "timestamp": "2026-01-20T06:06:12.075Z",
-      "ip": "27.60.5.97",
-      "username": "b1jju"
-    },
-    {
-      "type": "series",
-      "id": "tt1190634:1:2",
-      "title": "The Boys",
-      "timestamp": "2026-01-20T06:07:28.984Z",
-      "ip": "27.60.5.97",
-      "username": "b1jju"
-    },
     {
       "type": "series",
       "id": "tt1190634:4:1",
@@ -84589,6 +84573,22 @@
       "timestamp": "2026-02-08T11:29:30.513Z",
       "ip": "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e",
       "username": "adshoyi"
+    },
+    {
+      "type": "movie",
+      "id": "tt1239290",
+      "title": "tt1239290",
+      "timestamp": "2026-02-08T11:43:20.742Z",
+      "ip": "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e",
+      "username": "adshoyi"
+    },
+    {
+      "type": "movie",
+      "id": "tt0169547",
+      "title": "American Beauty",
+      "timestamp": "2026-02-08T11:49:52.354Z",
+      "ip": "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e",
+      "username": "adshoyi"
     }
   ],
   "activeNow": {
@@ -88220,10 +88220,10 @@
     },
     "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e": {
       "type": "movie",
-      "id": "tt0411323",
-      "title": "tt0411323",
+      "id": "tt0169547",
+      "title": "American Beauty",
       "username": "adshoyi",
-      "lastActive": 1770550170513
+      "lastActive": 1770551392354
     },
     "157.48.97.1": {
       "type": "series",
