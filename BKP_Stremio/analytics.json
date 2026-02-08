@@ -1,5 +1,5 @@
 {
-  "totalViews": 21744,
+  "totalViews": 21745,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4570,14 +4570,6 @@
     "2a09:bac5:3af1:8b4::de:36"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-20T01:30:09.602Z",
-      "ip": "106.222.216.167,2a09:bac5:37a8:26d2::3de:2b",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:2",
@@ -84569,6 +84561,14 @@
       "timestamp": "2026-02-08T02:43:35.014Z",
       "ip": "186.188.150.139",
       "username": "gary"
+    },
+    {
+      "type": "movie",
+      "id": "tt32360696",
+      "title": "French Lover",
+      "timestamp": "2026-02-08T03:11:21.115Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -84916,11 +84916,11 @@
       "lastActive": 1769877863483
     },
     "203.192.255.46": {
-      "type": "series",
-      "id": "tt12637874:2:7",
-      "title": "Fallout",
+      "type": "movie",
+      "id": "tt32360696",
+      "title": "French Lover",
       "username": "chetan_b2",
-      "lastActive": 1770497501587
+      "lastActive": 1770520281115
     },
     "157.48.83.94": {
       "type": "series",
