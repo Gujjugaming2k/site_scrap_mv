@@ -1,5 +1,5 @@
 {
-  "totalViews": 21892,
+  "totalViews": 21898,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4589,54 +4589,6 @@
     "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt8438524:2:6",
-      "title": "tt8438524:2:6",
-      "timestamp": "2026-01-20T05:41:52.049Z",
-      "ip": "223.233.73.211",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt8438524:2:7",
-      "title": "tt8438524:2:7",
-      "timestamp": "2026-01-20T05:41:58.944Z",
-      "ip": "223.233.73.211",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt8438524:2:8",
-      "title": "tt8438524:2:8",
-      "timestamp": "2026-01-20T05:42:06.201Z",
-      "ip": "223.233.73.211",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt8438524:2:9",
-      "title": "tt8438524:2:9",
-      "timestamp": "2026-01-20T05:42:13.655Z",
-      "ip": "223.233.73.211",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt8438524:2:10",
-      "title": "tt8438524:2:10",
-      "timestamp": "2026-01-20T05:42:49.196Z",
-      "ip": "223.233.73.211",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0995031",
-      "title": "tt0995031",
-      "timestamp": "2026-01-20T05:43:52.950Z",
-      "ip": "71.179.184.52",
-      "username": "anupambabu_97"
-    },
     {
       "type": "movie",
       "id": "tt28551273",
@@ -84588,6 +84540,54 @@
       "timestamp": "2026-02-08T10:47:29.450Z",
       "ip": "110.227.50.100",
       "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt1630029",
+      "title": "Avatar: The Way of Water",
+      "timestamp": "2026-02-08T10:59:43.327Z",
+      "ip": "110.227.50.100",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-02-08T11:01:09.719Z",
+      "ip": "110.227.50.100",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:3:13",
+      "title": "Lost",
+      "timestamp": "2026-02-08T11:02:43.249Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:3:13",
+      "title": "Lost",
+      "timestamp": "2026-02-08T11:02:52.875Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:3:16",
+      "title": "Lost",
+      "timestamp": "2026-02-08T11:03:03.190Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:3:17",
+      "title": "Lost",
+      "timestamp": "2026-02-08T11:04:01.676Z",
+      "ip": "116.68.74.75",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -84978,10 +84978,10 @@
     },
     "116.68.74.75": {
       "type": "series",
-      "id": "tt0411008:3:16",
+      "id": "tt0411008:3:17",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1770535525139
+      "lastActive": 1770548641676
     },
     "2409:40e5:1046:7359:4852:fb48:776e:3d9d": {
       "type": "movie",
@@ -88205,10 +88205,10 @@
     },
     "110.227.50.100": {
       "type": "movie",
-      "id": "tt1630029",
-      "title": "Avatar: The Way of Water",
+      "id": "tt23790696",
+      "title": "tt23790696",
       "username": "b1jju",
-      "lastActive": 1770547649450
+      "lastActive": 1770548469719
     },
     "223.185.16.35": {
       "type": "series",
