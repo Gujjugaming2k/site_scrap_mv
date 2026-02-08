@@ -1,5 +1,5 @@
 {
-  "totalViews": 21884,
+  "totalViews": 21887,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4583,33 +4583,10 @@
     "2401:4900:8826:ff71:5145:ddbf:54be:2f21",
     "49.37.219.33",
     "2a09:bac5:40b6:a82::10c:6b",
-    "2409:40c1:25:b4b4:1c9f:d80a:8adc:465"
+    "2409:40c1:25:b4b4:1c9f:d80a:8adc:465",
+    "110.227.50.100"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt22202452:1:5",
-      "title": "tt22202452:1:5",
-      "timestamp": "2026-01-20T05:35:04.426Z",
-      "ip": "2604:3d09:d7f:1600:4125:1d66:8607:dbea",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1190634:1:1",
-      "title": "The Boys",
-      "timestamp": "2026-01-20T05:35:12.912Z",
-      "ip": "27.60.5.97",
-      "username": "b1jju"
-    },
-    {
-      "type": "series",
-      "id": "tt22202452:1:6",
-      "title": "tt22202452:1:6",
-      "timestamp": "2026-01-20T05:36:37.313Z",
-      "ip": "2604:3d09:d7f:1600:4125:1d66:8607:dbea",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt8438524:2:1",
@@ -84585,6 +84562,30 @@
       "timestamp": "2026-02-08T10:17:46.558Z",
       "ip": "103.46.200.34",
       "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt0073707",
+      "title": "tt0073707",
+      "timestamp": "2026-02-08T10:24:10.056Z",
+      "ip": "2409:40c4:e8:b6ff:1c28:72ff:fe7d:f7ae",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt0073707",
+      "title": "tt0073707",
+      "timestamp": "2026-02-08T10:24:14.134Z",
+      "ip": "2409:40c4:e8:b6ff:1c28:72ff:fe7d:f7ae",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt0073707",
+      "title": "tt0073707",
+      "timestamp": "2026-02-08T10:30:58.798Z",
+      "ip": "110.227.50.100",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -88128,7 +88129,7 @@
       "id": "tt0073707",
       "title": "tt0073707",
       "username": "b1jju",
-      "lastActive": 1770531494855
+      "lastActive": 1770546254134
     },
     "2409:40e5:1016:cf42:b843:db93:6375:26a1": {
       "type": "series",
@@ -88199,6 +88200,13 @@
       "title": "tt33046197",
       "username": "zealousninja",
       "lastActive": 1770545548218
+    },
+    "110.227.50.100": {
+      "type": "movie",
+      "id": "tt0073707",
+      "title": "tt0073707",
+      "username": "b1jju",
+      "lastActive": 1770546658798
     }
   }
 }
