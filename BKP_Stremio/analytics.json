@@ -1,5 +1,5 @@
 {
-  "totalViews": 21910,
+  "totalViews": 21911,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4589,17 +4589,10 @@
     "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e",
     "157.48.97.1",
     "157.97.134.135",
-    "2409:40e0:1040:3029:906c:fb1b:838d:b240"
+    "2409:40e0:1040:3029:906c:fb1b:838d:b240",
+    "2401:4900:88b8:32ba:7450:da6d:fed8:485d"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32141377",
-      "title": "tt32141377",
-      "timestamp": "2026-01-20T06:55:10.568Z",
-      "ip": "2a09:bac5:3af5:1a8c::2a5:e6",
-      "username": "switchoff009"
-    },
     {
       "type": "movie",
       "id": "tt1312221",
@@ -84591,6 +84584,14 @@
       "timestamp": "2026-02-08T13:20:28.617Z",
       "ip": "116.68.74.75",
       "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-02-08T13:40:14.854Z",
+      "ip": "2401:4900:88b8:32ba:7450:da6d:fed8:485d",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -88247,6 +88248,13 @@
       "title": "Interstellar",
       "username": "nobody_ismy_name",
       "lastActive": 1770553469590
+    },
+    "2401:4900:88b8:32ba:7450:da6d:fed8:485d": {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "username": "b1jju",
+      "lastActive": 1770558014854
     }
   }
 }
