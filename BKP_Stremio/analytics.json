@@ -1,5 +1,5 @@
 {
-  "totalViews": 21974,
+  "totalViews": 21976,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4606,25 +4606,11 @@
     "2405:201:2022:b81c:e882:d263:9d47:f5f",
     "2409:40e4:1:b814:c876:d7ff:fee7:6fd3",
     "152.58.189.204",
-    "2409:40e6:38:b04e:e41b:2cff:febb:5475"
+    "2409:40e6:38:b04e:e41b:2cff:febb:5475",
+    "2603:3003:3544:6700:4b0f:6e7b:9c90:65d0",
+    "2401:4900:8826:ff71:c59:320f:d6c8:914e"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt9426210",
-      "title": "Weathering with You",
-      "timestamp": "2026-01-20T08:54:42.607Z",
-      "ip": "2401:4900:b4ef:8358:4dfd:9242:883a:6ddc",
-      "username": "rajeshbhattawari"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:2",
-      "title": "tt35335046:1:2",
-      "timestamp": "2026-01-20T08:54:46.484Z",
-      "ip": "115.98.99.86",
-      "username": "nothing_8888"
-    },
     {
       "type": "movie",
       "id": "tt32135720",
@@ -84608,6 +84594,22 @@
       "timestamp": "2026-02-08T16:43:03.786Z",
       "ip": "2409:40e6:38:b04e:e41b:2cff:febb:5475",
       "username": "n a b a."
+    },
+    {
+      "type": "movie",
+      "id": "tt35099420",
+      "title": "tt35099420",
+      "timestamp": "2026-02-08T17:03:44.225Z",
+      "ip": "2603:3003:3544:6700:4b0f:6e7b:9c90:65d0",
+      "username": "anupambabu_97"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:19",
+      "title": "tt6354518:2:19",
+      "timestamp": "2026-02-08T17:16:35.774Z",
+      "ip": "2401:4900:8826:ff71:c59:320f:d6c8:914e",
+      "username": "sinbad1722"
     }
   ],
   "activeNow": {
@@ -88383,6 +88385,20 @@
       "title": "tt31227572",
       "username": "n a b a.",
       "lastActive": 1770568983786
+    },
+    "2603:3003:3544:6700:4b0f:6e7b:9c90:65d0": {
+      "type": "movie",
+      "id": "tt35099420",
+      "title": "tt35099420",
+      "username": "anupambabu_97",
+      "lastActive": 1770570224225
+    },
+    "2401:4900:8826:ff71:c59:320f:d6c8:914e": {
+      "type": "series",
+      "id": "tt6354518:2:19",
+      "title": "tt6354518:2:19",
+      "username": "sinbad1722",
+      "lastActive": 1770570995774
     }
   }
 }
