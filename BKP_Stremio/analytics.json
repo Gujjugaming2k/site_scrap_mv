@@ -1,5 +1,5 @@
 {
-  "totalViews": 21899,
+  "totalViews": 21901,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4586,25 +4586,10 @@
     "2409:40c1:25:b4b4:1c9f:d80a:8adc:465",
     "110.227.50.100",
     "223.185.16.35",
-    "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e"
+    "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e",
+    "157.48.97.1"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0111161",
-      "title": "The Shawshank Redemption",
-      "timestamp": "2026-01-20T05:55:48.090Z",
-      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt0111161",
-      "title": "The Shawshank Redemption",
-      "timestamp": "2026-01-20T05:55:48.174Z",
-      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
-      "username": "nabakun24"
-    },
     {
       "type": "series",
       "id": "tt1190634:1:2",
@@ -84588,6 +84573,22 @@
       "timestamp": "2026-02-08T11:05:32.699Z",
       "ip": "110.227.50.100",
       "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:2:1",
+      "title": "tt19854762:2:1",
+      "timestamp": "2026-02-08T11:26:39.647Z",
+      "ip": "157.48.97.1",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt0411323",
+      "title": "tt0411323",
+      "timestamp": "2026-02-08T11:29:30.513Z",
+      "ip": "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e",
+      "username": "adshoyi"
     }
   ],
   "activeNow": {
@@ -88218,11 +88219,18 @@
       "lastActive": 1770546883058
     },
     "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e": {
-      "type": "series",
-      "id": "tt27497448:1:4",
-      "title": "tt27497448:1:4",
+      "type": "movie",
+      "id": "tt0411323",
+      "title": "tt0411323",
       "username": "adshoyi",
-      "lastActive": 1770547176020
+      "lastActive": 1770550170513
+    },
+    "157.48.97.1": {
+      "type": "series",
+      "id": "tt19854762:2:1",
+      "title": "tt19854762:2:1",
+      "username": "golu_vk",
+      "lastActive": 1770549999647
     }
   }
 }
