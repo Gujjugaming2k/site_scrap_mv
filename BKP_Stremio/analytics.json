@@ -1,5 +1,5 @@
 {
-  "totalViews": 21903,
+  "totalViews": 21906,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4587,33 +4587,10 @@
     "110.227.50.100",
     "223.185.16.35",
     "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e",
-    "157.48.97.1"
+    "157.48.97.1",
+    "157.97.134.135"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1190634:4:1",
-      "title": "The Boys",
-      "timestamp": "2026-01-20T06:08:35.007Z",
-      "ip": "27.60.5.97",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt0111161",
-      "title": "The Shawshank Redemption",
-      "timestamp": "2026-01-20T06:13:50.065Z",
-      "ip": "27.60.5.97",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt6217926",
-      "title": "tt6217926",
-      "timestamp": "2026-01-20T06:23:36.543Z",
-      "ip": "2806:2a0:1224:80d3:3953:f322:d46f:2374",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt0111161",
@@ -84589,6 +84566,30 @@
       "timestamp": "2026-02-08T11:49:52.354Z",
       "ip": "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e",
       "username": "adshoyi"
+    },
+    {
+      "type": "movie",
+      "id": "tt0069311",
+      "title": "tt0069311",
+      "timestamp": "2026-02-08T12:01:24.955Z",
+      "ip": "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e",
+      "username": "adshoyi"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-02-08T12:07:14.330Z",
+      "ip": "157.97.134.135",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt35146696",
+      "title": "tt35146696",
+      "timestamp": "2026-02-08T12:08:20.057Z",
+      "ip": "157.97.134.135",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -88220,10 +88221,10 @@
     },
     "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e": {
       "type": "movie",
-      "id": "tt0169547",
-      "title": "American Beauty",
+      "id": "tt0069311",
+      "title": "tt0069311",
       "username": "adshoyi",
-      "lastActive": 1770551392354
+      "lastActive": 1770552084955
     },
     "157.48.97.1": {
       "type": "series",
@@ -88231,6 +88232,13 @@
       "title": "tt19854762:2:1",
       "username": "golu_vk",
       "lastActive": 1770549999647
+    },
+    "157.97.134.135": {
+      "type": "movie",
+      "id": "tt35146696",
+      "title": "tt35146696",
+      "username": "b1jju",
+      "lastActive": 1770552500057
     }
   }
 }
