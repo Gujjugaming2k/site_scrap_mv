@@ -1,5 +1,5 @@
 {
-  "totalViews": 21967,
+  "totalViews": 21971,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4603,41 +4603,11 @@
     "2405:201:a001:21d8:d465:61e:c3f3:4796",
     "2409:40e4:1084:f8b3:9c35:b86d:8b71:225e",
     "103.170.55.84",
-    "2405:201:2022:b81c:e882:d263:9d47:f5f"
+    "2405:201:2022:b81c:e882:d263:9d47:f5f",
+    "2409:40e4:1:b814:c876:d7ff:fee7:6fd3",
+    "152.58.189.204"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt10233448:1:4",
-      "title": "Vinland Saga",
-      "timestamp": "2026-01-20T08:48:13.107Z",
-      "ip": "2401:4900:8fdf:ba99:1996:8ba8:dfb7:28cb",
-      "username": "arjun2077"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:2",
-      "title": "tt35335046:1:2",
-      "timestamp": "2026-01-20T08:51:39.211Z",
-      "ip": "115.98.99.86",
-      "username": "nothing_8888"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-20T08:51:51.763Z",
-      "ip": "2401:4900:b4ef:8358:4dfd:9242:883a:6ddc",
-      "username": "rajeshbhattawari"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:2",
-      "title": "tt35335046:1:2",
-      "timestamp": "2026-01-20T08:51:54.684Z",
-      "ip": "115.98.99.86",
-      "username": "nothing_8888"
-    },
     {
       "type": "series",
       "id": "tt12867810:1:5",
@@ -84605,6 +84575,38 @@
       "timestamp": "2026-02-08T16:15:15.245Z",
       "ip": "103.175.168.106",
       "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:5",
+      "title": "tt27497448:1:5",
+      "timestamp": "2026-02-08T16:17:53.328Z",
+      "ip": "2409:40e4:1:b814:c876:d7ff:fee7:6fd3",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt32237534:1:1",
+      "title": "tt32237534:1:1",
+      "timestamp": "2026-02-08T16:22:50.437Z",
+      "ip": "152.58.189.204",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt32237534:1:1",
+      "title": "tt32237534:1:1",
+      "timestamp": "2026-02-08T16:28:05.622Z",
+      "ip": "152.58.189.204",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt32237534:1:1",
+      "title": "tt32237534:1:1",
+      "timestamp": "2026-02-08T16:30:34.940Z",
+      "ip": "152.58.189.204",
+      "username": "cyberboy12321"
     }
   ],
   "activeNow": {
@@ -88359,6 +88361,20 @@
       "title": "tt33046197",
       "username": "zealousninja",
       "lastActive": 1770567047917
+    },
+    "2409:40e4:1:b814:c876:d7ff:fee7:6fd3": {
+      "type": "series",
+      "id": "tt27497448:1:5",
+      "title": "tt27497448:1:5",
+      "username": "cyberboy12321",
+      "lastActive": 1770567473328
+    },
+    "152.58.189.204": {
+      "type": "series",
+      "id": "tt32237534:1:1",
+      "title": "tt32237534:1:1",
+      "username": "cyberboy12321",
+      "lastActive": 1770568234940
     }
   }
 }
