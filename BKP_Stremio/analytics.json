@@ -1,5 +1,5 @@
 {
-  "totalViews": 21771,
+  "totalViews": 21775,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4569,41 +4569,11 @@
     "103.178.205.116",
     "2a09:bac5:3af1:8b4::de:36",
     "2401:4900:55ad:907f:5c09:a1ff:fe00:6598",
-    "2409:40e4:2014:2f39:482f:35ff:fe4a:4804"
+    "2409:40e4:2014:2f39:482f:35ff:fe4a:4804",
+    "2409:40d2:3005:4f1e:da38:1dda:ec02:6b6",
+    "2401:4900:8ffd:b77f:1ab0:8e76:4278:336"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt10795658:3:4",
-      "title": "Alice in Borderland",
-      "timestamp": "2026-01-20T01:38:27.370Z",
-      "ip": "106.222.216.167,2a09:bac5:37a8:26d2::3de:2b",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt10795658:3:1",
-      "title": "Alice in Borderland",
-      "timestamp": "2026-01-20T01:38:54.407Z",
-      "ip": "106.222.216.167,2a09:bac5:37a8:26d2::3de:2b",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt10795658:3:2",
-      "title": "Alice in Borderland",
-      "timestamp": "2026-01-20T01:39:03.159Z",
-      "ip": "106.222.216.167,2a09:bac5:37a8:26d2::3de:2b",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt1216496",
-      "title": "tt1216496",
-      "timestamp": "2026-01-20T01:39:57.547Z",
-      "ip": "106.222.216.167,2a09:bac5:37a8:26d2::3de:2b",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt0460649:3:13",
@@ -84571,6 +84541,38 @@
       "timestamp": "2026-02-08T05:30:21.976Z",
       "ip": "49.37.117.145",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-08T05:40:49.692Z",
+      "ip": "2409:40d2:3005:4f1e:da38:1dda:ec02:6b6",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-02-08T05:45:14.612Z",
+      "ip": "2409:40d2:3005:4f1e:da38:1dda:ec02:6b6",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt13146488:2:1",
+      "title": "Peacemaker",
+      "timestamp": "2026-02-08T05:47:58.793Z",
+      "ip": "2409:40d2:3005:4f1e:da38:1dda:ec02:6b6",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
+      "timestamp": "2026-02-08T05:51:49.579Z",
+      "ip": "2401:4900:8ffd:b77f:1ab0:8e76:4278:336",
+      "username": "lazerkey"
     }
   ],
   "activeNow": {
@@ -88087,6 +88089,20 @@
       "title": "tt35727678",
       "username": "skssunilbh",
       "lastActive": 1770527988274
+    },
+    "2409:40d2:3005:4f1e:da38:1dda:ec02:6b6": {
+      "type": "series",
+      "id": "tt13146488:2:1",
+      "title": "Peacemaker",
+      "username": "saurabhkaperwan",
+      "lastActive": 1770529678793
+    },
+    "2401:4900:8ffd:b77f:1ab0:8e76:4278:336": {
+      "type": "series",
+      "id": "tt35335046:1:7",
+      "title": "tt35335046:1:7",
+      "username": "lazerkey",
+      "lastActive": 1770529909579
     }
   }
 }
