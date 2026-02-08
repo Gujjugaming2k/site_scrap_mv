@@ -1,5 +1,5 @@
 {
-  "totalViews": 21957,
+  "totalViews": 21959,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4600,25 +4600,10 @@
     "122.162.186.92",
     "202.173.124.242",
     "2409:40e0:3a:f836:906c:fb1b:838d:b240",
-    "2405:201:a001:21d8:d465:61e:c3f3:4796"
+    "2405:201:a001:21d8:d465:61e:c3f3:4796",
+    "2409:40e4:1084:f8b3:9c35:b86d:8b71:225e"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27497448:1:2",
-      "title": "tt27497448:1:2",
-      "timestamp": "2026-01-20T08:44:28.973Z",
-      "ip": "45.118.158.143",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt32820897",
-      "title": "tt32820897",
-      "timestamp": "2026-01-20T08:44:36.516Z",
-      "ip": "181.197.11.6",
-      "username": "ymcine"
-    },
     {
       "type": "movie",
       "id": "tt32820897",
@@ -84602,6 +84587,22 @@
       "timestamp": "2026-02-08T15:13:02.837Z",
       "ip": "103.181.65.86",
       "username": "mutti9"
+    },
+    {
+      "type": "movie",
+      "id": "tt0266543",
+      "title": "Finding Nemo",
+      "timestamp": "2026-02-08T15:39:45.008Z",
+      "ip": "2409:40e4:1084:f8b3:9c35:b86d:8b71:225e",
+      "username": "adshoyi"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:2",
+      "title": "tt14186672:2:2",
+      "timestamp": "2026-02-08T15:41:04.753Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -84953,7 +84954,7 @@
       "id": "tt14186672:2:2",
       "title": "tt14186672:2:2",
       "username": "chetan_b2",
-      "lastActive": 1770562490899
+      "lastActive": 1770565264753
     },
     "157.48.83.94": {
       "type": "series",
@@ -88335,6 +88336,13 @@
       "title": "tt8178634",
       "username": "william097",
       "lastActive": 1770561880047
+    },
+    "2409:40e4:1084:f8b3:9c35:b86d:8b71:225e": {
+      "type": "movie",
+      "id": "tt0266543",
+      "title": "Finding Nemo",
+      "username": "adshoyi",
+      "lastActive": 1770565185008
     }
   }
 }
