@@ -1,5 +1,5 @@
 {
-  "totalViews": 21738,
+  "totalViews": 21739,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4570,14 +4570,6 @@
     "2a09:bac5:3af1:8b4::de:36"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-20T01:28:02.668Z",
-      "ip": "106.222.216.167,2a09:bac5:37a8:26d2::3de:2b",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:2",
@@ -84569,6 +84561,14 @@
       "timestamp": "2026-02-08T00:48:18.711Z",
       "ip": "2a09:bac5:3af1:8b4::de:36",
       "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-02-08T02:15:48.633Z",
+      "ip": "27.6.92.204",
+      "username": "nothing_8888"
     }
   ],
   "activeNow": {
@@ -85525,11 +85525,11 @@
       "lastActive": 1769994754071
     },
     "27.6.92.204": {
-      "type": "series",
-      "id": "tt0388629:22:43",
-      "title": "tt0388629:22:43",
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
       "username": "nothing_8888",
-      "lastActive": 1770460177573
+      "lastActive": 1770516948633
     },
     "2a09:bac5:40b4:1a96::2a6:20": {
       "type": "movie",
