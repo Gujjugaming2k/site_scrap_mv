@@ -1,5 +1,5 @@
 {
-  "totalViews": 21907,
+  "totalViews": 21908,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4592,14 +4592,6 @@
     "2409:40e0:1040:3029:906c:fb1b:838d:b240"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt2055709",
-      "title": "tt2055709",
-      "timestamp": "2026-01-20T06:49:10.752Z",
-      "ip": "115.187.50.135",
-      "username": "william097"
-    },
     {
       "type": "movie",
       "id": "tt7115904",
@@ -84591,6 +84583,14 @@
       "timestamp": "2026-02-08T12:24:29.590Z",
       "ip": "2409:40e0:1040:3029:906c:fb1b:838d:b240",
       "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt4777008",
+      "title": "Maleficent: Mistress of Evil",
+      "timestamp": "2026-02-08T12:57:27.592Z",
+      "ip": "45.118.158.239",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -88152,10 +88152,10 @@
     },
     "45.118.158.239": {
       "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
+      "id": "tt4777008",
+      "title": "Maleficent: Mistress of Evil",
       "username": "gaendaswami",
-      "lastActive": 1770539426681
+      "lastActive": 1770555447592
     },
     "2409:40d4:3108:6fc0:402d:f2ff:feb7:c1a3": {
       "type": "series",
