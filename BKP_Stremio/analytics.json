@@ -1,5 +1,5 @@
 {
-  "totalViews": 21770,
+  "totalViews": 21771,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4572,14 +4572,6 @@
     "2409:40e4:2014:2f39:482f:35ff:fe4a:4804"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt10795658:3:3",
-      "title": "Alice in Borderland",
-      "timestamp": "2026-01-20T01:38:26.514Z",
-      "ip": "106.222.216.167,2a09:bac5:37a8:26d2::3de:2b",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt10795658:3:4",
@@ -84571,6 +84563,14 @@
       "timestamp": "2026-02-08T05:19:48.274Z",
       "ip": "2409:40e4:2014:2f39:482f:35ff:fe4a:4804",
       "username": "skssunilbh"
+    },
+    {
+      "type": "movie",
+      "id": "tt8178634",
+      "title": "tt8178634",
+      "timestamp": "2026-02-08T05:30:21.976Z",
+      "ip": "49.37.117.145",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -87011,11 +87011,11 @@
       "lastActive": 1770275475845
     },
     "49.37.117.145": {
-      "type": "series",
-      "id": "tt9253866:1:6",
-      "title": "tt9253866:1:6",
+      "type": "movie",
+      "id": "tt8178634",
+      "title": "tt8178634",
       "username": "william097",
-      "lastActive": 1770527614986
+      "lastActive": 1770528621976
     },
     "2401:4900:1f29:9d85:20a6:268a:1d14:488b": {
       "type": "movie",
