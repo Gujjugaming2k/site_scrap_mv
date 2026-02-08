@@ -1,5 +1,5 @@
 {
-  "totalViews": 22030,
+  "totalViews": 22034,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4615,41 +4615,11 @@
     "47.11.130.67",
     "2401:4900:88b8:32ba:a704:1035:ab06:5706",
     "2409:40e5:11ef:b196:d88f:16ff:feb9:2876",
-    "27.34.65.188"
+    "27.34.65.188",
+    "103.83.128.80",
+    "152.58.168.60"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0085011:1:2",
-      "title": "tt0085011:1:2",
-      "timestamp": "2026-01-20T09:48:40.237Z",
-      "ip": "103.175.9.17",
-      "username": "chouhanji007"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:3:2",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-20T09:51:41.412Z",
-      "ip": "2405:201:900f:a92b:a90b:ff4b:77e:360f",
-      "username": "theonlyfreak"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:3:3",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-20T09:53:49.523Z",
-      "ip": "2405:201:900f:a92b:a90b:ff4b:77e:360f",
-      "username": "theonlyfreak"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:3:3",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-20T09:55:56.644Z",
-      "ip": "2405:201:900f:a92b:a90b:ff4b:77e:360f",
-      "username": "theonlyfreak"
-    },
     {
       "type": "movie",
       "id": "tt9362722",
@@ -84617,6 +84587,38 @@
       "timestamp": "2026-02-08T18:48:04.138Z",
       "ip": "27.34.65.188",
       "username": "frostqill"
+    },
+    {
+      "type": "movie",
+      "id": "tt8983202",
+      "title": "tt8983202",
+      "timestamp": "2026-02-08T19:07:30.548Z",
+      "ip": "182.77.74.249",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt8983202",
+      "title": "tt8983202",
+      "timestamp": "2026-02-08T19:08:08.558Z",
+      "ip": "182.77.74.249",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt9398466:3:1",
+      "title": "tt9398466:3:1",
+      "timestamp": "2026-02-08T19:12:03.013Z",
+      "ip": "103.83.128.80",
+      "username": "xlr8boiiii"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-02-08T19:14:24.294Z",
+      "ip": "152.58.168.60",
+      "username": "n a b a."
     }
   ],
   "activeNow": {
@@ -87596,11 +87598,11 @@
       "lastActive": 1770572165522
     },
     "182.77.74.249": {
-      "type": "series",
-      "id": "tt18923754:1:1",
-      "title": "tt18923754:1:1",
+      "type": "movie",
+      "id": "tt8983202",
+      "title": "tt8983202",
       "username": "theaceofficials",
-      "lastActive": 1770460757121
+      "lastActive": 1770577688558
     },
     "2406:b400:1a:4888:fc4c:a4ee:2324:5b2a": {
       "type": "movie",
@@ -88455,6 +88457,20 @@
       "title": "tt9544034:3:1",
       "username": "frostqill",
       "lastActive": 1770576484138
+    },
+    "103.83.128.80": {
+      "type": "series",
+      "id": "tt9398466:3:1",
+      "title": "tt9398466:3:1",
+      "username": "xlr8boiiii",
+      "lastActive": 1770577923013
+    },
+    "152.58.168.60": {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "username": "n a b a.",
+      "lastActive": 1770578064294
     }
   }
 }
