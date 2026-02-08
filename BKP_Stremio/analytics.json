@@ -1,5 +1,5 @@
 {
-  "totalViews": 21852,
+  "totalViews": 21857,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4580,49 +4580,10 @@
     "2409:40d4:3108:6fc0:402d:f2ff:feb7:c1a3",
     "2405:201:2033:841:d173:2cee:e962:cfe9",
     "2405:201:900f:a92b:bd9d:c34c:bae4:29ee",
-    "2401:4900:8826:ff71:5145:ddbf:54be:2f21"
+    "2401:4900:8826:ff71:5145:ddbf:54be:2f21",
+    "49.37.219.33"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30476518",
-      "title": "Big World",
-      "timestamp": "2026-01-20T04:48:40.499Z",
-      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt30476518",
-      "title": "Big World",
-      "timestamp": "2026-01-20T04:50:51.245Z",
-      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt30476518",
-      "title": "Big World",
-      "timestamp": "2026-01-20T04:50:51.368Z",
-      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt30476518",
-      "title": "Big World",
-      "timestamp": "2026-01-20T04:55:45.695Z",
-      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt30476518",
-      "title": "Big World",
-      "timestamp": "2026-01-20T04:55:45.811Z",
-      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
-      "username": "nabakun24"
-    },
     {
       "type": "movie",
       "id": "tt28142095",
@@ -84582,6 +84543,46 @@
       "timestamp": "2026-02-08T08:32:10.019Z",
       "ip": "2409:40d4:3108:6fc0:402d:f2ff:feb7:c1a3",
       "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt31924802:1:1",
+      "title": "tt31924802:1:1",
+      "timestamp": "2026-02-08T08:49:16.073Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt0368870",
+      "title": "tt0368870",
+      "timestamp": "2026-02-08T08:51:11.347Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt28812582",
+      "title": "tt28812582",
+      "timestamp": "2026-02-08T08:54:14.202Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt13964560",
+      "title": "tt13964560",
+      "timestamp": "2026-02-08T08:54:32.392Z",
+      "ip": "49.37.219.33",
+      "username": "execute28"
+    },
+    {
+      "type": "movie",
+      "id": "tt13964560",
+      "title": "tt13964560",
+      "timestamp": "2026-02-08T08:56:15.351Z",
+      "ip": "49.37.219.33",
+      "username": "execute28"
     }
   ],
   "activeNow": {
@@ -84754,11 +84755,11 @@
       "lastActive": 1769861905703
     },
     "139.5.196.103": {
-      "type": "series",
-      "id": "tt31844233:1:5",
-      "title": "tt31844233:1:5",
+      "type": "movie",
+      "id": "tt28812582",
+      "title": "tt28812582",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770490663243
+      "lastActive": 1770540854202
     },
     "94.156.30.57": {
       "type": "series",
@@ -88175,6 +88176,13 @@
       "title": "tt6354518:2:19",
       "username": "sinbad1722",
       "lastActive": 1770539431582
+    },
+    "49.37.219.33": {
+      "type": "movie",
+      "id": "tt13964560",
+      "title": "tt13964560",
+      "username": "execute28",
+      "lastActive": 1770540975351
     }
   }
 }
