@@ -1,5 +1,5 @@
 {
-  "totalViews": 21959,
+  "totalViews": 21963,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4601,41 +4601,10 @@
     "202.173.124.242",
     "2409:40e0:3a:f836:906c:fb1b:838d:b240",
     "2405:201:a001:21d8:d465:61e:c3f3:4796",
-    "2409:40e4:1084:f8b3:9c35:b86d:8b71:225e"
+    "2409:40e4:1084:f8b3:9c35:b86d:8b71:225e",
+    "103.170.55.84"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32820897",
-      "title": "tt32820897",
-      "timestamp": "2026-01-20T08:44:46.175Z",
-      "ip": "181.197.11.6",
-      "username": "ymcine"
-    },
-    {
-      "type": "series",
-      "id": "tt12867810:1:5",
-      "title": "tt12867810:1:5",
-      "timestamp": "2026-01-20T08:46:06.894Z",
-      "ip": "152.59.26.215",
-      "username": "napsteerr"
-    },
-    {
-      "type": "series",
-      "id": "tt12867810:1:5",
-      "title": "tt12867810:1:5",
-      "timestamp": "2026-01-20T08:46:24.621Z",
-      "ip": "152.59.26.215",
-      "username": "napsteerr"
-    },
-    {
-      "type": "series",
-      "id": "tt12867810:1:6",
-      "title": "tt12867810:1:6",
-      "timestamp": "2026-01-20T08:46:28.868Z",
-      "ip": "152.59.26.215",
-      "username": "napsteerr"
-    },
     {
       "type": "movie",
       "id": "tt32820897",
@@ -84603,6 +84572,38 @@
       "timestamp": "2026-02-08T15:41:04.753Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt8740790:1:1",
+      "title": "tt8740790:1:1",
+      "timestamp": "2026-02-08T15:54:02.233Z",
+      "ip": "103.170.55.84",
+      "username": "babybloom1"
+    },
+    {
+      "type": "series",
+      "id": "tt8740790:1:2",
+      "title": "tt8740790:1:2",
+      "timestamp": "2026-02-08T15:54:30.647Z",
+      "ip": "103.170.55.84",
+      "username": "babybloom1"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:2",
+      "title": "tt14186672:2:2",
+      "timestamp": "2026-02-08T16:00:40.440Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt9813792:3:1",
+      "title": "tt9813792:3:1",
+      "timestamp": "2026-02-08T16:01:42.088Z",
+      "ip": "152.56.132.103",
+      "username": "jinwoooooi"
     }
   ],
   "activeNow": {
@@ -84954,7 +84955,7 @@
       "id": "tt14186672:2:2",
       "title": "tt14186672:2:2",
       "username": "chetan_b2",
-      "lastActive": 1770565264753
+      "lastActive": 1770566440440
     },
     "157.48.83.94": {
       "type": "series",
@@ -88289,11 +88290,11 @@
       "lastActive": 1770560193028
     },
     "152.56.132.103": {
-      "type": "movie",
-      "id": "tt3008816",
-      "title": "tt3008816",
+      "type": "series",
+      "id": "tt9813792:3:1",
+      "title": "tt9813792:3:1",
       "username": "jinwoooooi",
-      "lastActive": 1770560349379
+      "lastActive": 1770566502088
     },
     "2409:40e1:302e:ee9c:f828:4fff:fe2e:c793": {
       "type": "movie",
@@ -88343,6 +88344,13 @@
       "title": "Finding Nemo",
       "username": "adshoyi",
       "lastActive": 1770565185008
+    },
+    "103.170.55.84": {
+      "type": "series",
+      "id": "tt8740790:1:2",
+      "title": "tt8740790:1:2",
+      "username": "babybloom1",
+      "lastActive": 1770566070647
     }
   }
 }
