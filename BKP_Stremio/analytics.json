@@ -1,5 +1,5 @@
 {
-  "totalViews": 22041,
+  "totalViews": 22042,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4622,14 +4622,6 @@
     "2409:40f0:4d:db01:88c9:22ff:fe66:1e4e"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt6468322:1:13",
-      "title": "tt6468322:1:13",
-      "timestamp": "2026-01-20T10:05:50.364Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
     {
       "type": "movie",
       "id": "tt1477834",
@@ -84621,6 +84613,14 @@
       "timestamp": "2026-02-08T20:06:33.451Z",
       "ip": "2409:40f0:4d:db01:88c9:22ff:fe66:1e4e",
       "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt0816258",
+      "title": "tt0816258",
+      "timestamp": "2026-02-08T20:29:16.473Z",
+      "ip": "2409:40f0:4d:db01:88c9:22ff:fe66:1e4e",
+      "username": "sachinprem1"
     }
   ],
   "activeNow": {
@@ -88483,10 +88483,10 @@
     },
     "2409:40f0:4d:db01:88c9:22ff:fe66:1e4e": {
       "type": "movie",
-      "id": "tt0376144",
-      "title": "tt0376144",
+      "id": "tt0816258",
+      "title": "tt0816258",
       "username": "sachinprem1",
-      "lastActive": 1770581193451
+      "lastActive": 1770582556473
     }
   }
 }
