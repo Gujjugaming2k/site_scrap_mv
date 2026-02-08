@@ -1,5 +1,5 @@
 {
-  "totalViews": 21739,
+  "totalViews": 21743,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4570,38 +4570,6 @@
     "2a09:bac5:3af1:8b4::de:36"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-20T01:28:17.580Z",
-      "ip": "106.222.216.167,2a09:bac5:37a8:26d2::3de:2b",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-20T01:28:27.719Z",
-      "ip": "106.222.216.167,2a09:bac5:37a8:26d2::3de:2b",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-20T01:28:42.065Z",
-      "ip": "106.222.216.167,2a09:bac5:37a8:26d2::3de:2b",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-20T01:29:23.574Z",
-      "ip": "106.222.216.167,2a09:bac5:37a8:26d2::3de:2b",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:2",
@@ -84569,6 +84537,38 @@
       "timestamp": "2026-02-08T02:15:48.633Z",
       "ip": "27.6.92.204",
       "username": "nothing_8888"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-02-08T02:21:51.662Z",
+      "ip": "2a09:bac5:3af1:8b4::de:36",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt36463894",
+      "title": "Predator: Killer of Killers",
+      "timestamp": "2026-02-08T02:22:45.416Z",
+      "ip": "2a09:bac5:3af1:8b4::de:36",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-02-08T02:22:51.352Z",
+      "ip": "2a09:bac5:3af1:8b4::de:36",
+      "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt22248376:1:1",
+      "title": "tt22248376:1:1",
+      "timestamp": "2026-02-08T02:23:50.318Z",
+      "ip": "2a09:bac5:3af1:8b4::de:36",
+      "username": "switchoff009"
     }
   ],
   "activeNow": {
@@ -88066,11 +88066,11 @@
       "lastActive": 1770493375952
     },
     "2a09:bac5:3af1:8b4::de:36": {
-      "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
+      "type": "series",
+      "id": "tt22248376:1:1",
+      "title": "tt22248376:1:1",
       "username": "switchoff009",
-      "lastActive": 1770511698711
+      "lastActive": 1770517430318
     }
   }
 }
