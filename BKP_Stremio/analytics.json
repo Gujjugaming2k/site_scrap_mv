@@ -1,5 +1,5 @@
 {
-  "totalViews": 22037,
+  "totalViews": 22041,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4618,41 +4618,10 @@
     "27.34.65.188",
     "103.83.128.80",
     "152.58.168.60",
-    "2401:4900:8826:ff71:e4a3:62a0:7f1c:9919"
+    "2401:4900:8826:ff71:e4a3:62a0:7f1c:9919",
+    "2409:40f0:4d:db01:88c9:22ff:fe66:1e4e"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0102926",
-      "title": "The Silence of the Lambs",
-      "timestamp": "2026-01-20T10:03:46.832Z",
-      "ip": "2a09:bac5:40b3:1a96::2a6:1c",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt6468322:1:13",
-      "title": "tt6468322:1:13",
-      "timestamp": "2026-01-20T10:04:07.509Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "movie",
-      "id": "tt12300742",
-      "title": "Bugonia",
-      "timestamp": "2026-01-20T10:04:13.701Z",
-      "ip": "2409:40e5:1d:add0:f3:cdff:fe55:5c46",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "movie",
-      "id": "tt20916568",
-      "title": "tt20916568",
-      "timestamp": "2026-01-20T10:04:28.257Z",
-      "ip": "111.65.51.47",
-      "username": "sheik"
-    },
     {
       "type": "series",
       "id": "tt6468322:1:13",
@@ -84620,6 +84589,38 @@
       "timestamp": "2026-02-08T19:53:08.359Z",
       "ip": "2401:4900:a9b9:90a8:7736:3a0b:72e0:c76a",
       "username": "extremeyat"
+    },
+    {
+      "type": "movie",
+      "id": "tt7838252",
+      "title": "tt7838252",
+      "timestamp": "2026-02-08T19:57:44.420Z",
+      "ip": "2401:4900:a9b9:90a8:7736:3a0b:72e0:c76a",
+      "username": "extremeyat"
+    },
+    {
+      "type": "movie",
+      "id": "tt32362695",
+      "title": "tt32362695",
+      "timestamp": "2026-02-08T19:58:47.127Z",
+      "ip": "2401:4900:a9b9:90a8:7736:3a0b:72e0:c76a",
+      "username": "extremeyat"
+    },
+    {
+      "type": "movie",
+      "id": "tt4435072",
+      "title": "tt4435072",
+      "timestamp": "2026-02-08T20:00:06.650Z",
+      "ip": "2401:4900:a9b9:90a8:7736:3a0b:72e0:c76a",
+      "username": "extremeyat"
+    },
+    {
+      "type": "movie",
+      "id": "tt0376144",
+      "title": "tt0376144",
+      "timestamp": "2026-02-08T20:06:33.451Z",
+      "ip": "2409:40f0:4d:db01:88c9:22ff:fe66:1e4e",
+      "username": "sachinprem1"
     }
   ],
   "activeNow": {
@@ -88425,11 +88426,11 @@
       "lastActive": 1770573346983
     },
     "2401:4900:a9b9:90a8:7736:3a0b:72e0:c76a": {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
+      "type": "movie",
+      "id": "tt4435072",
+      "title": "tt4435072",
       "username": "extremeyat",
-      "lastActive": 1770580388359
+      "lastActive": 1770580806650
     },
     "47.11.130.67": {
       "type": "movie",
@@ -88479,6 +88480,13 @@
       "title": "Your Name.",
       "username": "sinbad1722",
       "lastActive": 1770578511570
+    },
+    "2409:40f0:4d:db01:88c9:22ff:fe66:1e4e": {
+      "type": "movie",
+      "id": "tt0376144",
+      "title": "tt0376144",
+      "username": "sachinprem1",
+      "lastActive": 1770581193451
     }
   }
 }
