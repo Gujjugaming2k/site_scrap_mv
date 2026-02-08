@@ -1,5 +1,5 @@
 {
-  "totalViews": 21906,
+  "totalViews": 21907,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4588,17 +4588,10 @@
     "223.185.16.35",
     "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e",
     "157.48.97.1",
-    "157.97.134.135"
+    "157.97.134.135",
+    "2409:40e0:1040:3029:906c:fb1b:838d:b240"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0111161",
-      "title": "The Shawshank Redemption",
-      "timestamp": "2026-01-20T06:23:42.248Z",
-      "ip": "27.60.5.97",
-      "username": "b1jju"
-    },
     {
       "type": "movie",
       "id": "tt2055709",
@@ -84590,6 +84583,14 @@
       "timestamp": "2026-02-08T12:08:20.057Z",
       "ip": "157.97.134.135",
       "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt0816692",
+      "title": "Interstellar",
+      "timestamp": "2026-02-08T12:24:29.590Z",
+      "ip": "2409:40e0:1040:3029:906c:fb1b:838d:b240",
+      "username": "nobody_ismy_name"
     }
   ],
   "activeNow": {
@@ -88239,6 +88240,13 @@
       "title": "tt35146696",
       "username": "b1jju",
       "lastActive": 1770552500057
+    },
+    "2409:40e0:1040:3029:906c:fb1b:838d:b240": {
+      "type": "movie",
+      "id": "tt0816692",
+      "title": "Interstellar",
+      "username": "nobody_ismy_name",
+      "lastActive": 1770553469590
     }
   }
 }
