@@ -1,5 +1,5 @@
 {
-  "totalViews": 21819,
+  "totalViews": 21823,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4578,41 +4578,10 @@
     "2409:40e4:109e:ecd5:9c35:b86d:8b71:225e",
     "45.118.158.239",
     "2409:40d4:3108:6fc0:402d:f2ff:feb7:c1a3",
-    "2405:201:2033:841:d173:2cee:e962:cfe9"
+    "2405:201:2033:841:d173:2cee:e962:cfe9",
+    "2405:201:900f:a92b:bd9d:c34c:bae4:29ee"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-01-20T03:07:15.932Z",
-      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt23172090",
-      "title": "tt23172090",
-      "timestamp": "2026-01-20T03:12:10.593Z",
-      "ip": "106.222.216.167,2a09:bac5:37a8:26d2::3de:2b",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt0045693",
-      "title": "tt0045693",
-      "timestamp": "2026-01-20T03:12:22.811Z",
-      "ip": "106.222.216.167,2a09:bac5:37a8:26d2::3de:2b",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-20T03:12:37.846Z",
-      "ip": "2409:40e6:2d:9284:e4c2:2bff:fe31:62bf",
-      "username": "nabakun"
-    },
     {
       "type": "movie",
       "id": "tt32642706",
@@ -84580,6 +84549,38 @@
       "timestamp": "2026-02-08T07:41:45.207Z",
       "ip": "103.46.200.34",
       "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt12844834",
+      "title": "tt12844834",
+      "timestamp": "2026-02-08T07:46:47.210Z",
+      "ip": "103.46.200.34",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt33046197",
+      "title": "tt33046197",
+      "timestamp": "2026-02-08T07:49:46.256Z",
+      "ip": "103.46.200.34",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt27564844",
+      "title": "tt27564844",
+      "timestamp": "2026-02-08T07:50:12.900Z",
+      "ip": "2405:201:900f:a92b:bd9d:c34c:bae4:29ee",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt33046197",
+      "title": "tt33046197",
+      "timestamp": "2026-02-08T07:50:31.349Z",
+      "ip": "2405:201:900f:a92b:bd9d:c34c:bae4:29ee",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -87210,10 +87211,10 @@
     },
     "103.46.200.34": {
       "type": "movie",
-      "id": "tt13238346",
-      "title": "Past Lives",
+      "id": "tt33046197",
+      "title": "tt33046197",
       "username": "katdenningssss",
-      "lastActive": 1770536505207
+      "lastActive": 1770536986256
     },
     "2401:4900:1f29:9d85:d9e2:9f14:f815:fd2a": {
       "type": "movie",
@@ -88159,6 +88160,13 @@
       "title": "Dhurandhar",
       "username": "surti_lala",
       "lastActive": 1770536230458
+    },
+    "2405:201:900f:a92b:bd9d:c34c:bae4:29ee": {
+      "type": "movie",
+      "id": "tt33046197",
+      "title": "tt33046197",
+      "username": "theonlyfreak",
+      "lastActive": 1770537031349
     }
   }
 }
