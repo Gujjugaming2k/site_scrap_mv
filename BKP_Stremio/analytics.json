@@ -1,5 +1,5 @@
 {
-  "totalViews": 21743,
+  "totalViews": 21744,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4570,14 +4570,6 @@
     "2a09:bac5:3af1:8b4::de:36"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-20T01:29:37.337Z",
-      "ip": "106.222.216.167,2a09:bac5:37a8:26d2::3de:2b",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:1",
@@ -84569,6 +84561,14 @@
       "timestamp": "2026-02-08T02:23:50.318Z",
       "ip": "2a09:bac5:3af1:8b4::de:36",
       "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt0800956",
+      "title": "tt0800956",
+      "timestamp": "2026-02-08T02:43:35.014Z",
+      "ip": "186.188.150.139",
+      "username": "gary"
     }
   ],
   "activeNow": {
@@ -85561,10 +85561,10 @@
     },
     "186.188.150.139": {
       "type": "movie",
-      "id": "tt9603208",
-      "title": "Mission: Impossible - The Final Reckoning",
+      "id": "tt0800956",
+      "title": "tt0800956",
       "username": "gary",
-      "lastActive": 1770004342701
+      "lastActive": 1770518615014
     },
     "2409:40d2:3005:6b89:6c4e:71a8:f8f1:fbc6": {
       "type": "series",
