@@ -1,5 +1,5 @@
 {
-  "totalViews": 22104,
+  "totalViews": 22108,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4635,38 +4635,6 @@
     "2409:40d0:2015:3eb3:5459:6aff:fe34:aa3a"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12867810:1:6",
-      "title": "tt12867810:1:6",
-      "timestamp": "2026-01-20T12:15:07.880Z",
-      "ip": "2409:40c4:315c:dd35:8408:24ff:fed1:30b8",
-      "username": "napsteerr"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:2:2",
-      "title": "tt31938062:2:2",
-      "timestamp": "2026-01-20T12:16:42.923Z",
-      "ip": "103.4.222.252",
-      "username": "sexhabibi"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:2:2",
-      "title": "tt31938062:2:2",
-      "timestamp": "2026-01-20T12:18:06.200Z",
-      "ip": "103.4.222.252",
-      "username": "sexhabibi"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:2:1",
-      "title": "tt31938062:2:1",
-      "timestamp": "2026-01-20T12:18:40.384Z",
-      "ip": "103.4.222.252",
-      "username": "sexhabibi"
-    },
     {
       "type": "series",
       "id": "tt31938062:2:2",
@@ -84634,6 +84602,38 @@
       "timestamp": "2026-02-09T04:26:24.896Z",
       "ip": "2a09:bac5:40b3:a82::10c:29",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-09T04:29:05.023Z",
+      "ip": "2409:40d0:2015:3eb3:5459:6aff:fe34:aa3a",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:5:10",
+      "title": "tt0460649:5:10",
+      "timestamp": "2026-02-09T04:29:38.737Z",
+      "ip": "2a09:bac5:40b3:a82::10c:29",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-02-09T04:30:27.205Z",
+      "ip": "190.250.137.135",
+      "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt30476518",
+      "title": "Big World",
+      "timestamp": "2026-02-09T04:42:07.486Z",
+      "ip": "45.118.158.239",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -87901,10 +87901,10 @@
     },
     "190.250.137.135": {
       "type": "movie",
-      "id": "tt15464188",
-      "title": "tt15464188",
+      "id": "tt16311594",
+      "title": "F1",
       "username": "ymcinema",
-      "lastActive": 1770611151338
+      "lastActive": 1770611427205
     },
     "103.161.231.139": {
       "type": "movie",
@@ -88195,10 +88195,10 @@
     },
     "45.118.158.239": {
       "type": "movie",
-      "id": "tt4777008",
-      "title": "Maleficent: Mistress of Evil",
+      "id": "tt30476518",
+      "title": "Big World",
       "username": "gaendaswami",
-      "lastActive": 1770555447592
+      "lastActive": 1770612127486
     },
     "2409:40d4:3108:6fc0:402d:f2ff:feb7:c1a3": {
       "type": "series",
@@ -88559,10 +88559,10 @@
     },
     "2a09:bac5:40b3:a82::10c:29": {
       "type": "series",
-      "id": "tt0279600:1:2",
-      "title": "tt0279600:1:2",
+      "id": "tt0460649:5:10",
+      "title": "tt0460649:5:10",
       "username": "demon18319",
-      "lastActive": 1770611184896
+      "lastActive": 1770611378737
     },
     "2601:410:8280:c700:8c28:9bdc:c15:f863": {
       "type": "series",
@@ -88587,10 +88587,10 @@
     },
     "2409:40d0:2015:3eb3:5459:6aff:fe34:aa3a": {
       "type": "movie",
-      "id": "tt23461428",
-      "title": "tt23461428",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "ryuzaklo26",
-      "lastActive": 1770610986394
+      "lastActive": 1770611345023
     }
   }
 }
