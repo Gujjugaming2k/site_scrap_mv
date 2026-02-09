@@ -1,5 +1,5 @@
 {
-  "totalViews": 22085,
+  "totalViews": 22088,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4632,30 +4632,6 @@
     "2601:410:8280:c700:8c28:9bdc:c15:f863"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0944947:1:7",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-20T11:50:25.032Z",
-      "ip": "2401:4900:8038:efd6::e37:d0e2",
-      "username": "abhi231511"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:1:12",
-      "title": "Lost",
-      "timestamp": "2026-01-20T11:53:46.335Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt5057054:1:6",
-      "title": "tt5057054:1:6",
-      "timestamp": "2026-01-20T11:53:59.049Z",
-      "ip": "103.176.152.3",
-      "username": "sexhabibi"
-    },
     {
       "type": "series",
       "id": "tt0411008:1:13",
@@ -84631,6 +84607,30 @@
       "timestamp": "2026-02-09T03:57:52.856Z",
       "ip": "2601:410:8280:c700:8c28:9bdc:c15:f863",
       "username": "j yng"
+    },
+    {
+      "type": "series",
+      "id": "tt0460681:14:1",
+      "title": "Supernatural",
+      "timestamp": "2026-02-09T03:58:48.236Z",
+      "ip": "2601:410:8280:c700:8c28:9bdc:c15:f863",
+      "username": "j yng"
+    },
+    {
+      "type": "series",
+      "id": "tt0279600:1:1",
+      "title": "tt0279600:1:1",
+      "timestamp": "2026-02-09T04:01:54.806Z",
+      "ip": "2a09:bac5:40b3:a82::10c:29",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt0279600:1:2",
+      "title": "tt0279600:1:2",
+      "timestamp": "2026-02-09T04:02:27.924Z",
+      "ip": "2a09:bac5:40b3:a82::10c:29",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -88555,18 +88555,18 @@
       "lastActive": 1770609356887
     },
     "2a09:bac5:40b3:a82::10c:29": {
-      "type": "movie",
-      "id": "tt8036976",
-      "title": "tt8036976",
+      "type": "series",
+      "id": "tt0279600:1:2",
+      "title": "tt0279600:1:2",
       "username": "demon18319",
-      "lastActive": 1770607080363
+      "lastActive": 1770609747924
     },
     "2601:410:8280:c700:8c28:9bdc:c15:f863": {
       "type": "series",
-      "id": "tt0460681:11:5",
+      "id": "tt0460681:14:1",
       "title": "Supernatural",
       "username": "j yng",
-      "lastActive": 1770609472856
+      "lastActive": 1770609528236
     }
   }
 }
