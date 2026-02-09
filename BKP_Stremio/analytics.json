@@ -1,5 +1,5 @@
 {
-  "totalViews": 22063,
+  "totalViews": 22070,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4622,65 +4622,11 @@
     "2409:40f0:4d:db01:88c9:22ff:fe66:1e4e",
     "2401:4900:8826:ff71:8976:14c8:f71f:4061",
     "223.235.29.197",
-    "2405:201:6820:a83c:e89b:29e6:5cb5:6d84"
+    "2405:201:6820:a83c:e89b:29e6:5cb5:6d84",
+    "94.156.30.130",
+    "2409:40c4:3109:6680:7450:da6d:fed8:485d"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt12300742",
-      "title": "Bugonia",
-      "timestamp": "2026-01-20T10:21:10.576Z",
-      "ip": "2409:40e5:1d:add0:f3:cdff:fe55:5c46",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "movie",
-      "id": "tt33244668",
-      "title": "tt33244668",
-      "timestamp": "2026-01-20T10:22:50.981Z",
-      "ip": "45.118.158.143",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt5323298:7:4",
-      "title": "tt5323298:7:4",
-      "timestamp": "2026-01-20T10:35:03.613Z",
-      "ip": "2401:4900:b3d0:f8df:ea1a:6a51:ed92:ad4c",
-      "username": "rajeshbhattawari"
-    },
-    {
-      "type": "series",
-      "id": "tt5323298:7:1",
-      "title": "tt5323298:7:1",
-      "timestamp": "2026-01-20T10:35:40.667Z",
-      "ip": "2401:4900:b3d0:f8df:ea1a:6a51:ed92:ad4c",
-      "username": "rajeshbhattawari"
-    },
-    {
-      "type": "series",
-      "id": "tt5323298:7:2",
-      "title": "tt5323298:7:2",
-      "timestamp": "2026-01-20T10:36:09.995Z",
-      "ip": "2401:4900:b3d0:f8df:ea1a:6a51:ed92:ad4c",
-      "username": "rajeshbhattawari"
-    },
-    {
-      "type": "movie",
-      "id": "tt32820897",
-      "title": "tt32820897",
-      "timestamp": "2026-01-20T10:36:30.988Z",
-      "ip": "2402:3a80:15bc:fa7c:300a:bdd4:65e6:1931",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "series",
-      "id": "tt5323298:7:3",
-      "title": "tt5323298:7:3",
-      "timestamp": "2026-01-20T10:36:47.014Z",
-      "ip": "2401:4900:b3d0:f8df:ea1a:6a51:ed92:ad4c",
-      "username": "rajeshbhattawari"
-    },
     {
       "type": "series",
       "id": "tt1796960:1:1",
@@ -84624,6 +84570,62 @@
       "timestamp": "2026-02-09T02:21:51.835Z",
       "ip": "181.197.11.6",
       "username": "ymcinema"
+    },
+    {
+      "type": "series",
+      "id": "tt35683314:1:2",
+      "title": "tt35683314:1:2",
+      "timestamp": "2026-02-09T02:22:19.425Z",
+      "ip": "181.197.11.6",
+      "username": "ymcinema"
+    },
+    {
+      "type": "series",
+      "id": "tt35683314:1:1",
+      "title": "tt35683314:1:1",
+      "timestamp": "2026-02-09T02:23:28.631Z",
+      "ip": "181.197.11.6",
+      "username": "ymcinema"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:4",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-09T02:26:59.597Z",
+      "ip": "94.156.30.130",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:8",
+      "title": "tt31812476:2:8",
+      "timestamp": "2026-02-09T02:28:07.663Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:7",
+      "title": "tt31812476:2:7",
+      "timestamp": "2026-02-09T02:29:12.123Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:5",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-09T02:30:11.838Z",
+      "ip": "94.156.30.130",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt39100948",
+      "title": "tt39100948",
+      "timestamp": "2026-02-09T02:36:01.720Z",
+      "ip": "2409:40c4:3109:6680:7450:da6d:fed8:485d",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -86522,7 +86524,7 @@
       "id": "tt35683314:1:1",
       "title": "tt35683314:1:1",
       "username": "ymcinema",
-      "lastActive": 1770603711835
+      "lastActive": 1770603808631
     },
     "2405:201:2033:841:a84e:35aa:9276:53af": {
       "type": "movie",
@@ -87597,10 +87599,10 @@
     },
     "103.24.85.184": {
       "type": "series",
-      "id": "tt31812476:2:8",
-      "title": "tt31812476:2:8",
+      "id": "tt31812476:2:7",
+      "title": "tt31812476:2:7",
       "username": "william097",
-      "lastActive": 1770572165522
+      "lastActive": 1770604152123
     },
     "182.77.74.249": {
       "type": "movie",
@@ -88511,6 +88513,20 @@
       "title": "tt0279600:1:1",
       "username": "demon18319",
       "lastActive": 1770601897879
+    },
+    "94.156.30.130": {
+      "type": "series",
+      "id": "tt4574334:1:5",
+      "title": "Stranger Things",
+      "username": "b1jju",
+      "lastActive": 1770604211838
+    },
+    "2409:40c4:3109:6680:7450:da6d:fed8:485d": {
+      "type": "movie",
+      "id": "tt39100948",
+      "title": "tt39100948",
+      "username": "b1jju",
+      "lastActive": 1770604561720
     }
   }
 }
