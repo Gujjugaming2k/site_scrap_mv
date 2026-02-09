@@ -1,5 +1,5 @@
 {
-  "totalViews": 22112,
+  "totalViews": 22114,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4636,22 +4636,6 @@
     "2401:4900:57f2:af1d:f868:b9ff:fefa:6afa"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12867810:1:5",
-      "title": "tt12867810:1:5",
-      "timestamp": "2026-01-20T12:24:47.439Z",
-      "ip": "2409:40c4:315c:dd35:8408:24ff:fed1:30b8",
-      "username": "napsteerr"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:9",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-20T12:24:52.720Z",
-      "ip": "2401:4900:8038:fb6f::e38:a2b2",
-      "username": "abhi231511"
-    },
     {
       "type": "series",
       "id": "tt16385150:1:6",
@@ -84635,6 +84619,22 @@
       "timestamp": "2026-02-09T06:06:17.071Z",
       "ip": "45.118.158.239",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt1630029",
+      "title": "Avatar: The Way of Water",
+      "timestamp": "2026-02-09T06:24:15.299Z",
+      "ip": "45.118.158.239",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt33307516",
+      "title": "tt33307516",
+      "timestamp": "2026-02-09T06:30:11.649Z",
+      "ip": "45.118.158.239",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -88196,10 +88196,10 @@
     },
     "45.118.158.239": {
       "type": "movie",
-      "id": "tt30476518",
-      "title": "Big World",
+      "id": "tt33307516",
+      "title": "tt33307516",
       "username": "gaendaswami",
-      "lastActive": 1770617177071
+      "lastActive": 1770618611649
     },
     "2409:40d4:3108:6fc0:402d:f2ff:feb7:c1a3": {
       "type": "series",
