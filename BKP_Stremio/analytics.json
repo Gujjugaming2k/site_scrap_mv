@@ -1,5 +1,5 @@
 {
-  "totalViews": 22160,
+  "totalViews": 22162,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4649,25 +4649,10 @@
     "2405:201:2033:841:36ff:f3cd:9e81:cd21",
     "2401:4900:a068:c023:2952:778d:25f2:6093",
     "2405:201:900f:a92b:3c4f:e70d:c054:6791",
-    "182.69.182.156"
+    "182.69.182.156",
+    "209.87.169.85"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt9389998",
-      "title": "tt9389998",
-      "timestamp": "2026-01-20T13:45:41.733Z",
-      "ip": "2405:201:2022:b81c:81a5:cd6b:d602:1cdc",
-      "username": "zealousninja"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:8",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-20T13:46:36.807Z",
-      "ip": "2401:4900:8028:eeb8::e2a:4560",
-      "username": "abhi231511"
-    },
     {
       "type": "movie",
       "id": "tt31227572",
@@ -84651,6 +84636,22 @@
       "timestamp": "2026-02-09T09:06:45.728Z",
       "ip": "45.118.158.239",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt1713476",
+      "title": "tt1713476",
+      "timestamp": "2026-02-09T09:20:43.773Z",
+      "ip": "2405:201:900f:a92b:d52c:2217:44a2:fe39",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt1713476",
+      "title": "tt1713476",
+      "timestamp": "2026-02-09T09:22:04.326Z",
+      "ip": "209.87.169.85",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -86511,10 +86512,10 @@
     },
     "2405:201:900f:a92b:d52c:2217:44a2:fe39": {
       "type": "movie",
-      "id": "tt28283834",
-      "title": "tt28283834",
+      "id": "tt1713476",
+      "title": "tt1713476",
       "username": "theonlyfreak",
-      "lastActive": 1770138209739
+      "lastActive": 1770628843773
     },
     "49.36.119.38": {
       "type": "movie",
@@ -88727,6 +88728,13 @@
       "title": "tt5607616:1:2",
       "username": "dillon_ka_shooter",
       "lastActive": 1770627663142
+    },
+    "209.87.169.85": {
+      "type": "movie",
+      "id": "tt1713476",
+      "title": "tt1713476",
+      "username": "theonlyfreak",
+      "lastActive": 1770628924326
     }
   }
 }
