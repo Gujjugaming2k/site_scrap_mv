@@ -1,5 +1,5 @@
 {
-  "totalViews": 22128,
+  "totalViews": 22134,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4640,57 +4640,10 @@
     "49.47.153.247",
     "106.222.249.57",
     "63.135.161.140",
-    "2405:201:6025:a88d:6d8c:b718:cd3c:4a34"
+    "2405:201:6025:a88d:6d8c:b718:cd3c:4a34",
+    "173.239.211.64"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt7737786",
-      "title": "Greenland",
-      "timestamp": "2026-01-20T13:20:35.887Z",
-      "ip": "150.107.212.194",
-      "username": "abelboby"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:9",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-20T13:26:15.575Z",
-      "ip": "2401:4900:8028:eeb8::e2a:4560",
-      "username": "abhi231511"
-    },
-    {
-      "type": "movie",
-      "id": "tt0431619",
-      "title": "tt0431619",
-      "timestamp": "2026-01-20T13:26:24.542Z",
-      "ip": "2405:201:2022:b81c:81a5:cd6b:d602:1cdc",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt27960755",
-      "title": "tt27960755",
-      "timestamp": "2026-01-20T13:28:50.493Z",
-      "ip": "2409:40f2:2c:ac2f:3c4e:5bff:fe76:3e12",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt27960755",
-      "title": "tt27960755",
-      "timestamp": "2026-01-20T13:30:08.380Z",
-      "ip": "152.57.122.42",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt27960755",
-      "title": "tt27960755",
-      "timestamp": "2026-01-20T13:30:13.553Z",
-      "ip": "2409:40f2:2c:ac2f:3c4e:5bff:fe76:3e12",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt9389998",
@@ -84642,6 +84595,54 @@
       "timestamp": "2026-02-09T08:05:45.660Z",
       "ip": "2405:201:6025:a88d:6d8c:b718:cd3c:4a34",
       "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt37897260",
+      "title": "tt37897260",
+      "timestamp": "2026-02-09T08:06:33.329Z",
+      "ip": "2405:201:6025:a88d:6d8c:b718:cd3c:4a34",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-09T08:07:04.308Z",
+      "ip": "2405:201:6025:a88d:6d8c:b718:cd3c:4a34",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt30176955",
+      "title": "tt30176955",
+      "timestamp": "2026-02-09T08:16:23.397Z",
+      "ip": "45.118.158.239",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt8983202",
+      "title": "tt8983202",
+      "timestamp": "2026-02-09T08:16:38.957Z",
+      "ip": "182.77.74.249",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt16300962",
+      "title": "tt16300962",
+      "timestamp": "2026-02-09T08:18:57.204Z",
+      "ip": "173.239.211.64",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt30476518",
+      "title": "Big World",
+      "timestamp": "2026-02-09T08:20:12.314Z",
+      "ip": "45.118.158.239",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -87625,7 +87626,7 @@
       "id": "tt8983202",
       "title": "tt8983202",
       "username": "theaceofficials",
-      "lastActive": 1770577688558
+      "lastActive": 1770624998957
     },
     "2406:b400:1a:4888:fc4c:a4ee:2324:5b2a": {
       "type": "movie",
@@ -88203,10 +88204,10 @@
     },
     "45.118.158.239": {
       "type": "movie",
-      "id": "tt33307516",
-      "title": "tt33307516",
+      "id": "tt30476518",
+      "title": "Big World",
       "username": "gaendaswami",
-      "lastActive": 1770618611649
+      "lastActive": 1770625212314
     },
     "2409:40d4:3108:6fc0:402d:f2ff:feb7:c1a3": {
       "type": "series",
@@ -88651,10 +88652,17 @@
     },
     "2405:201:6025:a88d:6d8c:b718:cd3c:4a34": {
       "type": "movie",
-      "id": "tt33046197",
-      "title": "tt33046197",
+      "id": "tt27543632",
+      "title": "tt27543632",
       "username": "infinityseeker",
-      "lastActive": 1770624345660
+      "lastActive": 1770624424308
+    },
+    "173.239.211.64": {
+      "type": "movie",
+      "id": "tt16300962",
+      "title": "tt16300962",
+      "username": "theonlyfreak",
+      "lastActive": 1770625137204
     }
   }
 }
