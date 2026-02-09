@@ -1,5 +1,5 @@
 {
-  "totalViews": 22305,
+  "totalViews": 22309,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4678,41 +4678,11 @@
     "2409:40c1:414e:47e3:8000::",
     "117.196.164.122",
     "2409:40e4:30:5679:14bd:10ff:fe8e:bc5f",
-    "152.59.150.153"
+    "152.59.150.153",
+    "152.58.189.67",
+    "2409:40d4:4031:ff8d:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:5:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-20T15:39:57.181Z",
-      "ip": "2a09:bac5:3af1:11c3::1c5:88",
-      "username": "switchoff009"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-20T15:44:04.939Z",
-      "ip": "2a09:bac5:3af1:11c3::1c5:88",
-      "username": "switchoff009"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:1:1",
-      "title": "tt1399664:1:1",
-      "timestamp": "2026-01-20T15:44:39.061Z",
-      "ip": "94.201.110.152",
-      "username": "subhoghosh69"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:1:1",
-      "title": "tt1399664:1:1",
-      "timestamp": "2026-01-20T15:44:39.178Z",
-      "ip": "94.201.110.152",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0460649:3:13",
@@ -84680,6 +84650,38 @@
       "timestamp": "2026-02-09T14:54:02.048Z",
       "ip": "2405:201:682e:6839:2c5c:21a:f1c5:a1cd",
       "username": "tushar0nly"
+    },
+    {
+      "type": "movie",
+      "id": "tt8291224",
+      "title": "tt8291224",
+      "timestamp": "2026-02-09T15:06:45.316Z",
+      "ip": "2409:40e4:30:5679:14bd:10ff:fe8e:bc5f",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt8291224",
+      "title": "tt8291224",
+      "timestamp": "2026-02-09T15:13:39.658Z",
+      "ip": "152.58.189.67",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-09T15:18:17.423Z",
+      "ip": "2409:40d4:4031:ff8d:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:3",
+      "title": "tt1399664:1:3",
+      "timestamp": "2026-02-09T15:18:19.327Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -87656,7 +87658,7 @@
       "id": "tt1399664:1:3",
       "title": "tt1399664:1:3",
       "username": "william097",
-      "lastActive": 1770648577041
+      "lastActive": 1770650299327
     },
     "182.77.74.249": {
       "type": "movie",
@@ -88951,7 +88953,7 @@
       "id": "tt8291224",
       "title": "tt8291224",
       "username": "cyberboy12321",
-      "lastActive": 1770646577714
+      "lastActive": 1770649605316
     },
     "152.59.150.153": {
       "type": "movie",
@@ -88959,6 +88961,20 @@
       "title": "Big World",
       "username": "n a b a.",
       "lastActive": 1770647710387
+    },
+    "152.58.189.67": {
+      "type": "movie",
+      "id": "tt8291224",
+      "title": "tt8291224",
+      "username": "cyberboy12321",
+      "lastActive": 1770650019658
+    },
+    "2409:40d4:4031:ff8d:8000::": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "kdbotz",
+      "lastActive": 1770650297423
     }
   }
 }
