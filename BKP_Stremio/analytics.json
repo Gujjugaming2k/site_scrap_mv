@@ -1,5 +1,5 @@
 {
-  "totalViews": 22232,
+  "totalViews": 22235,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4662,33 +4662,11 @@
     "2001:4490:4e65:b24a:7ddb:33bb:61f1:14a",
     "2405:201:500c:4a01:2839:c255:49e5:2237",
     "2409:40d4:f3:2b18:cca1:60ff:fe25:33de",
-    "2401:4900:88b9:b8d6:54ec:7979:87ad:96e4"
+    "2401:4900:88b9:b8d6:54ec:7979:87ad:96e4",
+    "152.59.150.190",
+    "2401:4900:3e38:eecf:dcee:9732:fab4:4784"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt16385150:1:6",
-      "title": "tt16385150:1:6",
-      "timestamp": "2026-01-20T14:22:22.365Z",
-      "ip": "2405:201:6025:a88d:f7cf:d704:f86e:ee7e",
-      "username": "infinityseeker"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:6",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-20T14:22:31.283Z",
-      "ip": "111.92.121.170",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:6",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-20T14:22:34.442Z",
-      "ip": "111.92.121.170",
-      "username": "un0fficial_itachi"
-    },
     {
       "type": "movie",
       "id": "tt14364480",
@@ -84664,6 +84642,30 @@
       "timestamp": "2026-02-09T12:24:56.812Z",
       "ip": "103.24.85.184",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-02-09T12:46:11.203Z",
+      "ip": "152.59.150.190",
+      "username": "n a b a."
+    },
+    {
+      "type": "movie",
+      "id": "tt7060344",
+      "title": "tt7060344",
+      "timestamp": "2026-02-09T12:53:54.776Z",
+      "ip": "152.59.150.190",
+      "username": "n a b a."
+    },
+    {
+      "type": "movie",
+      "id": "tt10886166",
+      "title": "365 Days",
+      "timestamp": "2026-02-09T12:56:09.213Z",
+      "ip": "2401:4900:3e38:eecf:dcee:9732:fab4:4784",
+      "username": "skssunilbh"
     }
   ],
   "activeNow": {
@@ -88831,6 +88833,20 @@
       "title": "tt31844233:1:1",
       "username": "b1jju",
       "lastActive": 1770639799762
+    },
+    "152.59.150.190": {
+      "type": "movie",
+      "id": "tt7060344",
+      "title": "tt7060344",
+      "username": "n a b a.",
+      "lastActive": 1770641634776
+    },
+    "2401:4900:3e38:eecf:dcee:9732:fab4:4784": {
+      "type": "movie",
+      "id": "tt10886166",
+      "title": "365 Days",
+      "username": "skssunilbh",
+      "lastActive": 1770641769213
     }
   }
 }
