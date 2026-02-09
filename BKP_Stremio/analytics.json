@@ -1,5 +1,5 @@
 {
-  "totalViews": 22114,
+  "totalViews": 22119,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4633,49 +4633,11 @@
     "42.108.27.55",
     "152.59.158.46",
     "2409:40d0:2015:3eb3:5459:6aff:fe34:aa3a",
-    "2401:4900:57f2:af1d:f868:b9ff:fefa:6afa"
+    "2401:4900:57f2:af1d:f868:b9ff:fefa:6afa",
+    "2401:4900:1cab:41dc:5025:8878:d000:c9a0",
+    "2409:40d2:300d:83d0:3800:667d:fc11:7dcd"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt16385150:1:6",
-      "title": "tt16385150:1:6",
-      "timestamp": "2026-01-20T12:34:27.185Z",
-      "ip": "2405:201:6025:a88d:f7cf:d704:f86e:ee7e",
-      "username": "infinityseeker"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-20T12:35:57.056Z",
-      "ip": "45.118.158.143",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:2",
-      "title": "tt27497448:1:2",
-      "timestamp": "2026-01-20T12:36:19.221Z",
-      "ip": "45.118.158.143",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt17526714",
-      "title": "The Substance",
-      "timestamp": "2026-01-20T12:42:08.836Z",
-      "ip": "45.118.158.143",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt17526714",
-      "title": "The Substance",
-      "timestamp": "2026-01-20T12:43:04.847Z",
-      "ip": "45.118.158.143",
-      "username": "gaendaswami"
-    },
     {
       "type": "movie",
       "id": "tt11992424",
@@ -84635,6 +84597,46 @@
       "timestamp": "2026-02-09T06:30:11.649Z",
       "ip": "45.118.158.239",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:2:1",
+      "title": "tt0388629:2:1",
+      "timestamp": "2026-02-09T07:08:30.801Z",
+      "ip": "2401:4900:1cab:41dc:5025:8878:d000:c9a0",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-02-09T07:08:48.443Z",
+      "ip": "2409:40d2:300d:83d0:3800:667d:fc11:7dcd",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "timestamp": "2026-02-09T07:09:43.312Z",
+      "ip": "2409:40d2:300d:83d0:3800:667d:fc11:7dcd",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt35495073:1:1",
+      "title": "tt35495073:1:1",
+      "timestamp": "2026-02-09T07:15:07.007Z",
+      "ip": "2409:40d2:300d:83d0:3800:667d:fc11:7dcd",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt2560140:1:1",
+      "title": "tt2560140:1:1",
+      "timestamp": "2026-02-09T07:16:48.862Z",
+      "ip": "2409:40d2:300d:83d0:3800:667d:fc11:7dcd",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -88599,6 +88601,20 @@
       "title": "tt13964560",
       "username": "chetan_b2",
       "lastActive": 1770612685736
+    },
+    "2401:4900:1cab:41dc:5025:8878:d000:c9a0": {
+      "type": "series",
+      "id": "tt0388629:2:1",
+      "title": "tt0388629:2:1",
+      "username": "nirbhay1412",
+      "lastActive": 1770620910801
+    },
+    "2409:40d2:300d:83d0:3800:667d:fc11:7dcd": {
+      "type": "series",
+      "id": "tt2560140:1:1",
+      "title": "tt2560140:1:1",
+      "username": "saurabhkaperwan",
+      "lastActive": 1770621408862
     }
   }
 }
