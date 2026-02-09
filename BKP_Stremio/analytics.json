@@ -1,5 +1,5 @@
 {
-  "totalViews": 22363,
+  "totalViews": 22364,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4691,17 +4691,10 @@
     "2409:40e6:1a:6d31:7069:d6ff:fe18:d8eb",
     "2409:40c1:402e:b57f:8000::",
     "2402:a00:10a:815f:c724:45a2:b9d7:1d81",
-    "223.236.85.216"
+    "223.236.85.216",
+    "2001:4490:4e65:6f36:d361:4826:cfba:b06f"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-20T16:53:59.076Z",
-      "ip": "2405:201:2022:b81c:740c:a7ed:5ab0:c07b",
-      "username": "zealousninja"
-    },
     {
       "type": "series",
       "id": "tt35335046:1:1",
@@ -84693,6 +84686,14 @@
       "timestamp": "2026-02-09T17:26:01.489Z",
       "ip": "2409:40e6:1a:6d31:7069:d6ff:fe18:d8eb",
       "username": "n a b a."
+    },
+    {
+      "type": "movie",
+      "id": "tt0867465",
+      "title": "tt0867465",
+      "timestamp": "2026-02-09T17:56:39.860Z",
+      "ip": "2001:4490:4e65:6f36:d361:4826:cfba:b06f",
+      "username": "adiyogivishwanath"
     }
   ],
   "activeNow": {
@@ -89070,6 +89071,13 @@
       "title": "tt9059350:2:1",
       "username": "user_9b",
       "lastActive": 1770657318495
+    },
+    "2001:4490:4e65:6f36:d361:4826:cfba:b06f": {
+      "type": "movie",
+      "id": "tt0867465",
+      "title": "tt0867465",
+      "username": "adiyogivishwanath",
+      "lastActive": 1770659799860
     }
   }
 }
