@@ -1,5 +1,5 @@
 {
-  "totalViews": 22272,
+  "totalViews": 22278,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4671,57 +4671,11 @@
     "2409:40e6:e:cac2:78c5:81ff:fe3c:9b98",
     "2001:4490:4e65:b24a:3014:1080:265e:9c79",
     "2409:40d4:402e:8ba2:34f4:21fb:9aba:8f5e",
-    "2a09:bac5:3c94:25cd::3c4:19"
+    "2a09:bac5:3c94:25cd::3c4:19",
+    "2402:a00:182:5b40:b0ad:3c4a:c134:f77d",
+    "146.70.255.22"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt16385150:1:6",
-      "title": "tt16385150:1:6",
-      "timestamp": "2026-01-20T14:55:08.645Z",
-      "ip": "2405:201:6025:a88d:f7cf:d704:f86e:ee7e",
-      "username": "infinityseeker"
-    },
-    {
-      "type": "series",
-      "id": "tt3398540:1:11",
-      "title": "tt3398540:1:11",
-      "timestamp": "2026-01-20T14:55:19.334Z",
-      "ip": "2409:40d2:3009:d3aa:8000::",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:8",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-20T14:55:28.560Z",
-      "ip": "2401:4900:5b08:fb68::e3b:f031",
-      "username": "abhi231511"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-20T14:56:14.406Z",
-      "ip": "103.46.200.248",
-      "username": "brosportses"
-    },
-    {
-      "type": "series",
-      "id": "tt3398540:1:11",
-      "title": "tt3398540:1:11",
-      "timestamp": "2026-01-20T14:58:47.237Z",
-      "ip": "2409:40d2:3009:d3aa:8000::",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt3398540:1:11",
-      "title": "tt3398540:1:11",
-      "timestamp": "2026-01-20T14:59:01.327Z",
-      "ip": "2409:40d2:3009:d3aa:8000::",
-      "username": "demon18319"
-    },
     {
       "type": "series",
       "id": "tt3398540:1:12",
@@ -84673,6 +84627,54 @@
       "timestamp": "2026-02-09T13:30:01.361Z",
       "ip": "152.59.150.190",
       "username": "n a b a."
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-09T13:31:30.787Z",
+      "ip": "2402:a00:182:5b40:b0ad:3c4a:c134:f77d",
+      "username": "asj90"
+    },
+    {
+      "type": "movie",
+      "id": "tt0867465",
+      "title": "tt0867465",
+      "timestamp": "2026-02-09T13:32:29.381Z",
+      "ip": "2001:4490:4e65:b24a:3014:1080:265e:9c79",
+      "username": "adiyogivishwanath"
+    },
+    {
+      "type": "movie",
+      "id": "tt0867465",
+      "title": "tt0867465",
+      "timestamp": "2026-02-09T13:33:35.753Z",
+      "ip": "2001:4490:4e65:b24a:3014:1080:265e:9c79",
+      "username": "adiyogivishwanath"
+    },
+    {
+      "type": "movie",
+      "id": "tt0867465",
+      "title": "tt0867465",
+      "timestamp": "2026-02-09T13:34:27.152Z",
+      "ip": "2001:4490:4e65:b24a:3014:1080:265e:9c79",
+      "username": "adiyogivishwanath"
+    },
+    {
+      "type": "movie",
+      "id": "tt0867465",
+      "title": "tt0867465",
+      "timestamp": "2026-02-09T13:40:45.694Z",
+      "ip": "2001:4490:4e65:b24a:3014:1080:265e:9c79",
+      "username": "adiyogivishwanath"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-09T13:41:43.087Z",
+      "ip": "146.70.255.22",
+      "username": "jinwoooooi"
     }
   ],
   "activeNow": {
@@ -88888,7 +88890,7 @@
       "id": "tt0867465",
       "title": "tt0867465",
       "username": "adiyogivishwanath",
-      "lastActive": 1770643074587
+      "lastActive": 1770644445694
     },
     "2409:40d4:402e:8ba2:34f4:21fb:9aba:8f5e": {
       "type": "series",
@@ -88903,6 +88905,20 @@
       "title": "tt2442560:1:4",
       "username": "belimhuzaifa",
       "lastActive": 1770643341889
+    },
+    "2402:a00:182:5b40:b0ad:3c4a:c134:f77d": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "asj90",
+      "lastActive": 1770643890787
+    },
+    "146.70.255.22": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "jinwoooooi",
+      "lastActive": 1770644503087
     }
   }
 }
