@@ -1,5 +1,5 @@
 {
-  "totalViews": 22080,
+  "totalViews": 22085,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4628,49 +4628,10 @@
     "94.156.30.145",
     "2401:4900:8fe3:1191:4833:cafc:5b7e:32a3",
     "2409:40e5:11e5:d2f4:5834:5fff:fe6a:2614",
-    "2a09:bac5:40b3:a82::10c:29"
+    "2a09:bac5:40b3:a82::10c:29",
+    "2601:410:8280:c700:8c28:9bdc:c15:f863"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31974367:1:1",
-      "title": "tt31974367:1:1",
-      "timestamp": "2026-01-20T11:41:59.834Z",
-      "ip": "125.166.9.191",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt31974367:1:2",
-      "title": "tt31974367:1:2",
-      "timestamp": "2026-01-20T11:43:58.196Z",
-      "ip": "125.166.9.191",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0102926",
-      "title": "The Silence of the Lambs",
-      "timestamp": "2026-01-20T11:47:09.491Z",
-      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
-      "username": "demon18319"
-    },
-    {
-      "type": "movie",
-      "id": "tt0102926",
-      "title": "The Silence of the Lambs",
-      "timestamp": "2026-01-20T11:47:19.568Z",
-      "ip": "2409:40d2:301b:139d:8000::",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:8",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-20T11:49:16.028Z",
-      "ip": "2401:4900:8038:efd6::e37:d0e2",
-      "username": "abhi231511"
-    },
     {
       "type": "series",
       "id": "tt0944947:1:7",
@@ -84630,6 +84591,46 @@
       "timestamp": "2026-02-09T03:36:16.282Z",
       "ip": "2401:4900:1ca9:17fd:48ee:9138:3231:a04d",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt2306299%3A1%3A1",
+      "title": "tt2306299%3A1%3A1",
+      "timestamp": "2026-02-09T03:55:15.038Z",
+      "ip": "2601:410:8280:c700:8c28:9bdc:c15:f863",
+      "username": "j yng"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:1:1",
+      "title": "tt3032476:1:1",
+      "timestamp": "2026-02-09T03:55:56.887Z",
+      "ip": "2409:40e5:11e5:d2f4:5834:5fff:fe6a:2614",
+      "username": "magicmannn"
+    },
+    {
+      "type": "series",
+      "id": "tt2306299%3A1%3A1",
+      "title": "tt2306299%3A1%3A1",
+      "timestamp": "2026-02-09T03:56:08.375Z",
+      "ip": "2601:410:8280:c700:8c28:9bdc:c15:f863",
+      "username": "j yng"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-02-09T03:56:49.099Z",
+      "ip": "2601:410:8280:c700:8c28:9bdc:c15:f863",
+      "username": "j yng"
+    },
+    {
+      "type": "series",
+      "id": "tt0460681:11:5",
+      "title": "Supernatural",
+      "timestamp": "2026-02-09T03:57:52.856Z",
+      "ip": "2601:410:8280:c700:8c28:9bdc:c15:f863",
+      "username": "j yng"
     }
   ],
   "activeNow": {
@@ -88548,10 +88549,10 @@
     },
     "2409:40e5:11e5:d2f4:5834:5fff:fe6a:2614": {
       "type": "series",
-      "id": "tt27497448:1:3",
-      "title": "tt27497448:1:3",
+      "id": "tt3032476:1:1",
+      "title": "tt3032476:1:1",
       "username": "magicmannn",
-      "lastActive": 1770606707074
+      "lastActive": 1770609356887
     },
     "2a09:bac5:40b3:a82::10c:29": {
       "type": "movie",
@@ -88559,6 +88560,13 @@
       "title": "tt8036976",
       "username": "demon18319",
       "lastActive": 1770607080363
+    },
+    "2601:410:8280:c700:8c28:9bdc:c15:f863": {
+      "type": "series",
+      "id": "tt0460681:11:5",
+      "title": "Supernatural",
+      "username": "j yng",
+      "lastActive": 1770609472856
     }
   }
 }
