@@ -1,5 +1,5 @@
 {
-  "totalViews": 22385,
+  "totalViews": 22388,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4694,33 +4694,10 @@
     "223.236.85.216",
     "2001:4490:4e65:6f36:d361:4826:cfba:b06f",
     "2409:40e4:8:a9e:24ce:d2ff:fe25:309c",
-    "2401:4900:8824:d167:2126:120c:4f2d:3598"
+    "2401:4900:8824:d167:2126:120c:4f2d:3598",
+    "2402:3a80:164c:f327:f511:294e:66eb:a8dd"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt6468322:2:1",
-      "title": "tt6468322:2:1",
-      "timestamp": "2026-01-20T17:06:42.299Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "series",
-      "id": "tt12867810:1:6",
-      "title": "tt12867810:1:6",
-      "timestamp": "2026-01-20T17:06:51.343Z",
-      "ip": "2409:40c4:3115:1ebd:806b:44ff:feec:3eb1",
-      "username": "napsteerr"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-20T17:07:00.086Z",
-      "ip": "2405:201:2022:b81c:740c:a7ed:5ab0:c07b",
-      "username": "zealousninja"
-    },
     {
       "type": "series",
       "id": "tt12867810:1:7",
@@ -84696,6 +84673,30 @@
       "timestamp": "2026-02-09T20:03:56.826Z",
       "ip": "2409:40e4:8:a9e:24ce:d2ff:fe25:309c",
       "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "timestamp": "2026-02-09T20:07:06.613Z",
+      "ip": "2402:3a80:164c:f327:f511:294e:66eb:a8dd",
+      "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:20",
+      "title": "tt6354518:2:20",
+      "timestamp": "2026-02-09T20:07:28.853Z",
+      "ip": "2401:4900:8824:d167:2126:120c:4f2d:3598",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:2",
+      "title": "tt31844233:1:2",
+      "timestamp": "2026-02-09T20:07:51.673Z",
+      "ip": "2402:3a80:164c:f327:f511:294e:66eb:a8dd",
+      "username": "insnaee99"
     }
   ],
   "activeNow": {
@@ -89089,11 +89090,18 @@
       "lastActive": 1770667436826
     },
     "2401:4900:8824:d167:2126:120c:4f2d:3598": {
-      "type": "movie",
-      "id": "tt30472557",
-      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "type": "series",
+      "id": "tt6354518:2:20",
+      "title": "tt6354518:2:20",
       "username": "sinbad1722",
-      "lastActive": 1770667403345
+      "lastActive": 1770667648853
+    },
+    "2402:3a80:164c:f327:f511:294e:66eb:a8dd": {
+      "type": "series",
+      "id": "tt31844233:1:2",
+      "title": "tt31844233:1:2",
+      "username": "insnaee99",
+      "lastActive": 1770667671673
     }
   }
 }
