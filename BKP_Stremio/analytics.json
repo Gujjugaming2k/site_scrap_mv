@@ -1,5 +1,5 @@
 {
-  "totalViews": 22229,
+  "totalViews": 22232,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4661,33 +4661,10 @@
     "2401:9640:801:a701:f8e5:585a:d80a:6ea2",
     "2001:4490:4e65:b24a:7ddb:33bb:61f1:14a",
     "2405:201:500c:4a01:2839:c255:49e5:2237",
-    "2409:40d4:f3:2b18:cca1:60ff:fe25:33de"
+    "2409:40d4:f3:2b18:cca1:60ff:fe25:33de",
+    "2401:4900:88b9:b8d6:54ec:7979:87ad:96e4"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0085011:1:4",
-      "title": "tt0085011:1:4",
-      "timestamp": "2026-01-20T14:19:06.179Z",
-      "ip": "103.175.9.17",
-      "username": "chouhanji007"
-    },
-    {
-      "type": "series",
-      "id": "tt0085011:1:5",
-      "title": "tt0085011:1:5",
-      "timestamp": "2026-01-20T14:20:16.443Z",
-      "ip": "103.175.9.17",
-      "username": "chouhanji007"
-    },
-    {
-      "type": "series",
-      "id": "tt32537124:2:7",
-      "title": "tt32537124:2:7",
-      "timestamp": "2026-01-20T14:20:41.044Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt16385150:1:6",
@@ -84663,6 +84640,30 @@
       "timestamp": "2026-02-09T12:10:08.764Z",
       "ip": "2405:201:682e:6839:2c5c:21a:f1c5:a1cd",
       "username": "tushar0nly"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:3",
+      "title": "tt1399664:1:3",
+      "timestamp": "2026-02-09T12:20:30.140Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "timestamp": "2026-02-09T12:23:19.762Z",
+      "ip": "2401:4900:88b9:b8d6:54ec:7979:87ad:96e4",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt0471571",
+      "title": "tt0471571",
+      "timestamp": "2026-02-09T12:24:56.812Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -87635,11 +87636,11 @@
       "lastActive": 1770371904431
     },
     "103.24.85.184": {
-      "type": "series",
-      "id": "tt1399664:1:3",
-      "title": "tt1399664:1:3",
+      "type": "movie",
+      "id": "tt0471571",
+      "title": "tt0471571",
       "username": "william097",
-      "lastActive": 1770624009252
+      "lastActive": 1770639896812
     },
     "182.77.74.249": {
       "type": "movie",
@@ -88823,6 +88824,13 @@
       "title": "Game of Thrones",
       "username": "golu_vk",
       "lastActive": 1770638882818
+    },
+    "2401:4900:88b9:b8d6:54ec:7979:87ad:96e4": {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "username": "b1jju",
+      "lastActive": 1770639799762
     }
   }
 }
