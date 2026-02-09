@@ -1,5 +1,5 @@
 {
-  "totalViews": 22108,
+  "totalViews": 22110,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4632,25 +4632,10 @@
     "2601:410:8280:c700:8c28:9bdc:c15:f863",
     "42.108.27.55",
     "152.59.158.46",
-    "2409:40d0:2015:3eb3:5459:6aff:fe34:aa3a"
+    "2409:40d0:2015:3eb3:5459:6aff:fe34:aa3a",
+    "2401:4900:57f2:af1d:f868:b9ff:fefa:6afa"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31938062:2:2",
-      "title": "tt31938062:2:2",
-      "timestamp": "2026-01-20T12:18:41.887Z",
-      "ip": "103.4.222.252",
-      "username": "sexhabibi"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-20T12:21:20.456Z",
-      "ip": "2401:4900:1c55:3748:9cdc:6ff:5b91:8b3b",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt0944947:1:8",
@@ -84634,6 +84619,22 @@
       "timestamp": "2026-02-09T04:42:07.486Z",
       "ip": "45.118.158.239",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt13964560",
+      "title": "tt13964560",
+      "timestamp": "2026-02-09T04:51:20.289Z",
+      "ip": "2401:4900:57f2:af1d:f868:b9ff:fefa:6afa",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt13964560",
+      "title": "tt13964560",
+      "timestamp": "2026-02-09T04:51:25.736Z",
+      "ip": "2401:4900:57f2:af1d:f868:b9ff:fefa:6afa",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -88591,6 +88592,13 @@
       "title": "Dhurandhar",
       "username": "ryuzaklo26",
       "lastActive": 1770611345023
+    },
+    "2401:4900:57f2:af1d:f868:b9ff:fefa:6afa": {
+      "type": "movie",
+      "id": "tt13964560",
+      "title": "tt13964560",
+      "username": "chetan_b2",
+      "lastActive": 1770612685736
     }
   }
 }
