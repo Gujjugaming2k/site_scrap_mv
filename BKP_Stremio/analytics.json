@@ -1,5 +1,5 @@
 {
-  "totalViews": 22078,
+  "totalViews": 22080,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4631,22 +4631,6 @@
     "2a09:bac5:40b3:a82::10c:29"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0944947:1:8",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-20T11:15:36.641Z",
-      "ip": "2401:4900:8038:efd6::e37:d0e2",
-      "username": "abhi231511"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:8",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-20T11:16:40.835Z",
-      "ip": "2401:4900:8038:efd6::e37:d0e2",
-      "username": "abhi231511"
-    },
     {
       "type": "series",
       "id": "tt31974367:1:1",
@@ -84630,6 +84614,22 @@
       "timestamp": "2026-02-09T03:21:12.330Z",
       "ip": "2401:4900:1ca9:17fd:48ee:9138:3231:a04d",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt30387012",
+      "title": "tt30387012",
+      "timestamp": "2026-02-09T03:35:05.911Z",
+      "ip": "2401:4900:1ca9:17fd:48ee:9138:3231:a04d",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt9813792:1:6",
+      "title": "tt9813792:1:6",
+      "timestamp": "2026-02-09T03:36:16.282Z",
+      "ip": "2401:4900:1ca9:17fd:48ee:9138:3231:a04d",
+      "username": "nirbhay1412"
     }
   ],
   "activeNow": {
@@ -88428,11 +88428,11 @@
       "lastActive": 1770571887089
     },
     "2401:4900:1ca9:17fd:48ee:9138:3231:a04d": {
-      "type": "movie",
-      "id": "tt39049192",
-      "title": "tt39049192",
+      "type": "series",
+      "id": "tt9813792:1:6",
+      "title": "tt9813792:1:6",
       "username": "nirbhay1412",
-      "lastActive": 1770607272330
+      "lastActive": 1770608176282
     },
     "2401:4900:a9b9:90a8:7736:3a0b:72e0:c76a": {
       "type": "movie",
