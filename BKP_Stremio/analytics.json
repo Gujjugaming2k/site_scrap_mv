@@ -1,5 +1,5 @@
 {
-  "totalViews": 22489,
+  "totalViews": 22490,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4714,18 +4714,9 @@
     "2409:40d4:40cc:11bf:48c0:7b76:794a:b2a0",
     "2409:40e5:112f:49d7:488c:ceff:fe13:ce05",
     "152.58.186.36",
-    "47.31.127.245",
-    "2a09:bac1:3680:120::2e4:f"
+    "47.31.127.245"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt36616410",
-      "title": "tt36616410",
-      "timestamp": "2026-01-20T18:26:34.955Z",
-      "ip": "2405:201:c056:4073:500a:a122:2af0:14ab",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt36616410",
@@ -84704,19 +84695,27 @@
     },
     {
       "type": "series",
-      "id": "tt2442560:1:3",
-      "title": "tt2442560:1:3",
-      "timestamp": "2026-02-10T08:08:47.604Z",
-      "ip": "2a09:bac1:3680:120::2e4:f",
-      "username": "belimhuzaifa"
+      "id": "tt14186672:2:3",
+      "title": "tt14186672:2:3",
+      "timestamp": "2026-02-10T08:20:38.665Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     },
     {
       "type": "series",
-      "id": "tt14186672:2:3",
-      "title": "tt14186672:2:3",
-      "timestamp": "2026-02-10T08:10:32.160Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
+      "id": "tt39460434:1:2",
+      "title": "tt39460434:1:2",
+      "timestamp": "2026-02-10T08:21:55.857Z",
+      "ip": "2a09:bac5:3af1:172d::24f:1",
+      "username": "angrybirdsneha"
+    },
+    {
+      "type": "series",
+      "id": "tt39460434:1:2",
+      "title": "tt39460434:1:2",
+      "timestamp": "2026-02-10T08:25:51.814Z",
+      "ip": "2a09:bac5:3af1:172d::24f:5",
+      "username": "angrybirdsneha"
     }
   ],
   "activeNow": {
@@ -85068,7 +85067,7 @@
       "id": "tt14186672:2:3",
       "title": "tt14186672:2:3",
       "username": "chetan_b2",
-      "lastActive": 1770711032160
+      "lastActive": 1770711638665
     },
     "157.48.83.94": {
       "type": "series",
@@ -89261,14 +89260,14 @@
       "id": "tt39460434:1:2",
       "title": "tt39460434:1:2",
       "username": "angrybirdsneha",
-      "lastActive": 1770710394788
+      "lastActive": 1770711715857
     },
-    "2a09:bac1:3680:120::2e4:f": {
+    "2a09:bac5:3af1:172d::24f:5": {
       "type": "series",
-      "id": "tt2442560:1:3",
-      "title": "tt2442560:1:3",
-      "username": "belimhuzaifa",
-      "lastActive": 1770710927604
+      "id": "tt39460434:1:2",
+      "title": "tt39460434:1:2",
+      "username": "angrybirdsneha",
+      "lastActive": 1770711951814
     }
   }
 }
