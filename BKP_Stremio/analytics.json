@@ -1,5 +1,5 @@
 {
-  "totalViews": 22435,
+  "totalViews": 22442,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4707,65 +4707,10 @@
     "2603:3003:3544:6700:b2ed:926b:b037:6c89",
     "2401:4900:3e29:7626:9c35:b86d:8b71:225e",
     "2401:4900:1cab:41dc:11c5:d749:4906:b1df",
-    "202.173.124.150"
+    "202.173.124.150",
+    "2409:40d4:402e:8ba2:55b8:9e6:661f:8982"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-20T17:48:03.737Z",
-      "ip": "2405:201:2022:b81c:740c:a7ed:5ab0:c07b",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt7181546",
-      "title": "Ballerina",
-      "timestamp": "2026-01-20T17:48:06.807Z",
-      "ip": "2800:484:4b76:8200:d9f3:e2db:8999:387d",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt21357150",
-      "title": "tt21357150",
-      "timestamp": "2026-01-20T17:48:06.853Z",
-      "ip": "2800:484:4b76:8200:d9f3:e2db:8999:387d",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt14364480",
-      "title": "tt14364480",
-      "timestamp": "2026-01-20T17:48:07.068Z",
-      "ip": "94.204.105.225",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt14364480",
-      "title": "tt14364480",
-      "timestamp": "2026-01-20T17:48:07.153Z",
-      "ip": "94.204.105.225",
-      "username": "subhoghosh69"
-    },
-    {
-      "type": "series",
-      "id": "tt2531336:2:3",
-      "title": "tt2531336:2:3",
-      "timestamp": "2026-01-20T17:48:07.678Z",
-      "ip": "2405:201:2033:841:95f7:526a:6538:1b66",
-      "username": "surti_lala"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:2",
-      "title": "tt35335046:1:2",
-      "timestamp": "2026-01-20T17:48:11.519Z",
-      "ip": "2405:201:2022:b81c:740c:a7ed:5ab0:c07b",
-      "username": "zealousninja"
-    },
     {
       "type": "series",
       "id": "tt12637874:0:1",
@@ -84709,6 +84654,62 @@
       "timestamp": "2026-02-10T06:00:56.672Z",
       "ip": "202.173.124.150",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-10T06:02:03.507Z",
+      "ip": "202.173.124.150",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt28629017",
+      "title": "tt28629017",
+      "timestamp": "2026-02-10T06:02:30.880Z",
+      "ip": "202.173.124.150",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt27431598",
+      "title": "tt27431598",
+      "timestamp": "2026-02-10T06:05:52.392Z",
+      "ip": "117.223.90.227",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt33046197",
+      "title": "tt33046197",
+      "timestamp": "2026-02-10T06:06:50.479Z",
+      "ip": "117.223.90.227",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt33046197",
+      "title": "tt33046197",
+      "timestamp": "2026-02-10T06:08:26.907Z",
+      "ip": "117.223.90.227",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-10T06:10:25.142Z",
+      "ip": "2409:40d4:402e:8ba2:55b8:9e6:661f:8982",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:3",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-10T06:11:06.593Z",
+      "ip": "2409:40d4:402e:8ba2:55b8:9e6:661f:8982",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -88826,7 +88827,7 @@
       "id": "tt33046197",
       "title": "tt33046197",
       "username": "zealousninja",
-      "lastActive": 1770635378354
+      "lastActive": 1770703706907
     },
     "49.43.160.242": {
       "type": "series",
@@ -89197,7 +89198,14 @@
       "id": "tt28629017",
       "title": "tt28629017",
       "username": "ryuzaklo26",
-      "lastActive": 1770703256672
+      "lastActive": 1770703350880
+    },
+    "2409:40d4:402e:8ba2:55b8:9e6:661f:8982": {
+      "type": "series",
+      "id": "tt4574334:1:3",
+      "title": "Stranger Things",
+      "username": "kdbotz",
+      "lastActive": 1770703866593
     }
   }
 }
