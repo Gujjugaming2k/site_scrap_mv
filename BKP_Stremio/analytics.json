@@ -1,5 +1,5 @@
 {
-  "totalViews": 22550,
+  "totalViews": 22552,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4732,22 +4732,6 @@
     "2409:40e4:109d:5de3:4dd7:2a23:ec35:5ba4"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2365946:1:9",
-      "title": "tt2365946:1:9",
-      "timestamp": "2026-01-20T20:49:34.229Z",
-      "ip": "2a06:c701:474f:e900:fc79:8199:84d9:9c06",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2365946:1:9",
-      "title": "tt2365946:1:9",
-      "timestamp": "2026-01-20T20:49:34.289Z",
-      "ip": "2a06:c701:474f:e900:fc79:8199:84d9:9c06",
-      "username": "aviv"
-    },
     {
       "type": "series",
       "id": "tt2365946:1:9",
@@ -84731,6 +84715,22 @@
       "timestamp": "2026-02-10T13:28:47.419Z",
       "ip": "139.5.196.103",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt0995031",
+      "title": "tt0995031",
+      "timestamp": "2026-02-10T13:33:33.674Z",
+      "ip": "2a09:bac1:36e0:1e0::2a8:38",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:3",
+      "title": "tt14186672:2:3",
+      "timestamp": "2026-02-10T13:44:09.651Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -85082,7 +85082,7 @@
       "id": "tt14186672:2:3",
       "title": "tt14186672:2:3",
       "username": "chetan_b2",
-      "lastActive": 1770728884281
+      "lastActive": 1770731049651
     },
     "157.48.83.94": {
       "type": "series",
@@ -89355,11 +89355,11 @@
       "lastActive": 1770727938275
     },
     "2a09:bac1:36e0:1e0::2a8:38": {
-      "type": "series",
-      "id": "tt0903747:2:1",
-      "title": "tt0903747:2:1",
+      "type": "movie",
+      "id": "tt0995031",
+      "title": "tt0995031",
       "username": "demon18319",
-      "lastActive": 1770728340663
+      "lastActive": 1770730413674
     },
     "2001:4490:4e65:6f36:3472:858b:48a5:9e04": {
       "type": "movie",
