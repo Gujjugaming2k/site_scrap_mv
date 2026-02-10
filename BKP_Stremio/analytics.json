@@ -1,5 +1,5 @@
 {
-  "totalViews": 22686,
+  "totalViews": 22687,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4758,14 +4758,6 @@
     "2001:4490:4e65:45b3:a510:2712:1df1:7753"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt15387182",
-      "title": "tt15387182",
-      "timestamp": "2026-01-21T04:38:18.874Z",
-      "ip": "2a02:6ea0:d101:6223::23",
-      "username": "golu_vk"
-    },
     {
       "type": "movie",
       "id": "tt15387182",
@@ -84757,6 +84749,14 @@
       "timestamp": "2026-02-10T20:37:30.658Z",
       "ip": "47.15.107.69",
       "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt32332404",
+      "title": "Keeper",
+      "timestamp": "2026-02-10T21:39:13.809Z",
+      "ip": "2409:40e4:1005:2378:4a3:34ff:fe36:2559",
+      "username": "cyberboy12321"
     }
   ],
   "activeNow": {
@@ -89563,11 +89563,11 @@
       "lastActive": 1770746806657
     },
     "2409:40e4:1005:2378:4a3:34ff:fe36:2559": {
-      "type": "series",
-      "id": "tt30003786:4:8",
-      "title": "tt30003786:4:8",
+      "type": "movie",
+      "id": "tt32332404",
+      "title": "Keeper",
       "username": "cyberboy12321",
-      "lastActive": 1770747403364
+      "lastActive": 1770759553809
     },
     "182.77.73.123": {
       "type": "series",
