@@ -1,5 +1,5 @@
 {
-  "totalViews": 22614,
+  "totalViews": 22615,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4748,14 +4748,6 @@
     "2409:40e2:1158:b086:5d5:7b41:b958:4d6e"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-21T02:02:54.532Z",
-      "ip": "2409:40e2:20aa:7d1c:ad78:924f:16f2:7ecb",
-      "username": "adr7000"
-    },
     {
       "type": "series",
       "id": "tt3398540:1:11",
@@ -84747,6 +84739,14 @@
       "timestamp": "2026-02-10T16:04:50.178Z",
       "ip": "2409:40e4:109d:5de3:4dd7:2a23:ec35:5ba4",
       "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt1355642:1:3",
+      "title": "tt1355642:1:3",
+      "timestamp": "2026-02-10T16:13:32.413Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
     }
   ],
   "activeNow": {
@@ -86068,10 +86068,10 @@
     },
     "103.175.168.106": {
       "type": "series",
-      "id": "tt1355642:1:2",
-      "title": "tt1355642:1:2",
+      "id": "tt1355642:1:3",
+      "title": "tt1355642:1:3",
       "username": "un0fficial_itachi",
-      "lastActive": 1770739420347
+      "lastActive": 1770740012413
     },
     "38.224.232.52": {
       "type": "movie",
