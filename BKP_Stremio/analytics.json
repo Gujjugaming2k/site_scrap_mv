@@ -1,5 +1,5 @@
 {
-  "totalViews": 22422,
+  "totalViews": 22428,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4703,57 +4703,10 @@
     "2409:40d4:4031:ff8d:25a5:8897:9576:b2a8",
     "103.170.53.142",
     "2409:40e6:31:1be5:743c:c8ff:fed2:4426",
-    "2409:40d2:304b:1186:610e:d602:f759:e672"
+    "2409:40d2:304b:1186:610e:d602:f759:e672",
+    "2603:3003:3544:6700:b2ed:926b:b037:6c89"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1130884",
-      "title": "Shutter Island",
-      "timestamp": "2026-01-20T17:43:57.881Z",
-      "ip": "94.204.105.225",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt2911666",
-      "title": "John Wick",
-      "timestamp": "2026-01-20T17:44:28.275Z",
-      "ip": "94.204.105.225",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt2911666",
-      "title": "John Wick",
-      "timestamp": "2026-01-20T17:44:28.353Z",
-      "ip": "94.204.105.225",
-      "username": "subhoghosh69"
-    },
-    {
-      "type": "movie",
-      "id": "tt9362736",
-      "title": "Die My Love",
-      "timestamp": "2026-01-20T17:45:37.128Z",
-      "ip": "2402:e280:3e71:368:5a4a:14c5:1b3e:e71e",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt11564570",
-      "title": "tt11564570",
-      "timestamp": "2026-01-20T17:45:55.648Z",
-      "ip": "94.204.105.225",
-      "username": "subhoghosh69"
-    },
-    {
-      "type": "movie",
-      "id": "tt11564570",
-      "title": "tt11564570",
-      "timestamp": "2026-01-20T17:45:56.991Z",
-      "ip": "94.204.105.225",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt8946378",
@@ -84705,6 +84658,54 @@
       "timestamp": "2026-02-10T04:58:59.957Z",
       "ip": "223.185.23.154",
       "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "timestamp": "2026-02-10T05:03:17.746Z",
+      "ip": "2409:40d2:304b:1186:610e:d602:f759:e672",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-02-10T05:05:22.534Z",
+      "ip": "2409:40d2:304b:1186:610e:d602:f759:e672",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-02-10T05:07:00.969Z",
+      "ip": "2409:40d2:304b:1186:610e:d602:f759:e672",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-10T05:09:35.389Z",
+      "ip": "2409:40d2:304b:1186:610e:d602:f759:e672",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt1442449:1:1",
+      "title": "tt1442449:1:1",
+      "timestamp": "2026-02-10T05:10:18.298Z",
+      "ip": "2409:40d2:304b:1186:610e:d602:f759:e672",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt28629017",
+      "title": "tt28629017",
+      "timestamp": "2026-02-10T05:15:31.753Z",
+      "ip": "2603:3003:3544:6700:b2ed:926b:b037:6c89",
+      "username": "anupambabu_97"
     }
   ],
   "activeNow": {
@@ -89162,10 +89163,17 @@
     },
     "2409:40d2:304b:1186:610e:d602:f759:e672": {
       "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
+      "id": "tt1442449:1:1",
+      "title": "tt1442449:1:1",
       "username": "saurabhkaperwan",
-      "lastActive": 1770699531977
+      "lastActive": 1770700218298
+    },
+    "2603:3003:3544:6700:b2ed:926b:b037:6c89": {
+      "type": "movie",
+      "id": "tt28629017",
+      "title": "tt28629017",
+      "username": "anupambabu_97",
+      "lastActive": 1770700531753
     }
   }
 }
