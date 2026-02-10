@@ -205,5 +205,15 @@
     "enabled": false,
     "createdAt": "2026-01-22T05:56:35.126Z",
     "updatedAt": "2026-01-22T06:11:48.136Z"
+  },
+  {
+    "id": "1770731760488",
+    "name": "telegram stremio",
+    "movieUrl": "https://telegram.vflix.shop/stremio/L8wZCJsqVplx18fQmRCNZzU5GCazRW17/stream/movie/{{id}}.json",
+    "seriesUrl": "https://telegram.vflix.shop/stremio/L8wZCJsqVplx18fQmRCNZzU5GCazRW17/stream/series/{{id}}:{{season}}:{{episode}}.json",
+    "timeout": 10000,
+    "priority": 1,
+    "enabled": true,
+    "createdAt": "2026-02-10T13:56:00.488Z"
   }
 ]
