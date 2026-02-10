@@ -1,5 +1,5 @@
 {
-  "totalViews": 22406,
+  "totalViews": 22407,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4702,14 +4702,6 @@
     "2409:40e4:2014:a220:fc15:ff:fef4:6551"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-20T17:26:05.818Z",
-      "ip": "2405:201:2022:b81c:a0a2:d96a:4c02:3080",
-      "username": "zealousninja"
-    },
     {
       "type": "series",
       "id": "tt2531336:2:4",
@@ -84701,6 +84693,14 @@
       "timestamp": "2026-02-10T02:11:17.818Z",
       "ip": "103.24.85.184",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt32362695",
+      "title": "tt32362695",
+      "timestamp": "2026-02-10T02:27:35.895Z",
+      "ip": "2402:a00:10a:815f:c724:45a2:b9d7:1d81",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -89067,10 +89067,10 @@
     },
     "2402:a00:10a:815f:c724:45a2:b9d7:1d81": {
       "type": "movie",
-      "id": "tt34610311",
-      "title": "The Shadow's Edge",
+      "id": "tt32362695",
+      "title": "tt32362695",
       "username": "vflix1993",
-      "lastActive": 1770656790927
+      "lastActive": 1770690455895
     },
     "223.236.85.216": {
       "type": "series",
