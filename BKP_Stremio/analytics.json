@@ -1,5 +1,5 @@
 {
-  "totalViews": 22528,
+  "totalViews": 22531,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4721,33 +4721,10 @@
     "103.249.4.198",
     "49.42.52.44",
     "2401:9640:801:a701:e42d:1c2e:912e:e9ad",
-    "81.17.122.234"
+    "81.17.122.234",
+    "2a09:bac1:3680:1768::3e3:2a"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt6468322:2:3",
-      "title": "tt6468322:2:3",
-      "timestamp": "2026-01-20T19:32:43.212Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "movie",
-      "id": "tt36642456",
-      "title": "tt36642456",
-      "timestamp": "2026-01-20T19:48:35.019Z",
-      "ip": "2a02:6ea0:d101:6226::33",
-      "username": "golu_vk"
-    },
-    {
-      "type": "movie",
-      "id": "tt36642456",
-      "title": "tt36642456",
-      "timestamp": "2026-01-20T19:48:36.458Z",
-      "ip": "2a02:6ea0:d101:6226::33,51.89.197.91",
-      "username": "virat"
-    },
     {
       "type": "series",
       "id": "tt0903747:1:1",
@@ -84723,6 +84700,30 @@
       "timestamp": "2026-02-10T12:16:29.720Z",
       "ip": "81.17.122.234",
       "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt8011276",
+      "title": "tt8011276",
+      "timestamp": "2026-02-10T12:23:46.990Z",
+      "ip": "81.17.122.234",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt2442560:1:3",
+      "title": "tt2442560:1:3",
+      "timestamp": "2026-02-10T12:26:24.177Z",
+      "ip": "2a09:bac1:3680:1768::3e3:2a",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "movie",
+      "id": "tt1663662",
+      "title": "Pacific Rim",
+      "timestamp": "2026-02-10T12:28:45.869Z",
+      "ip": "81.17.122.234",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -89320,10 +89321,17 @@
     },
     "81.17.122.234": {
       "type": "movie",
-      "id": "tt37376961",
-      "title": "tt37376961",
+      "id": "tt1663662",
+      "title": "Pacific Rim",
       "username": "b1jju",
-      "lastActive": 1770725789720
+      "lastActive": 1770726525869
+    },
+    "2a09:bac1:3680:1768::3e3:2a": {
+      "type": "series",
+      "id": "tt2442560:1:3",
+      "title": "tt2442560:1:3",
+      "username": "belimhuzaifa",
+      "lastActive": 1770726384177
     }
   }
 }
