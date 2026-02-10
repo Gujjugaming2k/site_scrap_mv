@@ -1,5 +1,5 @@
 {
-  "totalViews": 22420,
+  "totalViews": 22422,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4702,25 +4702,10 @@
     "2409:40e4:2014:a220:fc15:ff:fef4:6551",
     "2409:40d4:4031:ff8d:25a5:8897:9576:b2a8",
     "103.170.53.142",
-    "2409:40e6:31:1be5:743c:c8ff:fed2:4426"
+    "2409:40e6:31:1be5:743c:c8ff:fed2:4426",
+    "2409:40d2:304b:1186:610e:d602:f759:e672"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-20T17:42:40.108Z",
-      "ip": "2405:201:2022:b81c:740c:a7ed:5ab0:c07b",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt1130884",
-      "title": "Shutter Island",
-      "timestamp": "2026-01-20T17:43:57.797Z",
-      "ip": "94.204.105.225",
-      "username": "subhoghosh69"
-    },
     {
       "type": "movie",
       "id": "tt1130884",
@@ -84704,6 +84689,22 @@
       "timestamp": "2026-02-10T04:36:05.638Z",
       "ip": "2409:40e6:31:1be5:743c:c8ff:fed2:4426",
       "username": "n a b a."
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-02-10T04:58:51.977Z",
+      "ip": "2409:40d2:304b:1186:610e:d602:f759:e672",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:20",
+      "title": "tt6354518:2:20",
+      "timestamp": "2026-02-10T04:58:59.957Z",
+      "ip": "223.185.23.154",
+      "username": "sinbad1722"
     }
   ],
   "activeNow": {
@@ -89031,7 +89032,7 @@
       "id": "tt6354518:2:20",
       "title": "tt6354518:2:20",
       "username": "sinbad1722",
-      "lastActive": 1770653855019
+      "lastActive": 1770699539957
     },
     "2409:40c0:2c:cd8d:e14b:1b37:a198:cb47": {
       "type": "movie",
@@ -89158,6 +89159,13 @@
       "title": "Fallout",
       "username": "n a b a.",
       "lastActive": 1770698165638
+    },
+    "2409:40d2:304b:1186:610e:d602:f759:e672": {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "username": "saurabhkaperwan",
+      "lastActive": 1770699531977
     }
   }
 }
