@@ -1,5 +1,5 @@
 {
-  "totalViews": 22681,
+  "totalViews": 22682,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4756,14 +4756,6 @@
     "2409:40e4:109d:5de3:5004:d2aa:b489:3c87"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-21T04:25:38.889Z",
-      "ip": "2401:4900:8820:8915:9f5a:db66:9f11:2a7c,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:3",
@@ -84755,6 +84747,14 @@
       "timestamp": "2026-02-10T18:40:23.340Z",
       "ip": "2409:40e4:109d:5de3:5004:d2aa:b489:3c87",
       "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-02-10T18:44:17.046Z",
+      "ip": "2409:40e4:109d:5de3:5004:d2aa:b489:3c87",
+      "username": "askchm"
     }
   ],
   "activeNow": {
@@ -89579,7 +89579,7 @@
       "id": "tt16311594",
       "title": "F1",
       "username": "askchm",
-      "lastActive": 1770748823340
+      "lastActive": 1770749057046
     }
   }
 }
