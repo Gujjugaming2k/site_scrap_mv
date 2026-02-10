@@ -1,5 +1,5 @@
 {
-  "totalViews": 22588,
+  "totalViews": 22592,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4738,41 +4738,11 @@
     "2405:201:5c14:2a70:a9b7:5d13:8350:292",
     "2405:201:6820:a82f:8d5:ed4b:2b1b:cbc7",
     "38.224.232.16",
-    "152.59.152.129"
+    "152.59.152.129",
+    "2001:4490:4e65:45b3:8474:9faa:429:d8c6",
+    "2402:a00:10a:815f:9471:d8fd:7d93:fa28"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt11893070:1:3",
-      "title": "tt11893070:1:3",
-      "timestamp": "2026-01-20T23:07:52.774Z",
-      "ip": "2409:40f0:2415:f927:58ad:58ff:fe2e:43d0",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "movie",
-      "id": "tt16139054",
-      "title": "tt16139054",
-      "timestamp": "2026-01-20T23:08:17.981Z",
-      "ip": "2409:40f0:2415:f927:58ad:58ff:fe2e:43d0",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "movie",
-      "id": "tt10773090",
-      "title": "tt10773090",
-      "timestamp": "2026-01-20T23:09:04.517Z",
-      "ip": "2409:40f0:2415:f927:58ad:58ff:fe2e:43d0",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "movie",
-      "id": "tt16139054",
-      "title": "tt16139054",
-      "timestamp": "2026-01-20T23:10:49.871Z",
-      "ip": "2409:40f0:2415:f927:58ad:58ff:fe2e:43d0",
-      "username": "sachinprem1"
-    },
     {
       "type": "movie",
       "id": "tt9260636",
@@ -84740,6 +84710,38 @@
       "timestamp": "2026-02-10T14:47:22.975Z",
       "ip": "152.59.152.129",
       "username": "n a b a."
+    },
+    {
+      "type": "movie",
+      "id": "tt0867465",
+      "title": "tt0867465",
+      "timestamp": "2026-02-10T14:55:50.447Z",
+      "ip": "2001:4490:4e65:45b3:8474:9faa:429:d8c6",
+      "username": "adiyogivishwanath"
+    },
+    {
+      "type": "series",
+      "id": "tt2788316:1:1",
+      "title": "tt2788316:1:1",
+      "timestamp": "2026-02-10T14:56:01.491Z",
+      "ip": "2402:a00:10a:815f:9471:d8fd:7d93:fa28",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt2788316:1:2",
+      "title": "tt2788316:1:2",
+      "timestamp": "2026-02-10T14:56:25.434Z",
+      "ip": "2402:a00:10a:815f:9471:d8fd:7d93:fa28",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt18392014",
+      "title": "Play Dirty",
+      "timestamp": "2026-02-10T14:56:50.223Z",
+      "ip": "2402:a00:10a:815f:9471:d8fd:7d93:fa28",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -89460,6 +89462,20 @@
       "title": "Chainsaw Man - The Movie: Reze Arc",
       "username": "n a b a.",
       "lastActive": 1770734842975
+    },
+    "2001:4490:4e65:45b3:8474:9faa:429:d8c6": {
+      "type": "movie",
+      "id": "tt0867465",
+      "title": "tt0867465",
+      "username": "adiyogivishwanath",
+      "lastActive": 1770735350447
+    },
+    "2402:a00:10a:815f:9471:d8fd:7d93:fa28": {
+      "type": "movie",
+      "id": "tt18392014",
+      "title": "Play Dirty",
+      "username": "vflix1993",
+      "lastActive": 1770735410223
     }
   }
 }
