@@ -1,5 +1,5 @@
 {
-  "totalViews": 22682,
+  "totalViews": 22684,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4753,25 +4753,11 @@
     "182.65.214.43",
     "2409:40e4:1005:2378:4a3:34ff:fe36:2559",
     "182.77.73.123",
-    "2409:40e4:109d:5de3:5004:d2aa:b489:3c87"
+    "2409:40e4:109d:5de3:5004:d2aa:b489:3c87",
+    "47.15.107.69",
+    "2001:4490:4e65:45b3:a510:2712:1df1:7753"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-21T04:25:39.306Z",
-      "ip": "2401:4900:8820:8915:9f5a:db66:9f11:2a7c,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt10919420:3:1",
-      "title": "tt10919420:3:1",
-      "timestamp": "2026-01-21T04:27:39.190Z",
-      "ip": "2401:4900:8820:8915:9f5a:db66:9f11:2a7c,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt10919420:3:2",
@@ -84755,6 +84741,22 @@
       "timestamp": "2026-02-10T18:44:17.046Z",
       "ip": "2409:40e4:109d:5de3:5004:d2aa:b489:3c87",
       "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt10676052",
+      "title": "The Fantastic 4: First Steps",
+      "timestamp": "2026-02-10T19:04:19.154Z",
+      "ip": "47.15.107.69",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt0867465",
+      "title": "tt0867465",
+      "timestamp": "2026-02-10T19:06:44.262Z",
+      "ip": "2001:4490:4e65:45b3:a510:2712:1df1:7753",
+      "username": "adiyogivishwanath"
     }
   ],
   "activeNow": {
@@ -89580,6 +89582,20 @@
       "title": "F1",
       "username": "askchm",
       "lastActive": 1770749057046
+    },
+    "47.15.107.69": {
+      "type": "movie",
+      "id": "tt10676052",
+      "title": "The Fantastic 4: First Steps",
+      "username": "golu_vk",
+      "lastActive": 1770750259154
+    },
+    "2001:4490:4e65:45b3:a510:2712:1df1:7753": {
+      "type": "movie",
+      "id": "tt0867465",
+      "title": "tt0867465",
+      "username": "adiyogivishwanath",
+      "lastActive": 1770750404262
     }
   }
 }
