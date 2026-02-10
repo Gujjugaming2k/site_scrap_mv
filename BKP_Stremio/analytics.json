@@ -1,5 +1,5 @@
 {
-  "totalViews": 22412,
+  "totalViews": 22414,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4699,25 +4699,10 @@
     "2a09:bac5:3c79:1478::20a:90",
     "2406:b400:1a:506:8c4d:8122:db87:1b32",
     "2a02:cb80:40b0:b43f:6c38:9c57:71ba:7b1e",
-    "2409:40e4:2014:a220:fc15:ff:fef4:6551"
+    "2409:40e4:2014:a220:fc15:ff:fef4:6551",
+    "2409:40d4:4031:ff8d:25a5:8897:9576:b2a8"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt22740896",
-      "title": "tt22740896",
-      "timestamp": "2026-01-20T17:29:23.127Z",
-      "ip": "2405:201:202d:d014:3582:c160:ea46:7136",
-      "username": "explorerindia"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-20T17:30:37.361Z",
-      "ip": "2409:40d0:12e2:3472:c21:eff:fe69:eb62",
-      "username": "magicmannn"
-    },
     {
       "type": "movie",
       "id": "tt32642706",
@@ -84701,6 +84686,22 @@
       "timestamp": "2026-02-10T02:49:43.904Z",
       "ip": "2409:40d4:4031:ff8d:8000::",
       "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt14846026",
+      "title": "Sisu",
+      "timestamp": "2026-02-10T03:05:19.962Z",
+      "ip": "2409:40d4:4031:ff8d:25a5:8897:9576:b2a8",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-10T03:05:29.410Z",
+      "ip": "2409:40d4:4031:ff8d:25a5:8897:9576:b2a8",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -89134,6 +89135,13 @@
       "title": "tt8291224",
       "username": "cyberboy12321",
       "lastActive": 1770689189061
+    },
+    "2409:40d4:4031:ff8d:25a5:8897:9576:b2a8": {
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
+      "username": "kdbotz",
+      "lastActive": 1770692729410
     }
   }
 }
