@@ -1,5 +1,5 @@
 {
-  "totalViews": 22684,
+  "totalViews": 22685,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4758,14 +4758,6 @@
     "2001:4490:4e65:45b3:a510:2712:1df1:7753"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt10919420:3:2",
-      "title": "tt10919420:3:2",
-      "timestamp": "2026-01-21T04:27:50.220Z",
-      "ip": "2401:4900:8820:8915:9f5a:db66:9f11:2a7c,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -84757,6 +84749,14 @@
       "timestamp": "2026-02-10T19:06:44.262Z",
       "ip": "2001:4490:4e65:45b3:a510:2712:1df1:7753",
       "username": "adiyogivishwanath"
+    },
+    {
+      "type": "series",
+      "id": "tt27853283:1:1",
+      "title": "tt27853283:1:1",
+      "timestamp": "2026-02-10T19:21:33.034Z",
+      "ip": "103.181.65.86",
+      "username": "mutti9"
     }
   ],
   "activeNow": {
@@ -87015,11 +87015,11 @@
       "lastActive": 1770227065438
     },
     "103.181.65.86": {
-      "type": "movie",
-      "id": "tt37376961",
-      "title": "tt37376961",
+      "type": "series",
+      "id": "tt27853283:1:1",
+      "title": "tt27853283:1:1",
       "username": "mutti9",
-      "lastActive": 1770747936797
+      "lastActive": 1770751293034
     },
     "2409:40e5:11e3:27e4:b891:5fff:fee8:7736": {
       "type": "series",
