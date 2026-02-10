@@ -1,5 +1,5 @@
 {
-  "totalViews": 22444,
+  "totalViews": 22447,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4712,30 +4712,6 @@
     "116.68.75.147"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:2",
-      "title": "tt35335046:1:2",
-      "timestamp": "2026-01-20T17:49:51.354Z",
-      "ip": "2405:201:2022:b81c:740c:a7ed:5ab0:c07b",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt1187043",
-      "title": "3 Idiots",
-      "timestamp": "2026-01-20T17:51:10.420Z",
-      "ip": "2405:201:2022:b81c:740c:a7ed:5ab0:c07b",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt1187043",
-      "title": "3 Idiots",
-      "timestamp": "2026-01-20T17:51:19.698Z",
-      "ip": "2405:201:2022:b81c:740c:a7ed:5ab0:c07b",
-      "username": "zealousninja"
-    },
     {
       "type": "movie",
       "id": "tt30144839",
@@ -84711,6 +84687,30 @@
       "timestamp": "2026-02-10T06:31:50.634Z",
       "ip": "116.68.75.147",
       "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:3:19",
+      "title": "Lost",
+      "timestamp": "2026-02-10T06:32:20.716Z",
+      "ip": "116.68.75.147",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:3:20",
+      "title": "Lost",
+      "timestamp": "2026-02-10T06:32:55.006Z",
+      "ip": "116.68.75.147",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-02-10T06:33:39.142Z",
+      "ip": "2409:40e6:31:1be5:743c:c8ff:fed2:4426",
+      "username": "n a b a."
     }
   ],
   "activeNow": {
@@ -89160,11 +89160,11 @@
       "lastActive": 1770694440485
     },
     "2409:40e6:31:1be5:743c:c8ff:fed2:4426": {
-      "type": "series",
-      "id": "tt12637874:1:1",
-      "title": "Fallout",
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
       "username": "n a b a.",
-      "lastActive": 1770698165638
+      "lastActive": 1770705219142
     },
     "2409:40d2:304b:1186:610e:d602:f759:e672": {
       "type": "series",
@@ -89210,10 +89210,10 @@
     },
     "116.68.75.147": {
       "type": "series",
-      "id": "tt0411008:3:18",
+      "id": "tt0411008:3:20",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1770705110634
+      "lastActive": 1770705175006
     }
   }
 }
