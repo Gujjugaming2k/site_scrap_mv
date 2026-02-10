@@ -1,5 +1,5 @@
 {
-  "totalViews": 22498,
+  "totalViews": 22497,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4720,6 +4720,14 @@
     "2a09:bac5:40b7:1a96::2a6:6c"
   ],
   "views": [
+    {
+      "type": "movie",
+      "id": "tt1462900",
+      "title": "tt1462900",
+      "timestamp": "2026-01-20T18:33:46.355Z",
+      "ip": "103.181.65.86",
+      "username": "mutti9"
+    },
     {
       "type": "movie",
       "id": "tt0454921",
@@ -84698,17 +84706,9 @@
     },
     {
       "type": "series",
-      "id": "tt39460434:1:1",
-      "title": "tt39460434:1:1",
-      "timestamp": "2026-02-10T09:41:01.095Z",
-      "ip": "2a09:bac5:3af1:172d::24f:5",
-      "username": "angrybirdsneha"
-    },
-    {
-      "type": "series",
-      "id": "tt31844233:1:1",
-      "title": "tt31844233:1:1",
-      "timestamp": "2026-02-10T09:41:40.158Z",
+      "id": "tt4197638:1:1",
+      "title": "tt4197638:1:1",
+      "timestamp": "2026-02-10T09:45:03.642Z",
       "ip": "2a09:bac5:3af1:172d::24f:5",
       "username": "angrybirdsneha"
     },
@@ -84716,7 +84716,7 @@
       "type": "movie",
       "id": "tt13451410",
       "title": "tt13451410",
-      "timestamp": "2026-02-10T09:47:21.283Z",
+      "timestamp": "2026-02-10T09:47:46.742Z",
       "ip": "2a09:bac5:3af1:172d::24f:5",
       "username": "angrybirdsneha"
     }
@@ -89291,7 +89291,7 @@
       "id": "tt13451410",
       "title": "tt13451410",
       "username": "angrybirdsneha",
-      "lastActive": 1770716841283
+      "lastActive": 1770716866742
     }
   }
 }
