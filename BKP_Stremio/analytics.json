@@ -1,5 +1,5 @@
 {
-  "totalViews": 22539,
+  "totalViews": 22544,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4725,49 +4725,11 @@
     "2a09:bac1:3680:1768::3e3:2a",
     "2405:201:500c:4a01:6416:634b:bc6:cd40",
     "2a09:bac5:3af1:172d::24f:6",
-    "2a09:bac1:36e0:1e0::2a8:38"
+    "2a09:bac1:36e0:1e0::2a8:38",
+    "2001:4490:4e65:6f36:3472:858b:48a5:9e04",
+    "2409:40e6:a:6f61:44d5:c0ff:fe66:549a"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt5039054",
-      "title": "tt5039054",
-      "timestamp": "2026-01-20T20:08:08.764Z",
-      "ip": "2409:40f0:2407:3891:d0fa:faff:fef8:9ed0",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "movie",
-      "id": "tt5037912",
-      "title": "tt5037912",
-      "timestamp": "2026-01-20T20:09:22.787Z",
-      "ip": "2409:40f0:2407:3891:d0fa:faff:fef8:9ed0",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "movie",
-      "id": "tt2330098",
-      "title": "tt2330098",
-      "timestamp": "2026-01-20T20:11:28.677Z",
-      "ip": "2409:40f0:2407:3891:d0fa:faff:fef8:9ed0",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-20T20:30:36.593Z",
-      "ip": "154.208.49.98",
-      "username": "cutepupper"
-    },
-    {
-      "type": "movie",
-      "id": "tt15398776",
-      "title": "Oppenheimer",
-      "timestamp": "2026-01-20T20:31:51.389Z",
-      "ip": "182.69.183.164",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt33270420:1:2",
@@ -84727,6 +84689,46 @@
       "timestamp": "2026-02-10T12:59:00.663Z",
       "ip": "2a09:bac1:36e0:1e0::2a8:38",
       "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:3",
+      "title": "tt14186672:2:3",
+      "timestamp": "2026-02-10T13:08:04.281Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt0867465",
+      "title": "tt0867465",
+      "timestamp": "2026-02-10T13:08:32.464Z",
+      "ip": "2001:4490:4e65:6f36:3472:858b:48a5:9e04",
+      "username": "adiyogivishwanath"
+    },
+    {
+      "type": "movie",
+      "id": "tt0867465",
+      "title": "tt0867465",
+      "timestamp": "2026-02-10T13:08:42.975Z",
+      "ip": "2001:4490:4e65:6f36:3472:858b:48a5:9e04",
+      "username": "adiyogivishwanath"
+    },
+    {
+      "type": "movie",
+      "id": "tt5311514",
+      "title": "Your Name.",
+      "timestamp": "2026-02-10T13:11:02.906Z",
+      "ip": "2409:40e6:a:6f61:44d5:c0ff:fe66:549a",
+      "username": "n a b a."
+    },
+    {
+      "type": "movie",
+      "id": "tt34276058",
+      "title": "The Family Plan 2",
+      "timestamp": "2026-02-10T13:11:45.502Z",
+      "ip": "2409:40e6:a:6f61:44d5:c0ff:fe66:549a",
+      "username": "n a b a."
     }
   ],
   "activeNow": {
@@ -85078,7 +85080,7 @@
       "id": "tt14186672:2:3",
       "title": "tt14186672:2:3",
       "username": "chetan_b2",
-      "lastActive": 1770711032160
+      "lastActive": 1770728884281
     },
     "157.48.83.94": {
       "type": "series",
@@ -89356,6 +89358,20 @@
       "title": "tt0903747:2:1",
       "username": "demon18319",
       "lastActive": 1770728340663
+    },
+    "2001:4490:4e65:6f36:3472:858b:48a5:9e04": {
+      "type": "movie",
+      "id": "tt0867465",
+      "title": "tt0867465",
+      "username": "adiyogivishwanath",
+      "lastActive": 1770728922975
+    },
+    "2409:40e6:a:6f61:44d5:c0ff:fe66:549a": {
+      "type": "movie",
+      "id": "tt34276058",
+      "title": "The Family Plan 2",
+      "username": "n a b a.",
+      "lastActive": 1770729105502
     }
   }
 }
