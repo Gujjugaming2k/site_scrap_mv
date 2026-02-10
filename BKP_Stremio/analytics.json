@@ -1,5 +1,5 @@
 {
-  "totalViews": 22442,
+  "totalViews": 22444,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4708,25 +4708,10 @@
     "2401:4900:3e29:7626:9c35:b86d:8b71:225e",
     "2401:4900:1cab:41dc:11c5:d749:4906:b1df",
     "202.173.124.150",
-    "2409:40d4:402e:8ba2:55b8:9e6:661f:8982"
+    "2409:40d4:402e:8ba2:55b8:9e6:661f:8982",
+    "116.68.75.147"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12637874:0:1",
-      "title": "Fallout",
-      "timestamp": "2026-01-20T17:48:35.385Z",
-      "ip": "2800:484:4b76:8200:d9f3:e2db:8999:387d",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:2",
-      "title": "tt35335046:1:2",
-      "timestamp": "2026-01-20T17:48:42.134Z",
-      "ip": "2405:201:2022:b81c:740c:a7ed:5ab0:c07b",
-      "username": "zealousninja"
-    },
     {
       "type": "series",
       "id": "tt35335046:1:2",
@@ -84710,6 +84695,22 @@
       "timestamp": "2026-02-10T06:11:06.593Z",
       "ip": "2409:40d4:402e:8ba2:55b8:9e6:661f:8982",
       "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:3:18",
+      "title": "Lost",
+      "timestamp": "2026-02-10T06:31:38.454Z",
+      "ip": "116.68.75.147",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:3:18",
+      "title": "Lost",
+      "timestamp": "2026-02-10T06:31:50.634Z",
+      "ip": "116.68.75.147",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -89206,6 +89207,13 @@
       "title": "Stranger Things",
       "username": "kdbotz",
       "lastActive": 1770703866593
+    },
+    "116.68.75.147": {
+      "type": "series",
+      "id": "tt0411008:3:18",
+      "title": "Lost",
+      "username": "aravindsivan",
+      "lastActive": 1770705110634
     }
   }
 }
