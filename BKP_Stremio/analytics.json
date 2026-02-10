@@ -1,5 +1,5 @@
 {
-  "totalViews": 22592,
+  "totalViews": 22598,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4740,57 +4740,11 @@
     "38.224.232.16",
     "152.59.152.129",
     "2001:4490:4e65:45b3:8474:9faa:429:d8c6",
-    "2402:a00:10a:815f:9471:d8fd:7d93:fa28"
+    "2402:a00:10a:815f:9471:d8fd:7d93:fa28",
+    "2409:40f0:167:a614:e0cf:81ff:feba:7aec",
+    "152.59.144.1"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt9260636",
-      "title": "tt9260636",
-      "timestamp": "2026-01-20T23:11:00.062Z",
-      "ip": "2409:40f0:2415:f927:58ad:58ff:fe2e:43d0",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "movie",
-      "id": "tt15115804",
-      "title": "tt15115804",
-      "timestamp": "2026-01-20T23:11:12.219Z",
-      "ip": "2409:40f0:2415:f927:58ad:58ff:fe2e:43d0",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "movie",
-      "id": "tt9260636",
-      "title": "tt9260636",
-      "timestamp": "2026-01-20T23:12:14.574Z",
-      "ip": "2409:40f0:2415:f927:58ad:58ff:fe2e:43d0",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "movie",
-      "id": "tt4983736",
-      "title": "tt4983736",
-      "timestamp": "2026-01-20T23:12:27.198Z",
-      "ip": "2409:40f0:2415:f927:58ad:58ff:fe2e:43d0",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "movie",
-      "id": "tt9260636",
-      "title": "tt9260636",
-      "timestamp": "2026-01-20T23:13:20.901Z",
-      "ip": "2409:40f0:2415:f927:58ad:58ff:fe2e:43d0",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "movie",
-      "id": "tt1585558",
-      "title": "tt1585558",
-      "timestamp": "2026-01-20T23:13:30.884Z",
-      "ip": "2409:40f0:2415:f927:58ad:58ff:fe2e:43d0",
-      "username": "sachinprem1"
-    },
     {
       "type": "movie",
       "id": "tt0143215",
@@ -84742,6 +84696,54 @@
       "timestamp": "2026-02-10T14:56:50.223Z",
       "ip": "2402:a00:10a:815f:9471:d8fd:7d93:fa28",
       "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:5",
+      "title": "tt1399664:1:5",
+      "timestamp": "2026-02-10T15:12:30.072Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt21906554:1:1",
+      "title": "tt21906554:1:1",
+      "timestamp": "2026-02-10T15:14:22.513Z",
+      "ip": "2409:40f0:167:a614:e0cf:81ff:feba:7aec",
+      "username": "rick grimes"
+    },
+    {
+      "type": "movie",
+      "id": "tt33028778",
+      "title": "tt33028778",
+      "timestamp": "2026-02-10T15:16:29.681Z",
+      "ip": "152.59.144.1",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-10T15:16:37.506Z",
+      "ip": "2409:40f0:167:a614:e0cf:81ff:feba:7aec",
+      "username": "rick grimes"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-02-10T15:17:05.738Z",
+      "ip": "2409:40f0:167:a614:e0cf:81ff:feba:7aec",
+      "username": "rick grimes"
+    },
+    {
+      "type": "series",
+      "id": "tt39460434:1:6",
+      "title": "tt39460434:1:6",
+      "timestamp": "2026-02-10T15:22:22.372Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -84918,7 +84920,7 @@
       "id": "tt39460434:1:6",
       "title": "tt39460434:1:6",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770733003503
+      "lastActive": 1770736942372
     },
     "94.156.30.57": {
       "type": "series",
@@ -87715,10 +87717,10 @@
     },
     "103.24.85.184": {
       "type": "series",
-      "id": "tt1399664:1:4",
-      "title": "tt1399664:1:4",
+      "id": "tt1399664:1:5",
+      "title": "tt1399664:1:5",
       "username": "william097",
-      "lastActive": 1770732731628
+      "lastActive": 1770736350072
     },
     "182.77.74.249": {
       "type": "movie",
@@ -89476,6 +89478,20 @@
       "title": "Play Dirty",
       "username": "vflix1993",
       "lastActive": 1770735410223
+    },
+    "2409:40f0:167:a614:e0cf:81ff:feba:7aec": {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "username": "rick grimes",
+      "lastActive": 1770736625738
+    },
+    "152.59.144.1": {
+      "type": "movie",
+      "id": "tt33028778",
+      "title": "tt33028778",
+      "username": "askchm",
+      "lastActive": 1770736589681
     }
   }
 }
