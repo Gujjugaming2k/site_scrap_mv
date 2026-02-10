@@ -1,5 +1,5 @@
 {
-  "totalViews": 22620,
+  "totalViews": 22619,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4748,6 +4748,14 @@
     "2409:40e2:1158:b086:5d5:7b41:b958:4d6e"
   ],
   "views": [
+    {
+      "type": "series",
+      "id": "tt4508902:3:8",
+      "title": "tt4508902:3:8",
+      "timestamp": "2026-01-21T02:23:15.861Z",
+      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
+      "username": "demon18319"
+    },
     {
       "type": "series",
       "id": "tt27497448:1:1",
@@ -84710,43 +84718,35 @@
     },
     {
       "type": "series",
-      "id": "tt1355642:1:5",
-      "title": "tt1355642:1:5",
-      "timestamp": "2026-02-10T16:25:47.604Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-02-10T16:38:33.805Z",
+      "ip": "152.59.200.123",
+      "username": "rick grimes"
     },
     {
-      "type": "movie",
-      "id": "tt32039267",
-      "title": "tt32039267",
-      "timestamp": "2026-02-10T16:32:18.307Z",
-      "ip": "116.68.64.13",
-      "username": "aravindsivan"
+      "type": "series",
+      "id": "tt21906554:1:1",
+      "title": "tt21906554:1:1",
+      "timestamp": "2026-02-10T16:38:59.975Z",
+      "ip": "152.59.200.123",
+      "username": "rick grimes"
     },
     {
-      "type": "movie",
-      "id": "tt32039267",
-      "title": "tt32039267",
-      "timestamp": "2026-02-10T16:32:23.153Z",
-      "ip": "116.68.64.13",
-      "username": "aravindsivan"
+      "type": "series",
+      "id": "tt21906554:1:1",
+      "title": "tt21906554:1:1",
+      "timestamp": "2026-02-10T16:40:28.291Z",
+      "ip": "2409:40f0:167:a614:e0cf:81ff:feba:7aec",
+      "username": "rick grimes"
     },
     {
-      "type": "movie",
-      "id": "tt32039267",
-      "title": "tt32039267",
-      "timestamp": "2026-02-10T16:32:37.733Z",
-      "ip": "116.68.64.13",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt32039267",
-      "title": "tt32039267",
-      "timestamp": "2026-02-10T16:34:30.915Z",
-      "ip": "116.68.64.13",
-      "username": "aravindsivan"
+      "type": "series",
+      "id": "tt21906554:1:1",
+      "title": "tt21906554:1:1",
+      "timestamp": "2026-02-10T16:40:52.452Z",
+      "ip": "2409:40f0:167:a614:e0cf:81ff:feba:7aec",
+      "username": "rick grimes"
     }
   ],
   "activeNow": {
@@ -86068,10 +86068,10 @@
     },
     "103.175.168.106": {
       "type": "series",
-      "id": "tt1355642:1:5",
-      "title": "tt1355642:1:5",
+      "id": "tt1355642:1:3",
+      "title": "tt1355642:1:3",
       "username": "un0fficial_itachi",
-      "lastActive": 1770740747604
+      "lastActive": 1770740012413
     },
     "38.224.232.52": {
       "type": "movie",
@@ -87432,11 +87432,11 @@
       "lastActive": 1770304253619
     },
     "116.68.64.13": {
-      "type": "movie",
-      "id": "tt32039267",
-      "title": "tt32039267",
+      "type": "series",
+      "id": "tt0411008:1:3",
+      "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1770741270915
+      "lastActive": 1770305494097
     },
     "45.131.195.247": {
       "type": "movie",
@@ -89487,7 +89487,7 @@
       "id": "tt21906554:1:1",
       "title": "tt21906554:1:1",
       "username": "rick grimes",
-      "lastActive": 1770739165860
+      "lastActive": 1770741652452
     },
     "152.59.144.1": {
       "type": "movie",
@@ -89498,10 +89498,10 @@
     },
     "152.59.200.123": {
       "type": "series",
-      "id": "tt21906554:1:3",
-      "title": "tt21906554:1:3",
+      "id": "tt21906554:1:1",
+      "title": "tt21906554:1:1",
       "username": "rick grimes",
-      "lastActive": 1770739203176
+      "lastActive": 1770741539975
     },
     "2401:4900:1cb0:cfef:3487:2feb:c5f5:f0ab": {
       "type": "movie",
