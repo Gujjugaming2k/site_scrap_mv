@@ -1,5 +1,5 @@
 {
-  "totalViews": 22998,
+  "totalViews": 23005,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4834,65 +4834,10 @@
     "152.59.153.181",
     "152.59.5.194",
     "2409:40c4:2d:73b4:300b:9bff:fe1b:be2f",
-    "152.58.59.37"
+    "152.58.59.37",
+    "47.31.70.237"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31812476",
-      "title": "tt31812476",
-      "timestamp": "2026-01-21T11:07:30.078Z",
-      "ip": "2401:4900:8fe0:a043:7d94:d944:f47a:7d5a",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "series",
-      "id": "tt1409055:1:1",
-      "title": "Dragon Ball Z Kai",
-      "timestamp": "2026-01-21T11:09:42.520Z",
-      "ip": "43.248.152.196",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "movie",
-      "id": "tt7725626",
-      "title": "tt7725626",
-      "timestamp": "2026-01-21T11:09:44.737Z",
-      "ip": "2409:40f0:2421:6e78:9cad:bcff:fecb:2c2a",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "series",
-      "id": "tt31812476",
-      "title": "tt31812476",
-      "timestamp": "2026-01-21T11:10:12.443Z",
-      "ip": "2401:4900:8fe0:a043:7d94:d944:f47a:7d5a",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "movie",
-      "id": "tt0368896",
-      "title": "tt0368896",
-      "timestamp": "2026-01-21T11:10:31.988Z",
-      "ip": "2409:40f0:2421:6e78:9cad:bcff:fecb:2c2a",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "movie",
-      "id": "tt10973118",
-      "title": "tt10973118",
-      "timestamp": "2026-01-21T11:12:03.606Z",
-      "ip": "2409:40f0:2421:6e78:9cad:bcff:fecb:2c2a",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "movie",
-      "id": "tt27458291",
-      "title": "tt27458291",
-      "timestamp": "2026-01-21T11:13:10.492Z",
-      "ip": "2409:40f0:2421:6e78:9cad:bcff:fecb:2c2a",
-      "username": "sachinprem1"
-    },
     {
       "type": "movie",
       "id": "tt1122610",
@@ -84836,6 +84781,62 @@
       "timestamp": "2026-02-11T17:29:51.354Z",
       "ip": "152.59.5.194",
       "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:4:2",
+      "title": "Lost",
+      "timestamp": "2026-02-11T17:33:36.266Z",
+      "ip": "116.68.75.147",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:4:2",
+      "title": "Lost",
+      "timestamp": "2026-02-11T17:33:38.545Z",
+      "ip": "116.68.75.147",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:4:3",
+      "title": "Lost",
+      "timestamp": "2026-02-11T17:34:37.850Z",
+      "ip": "116.68.75.147",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt14905854",
+      "title": "tt14905854",
+      "timestamp": "2026-02-11T17:38:11.567Z",
+      "ip": "47.31.70.237",
+      "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-02-11T17:38:51.028Z",
+      "ip": "47.31.70.237",
+      "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-02-11T17:39:41.542Z",
+      "ip": "47.31.70.237",
+      "username": "magicmannn"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:8",
+      "title": "tt31812476:2:8",
+      "timestamp": "2026-02-11T17:42:37.595Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -84957,6 +84958,27 @@
       "title": "tt23790696",
       "username": "b1jju",
       "lastActive": 1770830486769
+    },
+    "116.68.75.147": {
+      "type": "series",
+      "id": "tt0411008:4:3",
+      "title": "Lost",
+      "username": "aravindsivan",
+      "lastActive": 1770831277850
+    },
+    "47.31.70.237": {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "username": "magicmannn",
+      "lastActive": 1770831581542
+    },
+    "103.24.85.184": {
+      "type": "series",
+      "id": "tt31812476:2:8",
+      "title": "tt31812476:2:8",
+      "username": "william097",
+      "lastActive": 1770831757595
     }
   }
 }
