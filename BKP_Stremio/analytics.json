@@ -1,5 +1,5 @@
 {
-  "totalViews": 22695,
+  "totalViews": 22700,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4762,46 +4762,6 @@
     "2405:201:5c14:2a70:4de4:3b0a:fd74:7650"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0118751",
-      "title": "tt0118751",
-      "timestamp": "2026-01-21T04:43:12.393Z",
-      "ip": "2a02:6ea0:d101:6223::23,51.89.197.91",
-      "username": "virat"
-    },
-    {
-      "type": "series",
-      "id": "tt0460649:7:14",
-      "title": "tt0460649:7:14",
-      "timestamp": "2026-01-21T04:43:54.149Z",
-      "ip": "27.107.189.26",
-      "username": "anonymous050100"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:2",
-      "title": "tt35335046:1:2",
-      "timestamp": "2026-01-21T04:44:21.245Z",
-      "ip": "2409:40e2:156:2d4c:34c9:4cff:febc:7e35",
-      "username": "jai"
-    },
-    {
-      "type": "movie",
-      "id": "tt32141377",
-      "title": "tt32141377",
-      "timestamp": "2026-01-21T04:44:45.820Z",
-      "ip": "157.100.198.39",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:2",
-      "title": "tt35335046:1:2",
-      "timestamp": "2026-01-21T04:44:49.153Z",
-      "ip": "2409:40e2:156:2d4c:34c9:4cff:febc:7e35",
-      "username": "jai"
-    },
     {
       "type": "movie",
       "id": "tt7838252",
@@ -84761,6 +84721,46 @@
       "timestamp": "2026-02-11T02:44:24.669Z",
       "ip": "2405:201:5c14:2a70:4de4:3b0a:fd74:7650",
       "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:5",
+      "title": "tt1399664:1:5",
+      "timestamp": "2026-02-11T02:49:28.976Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:6",
+      "title": "tt1399664:1:6",
+      "timestamp": "2026-02-11T02:49:36.924Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt33307516",
+      "title": "tt33307516",
+      "timestamp": "2026-02-11T02:54:38.256Z",
+      "ip": "81.17.122.234",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt38598912",
+      "title": "tt38598912",
+      "timestamp": "2026-02-11T02:56:25.710Z",
+      "ip": "81.17.122.234",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt6718170",
+      "title": "The Super Mario Bros. Movie",
+      "timestamp": "2026-02-11T02:58:52.535Z",
+      "ip": "81.17.122.234",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -87734,10 +87734,10 @@
     },
     "103.24.85.184": {
       "type": "series",
-      "id": "tt1399664:1:5",
-      "title": "tt1399664:1:5",
+      "id": "tt1399664:1:6",
+      "title": "tt1399664:1:6",
       "username": "william097",
-      "lastActive": 1770775394157
+      "lastActive": 1770778176924
     },
     "182.77.74.249": {
       "type": "movie",
@@ -89358,10 +89358,10 @@
     },
     "81.17.122.234": {
       "type": "movie",
-      "id": "tt1663662",
-      "title": "Pacific Rim",
+      "id": "tt6718170",
+      "title": "The Super Mario Bros. Movie",
       "username": "b1jju",
-      "lastActive": 1770726525869
+      "lastActive": 1770778732535
     },
     "2a09:bac1:3680:1768::3e3:2a": {
       "type": "series",
