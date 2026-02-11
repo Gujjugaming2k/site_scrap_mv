@@ -1,5 +1,5 @@
 {
-  "totalViews": 22983,
+  "totalViews": 22985,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4831,25 +4831,10 @@
     "2001:4490:4e65:1d8b:9d0f:bf2c:33da:3396",
     "2401:4900:ca76:184c:3852:76ff:fe39:e634",
     "157.48.226.142,51.89.197.91",
-    "152.59.153.181"
+    "152.59.153.181",
+    "152.59.5.194"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt2302966",
-      "title": "tt2302966",
-      "timestamp": "2026-01-21T11:02:28.313Z",
-      "ip": "2409:40f0:2421:6e78:9cad:bcff:fecb:2c2a",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:2:6",
-      "title": "Fallout",
-      "timestamp": "2026-01-21T11:02:49.633Z",
-      "ip": "2409:40d4:100e:2489:1cf2:c0ff:fe8b:a97a",
-      "username": "golu_vk"
-    },
     {
       "type": "series",
       "id": "tt12637874:2:6",
@@ -84833,6 +84818,22 @@
       "timestamp": "2026-02-11T16:58:58.764Z",
       "ip": "152.59.153.181",
       "username": "n a b a."
+    },
+    {
+      "type": "movie",
+      "id": "tt0790736",
+      "title": "tt0790736",
+      "timestamp": "2026-02-11T17:07:02.942Z",
+      "ip": "2409:40e6:1e:3f92:e866:edff:fe19:b7a4",
+      "username": "n a b a."
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:1:1",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-11T17:15:15.766Z",
+      "ip": "152.59.5.194",
+      "username": "belimhuzaifa"
     }
   ],
   "activeNow": {
@@ -84926,6 +84927,20 @@
       "title": "tt0790736",
       "username": "n a b a.",
       "lastActive": 1770829138764
+    },
+    "2409:40e6:1e:3f92:e866:edff:fe19:b7a4": {
+      "type": "movie",
+      "id": "tt0790736",
+      "title": "tt0790736",
+      "username": "n a b a.",
+      "lastActive": 1770829622942
+    },
+    "152.59.5.194": {
+      "type": "series",
+      "id": "tt12343534:1:1",
+      "title": "JUJUTSU KAISEN",
+      "username": "belimhuzaifa",
+      "lastActive": 1770830115766
     }
   }
 }
