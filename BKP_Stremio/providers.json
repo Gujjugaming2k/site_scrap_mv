@@ -215,5 +215,15 @@
     "priority": 1,
     "enabled": true,
     "createdAt": "2026-02-10T13:56:00.488Z"
+  },
+  {
+    "id": "1770827325907",
+    "name": "H2R Cloud",
+    "movieUrl": "https://h2r-cloud-088-api.hdmovielover.workers.dev/movie?imdbid={{id}}",
+    "seriesUrl": "",
+    "timeout": 10000,
+    "priority": 10,
+    "enabled": true,
+    "createdAt": "2026-02-11T16:28:45.907Z"
   }
 ]
