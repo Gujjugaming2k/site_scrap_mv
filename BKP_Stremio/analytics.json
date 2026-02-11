@@ -1,5 +1,5 @@
 {
-  "totalViews": 22730,
+  "totalViews": 22733,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4763,33 +4763,11 @@
     "2409:40e0:13:9c35:6dfa:d2d3:e4ff:40ce",
     "2603:3003:3544:6700:cd4a:7601:d4e2:b826",
     "2405:201:500c:4a01:511e:d405:9d3:2445",
-    "2405:201:500c:4a01:bc07:b9c7:4904:3c0f"
+    "2405:201:500c:4a01:bc07:b9c7:4904:3c0f",
+    "27.59.95.211",
+    "2409:40e4:1089:639b:2576:edba:c374:147c"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt14364480",
-      "title": "tt14364480",
-      "timestamp": "2026-01-21T05:23:32.035Z",
-      "ip": "2409:40e2:156:2d4c:34c9:4cff:febc:7e35",
-      "username": "jai"
-    },
-    {
-      "type": "movie",
-      "id": "tt14364480",
-      "title": "tt14364480",
-      "timestamp": "2026-01-21T05:28:12.465Z",
-      "ip": "2409:40e2:156:2d4c:34c9:4cff:febc:7e35",
-      "username": "jai"
-    },
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-21T05:30:51.445Z",
-      "ip": "2409:40e2:156:2d4c:34c9:4cff:febc:7e35",
-      "username": "jai"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:2",
@@ -84765,6 +84743,30 @@
       "timestamp": "2026-02-11T05:05:40.118Z",
       "ip": "2405:201:500c:4a01:bc07:b9c7:4904:3c0f",
       "username": "karthik"
+    },
+    {
+      "type": "series",
+      "id": "tt38235589:1:2",
+      "title": "tt38235589:1:2",
+      "timestamp": "2026-02-11T05:06:50.555Z",
+      "ip": "27.59.95.211",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt2263944",
+      "title": "tt2263944",
+      "timestamp": "2026-02-11T05:07:04.126Z",
+      "ip": "2405:201:500c:4a01:bc07:b9c7:4904:3c0f",
+      "username": "karthik"
+    },
+    {
+      "type": "movie",
+      "id": "tt8178634",
+      "title": "tt8178634",
+      "timestamp": "2026-02-11T05:09:34.654Z",
+      "ip": "2409:40e4:1089:639b:2576:edba:c374:147c",
+      "username": "askchm"
     }
   ],
   "activeNow": {
@@ -89659,7 +89661,21 @@
       "id": "tt2263944",
       "title": "tt2263944",
       "username": "karthik",
-      "lastActive": 1770786340118
+      "lastActive": 1770786424126
+    },
+    "27.59.95.211": {
+      "type": "series",
+      "id": "tt38235589:1:2",
+      "title": "tt38235589:1:2",
+      "username": "vflix1993",
+      "lastActive": 1770786410555
+    },
+    "2409:40e4:1089:639b:2576:edba:c374:147c": {
+      "type": "movie",
+      "id": "tt8178634",
+      "title": "tt8178634",
+      "username": "askchm",
+      "lastActive": 1770786574654
     }
   }
 }
