@@ -1,5 +1,5 @@
 {
-  "totalViews": 22687,
+  "totalViews": 22690,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4755,33 +4755,11 @@
     "182.77.73.123",
     "2409:40e4:109d:5de3:5004:d2aa:b489:3c87",
     "47.15.107.69",
-    "2001:4490:4e65:45b3:a510:2712:1df1:7753"
+    "2001:4490:4e65:45b3:a510:2712:1df1:7753",
+    "2409:40d0:2022:375f:c858:f6ff:fe5d:cb3e",
+    "2409:40e6:b:c65d:e4fb:dfff:feda:e8bd"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt15387182",
-      "title": "tt15387182",
-      "timestamp": "2026-01-21T04:38:20.920Z",
-      "ip": "2a02:6ea0:d101:6223::23,51.89.197.91",
-      "username": "virat"
-    },
-    {
-      "type": "movie",
-      "id": "tt0118751",
-      "title": "tt0118751",
-      "timestamp": "2026-01-21T04:41:07.685Z",
-      "ip": "2a02:6ea0:d101:6223::23",
-      "username": "golu_vk"
-    },
-    {
-      "type": "movie",
-      "id": "tt0118751",
-      "title": "tt0118751",
-      "timestamp": "2026-01-21T04:41:09.642Z",
-      "ip": "2a02:6ea0:d101:6223::23,51.89.197.91",
-      "username": "virat"
-    },
     {
       "type": "series",
       "id": "tt31314791:1:2",
@@ -84757,6 +84735,30 @@
       "timestamp": "2026-02-10T21:39:13.809Z",
       "ip": "2409:40e4:1005:2378:4a3:34ff:fe36:2559",
       "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt10332508:3:1",
+      "title": "tt10332508:3:1",
+      "timestamp": "2026-02-11T01:47:37.950Z",
+      "ip": "2409:40d0:2022:375f:c858:f6ff:fe5d:cb3e",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-02-11T01:49:45.733Z",
+      "ip": "2409:40e6:b:c65d:e4fb:dfff:feda:e8bd",
+      "username": "n a b a."
+    },
+    {
+      "type": "movie",
+      "id": "tt14884402",
+      "title": "tt14884402",
+      "timestamp": "2026-02-11T01:54:59.551Z",
+      "ip": "2409:40e6:b:c65d:e4fb:dfff:feda:e8bd",
+      "username": "n a b a."
     }
   ],
   "activeNow": {
@@ -89596,6 +89598,20 @@
       "title": "tt0867465",
       "username": "adiyogivishwanath",
       "lastActive": 1770750404262
+    },
+    "2409:40d0:2022:375f:c858:f6ff:fe5d:cb3e": {
+      "type": "series",
+      "id": "tt10332508:3:1",
+      "title": "tt10332508:3:1",
+      "username": "ryuzaklo26",
+      "lastActive": 1770774457950
+    },
+    "2409:40e6:b:c65d:e4fb:dfff:feda:e8bd": {
+      "type": "movie",
+      "id": "tt14884402",
+      "title": "tt14884402",
+      "username": "n a b a.",
+      "lastActive": 1770774899551
     }
   }
 }
