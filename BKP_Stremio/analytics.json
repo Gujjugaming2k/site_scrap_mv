@@ -1,5 +1,5 @@
 {
-  "totalViews": 22922,
+  "totalViews": 22923,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4825,14 +4825,6 @@
     "2409:40d4:402e:8ba2:828:d9aa:ba50:e80b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt22202452:1:2",
-      "title": "tt22202452:1:2",
-      "timestamp": "2026-01-21T09:27:09.843Z",
-      "ip": "2409:40d0:1035:76cd:8464:9660:fad3:32be",
-      "username": "gaendaswami"
-    },
     {
       "type": "movie",
       "id": "tt27263807",
@@ -84824,6 +84816,14 @@
       "timestamp": "2026-02-11T15:23:50.648Z",
       "ip": "2a09:bac5:3c41:86e::d7:31",
       "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt0108778:9:11",
+      "title": "tt0108778:9:11",
+      "timestamp": "2026-02-11T15:25:51.254Z",
+      "ip": "2a09:bac5:3c41:86e::d7:31",
+      "username": "switchoff009"
     }
   ],
   "activeNow": {
@@ -90121,10 +90121,10 @@
     },
     "2a09:bac5:3c41:86e::d7:31": {
       "type": "series",
-      "id": "tt0108778:9:12",
-      "title": "tt0108778:9:12",
+      "id": "tt0108778:9:11",
+      "title": "tt0108778:9:11",
       "username": "switchoff009",
-      "lastActive": 1770823430648
+      "lastActive": 1770823551254
     },
     "223.181.103.48": {
       "type": "series",
