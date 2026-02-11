@@ -1,5 +1,5 @@
 {
-  "totalViews": 22708,
+  "totalViews": 22714,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4759,57 +4759,10 @@
     "2409:40d0:2022:375f:c858:f6ff:fe5d:cb3e",
     "2409:40e6:b:c65d:e4fb:dfff:feda:e8bd",
     "2409:4085:ae8c:df33::e2cb:5e17",
-    "2405:201:5c14:2a70:4de4:3b0a:fd74:7650"
+    "2405:201:5c14:2a70:4de4:3b0a:fd74:7650",
+    "2409:40e0:13:9c35:6dfa:d2d3:e4ff:40ce"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-21T04:54:36.326Z",
-      "ip": "2800:484:4b76:8200:4850:6538:bfd0:5c0c",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt6836936",
-      "title": "tt6836936",
-      "timestamp": "2026-01-21T04:55:11.386Z",
-      "ip": "71.179.184.52",
-      "username": "anupambabu_97"
-    },
-    {
-      "type": "series",
-      "id": "tt15576504:1:7",
-      "title": "tt15576504:1:7",
-      "timestamp": "2026-01-21T04:58:30.647Z",
-      "ip": "2a02:6ea0:d101:6223::23",
-      "username": "golu_vk"
-    },
-    {
-      "type": "series",
-      "id": "tt15576504:1:7",
-      "title": "tt15576504:1:7",
-      "timestamp": "2026-01-21T04:58:32.670Z",
-      "ip": "2a02:6ea0:d101:6223::23,51.89.197.91",
-      "username": "virat"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-21T05:04:59.089Z",
-      "ip": "2401:4900:8820:8915:9f5a:db66:9f11:2a7c,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-21T05:04:59.201Z",
-      "ip": "2401:4900:8820:8915:9f5a:db66:9f11:2a7c,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:2",
@@ -84761,6 +84714,54 @@
       "timestamp": "2026-02-11T03:15:29.004Z",
       "ip": "103.24.85.184",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:6",
+      "title": "tt1399664:1:6",
+      "timestamp": "2026-02-11T03:16:55.397Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:8",
+      "title": "tt31812476:2:8",
+      "timestamp": "2026-02-11T03:17:53.274Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:8",
+      "title": "tt31812476:2:8",
+      "timestamp": "2026-02-11T03:18:06.348Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:8",
+      "title": "tt31812476:2:8",
+      "timestamp": "2026-02-11T03:18:13.768Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt28629017",
+      "title": "tt28629017",
+      "timestamp": "2026-02-11T03:20:19.191Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt28336217:1:1",
+      "title": "tt28336217:1:1",
+      "timestamp": "2026-02-11T03:30:37.523Z",
+      "ip": "2409:40e0:13:9c35:6dfa:d2d3:e4ff:40ce",
+      "username": "tejmani"
     }
   ],
   "activeNow": {
@@ -87733,11 +87734,11 @@
       "lastActive": 1770371904431
     },
     "103.24.85.184": {
-      "type": "series",
-      "id": "tt1399664:1:6",
-      "title": "tt1399664:1:6",
+      "type": "movie",
+      "id": "tt28629017",
+      "title": "tt28629017",
       "username": "william097",
-      "lastActive": 1770779729004
+      "lastActive": 1770780019191
     },
     "182.77.74.249": {
       "type": "movie",
@@ -89628,6 +89629,13 @@
       "title": "Stranger Things",
       "username": "extremeyat",
       "lastActive": 1770777864669
+    },
+    "2409:40e0:13:9c35:6dfa:d2d3:e4ff:40ce": {
+      "type": "series",
+      "id": "tt28336217:1:1",
+      "title": "tt28336217:1:1",
+      "username": "tejmani",
+      "lastActive": 1770780637523
     }
   }
 }
