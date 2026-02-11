@@ -1,5 +1,5 @@
 {
-  "totalViews": 22691,
+  "totalViews": 22695,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4757,41 +4757,11 @@
     "47.15.107.69",
     "2001:4490:4e65:45b3:a510:2712:1df1:7753",
     "2409:40d0:2022:375f:c858:f6ff:fe5d:cb3e",
-    "2409:40e6:b:c65d:e4fb:dfff:feda:e8bd"
+    "2409:40e6:b:c65d:e4fb:dfff:feda:e8bd",
+    "2409:4085:ae8c:df33::e2cb:5e17",
+    "2405:201:5c14:2a70:4de4:3b0a:fd74:7650"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-21T04:42:16.243Z",
-      "ip": "2409:40e2:156:2d4c:34c9:4cff:febc:7e35",
-      "username": "jai"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:2",
-      "title": "tt35335046:1:2",
-      "timestamp": "2026-01-21T04:42:29.593Z",
-      "ip": "2409:40e2:156:2d4c:34c9:4cff:febc:7e35",
-      "username": "jai"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:2",
-      "title": "tt35335046:1:2",
-      "timestamp": "2026-01-21T04:42:43.031Z",
-      "ip": "2409:40e2:156:2d4c:34c9:4cff:febc:7e35",
-      "username": "jai"
-    },
-    {
-      "type": "movie",
-      "id": "tt0118751",
-      "title": "tt0118751",
-      "timestamp": "2026-01-21T04:43:10.300Z",
-      "ip": "2a02:6ea0:d101:6223::23",
-      "username": "golu_vk"
-    },
     {
       "type": "movie",
       "id": "tt0118751",
@@ -84759,6 +84729,38 @@
       "timestamp": "2026-02-11T02:03:14.157Z",
       "ip": "103.24.85.184",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt35683314:1:1",
+      "title": "tt35683314:1:1",
+      "timestamp": "2026-02-11T02:34:52.795Z",
+      "ip": "190.250.137.135",
+      "username": "ymcinema"
+    },
+    {
+      "type": "series",
+      "id": "tt35683314:1:2",
+      "title": "tt35683314:1:2",
+      "timestamp": "2026-02-11T02:35:18.708Z",
+      "ip": "190.250.137.135",
+      "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt27604215",
+      "title": "In Your Dreams",
+      "timestamp": "2026-02-11T02:40:47.103Z",
+      "ip": "2409:4085:ae8c:df33::e2cb:5e17",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-11T02:44:24.669Z",
+      "ip": "2405:201:5c14:2a70:4de4:3b0a:fd74:7650",
+      "username": "extremeyat"
     }
   ],
   "activeNow": {
@@ -88025,11 +88027,11 @@
       "lastActive": 1770442623856
     },
     "190.250.137.135": {
-      "type": "movie",
-      "id": "tt15464188",
-      "title": "tt15464188",
+      "type": "series",
+      "id": "tt35683314:1:2",
+      "title": "tt35683314:1:2",
       "username": "ymcinema",
-      "lastActive": 1770689249899
+      "lastActive": 1770777318708
     },
     "103.161.231.139": {
       "type": "movie",
@@ -89612,6 +89614,20 @@
       "title": "tt14884402",
       "username": "n a b a.",
       "lastActive": 1770774899551
+    },
+    "2409:4085:ae8c:df33::e2cb:5e17": {
+      "type": "movie",
+      "id": "tt27604215",
+      "title": "In Your Dreams",
+      "username": "brosportses",
+      "lastActive": 1770777647103
+    },
+    "2405:201:5c14:2a70:4de4:3b0a:fd74:7650": {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "username": "extremeyat",
+      "lastActive": 1770777864669
     }
   }
 }
