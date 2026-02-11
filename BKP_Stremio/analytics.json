@@ -1,5 +1,5 @@
 {
-  "totalViews": 22796,
+  "totalViews": 22800,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4782,41 +4782,10 @@
     "2401:4900:1c0a:38bd:698c:3846:5148:131b",
     "103.214.60.209",
     "103.132.59.96",
-    "103.100.5.20"
+    "103.100.5.20",
+    "2a09:bac5:3af1:11c3::1c5:31"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-21T07:06:13.274Z",
-      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-21T07:06:14.325Z",
-      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-21T07:06:42.825Z",
-      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-21T07:06:43.279Z",
-      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:1",
@@ -84784,6 +84753,38 @@
       "timestamp": "2026-02-11T09:29:32.309Z",
       "ip": "103.214.60.209",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:9",
+      "title": "tt30003786:4:9",
+      "timestamp": "2026-02-11T09:31:04.892Z",
+      "ip": "103.214.60.209",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:9",
+      "title": "tt30003786:4:9",
+      "timestamp": "2026-02-11T09:31:45.533Z",
+      "ip": "103.214.60.209",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-02-11T09:32:02.878Z",
+      "ip": "2409:40d2:304b:1186:610e:d602:f759:e672",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-02-11T09:38:24.364Z",
+      "ip": "2a09:bac5:3af1:11c3::1c5:31",
+      "username": "switchoff009"
     }
   ],
   "activeNow": {
@@ -89241,10 +89242,10 @@
     },
     "2409:40d2:304b:1186:610e:d602:f759:e672": {
       "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
+      "id": "tt32642706",
+      "title": "tt32642706",
       "username": "saurabhkaperwan",
-      "lastActive": 1770793191455
+      "lastActive": 1770802322878
     },
     "2603:3003:3544:6700:b2ed:926b:b037:6c89": {
       "type": "movie",
@@ -89797,7 +89798,7 @@
       "id": "tt30003786:4:9",
       "title": "tt30003786:4:9",
       "username": "gaendaswami",
-      "lastActive": 1770802172309
+      "lastActive": 1770802305533
     },
     "103.132.59.96": {
       "type": "series",
@@ -89812,6 +89813,13 @@
       "title": "The Lincoln Lawyer",
       "username": "adimodss",
       "lastActive": 1770802162850
+    },
+    "2a09:bac5:3af1:11c3::1c5:31": {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "username": "switchoff009",
+      "lastActive": 1770802704364
     }
   }
 }
