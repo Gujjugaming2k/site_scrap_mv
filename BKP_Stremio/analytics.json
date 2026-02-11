@@ -1,5 +1,5 @@
 {
-  "totalViews": 22800,
+  "totalViews": 22803,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4783,33 +4783,11 @@
     "103.214.60.209",
     "103.132.59.96",
     "103.100.5.20",
-    "2a09:bac5:3af1:11c3::1c5:31"
+    "2a09:bac5:3af1:11c3::1c5:31",
+    "103.132.59.111",
+    "2401:4900:889b:730d:a815:a7ff:9567:84a0"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-21T07:06:44.195Z",
-      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-21T07:06:44.658Z",
-      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:2",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-21T07:07:02.850Z",
-      "ip": "2401:4900:8515:fbaa::3d65:4d00",
-      "username": "baljeet_002"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:2",
@@ -84785,6 +84763,30 @@
       "timestamp": "2026-02-11T09:38:24.364Z",
       "ip": "2a09:bac5:3af1:11c3::1c5:31",
       "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt32379268:1:1",
+      "title": "tt32379268:1:1",
+      "timestamp": "2026-02-11T09:47:27.577Z",
+      "ip": "103.132.59.111",
+      "username": "henry"
+    },
+    {
+      "type": "series",
+      "id": "tt11311302:1:5",
+      "title": "tt11311302:1:5",
+      "timestamp": "2026-02-11T09:54:19.990Z",
+      "ip": "2401:4900:889b:730d:a815:a7ff:9567:84a0",
+      "username": "user_9b"
+    },
+    {
+      "type": "movie",
+      "id": "tt1160419",
+      "title": "Dune",
+      "timestamp": "2026-02-11T09:56:03.469Z",
+      "ip": "2409:40e4:10a9:2a82:a597:6ab4:8157:d98e",
+      "username": "askchm"
     }
   ],
   "activeNow": {
@@ -89759,11 +89761,11 @@
       "lastActive": 1770799036958
     },
     "2409:40e4:10a9:2a82:a597:6ab4:8157:d98e": {
-      "type": "series",
-      "id": "tt10850932:0:4",
-      "title": "Crash Landing on You",
+      "type": "movie",
+      "id": "tt1160419",
+      "title": "Dune",
       "username": "askchm",
-      "lastActive": 1770801168395
+      "lastActive": 1770803763469
     },
     "2406:b400:1a:d6e6:a27:a8ff:fe42:855e": {
       "type": "movie",
@@ -89820,6 +89822,20 @@
       "title": "tt32916440",
       "username": "switchoff009",
       "lastActive": 1770802704364
+    },
+    "103.132.59.111": {
+      "type": "series",
+      "id": "tt32379268:1:1",
+      "title": "tt32379268:1:1",
+      "username": "henry",
+      "lastActive": 1770803247577
+    },
+    "2401:4900:889b:730d:a815:a7ff:9567:84a0": {
+      "type": "series",
+      "id": "tt11311302:1:5",
+      "title": "tt11311302:1:5",
+      "username": "user_9b",
+      "lastActive": 1770803659990
     }
   }
 }
