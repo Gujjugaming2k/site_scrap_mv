@@ -1,5 +1,5 @@
 {
-  "totalViews": 22812,
+  "totalViews": 22814,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4794,22 +4794,6 @@
     "2401:4900:8fe1:b09f:448f:2eba:6fa6:d15"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt14331144",
-      "title": "Jujutsu Kaisen 0",
-      "timestamp": "2026-01-21T07:25:01.647Z",
-      "ip": "2409:40d4:40db:ad3e:8000::",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt38121182",
-      "title": "tt38121182",
-      "timestamp": "2026-01-21T07:25:23.877Z",
-      "ip": "2409:40d4:40db:ad3e:8000::",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt12343534:3:1",
@@ -84793,6 +84777,22 @@
       "timestamp": "2026-02-11T11:57:42.361Z",
       "ip": "2401:4900:8fe1:b09f:448f:2eba:6fa6:d15",
       "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt30476518",
+      "title": "Big World",
+      "timestamp": "2026-02-11T12:10:54.515Z",
+      "ip": "103.214.60.209",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt30476518",
+      "title": "Big World",
+      "timestamp": "2026-02-11T12:20:02.968Z",
+      "ip": "103.214.60.209",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -89802,11 +89802,11 @@
       "lastActive": 1770801975906
     },
     "103.214.60.209": {
-      "type": "series",
-      "id": "tt30003786:4:8",
-      "title": "tt30003786:4:8",
+      "type": "movie",
+      "id": "tt30476518",
+      "title": "Big World",
       "username": "gaendaswami",
-      "lastActive": 1770804535168
+      "lastActive": 1770812402968
     },
     "103.132.59.96": {
       "type": "series",
