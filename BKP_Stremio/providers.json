@@ -220,10 +220,11 @@
     "id": "1770827325907",
     "name": "H2R Cloud",
     "movieUrl": "https://h2r-cloud-088-api.hdmovielover.workers.dev/movie?imdbid={{id}}",
-    "seriesUrl": "",
-    "timeout": 10000,
-    "priority": 10,
+    "seriesUrl": "https://h2r-cloud-088-api.hdmovielover.workers.dev/series?imdbid={{id}}&s={{season}}&e={{episode}}",
+    "timeout": "10000",
+    "priority": "1",
     "enabled": true,
-    "createdAt": "2026-02-11T16:28:45.907Z"
+    "createdAt": "2026-02-11T16:28:45.907Z",
+    "updatedAt": "2026-02-11T16:29:53.504Z"
   }
 ]
