@@ -1,5 +1,5 @@
 {
-  "totalViews": 22738,
+  "totalViews": 22740,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4765,25 +4765,11 @@
     "2405:201:500c:4a01:511e:d405:9d3:2445",
     "2405:201:500c:4a01:bc07:b9c7:4904:3c0f",
     "27.59.95.211",
-    "2409:40e4:1089:639b:2576:edba:c374:147c"
+    "2409:40e4:1089:639b:2576:edba:c374:147c",
+    "2401:4900:1cb0:cfef:6573:6d21:3fbc:326",
+    "182.68.105.214"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1480925:1:3",
-      "title": "tt1480925:1:3",
-      "timestamp": "2026-01-21T05:40:29.950Z",
-      "ip": "103.184.105.250",
-      "username": "schnom153"
-    },
-    {
-      "type": "series",
-      "id": "tt31974288:1:1",
-      "title": "tt31974288:1:1",
-      "timestamp": "2026-01-21T05:49:44.213Z",
-      "ip": "2402:3a80:452b:fe1b:1811:d3ff:febd:3461",
-      "username": "surti_lala"
-    },
     {
       "type": "series",
       "id": "tt0877057:1:35",
@@ -84767,6 +84753,22 @@
       "timestamp": "2026-02-11T05:50:32.750Z",
       "ip": "2603:3003:3544:6700:cd4a:7601:d4e2:b826",
       "username": "anupambabu_97"
+    },
+    {
+      "type": "movie",
+      "id": "tt28182053",
+      "title": "tt28182053",
+      "timestamp": "2026-02-11T05:57:01.674Z",
+      "ip": "2401:4900:1cb0:cfef:6573:6d21:3fbc:326",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "series",
+      "id": "tt11311302:1:4",
+      "title": "tt11311302:1:4",
+      "timestamp": "2026-02-11T06:00:43.804Z",
+      "ip": "182.68.105.214",
+      "username": "user_9b"
     }
   ],
   "activeNow": {
@@ -89676,6 +89678,20 @@
       "title": "tt8178634",
       "username": "askchm",
       "lastActive": 1770787343752
+    },
+    "2401:4900:1cb0:cfef:6573:6d21:3fbc:326": {
+      "type": "movie",
+      "id": "tt28182053",
+      "title": "tt28182053",
+      "username": "saisrinivas",
+      "lastActive": 1770789421674
+    },
+    "182.68.105.214": {
+      "type": "series",
+      "id": "tt11311302:1:4",
+      "title": "tt11311302:1:4",
+      "username": "user_9b",
+      "lastActive": 1770789643804
     }
   }
 }
