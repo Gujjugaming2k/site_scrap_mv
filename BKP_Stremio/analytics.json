@@ -1,5 +1,5 @@
 {
-  "totalViews": 22803,
+  "totalViews": 22805,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4785,25 +4785,10 @@
     "103.100.5.20",
     "2a09:bac5:3af1:11c3::1c5:31",
     "103.132.59.111",
-    "2401:4900:889b:730d:a815:a7ff:9567:84a0"
+    "2401:4900:889b:730d:a815:a7ff:9567:84a0",
+    "59.95.32.4"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-21T07:08:44.382Z",
-      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-21T07:08:45.373Z",
-      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:3",
@@ -84787,6 +84772,22 @@
       "timestamp": "2026-02-11T09:56:03.469Z",
       "ip": "2409:40e4:10a9:2a82:a597:6ab4:8157:d98e",
       "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt12908150",
+      "title": "The Life of Chuck",
+      "timestamp": "2026-02-11T10:03:07.312Z",
+      "ip": "59.95.32.4",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:8",
+      "title": "tt30003786:4:8",
+      "timestamp": "2026-02-11T10:08:55.168Z",
+      "ip": "103.214.60.209",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -89797,10 +89798,10 @@
     },
     "103.214.60.209": {
       "type": "series",
-      "id": "tt30003786:4:9",
-      "title": "tt30003786:4:9",
+      "id": "tt30003786:4:8",
+      "title": "tt30003786:4:8",
       "username": "gaendaswami",
-      "lastActive": 1770802305533
+      "lastActive": 1770804535168
     },
     "103.132.59.96": {
       "type": "series",
@@ -89836,6 +89837,13 @@
       "title": "tt11311302:1:5",
       "username": "user_9b",
       "lastActive": 1770803659990
+    },
+    "59.95.32.4": {
+      "type": "movie",
+      "id": "tt12908150",
+      "title": "The Life of Chuck",
+      "username": "zealousninja",
+      "lastActive": 1770804187312
     }
   }
 }
