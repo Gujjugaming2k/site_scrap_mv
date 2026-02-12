@@ -29,8 +29,8 @@
     "enabled": true,
     "createdAt": "2025-12-11T10:34:24.174Z",
     "timeout": "20000",
-    "priority": "10",
-    "updatedAt": "2025-12-28T07:19:51.383Z"
+    "priority": "35",
+    "updatedAt": "2026-02-12T08:30:50.641Z"
   },
   {
     "id": "1765468262218",
@@ -49,10 +49,10 @@
     "movieUrl": "https://fetch.vflix.shop/prime/stream/movie/{{id}}.json",
     "seriesUrl": "https://fetch.vflix.shop/prime/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "20000",
-    "priority": "4",
+    "priority": "5",
     "enabled": true,
     "createdAt": "2025-12-15T17:33:01.434Z",
-    "updatedAt": "2026-01-27T13:09:50.483Z"
+    "updatedAt": "2026-02-12T08:29:59.096Z"
   },
   {
     "id": "1765819999437",
@@ -60,10 +60,10 @@
     "movieUrl": "https://fetch.vflix.shop/netflix/stream/movie/{{id}}.json",
     "seriesUrl": "https://fetch.vflix.shop/netflix/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "20000",
-    "priority": "4",
+    "priority": "5",
     "enabled": true,
     "createdAt": "2025-12-15T17:33:19.437Z",
-    "updatedAt": "2026-01-24T10:33:16.690Z"
+    "updatedAt": "2026-02-12T08:29:52.113Z"
   },
   {
     "id": "1766763246069",
@@ -81,10 +81,10 @@
     "movieUrl": "https://vega.vflix.shop/stream/movie/{{id}}.json",
     "seriesUrl": "https://vega.vflix.shop/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "10000",
-    "priority": "5",
+    "priority": "7",
     "enabled": true,
     "createdAt": "2026-01-02T06:36:12.822Z",
-    "updatedAt": "2026-01-24T10:31:20.539Z"
+    "updatedAt": "2026-02-12T08:29:39.250Z"
   },
   {
     "id": "1767441434010",
@@ -103,20 +103,21 @@
     "movieUrl": "https://rogflix.vflix.shop/stremio/stream/movie/{{id}}.json",
     "seriesUrl": "https://rogflix.vflix.shop/stremio/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "10000",
-    "priority": "11",
+    "priority": "39",
     "enabled": false,
     "createdAt": "2026-01-03T12:53:35.958Z",
-    "updatedAt": "2026-01-27T13:25:30.782Z"
+    "updatedAt": "2026-02-12T08:30:24.321Z"
   },
   {
     "id": "1768112024243",
     "name": "torrentio",
     "movieUrl": "https://torrentio.strem.fun/providers=yts,eztv,rarbg,1337x,thepiratebay,kickasstorrents,torrentgalaxy,magnetdl,horriblesubs,nyaasi,tokyotosho,anidex%7Csort=seeders%7Clanguage=hindi,telugu,tamil%7Cqualityfilter=scr,cam%7Climit=5/stream/movie/{{id}}.json",
     "seriesUrl": "https://torrentio.strem.fun/providers=yts,eztv,rarbg,1337x,thepiratebay,kickasstorrents,torrentgalaxy,magnetdl,horriblesubs,nyaasi,tokyotosho,anidex%7Csort=seeders%7Clanguage=hindi,telugu,tamil%7Cqualityfilter=scr,cam%7Climit=5/stream/series/{{id}}:{{season}}:{{episode}}.json",
-    "timeout": 10000,
-    "priority": 10,
+    "timeout": "10000",
+    "priority": "36",
     "enabled": true,
-    "createdAt": "2026-01-11T06:13:44.243Z"
+    "createdAt": "2026-01-11T06:13:44.243Z",
+    "updatedAt": "2026-02-12T08:30:43.472Z"
   },
   {
     "id": "1768116087098",
@@ -124,10 +125,10 @@
     "movieUrl": "https://anime-world-stremio-addon.onrender.com/stream/movie/{{id}}.json",
     "seriesUrl": "https://anime-world-stremio-addon.onrender.com/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "10000",
-    "priority": "10",
+    "priority": "37",
     "enabled": true,
     "createdAt": "2026-01-11T07:21:27.098Z",
-    "updatedAt": "2026-01-17T05:54:00.652Z"
+    "updatedAt": "2026-02-12T08:30:37.075Z"
   },
   {
     "id": "1768274116761",
@@ -146,10 +147,10 @@
     "movieUrl": "https://moviebox.vflix.shop/stream/movie/{{id}}.json",
     "seriesUrl": "https://moviebox.vflix.shop/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "20000",
-    "priority": "4",
+    "priority": "6",
     "enabled": true,
     "createdAt": "2026-01-13T13:18:23.086Z",
-    "updatedAt": "2026-01-24T10:33:31.621Z"
+    "updatedAt": "2026-02-12T08:29:45.710Z"
   },
   {
     "id": "1768577233209",
@@ -157,10 +158,10 @@
     "movieUrl": "https://multitamil.vflix.shop/stream/movie/{{id}}.json",
     "seriesUrl": "https://multitamil.vflix.shop/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "20000",
-    "priority": "6",
+    "priority": "34",
     "enabled": true,
     "createdAt": "2026-01-16T15:27:13.209Z",
-    "updatedAt": "2026-01-24T10:34:01.237Z"
+    "updatedAt": "2026-02-12T08:30:56.610Z"
   },
   {
     "id": "1768650249373",
@@ -168,10 +169,10 @@
     "movieUrl": "https://moviesda-worker.vflixprime.workers.dev/stream/movie/{{id}}.json",
     "seriesUrl": "https://moviesda-worker.vflixprime.workers.dev/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "10000",
-    "priority": "5",
+    "priority": "8",
     "enabled": true,
     "createdAt": "2026-01-17T11:44:09.373Z",
-    "updatedAt": "2026-01-17T11:45:09.663Z"
+    "updatedAt": "2026-02-12T08:29:32.857Z"
   },
   {
     "id": "1768652578794",
@@ -190,10 +191,10 @@
     "movieUrl": "https://meowtv.vflix.shop/stream/movie/{{id}}.json",
     "seriesUrl": "https://meowtv.vflix.shop/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "10000",
-    "priority": "10",
+    "priority": "38",
     "enabled": true,
     "createdAt": "2026-01-17T14:28:39.070Z",
-    "updatedAt": "2026-01-24T10:37:05.748Z"
+    "updatedAt": "2026-02-12T08:30:30.203Z"
   },
   {
     "id": "1769061395126",
