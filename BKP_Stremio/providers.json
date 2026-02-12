@@ -6,9 +6,9 @@
     "seriesUrl": "https://nuviostreams.hayd.uk/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "enabled": true,
     "createdAt": "2025-12-11T10:24:15.117Z",
-    "updatedAt": "2026-01-11T05:00:48.736Z",
+    "updatedAt": "2026-02-12T08:31:49.952Z",
     "timeout": "20000",
-    "priority": "3"
+    "priority": "26"
   },
   {
     "id": "1765449081790",
@@ -18,8 +18,8 @@
     "enabled": true,
     "createdAt": "2025-12-11T10:31:21.790Z",
     "timeout": "20000",
-    "priority": "4",
-    "updatedAt": "2026-01-10T17:51:50.836Z"
+    "priority": "28",
+    "updatedAt": "2026-02-12T08:31:39.562Z"
   },
   {
     "id": "1765449264174",
@@ -40,8 +40,8 @@
     "enabled": true,
     "createdAt": "2025-12-11T15:51:02.218Z",
     "timeout": "20000",
-    "priority": "3",
-    "updatedAt": "2026-01-24T10:37:32.906Z"
+    "priority": "27",
+    "updatedAt": "2026-02-12T08:31:44.606Z"
   },
   {
     "id": "1765819981434",
@@ -49,10 +49,10 @@
     "movieUrl": "https://fetch.vflix.shop/prime/stream/movie/{{id}}.json",
     "seriesUrl": "https://fetch.vflix.shop/prime/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "20000",
-    "priority": "5",
+    "priority": "29",
     "enabled": true,
     "createdAt": "2025-12-15T17:33:01.434Z",
-    "updatedAt": "2026-02-12T08:29:59.096Z"
+    "updatedAt": "2026-02-12T08:31:32.417Z"
   },
   {
     "id": "1765819999437",
@@ -60,10 +60,10 @@
     "movieUrl": "https://fetch.vflix.shop/netflix/stream/movie/{{id}}.json",
     "seriesUrl": "https://fetch.vflix.shop/netflix/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "20000",
-    "priority": "5",
+    "priority": "30",
     "enabled": true,
     "createdAt": "2025-12-15T17:33:19.437Z",
-    "updatedAt": "2026-02-12T08:29:52.113Z"
+    "updatedAt": "2026-02-12T08:31:26.502Z"
   },
   {
     "id": "1766763246069",
@@ -81,10 +81,10 @@
     "movieUrl": "https://vega.vflix.shop/stream/movie/{{id}}.json",
     "seriesUrl": "https://vega.vflix.shop/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "10000",
-    "priority": "7",
+    "priority": "32",
     "enabled": true,
     "createdAt": "2026-01-02T06:36:12.822Z",
-    "updatedAt": "2026-02-12T08:29:39.250Z"
+    "updatedAt": "2026-02-12T08:31:09.842Z"
   },
   {
     "id": "1767441434010",
@@ -92,10 +92,10 @@
     "movieUrl": "https://hicine.vflix.shop/stremio/stream/movie/{{id}}.json",
     "seriesUrl": "https://hicine.vflix.shop/stremio/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "10000",
-    "priority": "1",
+    "priority": "23",
     "enabled": true,
     "createdAt": "2026-01-03T11:57:14.010Z",
-    "updatedAt": "2026-01-24T10:29:51.585Z"
+    "updatedAt": "2026-02-12T08:32:20.665Z"
   },
   {
     "id": "1767444815958",
@@ -136,10 +136,10 @@
     "movieUrl": "https://anime.vflix.shop/stream/movie/{{id}}.json",
     "seriesUrl": "https://anime.vflix.shop/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "10000",
-    "priority": "1",
+    "priority": "24",
     "enabled": true,
     "createdAt": "2026-01-13T03:15:16.761Z",
-    "updatedAt": "2026-01-24T10:30:28.273Z"
+    "updatedAt": "2026-02-12T08:32:14.751Z"
   },
   {
     "id": "1768310303086",
@@ -147,10 +147,10 @@
     "movieUrl": "https://moviebox.vflix.shop/stream/movie/{{id}}.json",
     "seriesUrl": "https://moviebox.vflix.shop/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "20000",
-    "priority": "6",
+    "priority": "31",
     "enabled": true,
     "createdAt": "2026-01-13T13:18:23.086Z",
-    "updatedAt": "2026-02-12T08:29:45.710Z"
+    "updatedAt": "2026-02-12T08:31:16.475Z"
   },
   {
     "id": "1768577233209",
@@ -169,10 +169,10 @@
     "movieUrl": "https://moviesda-worker.vflixprime.workers.dev/stream/movie/{{id}}.json",
     "seriesUrl": "https://moviesda-worker.vflixprime.workers.dev/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "10000",
-    "priority": "8",
+    "priority": "33",
     "enabled": true,
     "createdAt": "2026-01-17T11:44:09.373Z",
-    "updatedAt": "2026-02-12T08:29:32.857Z"
+    "updatedAt": "2026-02-12T08:31:02.402Z"
   },
   {
     "id": "1768652578794",
@@ -180,10 +180,10 @@
     "movieUrl": "https://moviesdrive-api.vflixprime.workers.dev/stream/movie/{{id}}.json",
     "seriesUrl": "https://moviesdrive-api.vflixprime.workers.dev/stream/series/{{id}}:{{season}}:{{episode}}.json",
     "timeout": "15004",
-    "priority": "2",
+    "priority": "25",
     "enabled": true,
     "createdAt": "2026-01-17T12:22:58.794Z",
-    "updatedAt": "2026-01-18T05:29:03.987Z"
+    "updatedAt": "2026-02-12T08:31:55.431Z"
   },
   {
     "id": "1768660119070",
@@ -212,20 +212,21 @@
     "name": "telegram stremio",
     "movieUrl": "https://telegram.vflix.shop/stremio/L8wZCJsqVplx18fQmRCNZzU5GCazRW17/stream/movie/{{id}}.json",
     "seriesUrl": "https://telegram.vflix.shop/stremio/L8wZCJsqVplx18fQmRCNZzU5GCazRW17/stream/series/{{id}}:{{season}}:{{episode}}.json",
-    "timeout": 10000,
-    "priority": 1,
+    "timeout": "10000",
+    "priority": "3",
     "enabled": true,
-    "createdAt": "2026-02-10T13:56:00.488Z"
+    "createdAt": "2026-02-10T13:56:00.488Z",
+    "updatedAt": "2026-02-12T08:32:45.095Z"
   },
   {
     "id": "1770827325907",
     "name": "H2R Cloud",
     "movieUrl": "https://h2r-cloud-088-api.hdmovielover.workers.dev/movie?imdbid={{id}}",
     "seriesUrl": "https://h2r-cloud-088-api.hdmovielover.workers.dev/series?imdbid={{id}}&s={{season}}&e={{episode}}",
-    "timeout": "10000",
+    "timeout": "20000",
     "priority": "1",
     "enabled": true,
     "createdAt": "2026-02-11T16:28:45.907Z",
-    "updatedAt": "2026-02-11T16:29:53.504Z"
+    "updatedAt": "2026-02-12T08:44:24.640Z"
   }
 ]
