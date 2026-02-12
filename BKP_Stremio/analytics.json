@@ -1,5 +1,5 @@
 {
-  "totalViews": 23848,
+  "totalViews": 23854,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4955,54 +4955,6 @@
     "2401:4900:1c52:fe33:3d07:a25f:161e:ee22"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-22T11:51:45.291Z",
-      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-22T11:52:00.851Z",
-      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt32536315",
-      "title": "Blue Moon",
-      "timestamp": "2026-01-22T11:52:44.371Z",
-      "ip": "2409:40f4:36:eae1:8852:b4ff:fe8b:a95",
-      "username": "zindha"
-    },
-    {
-      "type": "movie",
-      "id": "tt14948432",
-      "title": "Red One",
-      "timestamp": "2026-01-22T11:56:50.691Z",
-      "ip": "2409:40f4:36:eae1:8852:b4ff:fe8b:a95",
-      "username": "zindha"
-    },
-    {
-      "type": "movie",
-      "id": "tt32820897",
-      "title": "tt32820897",
-      "timestamp": "2026-01-22T11:59:08.404Z",
-      "ip": "2409:40c1:1029:1b45:8000::",
-      "username": "king_z0ro"
-    },
-    {
-      "type": "movie",
-      "id": "tt32820897",
-      "title": "tt32820897",
-      "timestamp": "2026-01-22T11:59:28.596Z",
-      "ip": "2409:40c1:1029:1b45:8000::",
-      "username": "king_z0ro"
-    },
     {
       "type": "series",
       "id": "tt0369179:3:2",
@@ -84954,6 +84906,54 @@
       "timestamp": "2026-02-12T13:34:33.121Z",
       "ip": "43.231.236.89",
       "username": "claw_of_beliar"
+    },
+    {
+      "type": "movie",
+      "id": "tt26439764",
+      "title": "tt26439764",
+      "timestamp": "2026-02-12T13:45:25.057Z",
+      "ip": "2401:4900:1c52:fe33:3d07:a25f:161e:ee22",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt8291224",
+      "title": "tt8291224",
+      "timestamp": "2026-02-12T13:50:50.757Z",
+      "ip": "152.59.153.61",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt15464188",
+      "title": "tt15464188",
+      "timestamp": "2026-02-12T13:52:31.366Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt36926733",
+      "title": "tt36926733",
+      "timestamp": "2026-02-12T13:52:40.437Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt15464188",
+      "title": "tt15464188",
+      "timestamp": "2026-02-12T13:52:47.326Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt35288598",
+      "title": "tt35288598",
+      "timestamp": "2026-02-12T13:54:21.819Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -85092,10 +85092,10 @@
     },
     "103.24.85.184": {
       "type": "movie",
-      "id": "tt36926733",
-      "title": "tt36926733",
+      "id": "tt35288598",
+      "title": "tt35288598",
       "username": "william097",
-      "lastActive": 1770902266087
+      "lastActive": 1770904461819
     },
     "2405:201:682e:6839:1182:cd18:9453:711f": {
       "type": "movie",
@@ -85441,11 +85441,11 @@
       "lastActive": 1770881454353
     },
     "152.59.153.61": {
-      "type": "series",
-      "id": "tt31510819:1:2",
-      "title": "tt31510819:1:2",
+      "type": "movie",
+      "id": "tt8291224",
+      "title": "tt8291224",
       "username": "nabakun24",
-      "lastActive": 1770890448765
+      "lastActive": 1770904250757
     },
     "2401:4900:c304:c9d7:6851:b9ff:fe81:4814": {
       "type": "movie",
@@ -85998,7 +85998,7 @@
       "id": "tt26439764",
       "title": "tt26439764",
       "username": "dillon_ka_shooter",
-      "lastActive": 1770902818380
+      "lastActive": 1770903925057
     }
   }
 }
