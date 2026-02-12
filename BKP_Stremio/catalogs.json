@@ -13,7 +13,9 @@
     "id": "hdhub4u",
     "name": "HDHub4u",
     "type": "movie",
-    "createdAt": "2025-12-09T13:42:01.594Z"
+    "createdAt": "2025-12-09T13:42:01.594Z",
+    "externalMetaUrl": "https://telegram.vflix.shop/stremio/L8wZCJsqVplx18fQmRCNZzU5GCazRW17/catalog/movie/latest_movies.json",
+    "updatedAt": "2026-02-12T02:50:36.897Z"
   },
   {
     "id": "hdhub4u-",
@@ -186,10 +188,60 @@
     "createdAt": "2026-01-11T07:19:20.591Z"
   },
   {
-    "id": "tv-channel",
-    "name": "TV Channel",
+    "id": "tmdb-trending-",
+    "name": "TMDB Trending -",
     "type": "movie",
-    "externalMetaUrl": "https://stiptv.ddns.me/eyJ1c2VYdHJlYW0iOmZhbHNlLCJtM3VVcmwiOiJodHRwczovL2dpdGh1Yi5jb20vZm5zYy9zdHJlbWlvLW0zdS9yYXcvcmVmcy9oZWFkcy9tYWluL3BsYXlsaXN0Lm0zdSIsImVuYWJsZUVwZyI6dHJ1ZSwiaW5zdGFuY2VJZCI6ImIwODc4MDRjLWE1YzYtNDI5NS1hNmNmLTkxZjZlMmJhN2M5NSJ9/catalog/movie/iptv_movies.json",
-    "createdAt": "2026-02-11T04:06:04.995Z"
+    "externalMetaUrl": "https://tmdb.elfhosted.com/N4IgTgDgJgRgsgUygSwIYBUCeEEGcQBcoEA9rgC4JiHlgCuCANCADYkDmJhAZqi7kxAxUAYwDWUMCQg8+AgL7MIUgG7IoCAJIBbWJqiEQtBiGZgE5OmAB2OvQYJH6CU0d0wACue7IAHoeMXZhZUa3Y6VHYXRwRrAFoAVQBlVwpzVG1kMMIAbQBdZhFUcj4OfAIc0HUA9wA6EMoKV3JsaJBtEjUgkGsMtoAZYrxyAAIAJQQWBFQBfGZcAAsSAHdNawAJEm1owMUqhzdYeqGm5hacQwEwZDxXXu3DQcbRiamZ2-ml1Y2tnec9kDVRzkOq0WIobJnVqGDpdO59QzoczWCHsVJfNabB4EXaMfY1I5glFZNFQi6OK43OY9BGOJHgknolaY340f54wEHEGE6TNaGOWE3eHYkAeaR0ELUT7Mn7Y3H44Gg3lktqUj40kViiAS1BSkCLGVYv4MAFAw4wWqYaZ685tQXde5tACa1qZ3yNbJNHLN3ItVt1fPJ+qoVOFztd0vdrJx7IV5uOYQiUUDds6QuYjseoXCkW6BqjctjnIJFpCidzKcuIfVmccg3LycjLMLJoKIAW6i01gAwlkENoMJEAs5XEUKN2SHRrORCABWSMAQSiY2KJLWAHFYuZyk4TMxYqgYFMlwgV+RGY5ePw818T2eSQB1ZDkBZ2GD37KXuR52jIETkCZ2GQEhrAAMWQFhKGoL9r1cFAgJKFhXmmARwMgqhZGveQgA/catalog/movie/tmdb.trending.json",
+    "createdAt": "2026-02-12T02:42:18.608Z"
+  },
+  {
+    "id": "tmdb-trending",
+    "name": "TMDB  Trending",
+    "type": "series",
+    "externalMetaUrl": "https://tmdb.elfhosted.com/N4IgTgDgJgRgsgUygSwIYBUCeEEGcQBcoEA9rgC4JiHlgCuCANCADYkDmJhAZqi7kxAxUAYwDWUMCQg8+AgL7MIUgG7IoCAJIBbWJqiEQtBiGZgE5OmAB2OvQYJH6CU0d0wACue7IAHoeMXZhZUa3Y6VHYXRwRrAFoAVQBlVwpzVG1kMMIAbQBdZhFUcj4OfAIc0HUA9wA6EMoKV3JsaJBtEjUgkGsMtoAZYrxyAAIAJQQWBFQBfGZcAAsSAHdNawAJEm1owMUqhzdYeqGm5hacQwEwZDxXXu3DQcbRiamZ2-ml1Y2tnec9kDVRzkOq0WIobJnVqGDpdO59QzoczWCHsVJfNabB4EXaMfY1I5glFZNFQi6OK43OY9BGOJHgknolaY340f54wEHEGE6TNaGOWE3eHYkAeaR0ELUT7Mn7Y3H44Gg3lktqUj40kViiAS1BSkCLGVYv4MAFAw4wWqYaZ685tQXde5tACa1qZ3yNbJNHLN3ItVt1fPJ+qoVOFztd0vdrJx7IV5uOYQiUUDds6QuYjseoXCkW6BqjctjnIJFpCidzKcuIfVmccg3LycjLMLJoKIAW6i01gAwlkENoMJEAs5XEUKN2SHRrORCABWSMAQSiY2KJLWAHFYuZyk4TMxYqgYFMlwgV+RGY5ePw818T2eSQB1ZDkBZ2GD37KXuR52jIETkCZ2GQEhrAAMWQFhKGoL9r1cFAgJKFhXmmARwMgqhZGveQgA/catalog/series/tmdb.trending.json",
+    "createdAt": "2026-02-12T02:42:29.722Z"
+  },
+  {
+    "id": "tmdb-latest-",
+    "name": "TMDB Latest-",
+    "type": "movie",
+    "externalMetaUrl": "https://tmdb.elfhosted.com/N4IgTgDgJgRgsgUygSwIYBUCeEEGcQBcoEA9rgC4JiHlgCuCANCADYkDmJhAZqi7kxAxUAYwDWUMCQg8+AgL7MIUgG7IoCAJIBbWJqiEQtBiGZgE5OmAB2OvQYJH6CU0d0wACue7IAHoeMXZhZUa3Y6VHYXRwRrAFoAVQBlVwpzVG1kMMIAbQBdZhFUcj4OfAIc0HUA9wA6EMoKV3JsaJBtEjUgkGsMtoAZYrxyAAIAJQQWBFQBfGZcAAsSAHdNawAJEm1owMUqhzdYeqGm5hacQwEwZDxXXu3DQcbRiamZ2-ml1Y2tnec9kDVRzkOq0WIobJnVqGDpdO59QzoczWCHsVJfNabB4EXaMfY1I5glFZNFQi6OK43OY9BGOJHgknolaY340f54wEHEGE6TNaGOWE3eHYkAeaR0ELUT7Mn7Y3H44Gg3lktqUj40kViiAS1BSkCLGVYv4MAFAw4wWqYaZ685tQXde5tACa1qZ3yNbJNHLN3ItVt1fPJ+qoVOFztd0vdrJx7IV5uOYQiUUDds6QuYjseoXCkW6BqjctjnIJFpCidzKcuIfVmccg3LycjLMLJoKIAW6i01gAwlkENoMJEAs5XEUKN2SHRrORCABWSMAQSiY2KJLWAHFYuZyk4TMxYqgYFMlwgV+RGY5ePw818T2eSQB1ZDkBZ2GD37KXuR52jIETkCZ2GQEhrAAMWQFhKGoL9r1cFAgJKFhXmmARwMgqhZGveQgA/catalog/movie/tmdb.latest.json",
+    "createdAt": "2026-02-12T02:42:53.370Z"
+  },
+  {
+    "id": "tmdb-latest",
+    "name": "TMDB Latest",
+    "type": "series",
+    "externalMetaUrl": "https://tmdb.elfhosted.com/N4IgTgDgJgRgsgUygSwIYBUCeEEGcQBcoEA9rgC4JiHlgCuCANCADYkDmJhAZqi7kxAxUAYwDWUMCQg8+AgL7MIUgG7IoCAJIBbWJqiEQtBiGZgE5OmAB2OvQYJH6CU0d0wACue7IAHoeMXZhZUa3Y6VHYXRwRrAFoAVQBlVwpzVG1kMMIAbQBdZhFUcj4OfAIc0HUA9wA6EMoKV3JsaJBtEjUgkGsMtoAZYrxyAAIAJQQWBFQBfGZcAAsSAHdNawAJEm1owMUqhzdYeqGm5hacQwEwZDxXXu3DQcbRiamZ2-ml1Y2tnec9kDVRzkOq0WIobJnVqGDpdO59QzoczWCHsVJfNabB4EXaMfY1I5glFZNFQi6OK43OY9BGOJHgknolaY340f54wEHEGE6TNaGOWE3eHYkAeaR0ELUT7Mn7Y3H44Gg3lktqUj40kViiAS1BSkCLGVYv4MAFAw4wWqYaZ685tQXde5tACa1qZ3yNbJNHLN3ItVt1fPJ+qoVOFztd0vdrJx7IV5uOYQiUUDds6QuYjseoXCkW6BqjctjnIJFpCidzKcuIfVmccg3LycjLMLJoKIAW6i01gAwlkENoMJEAs5XEUKN2SHRrORCABWSMAQSiY2KJLWAHFYuZyk4TMxYqgYFMlwgV+RGY5ePw818T2eSQB1ZDkBZ2GD37KXuR52jIETkCZ2GQEhrAAMWQFhKGoL9r1cFAgJKFhXmmARwMgqhZGveQgA/catalog/series/tmdb.latest.json",
+    "createdAt": "2026-02-12T02:43:02.930Z",
+    "updatedAt": "2026-02-12T02:49:42.620Z"
+  },
+  {
+    "id": "telegram-latest",
+    "name": "Telegram Latest",
+    "type": "movie",
+    "externalMetaUrl": "https://telegram.vflix.shop/stremio/L8wZCJsqVplx18fQmRCNZzU5GCazRW17/catalog/movie/latest_movies.json",
+    "createdAt": "2026-02-12T02:45:17.179Z"
+  },
+  {
+    "id": "telegram-latest-",
+    "name": "Telegram Latest -",
+    "type": "series",
+    "externalMetaUrl": "https://telegram.vflix.shop/stremio/L8wZCJsqVplx18fQmRCNZzU5GCazRW17/catalog/series/latest_series.json",
+    "createdAt": "2026-02-12T02:45:31.316Z"
+  },
+  {
+    "id": "telegram-top",
+    "name": "Telegram Top",
+    "type": "movie",
+    "externalMetaUrl": "https://telegram.vflix.shop/stremio/L8wZCJsqVplx18fQmRCNZzU5GCazRW17/catalog/movie/top_movies.json",
+    "createdAt": "2026-02-12T02:45:43.923Z"
+  },
+  {
+    "id": "telegram-top-",
+    "name": "Telegram Top -",
+    "type": "series",
+    "externalMetaUrl": "https://telegram.vflix.shop/stremio/L8wZCJsqVplx18fQmRCNZzU5GCazRW17/catalog/series/top_series.json",
+    "createdAt": "2026-02-12T02:45:53.648Z"
   }
 ]
