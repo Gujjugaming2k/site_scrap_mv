@@ -1,5 +1,5 @@
 {
-  "totalViews": 24213,
+  "totalViews": 24214,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5008,17 +5008,10 @@
     "157.48.195.210",
     "2409:40d4:402a:a03d:8000::",
     "2402:3a80:165d:a5a8:ec24:1ff0:4a9c:9a8b",
-    "2401:4900:1c52:fe33:a176:5e82:8b40:7718"
+    "2401:4900:1c52:fe33:a176:5e82:8b40:7718",
+    "2402:8100:2cda:cf87:1715:3529:8218:7ecf"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:3:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-22T16:59:53.554Z",
-      "ip": "2409:40e0:14:5707:8000::",
-      "username": "tejmani"
-    },
     {
       "type": "movie",
       "id": "tt27425164",
@@ -85010,6 +85003,14 @@
       "timestamp": "2026-02-12T22:06:46.183Z",
       "ip": "2402:3a80:165d:a5a8:ec24:1ff0:4a9c:9a8b",
       "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt9813792:1:1",
+      "title": "tt9813792:1:1",
+      "timestamp": "2026-02-12T22:46:43.210Z",
+      "ip": "2402:8100:2cda:cf87:1715:3529:8218:7ecf",
+      "username": "schnom153"
     }
   ],
   "activeNow": {
@@ -86447,6 +86448,13 @@
       "title": "tt8178634",
       "username": "dillon_ka_shooter",
       "lastActive": 1770926480763
+    },
+    "2402:8100:2cda:cf87:1715:3529:8218:7ecf": {
+      "type": "series",
+      "id": "tt9813792:1:1",
+      "title": "tt9813792:1:1",
+      "username": "schnom153",
+      "lastActive": 1770936403210
     }
   }
 }
