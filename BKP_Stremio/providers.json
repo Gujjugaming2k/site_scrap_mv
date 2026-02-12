@@ -209,14 +209,14 @@
   },
   {
     "id": "1770731760488",
-    "name": "telegram stremio",
-    "movieUrl": "https://telegram.vflix.shop/stremio/L8wZCJsqVplx18fQmRCNZzU5GCazRW17/stream/movie/{{id}}.json",
-    "seriesUrl": "https://telegram.vflix.shop/stremio/L8wZCJsqVplx18fQmRCNZzU5GCazRW17/stream/series/{{id}}:{{season}}:{{episode}}.json",
-    "timeout": "10000",
+    "name": "Telegram Stremio H2R",
+    "movieUrl": "https://tg-stremio-proxy.hdmovielover.workers.dev/movie?imdbid={{id}}",
+    "seriesUrl": "https://tg-stremio-proxy.hdmovielover.workers.dev/series?imdbid={{id}}&s={{season}}&e={{episode}}",
+    "timeout": "20000",
     "priority": "3",
     "enabled": true,
     "createdAt": "2026-02-10T13:56:00.488Z",
-    "updatedAt": "2026-02-12T08:32:45.095Z"
+    "updatedAt": "2026-02-12T17:17:22.315Z"
   },
   {
     "id": "1770827325907",
