@@ -1,5 +1,5 @@
 {
-  "totalViews": 23349,
+  "totalViews": 23354,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4883,46 +4883,6 @@
     "2603:3003:3544:6700:4a26:b1:45c0:daf2"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1856101",
-      "title": "tt1856101",
-      "timestamp": "2026-01-21T18:24:32.195Z",
-      "ip": "146.70.191.60",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "movie",
-      "id": "tt15097358",
-      "title": "tt15097358",
-      "timestamp": "2026-01-21T18:24:37.318Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:1:13",
-      "title": "Lost",
-      "timestamp": "2026-01-21T18:25:01.647Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:1:14",
-      "title": "Lost",
-      "timestamp": "2026-01-21T18:25:24.941Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt28252935",
-      "title": "tt28252935",
-      "timestamp": "2026-01-21T18:26:22.614Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
     {
       "type": "series",
       "id": "tt35335046:1:3",
@@ -84882,6 +84842,46 @@
       "timestamp": "2026-02-12T05:35:15.405Z",
       "ip": "2a09:bac1:36c0:120::3e2:1a",
       "username": "belimhuzaifa"
+    },
+    {
+      "type": "movie",
+      "id": "tt26783625",
+      "title": "Bone Lake",
+      "timestamp": "2026-02-12T05:40:56.183Z",
+      "ip": "223.188.125.48",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-12T05:46:01.772Z",
+      "ip": "2409:40e4:5:b11b:1078:a5ff:fe54:cdfd",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt15097358",
+      "title": "tt15097358",
+      "timestamp": "2026-02-12T05:46:41.864Z",
+      "ip": "2409:40e4:5:b11b:1078:a5ff:fe54:cdfd",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:5",
+      "title": "tt19244304:1:5",
+      "timestamp": "2026-02-12T05:51:09.207Z",
+      "ip": "2a09:bac1:36c0:120::3e2:1a",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:6",
+      "title": "tt19244304:1:6",
+      "timestamp": "2026-02-12T05:51:33.641Z",
+      "ip": "2a09:bac1:36c0:120::3e2:1a",
+      "username": "belimhuzaifa"
     }
   ],
   "activeNow": {
@@ -85321,10 +85321,10 @@
     },
     "2409:40e4:5:b11b:1078:a5ff:fe54:cdfd": {
       "type": "movie",
-      "id": "tt28142095",
-      "title": "tt28142095",
+      "id": "tt15097358",
+      "title": "tt15097358",
       "username": "cyberboy12321",
-      "lastActive": 1770873643136
+      "lastActive": 1770875201864
     },
     "2405:201:500c:4a01:c9a5:9839:79ae:6189": {
       "type": "series",
@@ -85335,10 +85335,10 @@
     },
     "223.188.125.48": {
       "type": "movie",
-      "id": "tt31702278",
-      "title": "tt31702278",
+      "id": "tt26783625",
+      "title": "Bone Lake",
       "username": "dawnstar930",
-      "lastActive": 1770872328117
+      "lastActive": 1770874856183
     },
     "2409:40d2:304b:1186:610e:d602:f759:e672": {
       "type": "movie",
@@ -85384,10 +85384,10 @@
     },
     "2a09:bac1:36c0:120::3e2:1a": {
       "type": "series",
-      "id": "tt19244304:1:2",
-      "title": "tt19244304:1:2",
+      "id": "tt19244304:1:6",
+      "title": "tt19244304:1:6",
       "username": "belimhuzaifa",
-      "lastActive": 1770874515405
+      "lastActive": 1770875493641
     },
     "2603:3003:3544:6700:4a26:b1:45c0:daf2": {
       "type": "movie",
