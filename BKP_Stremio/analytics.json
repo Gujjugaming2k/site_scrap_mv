@@ -1,5 +1,5 @@
 {
-  "totalViews": 23652,
+  "totalViews": 23656,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4925,41 +4925,10 @@
     "2409:40e1:cb:e35b:8000::",
     "152.59.48.243",
     "152.58.138.106",
-    "49.36.217.12"
+    "49.36.217.12",
+    "2409:40e5:9d:b2db:48f0:4aff:fe6a:e19a"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt21209876:1:3",
-      "title": "tt21209876:1:3",
-      "timestamp": "2026-01-22T08:04:58.428Z",
-      "ip": "2409:40d4:1065:fa9a:3c73:75fd:63a4:6c22",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt0441773",
-      "title": "Kung Fu Panda",
-      "timestamp": "2026-01-22T08:11:14.925Z",
-      "ip": "117.245.234.250",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt30387012",
-      "title": "tt30387012",
-      "timestamp": "2026-01-22T08:13:32.382Z",
-      "ip": "2401:4900:8ff0:8be9:7946:9b2b:18d9:1404",
-      "username": "reaper54x"
-    },
-    {
-      "type": "movie",
-      "id": "tt0045693",
-      "title": "tt0045693",
-      "timestamp": "2026-01-22T08:22:17.357Z",
-      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt32499731:1:5",
@@ -84927,6 +84896,38 @@
       "timestamp": "2026-02-12T09:46:42.958Z",
       "ip": "49.36.217.12",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-12T09:47:52.577Z",
+      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt31510819:1:1",
+      "title": "tt31510819:1:1",
+      "timestamp": "2026-02-12T10:00:14.820Z",
+      "ip": "152.59.153.61",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt31510819:1:2",
+      "title": "tt31510819:1:2",
+      "timestamp": "2026-02-12T10:00:48.765Z",
+      "ip": "152.59.153.61",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt2948372",
+      "title": "tt2948372",
+      "timestamp": "2026-02-12T10:02:51.969Z",
+      "ip": "2409:40e5:9d:b2db:48f0:4aff:fe6a:e19a",
+      "username": "cyberboy12321"
     }
   ],
   "activeNow": {
@@ -85145,7 +85146,7 @@
       "id": "tt31227572",
       "title": "tt31227572",
       "username": "nabakun24",
-      "lastActive": 1770889596000
+      "lastActive": 1770889672577
     },
     "2405:201:682e:6839:4b12:f490:d42e:c576": {
       "type": "series",
@@ -85415,10 +85416,10 @@
     },
     "152.59.153.61": {
       "type": "series",
-      "id": "tt32458829:1:1",
-      "title": "tt32458829:1:1",
+      "id": "tt31510819:1:2",
+      "title": "tt31510819:1:2",
       "username": "nabakun24",
-      "lastActive": 1770886609811
+      "lastActive": 1770890448765
     },
     "2401:4900:c304:c9d7:6851:b9ff:fe81:4814": {
       "type": "movie",
@@ -85769,6 +85770,13 @@
       "title": "Fallout",
       "username": "demon18319",
       "lastActive": 1770889602958
+    },
+    "2409:40e5:9d:b2db:48f0:4aff:fe6a:e19a": {
+      "type": "movie",
+      "id": "tt2948372",
+      "title": "tt2948372",
+      "username": "cyberboy12321",
+      "lastActive": 1770890571969
     }
   }
 }
