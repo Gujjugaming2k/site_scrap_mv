@@ -1,5 +1,5 @@
 {
-  "totalViews": 23859,
+  "totalViews": 23862,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -4958,30 +4958,6 @@
     "2405:201:5c14:2a70:860:8673:8893:2211"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-22T12:07:00.594Z",
-      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-22T12:07:14.110Z",
-      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt33550053:1:9",
-      "title": "tt33550053:1:9",
-      "timestamp": "2026-01-22T12:10:29.011Z",
-      "ip": "72.27.20.10",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:1",
@@ -84957,6 +84933,30 @@
       "timestamp": "2026-02-12T14:12:35.947Z",
       "ip": "2405:201:5c14:2a70:860:8673:8893:2211",
       "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "timestamp": "2026-02-12T14:15:32.204Z",
+      "ip": "2405:201:5c14:2a70:860:8673:8893:2211",
+      "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:3",
+      "title": "tt27497448:1:3",
+      "timestamp": "2026-02-12T14:15:51.875Z",
+      "ip": "2405:201:5c14:2a70:860:8673:8893:2211",
+      "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:3",
+      "title": "tt27497448:1:3",
+      "timestamp": "2026-02-12T14:16:34.421Z",
+      "ip": "2405:201:5c14:2a70:860:8673:8893:2211",
+      "username": "extremeyat"
     }
   ],
   "activeNow": {
@@ -86019,10 +86019,10 @@
     },
     "2405:201:5c14:2a70:860:8673:8893:2211": {
       "type": "series",
-      "id": "tt27497448:1:2",
-      "title": "tt27497448:1:2",
+      "id": "tt27497448:1:3",
+      "title": "tt27497448:1:3",
       "username": "extremeyat",
-      "lastActive": 1770905555947
+      "lastActive": 1770905794421
     }
   }
 }
