@@ -1,5 +1,5 @@
 {
-  "totalViews": 24853,
+  "totalViews": 24859,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5105,57 +5105,10 @@
     "2405:201:682e:6839:1f92:2fc:ba55:6b57",
     "2402:3a80:165e:b818:6787:7896:9e10:d777",
     "2401:4900:b073:b038:d0c0:a7ff:fefa:1be8",
-    "2402:8100:2cb0:43bc:8e2c:4fc0:b650:f5d1"
+    "2402:8100:2cb0:43bc:8e2c:4fc0:b650:f5d1",
+    "2409:40e4:10a5:748:38d4:ab7a:4e:ade8"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt8620002",
-      "title": "tt8620002",
-      "timestamp": "2026-01-23T05:13:26.295Z",
-      "ip": "67.71.30.20",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1743724",
-      "title": "tt1743724",
-      "timestamp": "2026-01-23T05:13:38.143Z",
-      "ip": "67.71.30.20",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt10886166",
-      "title": "365 Days",
-      "timestamp": "2026-01-23T05:14:40.982Z",
-      "ip": "2607:fb91:2109:c675:e9de:f144:5592:b6d5",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt23172090",
-      "title": "tt23172090",
-      "timestamp": "2026-01-23T05:17:01.746Z",
-      "ip": "173.209.119.243",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2934286:1:8",
-      "title": "tt2934286:1:8",
-      "timestamp": "2026-01-23T05:18:07.616Z",
-      "ip": "2a02:6ea0:d101:6225::20",
-      "username": "configure"
-    },
-    {
-      "type": "movie",
-      "id": "tt0364569",
-      "title": "Oldboy",
-      "timestamp": "2026-01-23T05:18:56.842Z",
-      "ip": "2409:40d0:b8:f5c4:98b0:aff:feac:5a16",
-      "username": "magicmannn"
-    },
     {
       "type": "movie",
       "id": "tt0021310",
@@ -85107,6 +85060,54 @@
       "timestamp": "2026-02-13T22:18:31.878Z",
       "ip": "2402:8100:2cb0:43bc:8e2c:4fc0:b650:f5d1",
       "username": "schnom153"
+    },
+    {
+      "type": "series",
+      "id": "tt0368479:1:2",
+      "title": "tt0368479:1:2",
+      "timestamp": "2026-02-13T22:18:52.855Z",
+      "ip": "2402:8100:2cb0:43bc:8e2c:4fc0:b650:f5d1",
+      "username": "schnom153"
+    },
+    {
+      "type": "series",
+      "id": "tt0368479:1:2",
+      "title": "tt0368479:1:2",
+      "timestamp": "2026-02-13T22:18:53.188Z",
+      "ip": "2402:8100:2cb0:43bc:8e2c:4fc0:b650:f5d1",
+      "username": "schnom153"
+    },
+    {
+      "type": "series",
+      "id": "tt4145384:1:1",
+      "title": "tt4145384:1:1",
+      "timestamp": "2026-02-13T22:20:11.137Z",
+      "ip": "2402:8100:2cb0:43bc:8e2c:4fc0:b650:f5d1",
+      "username": "schnom153"
+    },
+    {
+      "type": "series",
+      "id": "tt14164922:1:1",
+      "title": "Asterix & Obelix: The Big Fight",
+      "timestamp": "2026-02-13T22:20:48.915Z",
+      "ip": "2402:8100:2cb0:43bc:8e2c:4fc0:b650:f5d1",
+      "username": "schnom153"
+    },
+    {
+      "type": "movie",
+      "id": "tt37376961",
+      "title": "tt37376961",
+      "timestamp": "2026-02-13T22:21:41.788Z",
+      "ip": "2409:40e4:10a5:748:38d4:ab7a:4e:ade8",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt37376961",
+      "title": "tt37376961",
+      "timestamp": "2026-02-13T22:25:18.787Z",
+      "ip": "2409:40e4:10a5:748:38d4:ab7a:4e:ade8",
+      "username": "askchm"
     }
   ],
   "activeNow": {
@@ -85917,10 +85918,17 @@
     },
     "2402:8100:2cb0:43bc:8e2c:4fc0:b650:f5d1": {
       "type": "series",
-      "id": "tt0368479:1:1",
-      "title": "tt0368479:1:1",
+      "id": "tt14164922:1:1",
+      "title": "Asterix & Obelix: The Big Fight",
       "username": "schnom153",
-      "lastActive": 1771021111878
+      "lastActive": 1771021248915
+    },
+    "2409:40e4:10a5:748:38d4:ab7a:4e:ade8": {
+      "type": "movie",
+      "id": "tt37376961",
+      "title": "tt37376961",
+      "username": "askchm",
+      "lastActive": 1771021518787
     }
   }
 }
