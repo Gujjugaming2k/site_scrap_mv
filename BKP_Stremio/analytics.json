@@ -1,5 +1,5 @@
 {
-  "totalViews": 24385,
+  "totalViews": 24389,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5035,41 +5035,11 @@
     "2405:201:5c14:2a70:f1f4:3283:adb0:3772",
     "2409:40e6:9:37f8:c075:eeff:fe01:5a4a",
     "2405:201:6025:a88d:c6f7:bb4:f8f3:c6ae",
-    "152.59.5.149"
+    "152.59.5.149",
+    "2a09:bac5:3c7b:c8::14:2b0",
+    "2409:40c1:4140:4c00:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2365946:1:11",
-      "title": "tt2365946:1:11",
-      "timestamp": "2026-01-22T19:31:11.936Z",
-      "ip": "2a06:c701:474f:e900:ec89:eac8:e6d:6819",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2365946:1:11",
-      "title": "tt2365946:1:11",
-      "timestamp": "2026-01-22T19:31:12.003Z",
-      "ip": "2a06:c701:474f:e900:ec89:eac8:e6d:6819",
-      "username": "aviv"
-    },
-    {
-      "type": "series",
-      "id": "tt3032476:4:1",
-      "title": "tt3032476:4:1",
-      "timestamp": "2026-01-22T19:33:23.321Z",
-      "ip": "51.37.194.94",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt26920256",
-      "title": "tt26920256",
-      "timestamp": "2026-01-22T19:33:35.202Z",
-      "ip": "5.21.135.33",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt12324366:1:2",
@@ -85037,6 +85007,38 @@
       "timestamp": "2026-02-13T09:33:32.962Z",
       "ip": "2405:201:900f:a92b:1191:4ed7:e9dc:ba8",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt0472954:6:1",
+      "title": "tt0472954:6:1",
+      "timestamp": "2026-02-13T09:43:39.914Z",
+      "ip": "2a09:bac5:3c7b:c8::14:2b0",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt0472954:6:2",
+      "title": "tt0472954:6:2",
+      "timestamp": "2026-02-13T09:44:04.761Z",
+      "ip": "152.59.5.149",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt0472954:6:1",
+      "title": "tt0472954:6:1",
+      "timestamp": "2026-02-13T09:44:28.687Z",
+      "ip": "152.59.5.149",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:5",
+      "title": "tt19244304:1:5",
+      "timestamp": "2026-02-13T09:53:10.714Z",
+      "ip": "2409:40c1:4140:4c00:8000::",
+      "username": "belimhuzaifa"
     }
   ],
   "activeNow": {
@@ -85280,10 +85282,10 @@
     },
     "152.59.5.149": {
       "type": "series",
-      "id": "tt4574334:5:1",
-      "title": "Stranger Things",
+      "id": "tt0472954:6:1",
+      "title": "tt0472954:6:1",
       "username": "belimhuzaifa",
-      "lastActive": 1770974387898
+      "lastActive": 1770975868687
     },
     "202.88.248.12": {
       "type": "movie",
@@ -85291,6 +85293,20 @@
       "title": "tt35099420",
       "username": "deepak",
       "lastActive": 1770974364151
+    },
+    "2a09:bac5:3c7b:c8::14:2b0": {
+      "type": "series",
+      "id": "tt0472954:6:1",
+      "title": "tt0472954:6:1",
+      "username": "belimhuzaifa",
+      "lastActive": 1770975819914
+    },
+    "2409:40c1:4140:4c00:8000::": {
+      "type": "series",
+      "id": "tt19244304:1:5",
+      "title": "tt19244304:1:5",
+      "username": "belimhuzaifa",
+      "lastActive": 1770976390714
     }
   }
 }
