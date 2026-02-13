@@ -1,5 +1,5 @@
 {
-  "totalViews": 24239,
+  "totalViews": 24241,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5016,22 +5016,6 @@
     "2402:a00:10a:815f:b0c9:b870:245f:2b6e"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-01-22T17:40:45.936Z",
-      "ip": "195.80.150.131",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt22202452:1:1",
-      "title": "tt22202452:1:1",
-      "timestamp": "2026-01-22T17:41:13.582Z",
-      "ip": "160.238.73.11",
-      "username": "mr_anonymous_0004"
-    },
     {
       "type": "movie",
       "id": "tt32642706",
@@ -85015,6 +84999,22 @@
       "timestamp": "2026-02-13T02:54:11.882Z",
       "ip": "186.188.150.139",
       "username": "gary"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-13T03:02:00.612Z",
+      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-13T03:06:13.461Z",
+      "ip": "117.98.74.133",
+      "username": "extremeyat"
     }
   ],
   "activeNow": {
@@ -85059,6 +85059,20 @@
       "title": "Stranger Things",
       "username": "ashwanileon",
       "lastActive": 1770950989851
+    },
+    "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "nabakun24",
+      "lastActive": 1770951720612
+    },
+    "117.98.74.133": {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "username": "extremeyat",
+      "lastActive": 1770951973461
     }
   }
 }
