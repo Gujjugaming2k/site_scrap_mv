@@ -1,5 +1,5 @@
 {
-  "totalViews": 24413,
+  "totalViews": 24418,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5044,49 +5044,11 @@
     "2001:4490:4e65:a39f:1c6b:f6e7:f27c:6754",
     "2409:40e4:10bc:68f4:491a:1243:6543:4f6a",
     "2409:40d4:1243:f862:d468:2dff:feb4:4806",
-    "157.48.218.195,51.89.197.91"
+    "157.48.218.195,51.89.197.91",
+    "2409:40f0:3f:626a:488f:1dff:fe7d:c37e",
+    "205.254.186.37"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt3032476:4:3",
-      "title": "tt3032476:4:3",
-      "timestamp": "2026-01-22T20:18:41.429Z",
-      "ip": "51.37.194.94",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt2365946:1:12",
-      "title": "tt2365946:1:12",
-      "timestamp": "2026-01-22T20:21:41.838Z",
-      "ip": "2a06:c701:474f:e900:ec89:eac8:e6d:6819",
-      "username": "aviv"
-    },
-    {
-      "type": "series",
-      "id": "tt2365946:1:12",
-      "title": "tt2365946:1:12",
-      "timestamp": "2026-01-22T20:21:42.891Z",
-      "ip": "2a06:c701:474f:e900:ec89:eac8:e6d:6819",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0279600:1:2",
-      "title": "tt0279600:1:2",
-      "timestamp": "2026-01-22T20:26:03.482Z",
-      "ip": "2601:46:47e:abb5:808c:d7a3:a732:80",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2365946:1:13",
-      "title": "tt2365946:1:13",
-      "timestamp": "2026-01-22T20:28:37.363Z",
-      "ip": "2a06:c701:474f:e900:ec89:eac8:e6d:6819",
-      "username": "aviv"
-    },
     {
       "type": "movie",
       "id": "tt2335908",
@@ -85046,6 +85008,46 @@
       "timestamp": "2026-02-13T11:05:30.170Z",
       "ip": "103.46.200.43",
       "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt0816258",
+      "title": "tt0816258",
+      "timestamp": "2026-02-13T11:15:56.549Z",
+      "ip": "2409:40f0:3f:626a:488f:1dff:fe7d:c37e",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt5037912",
+      "title": "tt5037912",
+      "timestamp": "2026-02-13T11:16:41.087Z",
+      "ip": "2409:40f0:3f:626a:488f:1dff:fe7d:c37e",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-13T11:20:20.909Z",
+      "ip": "205.254.186.37",
+      "username": "manoz1"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-02-13T11:20:45.242Z",
+      "ip": "205.254.186.37",
+      "username": "manoz1"
+    },
+    {
+      "type": "movie",
+      "id": "tt15327088",
+      "title": "tt15327088",
+      "timestamp": "2026-02-13T11:21:01.903Z",
+      "ip": "205.254.186.37",
+      "username": "manoz1"
     }
   ],
   "activeNow": {
@@ -85370,6 +85372,20 @@
       "title": "Overdose",
       "username": "bk18",
       "lastActive": 1770980512828
+    },
+    "2409:40f0:3f:626a:488f:1dff:fe7d:c37e": {
+      "type": "movie",
+      "id": "tt5037912",
+      "title": "tt5037912",
+      "username": "sachinprem1",
+      "lastActive": 1770981401087
+    },
+    "205.254.186.37": {
+      "type": "movie",
+      "id": "tt15327088",
+      "title": "tt15327088",
+      "username": "manoz1",
+      "lastActive": 1770981661903
     }
   }
 }
