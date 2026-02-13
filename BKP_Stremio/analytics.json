@@ -1,5 +1,5 @@
 {
-  "totalViews": 24410,
+  "totalViews": 24413,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5042,33 +5042,11 @@
     "2a09:bac5:40bd:2705::3e3:1a",
     "2401:4900:8822:f599:475b:c373:c982:9ece",
     "2001:4490:4e65:a39f:1c6b:f6e7:f27c:6754",
-    "2409:40e4:10bc:68f4:491a:1243:6543:4f6a"
+    "2409:40e4:10bc:68f4:491a:1243:6543:4f6a",
+    "2409:40d4:1243:f862:d468:2dff:feb4:4806",
+    "157.48.218.195,51.89.197.91"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0899043",
-      "title": "The Amateur",
-      "timestamp": "2026-01-22T20:16:53.707Z",
-      "ip": "2a00:23c5:cd4:5601:398f:a2bd:8c0c:d69d",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-01-22T20:17:17.243Z",
-      "ip": "2600:8800:88a1:7f00:e514:fb88:c391:d139",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1360961:1:1",
-      "title": "tt1360961:1:1",
-      "timestamp": "2026-01-22T20:18:07.065Z",
-      "ip": "2a01:e0a:5db:d2f0:1e59:d37:a616:c229",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt3032476:4:3",
@@ -85044,6 +85022,30 @@
       "timestamp": "2026-02-13T10:39:30.968Z",
       "ip": "202.173.124.150",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt15713012",
+      "title": "Overdose",
+      "timestamp": "2026-02-13T11:01:52.567Z",
+      "ip": "2409:40d4:1243:f862:d468:2dff:feb4:4806",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt15713012",
+      "title": "Overdose",
+      "timestamp": "2026-02-13T11:01:52.828Z",
+      "ip": "157.48.218.195,51.89.197.91",
+      "username": "bk18"
+    },
+    {
+      "type": "movie",
+      "id": "tt32820897",
+      "title": "tt32820897",
+      "timestamp": "2026-02-13T11:05:30.170Z",
+      "ip": "103.46.200.43",
+      "username": "katdenningssss"
     }
   ],
   "activeNow": {
@@ -85336,10 +85338,10 @@
     },
     "103.46.200.43": {
       "type": "movie",
-      "id": "tt27047903",
-      "title": "tt27047903",
+      "id": "tt32820897",
+      "title": "tt32820897",
       "username": "katdenningssss",
-      "lastActive": 1770977171941
+      "lastActive": 1770980730170
     },
     "2001:4490:4e65:a39f:1c6b:f6e7:f27c:6754": {
       "type": "movie",
@@ -85354,6 +85356,20 @@
       "title": "tt32362695",
       "username": "askchm",
       "lastActive": 1770978843783
+    },
+    "2409:40d4:1243:f862:d468:2dff:feb4:4806": {
+      "type": "movie",
+      "id": "tt15713012",
+      "title": "Overdose",
+      "username": "golu_vk",
+      "lastActive": 1770980512567
+    },
+    "157.48.218.195,51.89.197.91": {
+      "type": "movie",
+      "id": "tt15713012",
+      "title": "Overdose",
+      "username": "bk18",
+      "lastActive": 1770980512828
     }
   }
 }
