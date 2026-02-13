@@ -1,5 +1,5 @@
 {
-  "totalViews": 24820,
+  "totalViews": 24824,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5107,38 +5107,6 @@
     "2401:4900:b073:b038:d0c0:a7ff:fefa:1be8"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0067824",
-      "title": "tt0067824",
-      "timestamp": "2026-01-23T04:30:41.954Z",
-      "ip": "189.171.99.29",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1228748",
-      "title": "tt1228748",
-      "timestamp": "2026-01-23T04:30:53.152Z",
-      "ip": "67.71.30.20",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt12262202:1:1",
-      "title": "tt12262202:1:1",
-      "timestamp": "2026-01-23T04:31:10.045Z",
-      "ip": "2607:fb90:d722:c281:c1d5:18f0:f0a9:db9b",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt10787168",
-      "title": "tt10787168",
-      "timestamp": "2026-01-23T04:31:11.337Z",
-      "ip": "67.71.30.20",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt0236420",
@@ -85106,6 +85074,38 @@
       "timestamp": "2026-02-13T20:25:55.299Z",
       "ip": "157.48.218.195,51.89.197.91",
       "username": "bk18"
+    },
+    {
+      "type": "movie",
+      "id": "tt1502397",
+      "title": "Bad Boys for Life",
+      "timestamp": "2026-02-13T20:34:52.767Z",
+      "ip": "2405:201:682e:6839:1f92:2fc:ba55:6b57",
+      "username": "babubhaiya"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-13T20:34:57.182Z",
+      "ip": "2405:201:682e:6839:1f92:2fc:ba55:6b57",
+      "username": "babubhaiya"
+    },
+    {
+      "type": "series",
+      "id": "tt13304410:2:2",
+      "title": "tt13304410:2:2",
+      "timestamp": "2026-02-13T20:38:23.765Z",
+      "ip": "2405:201:682e:6839:1f92:2fc:ba55:6b57",
+      "username": "babubhaiya"
+    },
+    {
+      "type": "series",
+      "id": "tt13304410:2:3",
+      "title": "tt13304410:2:3",
+      "timestamp": "2026-02-13T20:39:04.004Z",
+      "ip": "2405:201:682e:6839:1f92:2fc:ba55:6b57",
+      "username": "babubhaiya"
     }
   ],
   "activeNow": {
@@ -85887,11 +85887,11 @@
       "lastActive": 1771012366129
     },
     "2405:201:682e:6839:1f92:2fc:ba55:6b57": {
-      "type": "movie",
-      "id": "tt0816692",
-      "title": "Interstellar",
+      "type": "series",
+      "id": "tt13304410:2:3",
+      "title": "tt13304410:2:3",
       "username": "babubhaiya",
-      "lastActive": 1771013398209
+      "lastActive": 1771015144004
     },
     "2402:3a80:165e:b818:6787:7896:9e10:d777": {
       "type": "series",
