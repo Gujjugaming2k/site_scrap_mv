@@ -1,5 +1,5 @@
 {
-  "totalViews": 24656,
+  "totalViews": 24658,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5091,22 +5091,6 @@
     "2405:201:a018:b012:2ea4:ab1a:ebaf:f170"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-23T02:04:52.550Z",
-      "ip": "2409:4085:aeb5:c3c9::e2cb:f110",
-      "username": "brosportses"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-23T02:06:29.488Z",
-      "ip": "2409:4085:aeb5:c3c9:f43f:3d00:69da:5797",
-      "username": "katdenningssss"
-    },
     {
       "type": "movie",
       "id": "tt39140662",
@@ -85090,6 +85074,22 @@
       "timestamp": "2026-02-13T17:03:57.833Z",
       "ip": "202.173.124.150",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-13T17:08:31.873Z",
+      "ip": "202.173.124.150",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt14269590:1:1",
+      "title": "Poker Face",
+      "timestamp": "2026-02-13T17:08:39.292Z",
+      "ip": "202.173.124.150",
+      "username": "ryuzaklo26"
     }
   ],
   "activeNow": {
@@ -85178,11 +85178,11 @@
       "lastActive": 1770955214515
     },
     "202.173.124.150": {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "type": "series",
+      "id": "tt14269590:1:1",
+      "title": "Poker Face",
       "username": "ryuzaklo26",
-      "lastActive": 1771002237833
+      "lastActive": 1771002519292
     },
     "103.249.4.198": {
       "type": "series",
