@@ -1,5 +1,5 @@
 {
-  "totalViews": 24215,
+  "totalViews": 24218,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5009,33 +5009,10 @@
     "2409:40d4:402a:a03d:8000::",
     "2402:3a80:165d:a5a8:ec24:1ff0:4a9c:9a8b",
     "2401:4900:1c52:fe33:a176:5e82:8b40:7718",
-    "2402:8100:2cda:cf87:1715:3529:8218:7ecf"
+    "2402:8100:2cda:cf87:1715:3529:8218:7ecf",
+    "94.156.30.204"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12867810:1:13",
-      "title": "tt12867810:1:13",
-      "timestamp": "2026-01-22T17:10:49.929Z",
-      "ip": "2409:40c4:303f:14a3:b879:31ff:feab:e12d",
-      "username": "napsteerr"
-    },
-    {
-      "type": "series",
-      "id": "tt6470478:6:21",
-      "title": "tt6470478:6:21",
-      "timestamp": "2026-01-22T17:10:58.761Z",
-      "ip": "2a0a:ef40:440:7201:30ec:e5dd:d5d6:e865",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt12867810:1:14",
-      "title": "tt12867810:1:14",
-      "timestamp": "2026-01-22T17:11:04.713Z",
-      "ip": "2409:40c4:303f:14a3:b879:31ff:feab:e12d",
-      "username": "napsteerr"
-    },
     {
       "type": "movie",
       "id": "tt2597804",
@@ -85011,6 +84988,30 @@
       "timestamp": "2026-02-13T01:21:29.137Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:7",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-13T01:44:44.140Z",
+      "ip": "45.118.158.231",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt30476518",
+      "title": "Big World",
+      "timestamp": "2026-02-13T01:46:15.518Z",
+      "ip": "45.118.158.231",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt27853283:2:1",
+      "title": "tt27853283:2:1",
+      "timestamp": "2026-02-13T01:53:03.778Z",
+      "ip": "94.156.30.204",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -85975,10 +85976,10 @@
     },
     "45.118.158.231": {
       "type": "movie",
-      "id": "tt33028778",
-      "title": "tt33028778",
+      "id": "tt30476518",
+      "title": "Big World",
       "username": "gaendaswami",
-      "lastActive": 1770911436057
+      "lastActive": 1770947175518
     },
     "2409:40c4:311c:5600:d016:62bd:a2af:a7ff": {
       "type": "series",
@@ -86455,6 +86456,13 @@
       "title": "tt9813792:1:1",
       "username": "schnom153",
       "lastActive": 1770936403210
+    },
+    "94.156.30.204": {
+      "type": "series",
+      "id": "tt27853283:2:1",
+      "title": "tt27853283:2:1",
+      "username": "b1jju",
+      "lastActive": 1770947583778
     }
   }
 }
