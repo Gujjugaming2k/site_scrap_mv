@@ -1,5 +1,5 @@
 {
-  "totalViews": 24223,
+  "totalViews": 24225,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5011,25 +5011,10 @@
     "2401:4900:1c52:fe33:a176:5e82:8b40:7718",
     "2402:8100:2cda:cf87:1715:3529:8218:7ecf",
     "94.156.30.204",
-    "2409:40c4:1af:1b1a:dcfa:d7ff:fe34:11d1"
+    "2409:40c4:1af:1b1a:dcfa:d7ff:fe34:11d1",
+    "2405:201:2033:841:6999:7cc:77c8:2b35"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt10374610",
-      "title": "The Long Walk",
-      "timestamp": "2026-01-22T17:15:28.991Z",
-      "ip": "24.196.228.46",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt22202452:1:2",
-      "title": "tt22202452:1:2",
-      "timestamp": "2026-01-22T17:16:42.583Z",
-      "ip": "67.1.204.143",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt28996126",
@@ -85013,6 +84998,22 @@
       "timestamp": "2026-02-13T02:07:52.196Z",
       "ip": "94.156.30.204",
       "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-13T02:16:27.054Z",
+      "ip": "2405:201:2033:841:6999:7cc:77c8:2b35",
+      "username": "surti_lala"
+    },
+    {
+      "type": "movie",
+      "id": "tt7700730",
+      "title": "tt7700730",
+      "timestamp": "2026-02-13T02:23:51.627Z",
+      "ip": "2405:201:6820:a83c:8d5:ed4b:2b1b:cbc7",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -85046,10 +85047,10 @@
     },
     "2405:201:6820:a83c:8d5:ed4b:2b1b:cbc7": {
       "type": "movie",
-      "id": "tt4016934",
-      "title": "tt4016934",
+      "id": "tt7700730",
+      "title": "tt7700730",
       "username": "demon18319",
-      "lastActive": 1770911747222
+      "lastActive": 1770949431627
     },
     "2401:4900:1c0a:38bd:d848:cd47:c051:af0d": {
       "type": "series",
@@ -86471,6 +86472,13 @@
       "title": "tt27853283:2:2",
       "username": "iknowthat",
       "lastActive": 1770948182944
+    },
+    "2405:201:2033:841:6999:7cc:77c8:2b35": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "surti_lala",
+      "lastActive": 1770948987054
     }
   }
 }
