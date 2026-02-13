@@ -1,5 +1,5 @@
 {
-  "totalViews": 24261,
+  "totalViews": 24267,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5014,57 +5014,10 @@
     "2409:40c4:1af:1b1a:dcfa:d7ff:fe34:11d1",
     "2405:201:2033:841:6999:7cc:77c8:2b35",
     "2402:a00:10a:815f:b0c9:b870:245f:2b6e",
-    "2409:40e4:2053:d2b:2410:9dff:fefe:d74d"
+    "2409:40e4:2053:d2b:2410:9dff:fefe:d74d",
+    "2409:40f0:166:1480:3cdb:b4ff:feb8:b8c2"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt35521922",
-      "title": "Good Boy",
-      "timestamp": "2026-01-22T18:12:53.516Z",
-      "ip": "24.196.228.46",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-01-22T18:12:59.378Z",
-      "ip": "2409:40e4:68:cd19:e456:8fff:fe83:f26a",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-01-22T18:13:33.993Z",
-      "ip": "2409:40e4:68:cd19:e456:8fff:fe83:f26a",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-22T18:14:58.379Z",
-      "ip": "2409:40e4:68:cd19:e456:8fff:fe83:f26a",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "movie",
-      "id": "tt0454921",
-      "title": "The Pursuit of Happyness",
-      "timestamp": "2026-01-22T18:15:38.001Z",
-      "ip": "2409:40d0:310f:87c7:84b2:15ff:fe5e:641e",
-      "username": "magicmannn"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-22T18:18:57.257Z",
-      "ip": "2409:40e4:68:cd19:e456:8fff:fe83:f26a",
-      "username": "cyberboy12321"
-    },
     {
       "type": "movie",
       "id": "tt35521922",
@@ -85016,6 +84969,54 @@
       "timestamp": "2026-02-13T03:39:34.471Z",
       "ip": "38.224.232.109",
       "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt1705772",
+      "title": "tt1705772",
+      "timestamp": "2026-02-13T03:41:19.171Z",
+      "ip": "38.224.232.109",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt0357905",
+      "title": "tt0357905",
+      "timestamp": "2026-02-13T03:42:31.722Z",
+      "ip": "38.224.232.109",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt0814243",
+      "title": "tt0814243",
+      "timestamp": "2026-02-13T03:44:31.668Z",
+      "ip": "2409:40f0:166:1480:3cdb:b4ff:feb8:b8c2",
+      "username": "rick grimes"
+    },
+    {
+      "type": "movie",
+      "id": "tt1705772",
+      "title": "tt1705772",
+      "timestamp": "2026-02-13T03:45:38.680Z",
+      "ip": "38.224.232.109",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt36926733",
+      "title": "tt36926733",
+      "timestamp": "2026-02-13T03:47:13.055Z",
+      "ip": "38.224.232.109",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt35019998",
+      "title": "tt35019998",
+      "timestamp": "2026-02-13T03:52:10.892Z",
+      "ip": "2409:40e4:2053:d2b:2410:9dff:fefe:d74d",
+      "username": "cyberboy12321"
     }
   ],
   "activeNow": {
@@ -85028,10 +85029,10 @@
     },
     "38.224.232.109": {
       "type": "movie",
-      "id": "tt1705772",
-      "title": "tt1705772",
+      "id": "tt36926733",
+      "title": "tt36926733",
       "username": "thala_75",
-      "lastActive": 1770953974471
+      "lastActive": 1770954433055
     },
     "186.188.150.139": {
       "type": "movie",
@@ -85084,10 +85085,17 @@
     },
     "2409:40e4:2053:d2b:2410:9dff:fefe:d74d": {
       "type": "movie",
-      "id": "tt26439764",
-      "title": "tt26439764",
+      "id": "tt35019998",
+      "title": "tt35019998",
       "username": "cyberboy12321",
-      "lastActive": 1770953736489
+      "lastActive": 1770954730892
+    },
+    "2409:40f0:166:1480:3cdb:b4ff:feb8:b8c2": {
+      "type": "movie",
+      "id": "tt0814243",
+      "title": "tt0814243",
+      "username": "rick grimes",
+      "lastActive": 1770954271668
     }
   }
 }
