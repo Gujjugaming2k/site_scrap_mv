@@ -1,5 +1,5 @@
 {
-  "totalViews": 24527,
+  "totalViews": 24532,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5062,49 +5062,11 @@
     "152.58.37.85",
     "104.28.192.187",
     "2a09:bac5:406b:16aa::242:a3",
-    "2405:201:200d:906b:e838:1131:ebcd:cb48"
+    "2405:201:200d:906b:e838:1131:ebcd:cb48",
+    "2401:4900:b07d:e058:bc32:82ff:fe1c:19a9",
+    "2a02:6ea0:c493:7003:2da1:1809:2baa:959c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt33035373:1:1",
-      "title": "tt33035373:1:1",
-      "timestamp": "2026-01-22T22:36:44.761Z",
-      "ip": "2600:4041:50eb:2100:7147:8c0:4489:db34",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt19854762:1:3",
-      "title": "tt19854762:1:3",
-      "timestamp": "2026-01-22T22:38:04.923Z",
-      "ip": "2402:a00:10a:815f:1f4d:c134:d188:c83b",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt19854762:1:3",
-      "title": "tt19854762:1:3",
-      "timestamp": "2026-01-22T22:39:27.837Z",
-      "ip": "2402:a00:10a:815f:1f4d:c134:d188:c83b",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt19854762:1:4",
-      "title": "tt19854762:1:4",
-      "timestamp": "2026-01-22T22:39:50.814Z",
-      "ip": "2402:a00:10a:815f:1f4d:c134:d188:c83b",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt1797469",
-      "title": "tt1797469",
-      "timestamp": "2026-01-22T22:39:52.737Z",
-      "ip": "94.30.12.78",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt33029543",
@@ -85064,6 +85026,46 @@
       "timestamp": "2026-02-13T13:54:21.853Z",
       "ip": "2405:201:5c14:2a70:f1f4:3283:adb0:3772",
       "username": "extremeyat"
+    },
+    {
+      "type": "movie",
+      "id": "tt36926733",
+      "title": "tt36926733",
+      "timestamp": "2026-02-13T14:05:45.149Z",
+      "ip": "2401:4900:b07d:e058:bc32:82ff:fe1c:19a9",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt15464188",
+      "title": "tt15464188",
+      "timestamp": "2026-02-13T14:07:41.311Z",
+      "ip": "2401:4900:b07d:e058:bc32:82ff:fe1c:19a9",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-02-13T14:09:08.939Z",
+      "ip": "2409:40e6:9:37f8:c075:eeff:fe01:5a4a",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt8036976",
+      "title": "tt8036976",
+      "timestamp": "2026-02-13T14:16:06.032Z",
+      "ip": "2a02:6ea0:c493:7003:2da1:1809:2baa:959c",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:4",
+      "title": "tt14186672:2:4",
+      "timestamp": "2026-02-13T14:17:07.002Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -85293,10 +85295,10 @@
     },
     "2409:40e6:9:37f8:c075:eeff:fe01:5a4a": {
       "type": "movie",
-      "id": "tt2855648",
-      "title": "tt2855648",
+      "id": "tt26443597",
+      "title": "tt26443597",
       "username": "nabakun24",
-      "lastActive": 1770990748729
+      "lastActive": 1770991748939
     },
     "2405:201:6025:a88d:c6f7:bb4:f8f3:c6ae": {
       "type": "movie",
@@ -85464,7 +85466,7 @@
       "id": "tt14186672:2:4",
       "title": "tt14186672:2:4",
       "username": "chetan_b2",
-      "lastActive": 1770990074853
+      "lastActive": 1770992227002
     },
     "2409:40d2:204f:4267:8f1:6423:2f18:1232": {
       "type": "movie",
@@ -85542,6 +85544,20 @@
       "title": "Dhurandhar",
       "username": "kulu007",
       "lastActive": 1770990608419
+    },
+    "2401:4900:b07d:e058:bc32:82ff:fe1c:19a9": {
+      "type": "movie",
+      "id": "tt15464188",
+      "title": "tt15464188",
+      "username": "william097",
+      "lastActive": 1770991661311
+    },
+    "2a02:6ea0:c493:7003:2da1:1809:2baa:959c": {
+      "type": "movie",
+      "id": "tt8036976",
+      "title": "tt8036976",
+      "username": "theonlyfreak",
+      "lastActive": 1770992166032
     }
   }
 }
