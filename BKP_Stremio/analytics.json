@@ -1,5 +1,5 @@
 {
-  "totalViews": 24470,
+  "totalViews": 24471,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5058,14 +5058,6 @@
     "2402:a00:10a:815f:dcc6:d5b3:7dae:81df"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32141377",
-      "title": "tt32141377",
-      "timestamp": "2026-01-22T21:39:12.177Z",
-      "ip": "160.179.72.227",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt33244668",
@@ -85057,6 +85049,14 @@
       "timestamp": "2026-02-13T13:10:01.572Z",
       "ip": "2402:a00:10a:815f:dcc6:d5b3:7dae:81df",
       "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:2",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-13T13:15:22.655Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
     }
   ],
   "activeNow": {
@@ -85450,7 +85450,7 @@
       "id": "tt0944947:1:2",
       "title": "Game of Thrones",
       "username": "un0fficial_itachi",
-      "lastActive": 1770985778714
+      "lastActive": 1770988522655
     },
     "203.192.255.46": {
       "type": "series",
