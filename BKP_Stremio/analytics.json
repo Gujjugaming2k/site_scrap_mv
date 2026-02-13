@@ -1,5 +1,5 @@
 {
-  "totalViews": 24359,
+  "totalViews": 24365,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5036,54 +5036,6 @@
     "2409:40e6:9:37f8:c075:eeff:fe01:5a4a"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt36502822:1:12",
-      "title": "tt36502822:1:12",
-      "timestamp": "2026-01-22T19:12:24.146Z",
-      "ip": "92.40.186.86",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-22T19:12:26.870Z",
-      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt36502822:1:12",
-      "title": "tt36502822:1:12",
-      "timestamp": "2026-01-22T19:12:42.067Z",
-      "ip": "92.40.186.81",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-22T19:13:05.402Z",
-      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-22T19:13:10.437Z",
-      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-22T19:13:14.881Z",
-      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
     {
       "type": "movie",
       "id": "tt6878820",
@@ -85035,6 +84987,54 @@
       "timestamp": "2026-02-13T08:33:26.588Z",
       "ip": "2409:40e6:9:37f8:c075:eeff:fe01:5a4a",
       "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt13868972:1:1",
+      "title": "tt13868972:1:1",
+      "timestamp": "2026-02-13T08:41:11.452Z",
+      "ip": "103.249.4.198",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt13868972:1:1",
+      "title": "tt13868972:1:1",
+      "timestamp": "2026-02-13T08:42:10.298Z",
+      "ip": "103.249.4.198",
+      "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-13T08:43:28.737Z",
+      "ip": "2409:40e6:9:37f8:c075:eeff:fe01:5a4a",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt33028778",
+      "title": "tt33028778",
+      "timestamp": "2026-02-13T08:43:39.576Z",
+      "ip": "2405:201:900f:a92b:1191:4ed7:e9dc:ba8",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-13T08:44:20.217Z",
+      "ip": "2409:40e6:9:37f8:c075:eeff:fe01:5a4a",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt28106758:1:1",
+      "title": "tt28106758:1:1",
+      "timestamp": "2026-02-13T08:45:24.707Z",
+      "ip": "202.173.124.150",
+      "username": "ryuzaklo26"
     }
   ],
   "activeNow": {
@@ -85127,14 +85127,14 @@
       "id": "tt28106758:1:1",
       "title": "tt28106758:1:1",
       "username": "ryuzaklo26",
-      "lastActive": 1770955283403
+      "lastActive": 1770972324707
     },
     "103.249.4.198": {
       "type": "series",
       "id": "tt13868972:1:1",
       "title": "tt13868972:1:1",
       "username": "tgh2r",
-      "lastActive": 1770957201486
+      "lastActive": 1770972130298
     },
     "2405:201:5c14:2a70:a414:9485:c36:e1c2": {
       "type": "series",
@@ -85236,10 +85236,10 @@
     },
     "2405:201:900f:a92b:1191:4ed7:e9dc:ba8": {
       "type": "movie",
-      "id": "tt0107290",
-      "title": "Jurassic Park",
+      "id": "tt33028778",
+      "title": "tt33028778",
       "username": "theonlyfreak",
-      "lastActive": 1770970094416
+      "lastActive": 1770972219576
     },
     "2401:4900:88d5:8287:8f1:6423:2f18:1232": {
       "type": "series",
@@ -85263,11 +85263,11 @@
       "lastActive": 1770971473888
     },
     "2409:40e6:9:37f8:c075:eeff:fe01:5a4a": {
-      "type": "series",
-      "id": "tt39137681:1:2",
-      "title": "tt39137681:1:2",
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
       "username": "nabakun24",
-      "lastActive": 1770971606588
+      "lastActive": 1770972260217
     }
   }
 }
