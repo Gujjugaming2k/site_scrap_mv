@@ -1,5 +1,5 @@
 {
-  "totalViews": 24574,
+  "totalViews": 24577,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5075,33 +5075,10 @@
     "2401:4900:8fe1:b09f:540a:ee11:683:8c0c",
     "47.30.254.233",
     "2401:4900:8f61:d29c:4884:7a3a:a368:2901",
-    "2409:40e4:4c:34b0:b887:d3ff:fe31:9e70"
+    "2409:40e4:4c:34b0:b887:d3ff:fe31:9e70",
+    "223.181.77.4"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt8270592:1:1",
-      "title": "tt8270592:1:1",
-      "timestamp": "2026-01-22T23:56:22.335Z",
-      "ip": "105.154.213.185",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt31050594",
-      "title": "tt31050594",
-      "timestamp": "2026-01-23T00:00:54.308Z",
-      "ip": "207.191.244.55",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0369179:3:7",
-      "title": "tt0369179:3:7",
-      "timestamp": "2026-01-23T00:01:51.573Z",
-      "ip": "105.109.117.0",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt28498159",
@@ -85077,6 +85054,30 @@
       "timestamp": "2026-02-13T15:09:24.441Z",
       "ip": "2409:40e4:4c:34b0:b887:d3ff:fe31:9e70",
       "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt20850406",
+      "title": "tt20850406",
+      "timestamp": "2026-02-13T15:23:47.120Z",
+      "ip": "223.181.77.4",
+      "username": "bigtv"
+    },
+    {
+      "type": "series",
+      "id": "tt37449205:1:1",
+      "title": "tt37449205:1:1",
+      "timestamp": "2026-02-13T15:31:15.156Z",
+      "ip": "2405:201:6820:a83c:8d5:ed4b:2b1b:cbc7",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:4",
+      "title": "tt14186672:2:4",
+      "timestamp": "2026-02-13T15:31:42.773Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -85138,10 +85139,10 @@
     },
     "2405:201:6820:a83c:8d5:ed4b:2b1b:cbc7": {
       "type": "series",
-      "id": "tt12637874:2:8",
-      "title": "Fallout",
+      "id": "tt37449205:1:1",
+      "title": "tt37449205:1:1",
       "username": "demon18319",
-      "lastActive": 1770952666221
+      "lastActive": 1770996675156
     },
     "2409:40e4:2053:d2b:2410:9dff:fefe:d74d": {
       "type": "movie",
@@ -85477,7 +85478,7 @@
       "id": "tt14186672:2:4",
       "title": "tt14186672:2:4",
       "username": "chetan_b2",
-      "lastActive": 1770992227002
+      "lastActive": 1770996702773
     },
     "2409:40d2:204f:4267:8f1:6423:2f18:1232": {
       "type": "movie",
@@ -85653,6 +85654,13 @@
       "title": "tt38990492:1:1",
       "username": "cyberboy12321",
       "lastActive": 1770995364441
+    },
+    "223.181.77.4": {
+      "type": "movie",
+      "id": "tt20850406",
+      "title": "tt20850406",
+      "username": "bigtv",
+      "lastActive": 1770996227120
     }
   }
 }
