@@ -1,5 +1,5 @@
 {
-  "totalViews": 24447,
+  "totalViews": 24448,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5055,14 +5055,6 @@
     "2409:40d4:40c2:9201:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2365946:1:13",
-      "title": "tt2365946:1:13",
-      "timestamp": "2026-01-22T21:12:44.944Z",
-      "ip": "2a06:c701:474f:e900:ec89:eac8:e6d:6819",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt2365946:1:13",
@@ -85054,6 +85046,14 @@
       "timestamp": "2026-02-13T12:09:18.266Z",
       "ip": "2401:4900:1cab:41dc:b82d:8c7a:59d7:4945",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt0335345",
+      "title": "The Passion of the Christ",
+      "timestamp": "2026-02-13T12:25:44.836Z",
+      "ip": "103.46.200.43",
+      "username": "brosportses"
     }
   ],
   "activeNow": {
@@ -85346,10 +85346,10 @@
     },
     "103.46.200.43": {
       "type": "movie",
-      "id": "tt32820897",
-      "title": "tt32820897",
-      "username": "katdenningssss",
-      "lastActive": 1770980730170
+      "id": "tt0335345",
+      "title": "The Passion of the Christ",
+      "username": "brosportses",
+      "lastActive": 1770985544836
     },
     "2001:4490:4e65:a39f:1c6b:f6e7:f27c:6754": {
       "type": "movie",
