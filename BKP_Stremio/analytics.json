@@ -1,5 +1,5 @@
 {
-  "totalViews": 24365,
+  "totalViews": 24368,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5033,33 +5033,10 @@
     "2405:201:900f:a92b:1191:4ed7:e9dc:ba8",
     "2401:4900:88d5:8287:8f1:6423:2f18:1232",
     "2405:201:5c14:2a70:f1f4:3283:adb0:3772",
-    "2409:40e6:9:37f8:c075:eeff:fe01:5a4a"
+    "2409:40e6:9:37f8:c075:eeff:fe01:5a4a",
+    "2405:201:6025:a88d:c6f7:bb4:f8f3:c6ae"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt6878820",
-      "title": "tt6878820",
-      "timestamp": "2026-01-22T19:13:19.496Z",
-      "ip": "82.16.35.91",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-01-22T19:13:57.954Z",
-      "ip": "2600:8800:88a1:7f00:e514:fb88:c391:d139",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt6604188",
-      "title": "TRON: Ares",
-      "timestamp": "2026-01-22T19:15:27.635Z",
-      "ip": "223.123.12.156",
-      "username": "hvre2"
-    },
     {
       "type": "movie",
       "id": "tt28142095",
@@ -85035,6 +85012,30 @@
       "timestamp": "2026-02-13T08:45:24.707Z",
       "ip": "202.173.124.150",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-13T09:02:52.869Z",
+      "ip": "2405:201:6025:a88d:c6f7:bb4:f8f3:c6ae",
+      "username": "anonymously_yourss"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-13T09:03:49.261Z",
+      "ip": "2405:201:6025:a88d:c6f7:bb4:f8f3:c6ae",
+      "username": "anonymously_yourss"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-13T09:03:50.096Z",
+      "ip": "2405:201:6025:a88d:c6f7:bb4:f8f3:c6ae",
+      "username": "anonymously_yourss"
     }
   ],
   "activeNow": {
@@ -85268,6 +85269,13 @@
       "title": "tt27543632",
       "username": "nabakun24",
       "lastActive": 1770972260217
+    },
+    "2405:201:6025:a88d:c6f7:bb4:f8f3:c6ae": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "anonymously_yourss",
+      "lastActive": 1770973430096
     }
   }
 }
