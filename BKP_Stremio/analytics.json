@@ -1,5 +1,5 @@
 {
-  "totalViews": 24340,
+  "totalViews": 24346,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5027,57 +5027,11 @@
     "2409:40e4:1081:539c:b53b:9d3f:b4bc:dd7d",
     "2401:4900:1cab:41dc:b82d:8c7a:59d7:4945",
     "2603:3003:3544:6700:6390:8ea1:672:dd41",
-    "152.59.154.225"
+    "152.59.154.225",
+    "117.198.187.159",
+    "49.47.153.175"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt3640276:11:3",
-      "title": "tt3640276:11:3",
-      "timestamp": "2026-01-22T19:04:56.078Z",
-      "ip": "194.126.229.2",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt11691684:1:1",
-      "title": "tt11691684:1:1",
-      "timestamp": "2026-01-22T19:05:39.714Z",
-      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt33093531",
-      "title": "tt33093531",
-      "timestamp": "2026-01-22T19:05:45.188Z",
-      "ip": "86.19.108.125",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt11691684:1:2",
-      "title": "tt11691684:1:2",
-      "timestamp": "2026-01-22T19:06:20.264Z",
-      "ip": "2401:4900:8820:8915:5922:bf6d:951:32dc,2a09:bac5:37ac:ebe::178:145",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:5:12",
-      "title": "tt0903747:5:12",
-      "timestamp": "2026-01-22T19:06:22.654Z",
-      "ip": "182.69.183.164",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:5:12",
-      "title": "tt0903747:5:12",
-      "timestamp": "2026-01-22T19:06:26.054Z",
-      "ip": "182.69.183.164",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt0903747:5:13",
@@ -85029,6 +84983,54 @@
       "timestamp": "2026-02-13T07:22:49.597Z",
       "ip": "2603:3003:3544:6700:6390:8ea1:672:dd41",
       "username": "anupambabu_97"
+    },
+    {
+      "type": "movie",
+      "id": "tt33046197",
+      "title": "tt33046197",
+      "timestamp": "2026-02-13T07:41:30.027Z",
+      "ip": "117.198.187.159",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:6",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-13T07:43:42.771Z",
+      "ip": "49.47.153.175",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:7",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-13T07:43:54.651Z",
+      "ip": "49.47.153.175",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:8",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-13T07:44:47.602Z",
+      "ip": "49.47.153.175",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt35288598",
+      "title": "tt35288598",
+      "timestamp": "2026-02-13T07:45:56.967Z",
+      "ip": "38.224.232.109",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt0243255",
+      "title": "tt0243255",
+      "timestamp": "2026-02-13T07:48:05.044Z",
+      "ip": "2409:40e4:1044:53ec:ecfe:15ff:fe81:3952",
+      "username": "cyberboy12321"
     }
   ],
   "activeNow": {
@@ -85041,10 +85043,10 @@
     },
     "38.224.232.109": {
       "type": "movie",
-      "id": "tt1705772",
-      "title": "tt1705772",
+      "id": "tt35288598",
+      "title": "tt35288598",
       "username": "thala_75",
-      "lastActive": 1770964141570
+      "lastActive": 1770968756967
     },
     "186.188.150.139": {
       "type": "movie",
@@ -85177,7 +85179,7 @@
       "id": "tt0243255",
       "title": "tt0243255",
       "username": "cyberboy12321",
-      "lastActive": 1770965270954
+      "lastActive": 1770968885044
     },
     "185.216.231.140": {
       "type": "movie",
@@ -85213,6 +85215,20 @@
       "title": "tt3212600:1:1",
       "username": "cyberboy12321",
       "lastActive": 1770967358903
+    },
+    "117.198.187.159": {
+      "type": "movie",
+      "id": "tt33046197",
+      "title": "tt33046197",
+      "username": "zealousninja",
+      "lastActive": 1770968490027
+    },
+    "49.47.153.175": {
+      "type": "series",
+      "id": "tt12343534:3:8",
+      "title": "JUJUTSU KAISEN",
+      "username": "theonlyfreak",
+      "lastActive": 1770968687602
     }
   }
 }
