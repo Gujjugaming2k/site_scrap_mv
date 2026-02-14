@@ -1,5 +1,5 @@
 {
-  "totalViews": 24866,
+  "totalViews": 24868,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5107,25 +5107,10 @@
     "2401:4900:b073:b038:d0c0:a7ff:fefa:1be8",
     "2402:8100:2cb0:43bc:8e2c:4fc0:b650:f5d1",
     "2409:40e4:10a5:748:38d4:ab7a:4e:ade8",
-    "2409:40c4:18e:eba5:5035:7cff:fe14:184c"
+    "2409:40c4:18e:eba5:5035:7cff:fe14:184c",
+    "49.36.218.104"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt22543568",
-      "title": "tt22543568",
-      "timestamp": "2026-01-23T05:23:30.980Z",
-      "ip": "67.71.30.20",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0388629:22:57",
-      "title": "tt0388629:22:57",
-      "timestamp": "2026-01-23T05:24:24.511Z",
-      "ip": "2a00:801:4a5:761c:b51f:afcf:43cd:ed19",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt2934286:1:8",
@@ -85109,6 +85094,22 @@
       "timestamp": "2026-02-14T01:29:42.574Z",
       "ip": "2409:40c4:18e:eba5:5035:7cff:fe14:184c",
       "username": "iknowthat"
+    },
+    {
+      "type": "series",
+      "id": "tt37449205:1:4",
+      "title": "tt37449205:1:4",
+      "timestamp": "2026-02-14T01:42:26.659Z",
+      "ip": "49.36.218.104",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt15464188",
+      "title": "tt15464188",
+      "timestamp": "2026-02-14T01:48:20.385Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -85485,10 +85486,10 @@
     },
     "103.24.85.184": {
       "type": "movie",
-      "id": "tt35288598",
-      "title": "tt35288598",
+      "id": "tt15464188",
+      "title": "tt15464188",
       "username": "william097",
-      "lastActive": 1771026889844
+      "lastActive": 1771033700385
     },
     "2409:40d4:40c2:9201:8000::": {
       "type": "series",
@@ -85937,6 +85938,13 @@
       "title": "tt28508934",
       "username": "iknowthat",
       "lastActive": 1771032582574
+    },
+    "49.36.218.104": {
+      "type": "series",
+      "id": "tt37449205:1:4",
+      "title": "tt37449205:1:4",
+      "username": "demon18319",
+      "lastActive": 1771033346659
     }
   }
 }
