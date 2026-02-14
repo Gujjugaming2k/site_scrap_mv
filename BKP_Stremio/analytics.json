@@ -1,5 +1,5 @@
 {
-  "totalViews": 24939,
+  "totalViews": 24945,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5125,57 +5125,11 @@
     "2405:201:500c:4a01:2e1b:3aff:fe14:f417",
     "2401:4900:ada9:1cb6:484f:84ff:fee3:6914",
     "47.15.78.105",
-    "47.15.78.105,51.89.197.91"
+    "47.15.78.105,51.89.197.91",
+    "2409:40e6:2a:8002:d46e:96ff:fecb:9ed2",
+    "205.254.185.136"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt11891870",
-      "title": "tt11891870",
-      "timestamp": "2026-01-23T07:23:37.008Z",
-      "ip": "2409:40f3:205c:3612:8030:effe:ec45:c5e1",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt2271565",
-      "title": "tt2271565",
-      "timestamp": "2026-01-23T07:26:44.173Z",
-      "ip": "2405:201:6025:a88d:995f:8265:fa84:c502",
-      "username": "infinityseeker"
-    },
-    {
-      "type": "series",
-      "id": "tt8060184",
-      "title": "tt8060184",
-      "timestamp": "2026-01-23T07:27:08.286Z",
-      "ip": "2405:201:6025:a88d:995f:8265:fa84:c502",
-      "username": "infinityseeker"
-    },
-    {
-      "type": "series",
-      "id": "tt8060184",
-      "title": "tt8060184",
-      "timestamp": "2026-01-23T07:27:11.270Z",
-      "ip": "2405:201:6025:a88d:995f:8265:fa84:c502",
-      "username": "infinityseeker"
-    },
-    {
-      "type": "movie",
-      "id": "tt0156938",
-      "title": "tt0156938",
-      "timestamp": "2026-01-23T07:27:20.754Z",
-      "ip": "2405:201:6025:a88d:995f:8265:fa84:c502",
-      "username": "infinityseeker"
-    },
-    {
-      "type": "movie",
-      "id": "tt32187647",
-      "title": "tt32187647",
-      "timestamp": "2026-01-23T07:27:32.159Z",
-      "ip": "2405:201:6025:a88d:995f:8265:fa84:c502",
-      "username": "infinityseeker"
-    },
     {
       "type": "movie",
       "id": "tt32642706",
@@ -85127,6 +85081,54 @@
       "timestamp": "2026-02-14T05:13:38.657Z",
       "ip": "2405:201:500c:4a01:e1c0:8b5a:b948:aab9",
       "username": "shadow"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-02-14T05:26:37.385Z",
+      "ip": "2409:40e6:2a:8002:d46e:96ff:fecb:9ed2",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "timestamp": "2026-02-14T05:27:07.802Z",
+      "ip": "205.254.185.136",
+      "username": "space_forca"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-02-14T05:29:41.809Z",
+      "ip": "2409:40e6:2a:8002:d46e:96ff:fecb:9ed2",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-02-14T05:32:38.291Z",
+      "ip": "2409:40e6:2a:8002:d46e:96ff:fecb:9ed2",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-02-14T05:33:47.645Z",
+      "ip": "2409:40e6:2a:8002:d46e:96ff:fecb:9ed2",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-14T05:34:09.757Z",
+      "ip": "2409:40e6:2a:8002:d46e:96ff:fecb:9ed2",
+      "username": "nabakun24"
     }
   ],
   "activeNow": {
@@ -85227,6 +85229,20 @@
       "title": "tt27853283:2:5",
       "username": "bk18",
       "lastActive": 1771046007016
+    },
+    "2409:40e6:2a:8002:d46e:96ff:fecb:9ed2": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "nabakun24",
+      "lastActive": 1771047249757
+    },
+    "205.254.185.136": {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "username": "space_forca",
+      "lastActive": 1771046827802
     }
   }
 }
