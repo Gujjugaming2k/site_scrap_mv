@@ -1,5 +1,5 @@
 {
-  "totalViews": 25430,
+  "totalViews": 25431,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5226,17 +5226,10 @@
     "2409:40c1:19:6220:8000::",
     "173.239.196.68",
     "2401:4900:b0bb:c350:a81d:a2ff:fe5b:2d4d",
-    "2409:40e6:1c:344b:6438:36ff:fe9f:c47d"
+    "2409:40e6:1c:344b:6438:36ff:fe9f:c47d",
+    "2401:4900:8826:1404:444d:4dff:fbeb:25d1"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt26692417:1:58",
-      "title": "tt26692417:1:58",
-      "timestamp": "2026-01-23T12:23:13.389Z",
-      "ip": "119.42.59.120",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt26692417:1:59",
@@ -85228,6 +85221,14 @@
       "timestamp": "2026-02-14T20:10:45.588Z",
       "ip": "2409:40e6:1c:344b:6438:36ff:fe9f:c47d",
       "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:20",
+      "title": "tt6354518:2:20",
+      "timestamp": "2026-02-14T20:44:41.556Z",
+      "ip": "2401:4900:8826:1404:444d:4dff:fbeb:25d1",
+      "username": "sinbad1722"
     }
   ],
   "activeNow": {
@@ -86154,6 +86155,13 @@
       "title": "tt31227572",
       "username": "nabakun24",
       "lastActive": 1771099845588
+    },
+    "2401:4900:8826:1404:444d:4dff:fbeb:25d1": {
+      "type": "series",
+      "id": "tt6354518:2:20",
+      "title": "tt6354518:2:20",
+      "username": "sinbad1722",
+      "lastActive": 1771101881556
     }
   }
 }
