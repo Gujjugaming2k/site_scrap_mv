@@ -1,5 +1,5 @@
 {
-  "totalViews": 24908,
+  "totalViews": 24910,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5122,22 +5122,6 @@
     "152.59.148.48"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt14142060",
-      "title": "tt14142060",
-      "timestamp": "2026-01-23T06:16:22.589Z",
-      "ip": "111.92.121.170",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "movie",
-      "id": "tt0421239",
-      "title": "Red Eye",
-      "timestamp": "2026-01-23T06:17:33.652Z",
-      "ip": "2806:267:6409:d2:dcd5:3612:3583:8b8e",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt2306299:1:1",
@@ -85121,6 +85105,22 @@
       "timestamp": "2026-02-14T04:27:05.133Z",
       "ip": "152.59.148.48",
       "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:4",
+      "title": "tt14186672:2:4",
+      "timestamp": "2026-02-14T04:29:43.964Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt31969600",
+      "title": "tt31969600",
+      "timestamp": "2026-02-14T04:41:18.939Z",
+      "ip": "116.68.75.147",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -85147,10 +85147,10 @@
     },
     "116.68.75.147": {
       "type": "movie",
-      "id": "tt4679210",
-      "title": "tt4679210",
+      "id": "tt31969600",
+      "title": "tt31969600",
       "username": "aravindsivan",
-      "lastActive": 1771041733269
+      "lastActive": 1771044078939
     },
     "2603:3003:3544:6700:a77a:6e0f:63b7:36b5": {
       "type": "movie",
@@ -85172,6 +85172,13 @@
       "title": "tt32916440",
       "username": "nabakun24",
       "lastActive": 1771043225133
+    },
+    "203.192.255.46": {
+      "type": "series",
+      "id": "tt14186672:2:4",
+      "title": "tt14186672:2:4",
+      "username": "chetan_b2",
+      "lastActive": 1771043383964
     }
   }
 }
