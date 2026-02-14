@@ -1,5 +1,5 @@
 {
-  "totalViews": 25222,
+  "totalViews": 25225,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5199,33 +5199,10 @@
     "49.36.79.214",
     "2402:3a80:4412:4b9:dc73:1bda:34e8:4f78",
     "2405:201:6025:a88d:fac9:60b0:e782:f753",
-    "47.15.114.115"
+    "47.15.114.115",
+    "2402:3a80:16a6:1622:7855:65ff:fe9c:d7ab"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30472557",
-      "title": "Chainsaw Man - The Movie: Reze Arc",
-      "timestamp": "2026-01-23T10:44:18.537Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "movie",
-      "id": "tt16539454",
-      "title": "tt16539454",
-      "timestamp": "2026-01-23T10:44:33.942Z",
-      "ip": "115.98.99.86",
-      "username": "nothing_8888"
-    },
-    {
-      "type": "movie",
-      "id": "tt4712810",
-      "title": "tt4712810",
-      "timestamp": "2026-01-23T10:45:00.448Z",
-      "ip": "197.232.51.3",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt10795658:3:1",
@@ -85201,6 +85178,30 @@
       "timestamp": "2026-02-14T14:03:41.195Z",
       "ip": "47.15.114.115",
       "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-02-14T14:05:50.345Z",
+      "ip": "47.15.114.115",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt36463894",
+      "title": "Predator: Killer of Killers",
+      "timestamp": "2026-02-14T14:16:50.282Z",
+      "ip": "2402:3a80:16a6:1622:7855:65ff:fe9c:d7ab",
+      "username": "surti_lala"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-14T14:18:01.220Z",
+      "ip": "2402:3a80:16a6:1622:7855:65ff:fe9c:d7ab",
+      "username": "surti_lala"
     }
   ],
   "activeNow": {
@@ -85906,10 +85907,17 @@
     },
     "47.15.114.115": {
       "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
+      "id": "tt32916440",
+      "title": "tt32916440",
       "username": "saurabhkaperwan",
-      "lastActive": 1771077821195
+      "lastActive": 1771077950345
+    },
+    "2402:3a80:16a6:1622:7855:65ff:fe9c:d7ab": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "surti_lala",
+      "lastActive": 1771078681220
     }
   }
 }
