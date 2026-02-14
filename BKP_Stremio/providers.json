@@ -98,28 +98,6 @@
     "updatedAt": "2026-02-12T08:32:20.665Z"
   },
   {
-    "id": "1767444815958",
-    "name": "rogflix",
-    "movieUrl": "https://rogflix.vflix.shop/stremio/stream/movie/{{id}}.json",
-    "seriesUrl": "https://rogflix.vflix.shop/stremio/stream/series/{{id}}:{{season}}:{{episode}}.json",
-    "timeout": "10000",
-    "priority": "39",
-    "enabled": false,
-    "createdAt": "2026-01-03T12:53:35.958Z",
-    "updatedAt": "2026-02-12T08:30:24.321Z"
-  },
-  {
-    "id": "1768112024243",
-    "name": "torrentio",
-    "movieUrl": "https://torrentio.strem.fun/providers=yts,eztv,rarbg,1337x,thepiratebay,kickasstorrents,torrentgalaxy,magnetdl,horriblesubs,nyaasi,tokyotosho,anidex%7Csort=seeders%7Clanguage=hindi,telugu,tamil%7Cqualityfilter=scr,cam%7Climit=5/stream/movie/{{id}}.json",
-    "seriesUrl": "https://torrentio.strem.fun/providers=yts,eztv,rarbg,1337x,thepiratebay,kickasstorrents,torrentgalaxy,magnetdl,horriblesubs,nyaasi,tokyotosho,anidex%7Csort=seeders%7Clanguage=hindi,telugu,tamil%7Cqualityfilter=scr,cam%7Climit=5/stream/series/{{id}}:{{season}}:{{episode}}.json",
-    "timeout": "10000",
-    "priority": "36",
-    "enabled": true,
-    "createdAt": "2026-01-11T06:13:44.243Z",
-    "updatedAt": "2026-02-12T08:30:43.472Z"
-  },
-  {
     "id": "1768116087098",
     "name": "anime",
     "movieUrl": "https://anime-world-stremio-addon.onrender.com/stream/movie/{{id}}.json",
@@ -195,17 +173,6 @@
     "enabled": true,
     "createdAt": "2026-01-17T14:28:39.070Z",
     "updatedAt": "2026-02-12T08:30:30.203Z"
-  },
-  {
-    "id": "1769061395126",
-    "name": "cinemacity",
-    "movieUrl": "https://cinemacity.vflix.life/stream/movie/{{id}}.json",
-    "seriesUrl": "https://cinemacity.vflix.life/stream/series/{{id}}:{{season}}:{{episode}}.json",
-    "timeout": "20000",
-    "priority": "40",
-    "enabled": false,
-    "createdAt": "2026-01-22T05:56:35.126Z",
-    "updatedAt": "2026-01-22T06:11:48.136Z"
   },
   {
     "id": "1770731760488",
