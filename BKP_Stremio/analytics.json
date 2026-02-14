@@ -1,5 +1,5 @@
 {
-  "totalViews": 25014,
+  "totalViews": 25020,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5148,57 +5148,11 @@
     "2401:4900:88ba:ef47:c292:7613:d405:4e29",
     "49.43.4.76",
     "2409:40e0:1024:4ca3:5576:470c:2c95:2be3",
-    "152.58.178.208"
+    "152.58.178.208",
+    "2401:4900:8f70:85c:6fb9:aa28:d26:5f18",
+    "223.185.13.157"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1192169:1:6",
-      "title": "tt1192169:1:6",
-      "timestamp": "2026-01-23T08:42:35.726Z",
-      "ip": "119.42.59.120",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt3566834",
-      "title": "A Minecraft Movie",
-      "timestamp": "2026-01-23T08:43:01.341Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
-    {
-      "type": "series",
-      "id": "tt39313294:1:2",
-      "title": "tt39313294:1:2",
-      "timestamp": "2026-01-23T08:43:07.556Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "series",
-      "id": "tt1192169:1:7",
-      "title": "tt1192169:1:7",
-      "timestamp": "2026-01-23T08:43:07.693Z",
-      "ip": "119.42.59.120",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt1192169:1:7",
-      "title": "tt1192169:1:7",
-      "timestamp": "2026-01-23T08:43:41.506Z",
-      "ip": "119.42.59.120",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt1192169:1:8",
-      "title": "tt1192169:1:8",
-      "timestamp": "2026-01-23T08:43:42.125Z",
-      "ip": "119.42.59.120",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt1192169:1:8",
@@ -85150,6 +85104,54 @@
       "timestamp": "2026-02-14T07:50:42.078Z",
       "ip": "106.200.2.115",
       "username": "itsvenum"
+    },
+    {
+      "type": "movie",
+      "id": "tt1324059",
+      "title": "tt1324059",
+      "timestamp": "2026-02-14T07:53:26.142Z",
+      "ip": "2401:4900:8f70:85c:6fb9:aa28:d26:5f18",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt1324059",
+      "title": "tt1324059",
+      "timestamp": "2026-02-14T07:53:26.220Z",
+      "ip": "2401:4900:8f70:85c:6fb9:aa28:d26:5f18",
+      "username": "iknowthat"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-14T07:55:24.731Z",
+      "ip": "223.185.13.157",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt32897959",
+      "title": "tt32897959",
+      "timestamp": "2026-02-14T07:56:51.724Z",
+      "ip": "2409:40d2:304b:1186:610e:d602:f759:e672",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt32897959",
+      "title": "tt32897959",
+      "timestamp": "2026-02-14T07:57:14.460Z",
+      "ip": "2409:40d2:304b:1186:610e:d602:f759:e672",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt28102595:1:2",
+      "title": "tt28102595:1:2",
+      "timestamp": "2026-02-14T08:02:15.486Z",
+      "ip": "152.58.178.208",
+      "username": "nobody_ismy_name"
     }
   ],
   "activeNow": {
@@ -85343,11 +85345,11 @@
       "lastActive": 1771050252613
     },
     "2409:40d2:304b:1186:610e:d602:f759:e672": {
-      "type": "series",
-      "id": "tt1442449:1:1",
-      "title": "tt1442449:1:1",
+      "type": "movie",
+      "id": "tt32897959",
+      "title": "tt32897959",
       "username": "saurabhkaperwan",
-      "lastActive": 1771050090466
+      "lastActive": 1771055834460
     },
     "171.61.165.201": {
       "type": "series",
@@ -85438,7 +85440,7 @@
       "id": "tt28102595:1:2",
       "title": "tt28102595:1:2",
       "username": "nobody_ismy_name",
-      "lastActive": 1771055249995
+      "lastActive": 1771056135486
     },
     "106.200.2.115": {
       "type": "movie",
@@ -85446,6 +85448,20 @@
       "title": "Thor: Love and Thunder",
       "username": "itsvenum",
       "lastActive": 1771055442078
+    },
+    "2401:4900:8f70:85c:6fb9:aa28:d26:5f18": {
+      "type": "movie",
+      "id": "tt1324059",
+      "title": "tt1324059",
+      "username": "iknowthat",
+      "lastActive": 1771055606220
+    },
+    "223.185.13.157": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "gaendaswami",
+      "lastActive": 1771055724731
     }
   }
 }
