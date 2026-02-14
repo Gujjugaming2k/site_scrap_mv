@@ -1,5 +1,5 @@
 {
-  "totalViews": 24895,
+  "totalViews": 24900,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5114,49 +5114,11 @@
     "152.58.133.233",
     "2a09:bac5:3af1:86e::d7:31",
     "2409:40e4:10ac:e35c:b53b:9d3f:b4bc:dd7d",
-    "119.234.109.161"
+    "119.234.109.161",
+    "2a02:9b0:106:2afc:edb8:c5da:d782:4652",
+    "2402:a00:10a:815f:a1ab:2857:2a3:4eeb"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt19854762:1:4",
-      "title": "tt19854762:1:4",
-      "timestamp": "2026-01-23T06:05:33.255Z",
-      "ip": "2401:4900:7927:7f3d:d512:ea04:dd2f:bf67",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "movie",
-      "id": "tt27560723",
-      "title": "Everything's Going to Be Great",
-      "timestamp": "2026-01-23T06:07:08.684Z",
-      "ip": "2401:4900:7927:7f3d:d512:ea04:dd2f:bf67",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-23T06:07:23.365Z",
-      "ip": "2409:40f3:20c4:d733:f99b:9bb6:4e83:3c09",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "series",
-      "id": "tt14186672:1:1",
-      "title": "tt14186672:1:1",
-      "timestamp": "2026-01-23T06:07:54.404Z",
-      "ip": "2600:387:15:471b::1",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt31974288:1:1",
-      "title": "tt31974288:1:1",
-      "timestamp": "2026-01-23T06:10:39.682Z",
-      "ip": "111.92.121.170",
-      "username": "un0fficial_itachi"
-    },
     {
       "type": "series",
       "id": "tt31974288:1:1",
@@ -85116,36 +85078,62 @@
       "timestamp": "2026-02-14T03:25:47.396Z",
       "ip": "119.234.109.161",
       "username": "sheik"
+    },
+    {
+      "type": "movie",
+      "id": "tt33028778",
+      "title": "tt33028778",
+      "timestamp": "2026-02-14T03:33:24.889Z",
+      "ip": "2a02:9b0:106:2afc:edb8:c5da:d782:4652",
+      "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-02-14T03:40:25.623Z",
+      "ip": "2a02:9b0:106:2afc:edb8:c5da:d782:4652",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:1:1",
+      "title": "tt19854762:1:1",
+      "timestamp": "2026-02-14T03:41:32.408Z",
+      "ip": "2402:a00:10a:815f:a1ab:2857:2a3:4eeb",
+      "username": "admin"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:1:1",
+      "title": "tt19854762:1:1",
+      "timestamp": "2026-02-14T03:41:35.381Z",
+      "ip": "2402:a00:10a:815f:a1ab:2857:2a3:4eeb",
+      "username": "admin"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:1:1",
+      "title": "tt19854762:1:1",
+      "timestamp": "2026-02-14T03:41:51.756Z",
+      "ip": "2402:a00:10a:815f:a1ab:2857:2a3:4eeb",
+      "username": "admin"
     }
   ],
   "activeNow": {
-    "203.192.255.46": {
-      "type": "series",
-      "id": "tt14186672:2:4",
-      "title": "tt14186672:2:4",
-      "username": "chetan_b2",
-      "lastActive": 1771038739628
-    },
-    "2a09:bac5:3af1:86e::d7:31": {
-      "type": "series",
-      "id": "tt0108778:9:14",
-      "title": "tt0108778:9:14",
-      "username": "switchoff009",
-      "lastActive": 1771038949154
-    },
-    "2409:40e4:10ac:e35c:b53b:9d3f:b4bc:dd7d": {
+    "2a02:9b0:106:2afc:edb8:c5da:d782:4652": {
       "type": "movie",
-      "id": "tt0390384",
-      "title": "tt0390384",
-      "username": "adshoyi",
-      "lastActive": 1771038796926
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "username": "hoosa500",
+      "lastActive": 1771040425623
     },
-    "119.234.109.161": {
-      "type": "movie",
-      "id": "tt2937898",
-      "title": "tt2937898",
-      "username": "sheik",
-      "lastActive": 1771039547396
+    "2402:a00:10a:815f:a1ab:2857:2a3:4eeb": {
+      "type": "series",
+      "id": "tt19854762:1:1",
+      "title": "tt19854762:1:1",
+      "username": "admin",
+      "lastActive": 1771040511756
     }
   }
 }
