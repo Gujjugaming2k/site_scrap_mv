@@ -1,5 +1,5 @@
 {
-  "totalViews": 24860,
+  "totalViews": 24864,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5106,41 +5106,10 @@
     "2402:3a80:165e:b818:6787:7896:9e10:d777",
     "2401:4900:b073:b038:d0c0:a7ff:fefa:1be8",
     "2402:8100:2cb0:43bc:8e2c:4fc0:b650:f5d1",
-    "2409:40e4:10a5:748:38d4:ab7a:4e:ade8"
+    "2409:40e4:10a5:748:38d4:ab7a:4e:ade8",
+    "2409:40c4:18e:eba5:5035:7cff:fe14:184c"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt2378428",
-      "title": "tt2378428",
-      "timestamp": "2026-01-23T05:21:41.308Z",
-      "ip": "67.71.30.20",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "null",
-      "title": "null",
-      "timestamp": "2026-01-23T05:22:07.964Z",
-      "ip": "67.71.30.20",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt34466483",
-      "title": "Striking Rescue",
-      "timestamp": "2026-01-23T05:22:17.576Z",
-      "ip": "2601:c2:1b82:e750:890a:3661:ed31:4c30",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt11043560",
-      "title": "tt11043560",
-      "timestamp": "2026-01-23T05:22:20.981Z",
-      "ip": "67.71.30.20",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt3041784",
@@ -85108,6 +85077,38 @@
       "timestamp": "2026-02-13T23:54:49.844Z",
       "ip": "103.24.85.184",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-14T01:13:32.130Z",
+      "ip": "94.156.30.204",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt33307516",
+      "title": "tt33307516",
+      "timestamp": "2026-02-14T01:16:17.644Z",
+      "ip": "94.156.30.204",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-14T01:21:07.436Z",
+      "ip": "2409:40c4:18e:eba5:5035:7cff:fe14:184c",
+      "username": "iknowthat"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-14T01:21:07.518Z",
+      "ip": "2409:40c4:18e:eba5:5035:7cff:fe14:184c",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -85134,10 +85135,10 @@
     },
     "94.156.30.204": {
       "type": "movie",
-      "id": "tt35288598",
-      "title": "tt35288598",
+      "id": "tt33307516",
+      "title": "tt33307516",
       "username": "b1jju",
-      "lastActive": 1770963705809
+      "lastActive": 1771031777644
     },
     "2402:a00:10a:815f:b0c9:b870:245f:2b6e": {
       "type": "series",
@@ -85929,6 +85930,13 @@
       "title": "tt37376961",
       "username": "askchm",
       "lastActive": 1771021518787
+    },
+    "2409:40c4:18e:eba5:5035:7cff:fe14:184c": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "b1jju",
+      "lastActive": 1771032067518
     }
   }
 }
