@@ -1,5 +1,5 @@
 {
-  "totalViews": 25172,
+  "totalViews": 25176,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5179,41 +5179,12 @@
     "2a09:bac5:40d3:c8::14:2ad",
     "2405:201:a40c:dba2:7d68:761:a439:5d34",
     "217.216.60.110",
-    "2405:201:a40c:dba2:c4fe:265f:484:a2f9"
+    "2405:201:a40c:dba2:c4fe:265f:484:a2f9",
+    "94.156.30.202",
+    "182.69.177.112",
+    "2401:4900:1215:76a2:7c87:b3ff:fe81:18b4"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-23T10:29:35.422Z",
-      "ip": "2a09:bac5:3c79:2705::3e3:29",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt2531336:2:4",
-      "title": "tt2531336:2:4",
-      "timestamp": "2026-01-23T10:30:12.206Z",
-      "ip": "2405:201:2033:841:d8c8:b3d0:7156:2355",
-      "username": "surti_lala"
-    },
-    {
-      "type": "movie",
-      "id": "tt31852038",
-      "title": "tt31852038",
-      "timestamp": "2026-01-23T10:30:42.942Z",
-      "ip": "2409:40f0:2403:5ca3:d4dd:9ff:fe69:496d",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "movie",
-      "id": "tt30387012",
-      "title": "tt30387012",
-      "timestamp": "2026-01-23T10:32:13.036Z",
-      "ip": "103.92.43.68",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt4574334:5:2",
@@ -85181,6 +85152,38 @@
       "timestamp": "2026-02-14T11:23:56.099Z",
       "ip": "2405:201:a40c:dba2:c4fe:265f:484:a2f9",
       "username": "crunchytoon01"
+    },
+    {
+      "type": "movie",
+      "id": "tt7430722",
+      "title": "tt7430722",
+      "timestamp": "2026-02-14T11:34:49.060Z",
+      "ip": "94.156.30.202",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt0052572",
+      "title": "tt0052572",
+      "timestamp": "2026-02-14T11:41:15.953Z",
+      "ip": "182.69.177.112",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt38080054",
+      "title": "tt38080054",
+      "timestamp": "2026-02-14T11:43:45.858Z",
+      "ip": "2401:4900:1215:76a2:7c87:b3ff:fe81:18b4",
+      "username": "adshoyi"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-14T11:44:26.241Z",
+      "ip": "2401:4900:1215:76a2:7c87:b3ff:fe81:18b4",
+      "username": "adshoyi"
     }
   ],
   "activeNow": {
@@ -85743,6 +85746,27 @@
       "title": "Dhurandhar",
       "username": "crunchytoon01",
       "lastActive": 1771068236099
+    },
+    "94.156.30.202": {
+      "type": "movie",
+      "id": "tt7430722",
+      "title": "tt7430722",
+      "username": "b1jju",
+      "lastActive": 1771068889060
+    },
+    "182.69.177.112": {
+      "type": "movie",
+      "id": "tt0052572",
+      "title": "tt0052572",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1771069275953
+    },
+    "2401:4900:1215:76a2:7c87:b3ff:fe81:18b4": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "adshoyi",
+      "lastActive": 1771069466241
     }
   }
 }
