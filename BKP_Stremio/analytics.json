@@ -1,5 +1,5 @@
 {
-  "totalViews": 24864,
+  "totalViews": 24866,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5110,22 +5110,6 @@
     "2409:40c4:18e:eba5:5035:7cff:fe14:184c"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt3041784",
-      "title": "tt3041784",
-      "timestamp": "2026-01-23T05:22:40.827Z",
-      "ip": "67.71.30.20",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0073961:1:1",
-      "title": "tt0073961:1:1",
-      "timestamp": "2026-01-23T05:22:52.006Z",
-      "ip": "65.129.100.72",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt22543568",
@@ -85109,6 +85093,22 @@
       "timestamp": "2026-02-14T01:21:07.518Z",
       "ip": "2409:40c4:18e:eba5:5035:7cff:fe14:184c",
       "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt28508934",
+      "title": "tt28508934",
+      "timestamp": "2026-02-14T01:29:42.499Z",
+      "ip": "2409:40c4:18e:eba5:5035:7cff:fe14:184c",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt28508934",
+      "title": "tt28508934",
+      "timestamp": "2026-02-14T01:29:42.574Z",
+      "ip": "2409:40c4:18e:eba5:5035:7cff:fe14:184c",
+      "username": "iknowthat"
     }
   ],
   "activeNow": {
@@ -85933,10 +85933,10 @@
     },
     "2409:40c4:18e:eba5:5035:7cff:fe14:184c": {
       "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "username": "b1jju",
-      "lastActive": 1771032067518
+      "id": "tt28508934",
+      "title": "tt28508934",
+      "username": "iknowthat",
+      "lastActive": 1771032582574
     }
   }
 }
