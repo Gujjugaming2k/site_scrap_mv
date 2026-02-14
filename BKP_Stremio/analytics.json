@@ -1,5 +1,5 @@
 {
-  "totalViews": 25431,
+  "totalViews": 25434,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5230,30 +5230,6 @@
     "2401:4900:8826:1404:444d:4dff:fbeb:25d1"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt26692417:1:59",
-      "title": "tt26692417:1:59",
-      "timestamp": "2026-01-23T12:23:14.094Z",
-      "ip": "119.42.59.120",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt26692417:1:59",
-      "title": "tt26692417:1:59",
-      "timestamp": "2026-01-23T12:23:22.899Z",
-      "ip": "119.42.59.120",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt21187592",
-      "title": "The Threesome",
-      "timestamp": "2026-01-23T12:23:51.908Z",
-      "ip": "67.71.30.20",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt28083456",
@@ -85229,6 +85205,30 @@
       "timestamp": "2026-02-14T20:44:41.556Z",
       "ip": "2401:4900:8826:1404:444d:4dff:fbeb:25d1",
       "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:2:20",
+      "title": "tt6354518:2:20",
+      "timestamp": "2026-02-14T20:54:39.626Z",
+      "ip": "2401:4900:8826:1404:444d:4dff:fbeb:25d1",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt2359704:2:48",
+      "title": "tt2359704:2:48",
+      "timestamp": "2026-02-14T20:54:44.713Z",
+      "ip": "2401:4900:8826:1404:444d:4dff:fbeb:25d1",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt5311514",
+      "title": "Your Name.",
+      "timestamp": "2026-02-14T20:55:00.352Z",
+      "ip": "2401:4900:8826:1404:444d:4dff:fbeb:25d1",
+      "username": "sinbad1722"
     }
   ],
   "activeNow": {
@@ -86157,11 +86157,11 @@
       "lastActive": 1771099845588
     },
     "2401:4900:8826:1404:444d:4dff:fbeb:25d1": {
-      "type": "series",
-      "id": "tt6354518:2:20",
-      "title": "tt6354518:2:20",
+      "type": "movie",
+      "id": "tt5311514",
+      "title": "Your Name.",
       "username": "sinbad1722",
-      "lastActive": 1771101881556
+      "lastActive": 1771102500352
     }
   }
 }
