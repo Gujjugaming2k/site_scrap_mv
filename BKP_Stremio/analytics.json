@@ -1,5 +1,5 @@
 {
-  "totalViews": 24973,
+  "totalViews": 24978,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5140,46 +5140,6 @@
     "2405:201:5c14:2a70:fd48:5220:237:e1cc"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-01-23T08:02:07.485Z",
-      "ip": "35.33.225.92",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt9362736",
-      "title": "Die My Love",
-      "timestamp": "2026-01-23T08:03:06.540Z",
-      "ip": "35.33.225.92",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt2277860",
-      "title": "Finding Dory",
-      "timestamp": "2026-01-23T08:03:17.891Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt0266543",
-      "title": "Finding Nemo",
-      "timestamp": "2026-01-23T08:03:20.797Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt0120616",
-      "title": "The Mummy",
-      "timestamp": "2026-01-23T08:05:04.054Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
     {
       "type": "movie",
       "id": "tt11112532",
@@ -85139,6 +85099,46 @@
       "timestamp": "2026-02-14T06:16:44.882Z",
       "ip": "2405:201:6836:30eb:2db1:78fb:6f6f:af8e",
       "username": "xlr8boiiii"
+    },
+    {
+      "type": "movie",
+      "id": "tt27564844",
+      "title": "tt27564844",
+      "timestamp": "2026-02-14T06:21:02.893Z",
+      "ip": "2405:201:6836:30eb:2db1:78fb:6f6f:af8e",
+      "username": "xlr8boiiii"
+    },
+    {
+      "type": "series",
+      "id": "tt1442449:1:1",
+      "title": "tt1442449:1:1",
+      "timestamp": "2026-02-14T06:21:30.466Z",
+      "ip": "2409:40d2:304b:1186:610e:d602:f759:e672",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:5",
+      "title": "tt27497448:1:5",
+      "timestamp": "2026-02-14T06:23:50.632Z",
+      "ip": "2405:201:5c14:2a70:fd48:5220:237:e1cc",
+      "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:1:4",
+      "title": "The Boys",
+      "timestamp": "2026-02-14T06:24:12.613Z",
+      "ip": "2405:201:5c14:2a70:fd48:5220:237:e1cc",
+      "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:3",
+      "title": "tt27497448:1:3",
+      "timestamp": "2026-02-14T06:34:31.172Z",
+      "ip": "2409:40e5:1166:cdab:9419:46ff:fe01:a42f",
+      "username": "magicmannn"
     }
   ],
   "activeNow": {
@@ -85263,10 +85263,10 @@
     },
     "2405:201:6836:30eb:2db1:78fb:6f6f:af8e": {
       "type": "movie",
-      "id": "tt6536576",
-      "title": "tt6536576",
+      "id": "tt27564844",
+      "title": "tt27564844",
       "username": "xlr8boiiii",
-      "lastActive": 1771049804882
+      "lastActive": 1771050062893
     },
     "152.58.145.126": {
       "type": "movie",
@@ -85276,11 +85276,11 @@
       "lastActive": 1771047830709
     },
     "2409:40e5:1166:cdab:9419:46ff:fe01:a42f": {
-      "type": "movie",
-      "id": "tt0353969",
-      "title": "tt0353969",
+      "type": "series",
+      "id": "tt27497448:1:3",
+      "title": "tt27497448:1:3",
       "username": "magicmannn",
-      "lastActive": 1771047730042
+      "lastActive": 1771050871172
     },
     "2409:40f0:32:db63:d087:7eff:fe30:89b6": {
       "type": "movie",
@@ -85326,17 +85326,17 @@
     },
     "2405:201:5c14:2a70:fd48:5220:237:e1cc": {
       "type": "series",
-      "id": "tt27497448:1:5",
-      "title": "tt27497448:1:5",
+      "id": "tt1190634:1:4",
+      "title": "The Boys",
       "username": "extremeyat",
-      "lastActive": 1771049607802
+      "lastActive": 1771050252613
     },
     "2409:40d2:304b:1186:610e:d602:f759:e672": {
       "type": "series",
-      "id": "tt31938062:2:1",
-      "title": "tt31938062:2:1",
+      "id": "tt1442449:1:1",
+      "title": "tt1442449:1:1",
       "username": "saurabhkaperwan",
-      "lastActive": 1771049751804
+      "lastActive": 1771050090466
     }
   }
 }
