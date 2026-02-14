@@ -1,5 +1,5 @@
 {
-  "totalViews": 25427,
+  "totalViews": 25429,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5224,25 +5224,10 @@
     "2409:40e4:58:229b:6c6e:a6ff:fef2:f324",
     "106.215.128.100",
     "2409:40c1:19:6220:8000::",
-    "173.239.196.68"
+    "173.239.196.68",
+    "2401:4900:b0bb:c350:a81d:a2ff:fe5b:2d4d"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0898266:1:1",
-      "title": "tt0898266:1:1",
-      "timestamp": "2026-01-23T12:22:37.978Z",
-      "ip": "148.252.129.193",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0088262",
-      "title": "tt0088262",
-      "timestamp": "2026-01-23T12:22:54.360Z",
-      "ip": "67.71.30.20",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt26692417:1:58",
@@ -85226,6 +85211,22 @@
       "timestamp": "2026-02-14T19:38:54.655Z",
       "ip": "157.48.101.221",
       "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt35288598",
+      "title": "tt35288598",
+      "timestamp": "2026-02-14T19:47:09.412Z",
+      "ip": "2401:4900:b0bb:c350:a81d:a2ff:fe5b:2d4d",
+      "username": "razeamii"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:4",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-14T19:58:33.542Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
     }
   ],
   "activeNow": {
@@ -85574,10 +85575,10 @@
     },
     "103.175.168.106": {
       "type": "series",
-      "id": "tt0944947:1:3",
+      "id": "tt0944947:1:4",
       "title": "Game of Thrones",
       "username": "un0fficial_itachi",
-      "lastActive": 1771096617637
+      "lastActive": 1771099113542
     },
     "94.156.30.212": {
       "type": "movie",
@@ -86138,6 +86139,13 @@
       "title": "tt2801992:1:1",
       "username": "jinwoooooi",
       "lastActive": 1771094235022
+    },
+    "2401:4900:b0bb:c350:a81d:a2ff:fe5b:2d4d": {
+      "type": "movie",
+      "id": "tt35288598",
+      "title": "tt35288598",
+      "username": "razeamii",
+      "lastActive": 1771098429412
     }
   }
 }
