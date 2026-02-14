@@ -1,5 +1,5 @@
 {
-  "totalViews": 25280,
+  "totalViews": 25287,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5208,65 +5208,13 @@
     "60.254.127.232",
     "2405:201:2033:841:ef23:a7c1:1080:276",
     "2409:40c0:101d:9a8a:880f:e1b:16d4:45a2",
-    "152.58.46.211"
+    "152.58.46.211",
+    "2409:40c0:107c:88d2:d01e:8aff:fe00:566",
+    "2409:40c0:107c:88d2:8009:3c91:668a:503d",
+    "2405:201:682e:6839:7c77:9762:10a1:30e1",
+    "152.58.29.140"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-23T11:11:53.388Z",
-      "ip": "89.241.177.214",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1757678",
-      "title": "tt1757678",
-      "timestamp": "2026-01-23T11:12:04.529Z",
-      "ip": "148.69.30.210",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1757678",
-      "title": "tt1757678",
-      "timestamp": "2026-01-23T11:12:30.559Z",
-      "ip": "148.69.30.210",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0203259:27:3",
-      "title": "Law & Order: Special Victims Unit",
-      "timestamp": "2026-01-23T11:13:03.442Z",
-      "ip": "89.241.177.214",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt14905854",
-      "title": "tt14905854",
-      "timestamp": "2026-01-23T11:13:29.144Z",
-      "ip": "223.178.208.186",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-01-23T11:13:39.624Z",
-      "ip": "148.69.30.210",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt23739022:2:3",
-      "title": "tt23739022:2:3",
-      "timestamp": "2026-01-23T11:13:59.463Z",
-      "ip": "89.241.177.214",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt31227572",
@@ -85210,6 +85158,62 @@
       "timestamp": "2026-02-14T15:46:25.217Z",
       "ip": "152.58.46.211",
       "username": "anonymous050100"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:2",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-14T15:59:18.159Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:8:13",
+      "title": "tt0460649:8:13",
+      "timestamp": "2026-02-14T16:02:21.904Z",
+      "ip": "2409:40c0:107c:88d2:d01e:8aff:fe00:566",
+      "username": "anonymous050100"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649",
+      "title": "tt0460649",
+      "timestamp": "2026-02-14T16:03:56.024Z",
+      "ip": "2409:40c0:107c:88d2:8009:3c91:668a:503d",
+      "username": "anonymous050100"
+    },
+    {
+      "type": "series",
+      "id": "tt35335046:1:5",
+      "title": "tt35335046:1:5",
+      "timestamp": "2026-02-14T16:05:13.376Z",
+      "ip": "2405:201:682e:6839:7c77:9762:10a1:30e1",
+      "username": "tushar0nly"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649",
+      "title": "tt0460649",
+      "timestamp": "2026-02-14T16:05:48.571Z",
+      "ip": "152.58.29.140",
+      "username": "anonymous050100"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649",
+      "title": "tt0460649",
+      "timestamp": "2026-02-14T16:05:49.537Z",
+      "ip": "152.58.29.140",
+      "username": "anonymous050100"
+    },
+    {
+      "type": "movie",
+      "id": "tt37376961",
+      "title": "tt37376961",
+      "timestamp": "2026-02-14T16:07:26.721Z",
+      "ip": "49.43.160.100",
+      "username": "babubhaiya"
     }
   ],
   "activeNow": {
@@ -85561,7 +85565,7 @@
       "id": "tt0944947:1:2",
       "title": "Game of Thrones",
       "username": "un0fficial_itachi",
-      "lastActive": 1771076889828
+      "lastActive": 1771084758159
     },
     "94.156.30.212": {
       "type": "movie",
@@ -85865,11 +85869,11 @@
       "lastActive": 1771075402160
     },
     "49.43.160.100": {
-      "type": "series",
-      "id": "tt14169960:1:2",
-      "title": "All of Us Are Dead",
-      "username": "tushar0nly",
-      "lastActive": 1771075781416
+      "type": "movie",
+      "id": "tt37376961",
+      "title": "tt37376961",
+      "username": "babubhaiya",
+      "lastActive": 1771085246721
     },
     "2405:201:2022:b81c:fdf2:8b11:f15e:400": {
       "type": "movie",
@@ -85996,6 +86000,34 @@
       "title": "tt0460649",
       "username": "anonymous050100",
       "lastActive": 1771083985217
+    },
+    "2409:40c0:107c:88d2:d01e:8aff:fe00:566": {
+      "type": "series",
+      "id": "tt0460649:8:13",
+      "title": "tt0460649:8:13",
+      "username": "anonymous050100",
+      "lastActive": 1771084941904
+    },
+    "2409:40c0:107c:88d2:8009:3c91:668a:503d": {
+      "type": "series",
+      "id": "tt0460649",
+      "title": "tt0460649",
+      "username": "anonymous050100",
+      "lastActive": 1771085036024
+    },
+    "2405:201:682e:6839:7c77:9762:10a1:30e1": {
+      "type": "series",
+      "id": "tt35335046:1:5",
+      "title": "tt35335046:1:5",
+      "username": "tushar0nly",
+      "lastActive": 1771085113376
+    },
+    "152.58.29.140": {
+      "type": "series",
+      "id": "tt0460649",
+      "title": "tt0460649",
+      "username": "anonymous050100",
+      "lastActive": 1771085149537
     }
   }
 }
