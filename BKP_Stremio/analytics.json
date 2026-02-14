@@ -1,5 +1,5 @@
 {
-  "totalViews": 24868,
+  "totalViews": 24869,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5108,17 +5108,10 @@
     "2402:8100:2cb0:43bc:8e2c:4fc0:b650:f5d1",
     "2409:40e4:10a5:748:38d4:ab7a:4e:ade8",
     "2409:40c4:18e:eba5:5035:7cff:fe14:184c",
-    "49.36.218.104"
+    "49.36.218.104",
+    "2409:40e6:256:d4cc:f4af:f3ff:fe10:4e90"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2934286:1:8",
-      "title": "tt2934286:1:8",
-      "timestamp": "2026-01-23T05:27:30.524Z",
-      "ip": "2a02:6ea0:d101:6225::20",
-      "username": "golu_vk"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -85110,6 +85103,14 @@
       "timestamp": "2026-02-14T01:48:20.385Z",
       "ip": "103.24.85.184",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt2937898",
+      "title": "tt2937898",
+      "timestamp": "2026-02-14T02:05:37.498Z",
+      "ip": "2409:40e6:256:d4cc:f4af:f3ff:fe10:4e90",
+      "username": "nabakun24"
     }
   ],
   "activeNow": {
@@ -85945,6 +85946,13 @@
       "title": "tt37449205:1:4",
       "username": "demon18319",
       "lastActive": 1771033346659
+    },
+    "2409:40e6:256:d4cc:f4af:f3ff:fe10:4e90": {
+      "type": "movie",
+      "id": "tt2937898",
+      "title": "tt2937898",
+      "username": "nabakun24",
+      "lastActive": 1771034737498
     }
   }
 }
