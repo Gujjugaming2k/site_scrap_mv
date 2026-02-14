@@ -1,5 +1,5 @@
 {
-  "totalViews": 24900,
+  "totalViews": 24905,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5116,49 +5116,11 @@
     "2409:40e4:10ac:e35c:b53b:9d3f:b4bc:dd7d",
     "119.234.109.161",
     "2a02:9b0:106:2afc:edb8:c5da:d782:4652",
-    "2402:a00:10a:815f:a1ab:2857:2a3:4eeb"
+    "2402:a00:10a:815f:a1ab:2857:2a3:4eeb",
+    "2409:40f0:1121:89e6:5007:71ff:fed2:e4c2",
+    "2603:3003:3544:6700:a77a:6e0f:63b7:36b5"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31974288:1:1",
-      "title": "tt31974288:1:1",
-      "timestamp": "2026-01-23T06:10:50.999Z",
-      "ip": "111.92.121.170",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-23T06:11:38.667Z",
-      "ip": "111.92.121.170",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "series",
-      "id": "tt0760437:1:1",
-      "title": "tt0760437:1:1",
-      "timestamp": "2026-01-23T06:13:03.167Z",
-      "ip": "82.32.111.12",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0073961:1:2",
-      "title": "tt0073961:1:2",
-      "timestamp": "2026-01-23T06:13:20.691Z",
-      "ip": "65.129.100.72",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-23T06:13:41.816Z",
-      "ip": "111.92.121.170",
-      "username": "un0fficial_itachi"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:1",
@@ -85118,6 +85080,46 @@
       "timestamp": "2026-02-14T03:41:51.756Z",
       "ip": "2402:a00:10a:815f:a1ab:2857:2a3:4eeb",
       "username": "admin"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-14T04:01:23.444Z",
+      "ip": "2409:40f0:1121:89e6:5007:71ff:fed2:e4c2",
+      "username": "rick grimes"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:8:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-14T04:01:55.357Z",
+      "ip": "2409:40f0:1121:89e6:5007:71ff:fed2:e4c2",
+      "username": "rick grimes"
+    },
+    {
+      "type": "movie",
+      "id": "tt4679210",
+      "title": "tt4679210",
+      "timestamp": "2026-02-14T04:02:13.269Z",
+      "ip": "116.68.75.147",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt21073266:1:1",
+      "title": "tt21073266:1:1",
+      "timestamp": "2026-02-14T04:02:26.985Z",
+      "ip": "2409:40f0:1121:89e6:5007:71ff:fed2:e4c2",
+      "username": "rick grimes"
+    },
+    {
+      "type": "movie",
+      "id": "tt28629017",
+      "title": "tt28629017",
+      "timestamp": "2026-02-14T04:09:17.151Z",
+      "ip": "2603:3003:3544:6700:a77a:6e0f:63b7:36b5",
+      "username": "anupambabu_97"
     }
   ],
   "activeNow": {
@@ -85134,6 +85136,27 @@
       "title": "tt19854762:1:1",
       "username": "admin",
       "lastActive": 1771040511756
+    },
+    "2409:40f0:1121:89e6:5007:71ff:fed2:e4c2": {
+      "type": "series",
+      "id": "tt21073266:1:1",
+      "title": "tt21073266:1:1",
+      "username": "rick grimes",
+      "lastActive": 1771041746985
+    },
+    "116.68.75.147": {
+      "type": "movie",
+      "id": "tt4679210",
+      "title": "tt4679210",
+      "username": "aravindsivan",
+      "lastActive": 1771041733269
+    },
+    "2603:3003:3544:6700:a77a:6e0f:63b7:36b5": {
+      "type": "movie",
+      "id": "tt28629017",
+      "title": "tt28629017",
+      "username": "anupambabu_97",
+      "lastActive": 1771042157151
     }
   }
 }
