@@ -1,5 +1,5 @@
 {
-  "totalViews": 25303,
+  "totalViews": 25308,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5212,49 +5212,10 @@
     "2409:40c0:107c:88d2:d01e:8aff:fe00:566",
     "2409:40c0:107c:88d2:8009:3c91:668a:503d",
     "2405:201:682e:6839:7c77:9762:10a1:30e1",
-    "152.58.29.140"
+    "152.58.29.140",
+    "2409:40e4:65:8c87:401b:c9ff:fe61:2d1"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt33517752:1:2",
-      "title": "tt33517752:1:2",
-      "timestamp": "2026-01-23T11:24:16.192Z",
-      "ip": "2401:4900:8820:8915:306b:e01f:51f2:fce1,2a09:bac5:37ac:ebe::178:1c7",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:1:1",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-23T11:24:56.690Z",
-      "ip": "2a09:bac5:3c92:25c3::3c3:45",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "movie",
-      "id": "tt12300742",
-      "title": "Bugonia",
-      "timestamp": "2026-01-23T11:25:17.739Z",
-      "ip": "202.142.105.134",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "series",
-      "id": "tt11691774:1:1",
-      "title": "Only Murders in the Building",
-      "timestamp": "2026-01-23T11:25:33.578Z",
-      "ip": "194.126.229.2",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt36558094",
-      "title": "tt36558094",
-      "timestamp": "2026-01-23T11:25:44.296Z",
-      "ip": "185.198.240.180",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt33517752:1:1",
@@ -85214,6 +85175,46 @@
       "timestamp": "2026-02-14T16:25:55.162Z",
       "ip": "103.24.85.184",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt13304410:2:4",
+      "title": "tt13304410:2:4",
+      "timestamp": "2026-02-14T16:29:40.704Z",
+      "ip": "49.43.160.100",
+      "username": "babubhaiya"
+    },
+    {
+      "type": "series",
+      "id": "tt35149250:1:1",
+      "title": "tt35149250:1:1",
+      "timestamp": "2026-02-14T16:33:04.353Z",
+      "ip": "202.173.124.150",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:3",
+      "title": "tt30003786:4:3",
+      "timestamp": "2026-02-14T16:39:54.035Z",
+      "ip": "2409:40e4:65:8c87:401b:c9ff:fe61:2d1",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:9",
+      "title": "tt30003786:4:9",
+      "timestamp": "2026-02-14T16:40:05.357Z",
+      "ip": "2409:40e4:65:8c87:401b:c9ff:fe61:2d1",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:9",
+      "title": "tt30003786:4:9",
+      "timestamp": "2026-02-14T16:41:20.461Z",
+      "ip": "2409:40e4:65:8c87:401b:c9ff:fe61:2d1",
+      "username": "cyberboy12321"
     }
   ],
   "activeNow": {
@@ -85821,10 +85822,10 @@
     },
     "202.173.124.150": {
       "type": "series",
-      "id": "tt12343534:1:1",
-      "title": "JUJUTSU KAISEN",
+      "id": "tt35149250:1:1",
+      "title": "tt35149250:1:1",
       "username": "ryuzaklo26",
-      "lastActive": 1771085932474
+      "lastActive": 1771086784353
     },
     "2405:201:2033:841:218a:b7df:2f32:7762": {
       "type": "movie",
@@ -85870,10 +85871,10 @@
     },
     "49.43.160.100": {
       "type": "series",
-      "id": "tt15477488:1:2",
-      "title": "tt15477488:1:2",
+      "id": "tt13304410:2:4",
+      "title": "tt13304410:2:4",
       "username": "babubhaiya",
-      "lastActive": 1771085439361
+      "lastActive": 1771086580704
     },
     "2405:201:2022:b81c:fdf2:8b11:f15e:400": {
       "type": "movie",
@@ -86035,6 +86036,13 @@
       "title": "tt38235589:1:6",
       "username": "tgh2r",
       "lastActive": 1771086107570
+    },
+    "2409:40e4:65:8c87:401b:c9ff:fe61:2d1": {
+      "type": "series",
+      "id": "tt30003786:4:9",
+      "title": "tt30003786:4:9",
+      "username": "cyberboy12321",
+      "lastActive": 1771087280461
     }
   }
 }
