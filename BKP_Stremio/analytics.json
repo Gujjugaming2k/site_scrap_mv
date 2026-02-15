@@ -1,5 +1,5 @@
 {
-  "totalViews": 26051,
+  "totalViews": 26057,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5311,57 +5311,10 @@
     "2401:4900:aaf9:8958:20b2:df6a:bd35:13d0",
     "2409:40e1:3517:d2ce:8000::",
     "2402:3a80:164d:4bf0:993f:417c:a24d:3724",
-    "2402:8100:2cd8:9e48:1c58:7d70:ee01:fcce"
+    "2402:8100:2cd8:9e48:1c58:7d70:ee01:fcce",
+    "190.250.228.161"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt14245846:1:1",
-      "title": "tt14245846:1:1",
-      "timestamp": "2026-01-23T19:08:00.633Z",
-      "ip": "2a02:8084:4f41:a880:c310:7192:6311:bc41",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt22202452:1:5",
-      "title": "tt22202452:1:5",
-      "timestamp": "2026-01-23T19:09:19.305Z",
-      "ip": "2607:f2c0:e78c:1110:2911:34a7:3c87:4176",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0070705",
-      "title": "tt0070705",
-      "timestamp": "2026-01-23T19:10:39.239Z",
-      "ip": "81.105.213.98",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:1:1",
-      "title": "Fallout",
-      "timestamp": "2026-01-23T19:10:49.876Z",
-      "ip": "2604:2dc0:200:269b::",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-23T19:10:52.506Z",
-      "ip": "2405:201:2022:b81c:2dfb:839d:977b:4f2e",
-      "username": "zealousninja"
-    },
-    {
-      "type": "series",
-      "id": "tt0098844:6:10",
-      "title": "tt0098844:6:10",
-      "timestamp": "2026-01-23T19:11:02.071Z",
-      "ip": "180.181.23.50",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt0289043",
@@ -85313,6 +85266,54 @@
       "timestamp": "2026-02-15T23:06:28.467Z",
       "ip": "103.162.159.140",
       "username": "opuser75"
+    },
+    {
+      "type": "movie",
+      "id": "tt3829266",
+      "title": "The Predator",
+      "timestamp": "2026-02-15T23:08:30.490Z",
+      "ip": "103.162.159.140",
+      "username": "opuser75"
+    },
+    {
+      "type": "movie",
+      "id": "tt31969779",
+      "title": "tt31969779",
+      "timestamp": "2026-02-15T23:10:39.745Z",
+      "ip": "190.250.228.161",
+      "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt35288598",
+      "title": "tt35288598",
+      "timestamp": "2026-02-15T23:11:06.966Z",
+      "ip": "2603:3003:3544:6700:a964:6cad:6650:62b2",
+      "username": "anupambabu_97"
+    },
+    {
+      "type": "movie",
+      "id": "tt31969779",
+      "title": "tt31969779",
+      "timestamp": "2026-02-15T23:12:37.469Z",
+      "ip": "190.250.228.161",
+      "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt31969779",
+      "title": "tt31969779",
+      "timestamp": "2026-02-15T23:12:44.817Z",
+      "ip": "190.250.228.161",
+      "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt3829266",
+      "title": "The Predator",
+      "timestamp": "2026-02-15T23:17:19.715Z",
+      "ip": "103.162.159.140",
+      "username": "opuser75"
     }
   ],
   "activeNow": {
@@ -86277,10 +86278,10 @@
     },
     "2603:3003:3544:6700:a964:6cad:6650:62b2": {
       "type": "movie",
-      "id": "tt27510150",
-      "title": "tt27510150",
+      "id": "tt35288598",
+      "title": "tt35288598",
       "username": "anupambabu_97",
-      "lastActive": 1771192424388
+      "lastActive": 1771197066966
     },
     "2405:201:6820:a83c:18da:70ae:bc26:1b24": {
       "type": "series",
@@ -86543,10 +86544,10 @@
     },
     "103.162.159.140": {
       "type": "movie",
-      "id": "tt0100403",
-      "title": "Predator 2",
+      "id": "tt3829266",
+      "title": "The Predator",
       "username": "opuser75",
-      "lastActive": 1771196788467
+      "lastActive": 1771197439715
     },
     "2409:40d4:3000:4eb:90c2:b87f:1676:df9b": {
       "type": "series",
@@ -86869,6 +86870,13 @@
       "title": "tt26443597",
       "username": "schnom153",
       "lastActive": 1771192071325
+    },
+    "190.250.228.161": {
+      "type": "movie",
+      "id": "tt31969779",
+      "title": "tt31969779",
+      "username": "ymcinema",
+      "lastActive": 1771197164817
     }
   }
 }
