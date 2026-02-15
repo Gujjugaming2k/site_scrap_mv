@@ -1,5 +1,5 @@
 {
-  "totalViews": 25601,
+  "totalViews": 25607,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5250,57 +5250,11 @@
     "2409:40c1:2158:dfdb:f179:5a12:839e:b2c2",
     "2405:201:2022:b81c:d107:6dc5:8bd3:43cf",
     "2409:40d2:3003:77e8:d5d9:8f08:da02:c582",
-    "2409:40e5:3:4a26:28f2:e7eb:d588:5e9b"
+    "2409:40e5:3:4a26:28f2:e7eb:d588:5e9b",
+    "2401:4900:8fe3:59f8:1c5c:6a24:49b7:cfe2",
+    "2405:201:2033:841:a939:8c93:f7f5:8e75"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt13186306",
-      "title": "War of the Worlds",
-      "timestamp": "2026-01-23T14:13:30.034Z",
-      "ip": "2607:fb90:3525:cd68:900a:6bad:e41d:9a53",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0044419",
-      "title": "tt0044419",
-      "timestamp": "2026-01-23T14:14:03.087Z",
-      "ip": "2a02:1388:4a02:4c5b:cda5:4dd0:6019:dfed",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt10210064",
-      "title": "tt10210064",
-      "timestamp": "2026-01-23T14:14:03.689Z",
-      "ip": "51.9.168.221",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:8:1",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-23T14:14:11.044Z",
-      "ip": "2a02:2f04:c502:f200:3025:6d2c:29bd:9bfa",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt3235888",
-      "title": "tt3235888",
-      "timestamp": "2026-01-23T14:14:22.464Z",
-      "ip": "82.10.88.124",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt11743610:1:7",
-      "title": "tt11743610:1:7",
-      "timestamp": "2026-01-23T14:14:32.445Z",
-      "ip": "96.43.191.124",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt23572848",
@@ -85252,6 +85206,54 @@
       "timestamp": "2026-02-15T06:48:41.461Z",
       "ip": "103.186.54.181",
       "username": "schnom153"
+    },
+    {
+      "type": "movie",
+      "id": "tt0086465",
+      "title": "tt0086465",
+      "timestamp": "2026-02-15T06:51:07.661Z",
+      "ip": "103.186.54.181",
+      "username": "schnom153"
+    },
+    {
+      "type": "movie",
+      "id": "tt15464188",
+      "title": "tt15464188",
+      "timestamp": "2026-02-15T06:53:22.696Z",
+      "ip": "2401:4900:8fe3:59f8:1c5c:6a24:49b7:cfe2",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-15T06:55:45.673Z",
+      "ip": "2405:201:2033:841:a939:8c93:f7f5:8e75",
+      "username": "surti_lala"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-15T06:59:48.409Z",
+      "ip": "106.200.2.115",
+      "username": "thevedikgujjar"
+    },
+    {
+      "type": "movie",
+      "id": "tt32454750",
+      "title": "tt32454750",
+      "timestamp": "2026-02-15T07:01:59.489Z",
+      "ip": "103.46.200.43",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt0107290",
+      "title": "Jurassic Park",
+      "timestamp": "2026-02-15T07:02:47.606Z",
+      "ip": "94.156.30.202",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -85543,11 +85545,11 @@
       "lastActive": 1771056135486
     },
     "106.200.2.115": {
-      "type": "movie",
-      "id": "tt10872600",
-      "title": "Spider-Man: No Way Home",
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
       "username": "thevedikgujjar",
-      "lastActive": 1771136205565
+      "lastActive": 1771138788409
     },
     "2401:4900:8f70:85c:6fb9:aa28:d26:5f18": {
       "type": "movie",
@@ -85817,10 +85819,10 @@
     },
     "94.156.30.202": {
       "type": "movie",
-      "id": "tt7430722",
-      "title": "tt7430722",
+      "id": "tt0107290",
+      "title": "Jurassic Park",
       "username": "b1jju",
-      "lastActive": 1771080061766
+      "lastActive": 1771138967606
     },
     "182.69.177.112": {
       "type": "movie",
@@ -86020,10 +86022,10 @@
     },
     "103.46.200.43": {
       "type": "movie",
-      "id": "tt0110912",
-      "title": "Pulp Fiction",
-      "username": "brosportses",
-      "lastActive": 1771120223512
+      "id": "tt32454750",
+      "title": "tt32454750",
+      "username": "katdenningssss",
+      "lastActive": 1771138919489
     },
     "2409:40c0:101d:9a8a:880f:e1b:16d4:45a2": {
       "type": "series",
@@ -86356,10 +86358,24 @@
     },
     "103.186.54.181": {
       "type": "movie",
-      "id": "tt5727208",
-      "title": "tt5727208",
+      "id": "tt0086465",
+      "title": "tt0086465",
       "username": "schnom153",
-      "lastActive": 1771138121461
+      "lastActive": 1771138267661
+    },
+    "2401:4900:8fe3:59f8:1c5c:6a24:49b7:cfe2": {
+      "type": "movie",
+      "id": "tt15464188",
+      "title": "tt15464188",
+      "username": "ashwanileon",
+      "lastActive": 1771138402696
+    },
+    "2405:201:2033:841:a939:8c93:f7f5:8e75": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "surti_lala",
+      "lastActive": 1771138545673
     }
   }
 }
