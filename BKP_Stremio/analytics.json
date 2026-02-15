@@ -1,5 +1,5 @@
 {
-  "totalViews": 25865,
+  "totalViews": 25869,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5287,38 +5287,6 @@
     "2405:201:5c14:2a70:83c:b927:763f:1684"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0898266:4:14",
-      "title": "tt0898266:4:14",
-      "timestamp": "2026-01-23T17:34:14.012Z",
-      "ip": "2a02:c7c:4a2d:8d00:4195:7105:efc3:60bd",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt2119532",
-      "title": "Hacksaw Ridge",
-      "timestamp": "2026-01-23T17:35:39.472Z",
-      "ip": "24.72.25.189",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt6470478:7:4",
-      "title": "tt6470478:7:4",
-      "timestamp": "2026-01-23T17:35:49.000Z",
-      "ip": "2a0a:ef40:440:7201:d6e6:3d6a:225d:3dd3",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt5071412:2:8",
-      "title": "tt5071412:2:8",
-      "timestamp": "2026-01-23T17:37:24.009Z",
-      "ip": "2601:805:c101:22f0:98ac:534b:7649:e5b6",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt4052886:3:2",
@@ -85286,6 +85254,38 @@
       "timestamp": "2026-02-15T13:35:06.302Z",
       "ip": "103.162.159.140",
       "username": "opuser75"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-02-15T13:35:23.047Z",
+      "ip": "2a09:bac5:3af1:172d::24f:8",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt13654226",
+      "title": "The Gorge",
+      "timestamp": "2026-02-15T13:36:41.829Z",
+      "ip": "2a09:bac5:3af1:172d::24f:8",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-02-15T13:40:36.691Z",
+      "ip": "2a09:bac5:3af1:172d::24f:8",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "gdrive:150Tol2Fmbs2TogQLPFS50oNDEQSP0d0D",
+      "title": "gdrive:150Tol2Fmbs2TogQLPFS50oNDEQSP0d0D",
+      "timestamp": "2026-02-15T13:50:14.361Z",
+      "ip": "38.224.232.109",
+      "username": "thala_75"
     }
   ],
   "activeNow": {
@@ -85403,10 +85403,10 @@
     },
     "38.224.232.109": {
       "type": "movie",
-      "id": "tt36587142",
-      "title": "tt36587142",
+      "id": "gdrive:150Tol2Fmbs2TogQLPFS50oNDEQSP0d0D",
+      "title": "gdrive:150Tol2Fmbs2TogQLPFS50oNDEQSP0d0D",
       "username": "thala_75",
-      "lastActive": 1771151743923
+      "lastActive": 1771163414361
     },
     "2405:201:6836:30eb:2db1:78fb:6f6f:af8e": {
       "type": "movie",
@@ -86564,11 +86564,11 @@
       "lastActive": 1771152762272
     },
     "2a09:bac5:3af1:172d::24f:8": {
-      "type": "series",
-      "id": "tt0108778:9:16",
-      "title": "tt0108778:9:16",
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
       "username": "switchoff009",
-      "lastActive": 1771155742588
+      "lastActive": 1771162836691
     },
     "2401:4900:8fc1:43da:7dbe:11f9:9ac5:1418": {
       "type": "movie",
