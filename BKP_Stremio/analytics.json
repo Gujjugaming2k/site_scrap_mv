@@ -1,5 +1,5 @@
 {
-  "totalViews": 26044,
+  "totalViews": 26047,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5310,33 +5310,10 @@
     "2409:40e6:3b:bfa0:90b1:5bff:feb2:230d",
     "2401:4900:aaf9:8958:20b2:df6a:bd35:13d0",
     "2409:40e1:3517:d2ce:8000::",
-    "2402:3a80:164d:4bf0:993f:417c:a24d:3724"
+    "2402:3a80:164d:4bf0:993f:417c:a24d:3724",
+    "2402:8100:2cd8:9e48:1c58:7d70:ee01:fcce"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32141377",
-      "title": "tt32141377",
-      "timestamp": "2026-01-23T19:04:51.730Z",
-      "ip": "185.126.160.121",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0127151",
-      "title": "tt0127151",
-      "timestamp": "2026-01-23T19:05:47.930Z",
-      "ip": "98.4.108.112",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:3:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-23T19:05:49.240Z",
-      "ip": "2607:f2c0:e78c:1110:2911:34a7:3c87:4176",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt5518168",
@@ -85312,6 +85289,30 @@
       "timestamp": "2026-02-15T21:33:20.201Z",
       "ip": "182.69.180.143",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt15477202",
+      "title": "tt15477202",
+      "timestamp": "2026-02-15T21:38:01.401Z",
+      "ip": "2603:3003:3544:6700:a964:6cad:6650:62b2",
+      "username": "anupambabu_97"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-02-15T21:47:51.325Z",
+      "ip": "2402:8100:2cd8:9e48:1c58:7d70:ee01:fcce",
+      "username": "schnom153"
+    },
+    {
+      "type": "movie",
+      "id": "tt1673411",
+      "title": "tt1673411",
+      "timestamp": "2026-02-15T21:50:18.234Z",
+      "ip": "2603:3003:3544:6700:a964:6cad:6650:62b2",
+      "username": "anupambabu_97"
     }
   ],
   "activeNow": {
@@ -86276,10 +86277,10 @@
     },
     "2603:3003:3544:6700:a964:6cad:6650:62b2": {
       "type": "movie",
-      "id": "tt15477202",
-      "title": "tt15477202",
+      "id": "tt1673411",
+      "title": "tt1673411",
       "username": "anupambabu_97",
-      "lastActive": 1771187627611
+      "lastActive": 1771192218234
     },
     "2405:201:6820:a83c:18da:70ae:bc26:1b24": {
       "type": "series",
@@ -86861,6 +86862,13 @@
       "title": "The Sixth Sense",
       "username": "insnaee99",
       "lastActive": 1771186548687
+    },
+    "2402:8100:2cd8:9e48:1c58:7d70:ee01:fcce": {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "username": "schnom153",
+      "lastActive": 1771192071325
     }
   }
 }
