@@ -1,5 +1,5 @@
 {
-  "totalViews": 26011,
+  "totalViews": 26012,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5311,14 +5311,6 @@
     "2401:4900:aaf9:8958:20b2:df6a:bd35:13d0"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt11231226:3:5",
-      "title": "Reasonable Doubt",
-      "timestamp": "2026-01-23T18:49:28.236Z",
-      "ip": "71.105.124.67",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt1219024:2:13",
@@ -85310,6 +85302,14 @@
       "timestamp": "2026-02-15T18:43:05.353Z",
       "ip": "2401:4900:aaf9:8958:20b2:df6a:bd35:13d0",
       "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt14044212:1:2",
+      "title": "Mr. & Mrs. Smith",
+      "timestamp": "2026-02-15T18:44:08.468Z",
+      "ip": "2405:201:682e:6839:816c:7654:2ab1:cb2",
+      "username": "babubhaiya"
     }
   ],
   "activeNow": {
@@ -86504,11 +86504,11 @@
       "lastActive": 1771149283813
     },
     "2405:201:682e:6839:816c:7654:2ab1:cb2": {
-      "type": "movie",
-      "id": "tt7838252",
-      "title": "tt7838252",
+      "type": "series",
+      "id": "tt14044212:1:2",
+      "title": "Mr. & Mrs. Smith",
       "username": "babubhaiya",
-      "lastActive": 1771149904672
+      "lastActive": 1771181048468
     },
     "2409:40f0:102f:944d:fc45:dbff:fe5b:1743": {
       "type": "movie",
