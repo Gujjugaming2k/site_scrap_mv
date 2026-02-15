@@ -1,5 +1,5 @@
 {
-  "totalViews": 25945,
+  "totalViews": 25952,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5295,65 +5295,11 @@
     "2409:40c0:60:5b31:b9fd:d7bb:2e97:34f0",
     "2401:4900:ac34:83af:ecf4:8888:ee2b:80b7",
     "182.69.180.143",
-    "2401:4900:1cab:c6fe:2c50:9aa1:fdac:ca77"
+    "2401:4900:1cab:c6fe:2c50:9aa1:fdac:ca77",
+    "2405:201:a018:b012:aee8:1c42:7472:6e71",
+    "2401:4900:75f7:cc88:d8eb:60ff:fe36:78c0"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt21030032:1:1",
-      "title": "tt21030032:1:1",
-      "timestamp": "2026-01-23T18:19:31.683Z",
-      "ip": "2409:4085:1204:f189::27ac:20a0",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-23T18:21:26.476Z",
-      "ip": "2405:201:2022:b81c:a6:d0e2:1a28:c505",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt0163109",
-      "title": "tt0163109",
-      "timestamp": "2026-01-23T18:21:55.642Z",
-      "ip": "2409:4085:1204:f189::27ac:20a0",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-01-23T18:21:59.394Z",
-      "ip": "212.102.49.71",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt6226232:1:1",
-      "title": "tt6226232:1:1",
-      "timestamp": "2026-01-23T18:22:17.538Z",
-      "ip": "2a01:9700:4035:4f00:f439:fbbf:6c12:d393",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-01-23T18:23:13.814Z",
-      "ip": "38.131.77.75",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32241578",
-      "title": "tt32241578",
-      "timestamp": "2026-01-23T18:23:59.927Z",
-      "ip": "2a01:9700:4035:4f00:f439:fbbf:6c12:d393",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt31227572",
@@ -85297,6 +85243,62 @@
       "timestamp": "2026-02-15T15:46:41.955Z",
       "ip": "103.175.168.106",
       "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt37024136:1:1",
+      "title": "tt37024136:1:1",
+      "timestamp": "2026-02-15T16:01:28.931Z",
+      "ip": "2401:4900:1cab:c6fe:2c50:9aa1:fdac:ca77",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-15T16:03:23.055Z",
+      "ip": "2401:4900:1cab:c6fe:2c50:9aa1:fdac:ca77",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:1:1",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-15T16:04:45.353Z",
+      "ip": "2401:4900:1cab:c6fe:2c50:9aa1:fdac:ca77",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:2:1",
+      "title": "tt0388629:2:1",
+      "timestamp": "2026-02-15T16:05:19.704Z",
+      "ip": "2401:4900:1cab:c6fe:2c50:9aa1:fdac:ca77",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt26743210",
+      "title": "How to Train Your Dragon",
+      "timestamp": "2026-02-15T16:05:54.871Z",
+      "ip": "2405:201:a018:b012:aee8:1c42:7472:6e71",
+      "username": "razeamii"
+    },
+    {
+      "type": "movie",
+      "id": "tt0892769",
+      "title": "How to Train Your Dragon",
+      "timestamp": "2026-02-15T16:09:22.315Z",
+      "ip": "2401:4900:75f7:cc88:d8eb:60ff:fe36:78c0",
+      "username": "razeamii"
+    },
+    {
+      "type": "movie",
+      "id": "tt26743210",
+      "title": "How to Train Your Dragon",
+      "timestamp": "2026-02-15T16:10:12.457Z",
+      "ip": "2401:4900:75f7:cc88:d8eb:60ff:fe36:78c0",
+      "username": "razeamii"
     }
   ],
   "activeNow": {
@@ -86736,11 +86738,25 @@
       "lastActive": 1771169854183
     },
     "2401:4900:1cab:c6fe:2c50:9aa1:fdac:ca77": {
-      "type": "movie",
-      "id": "tt23790696",
-      "title": "tt23790696",
+      "type": "series",
+      "id": "tt0388629:2:1",
+      "title": "tt0388629:2:1",
       "username": "nirbhay1412",
-      "lastActive": 1771170000193
+      "lastActive": 1771171519704
+    },
+    "2405:201:a018:b012:aee8:1c42:7472:6e71": {
+      "type": "movie",
+      "id": "tt26743210",
+      "title": "How to Train Your Dragon",
+      "username": "razeamii",
+      "lastActive": 1771171554871
+    },
+    "2401:4900:75f7:cc88:d8eb:60ff:fe36:78c0": {
+      "type": "movie",
+      "id": "tt26743210",
+      "title": "How to Train Your Dragon",
+      "username": "razeamii",
+      "lastActive": 1771171812457
     }
   }
 }
