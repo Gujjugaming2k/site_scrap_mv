@@ -1,5 +1,5 @@
 {
-  "totalViews": 25992,
+  "totalViews": 25998,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5305,57 +5305,10 @@
     "2401:4900:88bb:c6ae:fac2:4212:3ad4:1605",
     "2402:a00:10a:815f:ca3a:387a:2826:22e",
     "1.187.163.65",
-    "2402:8100:2e01:56e1:61a8:5580:8f7a:8205"
+    "2402:8100:2e01:56e1:61a8:5580:8f7a:8205",
+    "2401:4900:8fc0:c874:a1a6:1fc5:2458:4a75"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4159076:1:1",
-      "title": "tt4159076:1:1",
-      "timestamp": "2026-01-23T18:39:47.945Z",
-      "ip": "41.99.122.175",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt8478162:1:24",
-      "title": "tt8478162:1:24",
-      "timestamp": "2026-01-23T18:39:56.475Z",
-      "ip": "102.67.1.35",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-01-23T18:40:04.529Z",
-      "ip": "2607:f2c0:eda0:1a6d:2946:968:a225:6851",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt21906554:2:3",
-      "title": "tt21906554:2:3",
-      "timestamp": "2026-01-23T18:40:53.850Z",
-      "ip": "2605:59c8:40be:6908:c86e:3d25:8abc:1eda",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt26591147:1:10",
-      "title": "tt26591147:1:10",
-      "timestamp": "2026-01-23T18:41:02.289Z",
-      "ip": "216.131.76.113",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-23T18:41:07.012Z",
-      "ip": "102.209.152.10",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt23743442:4:11",
@@ -85307,6 +85260,54 @@
       "timestamp": "2026-02-15T17:58:13.021Z",
       "ip": "2402:8100:2e01:56e1:61a8:5580:8f7a:8205",
       "username": "harshra9999"
+    },
+    {
+      "type": "series",
+      "id": "tt6077448:1:2",
+      "title": "tt6077448:1:2",
+      "timestamp": "2026-02-15T17:59:12.206Z",
+      "ip": "2402:8100:2e01:56e1:61a8:5580:8f7a:8205",
+      "username": "harshra9999"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-02-15T17:59:29.361Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-02-15T18:00:01.550Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt35149250:1:7",
+      "title": "tt35149250:1:7",
+      "timestamp": "2026-02-15T18:05:48.847Z",
+      "ip": "157.48.99.206",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt35149250:1:7",
+      "title": "tt35149250:1:7",
+      "timestamp": "2026-02-15T18:05:50.228Z",
+      "ip": "157.48.99.206,51.89.197.91",
+      "username": "bk18"
+    },
+    {
+      "type": "movie",
+      "id": "tt1790809",
+      "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "timestamp": "2026-02-15T18:09:04.116Z",
+      "ip": "2401:4900:8fc0:c874:a1a6:1fc5:2458:4a75",
+      "username": "simonrileyxd"
     }
   ],
   "activeNow": {
@@ -85704,10 +85705,10 @@
     },
     "103.24.85.184": {
       "type": "movie",
-      "id": "tt15464188",
-      "title": "tt15464188",
+      "id": "tt32916440",
+      "title": "tt32916440",
       "username": "william097",
-      "lastActive": 1771178066860
+      "lastActive": 1771178401550
     },
     "2409:40c1:2158:5c46:f179:5a12:839e:b2c2": {
       "type": "series",
@@ -86614,17 +86615,17 @@
     },
     "157.48.99.206": {
       "type": "series",
-      "id": "tt35149250:1:6",
-      "title": "tt35149250:1:6",
+      "id": "tt35149250:1:7",
+      "title": "tt35149250:1:7",
       "username": "golu_vk",
-      "lastActive": 1771177474880
+      "lastActive": 1771178748847
     },
     "157.48.99.206,51.89.197.91": {
       "type": "series",
-      "id": "tt35149250:1:6",
-      "title": "tt35149250:1:6",
+      "id": "tt35149250:1:7",
+      "title": "tt35149250:1:7",
       "username": "bk18",
-      "lastActive": 1771177476202
+      "lastActive": 1771178750228
     },
     "2409:40f0:3f:df05:412:16ff:fec4:952f": {
       "type": "movie",
@@ -86820,7 +86821,14 @@
       "id": "tt6077448:1:2",
       "title": "tt6077448:1:2",
       "username": "harshra9999",
-      "lastActive": 1771178293021
+      "lastActive": 1771178352206
+    },
+    "2401:4900:8fc0:c874:a1a6:1fc5:2458:4a75": {
+      "type": "movie",
+      "id": "tt1790809",
+      "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "username": "simonrileyxd",
+      "lastActive": 1771178944116
     }
   }
 }
