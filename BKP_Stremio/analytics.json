@@ -1,5 +1,5 @@
 {
-  "totalViews": 25598,
+  "totalViews": 25600,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5249,25 +5249,10 @@
     "119.234.67.114",
     "2409:40c1:2158:dfdb:f179:5a12:839e:b2c2",
     "2405:201:2022:b81c:d107:6dc5:8bd3:43cf",
-    "2409:40d2:3003:77e8:d5d9:8f08:da02:c582"
+    "2409:40d2:3003:77e8:d5d9:8f08:da02:c582",
+    "2409:40e5:3:4a26:28f2:e7eb:d588:5e9b"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-01-23T14:10:04.363Z",
-      "ip": "148.69.30.210",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1757678",
-      "title": "tt1757678",
-      "timestamp": "2026-01-23T14:10:43.353Z",
-      "ip": "148.69.30.210",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0098844:6:3",
@@ -85251,6 +85236,22 @@
       "timestamp": "2026-02-15T06:19:40.241Z",
       "ip": "38.224.232.109",
       "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt39100726",
+      "title": "tt39100726",
+      "timestamp": "2026-02-15T06:21:00.962Z",
+      "ip": "38.224.232.109",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-15T06:33:24.020Z",
+      "ip": "2409:40e5:3:4a26:28f2:e7eb:d588:5e9b",
+      "username": "magicmannn"
     }
   ],
   "activeNow": {
@@ -85368,10 +85369,10 @@
     },
     "38.224.232.109": {
       "type": "series",
-      "id": "tt38568136:1:1",
-      "title": "tt38568136:1:1",
+      "id": "tt39100726",
+      "title": "tt39100726",
       "username": "thala_75",
-      "lastActive": 1771136380241
+      "lastActive": 1771136460962
     },
     "2405:201:6836:30eb:2db1:78fb:6f6f:af8e": {
       "type": "movie",
@@ -86345,6 +86346,13 @@
       "title": "tt7335184:1:1",
       "username": "saurabhkaperwan",
       "lastActive": 1771135905647
+    },
+    "2409:40e5:3:4a26:28f2:e7eb:d588:5e9b": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "magicmannn",
+      "lastActive": 1771137204020
     }
   }
 }
