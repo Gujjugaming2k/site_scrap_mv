@@ -1,5 +1,5 @@
 {
-  "totalViews": 25741,
+  "totalViews": 25744,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5267,33 +5267,11 @@
     "2409:40f0:102f:944d:fc45:dbff:fe5b:1743",
     "2402:8100:2754:48e7:709f:2850:27bb:a64b",
     "2401:4900:88bb:c6ae:3b35:e5d9:a374:afea",
-    "2401:4900:8fc3:a42b:33fb:7737:d5f6:fe6e"
+    "2401:4900:8fc3:a42b:33fb:7737:d5f6:fe6e",
+    "103.162.159.140",
+    "2409:40d4:3000:4eb:90c2:b87f:1676:df9b"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1757678",
-      "title": "tt1757678",
-      "timestamp": "2026-01-23T15:47:45.506Z",
-      "ip": "50.103.154.96",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt29780866",
-      "title": "Icefall",
-      "timestamp": "2026-01-23T15:48:53.823Z",
-      "ip": "2a0e:1d47:9015:3200:de91:bfff:fe48:bfde",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:1:8",
-      "title": "Fallout",
-      "timestamp": "2026-01-23T15:49:16.917Z",
-      "ip": "103.215.54.128",
-      "username": "abelboby"
-    },
     {
       "type": "series",
       "id": "tt1837642:1:17",
@@ -85269,6 +85247,30 @@
       "timestamp": "2026-02-15T10:06:37.285Z",
       "ip": "103.46.200.43",
       "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-15T10:25:54.025Z",
+      "ip": "103.162.159.140",
+      "username": "opuser75"
+    },
+    {
+      "type": "movie",
+      "id": "tt1659337",
+      "title": "The Perks of Being a Wallflower",
+      "timestamp": "2026-02-15T10:28:04.916Z",
+      "ip": "2405:201:6820:a83c:18da:70ae:bc26:1b24",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt22868844",
+      "title": "Black Clover: Sword of the Wizard King",
+      "timestamp": "2026-02-15T10:28:12.268Z",
+      "ip": "2409:40d4:3000:4eb:90c2:b87f:1676:df9b",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -86239,11 +86241,11 @@
       "lastActive": 1771119426390
     },
     "2405:201:6820:a83c:18da:70ae:bc26:1b24": {
-      "type": "series",
-      "id": "tt37449205:1:6",
-      "title": "tt37449205:1:6",
+      "type": "movie",
+      "id": "tt1659337",
+      "title": "The Perks of Being a Wallflower",
       "username": "demon18319",
-      "lastActive": 1771121040454
+      "lastActive": 1771151284916
     },
     "2409:40c1:11:20f1:8000::": {
       "type": "series",
@@ -86496,6 +86498,20 @@
       "title": "tt33046197",
       "username": "simonrileyxd",
       "lastActive": 1771149960266
+    },
+    "103.162.159.140": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "opuser75",
+      "lastActive": 1771151154025
+    },
+    "2409:40d4:3000:4eb:90c2:b87f:1676:df9b": {
+      "type": "movie",
+      "id": "tt22868844",
+      "title": "Black Clover: Sword of the Wizard King",
+      "username": "kdbotz",
+      "lastActive": 1771151292268
     }
   }
 }
