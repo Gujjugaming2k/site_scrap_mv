@@ -1,5 +1,5 @@
 {
-  "totalViews": 25932,
+  "totalViews": 25937,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5293,49 +5293,10 @@
     "2a02:9b0:106:2afc:a1a0:b0a0:5c46:6136",
     "45.8.19.215",
     "2409:40c0:60:5b31:b9fd:d7bb:2e97:34f0",
-    "2401:4900:ac34:83af:ecf4:8888:ee2b:80b7"
+    "2401:4900:ac34:83af:ecf4:8888:ee2b:80b7",
+    "182.69.180.143"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33479805",
-      "title": "tt33479805",
-      "timestamp": "2026-01-23T18:14:02.762Z",
-      "ip": "50.103.72.5",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:1:49",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-23T18:14:25.844Z",
-      "ip": "182.77.76.231",
-      "username": "thebatmanbyte"
-    },
-    {
-      "type": "movie",
-      "id": "tt0080491",
-      "title": "tt0080491",
-      "timestamp": "2026-01-23T18:14:37.824Z",
-      "ip": "208.104.59.141",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt39283941",
-      "title": "tt39283941",
-      "timestamp": "2026-01-23T18:14:51.130Z",
-      "ip": "79.97.14.91",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt31050594",
-      "title": "tt31050594",
-      "timestamp": "2026-01-23T18:15:27.492Z",
-      "ip": "50.103.72.5",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt21272942",
@@ -85295,6 +85256,46 @@
       "timestamp": "2026-02-15T15:18:31.911Z",
       "ip": "2401:4900:ac34:83af:ecf4:8888:ee2b:80b7",
       "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt26915338:1:1",
+      "title": "tt26915338:1:1",
+      "timestamp": "2026-02-15T15:29:35.048Z",
+      "ip": "182.69.180.143",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:7",
+      "title": "tt14186672:2:7",
+      "timestamp": "2026-02-15T15:29:44.078Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:6",
+      "title": "tt14186672:2:6",
+      "timestamp": "2026-02-15T15:29:53.617Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:7",
+      "title": "tt14186672:2:7",
+      "timestamp": "2026-02-15T15:35:41.071Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:6",
+      "title": "tt14186672:2:6",
+      "timestamp": "2026-02-15T15:36:32.562Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -85352,7 +85353,7 @@
       "id": "tt14186672:2:6",
       "title": "tt14186672:2:6",
       "username": "chetan_b2",
-      "lastActive": 1771153915146
+      "lastActive": 1771169792562
     },
     "49.43.109.57": {
       "type": "movie",
@@ -86725,6 +86726,13 @@
       "title": "tt0995740",
       "username": "gendaswammy",
       "lastActive": 1771168711911
+    },
+    "182.69.180.143": {
+      "type": "series",
+      "id": "tt26915338:1:1",
+      "title": "tt26915338:1:1",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1771169375048
     }
   }
 }
