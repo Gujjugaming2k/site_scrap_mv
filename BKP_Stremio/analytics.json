@@ -1,5 +1,5 @@
 {
-  "totalViews": 25492,
+  "totalViews": 25493,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5239,17 +5239,10 @@
     "49.36.218.235",
     "2a09:bac1:3680:1a0::2a8:7e",
     "2401:4900:3b23:be25:bc2b:7bff:fee1:ad5c",
-    "2401:4900:3b23:be25:982d:f4ff:feb8:e4ae"
+    "2401:4900:3b23:be25:982d:f4ff:feb8:e4ae",
+    "2409:40d2:3008:e08:e148:bc2c:a7c9:2001"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-23T12:48:05.733Z",
-      "ip": "2401:4900:8820:8915:306b:e01f:51f2:fce1,2a09:bac5:37ac:ebe::178:1c7",
-      "username": "anonymous_rare"
-    },
     {
       "type": "movie",
       "id": "tt22868010",
@@ -85241,6 +85234,14 @@
       "timestamp": "2026-02-15T03:24:32.731Z",
       "ip": "186.188.150.139",
       "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-02-15T03:54:04.903Z",
+      "ip": "2409:40d2:3008:e08:e148:bc2c:a7c9:2001",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -86265,6 +86266,13 @@
       "title": "Dhurandhar",
       "username": "ymcinema",
       "lastActive": 1771125872731
+    },
+    "2409:40d2:3008:e08:e148:bc2c:a7c9:2001": {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "username": "saurabhkaperwan",
+      "lastActive": 1771127644903
     }
   }
 }
