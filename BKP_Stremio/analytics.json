@@ -1,5 +1,5 @@
 {
-  "totalViews": 25930,
+  "totalViews": 25932,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5292,25 +5292,10 @@
     "2401:9640:801:cbba:a1fd:c2b7:92b6:fa3f",
     "2a02:9b0:106:2afc:a1a0:b0a0:5c46:6136",
     "45.8.19.215",
-    "2409:40c0:60:5b31:b9fd:d7bb:2e97:34f0"
+    "2409:40c0:60:5b31:b9fd:d7bb:2e97:34f0",
+    "2401:4900:ac34:83af:ecf4:8888:ee2b:80b7"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32164798",
-      "title": "tt32164798",
-      "timestamp": "2026-01-23T18:13:30.102Z",
-      "ip": "2a01:9700:4035:4f00:f439:fbbf:6c12:d393",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:1:48",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-23T18:13:48.702Z",
-      "ip": "182.77.76.231",
-      "username": "thebatmanbyte"
-    },
     {
       "type": "movie",
       "id": "tt33479805",
@@ -85294,6 +85279,22 @@
       "timestamp": "2026-02-15T14:56:21.015Z",
       "ip": "103.170.53.153",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt1496832",
+      "title": "tt1496832",
+      "timestamp": "2026-02-15T15:07:01.287Z",
+      "ip": "202.88.248.12",
+      "username": "deepak"
+    },
+    {
+      "type": "movie",
+      "id": "tt0995740",
+      "title": "tt0995740",
+      "timestamp": "2026-02-15T15:18:31.911Z",
+      "ip": "2401:4900:ac34:83af:ecf4:8888:ee2b:80b7",
+      "username": "gendaswammy"
     }
   ],
   "activeNow": {
@@ -86198,7 +86199,7 @@
       "id": "tt1496832",
       "title": "tt1496832",
       "username": "deepak",
-      "lastActive": 1771095156598
+      "lastActive": 1771168021287
     },
     "173.239.196.68": {
       "type": "series",
@@ -86717,6 +86718,13 @@
       "title": "tt0460649:8:16",
       "username": "anonymous050100",
       "lastActive": 1771166756262
+    },
+    "2401:4900:ac34:83af:ecf4:8888:ee2b:80b7": {
+      "type": "movie",
+      "id": "tt0995740",
+      "title": "tt0995740",
+      "username": "gendaswammy",
+      "lastActive": 1771168711911
     }
   }
 }
