@@ -1,5 +1,5 @@
 {
-  "totalViews": 25489,
+  "totalViews": 25492,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5242,30 +5242,6 @@
     "2401:4900:3b23:be25:982d:f4ff:feb8:e4ae"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt28142095",
-      "title": "tt28142095",
-      "timestamp": "2026-01-23T12:42:34.923Z",
-      "ip": "2401:4900:88ba:7519:dc03:4150:b205:4c52",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt28961625",
-      "title": "tt28961625",
-      "timestamp": "2026-01-23T12:44:34.402Z",
-      "ip": "2401:4900:1cb0:5cf4:4459:f579:1404:1366",
-      "username": "saisrinivas"
-    },
-    {
-      "type": "series",
-      "id": "tt0369179:3:8",
-      "title": "tt0369179:3:8",
-      "timestamp": "2026-01-23T12:46:18.864Z",
-      "ip": "105.109.104.7",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt32642706",
@@ -85241,6 +85217,30 @@
       "timestamp": "2026-02-15T02:56:03.291Z",
       "ip": "2401:4900:3b23:be25:982d:f4ff:feb8:e4ae",
       "username": "adshoyi"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-02-15T03:17:50.023Z",
+      "ip": "2409:40e6:1c:344b:6438:36ff:fe9f:c47d",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-15T03:23:59.506Z",
+      "ip": "186.188.150.139",
+      "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-15T03:24:32.731Z",
+      "ip": "186.188.150.139",
+      "username": "ymcinema"
     }
   ],
   "activeNow": {
@@ -86163,10 +86163,10 @@
     },
     "2409:40e6:1c:344b:6438:36ff:fe9f:c47d": {
       "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
       "username": "nabakun24",
-      "lastActive": 1771099845588
+      "lastActive": 1771125470023
     },
     "2401:4900:8826:1404:444d:4dff:fbeb:25d1": {
       "type": "movie",
@@ -86258,6 +86258,13 @@
       "title": "tt30003786:4:9",
       "username": "adshoyi",
       "lastActive": 1771124163291
+    },
+    "186.188.150.139": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "ymcinema",
+      "lastActive": 1771125872731
     }
   }
 }
