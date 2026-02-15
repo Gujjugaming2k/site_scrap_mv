@@ -1,5 +1,5 @@
 {
-  "totalViews": 26050,
+  "totalViews": 26051,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5314,14 +5314,6 @@
     "2402:8100:2cd8:9e48:1c58:7d70:ee01:fcce"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0773262:7:2",
-      "title": "tt0773262:7:2",
-      "timestamp": "2026-01-23T19:07:46.321Z",
-      "ip": "105.245.226.93",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt14245846:1:1",
@@ -85313,6 +85305,14 @@
       "timestamp": "2026-02-15T22:20:46.120Z",
       "ip": "182.69.180.143",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt0100403",
+      "title": "Predator 2",
+      "timestamp": "2026-02-15T23:06:28.467Z",
+      "ip": "103.162.159.140",
+      "username": "opuser75"
     }
   ],
   "activeNow": {
@@ -86543,10 +86543,10 @@
     },
     "103.162.159.140": {
       "type": "movie",
-      "id": "tt0093773",
-      "title": "Predator",
+      "id": "tt0100403",
+      "title": "Predator 2",
       "username": "opuser75",
-      "lastActive": 1771192531044
+      "lastActive": 1771196788467
     },
     "2409:40d4:3000:4eb:90c2:b87f:1676:df9b": {
       "type": "series",
