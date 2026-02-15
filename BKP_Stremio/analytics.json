@@ -1,5 +1,5 @@
 {
-  "totalViews": 25952,
+  "totalViews": 25953,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5300,14 +5300,6 @@
     "2401:4900:75f7:cc88:d8eb:60ff:fe36:78c0"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-01-23T18:24:09.967Z",
-      "ip": "148.63.214.123",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt32141377",
@@ -85299,6 +85291,14 @@
       "timestamp": "2026-02-15T16:10:12.457Z",
       "ip": "2401:4900:75f7:cc88:d8eb:60ff:fe36:78c0",
       "username": "razeamii"
+    },
+    {
+      "type": "movie",
+      "id": "tt8036976",
+      "title": "tt8036976",
+      "timestamp": "2026-02-15T16:14:52.534Z",
+      "ip": "103.162.159.140",
+      "username": "opuser75"
     }
   ],
   "activeNow": {
@@ -86529,10 +86529,10 @@
     },
     "103.162.159.140": {
       "type": "movie",
-      "id": "tt3829266",
-      "title": "The Predator",
+      "id": "tt8036976",
+      "title": "tt8036976",
       "username": "opuser75",
-      "lastActive": 1771166697909
+      "lastActive": 1771172092534
     },
     "2409:40d4:3000:4eb:90c2:b87f:1676:df9b": {
       "type": "series",
