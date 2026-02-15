@@ -1,5 +1,5 @@
 {
-  "totalViews": 25953,
+  "totalViews": 25958,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5297,49 +5297,11 @@
     "182.69.180.143",
     "2401:4900:1cab:c6fe:2c50:9aa1:fdac:ca77",
     "2405:201:a018:b012:aee8:1c42:7472:6e71",
-    "2401:4900:75f7:cc88:d8eb:60ff:fe36:78c0"
+    "2401:4900:75f7:cc88:d8eb:60ff:fe36:78c0",
+    "2409:40c1:4025:167b:8000::",
+    "106.222.248.194"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32141377",
-      "title": "tt32141377",
-      "timestamp": "2026-01-23T18:24:30.356Z",
-      "ip": "86.2.176.223",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt33728446",
-      "title": "tt33728446",
-      "timestamp": "2026-01-23T18:25:12.122Z",
-      "ip": "2a01:9700:4035:4f00:f439:fbbf:6c12:d393",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt36639986",
-      "title": "tt36639986",
-      "timestamp": "2026-01-23T18:25:28.576Z",
-      "ip": "2a01:9700:4035:4f00:f439:fbbf:6c12:d393",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-23T18:26:25.368Z",
-      "ip": "38.131.77.75",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-23T18:26:48.355Z",
-      "ip": "81.104.84.205",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt32141377",
@@ -85299,6 +85261,46 @@
       "timestamp": "2026-02-15T16:14:52.534Z",
       "ip": "103.162.159.140",
       "username": "opuser75"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:5",
+      "title": "tt19244304:1:5",
+      "timestamp": "2026-02-15T16:27:36.794Z",
+      "ip": "2409:40c1:4025:167b:8000::",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "movie",
+      "id": "tt1705772",
+      "title": "tt1705772",
+      "timestamp": "2026-02-15T16:35:48.487Z",
+      "ip": "38.224.232.109",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-15T16:37:08.412Z",
+      "ip": "106.222.248.194",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt27441481",
+      "title": "tt27441481",
+      "timestamp": "2026-02-15T16:37:46.405Z",
+      "ip": "38.224.232.109",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-15T16:40:56.403Z",
+      "ip": "2401:4900:1cab:c6fe:2c50:9aa1:fdac:ca77",
+      "username": "nirbhay1412"
     }
   ],
   "activeNow": {
@@ -85416,10 +85418,10 @@
     },
     "38.224.232.109": {
       "type": "movie",
-      "id": "gdrive:150Tol2Fmbs2TogQLPFS50oNDEQSP0d0D",
-      "title": "gdrive:150Tol2Fmbs2TogQLPFS50oNDEQSP0d0D",
+      "id": "tt27441481",
+      "title": "tt27441481",
       "username": "thala_75",
-      "lastActive": 1771163414361
+      "lastActive": 1771173466405
     },
     "2405:201:6836:30eb:2db1:78fb:6f6f:af8e": {
       "type": "movie",
@@ -86738,11 +86740,11 @@
       "lastActive": 1771169854183
     },
     "2401:4900:1cab:c6fe:2c50:9aa1:fdac:ca77": {
-      "type": "series",
-      "id": "tt0388629:2:1",
-      "title": "tt0388629:2:1",
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
       "username": "nirbhay1412",
-      "lastActive": 1771171519704
+      "lastActive": 1771173656403
     },
     "2405:201:a018:b012:aee8:1c42:7472:6e71": {
       "type": "movie",
@@ -86757,6 +86759,20 @@
       "title": "How to Train Your Dragon",
       "username": "razeamii",
       "lastActive": 1771171812457
+    },
+    "2409:40c1:4025:167b:8000::": {
+      "type": "series",
+      "id": "tt19244304:1:5",
+      "title": "tt19244304:1:5",
+      "username": "belimhuzaifa",
+      "lastActive": 1771172856794
+    },
+    "106.222.248.194": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "nirbhay1412",
+      "lastActive": 1771173428412
     }
   }
 }
