@@ -1,5 +1,5 @@
 {
-  "totalViews": 26027,
+  "totalViews": 26031,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5308,41 +5308,11 @@
     "2402:8100:2e01:56e1:61a8:5580:8f7a:8205",
     "2401:4900:8fc0:c874:a1a6:1fc5:2458:4a75",
     "2409:40e6:3b:bfa0:90b1:5bff:feb2:230d",
-    "2401:4900:aaf9:8958:20b2:df6a:bd35:13d0"
+    "2401:4900:aaf9:8958:20b2:df6a:bd35:13d0",
+    "2409:40e1:3517:d2ce:8000::",
+    "2402:3a80:164d:4bf0:993f:417c:a24d:3724"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33028778",
-      "title": "tt33028778",
-      "timestamp": "2026-01-23T18:55:58.425Z",
-      "ip": "2a02:c7c:616:1c00:2d80:6765:84e1:58e",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt29921437:1:8",
-      "title": "tt29921437:1:8",
-      "timestamp": "2026-01-23T18:56:28.143Z",
-      "ip": "2601:58b:4601:3180:5c49:7b3c:1821:3181",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt36153493",
-      "title": "tt36153493",
-      "timestamp": "2026-01-23T18:57:01.119Z",
-      "ip": "2a02:c7c:616:1c00:2d80:6765:84e1:58e",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt34610311",
-      "title": "The Shadow's Edge",
-      "timestamp": "2026-01-23T18:57:37.876Z",
-      "ip": "124.40.247.180",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt30144839",
@@ -85310,6 +85280,38 @@
       "timestamp": "2026-02-15T19:44:19.628Z",
       "ip": "202.88.248.12",
       "username": "deepak"
+    },
+    {
+      "type": "series",
+      "id": "tt26915338:1:3",
+      "title": "tt26915338:1:3",
+      "timestamp": "2026-02-15T20:08:46.879Z",
+      "ip": "182.69.180.143",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt38235589:1:6",
+      "title": "tt38235589:1:6",
+      "timestamp": "2026-02-15T20:12:31.214Z",
+      "ip": "2409:40e1:3517:d2ce:8000::",
+      "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt30955489",
+      "title": "Until Dawn",
+      "timestamp": "2026-02-15T20:14:18.793Z",
+      "ip": "103.162.159.140",
+      "username": "opuser75"
+    },
+    {
+      "type": "movie",
+      "id": "tt0167404",
+      "title": "The Sixth Sense",
+      "timestamp": "2026-02-15T20:15:48.687Z",
+      "ip": "2402:3a80:164d:4bf0:993f:417c:a24d:3724",
+      "username": "insnaee99"
     }
   ],
   "activeNow": {
@@ -86540,10 +86542,10 @@
     },
     "103.162.159.140": {
       "type": "movie",
-      "id": "tt8036976",
-      "title": "tt8036976",
+      "id": "tt30955489",
+      "title": "Until Dawn",
       "username": "opuser75",
-      "lastActive": 1771172092534
+      "lastActive": 1771186458793
     },
     "2409:40d4:3000:4eb:90c2:b87f:1676:df9b": {
       "type": "series",
@@ -86746,7 +86748,7 @@
       "id": "tt26915338:1:3",
       "title": "tt26915338:1:3",
       "username": "dillon_ka_shooter",
-      "lastActive": 1771183676945
+      "lastActive": 1771186126879
     },
     "2401:4900:1cab:c6fe:2c50:9aa1:fdac:ca77": {
       "type": "movie",
@@ -86845,6 +86847,20 @@
       "title": "tt0995740",
       "username": "gendaswammy",
       "lastActive": 1771180985353
+    },
+    "2409:40e1:3517:d2ce:8000::": {
+      "type": "series",
+      "id": "tt38235589:1:6",
+      "title": "tt38235589:1:6",
+      "username": "tgh2r",
+      "lastActive": 1771186351214
+    },
+    "2402:3a80:164d:4bf0:993f:417c:a24d:3724": {
+      "type": "movie",
+      "id": "tt0167404",
+      "title": "The Sixth Sense",
+      "username": "insnaee99",
+      "lastActive": 1771186548687
     }
   }
 }
