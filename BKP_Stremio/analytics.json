@@ -1,5 +1,5 @@
 {
-  "totalViews": 26041,
+  "totalViews": 26044,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5313,30 +5313,6 @@
     "2402:3a80:164d:4bf0:993f:417c:a24d:3724"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt21066182:1:1",
-      "title": "tt21066182:1:1",
-      "timestamp": "2026-01-23T19:03:39.234Z",
-      "ip": "2601:5cf:407e:b980:6135:7eed:b752:85c0",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0104549",
-      "title": "tt0104549",
-      "timestamp": "2026-01-23T19:03:55.815Z",
-      "ip": "47.196.63.233",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32141377",
-      "title": "tt32141377",
-      "timestamp": "2026-01-23T19:04:31.003Z",
-      "ip": "185.126.160.121",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt32141377",
@@ -85312,6 +85288,30 @@
       "timestamp": "2026-02-15T20:56:31.476Z",
       "ip": "182.69.180.143",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt2322441",
+      "title": "Fifty Shades of Grey",
+      "timestamp": "2026-02-15T21:21:10.719Z",
+      "ip": "202.88.248.12",
+      "username": "deepak"
+    },
+    {
+      "type": "movie",
+      "id": "tt2322441",
+      "title": "Fifty Shades of Grey",
+      "timestamp": "2026-02-15T21:26:28.958Z",
+      "ip": "202.88.248.12",
+      "username": "deepak"
+    },
+    {
+      "type": "series",
+      "id": "tt26915338:1:5",
+      "title": "tt26915338:1:5",
+      "timestamp": "2026-02-15T21:33:20.201Z",
+      "ip": "182.69.180.143",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -86213,10 +86213,10 @@
     },
     "202.88.248.12": {
       "type": "movie",
-      "id": "tt1496832",
-      "title": "tt1496832",
+      "id": "tt2322441",
+      "title": "Fifty Shades of Grey",
       "username": "deepak",
-      "lastActive": 1771184659628
+      "lastActive": 1771190788958
     },
     "173.239.196.68": {
       "type": "series",
@@ -86745,10 +86745,10 @@
     },
     "182.69.180.143": {
       "type": "series",
-      "id": "tt26915338:1:4",
-      "title": "tt26915338:1:4",
+      "id": "tt26915338:1:5",
+      "title": "tt26915338:1:5",
       "username": "dillon_ka_shooter",
-      "lastActive": 1771188991476
+      "lastActive": 1771191200201
     },
     "2401:4900:1cab:c6fe:2c50:9aa1:fdac:ca77": {
       "type": "movie",
