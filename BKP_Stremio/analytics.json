@@ -1,5 +1,5 @@
 {
-  "totalViews": 25647,
+  "totalViews": 25648,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5256,17 +5256,10 @@
     "2401:4900:7906:9a1c:8c4c:2482:dd15:94ef",
     "2405:201:a001:21d8:dd32:64ee:2c3d:76a1",
     "110.235.239.6",
-    "2405:201:900f:a92b:68c6:7162:fb20:d05d"
+    "2405:201:900f:a92b:68c6:7162:fb20:d05d",
+    "2405:201:682e:6839:483b:54e9:dcb3:8e4f"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt9150192",
-      "title": "A Working Man",
-      "timestamp": "2026-01-23T14:39:25.356Z",
-      "ip": "197.232.51.3",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt4574334:4:1",
@@ -85258,6 +85251,14 @@
       "timestamp": "2026-02-15T08:05:50.590Z",
       "ip": "103.46.200.43",
       "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-15T08:10:26.814Z",
+      "ip": "2405:201:682e:6839:483b:54e9:dcb3:8e4f",
+      "username": "babubhaiya"
     }
   ],
   "activeNow": {
@@ -86408,6 +86409,13 @@
       "title": "The Darkest Hour",
       "username": "theonlyfreak",
       "lastActive": 1771142497001
+    },
+    "2405:201:682e:6839:483b:54e9:dcb3:8e4f": {
+      "type": "series",
+      "id": "tt4574334:5:2",
+      "title": "Stranger Things",
+      "username": "babubhaiya",
+      "lastActive": 1771143026814
     }
   }
 }
