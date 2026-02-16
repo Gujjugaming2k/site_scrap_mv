@@ -1,5 +1,5 @@
 {
-  "totalViews": 26336,
+  "totalViews": 26337,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5379,14 +5379,6 @@
     "2401:4900:1cc4:1b8a:ed8a:970f:3cc5:3580"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2777882:9:2",
-      "title": "tt2777882:9:2",
-      "timestamp": "2026-01-23T20:40:39.083Z",
-      "ip": "41.101.144.201",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt4765240",
@@ -85378,6 +85370,14 @@
       "timestamp": "2026-02-16T19:07:05.611Z",
       "ip": "2401:4900:1cc4:1b8a:ed8a:970f:3cc5:3580",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt3829266",
+      "title": "The Predator",
+      "timestamp": "2026-02-16T19:43:14.645Z",
+      "ip": "103.162.159.140",
+      "username": "opuser75"
     }
   ],
   "activeNow": {
@@ -86607,11 +86607,11 @@
       "lastActive": 1771149960266
     },
     "103.162.159.140": {
-      "type": "series",
-      "id": "tt1409055:1:2",
-      "title": "Dragon Ball Z Kai",
+      "type": "movie",
+      "id": "tt3829266",
+      "title": "The Predator",
       "username": "opuser75",
-      "lastActive": 1771248957793
+      "lastActive": 1771270994645
     },
     "2409:40d4:3000:4eb:90c2:b87f:1676:df9b": {
       "type": "series",
