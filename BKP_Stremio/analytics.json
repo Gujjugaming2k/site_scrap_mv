@@ -1,5 +1,5 @@
 {
-  "totalViews": 26184,
+  "totalViews": 26188,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5349,41 +5349,10 @@
     "182.77.76.58",
     "103.70.147.203",
     "2409:40f2:2089:b85a:2d80:48f4:4c1d:596b",
-    "2409:40e4:2e:260f:702a:8dff:fe5c:5fdd"
+    "2409:40e4:2e:260f:702a:8dff:fe5c:5fdd",
+    "2401:4900:88d5:8287:c080:a53c:ffc9:223"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0096725:1:1",
-      "title": "tt0096725:1:1",
-      "timestamp": "2026-01-23T19:48:36.716Z",
-      "ip": "67.233.158.84",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt39086382:1:1",
-      "title": "tt39086382:1:1",
-      "timestamp": "2026-01-23T19:48:40.052Z",
-      "ip": "2a10:d582:4935:0:99fb:e0a:9ba:efbc",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt27719131:1:6",
-      "title": "tt27719131:1:6",
-      "timestamp": "2026-01-23T19:49:22.175Z",
-      "ip": "2003:c7:f2f:e70b:c20d:3faa:448c:c2d2",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
-      "timestamp": "2026-01-23T19:49:36.387Z",
-      "ip": "173.76.236.253",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt31314751:1:7",
@@ -85351,6 +85320,38 @@
       "timestamp": "2026-02-16T10:42:26.346Z",
       "ip": "2409:40e4:2e:260f:702a:8dff:fe5c:5fdd",
       "username": "skssunilbh"
+    },
+    {
+      "type": "movie",
+      "id": "tt32278481",
+      "title": "tt32278481",
+      "timestamp": "2026-02-16T10:52:27.799Z",
+      "ip": "2401:4900:88d5:8287:c080:a53c:ffc9:223",
+      "username": "thevedikgujjar"
+    },
+    {
+      "type": "series",
+      "id": "tt5753856:1:1",
+      "title": "tt5753856:1:1",
+      "timestamp": "2026-02-16T10:56:38.526Z",
+      "ip": "2401:4900:88d5:8287:c080:a53c:ffc9:223",
+      "username": "thevedikgujjar"
+    },
+    {
+      "type": "movie",
+      "id": "tt0332280",
+      "title": "The Notebook",
+      "timestamp": "2026-02-16T10:58:24.010Z",
+      "ip": "2409:40e4:2e:260f:702a:8dff:fe5c:5fdd",
+      "username": "skssunilbh"
+    },
+    {
+      "type": "movie",
+      "id": "tt3166500",
+      "title": "tt3166500",
+      "timestamp": "2026-02-16T11:00:38.948Z",
+      "ip": "2409:40e4:2e:260f:702a:8dff:fe5c:5fdd",
+      "username": "skssunilbh"
     }
   ],
   "activeNow": {
@@ -87169,10 +87170,17 @@
     },
     "2409:40e4:2e:260f:702a:8dff:fe5c:5fdd": {
       "type": "movie",
-      "id": "tt39389929",
-      "title": "tt39389929",
+      "id": "tt3166500",
+      "title": "tt3166500",
       "username": "skssunilbh",
-      "lastActive": 1771238546346
+      "lastActive": 1771239638948
+    },
+    "2401:4900:88d5:8287:c080:a53c:ffc9:223": {
+      "type": "series",
+      "id": "tt5753856:1:1",
+      "title": "tt5753856:1:1",
+      "username": "thevedikgujjar",
+      "lastActive": 1771239398526
     }
   }
 }
