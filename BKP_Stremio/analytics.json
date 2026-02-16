@@ -1,5 +1,5 @@
 {
-  "totalViews": 26252,
+  "totalViews": 26254,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5356,25 +5356,10 @@
     "45.130.83.200",
     "2409:40e6:245:d715:ec92:f8ff:feb3:126f",
     "2401:9640:801:d874:54a9:3cd:1ef5:26b4",
-    "38.254.182.12"
+    "38.254.182.12",
+    "2401:4900:ae5e:f398:d97e:7e06:998a:621"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt22868010",
-      "title": "tt22868010",
-      "timestamp": "2026-01-23T20:09:15.054Z",
-      "ip": "2606:5f00:9002:4511:28e9:ed8:9aae:e885",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2543378:12:7",
-      "title": "tt2543378:12:7",
-      "timestamp": "2026-01-23T20:10:00.718Z",
-      "ip": "2600:1702:6b48:c880:c447:1713:fc8e:8bc",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt37542666:1:3",
@@ -85358,6 +85343,22 @@
       "timestamp": "2026-02-16T13:43:23.343Z",
       "ip": "2401:9640:801:d874:54a9:3cd:1ef5:26b4",
       "username": "suprememayank"
+    },
+    {
+      "type": "movie",
+      "id": "tt0920464",
+      "title": "tt0920464",
+      "timestamp": "2026-02-16T13:55:02.891Z",
+      "ip": "2401:4900:ae5e:f398:d97e:7e06:998a:621",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:7",
+      "title": "tt14186672:2:7",
+      "timestamp": "2026-02-16T14:02:56.907Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -85415,7 +85416,7 @@
       "id": "tt14186672:2:7",
       "title": "tt14186672:2:7",
       "username": "chetan_b2",
-      "lastActive": 1771247432106
+      "lastActive": 1771250576907
     },
     "49.43.109.57": {
       "type": "movie",
@@ -87229,6 +87230,13 @@
       "title": "tt27497448:1:1",
       "username": "suprememayank",
       "lastActive": 1771249240967
+    },
+    "2401:4900:ae5e:f398:d97e:7e06:998a:621": {
+      "type": "movie",
+      "id": "tt0920464",
+      "title": "tt0920464",
+      "username": "gendaswammy",
+      "lastActive": 1771250102891
     }
   }
 }
