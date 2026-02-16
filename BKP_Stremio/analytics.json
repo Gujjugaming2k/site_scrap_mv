@@ -1,5 +1,5 @@
 {
-  "totalViews": 26305,
+  "totalViews": 26306,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5375,14 +5375,6 @@
     "2405:201:682e:6839:f074:20e8:89d0:d5d8"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt36933578:1:1",
-      "title": "tt36933578:1:1",
-      "timestamp": "2026-01-23T20:28:09.138Z",
-      "ip": "108.170.136.57",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt34435427:1:1",
@@ -85374,6 +85366,14 @@
       "timestamp": "2026-02-16T17:45:10.550Z",
       "ip": "202.173.124.185",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt37062070:1:5",
+      "title": "tt37062070:1:5",
+      "timestamp": "2026-02-16T17:45:47.566Z",
+      "ip": "2405:201:682e:6839:f074:20e8:89d0:d5d8",
+      "username": "babubhaiya"
     }
   ],
   "activeNow": {
@@ -87373,11 +87373,11 @@
       "lastActive": 1771262071545
     },
     "2405:201:682e:6839:f074:20e8:89d0:d5d8": {
-      "type": "movie",
-      "id": "tt37443891",
-      "title": "tt37443891",
+      "type": "series",
+      "id": "tt37062070:1:5",
+      "title": "tt37062070:1:5",
       "username": "babubhaiya",
-      "lastActive": 1771263851711
+      "lastActive": 1771263947566
     }
   }
 }
