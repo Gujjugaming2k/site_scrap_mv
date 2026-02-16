@@ -1,5 +1,5 @@
 {
-  "totalViews": 26099,
+  "totalViews": 26100,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5320,17 +5320,10 @@
     "2409:40d2:3013:137b:88de:71f5:1fe1:4888",
     "2401:4900:1c62:78a9:6d34:49c9:b227:738a",
     "2401:4900:1cb0:cfef:d9a4:ba7d:7d54:ca9d",
-    "2a09:bac6:d97e:a82::10c:2d"
+    "2a09:bac6:d97e:a82::10c:2d",
+    "2409:40e5:101e:413:3529:e91c:de7b:c36"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt10676052",
-      "title": "The Fantastic 4: First Steps",
-      "timestamp": "2026-01-23T19:26:18.327Z",
-      "ip": "167.100.75.17",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0760437:1:8",
@@ -85322,6 +85315,14 @@
       "timestamp": "2026-02-16T03:59:17.265Z",
       "ip": "2a09:bac6:d97e:a82::10c:2d",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-16T04:14:16.128Z",
+      "ip": "2409:40e5:101e:413:3529:e91c:de7b:c36",
+      "username": "magicmannn"
     }
   ],
   "activeNow": {
@@ -86941,6 +86942,13 @@
       "title": "tt27497448:1:6",
       "username": "demon18319",
       "lastActive": 1771214357265
+    },
+    "2409:40e5:101e:413:3529:e91c:de7b:c36": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "magicmannn",
+      "lastActive": 1771215256128
     }
   }
 }
