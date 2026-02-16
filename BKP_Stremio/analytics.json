@@ -1,5 +1,5 @@
 {
-  "totalViews": 26344,
+  "totalViews": 26345,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5380,14 +5380,6 @@
     "2401:4900:c33f:26cc:cad:29a3:887:b196"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt17491088:1:4",
-      "title": "tt17491088:1:4",
-      "timestamp": "2026-01-23T20:46:34.187Z",
-      "ip": "2a02:6b6f:f391:d00:d9cd:a3d5:c8d6:cfa9",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt3904068:3:1",
@@ -85379,6 +85371,14 @@
       "timestamp": "2026-02-16T20:51:43.353Z",
       "ip": "2401:4900:c33f:26cc:cad:29a3:887:b196",
       "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt39221314:1:10",
+      "title": "tt39221314:1:10",
+      "timestamp": "2026-02-16T20:53:15.864Z",
+      "ip": "2401:4900:c33f:26cc:cad:29a3:887:b196",
+      "username": "insnaee99"
     }
   ],
   "activeNow": {
@@ -87421,10 +87421,10 @@
     },
     "2401:4900:c33f:26cc:cad:29a3:887:b196": {
       "type": "series",
-      "id": "tt39221314:1:11",
-      "title": "tt39221314:1:11",
+      "id": "tt39221314:1:10",
+      "title": "tt39221314:1:10",
       "username": "insnaee99",
-      "lastActive": 1771275103353
+      "lastActive": 1771275195864
     }
   }
 }
