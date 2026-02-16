@@ -1,5 +1,5 @@
 {
-  "totalViews": 26115,
+  "totalViews": 26122,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5328,65 +5328,13 @@
     "2409:40d4:1069:88ee:247d:2aff:feea:62f8",
     "2409:40d4:1069:88ee:247d:2aff:feea:62f8,51.89.197.91",
     "2405:201:a40c:dba2:1cc4:75b6:74ba:6c48",
-    "2409:40e4:108e:64d1:28a3:8aa8:9441:b357"
+    "2409:40e4:108e:64d1:28a3:8aa8:9441:b357",
+    "2a09:bac5:3c4a:2719::3e5:25",
+    "2409:40c1:1026:1b03:8000::",
+    "205.254.185.163",
+    "152.59.33.54"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt36614693:1:1",
-      "title": "tt36614693:1:1",
-      "timestamp": "2026-01-23T19:29:18.546Z",
-      "ip": "212.116.231.26",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt1837642:1:19",
-      "title": "tt1837642:1:19",
-      "timestamp": "2026-01-23T19:29:52.190Z",
-      "ip": "104.244.230.143",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-23T19:30:06.018Z",
-      "ip": "137.115.11.233",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt29921437:1:1",
-      "title": "tt29921437:1:1",
-      "timestamp": "2026-01-23T19:30:18.356Z",
-      "ip": "154.251.121.125",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt29780866",
-      "title": "Icefall",
-      "timestamp": "2026-01-23T19:30:28.627Z",
-      "ip": "2600:1002:a013:a360:3113:37e2:a917:8681",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt26591147:1:11",
-      "title": "tt26591147:1:11",
-      "timestamp": "2026-01-23T19:30:43.116Z",
-      "ip": "216.131.76.113",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0112740",
-      "title": "tt0112740",
-      "timestamp": "2026-01-23T19:31:37.596Z",
-      "ip": "81.96.242.214",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt35826715:1:1",
@@ -85330,6 +85278,62 @@
       "timestamp": "2026-02-16T07:30:40.188Z",
       "ip": "2409:40e4:108e:64d1:28a3:8aa8:9441:b357",
       "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:5",
+      "title": "tt19244304:1:5",
+      "timestamp": "2026-02-16T07:45:09.696Z",
+      "ip": "2a09:bac5:3c4a:2719::3e5:25",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt9813792:1:1",
+      "title": "tt9813792:1:1",
+      "timestamp": "2026-02-16T07:46:09.263Z",
+      "ip": "2a09:bac5:3c4a:2719::3e5:25",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:2:1",
+      "title": "tt31938062:2:1",
+      "timestamp": "2026-02-16T07:56:10.729Z",
+      "ip": "2409:40c1:1026:1b03:8000::",
+      "username": "king_z0ro"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:2",
+      "title": "tt30003786:4:2",
+      "timestamp": "2026-02-16T07:56:58.152Z",
+      "ip": "205.254.185.163",
+      "username": "space_forca"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:2:1",
+      "title": "tt31938062:2:1",
+      "timestamp": "2026-02-16T07:57:27.068Z",
+      "ip": "152.59.33.54",
+      "username": "king_z0ro"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:2:1",
+      "title": "tt31938062:2:1",
+      "timestamp": "2026-02-16T07:57:58.308Z",
+      "ip": "152.59.33.54",
+      "username": "king_z0ro"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:2:6",
+      "title": "tt31938062:2:6",
+      "timestamp": "2026-02-16T07:58:00.682Z",
+      "ip": "152.59.33.54",
+      "username": "king_z0ro"
     }
   ],
   "activeNow": {
@@ -87005,6 +87009,34 @@
       "title": "tt32362695",
       "username": "askchm",
       "lastActive": 1771227040188
+    },
+    "2a09:bac5:3c4a:2719::3e5:25": {
+      "type": "series",
+      "id": "tt9813792:1:1",
+      "title": "tt9813792:1:1",
+      "username": "belimhuzaifa",
+      "lastActive": 1771227969263
+    },
+    "2409:40c1:1026:1b03:8000::": {
+      "type": "series",
+      "id": "tt31938062:2:1",
+      "title": "tt31938062:2:1",
+      "username": "king_z0ro",
+      "lastActive": 1771228570729
+    },
+    "205.254.185.163": {
+      "type": "series",
+      "id": "tt30003786:4:2",
+      "title": "tt30003786:4:2",
+      "username": "space_forca",
+      "lastActive": 1771228618152
+    },
+    "152.59.33.54": {
+      "type": "series",
+      "id": "tt31938062:2:6",
+      "title": "tt31938062:2:6",
+      "username": "king_z0ro",
+      "lastActive": 1771228680682
     }
   }
 }
