@@ -1,5 +1,5 @@
 {
-  "totalViews": 26254,
+  "totalViews": 26258,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5357,41 +5357,12 @@
     "2409:40e6:245:d715:ec92:f8ff:feb3:126f",
     "2401:9640:801:d874:54a9:3cd:1ef5:26b4",
     "38.254.182.12",
-    "2401:4900:ae5e:f398:d97e:7e06:998a:621"
+    "2401:4900:ae5e:f398:d97e:7e06:998a:621",
+    "2406:7400:3b:55f4::d3d",
+    "2406:7400:3b:55f4:9cbc:cc39:e674:c899",
+    "2409:40f2:2089:b85a:2881:712b:1add:5c23"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt37542666:1:3",
-      "title": "tt37542666:1:3",
-      "timestamp": "2026-01-23T20:10:54.817Z",
-      "ip": "65.95.118.95",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-23T20:11:05.550Z",
-      "ip": "23.153.208.20",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1757678",
-      "title": "tt1757678",
-      "timestamp": "2026-01-23T20:11:27.226Z",
-      "ip": "23.153.208.20",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
-      "timestamp": "2026-01-23T20:11:31.494Z",
-      "ip": "82.42.178.201",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt10541088:4:1",
@@ -85359,6 +85330,38 @@
       "timestamp": "2026-02-16T14:02:56.907Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt11214558",
+      "title": "The Smashing Machine",
+      "timestamp": "2026-02-16T14:29:33.570Z",
+      "ip": "2406:7400:3b:55f4::d3d",
+      "username": "smallchungus"
+    },
+    {
+      "type": "movie",
+      "id": "tt11214558",
+      "title": "The Smashing Machine",
+      "timestamp": "2026-02-16T14:35:34.031Z",
+      "ip": "2406:7400:3b:55f4:9cbc:cc39:e674:c899",
+      "username": "smallchungus"
+    },
+    {
+      "type": "movie",
+      "id": "tt9793334",
+      "title": "tt9793334",
+      "timestamp": "2026-02-16T14:37:31.609Z",
+      "ip": "2409:40f2:2089:b85a:2881:712b:1add:5c23",
+      "username": "max"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790740",
+      "title": "tt23790740",
+      "timestamp": "2026-02-16T14:37:39.373Z",
+      "ip": "2406:7400:3b:55f4:9cbc:cc39:e674:c899",
+      "username": "smallchungus"
     }
   ],
   "activeNow": {
@@ -87237,6 +87240,27 @@
       "title": "tt0920464",
       "username": "gendaswammy",
       "lastActive": 1771250102891
+    },
+    "2406:7400:3b:55f4::d3d": {
+      "type": "movie",
+      "id": "tt11214558",
+      "title": "The Smashing Machine",
+      "username": "smallchungus",
+      "lastActive": 1771252173570
+    },
+    "2406:7400:3b:55f4:9cbc:cc39:e674:c899": {
+      "type": "movie",
+      "id": "tt23790740",
+      "title": "tt23790740",
+      "username": "smallchungus",
+      "lastActive": 1771252659373
+    },
+    "2409:40f2:2089:b85a:2881:712b:1add:5c23": {
+      "type": "movie",
+      "id": "tt9793334",
+      "title": "tt9793334",
+      "username": "max",
+      "lastActive": 1771252651609
     }
   }
 }
