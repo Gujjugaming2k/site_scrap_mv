@@ -1,5 +1,5 @@
 {
-  "totalViews": 26212,
+  "totalViews": 26214,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5355,22 +5355,6 @@
     "104.28.209.151"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0903747:5:13",
-      "title": "tt0903747:5:13",
-      "timestamp": "2026-01-23T19:57:38.013Z",
-      "ip": "182.69.179.34",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "null:1:1",
-      "title": "null:1:1",
-      "timestamp": "2026-01-23T19:57:40.633Z",
-      "ip": "2001:1970:50ed:d100:b5f4:3e02:73ab:bb0f",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0903747:5:14",
@@ -85354,6 +85338,22 @@
       "timestamp": "2026-02-16T12:17:29.363Z",
       "ip": "2405:201:6820:a83c:18da:70ae:bc26:1b24",
       "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:5:15",
+      "title": "tt0460649:5:15",
+      "timestamp": "2026-02-16T12:28:46.783Z",
+      "ip": "2405:201:6820:a83c:18da:70ae:bc26:1b24",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt0299108",
+      "title": "tt0299108",
+      "timestamp": "2026-02-16T12:36:51.677Z",
+      "ip": "2401:4900:8f71:bfcf:986e:8e76:d6d3:e7f2",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -86325,10 +86325,10 @@
     },
     "2405:201:6820:a83c:18da:70ae:bc26:1b24": {
       "type": "series",
-      "id": "tt0460649:5:14",
-      "title": "tt0460649:5:14",
+      "id": "tt0460649:5:15",
+      "title": "tt0460649:5:15",
       "username": "demon18319",
-      "lastActive": 1771244249363
+      "lastActive": 1771244926783
     },
     "2409:40c1:11:20f1:8000::": {
       "type": "series",
@@ -87146,8 +87146,8 @@
       "type": "movie",
       "id": "tt0299108",
       "title": "tt0299108",
-      "username": "iknowthat",
-      "lastActive": 1771243657133
+      "username": "b1jju",
+      "lastActive": 1771245411677
     },
     "182.77.76.58": {
       "type": "series",
