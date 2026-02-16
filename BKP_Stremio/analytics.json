@@ -1,5 +1,5 @@
 {
-  "totalViews": 26326,
+  "totalViews": 26332,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5374,57 +5374,10 @@
     "2409:40c4:3149:ea93:b0c6:6fff:fe55:cf86",
     "2405:201:682e:6839:f074:20e8:89d0:d5d8",
     "203.189.255.12",
-    "2402:3a80:440a:6c30:3498:9402:f2cf:e830"
+    "2402:3a80:440a:6c30:3498:9402:f2cf:e830",
+    "2a09:bac5:3af1:86e::d7:4f"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12343534:3:4",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-23T20:35:49.734Z",
-      "ip": "47.11.18.121",
-      "username": "agentmj47"
-    },
-    {
-      "type": "series",
-      "id": "null:1:1",
-      "title": "null:1:1",
-      "timestamp": "2026-01-23T20:36:07.700Z",
-      "ip": "41.101.144.201",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4236770:2:2",
-      "title": "tt4236770:2:2",
-      "timestamp": "2026-01-23T20:36:11.667Z",
-      "ip": "84.65.207.30",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt13320622",
-      "title": "The Lost City",
-      "timestamp": "2026-01-23T20:36:12.333Z",
-      "ip": "2600:1700:a28e:bd30:ba2c:3e5b:3f4c:2aec",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt19847976",
-      "title": "tt19847976",
-      "timestamp": "2026-01-23T20:36:16.491Z",
-      "ip": "45.41.104.209",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt27550022",
-      "title": "tt27550022",
-      "timestamp": "2026-01-23T20:36:19.524Z",
-      "ip": "140.225.75.122",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt6470478:6:14",
@@ -85376,6 +85329,54 @@
       "timestamp": "2026-02-16T18:45:27.435Z",
       "ip": "202.173.124.185",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt32357218",
+      "title": "tt32357218",
+      "timestamp": "2026-02-16T18:48:53.990Z",
+      "ip": "202.173.124.185",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt28629017",
+      "title": "tt28629017",
+      "timestamp": "2026-02-16T18:50:57.643Z",
+      "ip": "2a09:bac5:3af1:86e::d7:4f",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-16T18:52:18.064Z",
+      "ip": "2a09:bac5:3af1:86e::d7:4f",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt32357218",
+      "title": "tt32357218",
+      "timestamp": "2026-02-16T18:53:33.677Z",
+      "ip": "202.173.124.185",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt5472374",
+      "title": "tt5472374",
+      "timestamp": "2026-02-16T18:54:19.517Z",
+      "ip": "2a09:bac5:3af1:86e::d7:4f",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt37376961",
+      "title": "tt37376961",
+      "timestamp": "2026-02-16T19:00:11.743Z",
+      "ip": "163.223.102.135",
+      "username": "mutti9"
     }
   ],
   "activeNow": {
@@ -87302,7 +87303,7 @@
       "id": "tt32357218",
       "title": "tt32357218",
       "username": "ryuzaklo26",
-      "lastActive": 1771267527435
+      "lastActive": 1771268013677
     },
     "2a09:bac5:3af1:86e::d7:3e": {
       "type": "series",
@@ -87390,10 +87391,10 @@
     },
     "163.223.102.135": {
       "type": "movie",
-      "id": "tt15314262",
-      "title": "The Beekeeper",
+      "id": "tt37376961",
+      "title": "tt37376961",
       "username": "mutti9",
-      "lastActive": 1771265880018
+      "lastActive": 1771268411743
     },
     "2402:3a80:440a:6c30:3498:9402:f2cf:e830": {
       "type": "movie",
@@ -87401,6 +87402,13 @@
       "title": "tt27543632",
       "username": "gendaswammy",
       "lastActive": 1771266915189
+    },
+    "2a09:bac5:3af1:86e::d7:4f": {
+      "type": "movie",
+      "id": "tt5472374",
+      "title": "tt5472374",
+      "username": "switchoff009",
+      "lastActive": 1771268059517
     }
   }
 }
