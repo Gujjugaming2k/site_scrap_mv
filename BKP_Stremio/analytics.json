@@ -1,5 +1,5 @@
 {
-  "totalViews": 26333,
+  "totalViews": 26336,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5375,33 +5375,10 @@
     "2405:201:682e:6839:f074:20e8:89d0:d5d8",
     "203.189.255.12",
     "2402:3a80:440a:6c30:3498:9402:f2cf:e830",
-    "2a09:bac5:3af1:86e::d7:4f"
+    "2a09:bac5:3af1:86e::d7:4f",
+    "2401:4900:1cc4:1b8a:ed8a:970f:3cc5:3580"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-01-23T20:39:32.127Z",
-      "ip": "140.225.75.122",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt2777882:9:1",
-      "title": "tt2777882:9:1",
-      "timestamp": "2026-01-23T20:39:53.414Z",
-      "ip": "41.101.144.201",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt2095713",
-      "title": "tt2095713",
-      "timestamp": "2026-01-23T20:40:28.748Z",
-      "ip": "2a02:6b6f:f391:d00:d9cd:a3d5:c8d6:cfa9",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt2777882:9:2",
@@ -85377,6 +85354,30 @@
       "timestamp": "2026-02-16T19:04:49.598Z",
       "ip": "202.173.124.185",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt14279982",
+      "title": "tt14279982",
+      "timestamp": "2026-02-16T19:06:01.328Z",
+      "ip": "2401:4900:1cc4:1b8a:ed8a:970f:3cc5:3580",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt14279982",
+      "title": "tt14279982",
+      "timestamp": "2026-02-16T19:06:46.200Z",
+      "ip": "2401:4900:1cc4:1b8a:ed8a:970f:3cc5:3580",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt14279982",
+      "title": "tt14279982",
+      "timestamp": "2026-02-16T19:07:05.611Z",
+      "ip": "2401:4900:1cc4:1b8a:ed8a:970f:3cc5:3580",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -87409,6 +87410,13 @@
       "title": "tt5472374",
       "username": "switchoff009",
       "lastActive": 1771268059517
+    },
+    "2401:4900:1cc4:1b8a:ed8a:970f:3cc5:3580": {
+      "type": "movie",
+      "id": "tt14279982",
+      "title": "tt14279982",
+      "username": "gaendaswami",
+      "lastActive": 1771268825611
     }
   }
 }
