@@ -1,5 +1,5 @@
 {
-  "totalViews": 26063,
+  "totalViews": 26070,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5312,65 +5312,10 @@
     "2409:40e1:3517:d2ce:8000::",
     "2402:3a80:164d:4bf0:993f:417c:a24d:3724",
     "2402:8100:2cd8:9e48:1c58:7d70:ee01:fcce",
-    "190.250.228.161"
+    "190.250.228.161",
+    "2409:40c4:1019:fad2:f07b:28ff:febe:52ea"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-23T19:13:23.328Z",
-      "ip": "2600:4040:20ef:b000:ddef:4969:c2d7:876c",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0098844:6:10",
-      "title": "tt0098844:6:10",
-      "timestamp": "2026-01-23T19:13:25.389Z",
-      "ip": "180.181.23.50",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-01-23T19:13:30.188Z",
-      "ip": "2603:8082:753f:e00:144:fb8:e8cb:fb3a",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-23T19:13:32.935Z",
-      "ip": "152.110.153.114",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt14364480",
-      "title": "tt14364480",
-      "timestamp": "2026-01-23T19:13:40.891Z",
-      "ip": "2405:201:2022:b81c:a6:d0e2:1a28:c505",
-      "username": "zealousninja"
-    },
-    {
-      "type": "series",
-      "id": "tt39086382:1:1",
-      "title": "tt39086382:1:1",
-      "timestamp": "2026-01-23T19:15:39.642Z",
-      "ip": "86.3.173.249",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-23T19:16:17.368Z",
-      "ip": "111.92.121.170",
-      "username": "un0fficial_itachi"
-    },
     {
       "type": "movie",
       "id": "tt32642706",
@@ -85314,6 +85259,62 @@
       "timestamp": "2026-02-16T01:24:58.771Z",
       "ip": "103.24.85.184",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "timestamp": "2026-02-16T01:30:58.536Z",
+      "ip": "2409:40c4:1019:fad2:f07b:28ff:febe:52ea",
+      "username": "iknowthat"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "timestamp": "2026-02-16T01:30:58.615Z",
+      "ip": "2409:40c4:1019:fad2:f07b:28ff:febe:52ea",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt13443470:1:1",
+      "title": "Wednesday",
+      "timestamp": "2026-02-16T01:33:16.113Z",
+      "ip": "2409:40c4:1019:fad2:f07b:28ff:febe:52ea",
+      "username": "iknowthat"
+    },
+    {
+      "type": "series",
+      "id": "tt13443470:1:1",
+      "title": "Wednesday",
+      "timestamp": "2026-02-16T01:33:16.205Z",
+      "ip": "2409:40c4:1019:fad2:f07b:28ff:febe:52ea",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt13443470:1:2",
+      "title": "Wednesday",
+      "timestamp": "2026-02-16T01:34:05.861Z",
+      "ip": "2409:40c4:1019:fad2:f07b:28ff:febe:52ea",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-02-16T01:34:44.156Z",
+      "ip": "2409:40c4:1019:fad2:f07b:28ff:febe:52ea",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-02-16T01:34:44.229Z",
+      "ip": "2409:40c4:1019:fad2:f07b:28ff:febe:52ea",
+      "username": "iknowthat"
     }
   ],
   "activeNow": {
@@ -86877,6 +86878,13 @@
       "title": "tt31969779",
       "username": "ymcinema",
       "lastActive": 1771197164817
+    },
+    "2409:40c4:1019:fad2:f07b:28ff:febe:52ea": {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "username": "iknowthat",
+      "lastActive": 1771205684229
     }
   }
 }
