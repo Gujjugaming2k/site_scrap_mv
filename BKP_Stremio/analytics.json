@@ -1,5 +1,5 @@
 {
-  "totalViews": 26102,
+  "totalViews": 26104,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5321,25 +5321,10 @@
     "2401:4900:1c62:78a9:6d34:49c9:b227:738a",
     "2401:4900:1cb0:cfef:d9a4:ba7d:7d54:ca9d",
     "2a09:bac6:d97e:a82::10c:2d",
-    "2409:40e5:101e:413:3529:e91c:de7b:c36"
+    "2409:40e5:101e:413:3529:e91c:de7b:c36",
+    "117.204.108.88"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12343534:1:15",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-23T19:26:55.473Z",
-      "ip": "185.126.161.36",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt10676052",
-      "title": "The Fantastic 4: First Steps",
-      "timestamp": "2026-01-23T19:27:14.297Z",
-      "ip": "167.100.75.17",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "null",
@@ -85323,6 +85308,22 @@
       "timestamp": "2026-02-16T04:39:59.362Z",
       "ip": "182.69.180.143",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt11794812:1:1",
+      "title": "Cross",
+      "timestamp": "2026-02-16T05:05:42.405Z",
+      "ip": "117.204.108.88",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "timestamp": "2026-02-16T05:06:27.740Z",
+      "ip": "117.204.108.88",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -86949,6 +86950,13 @@
       "title": "Dhurandhar",
       "username": "magicmannn",
       "lastActive": 1771215256128
+    },
+    "117.204.108.88": {
+      "type": "movie",
+      "id": "tt15387182",
+      "title": "tt15387182",
+      "username": "zealousninja",
+      "lastActive": 1771218387740
     }
   }
 }
