@@ -1,5 +1,5 @@
 {
-  "totalViews": 26141,
+  "totalViews": 26146,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5340,46 +5340,6 @@
     "152.59.3.156"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt6604188",
-      "title": "TRON: Ares",
-      "timestamp": "2026-01-23T19:37:20.230Z",
-      "ip": "5.133.46.208",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-01-23T19:37:36.811Z",
-      "ip": "5.133.46.208",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt11231226:3:3",
-      "title": "Reasonable Doubt",
-      "timestamp": "2026-01-23T19:38:00.897Z",
-      "ip": "2600:100d:b14c:a2d1:aa06:2c0b:4f1:bc18",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0290988:6:4",
-      "title": "tt0290988:6:4",
-      "timestamp": "2026-01-23T19:38:14.063Z",
-      "ip": "212.102.40.79",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt29780866",
-      "title": "Icefall",
-      "timestamp": "2026-01-23T19:38:22.110Z",
-      "ip": "2001:bb6:2a4:4f00:3d49:b1e5:b39f:aadf",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "null",
@@ -85339,6 +85299,46 @@
       "timestamp": "2026-02-16T08:28:43.699Z",
       "ip": "152.59.3.156",
       "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:1",
+      "title": "tt19244304:1:1",
+      "timestamp": "2026-02-16T08:29:11.878Z",
+      "ip": "152.59.3.156",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-16T08:29:35.611Z",
+      "ip": "152.59.3.156",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-16T08:34:11.061Z",
+      "ip": "152.59.3.156",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-02-16T08:34:12.292Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt15464188",
+      "title": "tt15464188",
+      "timestamp": "2026-02-16T08:40:51.130Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -85736,10 +85736,10 @@
     },
     "103.24.85.184": {
       "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
+      "id": "tt15464188",
+      "title": "tt15464188",
       "username": "william097",
-      "lastActive": 1771210059052
+      "lastActive": 1771231251130
     },
     "2409:40c1:2158:5c46:f179:5a12:839e:b2c2": {
       "type": "series",
@@ -87073,10 +87073,10 @@
     },
     "152.59.3.156": {
       "type": "series",
-      "id": "tt12343534:1:1",
-      "title": "JUJUTSU KAISEN",
+      "id": "tt4574334:5:1",
+      "title": "Stranger Things",
       "username": "belimhuzaifa",
-      "lastActive": 1771230523699
+      "lastActive": 1771230851061
     }
   }
 }
