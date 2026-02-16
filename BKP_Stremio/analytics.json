@@ -1,5 +1,5 @@
 {
-  "totalViews": 26159,
+  "totalViews": 26160,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5342,17 +5342,10 @@
     "2409:40d4:33:40e5:6406:1bff:fee8:3f0e",
     "2409:40d4:33:40e5:6406:1bff:fee8:3f0e,51.89.197.91",
     "2405:201:2033:841:509c:6273:22da:8bff",
-    "152.59.235.112"
+    "152.59.235.112",
+    "119.234.5.153"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt20425026",
-      "title": "tt20425026",
-      "timestamp": "2026-01-23T19:43:11.876Z",
-      "ip": "64.98.205.147",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt10872600",
@@ -85344,6 +85337,14 @@
       "timestamp": "2026-02-16T09:25:34.071Z",
       "ip": "2409:40d2:3013:137b:88de:71f5:1fe1:4888",
       "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-16T09:44:09.894Z",
+      "ip": "119.234.5.153",
+      "username": "sheik"
     }
   ],
   "activeNow": {
@@ -87117,6 +87118,13 @@
       "title": "Madagascar",
       "username": "napsteerr",
       "lastActive": 1771232970964
+    },
+    "119.234.5.153": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "sheik",
+      "lastActive": 1771235049894
     }
   }
 }
