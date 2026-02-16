@@ -1,5 +1,5 @@
 {
-  "totalViews": 26208,
+  "totalViews": 26212,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5355,38 +5355,6 @@
     "104.28.209.151"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4179452:1:7",
-      "title": "tt4179452:1:7",
-      "timestamp": "2026-01-23T19:57:10.152Z",
-      "ip": "2601:406:4e85:1350:f25a:9271:7f5:db57",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt8560918:3:1",
-      "title": "tt8560918:3:1",
-      "timestamp": "2026-01-23T19:57:17.064Z",
-      "ip": "41.102.111.62",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt9603208",
-      "title": "Mission: Impossible - The Final Reckoning",
-      "timestamp": "2026-01-23T19:57:18.706Z",
-      "ip": "82.18.167.71",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1262426",
-      "title": "Wicked",
-      "timestamp": "2026-01-23T19:57:27.268Z",
-      "ip": "45.41.104.209",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0903747:5:13",
@@ -85354,6 +85322,38 @@
       "timestamp": "2026-02-16T11:35:16.914Z",
       "ip": "2405:201:6820:a83c:18da:70ae:bc26:1b24",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt0299108",
+      "title": "tt0299108",
+      "timestamp": "2026-02-16T12:07:37.057Z",
+      "ip": "2401:4900:8f71:bfcf:986e:8e76:d6d3:e7f2",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt0299108",
+      "title": "tt0299108",
+      "timestamp": "2026-02-16T12:07:37.133Z",
+      "ip": "2401:4900:8f71:bfcf:986e:8e76:d6d3:e7f2",
+      "username": "iknowthat"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:5:14",
+      "title": "tt0460649:5:14",
+      "timestamp": "2026-02-16T12:17:21.736Z",
+      "ip": "2405:201:6820:a83c:18da:70ae:bc26:1b24",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:5:14",
+      "title": "tt0460649:5:14",
+      "timestamp": "2026-02-16T12:17:29.363Z",
+      "ip": "2405:201:6820:a83c:18da:70ae:bc26:1b24",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -86325,10 +86325,10 @@
     },
     "2405:201:6820:a83c:18da:70ae:bc26:1b24": {
       "type": "series",
-      "id": "tt0413573:1:1",
-      "title": "tt0413573:1:1",
+      "id": "tt0460649:5:14",
+      "title": "tt0460649:5:14",
       "username": "demon18319",
-      "lastActive": 1771241716914
+      "lastActive": 1771244249363
     },
     "2409:40c1:11:20f1:8000::": {
       "type": "series",
@@ -87144,10 +87144,10 @@
     },
     "2401:4900:8f71:bfcf:986e:8e76:d6d3:e7f2": {
       "type": "movie",
-      "id": "tt7469726",
-      "title": "tt7469726",
+      "id": "tt0299108",
+      "title": "tt0299108",
       "username": "iknowthat",
-      "lastActive": 1771235323972
+      "lastActive": 1771243657133
     },
     "182.77.76.58": {
       "type": "series",
