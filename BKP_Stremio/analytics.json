@@ -1,5 +1,5 @@
 {
-  "totalViews": 26061,
+  "totalViews": 26063,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5315,22 +5315,6 @@
     "190.250.228.161"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt8622160:1:2",
-      "title": "tt8622160:1:2",
-      "timestamp": "2026-01-23T19:12:34.010Z",
-      "ip": "2a10:d582:657c:0:76e:3ada:992a:70aa",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-23T19:12:59.362Z",
-      "ip": "2405:201:2022:b81c:2dfb:839d:977b:4f2e",
-      "username": "zealousninja"
-    },
     {
       "type": "movie",
       "id": "tt32642706",
@@ -85314,6 +85298,22 @@
       "timestamp": "2026-02-16T01:13:05.127Z",
       "ip": "103.24.85.184",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt35149250:1:1",
+      "title": "tt35149250:1:1",
+      "timestamp": "2026-02-16T01:22:19.161Z",
+      "ip": "2402:a00:10a:815f:ca3a:387a:2826:22e",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-02-16T01:24:58.771Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -85711,10 +85711,10 @@
     },
     "103.24.85.184": {
       "type": "movie",
-      "id": "tt27136041",
-      "title": "tt27136041",
+      "id": "tt32916440",
+      "title": "tt32916440",
       "username": "william097",
-      "lastActive": 1771204385127
+      "lastActive": 1771205098771
     },
     "2409:40c1:2158:5c46:f179:5a12:839e:b2c2": {
       "type": "series",
@@ -86810,10 +86810,10 @@
     },
     "2402:a00:10a:815f:ca3a:387a:2826:22e": {
       "type": "series",
-      "id": "tt19854762:2:4",
-      "title": "tt19854762:2:4",
+      "id": "tt35149250:1:1",
+      "title": "tt35149250:1:1",
       "username": "vflix1993",
-      "lastActive": 1771177773827
+      "lastActive": 1771204939161
     },
     "1.187.163.65": {
       "type": "series",
