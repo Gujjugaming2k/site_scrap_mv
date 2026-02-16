@@ -1,5 +1,5 @@
 {
-  "totalViews": 26078,
+  "totalViews": 26081,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5317,30 +5317,6 @@
     "2405:201:2022:b81c:50c1:a158:dba4:8041"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt28690468",
-      "title": "tt28690468",
-      "timestamp": "2026-01-23T19:20:18.636Z",
-      "ip": "2603:8082:753f:e00:144:fb8:e8cb:fb3a",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32357218",
-      "title": "tt32357218",
-      "timestamp": "2026-01-23T19:20:26.196Z",
-      "ip": "2607:fb90:be95:c08:f3ac:79c7:df28:9bf0",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32141377",
-      "title": "tt32141377",
-      "timestamp": "2026-01-23T19:20:35.326Z",
-      "ip": "95.44.45.117",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt33244668",
@@ -85316,6 +85292,30 @@
       "timestamp": "2026-02-16T02:29:39.051Z",
       "ip": "2405:201:2022:b81c:50c1:a158:dba4:8041",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt0367110",
+      "title": "tt0367110",
+      "timestamp": "2026-02-16T02:31:23.182Z",
+      "ip": "2405:201:2022:b81c:50c1:a158:dba4:8041",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt28629017",
+      "title": "tt28629017",
+      "timestamp": "2026-02-16T02:38:37.303Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt28961625",
+      "title": "tt28961625",
+      "timestamp": "2026-02-16T02:38:48.279Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -85713,10 +85713,10 @@
     },
     "103.24.85.184": {
       "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
+      "id": "tt28961625",
+      "title": "tt28961625",
       "username": "william097",
-      "lastActive": 1771208958915
+      "lastActive": 1771209528279
     },
     "2409:40c1:2158:5c46:f179:5a12:839e:b2c2": {
       "type": "series",
@@ -86892,7 +86892,7 @@
       "id": "tt0367110",
       "title": "tt0367110",
       "username": "zealousninja",
-      "lastActive": 1771208979051
+      "lastActive": 1771209083182
     }
   }
 }
