@@ -1,5 +1,5 @@
 {
-  "totalViews": 26284,
+  "totalViews": 26287,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5369,30 +5369,6 @@
     "2405:201:900f:a92b:551:5b54:1e0:f333"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0203259:27:1",
-      "title": "Law & Order: Special Victims Unit",
-      "timestamp": "2026-01-23T20:22:01.986Z",
-      "ip": "181.118.41.121",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt7335184:1:7",
-      "title": "tt7335184:1:7",
-      "timestamp": "2026-01-23T20:22:32.478Z",
-      "ip": "2402:3a80:18d5:9072:db44:396f:901d:2dc4",
-      "username": "schnom153"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-23T20:22:40.107Z",
-      "ip": "181.118.41.121",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt10799690",
@@ -85368,6 +85344,30 @@
       "timestamp": "2026-02-16T15:57:21.537Z",
       "ip": "116.68.64.13",
       "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-16T16:02:58.981Z",
+      "ip": "116.68.64.13",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-16T16:02:59.076Z",
+      "ip": "116.68.64.13",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt31969779",
+      "title": "tt31969779",
+      "timestamp": "2026-02-16T16:05:13.073Z",
+      "ip": "103.24.85.184",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -85765,10 +85765,10 @@
     },
     "103.24.85.184": {
       "type": "movie",
-      "id": "tt15464188",
-      "title": "tt15464188",
+      "id": "tt31969779",
+      "title": "tt31969779",
       "username": "william097",
-      "lastActive": 1771255696914
+      "lastActive": 1771257913073
     },
     "2409:40c1:2158:5c46:f179:5a12:839e:b2c2": {
       "type": "series",
@@ -87319,10 +87319,10 @@
     },
     "116.68.64.13": {
       "type": "series",
-      "id": "tt0411008:4:7",
-      "title": "Lost",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
       "username": "aravindsivan",
-      "lastActive": 1771257441537
+      "lastActive": 1771257779076
     }
   }
 }
