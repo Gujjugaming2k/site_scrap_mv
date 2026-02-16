@@ -1,5 +1,5 @@
 {
-  "totalViews": 26109,
+  "totalViews": 26111,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5324,25 +5324,11 @@
     "2409:40e5:101e:413:3529:e91c:de7b:c36",
     "117.204.108.88",
     "2409:40d0:244d:dcb5:8029:5851:b9c1:3166",
-    "2405:201:5c14:2a70:8b:ec7a:b3fc:8f63"
+    "2405:201:5c14:2a70:8b:ec7a:b3fc:8f63",
+    "2409:40d4:1069:88ee:247d:2aff:feea:62f8",
+    "2409:40d4:1069:88ee:247d:2aff:feea:62f8,51.89.197.91"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt36614693:1:1",
-      "title": "tt36614693:1:1",
-      "timestamp": "2026-01-23T19:28:27.840Z",
-      "ip": "212.116.231.26",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:5:13",
-      "title": "tt0903747:5:13",
-      "timestamp": "2026-01-23T19:28:31.562Z",
-      "ip": "182.69.183.164",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "movie",
       "id": "tt1433108",
@@ -85326,6 +85312,22 @@
       "timestamp": "2026-02-16T05:30:46.673Z",
       "ip": "2405:201:5c14:2a70:8b:ec7a:b3fc:8f63",
       "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt35149250:1:8",
+      "title": "tt35149250:1:8",
+      "timestamp": "2026-02-16T06:00:20.468Z",
+      "ip": "2409:40d4:1069:88ee:247d:2aff:feea:62f8",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt35149250:1:8",
+      "title": "tt35149250:1:8",
+      "timestamp": "2026-02-16T06:01:05.126Z",
+      "ip": "2409:40d4:1069:88ee:247d:2aff:feea:62f8,51.89.197.91",
+      "username": "bk18"
     }
   ],
   "activeNow": {
@@ -86973,6 +86975,20 @@
       "title": "tt27497448:1:6",
       "username": "extremeyat",
       "lastActive": 1771219846673
+    },
+    "2409:40d4:1069:88ee:247d:2aff:feea:62f8": {
+      "type": "series",
+      "id": "tt35149250:1:8",
+      "title": "tt35149250:1:8",
+      "username": "golu_vk",
+      "lastActive": 1771221620468
+    },
+    "2409:40d4:1069:88ee:247d:2aff:feea:62f8,51.89.197.91": {
+      "type": "series",
+      "id": "tt35149250:1:8",
+      "title": "tt35149250:1:8",
+      "username": "bk18",
+      "lastActive": 1771221665126
     }
   }
 }
