@@ -1,5 +1,5 @@
 {
-  "totalViews": 26290,
+  "totalViews": 26296,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5372,54 +5372,6 @@
     "2401:4900:8fc0:2ba8:34ec:1870:f979:b95d"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt10548174",
-      "title": "28 Years Later",
-      "timestamp": "2026-01-23T20:23:26.137Z",
-      "ip": "149.40.63.213",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt10752770:10:2",
-      "title": "tt10752770:10:2",
-      "timestamp": "2026-01-23T20:23:35.312Z",
-      "ip": "65.75.105.115",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt9398466:1:2",
-      "title": "tt9398466:1:2",
-      "timestamp": "2026-01-23T20:24:02.436Z",
-      "ip": "103.4.221.252",
-      "username": "sexhabibi"
-    },
-    {
-      "type": "movie",
-      "id": "tt31050594",
-      "title": "tt31050594",
-      "timestamp": "2026-01-23T20:24:06.074Z",
-      "ip": "148.170.150.34",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0098844:6:12",
-      "title": "tt0098844:6:12",
-      "timestamp": "2026-01-23T20:24:14.443Z",
-      "ip": "180.181.23.50",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt9398466:1:1",
-      "title": "tt9398466:1:1",
-      "timestamp": "2026-01-23T20:24:14.547Z",
-      "ip": "103.4.221.252",
-      "username": "sexhabibi"
-    },
     {
       "type": "series",
       "id": "tt1800864:6:7",
@@ -85371,6 +85323,54 @@
       "timestamp": "2026-02-16T16:29:14.231Z",
       "ip": "2401:4900:8fc0:2ba8:34ec:1870:f979:b95d",
       "username": "simonrileyxd"
+    },
+    {
+      "type": "series",
+      "id": "tt39299519:1:1",
+      "title": "tt39299519:1:1",
+      "timestamp": "2026-02-16T16:48:14.254Z",
+      "ip": "43.231.236.89",
+      "username": "claw_of_beliar"
+    },
+    {
+      "type": "series",
+      "id": "tt2375692:1:1",
+      "title": "tt2375692:1:1",
+      "timestamp": "2026-02-16T16:50:17.796Z",
+      "ip": "223.229.193.105",
+      "username": "user_9b"
+    },
+    {
+      "type": "series",
+      "id": "tt2375692:1:1",
+      "title": "tt2375692:1:1",
+      "timestamp": "2026-02-16T16:50:34.630Z",
+      "ip": "223.229.193.105",
+      "username": "user_9b"
+    },
+    {
+      "type": "series",
+      "id": "tt2375692:1:1",
+      "title": "tt2375692:1:1",
+      "timestamp": "2026-02-16T16:50:39.711Z",
+      "ip": "223.229.193.105",
+      "username": "user_9b"
+    },
+    {
+      "type": "movie",
+      "id": "tt0091530",
+      "title": "tt0091530",
+      "timestamp": "2026-02-16T16:53:00.254Z",
+      "ip": "205.254.185.163",
+      "username": "space_forca"
+    },
+    {
+      "type": "movie",
+      "id": "tt0083946",
+      "title": "tt0083946",
+      "timestamp": "2026-02-16T16:58:40.145Z",
+      "ip": "205.254.185.163",
+      "username": "space_forca"
     }
   ],
   "activeNow": {
@@ -87062,11 +87062,11 @@
       "lastActive": 1771228570729
     },
     "205.254.185.163": {
-      "type": "series",
-      "id": "tt30003786:3:8",
-      "title": "tt30003786:3:8",
+      "type": "movie",
+      "id": "tt0083946",
+      "title": "tt0083946",
       "username": "space_forca",
-      "lastActive": 1771228834416
+      "lastActive": 1771261120145
     },
     "152.59.33.54": {
       "type": "series",
@@ -87329,10 +87329,10 @@
     },
     "223.229.193.105": {
       "type": "series",
-      "id": "tt11311302:1:7",
-      "title": "tt11311302:1:7",
+      "id": "tt2375692:1:1",
+      "title": "tt2375692:1:1",
       "username": "user_9b",
-      "lastActive": 1771258928408
+      "lastActive": 1771260639711
     },
     "45.146.54.57": {
       "type": "movie",
@@ -87347,6 +87347,13 @@
       "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
       "username": "simonrileyxd",
       "lastActive": 1771259354231
+    },
+    "43.231.236.89": {
+      "type": "series",
+      "id": "tt39299519:1:1",
+      "title": "tt39299519:1:1",
+      "username": "claw_of_beliar",
+      "lastActive": 1771260494254
     }
   }
 }
