@@ -1,5 +1,5 @@
 {
-  "totalViews": 26276,
+  "totalViews": 26278,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5365,25 +5365,10 @@
     "2409:40c1:4001:8e8d:8000::",
     "2402:a00:10a:815f:511a:2996:c0c8:3a14",
     "202.173.124.185",
-    "2a09:bac5:3af1:86e::d7:3e"
+    "2a09:bac5:3af1:86e::d7:3e",
+    "2405:201:900f:a92b:551:5b54:1e0:f333"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt14850054",
-      "title": "tt14850054",
-      "timestamp": "2026-01-23T20:19:05.597Z",
-      "ip": "148.63.214.123",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt30343021",
-      "title": "tt30343021",
-      "timestamp": "2026-01-23T20:19:22.282Z",
-      "ip": "2600:8800:7501:f900:5d39:c07a:feb4:5a4a",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0075511:2:1",
@@ -85367,6 +85352,22 @@
       "timestamp": "2026-02-16T15:28:16.914Z",
       "ip": "103.24.85.184",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt0831387",
+      "title": "Godzilla",
+      "timestamp": "2026-02-16T15:37:04.241Z",
+      "ip": "2405:201:900f:a92b:551:5b54:1e0:f333",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt0831387",
+      "title": "Godzilla",
+      "timestamp": "2026-02-16T15:38:56.967Z",
+      "ip": "2405:201:900f:a92b:551:5b54:1e0:f333",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -87301,6 +87302,13 @@
       "title": "tt0108778:9:16",
       "username": "switchoff009",
       "lastActive": 1771255317519
+    },
+    "2405:201:900f:a92b:551:5b54:1e0:f333": {
+      "type": "movie",
+      "id": "tt0831387",
+      "title": "Godzilla",
+      "username": "theonlyfreak",
+      "lastActive": 1771256336967
     }
   }
 }
