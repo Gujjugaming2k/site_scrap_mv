@@ -1,5 +1,5 @@
 {
-  "totalViews": 26287,
+  "totalViews": 26290,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5366,33 +5366,12 @@
     "2402:a00:10a:815f:511a:2996:c0c8:3a14",
     "202.173.124.185",
     "2a09:bac5:3af1:86e::d7:3e",
-    "2405:201:900f:a92b:551:5b54:1e0:f333"
+    "2405:201:900f:a92b:551:5b54:1e0:f333",
+    "223.229.193.105",
+    "45.146.54.57",
+    "2401:4900:8fc0:2ba8:34ec:1870:f979:b95d"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt10799690",
-      "title": "tt10799690",
-      "timestamp": "2026-01-23T20:23:02.487Z",
-      "ip": "148.170.150.34",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt22868010",
-      "title": "tt22868010",
-      "timestamp": "2026-01-23T20:23:05.082Z",
-      "ip": "148.63.214.123",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt22868010",
-      "title": "tt22868010",
-      "timestamp": "2026-01-23T20:23:09.937Z",
-      "ip": "2a02:c7c:8e2:5d00:5962:d04e:d545:dc07",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt10548174",
@@ -85368,6 +85347,30 @@
       "timestamp": "2026-02-16T16:05:13.073Z",
       "ip": "103.24.85.184",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt11311302:1:7",
+      "title": "tt11311302:1:7",
+      "timestamp": "2026-02-16T16:22:08.408Z",
+      "ip": "223.229.193.105",
+      "username": "user_9b"
+    },
+    {
+      "type": "movie",
+      "id": "tt0060742",
+      "title": "tt0060742",
+      "timestamp": "2026-02-16T16:25:49.877Z",
+      "ip": "45.146.54.57",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt1790809",
+      "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "timestamp": "2026-02-16T16:29:14.231Z",
+      "ip": "2401:4900:8fc0:2ba8:34ec:1870:f979:b95d",
+      "username": "simonrileyxd"
     }
   ],
   "activeNow": {
@@ -87323,6 +87326,27 @@
       "title": "Stranger Things",
       "username": "aravindsivan",
       "lastActive": 1771257779076
+    },
+    "223.229.193.105": {
+      "type": "series",
+      "id": "tt11311302:1:7",
+      "title": "tt11311302:1:7",
+      "username": "user_9b",
+      "lastActive": 1771258928408
+    },
+    "45.146.54.57": {
+      "type": "movie",
+      "id": "tt0060742",
+      "title": "tt0060742",
+      "username": "theonlyfreak",
+      "lastActive": 1771259149877
+    },
+    "2401:4900:8fc0:2ba8:34ec:1870:f979:b95d": {
+      "type": "movie",
+      "id": "tt1790809",
+      "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "username": "simonrileyxd",
+      "lastActive": 1771259354231
     }
   }
 }
