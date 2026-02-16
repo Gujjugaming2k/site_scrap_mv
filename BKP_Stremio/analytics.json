@@ -1,5 +1,5 @@
 {
-  "totalViews": 26296,
+  "totalViews": 26299,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5369,33 +5369,11 @@
     "2405:201:900f:a92b:551:5b54:1e0:f333",
     "223.229.193.105",
     "45.146.54.57",
-    "2401:4900:8fc0:2ba8:34ec:1870:f979:b95d"
+    "2401:4900:8fc0:2ba8:34ec:1870:f979:b95d",
+    "2409:40e4:10ba:4830:81be:9b24:a1e8:634d",
+    "2409:40c4:3149:ea93:b0c6:6fff:fe55:cf86"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1800864:6:7",
-      "title": "tt1800864:6:7",
-      "timestamp": "2026-01-23T20:24:21.555Z",
-      "ip": "105.245.103.166",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt6470478:7:7",
-      "title": "tt6470478:7:7",
-      "timestamp": "2026-01-23T20:25:01.307Z",
-      "ip": "2a0a:ef40:440:7201:d6e6:3d6a:225d:3dd3",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-23T20:25:06.588Z",
-      "ip": "75.173.11.94",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0108778:10:3",
@@ -85371,6 +85349,30 @@
       "timestamp": "2026-02-16T16:58:40.145Z",
       "ip": "205.254.185.163",
       "username": "space_forca"
+    },
+    {
+      "type": "movie",
+      "id": "tt2016894",
+      "title": "tt2016894",
+      "timestamp": "2026-02-16T17:08:44.225Z",
+      "ip": "2409:40e4:10ba:4830:81be:9b24:a1e8:634d",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt0163651",
+      "title": "American Pie",
+      "timestamp": "2026-02-16T17:14:18.251Z",
+      "ip": "2409:40c4:3149:ea93:b0c6:6fff:fe55:cf86",
+      "username": "napsteerr"
+    },
+    {
+      "type": "movie",
+      "id": "tt4846340",
+      "title": "tt4846340",
+      "timestamp": "2026-02-16T17:14:31.545Z",
+      "ip": "2409:40c4:3149:ea93:b0c6:6fff:fe55:cf86",
+      "username": "napsteerr"
     }
   ],
   "activeNow": {
@@ -87354,6 +87356,20 @@
       "title": "tt39299519:1:1",
       "username": "claw_of_beliar",
       "lastActive": 1771260494254
+    },
+    "2409:40e4:10ba:4830:81be:9b24:a1e8:634d": {
+      "type": "movie",
+      "id": "tt2016894",
+      "title": "tt2016894",
+      "username": "askchm",
+      "lastActive": 1771261724225
+    },
+    "2409:40c4:3149:ea93:b0c6:6fff:fe55:cf86": {
+      "type": "movie",
+      "id": "tt4846340",
+      "title": "tt4846340",
+      "username": "napsteerr",
+      "lastActive": 1771262071545
     }
   }
 }
