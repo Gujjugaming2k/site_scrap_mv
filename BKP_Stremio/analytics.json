@@ -1,5 +1,5 @@
 {
-  "totalViews": 26100,
+  "totalViews": 26101,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5324,14 +5324,6 @@
     "2409:40e5:101e:413:3529:e91c:de7b:c36"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0760437:1:8",
-      "title": "tt0760437:1:8",
-      "timestamp": "2026-01-23T19:26:47.923Z",
-      "ip": "82.32.111.12",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt4236770:1:1",
@@ -85323,6 +85315,14 @@
       "timestamp": "2026-02-16T04:14:16.128Z",
       "ip": "2409:40e5:101e:413:3529:e91c:de7b:c36",
       "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt2872718",
+      "title": "Nightcrawler",
+      "timestamp": "2026-02-16T04:32:27.664Z",
+      "ip": "2409:40e6:3b:bfa0:90b1:5bff:feb2:230d",
+      "username": "nabakun24"
     }
   ],
   "activeNow": {
@@ -86850,7 +86850,7 @@
       "id": "tt2872718",
       "title": "Nightcrawler",
       "username": "nabakun24",
-      "lastActive": 1771180599062
+      "lastActive": 1771216347664
     },
     "2401:4900:aaf9:8958:20b2:df6a:bd35:13d0": {
       "type": "movie",
