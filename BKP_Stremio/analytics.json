@@ -1,5 +1,5 @@
 {
-  "totalViews": 26146,
+  "totalViews": 26154,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5337,73 +5337,10 @@
     "2405:201:2033:841:cf42:64c4:601e:3b7a",
     "152.58.36.116",
     "2409:40d4:40d3:1947:8000::",
-    "152.59.3.156"
+    "152.59.3.156",
+    "103.175.9.64"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "null",
-      "title": "null",
-      "timestamp": "2026-01-23T19:38:37.005Z",
-      "ip": "2a00:23ee:2078:1909:50f8:498c:ad68:b7ea",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt31841936",
-      "title": "tt31841936",
-      "timestamp": "2026-01-23T19:38:53.552Z",
-      "ip": "2a00:23ee:2078:1909:50f8:498c:ad68:b7ea",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "null",
-      "title": "null",
-      "timestamp": "2026-01-23T19:39:02.556Z",
-      "ip": "2603:6080:1400:1ee0:55bf:b8b2:50cb:8f84",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt5071412:2:10",
-      "title": "tt5071412:2:10",
-      "timestamp": "2026-01-23T19:39:06.961Z",
-      "ip": "2601:805:c101:22f0:98ac:534b:7649:e5b6",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt32499731:1:1",
-      "title": "tt32499731:1:1",
-      "timestamp": "2026-01-23T19:40:26.400Z",
-      "ip": "63.143.116.237",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt1757678",
-      "title": "tt1757678",
-      "timestamp": "2026-01-23T19:40:38.526Z",
-      "ip": "185.70.139.109",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-23T19:41:34.477Z",
-      "ip": "137.191.237.230",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0092644",
-      "title": "tt0092644",
-      "timestamp": "2026-01-23T19:41:40.341Z",
-      "ip": "80.47.249.173",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt32642706",
@@ -85339,6 +85276,70 @@
       "timestamp": "2026-02-16T08:40:51.130Z",
       "ip": "103.24.85.184",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt5201864:1:1",
+      "title": "tt5201864:1:1",
+      "timestamp": "2026-02-16T08:48:35.386Z",
+      "ip": "103.175.9.64",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "series",
+      "id": "tt5201864:1:2",
+      "title": "tt5201864:1:2",
+      "timestamp": "2026-02-16T08:48:50.003Z",
+      "ip": "103.175.9.64",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "movie",
+      "id": "tt0325527",
+      "title": "tt0325527",
+      "timestamp": "2026-02-16T08:50:08.137Z",
+      "ip": "103.175.9.64",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "movie",
+      "id": "tt1538293",
+      "title": "tt1538293",
+      "timestamp": "2026-02-16T08:50:15.859Z",
+      "ip": "103.175.9.64",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "series",
+      "id": "tt3175266:1:1",
+      "title": "tt3175266:1:1",
+      "timestamp": "2026-02-16T08:51:00.560Z",
+      "ip": "103.175.9.64",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "series",
+      "id": "tt5201128:1:1",
+      "title": "tt5201128:1:1",
+      "timestamp": "2026-02-16T08:51:30.420Z",
+      "ip": "103.175.9.64",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "series",
+      "id": "tt5201128:1:1",
+      "title": "tt5201128:1:1",
+      "timestamp": "2026-02-16T08:51:38.290Z",
+      "ip": "103.175.9.64",
+      "username": "chouhanji007"
+    },
+    {
+      "type": "series",
+      "id": "tt0112064:1:1",
+      "title": "tt0112064:1:1",
+      "timestamp": "2026-02-16T08:52:05.092Z",
+      "ip": "103.175.9.64",
+      "username": "chouhanji007"
     }
   ],
   "activeNow": {
@@ -87077,6 +87078,13 @@
       "title": "Stranger Things",
       "username": "belimhuzaifa",
       "lastActive": 1771230851061
+    },
+    "103.175.9.64": {
+      "type": "series",
+      "id": "tt0112064:1:1",
+      "title": "tt0112064:1:1",
+      "username": "chouhanji007",
+      "lastActive": 1771231925092
     }
   }
 }
