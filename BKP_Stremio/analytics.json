@@ -1,5 +1,5 @@
 {
-  "totalViews": 26111,
+  "totalViews": 26114,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5326,33 +5326,10 @@
     "2409:40d0:244d:dcb5:8029:5851:b9c1:3166",
     "2405:201:5c14:2a70:8b:ec7a:b3fc:8f63",
     "2409:40d4:1069:88ee:247d:2aff:feea:62f8",
-    "2409:40d4:1069:88ee:247d:2aff:feea:62f8,51.89.197.91"
+    "2409:40d4:1069:88ee:247d:2aff:feea:62f8,51.89.197.91",
+    "2405:201:a40c:dba2:1cc4:75b6:74ba:6c48"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1433108",
-      "title": "tt1433108",
-      "timestamp": "2026-01-23T19:28:44.388Z",
-      "ip": "2600:100d:b14c:a2d1:aa06:2c0b:4f1:bc18",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "null",
-      "title": "null",
-      "timestamp": "2026-01-23T19:28:45.470Z",
-      "ip": "102.210.25.174",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "null:1:1",
-      "title": "null:1:1",
-      "timestamp": "2026-01-23T19:28:57.742Z",
-      "ip": "200.113.214.221",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt33095169",
@@ -85328,6 +85305,30 @@
       "timestamp": "2026-02-16T06:01:05.126Z",
       "ip": "2409:40d4:1069:88ee:247d:2aff:feea:62f8,51.89.197.91",
       "username": "bk18"
+    },
+    {
+      "type": "series",
+      "id": "tt1409055:1:1",
+      "title": "Dragon Ball Z Kai",
+      "timestamp": "2026-02-16T06:26:39.528Z",
+      "ip": "2405:201:a40c:dba2:1cc4:75b6:74ba:6c48",
+      "username": "crunchytoon01"
+    },
+    {
+      "type": "series",
+      "id": "tt1409055:1:1",
+      "title": "Dragon Ball Z Kai",
+      "timestamp": "2026-02-16T06:26:51.386Z",
+      "ip": "2405:201:a40c:dba2:1cc4:75b6:74ba:6c48",
+      "username": "crunchytoon01"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-16T06:27:29.744Z",
+      "ip": "2409:40d2:3013:137b:88de:71f5:1fe1:4888",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -86925,7 +86926,7 @@
       "id": "tt27543632",
       "title": "tt27543632",
       "username": "saurabhkaperwan",
-      "lastActive": 1771211563727
+      "lastActive": 1771223249744
     },
     "2401:4900:1c62:78a9:6d34:49c9:b227:738a": {
       "type": "movie",
@@ -86989,6 +86990,13 @@
       "title": "tt35149250:1:8",
       "username": "bk18",
       "lastActive": 1771221665126
+    },
+    "2405:201:a40c:dba2:1cc4:75b6:74ba:6c48": {
+      "type": "series",
+      "id": "tt1409055:1:1",
+      "title": "Dragon Ball Z Kai",
+      "username": "crunchytoon01",
+      "lastActive": 1771223211386
     }
   }
 }
