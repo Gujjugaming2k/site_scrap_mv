@@ -1,5 +1,5 @@
 {
-  "totalViews": 26247,
+  "totalViews": 26252,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5355,49 +5355,10 @@
     "104.28.209.151",
     "45.130.83.200",
     "2409:40e6:245:d715:ec92:f8ff:feb3:126f",
-    "2401:9640:801:d874:54a9:3cd:1ef5:26b4"
+    "2401:9640:801:d874:54a9:3cd:1ef5:26b4",
+    "38.254.182.12"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0072271",
-      "title": "tt0072271",
-      "timestamp": "2026-01-23T20:06:36.539Z",
-      "ip": "88.209.76.104",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt33028778",
-      "title": "tt33028778",
-      "timestamp": "2026-01-23T20:07:10.098Z",
-      "ip": "2601:152:681:f00:918a:e0d:c7ad:d584",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0111161",
-      "title": "The Shawshank Redemption",
-      "timestamp": "2026-01-23T20:07:37.172Z",
-      "ip": "82.18.167.71",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0898266:5:4",
-      "title": "tt0898266:5:4",
-      "timestamp": "2026-01-23T20:07:56.047Z",
-      "ip": "142.0.253.93",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt32367823:1:1",
-      "title": "tt32367823:1:1",
-      "timestamp": "2026-01-23T20:09:13.116Z",
-      "ip": "41.101.144.201",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt22868010",
@@ -85357,6 +85318,46 @@
       "timestamp": "2026-02-16T13:37:22.312Z",
       "ip": "139.5.196.103",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt15048614",
+      "title": "tt15048614",
+      "timestamp": "2026-02-16T13:38:57.214Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt0251127",
+      "title": "How to Lose a Guy in 10 Days",
+      "timestamp": "2026-02-16T13:40:30.820Z",
+      "ip": "38.254.182.12",
+      "username": "suprememayank"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-02-16T13:40:40.967Z",
+      "ip": "38.254.182.12",
+      "username": "suprememayank"
+    },
+    {
+      "type": "series",
+      "id": "tt31938062:1:4",
+      "title": "tt31938062:1:4",
+      "timestamp": "2026-02-16T13:42:00.822Z",
+      "ip": "2401:9640:801:d874:54a9:3cd:1ef5:26b4",
+      "username": "suprememayank"
+    },
+    {
+      "type": "movie",
+      "id": "tt0251127",
+      "title": "How to Lose a Guy in 10 Days",
+      "timestamp": "2026-02-16T13:43:23.343Z",
+      "ip": "2401:9640:801:d874:54a9:3cd:1ef5:26b4",
+      "username": "suprememayank"
     }
   ],
   "activeNow": {
@@ -85803,10 +85804,10 @@
     },
     "139.5.196.103": {
       "type": "movie",
-      "id": "tt30176955",
-      "title": "tt30176955",
+      "id": "tt15048614",
+      "title": "tt15048614",
       "username": "dillon_ka_shooter",
-      "lastActive": 1771249042312
+      "lastActive": 1771249137214
     },
     "2402:8100:2e07:92e2:c7b9:4175:52f9:8c1b": {
       "type": "series",
@@ -87216,11 +87217,18 @@
       "lastActive": 1771248770680
     },
     "2401:9640:801:d874:54a9:3cd:1ef5:26b4": {
-      "type": "series",
-      "id": "tt31938062:1:4",
-      "title": "tt31938062:1:4",
+      "type": "movie",
+      "id": "tt0251127",
+      "title": "How to Lose a Guy in 10 Days",
       "username": "suprememayank",
-      "lastActive": 1771248955895
+      "lastActive": 1771249403343
+    },
+    "38.254.182.12": {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "username": "suprememayank",
+      "lastActive": 1771249240967
     }
   }
 }
