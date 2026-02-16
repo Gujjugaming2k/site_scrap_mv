@@ -1,5 +1,5 @@
 {
-  "totalViews": 26085,
+  "totalViews": 26090,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5314,49 +5314,12 @@
     "2402:8100:2cd8:9e48:1c58:7d70:ee01:fcce",
     "190.250.228.161",
     "2409:40c4:1019:fad2:f07b:28ff:febe:52ea",
-    "2405:201:2022:b81c:50c1:a158:dba4:8041"
+    "2405:201:2022:b81c:50c1:a158:dba4:8041",
+    "2401:4900:88b9:fe8b:986e:8e76:d6d3:e7f2",
+    "2409:40e5:1043:5e7c:100b:50ff:fe4b:6187",
+    "2409:40d2:3013:137b:88de:71f5:1fe1:4888"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0903747:5:13",
-      "title": "tt0903747:5:13",
-      "timestamp": "2026-01-23T19:22:59.109Z",
-      "ip": "182.69.183.164",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt10676052",
-      "title": "The Fantastic 4: First Steps",
-      "timestamp": "2026-01-23T19:23:16.980Z",
-      "ip": "167.100.75.17",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0227972:27:52",
-      "title": "WWE SmackDown",
-      "timestamp": "2026-01-23T19:23:36.510Z",
-      "ip": "2409:40c2:10f:294e:d0bc:cbff:fecc:4d0",
-      "username": "agentmj47"
-    },
-    {
-      "type": "movie",
-      "id": "null",
-      "title": "null",
-      "timestamp": "2026-01-23T19:24:26.226Z",
-      "ip": "102.210.25.174",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0177746",
-      "title": "tt0177746",
-      "timestamp": "2026-01-23T19:24:27.442Z",
-      "ip": "2401:4900:8fed:c151:3318:1412:8638:1c6e",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt0903747:5:14",
@@ -85316,6 +85279,46 @@
       "timestamp": "2026-02-16T02:56:29.472Z",
       "ip": "103.46.200.43",
       "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-16T03:02:57.620Z",
+      "ip": "2401:4900:88b9:fe8b:986e:8e76:d6d3:e7f2",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt14905854",
+      "title": "tt14905854",
+      "timestamp": "2026-02-16T03:09:44.312Z",
+      "ip": "2401:4900:88b9:fe8b:986e:8e76:d6d3:e7f2",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt27564844",
+      "title": "tt27564844",
+      "timestamp": "2026-02-16T03:10:43.962Z",
+      "ip": "2409:40e5:1043:5e7c:100b:50ff:fe4b:6187",
+      "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt33307516",
+      "title": "tt33307516",
+      "timestamp": "2026-02-16T03:10:55.237Z",
+      "ip": "2401:4900:88b9:fe8b:986e:8e76:d6d3:e7f2",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-16T03:12:43.727Z",
+      "ip": "2409:40d2:3013:137b:88de:71f5:1fe1:4888",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -86893,6 +86896,27 @@
       "title": "tt0367110",
       "username": "zealousninja",
       "lastActive": 1771209083182
+    },
+    "2401:4900:88b9:fe8b:986e:8e76:d6d3:e7f2": {
+      "type": "movie",
+      "id": "tt33307516",
+      "title": "tt33307516",
+      "username": "b1jju",
+      "lastActive": 1771211455237
+    },
+    "2409:40e5:1043:5e7c:100b:50ff:fe4b:6187": {
+      "type": "movie",
+      "id": "tt27564844",
+      "title": "tt27564844",
+      "username": "magicmannn",
+      "lastActive": 1771211443962
+    },
+    "2409:40d2:3013:137b:88de:71f5:1fe1:4888": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "saurabhkaperwan",
+      "lastActive": 1771211563727
     }
   }
 }
