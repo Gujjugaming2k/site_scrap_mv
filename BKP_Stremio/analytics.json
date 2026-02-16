@@ -1,5 +1,5 @@
 {
-  "totalViews": 26093,
+  "totalViews": 26099,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5318,57 +5318,11 @@
     "2401:4900:88b9:fe8b:986e:8e76:d6d3:e7f2",
     "2409:40e5:1043:5e7c:100b:50ff:fe4b:6187",
     "2409:40d2:3013:137b:88de:71f5:1fe1:4888",
-    "2401:4900:1c62:78a9:6d34:49c9:b227:738a"
+    "2401:4900:1c62:78a9:6d34:49c9:b227:738a",
+    "2401:4900:1cb0:cfef:d9a4:ba7d:7d54:ca9d",
+    "2a09:bac6:d97e:a82::10c:2d"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt10676052",
-      "title": "The Fantastic 4: First Steps",
-      "timestamp": "2026-01-23T19:24:59.209Z",
-      "ip": "167.100.75.17",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt6103712:5:15",
-      "title": "tt6103712:5:15",
-      "timestamp": "2026-01-23T19:25:10.292Z",
-      "ip": "2601:380:8000:4730:c370:2e9c:46da:730b",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "null",
-      "title": "null",
-      "timestamp": "2026-01-23T19:25:23.539Z",
-      "ip": "2401:4900:8fed:c151:3318:1412:8638:1c6e",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt28498159",
-      "title": "tt28498159",
-      "timestamp": "2026-01-23T19:25:32.716Z",
-      "ip": "159.118.220.184",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt29921437:1:8",
-      "title": "tt29921437:1:8",
-      "timestamp": "2026-01-23T19:25:51.171Z",
-      "ip": "193.148.18.54",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
-      "timestamp": "2026-01-23T19:26:12.256Z",
-      "ip": "185.234.185.80",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt10676052",
@@ -85320,6 +85274,54 @@
       "timestamp": "2026-02-16T03:33:53.111Z",
       "ip": "2401:4900:1c62:78a9:6d34:49c9:b227:738a",
       "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt36926733",
+      "title": "tt36926733",
+      "timestamp": "2026-02-16T03:52:43.660Z",
+      "ip": "2401:4900:1cb0:cfef:d9a4:ba7d:7d54:ca9d",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "movie",
+      "id": "tt36926733",
+      "title": "tt36926733",
+      "timestamp": "2026-02-16T03:53:45.083Z",
+      "ip": "2401:4900:1cb0:cfef:d9a4:ba7d:7d54:ca9d",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:4",
+      "title": "tt27497448:1:4",
+      "timestamp": "2026-02-16T03:58:29.949Z",
+      "ip": "2a09:bac6:d97e:a82::10c:2d",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:4",
+      "title": "tt27497448:1:4",
+      "timestamp": "2026-02-16T03:58:40.101Z",
+      "ip": "2a09:bac6:d97e:a82::10c:2d",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:5",
+      "title": "tt27497448:1:5",
+      "timestamp": "2026-02-16T03:58:43.582Z",
+      "ip": "2a09:bac6:d97e:a82::10c:2d",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:6",
+      "title": "tt27497448:1:6",
+      "timestamp": "2026-02-16T03:59:17.265Z",
+      "ip": "2a09:bac6:d97e:a82::10c:2d",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -86925,6 +86927,20 @@
       "title": "The Pursuit of Happyness",
       "username": "katdenningssss",
       "lastActive": 1771212833111
+    },
+    "2401:4900:1cb0:cfef:d9a4:ba7d:7d54:ca9d": {
+      "type": "movie",
+      "id": "tt36926733",
+      "title": "tt36926733",
+      "username": "saisrinivas",
+      "lastActive": 1771214025083
+    },
+    "2a09:bac6:d97e:a82::10c:2d": {
+      "type": "series",
+      "id": "tt27497448:1:6",
+      "title": "tt27497448:1:6",
+      "username": "demon18319",
+      "lastActive": 1771214357265
     }
   }
 }
