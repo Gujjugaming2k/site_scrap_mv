@@ -1,5 +1,5 @@
 {
-  "totalViews": 26154,
+  "totalViews": 26158,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5338,41 +5338,13 @@
     "152.58.36.116",
     "2409:40d4:40d3:1947:8000::",
     "152.59.3.156",
-    "103.175.9.64"
+    "103.175.9.64",
+    "2409:40d4:33:40e5:6406:1bff:fee8:3f0e",
+    "2409:40d4:33:40e5:6406:1bff:fee8:3f0e,51.89.197.91",
+    "2405:201:2033:841:509c:6273:22da:8bff",
+    "152.59.235.112"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-23T19:41:48.310Z",
-      "ip": "137.191.237.230",
-      "username": "anonymous"
-    },
-    {
-      "type": "movie",
-      "id": "tt0109254",
-      "title": "tt0109254",
-      "timestamp": "2026-01-23T19:41:59.761Z",
-      "ip": "80.47.249.173",
-      "username": "anonymous"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:5:13",
-      "title": "tt0903747:5:13",
-      "timestamp": "2026-01-23T19:42:14.894Z",
-      "ip": "182.69.179.34",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt0460681:10:5",
-      "title": "Supernatural",
-      "timestamp": "2026-01-23T19:42:26.798Z",
-      "ip": "2607:f2c0:e78c:1110:c9c6:5fef:cd24:c9ef",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt31613162",
@@ -85340,6 +85312,38 @@
       "timestamp": "2026-02-16T08:52:05.092Z",
       "ip": "103.175.9.64",
       "username": "chouhanji007"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:5",
+      "title": "tt27497448:1:5",
+      "timestamp": "2026-02-16T09:05:30.924Z",
+      "ip": "2409:40d4:33:40e5:6406:1bff:fee8:3f0e",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:5",
+      "title": "tt27497448:1:5",
+      "timestamp": "2026-02-16T09:05:31.089Z",
+      "ip": "2409:40d4:33:40e5:6406:1bff:fee8:3f0e,51.89.197.91",
+      "username": "bk18"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-16T09:06:00.184Z",
+      "ip": "2405:201:2033:841:509c:6273:22da:8bff",
+      "username": "surti_lala"
+    },
+    {
+      "type": "movie",
+      "id": "tt0351283",
+      "title": "Madagascar",
+      "timestamp": "2026-02-16T09:09:30.964Z",
+      "ip": "152.59.235.112",
+      "username": "napsteerr"
     }
   ],
   "activeNow": {
@@ -87085,6 +87089,34 @@
       "title": "tt0112064:1:1",
       "username": "chouhanji007",
       "lastActive": 1771231925092
+    },
+    "2409:40d4:33:40e5:6406:1bff:fee8:3f0e": {
+      "type": "series",
+      "id": "tt27497448:1:5",
+      "title": "tt27497448:1:5",
+      "username": "golu_vk",
+      "lastActive": 1771232730924
+    },
+    "2409:40d4:33:40e5:6406:1bff:fee8:3f0e,51.89.197.91": {
+      "type": "series",
+      "id": "tt27497448:1:5",
+      "title": "tt27497448:1:5",
+      "username": "bk18",
+      "lastActive": 1771232731089
+    },
+    "2405:201:2033:841:509c:6273:22da:8bff": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "surti_lala",
+      "lastActive": 1771232760184
+    },
+    "152.59.235.112": {
+      "type": "movie",
+      "id": "tt0351283",
+      "title": "Madagascar",
+      "username": "napsteerr",
+      "lastActive": 1771232970964
     }
   }
 }
