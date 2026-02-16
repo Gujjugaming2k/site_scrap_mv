@@ -1,5 +1,5 @@
 {
-  "totalViews": 26092,
+  "totalViews": 26093,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5317,17 +5317,10 @@
     "2405:201:2022:b81c:50c1:a158:dba4:8041",
     "2401:4900:88b9:fe8b:986e:8e76:d6d3:e7f2",
     "2409:40e5:1043:5e7c:100b:50ff:fe4b:6187",
-    "2409:40d2:3013:137b:88de:71f5:1fe1:4888"
+    "2409:40d2:3013:137b:88de:71f5:1fe1:4888",
+    "2401:4900:1c62:78a9:6d34:49c9:b227:738a"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "null",
-      "title": "null",
-      "timestamp": "2026-01-23T19:24:55.616Z",
-      "ip": "2401:4900:8fed:c151:3318:1412:8638:1c6e",
-      "username": "anonymous"
-    },
     {
       "type": "movie",
       "id": "tt10676052",
@@ -85319,6 +85312,14 @@
       "timestamp": "2026-02-16T03:20:10.305Z",
       "ip": "2409:40e5:1043:5e7c:100b:50ff:fe4b:6187",
       "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt0454921",
+      "title": "The Pursuit of Happyness",
+      "timestamp": "2026-02-16T03:33:53.111Z",
+      "ip": "2401:4900:1c62:78a9:6d34:49c9:b227:738a",
+      "username": "katdenningssss"
     }
   ],
   "activeNow": {
@@ -86917,6 +86918,13 @@
       "title": "tt27543632",
       "username": "saurabhkaperwan",
       "lastActive": 1771211563727
+    },
+    "2401:4900:1c62:78a9:6d34:49c9:b227:738a": {
+      "type": "movie",
+      "id": "tt0454921",
+      "title": "The Pursuit of Happyness",
+      "username": "katdenningssss",
+      "lastActive": 1771212833111
     }
   }
 }
