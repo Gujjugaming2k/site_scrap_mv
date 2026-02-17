@@ -1,5 +1,5 @@
 {
-  "totalViews": 26444,
+  "totalViews": 26446,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5400,25 +5400,10 @@
     "2409:40e3:20:270b:8000::",
     "110.235.239.44",
     "2405:201:900f:a92b:80be:9c63:4e57:cd90",
-    "45.131.193.135"
+    "45.131.193.135",
+    "23.94.155.144"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt33035373:1:1",
-      "title": "tt33035373:1:1",
-      "timestamp": "2026-01-24T15:21:15.380Z",
-      "ip": "2409:40f0:103b:20c0:e816:9dff:fe18:488d",
-      "username": "rick grimes"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-24T15:22:05.566Z",
-      "ip": "2409:40f0:103b:20c0:e816:9dff:fe18:488d",
-      "username": "rick grimes"
-    },
     {
       "type": "movie",
       "id": "tt32642706",
@@ -85402,6 +85387,22 @@
       "timestamp": "2026-02-17T08:06:06.327Z",
       "ip": "49.47.153.233",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt0107290",
+      "title": "Jurassic Park",
+      "timestamp": "2026-02-17T08:12:10.484Z",
+      "ip": "23.94.155.144",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt0107290",
+      "title": "Jurassic Park",
+      "timestamp": "2026-02-17T08:12:15.996Z",
+      "ip": "23.94.155.144",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -87616,6 +87617,13 @@
       "title": "Jurassic Park",
       "username": "theonlyfreak",
       "lastActive": 1771315566327
+    },
+    "23.94.155.144": {
+      "type": "movie",
+      "id": "tt0107290",
+      "title": "Jurassic Park",
+      "username": "theonlyfreak",
+      "lastActive": 1771315935996
     }
   }
 }
