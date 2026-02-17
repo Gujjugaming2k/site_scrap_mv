@@ -1,5 +1,5 @@
 {
-  "totalViews": 26400,
+  "totalViews": 26402,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5394,22 +5394,6 @@
     "2603:3003:3544:6700:9057:5f83:cad9:43c3"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt35300838",
-      "title": "tt35300838",
-      "timestamp": "2026-01-24T12:43:16.841Z",
-      "ip": "2409:40c0:104a:99e2:b0db:d7ff:feee:95e5",
-      "username": "oo0o0a0o0oo"
-    },
-    {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
-      "timestamp": "2026-01-24T12:43:44.290Z",
-      "ip": "2409:40c0:104a:99e2:b0db:d7ff:feee:95e5",
-      "username": "oo0o0a0o0oo"
-    },
     {
       "type": "movie",
       "id": "tt10548174",
@@ -85393,6 +85377,22 @@
       "timestamp": "2026-02-17T05:02:39.398Z",
       "ip": "2603:3003:3544:6700:9057:5f83:cad9:43c3",
       "username": "anupambabu_97"
+    },
+    {
+      "type": "movie",
+      "id": "tt14279982",
+      "title": "tt14279982",
+      "timestamp": "2026-02-17T05:09:50.827Z",
+      "ip": "103.70.147.203",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt0463650",
+      "title": "tt0463650",
+      "timestamp": "2026-02-17T05:14:00.018Z",
+      "ip": "2603:3003:3544:6700:9057:5f83:cad9:43c3",
+      "username": "anupambabu_97"
     }
   ],
   "activeNow": {
@@ -87197,10 +87197,10 @@
     },
     "103.70.147.203": {
       "type": "movie",
-      "id": "tt11490170",
-      "title": "tt11490170",
+      "id": "tt14279982",
+      "title": "tt14279982",
       "username": "gaendaswami",
-      "lastActive": 1771303907120
+      "lastActive": 1771304990827
     },
     "2409:40f2:2089:b85a:2d80:48f4:4c1d:596b": {
       "type": "series",
@@ -87533,10 +87533,10 @@
     },
     "2603:3003:3544:6700:9057:5f83:cad9:43c3": {
       "type": "movie",
-      "id": "tt34623207",
-      "title": "tt34623207",
+      "id": "tt0463650",
+      "title": "tt0463650",
       "username": "anupambabu_97",
-      "lastActive": 1771304559398
+      "lastActive": 1771305240018
     }
   }
 }
