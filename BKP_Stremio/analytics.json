@@ -1,5 +1,5 @@
 {
-  "totalViews": 26548,
+  "totalViews": 26551,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5430,30 +5430,6 @@
     "2405:201:203e:b01c:d2cc:b657:7cac:ff79"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt38990492:1:3",
-      "title": "tt38990492:1:3",
-      "timestamp": "2026-01-24T20:50:21.527Z",
-      "ip": "190.140.187.206",
-      "username": "ymcinema"
-    },
-    {
-      "type": "series",
-      "id": "tt38990492:1:3",
-      "title": "tt38990492:1:3",
-      "timestamp": "2026-01-24T20:51:59.583Z",
-      "ip": "190.140.187.206",
-      "username": "ymcinema"
-    },
-    {
-      "type": "series",
-      "id": "tt38990492:1:2",
-      "title": "tt38990492:1:2",
-      "timestamp": "2026-01-24T20:55:26.291Z",
-      "ip": "190.140.187.206",
-      "username": "ymcinema"
-    },
     {
       "type": "movie",
       "id": "tt32642706",
@@ -85429,6 +85405,30 @@
       "timestamp": "2026-02-17T12:35:56.268Z",
       "ip": "2409:40c1:402c:64be:8000::",
       "username": "belimhuzaifa"
+    },
+    {
+      "type": "series",
+      "id": "tt19244304:1:5",
+      "title": "tt19244304:1:5",
+      "timestamp": "2026-02-17T12:36:37.272Z",
+      "ip": "2409:40c1:402c:64be:8000::",
+      "username": "belimhuzaifa"
+    },
+    {
+      "type": "movie",
+      "id": "tt34623207",
+      "title": "tt34623207",
+      "timestamp": "2026-02-17T12:43:05.542Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt0120338",
+      "title": "Titanic",
+      "timestamp": "2026-02-17T12:50:56.805Z",
+      "ip": "2409:40e5:1135:6880:3cec:d7ff:feee:3a05",
+      "username": "skssunilbh"
     }
   ],
   "activeNow": {
@@ -85903,10 +85903,10 @@
     },
     "116.68.74.159": {
       "type": "movie",
-      "id": "tt4851630",
-      "title": "tt4851630",
+      "id": "tt34623207",
+      "title": "tt34623207",
       "username": "aravindsivan",
-      "lastActive": 1771329351350
+      "lastActive": 1771332185542
     },
     "2405:201:682e:6839:1f92:2fc:ba55:6b57": {
       "type": "series",
@@ -87597,10 +87597,10 @@
     },
     "2409:40e5:1135:6880:3cec:d7ff:feee:3a05": {
       "type": "movie",
-      "id": "tt24750702",
-      "title": "tt24750702",
+      "id": "tt0120338",
+      "title": "Titanic",
       "username": "skssunilbh",
-      "lastActive": 1771314363511
+      "lastActive": 1771332656805
     },
     "2401:4900:7b19:611b:c089:3aff:fe81:6484": {
       "type": "movie",
@@ -87821,10 +87821,10 @@
     },
     "2409:40c1:402c:64be:8000::": {
       "type": "series",
-      "id": "tt2306299:1:1",
-      "title": "tt2306299:1:1",
+      "id": "tt19244304:1:5",
+      "title": "tt19244304:1:5",
       "username": "belimhuzaifa",
-      "lastActive": 1771331756268
+      "lastActive": 1771331797272
     },
     "2409:40c1:1011:ef9d:f53b:6dff:32d9:8c00": {
       "type": "movie",
