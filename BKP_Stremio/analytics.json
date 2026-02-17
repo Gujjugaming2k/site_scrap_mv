@@ -1,5 +1,5 @@
 {
-  "totalViews": 26770,
+  "totalViews": 26772,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5476,22 +5476,6 @@
     "2401:4900:5775:2502:4cee:8a7c:20da:2dac"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt28961625",
-      "title": "tt28961625",
-      "timestamp": "2026-01-25T09:48:18.946Z",
-      "ip": "103.24.85.218",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt8555488",
-      "title": "tt8555488",
-      "timestamp": "2026-01-25T09:52:12.702Z",
-      "ip": "38.134.138.246",
-      "username": "thala_75"
-    },
     {
       "type": "series",
       "id": "tt33035373:1:2",
@@ -85475,6 +85459,22 @@
       "timestamp": "2026-02-17T17:13:54.737Z",
       "ip": "103.98.208.20",
       "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt15464188",
+      "title": "tt15464188",
+      "timestamp": "2026-02-17T17:17:14.450Z",
+      "ip": "103.98.208.20",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-02-17T17:30:00.560Z",
+      "ip": "2409:40e5:2085:537a:c860:4dff:fe11:4aa3",
+      "username": "cyberboy12321"
     }
   ],
   "activeNow": {
@@ -88028,10 +88028,10 @@
     },
     "103.98.208.20": {
       "type": "movie",
-      "id": "tt1705772",
-      "title": "tt1705772",
+      "id": "tt15464188",
+      "title": "tt15464188",
       "username": "thala_75",
-      "lastActive": 1771348434737
+      "lastActive": 1771348634450
     },
     "2a09:bac5:3af1:86e::d7:50": {
       "type": "movie",
@@ -88160,11 +88160,11 @@
       "lastActive": 1771344707983
     },
     "2409:40e5:2085:537a:c860:4dff:fe11:4aa3": {
-      "type": "movie",
-      "id": "tt0172495",
-      "title": "Gladiator",
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
       "username": "cyberboy12321",
-      "lastActive": 1771345005987
+      "lastActive": 1771349400560
     },
     "2405:201:203e:b800:60aa:e2a6:6321:4ef4": {
       "type": "movie",
