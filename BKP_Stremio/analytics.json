@@ -1,5 +1,5 @@
 {
-  "totalViews": 26494,
+  "totalViews": 26499,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5415,49 +5415,11 @@
     "2a09:bac5:3b57:11c3::1c5:88",
     "2401:4900:ac12:cfd5:24d2:3312:64ef:4bc8",
     "103.161.223.11",
-    "223.190.246.215"
+    "223.190.246.215",
+    "2409:40e4:11f1:dffa:68a7:7eff:fe3e:5784",
+    "152.59.155.69"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt12361974",
-      "title": "Zack Snyder's Justice League",
-      "timestamp": "2026-01-24T17:51:48.237Z",
-      "ip": "2409:40e6:2b:cb9a:c8ff:68ff:fe9c:6a90",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-24T17:56:35.118Z",
-      "ip": "2409:4085:ae81:e6ff:8025:48c0:c857:c9e0",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-24T17:56:52.804Z",
-      "ip": "2409:4085:ae81:e6ff:8025:48c0:c857:c9e0",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt3402138",
-      "title": "The Naked Gun",
-      "timestamp": "2026-01-24T17:58:02.747Z",
-      "ip": "2409:4085:ae81:e6ff:8025:48c0:c857:c9e0",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt1160419",
-      "title": "Dune",
-      "timestamp": "2026-01-24T17:58:25.895Z",
-      "ip": "2409:4085:ae81:e6ff:8025:48c0:c857:c9e0",
-      "username": "katdenningssss"
-    },
     {
       "type": "movie",
       "id": "tt28102562",
@@ -85417,6 +85379,46 @@
       "timestamp": "2026-02-17T10:38:14.179Z",
       "ip": "223.190.246.215",
       "username": "user_9b"
+    },
+    {
+      "type": "movie",
+      "id": "tt0347304",
+      "title": "tt0347304",
+      "timestamp": "2026-02-17T10:47:29.858Z",
+      "ip": "182.77.76.58",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt32897959",
+      "title": "tt32897959",
+      "timestamp": "2026-02-17T10:54:19.533Z",
+      "ip": "2409:40e4:11f1:dffa:68a7:7eff:fe3e:5784",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt32897959",
+      "title": "tt32897959",
+      "timestamp": "2026-02-17T10:54:29.143Z",
+      "ip": "2409:40e4:11f1:dffa:68a7:7eff:fe3e:5784",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt32897959",
+      "title": "tt32897959",
+      "timestamp": "2026-02-17T10:54:42.135Z",
+      "ip": "2409:40e4:11f1:dffa:68a7:7eff:fe3e:5784",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt32897959",
+      "title": "tt32897959",
+      "timestamp": "2026-02-17T10:54:42.820Z",
+      "ip": "152.59.155.69",
+      "username": "cyberboy12321"
     }
   ],
   "activeNow": {
@@ -87213,11 +87215,11 @@
       "lastActive": 1771246674269
     },
     "182.77.76.58": {
-      "type": "series",
-      "id": "tt3007572:1:1",
-      "title": "tt3007572:1:1",
+      "type": "movie",
+      "id": "tt0347304",
+      "title": "tt0347304",
       "username": "theaceofficials",
-      "lastActive": 1771314414198
+      "lastActive": 1771325249858
     },
     "103.70.147.203": {
       "type": "movie",
@@ -87736,6 +87738,20 @@
       "title": "tt2375692:1:1",
       "username": "user_9b",
       "lastActive": 1771324694179
+    },
+    "2409:40e4:11f1:dffa:68a7:7eff:fe3e:5784": {
+      "type": "movie",
+      "id": "tt32897959",
+      "title": "tt32897959",
+      "username": "cyberboy12321",
+      "lastActive": 1771325682135
+    },
+    "152.59.155.69": {
+      "type": "movie",
+      "id": "tt32897959",
+      "title": "tt32897959",
+      "username": "cyberboy12321",
+      "lastActive": 1771325682820
     }
   }
 }
