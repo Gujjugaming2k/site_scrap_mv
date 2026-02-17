@@ -1,5 +1,5 @@
 {
-  "totalViews": 26364,
+  "totalViews": 26365,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5380,17 +5380,10 @@
     "2401:4900:c33f:26cc:cad:29a3:887:b196",
     "2401:4900:8822:f599:ee90:41e2:516e:b50e",
     "106.222.213.223",
-    "2409:40c4:315e:dda5:a071:b7ff:fe06:5c71"
+    "2409:40c4:315e:dda5:a071:b7ff:fe06:5c71",
+    "103.46.200.217"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0390022",
-      "title": "tt0390022",
-      "timestamp": "2026-01-24T02:13:01.814Z",
-      "ip": "2607:fb90:8aa9:84eb:ed67:6c02:f7d1:a3e0",
-      "username": "anonymous"
-    },
     {
       "type": "series",
       "id": "tt35335046:1:1",
@@ -85382,6 +85375,14 @@
       "timestamp": "2026-02-17T00:28:14.570Z",
       "ip": "2409:40c4:315e:dda5:a071:b7ff:fe06:5c71",
       "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt32897959",
+      "title": "tt32897959",
+      "timestamp": "2026-02-17T01:09:27.013Z",
+      "ip": "103.46.200.217",
+      "username": "katdenningssss"
     }
   ],
   "activeNow": {
@@ -87449,6 +87450,13 @@
       "title": "tt0299108",
       "username": "b1jju",
       "lastActive": 1771288094570
+    },
+    "103.46.200.217": {
+      "type": "movie",
+      "id": "tt32897959",
+      "title": "tt32897959",
+      "username": "katdenningssss",
+      "lastActive": 1771290567013
     }
   }
 }
