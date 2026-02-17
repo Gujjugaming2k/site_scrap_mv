@@ -1,5 +1,5 @@
 {
-  "totalViews": 26722,
+  "totalViews": 26724,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5461,25 +5461,10 @@
     "157.48.87.230",
     "2402:a00:10a:815f:d4d2:9676:82cf:644c",
     "2402:a00:10a:815f:7268:34de:71c9:a12a",
-    "2409:40c0:1044:ef7d:b059:bd4a:bc22:debc"
+    "2409:40c0:1044:ef7d:b059:bd4a:bc22:debc",
+    "2405:201:2022:b81c:4d04:3307:6b14:c47"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt39313294:1:2",
-      "title": "tt39313294:1:2",
-      "timestamp": "2026-01-25T08:15:50.500Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:1",
-      "title": "Death Note",
-      "timestamp": "2026-01-25T08:17:49.652Z",
-      "ip": "2a09:bac5:3c91:1478::20a:48",
-      "username": "belimhuzaifa"
-    },
     {
       "type": "series",
       "id": "tt0877057:1:2",
@@ -85463,6 +85448,22 @@
       "timestamp": "2026-02-17T15:54:27.458Z",
       "ip": "2409:40c0:1044:ef7d:b059:bd4a:bc22:debc",
       "username": "anonymous050100"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:8:21",
+      "title": "tt0460649:8:21",
+      "timestamp": "2026-02-17T15:56:30.460Z",
+      "ip": "2409:40c0:1044:ef7d:cc97:1fff:fe23:3403",
+      "username": "anonymous050100"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-02-17T15:56:53.042Z",
+      "ip": "2405:201:2022:b81c:4d04:3307:6b14:c47",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -87917,11 +87918,11 @@
       "lastActive": 1771336318707
     },
     "2409:40c0:1044:ef7d:cc97:1fff:fe23:3403": {
-      "type": "movie",
-      "id": "tt31050594",
-      "title": "tt31050594",
+      "type": "series",
+      "id": "tt0460649:8:21",
+      "title": "tt0460649:8:21",
       "username": "anonymous050100",
-      "lastActive": 1771341672559
+      "lastActive": 1771343790460
     },
     "2401:4900:cad4:b2cb:707e:fdff:fe0b:dcfe": {
       "type": "movie",
@@ -88118,6 +88119,13 @@
       "title": "tt31050594",
       "username": "anonymous050100",
       "lastActive": 1771343667458
+    },
+    "2405:201:2022:b81c:4d04:3307:6b14:c47": {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "username": "zealousninja",
+      "lastActive": 1771343813042
     }
   }
 }
