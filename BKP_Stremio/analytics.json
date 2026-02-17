@@ -1,5 +1,5 @@
 {
-  "totalViews": 26858,
+  "totalViews": 26859,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5484,17 +5484,10 @@
     "47.15.69.30",
     "47.15.69.30,51.89.197.91",
     "122.161.241.143",
-    "2405:201:203e:b800:cf52:6de2:b451:1fc4"
+    "2405:201:203e:b800:cf52:6de2:b451:1fc4",
+    "2a09:bac5:3af1:86e::d7:51"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-25T13:07:34.527Z",
-      "ip": "2401:4900:6145:f2d3:58f:8554:f225:cee9",
-      "username": "pheonixcon"
-    },
     {
       "type": "movie",
       "id": "tt0241527",
@@ -85486,6 +85479,14 @@
       "timestamp": "2026-02-17T20:11:24.245Z",
       "ip": "2405:201:203e:b800:cf52:6de2:b451:1fc4",
       "username": "pingmenoone"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-02-17T20:27:29.246Z",
+      "ip": "2a09:bac5:3af1:86e::d7:51",
+      "username": "switchoff009"
     }
   ],
   "activeNow": {
@@ -88316,6 +88317,13 @@
       "title": "Game of Thrones",
       "username": "pingmenoone",
       "lastActive": 1771359084245
+    },
+    "2a09:bac5:3af1:86e::d7:51": {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "username": "switchoff009",
+      "lastActive": 1771360049246
     }
   }
 }
