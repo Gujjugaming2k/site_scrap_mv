@@ -1,5 +1,5 @@
 {
-  "totalViews": 26402,
+  "totalViews": 26404,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5391,25 +5391,10 @@
     "2409:40d4:4086:d4e4:8000::",
     "2409:40e4:2009:87a4:d05e:1cff:fed2:80e5",
     "2409:40c1:4108:c8a6:8000::",
-    "2603:3003:3544:6700:9057:5f83:cad9:43c3"
+    "2603:3003:3544:6700:9057:5f83:cad9:43c3",
+    "2401:4900:ae27:5b87:5545:467e:86fc:d2be"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt10548174",
-      "title": "28 Years Later",
-      "timestamp": "2026-01-24T12:45:59.525Z",
-      "ip": "2409:40c0:104a:99e2:b0db:d7ff:feee:95e5",
-      "username": "oo0o0a0o0oo"
-    },
-    {
-      "type": "series",
-      "id": "tt6468322:3:3",
-      "title": "tt6468322:3:3",
-      "timestamp": "2026-01-24T12:48:45.030Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
     {
       "type": "series",
       "id": "tt6468322:3:4",
@@ -85393,6 +85378,22 @@
       "timestamp": "2026-02-17T05:14:00.018Z",
       "ip": "2603:3003:3544:6700:9057:5f83:cad9:43c3",
       "username": "anupambabu_97"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:5:17",
+      "title": "tt0460649:5:17",
+      "timestamp": "2026-02-17T05:24:02.566Z",
+      "ip": "2a09:bac5:40d0:a82::10c:34",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt35149250:1:1",
+      "title": "tt35149250:1:1",
+      "timestamp": "2026-02-17T05:26:29.206Z",
+      "ip": "2401:4900:ae27:5b87:5545:467e:86fc:d2be",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -87480,7 +87481,7 @@
       "id": "tt0460649:5:17",
       "title": "tt0460649:5:17",
       "username": "demon18319",
-      "lastActive": 1771300922599
+      "lastActive": 1771305842566
     },
     "2401:4900:88d5:8287:5ca2:66f4:2e94:c5bd": {
       "type": "series",
@@ -87537,6 +87538,13 @@
       "title": "tt0463650",
       "username": "anupambabu_97",
       "lastActive": 1771305240018
+    },
+    "2401:4900:ae27:5b87:5545:467e:86fc:d2be": {
+      "type": "series",
+      "id": "tt35149250:1:1",
+      "title": "tt35149250:1:1",
+      "username": "vflix1993",
+      "lastActive": 1771305989206
     }
   }
 }
