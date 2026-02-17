@@ -1,5 +1,5 @@
 {
-  "totalViews": 26404,
+  "totalViews": 26406,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5392,25 +5392,10 @@
     "2409:40e4:2009:87a4:d05e:1cff:fed2:80e5",
     "2409:40c1:4108:c8a6:8000::",
     "2603:3003:3544:6700:9057:5f83:cad9:43c3",
-    "2401:4900:ae27:5b87:5545:467e:86fc:d2be"
+    "2401:4900:ae27:5b87:5545:467e:86fc:d2be",
+    "2402:3a80:16a1:c397:50a7:76ff:fe99:b595"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt6468322:3:4",
-      "title": "tt6468322:3:4",
-      "timestamp": "2026-01-24T12:50:19.575Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-24T13:25:50.688Z",
-      "ip": "2a09:bac5:3c7b:26fa::3e2:25",
-      "username": "belimhuzaifa"
-    },
     {
       "type": "movie",
       "id": "tt28142095",
@@ -85394,6 +85379,22 @@
       "timestamp": "2026-02-17T05:26:29.206Z",
       "ip": "2401:4900:ae27:5b87:5545:467e:86fc:d2be",
       "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt4851630",
+      "title": "tt4851630",
+      "timestamp": "2026-02-17T05:56:43.618Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-17T06:07:08.498Z",
+      "ip": "2402:3a80:16a1:c397:50a7:76ff:fe99:b595",
+      "username": "surti_lala"
     }
   ],
   "activeNow": {
@@ -85867,11 +85868,11 @@
       "lastActive": 1771063565927
     },
     "116.68.74.159": {
-      "type": "series",
-      "id": "tt0411008:4:7",
-      "title": "Lost",
+      "type": "movie",
+      "id": "tt4851630",
+      "title": "tt4851630",
       "username": "aravindsivan",
-      "lastActive": 1771266533861
+      "lastActive": 1771307803618
     },
     "2405:201:682e:6839:1f92:2fc:ba55:6b57": {
       "type": "series",
@@ -87545,6 +87546,13 @@
       "title": "tt35149250:1:1",
       "username": "vflix1993",
       "lastActive": 1771305989206
+    },
+    "2402:3a80:16a1:c397:50a7:76ff:fe99:b595": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "surti_lala",
+      "lastActive": 1771308428498
     }
   }
 }
