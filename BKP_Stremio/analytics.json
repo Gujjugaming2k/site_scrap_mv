@@ -1,5 +1,5 @@
 {
-  "totalViews": 26499,
+  "totalViews": 26502,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5420,30 +5420,6 @@
     "152.59.155.69"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt28102562",
-      "title": "tt28102562",
-      "timestamp": "2026-01-24T18:01:16.925Z",
-      "ip": "2a09:bac5:3af1:172d::24f:8",
-      "username": "switchoff009"
-    },
-    {
-      "type": "movie",
-      "id": "tt30472557",
-      "title": "Chainsaw Man - The Movie: Reze Arc",
-      "timestamp": "2026-01-24T18:01:21.456Z",
-      "ip": "2409:40d4:11:35d5:7837:3944:2a1e:1e98",
-      "username": "vivankumar"
-    },
-    {
-      "type": "movie",
-      "id": "tt30472557",
-      "title": "Chainsaw Man - The Movie: Reze Arc",
-      "timestamp": "2026-01-24T18:02:33.974Z",
-      "ip": "2409:40d4:11:35d5:7837:3944:2a1e:1e98",
-      "username": "vivankumar"
-    },
     {
       "type": "movie",
       "id": "tt26443597",
@@ -85419,6 +85395,30 @@
       "timestamp": "2026-02-17T10:54:42.820Z",
       "ip": "152.59.155.69",
       "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt2375692:1:2",
+      "title": "tt2375692:1:2",
+      "timestamp": "2026-02-17T11:10:42.254Z",
+      "ip": "223.190.246.215",
+      "username": "user_9b"
+    },
+    {
+      "type": "series",
+      "id": "tt2375692:1:2",
+      "title": "tt2375692:1:2",
+      "timestamp": "2026-02-17T11:10:57.145Z",
+      "ip": "223.190.246.215",
+      "username": "user_9b"
+    },
+    {
+      "type": "series",
+      "id": "tt0105941:1:1",
+      "title": "tt0105941:1:1",
+      "timestamp": "2026-02-17T11:13:13.622Z",
+      "ip": "154.208.49.98",
+      "username": "cutepupper"
     }
   ],
   "activeNow": {
@@ -87734,10 +87734,10 @@
     },
     "223.190.246.215": {
       "type": "series",
-      "id": "tt2375692:1:1",
-      "title": "tt2375692:1:1",
+      "id": "tt2375692:1:2",
+      "title": "tt2375692:1:2",
       "username": "user_9b",
-      "lastActive": 1771324694179
+      "lastActive": 1771326657145
     },
     "2409:40e4:11f1:dffa:68a7:7eff:fe3e:5784": {
       "type": "movie",
@@ -87752,6 +87752,13 @@
       "title": "tt32897959",
       "username": "cyberboy12321",
       "lastActive": 1771325682820
+    },
+    "154.208.49.98": {
+      "type": "series",
+      "id": "tt0105941:1:1",
+      "title": "tt0105941:1:1",
+      "username": "cutepupper",
+      "lastActive": 1771326793622
     }
   }
 }
