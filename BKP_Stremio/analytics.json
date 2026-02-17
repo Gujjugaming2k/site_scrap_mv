@@ -1,5 +1,5 @@
 {
-  "totalViews": 26388,
+  "totalViews": 26392,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5387,41 +5387,10 @@
     "2401:4900:88d5:8287:5ca2:66f4:2e94:c5bd",
     "2409:40c1:100b:bd33:f894:24a2:269b:7421",
     "146.70.246.103",
-    "2405:201:203e:b800:6da4:5b05:8249:72e2"
+    "2405:201:203e:b800:6da4:5b05:8249:72e2",
+    "2409:40d4:4086:d4e4:8000::"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1856101",
-      "title": "tt1856101",
-      "timestamp": "2026-01-24T12:07:02.615Z",
-      "ip": "2a09:bac1:36c0:1768::20a:49",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "movie",
-      "id": "tt22740896",
-      "title": "tt22740896",
-      "timestamp": "2026-01-24T12:07:37.575Z",
-      "ip": "2a09:bac1:36c0:5e98::49b:5",
-      "username": "demon18319"
-    },
-    {
-      "type": "movie",
-      "id": "tt6751668",
-      "title": "tt6751668",
-      "timestamp": "2026-01-24T12:09:34.804Z",
-      "ip": "146.70.202.76",
-      "username": "jinwoooooi"
-    },
-    {
-      "type": "movie",
-      "id": "tt1655389",
-      "title": "tt1655389",
-      "timestamp": "2026-01-24T12:10:30.388Z",
-      "ip": "2405:201:6820:a83c:bdef:55c1:5b2d:3408",
-      "username": "demon18319"
-    },
     {
       "type": "series",
       "id": "tt5753856:1:1",
@@ -85389,6 +85358,38 @@
       "timestamp": "2026-02-17T04:20:40.293Z",
       "ip": "2405:201:203e:b800:6da4:5b05:8249:72e2",
       "username": "pingmenoone"
+    },
+    {
+      "type": "movie",
+      "id": "tt38080054",
+      "title": "tt38080054",
+      "timestamp": "2026-02-17T04:42:12.859Z",
+      "ip": "2405:201:200d:906b:61b4:90be:921b:e63c",
+      "username": "kulu007"
+    },
+    {
+      "type": "movie",
+      "id": "tt14279982",
+      "title": "tt14279982",
+      "timestamp": "2026-02-17T04:47:33.619Z",
+      "ip": "103.70.147.203",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt13130760",
+      "title": "tt13130760",
+      "timestamp": "2026-02-17T04:50:16.427Z",
+      "ip": "103.70.147.203",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt0027529",
+      "title": "Disorder in the Court",
+      "timestamp": "2026-02-17T04:50:41.112Z",
+      "ip": "2409:40d4:4086:d4e4:8000::",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -86689,10 +86690,10 @@
     },
     "2405:201:200d:906b:61b4:90be:921b:e63c": {
       "type": "movie",
-      "id": "tt28961625",
-      "title": "tt28961625",
+      "id": "tt38080054",
+      "title": "tt38080054",
       "username": "kulu007",
-      "lastActive": 1771156236502
+      "lastActive": 1771303332859
     },
     "157.48.99.206": {
       "type": "series",
@@ -87193,10 +87194,10 @@
     },
     "103.70.147.203": {
       "type": "movie",
-      "id": "tt0458339",
-      "title": "Captain America: The First Avenger",
+      "id": "tt13130760",
+      "title": "tt13130760",
       "username": "gaendaswami",
-      "lastActive": 1771237080111
+      "lastActive": 1771303816427
     },
     "2409:40f2:2089:b85a:2d80:48f4:4c1d:596b": {
       "type": "series",
@@ -87505,6 +87506,13 @@
       "title": "tt31227572",
       "username": "pingmenoone",
       "lastActive": 1771302040293
+    },
+    "2409:40d4:4086:d4e4:8000::": {
+      "type": "movie",
+      "id": "tt0027529",
+      "title": "Disorder in the Court",
+      "username": "kdbotz",
+      "lastActive": 1771303841112
     }
   }
 }
