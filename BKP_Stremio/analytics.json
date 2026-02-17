@@ -1,5 +1,5 @@
 {
-  "totalViews": 26430,
+  "totalViews": 26434,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5397,41 +5397,10 @@
     "2409:40e5:1135:6880:6431:eeff:feaf:b62a",
     "2409:40e5:1135:6880:3cec:d7ff:feee:3a05",
     "2401:4900:7b19:611b:c089:3aff:fe81:6484",
-    "2409:40e3:20:270b:8000::"
+    "2409:40e3:20:270b:8000::",
+    "110.235.239.44"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-24T14:39:39.805Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:ebe::178:1c7",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:1:18",
-      "title": "Lost",
-      "timestamp": "2026-01-24T14:42:41.460Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:1:19",
-      "title": "Lost",
-      "timestamp": "2026-01-24T14:43:09.686Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt7466810",
-      "title": "tt7466810",
-      "timestamp": "2026-01-24T14:57:48.965Z",
-      "ip": "2402:a00:10a:815f:5906:f628:6dfd:ba91",
-      "username": "vflix1993"
-    },
     {
       "type": "movie",
       "id": "tt7466810",
@@ -85399,6 +85368,38 @@
       "timestamp": "2026-02-17T07:23:38.845Z",
       "ip": "116.68.74.159",
       "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt4302956",
+      "title": "tt4302956",
+      "timestamp": "2026-02-17T07:27:03.012Z",
+      "ip": "2409:40e3:20:270b:8000::",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt0442799",
+      "title": "tt0442799",
+      "timestamp": "2026-02-17T07:28:11.656Z",
+      "ip": "2409:40e3:20:270b:8000::",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:4:7",
+      "title": "Lost",
+      "timestamp": "2026-02-17T07:29:59.594Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt30387012",
+      "title": "tt30387012",
+      "timestamp": "2026-02-17T07:33:56.542Z",
+      "ip": "110.235.239.44",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -85872,11 +85873,11 @@
       "lastActive": 1771063565927
     },
     "116.68.74.159": {
-      "type": "movie",
-      "id": "tt4851630",
-      "title": "tt4851630",
+      "type": "series",
+      "id": "tt0411008:4:7",
+      "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1771313018845
+      "lastActive": 1771313399594
     },
     "2405:201:682e:6839:1f92:2fc:ba55:6b57": {
       "type": "series",
@@ -87581,10 +87582,17 @@
     },
     "2409:40e3:20:270b:8000::": {
       "type": "movie",
-      "id": "tt4302956",
-      "title": "tt4302956",
+      "id": "tt0442799",
+      "title": "tt0442799",
       "username": "infinityseeker",
-      "lastActive": 1771311529405
+      "lastActive": 1771313291656
+    },
+    "110.235.239.44": {
+      "type": "movie",
+      "id": "tt30387012",
+      "title": "tt30387012",
+      "username": "gaendaswami",
+      "lastActive": 1771313636542
     }
   }
 }
