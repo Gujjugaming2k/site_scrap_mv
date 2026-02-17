@@ -1,5 +1,5 @@
 {
-  "totalViews": 26724,
+  "totalViews": 26729,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5462,49 +5462,12 @@
     "2402:a00:10a:815f:d4d2:9676:82cf:644c",
     "2402:a00:10a:815f:7268:34de:71c9:a12a",
     "2409:40c0:1044:ef7d:b059:bd4a:bc22:debc",
-    "2405:201:2022:b81c:4d04:3307:6b14:c47"
+    "2405:201:2022:b81c:4d04:3307:6b14:c47",
+    "2409:40f0:11d:1a2e:68aa:6ff:fea5:f7cf",
+    "2405:201:203e:b800:48a0:99d8:1d5c:879",
+    "49.205.250.237"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0877057:1:2",
-      "title": "Death Note",
-      "timestamp": "2026-01-25T08:19:10.604Z",
-      "ip": "2a09:bac5:3c91:1478::20a:48",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:2",
-      "title": "Death Note",
-      "timestamp": "2026-01-25T08:21:11.562Z",
-      "ip": "2a09:bac5:3c91:1478::20a:48",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:6",
-      "title": "Death Note",
-      "timestamp": "2026-01-25T08:21:14.510Z",
-      "ip": "2a09:bac5:3c91:1478::20a:48",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:2",
-      "title": "Death Note",
-      "timestamp": "2026-01-25T08:22:02.413Z",
-      "ip": "2a09:bac5:3c91:1478::20a:48",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt0877057:1:2",
-      "title": "Death Note",
-      "timestamp": "2026-01-25T08:22:19.523Z",
-      "ip": "2a09:bac5:3c91:1478::20a:48",
-      "username": "belimhuzaifa"
-    },
     {
       "type": "series",
       "id": "tt39313294:1:2",
@@ -85464,6 +85427,46 @@
       "timestamp": "2026-02-17T15:56:53.042Z",
       "ip": "2405:201:2022:b81c:4d04:3307:6b14:c47",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt6882604",
+      "title": "tt6882604",
+      "timestamp": "2026-02-17T16:01:40.808Z",
+      "ip": "2405:201:2022:b81c:4d04:3307:6b14:c47",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt2330098",
+      "title": "tt2330098",
+      "timestamp": "2026-02-17T16:07:51.718Z",
+      "ip": "2409:40f0:11d:1a2e:68aa:6ff:fea5:f7cf",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt14209618",
+      "title": "tt14209618",
+      "timestamp": "2026-02-17T16:09:06.325Z",
+      "ip": "2409:40f0:11d:1a2e:68aa:6ff:fea5:f7cf",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "series",
+      "id": "tt14016500:3:9",
+      "title": "The Summer I Turned Pretty",
+      "timestamp": "2026-02-17T16:09:49.522Z",
+      "ip": "2405:201:203e:b800:48a0:99d8:1d5c:879",
+      "username": "ujas"
+    },
+    {
+      "type": "movie",
+      "id": "tt24060892",
+      "title": "tt24060892",
+      "timestamp": "2026-02-17T16:11:47.983Z",
+      "ip": "49.205.250.237",
+      "username": "nothingokk"
     }
   ],
   "activeNow": {
@@ -88122,10 +88125,31 @@
     },
     "2405:201:2022:b81c:4d04:3307:6b14:c47": {
       "type": "movie",
-      "id": "tt26443597",
-      "title": "tt26443597",
+      "id": "tt6882604",
+      "title": "tt6882604",
       "username": "zealousninja",
-      "lastActive": 1771343813042
+      "lastActive": 1771344100808
+    },
+    "2409:40f0:11d:1a2e:68aa:6ff:fea5:f7cf": {
+      "type": "movie",
+      "id": "tt14209618",
+      "title": "tt14209618",
+      "username": "sachinprem1",
+      "lastActive": 1771344546325
+    },
+    "2405:201:203e:b800:48a0:99d8:1d5c:879": {
+      "type": "series",
+      "id": "tt14016500:3:9",
+      "title": "The Summer I Turned Pretty",
+      "username": "ujas",
+      "lastActive": 1771344589522
+    },
+    "49.205.250.237": {
+      "type": "movie",
+      "id": "tt24060892",
+      "title": "tt24060892",
+      "username": "nothingokk",
+      "lastActive": 1771344707983
     }
   }
 }
