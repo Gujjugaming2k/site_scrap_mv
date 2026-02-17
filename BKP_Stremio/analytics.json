@@ -1,5 +1,5 @@
 {
-  "totalViews": 26446,
+  "totalViews": 26447,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5404,14 +5404,6 @@
     "23.94.155.144"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-24T15:23:17.783Z",
-      "ip": "2409:40f0:103b:20c0:e816:9dff:fe18:488d",
-      "username": "rick grimes"
-    },
     {
       "type": "series",
       "id": "tt31938062:2:3",
@@ -85403,6 +85395,14 @@
       "timestamp": "2026-02-17T08:12:15.996Z",
       "ip": "23.94.155.144",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt21998526",
+      "title": "tt21998526",
+      "timestamp": "2026-02-17T08:40:13.982Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -85849,10 +85849,10 @@
     },
     "139.5.196.103": {
       "type": "movie",
-      "id": "tt15048614",
-      "title": "tt15048614",
+      "id": "tt21998526",
+      "title": "tt21998526",
       "username": "dillon_ka_shooter",
-      "lastActive": 1771249137214
+      "lastActive": 1771317613982
     },
     "2402:8100:2e07:92e2:c7b9:4175:52f9:8c1b": {
       "type": "series",
