@@ -1,5 +1,5 @@
 {
-  "totalViews": 26729,
+  "totalViews": 26732,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5465,33 +5465,10 @@
     "2405:201:2022:b81c:4d04:3307:6b14:c47",
     "2409:40f0:11d:1a2e:68aa:6ff:fea5:f7cf",
     "2405:201:203e:b800:48a0:99d8:1d5c:879",
-    "49.205.250.237"
+    "49.205.250.237",
+    "2409:40e5:2085:537a:c860:4dff:fe11:4aa3"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt39313294:1:2",
-      "title": "tt39313294:1:2",
-      "timestamp": "2026-01-25T08:22:21.882Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "series",
-      "id": "tt39313294:1:2",
-      "title": "tt39313294:1:2",
-      "timestamp": "2026-01-25T08:24:08.519Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "movie",
-      "id": "tt1241317",
-      "title": "tt1241317",
-      "timestamp": "2026-01-25T08:25:30.725Z",
-      "ip": "2a09:bac5:3c91:1478::20a:48",
-      "username": "belimhuzaifa"
-    },
     {
       "type": "series",
       "id": "tt0877057:1:1",
@@ -85467,6 +85444,30 @@
       "timestamp": "2026-02-17T16:11:47.983Z",
       "ip": "49.205.250.237",
       "username": "nothingokk"
+    },
+    {
+      "type": "movie",
+      "id": "tt0172495",
+      "title": "Gladiator",
+      "timestamp": "2026-02-17T16:15:47.898Z",
+      "ip": "2409:40e5:2085:537a:c860:4dff:fe11:4aa3",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt0172495",
+      "title": "Gladiator",
+      "timestamp": "2026-02-17T16:16:45.987Z",
+      "ip": "2409:40e5:2085:537a:c860:4dff:fe11:4aa3",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "timestamp": "2026-02-17T16:25:47.967Z",
+      "ip": "2409:40c0:1044:ef7d:b059:bd4a:bc22:debc",
+      "username": "anonymous050100"
     }
   ],
   "activeNow": {
@@ -88121,7 +88122,7 @@
       "id": "tt31050594",
       "title": "tt31050594",
       "username": "anonymous050100",
-      "lastActive": 1771343667458
+      "lastActive": 1771345547967
     },
     "2405:201:2022:b81c:4d04:3307:6b14:c47": {
       "type": "movie",
@@ -88150,6 +88151,13 @@
       "title": "tt24060892",
       "username": "nothingokk",
       "lastActive": 1771344707983
+    },
+    "2409:40e5:2085:537a:c860:4dff:fe11:4aa3": {
+      "type": "movie",
+      "id": "tt0172495",
+      "title": "Gladiator",
+      "username": "cyberboy12321",
+      "lastActive": 1771345005987
     }
   }
 }
