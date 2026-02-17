@@ -1,5 +1,5 @@
 {
-  "totalViews": 26806,
+  "totalViews": 26811,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5479,49 +5479,10 @@
     "2405:201:203e:b800:a42e:8f9e:330b:c3bd",
     "2409:40d0:ba:9368:74f3:8fff:fe20:e936",
     "2001:4490:4e65:9d2c:3c8:16ce:974a:26aa",
-    "2405:201:203e:b800:74cd:ed5:b0ab:9ea6"
+    "2405:201:203e:b800:74cd:ed5:b0ab:9ea6",
+    "2405:201:2033:841:3d90:47a1:44f2:13ea"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-25T11:03:20.369Z",
-      "ip": "2401:4900:8fe2:d6e9:1239:3c73:362:2569",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "series",
-      "id": "tt9813792:1:1",
-      "title": "tt9813792:1:1",
-      "timestamp": "2026-01-25T11:06:39.915Z",
-      "ip": "146.70.102.204",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt9813792:1:1",
-      "title": "tt9813792:1:1",
-      "timestamp": "2026-01-25T11:06:48.157Z",
-      "ip": "146.70.102.204",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-25T11:07:07.415Z",
-      "ip": "146.70.102.204",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-01-25T11:08:14.851Z",
-      "ip": "146.70.102.204",
-      "username": "belimhuzaifa"
-    },
     {
       "type": "movie",
       "id": "tt34984715",
@@ -85481,6 +85442,46 @@
       "timestamp": "2026-02-17T18:43:17.446Z",
       "ip": "103.46.200.217",
       "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-02-17T18:48:02.958Z",
+      "ip": "103.46.200.217",
+      "username": "brosportses"
+    },
+    {
+      "type": "movie",
+      "id": "tt31844586",
+      "title": "tt31844586",
+      "timestamp": "2026-02-17T18:51:05.313Z",
+      "ip": "2405:201:2033:841:3d90:47a1:44f2:13ea",
+      "username": "surti_lala"
+    },
+    {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "timestamp": "2026-02-17T18:51:21.107Z",
+      "ip": "103.46.200.217",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt35149250:1:2",
+      "title": "tt35149250:1:2",
+      "timestamp": "2026-02-17T18:52:34.711Z",
+      "ip": "2402:a00:10a:815f:8c31:59dc:2f97:5f83",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt11663228",
+      "title": "tt11663228",
+      "timestamp": "2026-02-17T18:58:38.069Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -85954,11 +85955,11 @@
       "lastActive": 1771063565927
     },
     "116.68.74.159": {
-      "type": "series",
-      "id": "tt0411008:4:7",
-      "title": "Lost",
+      "type": "movie",
+      "id": "tt11663228",
+      "title": "tt11663228",
       "username": "aravindsivan",
-      "lastActive": 1771353604658
+      "lastActive": 1771354718069
     },
     "2405:201:682e:6839:1f92:2fc:ba55:6b57": {
       "type": "series",
@@ -87551,10 +87552,10 @@
     },
     "103.46.200.217": {
       "type": "movie",
-      "id": "tt0120382",
-      "title": "The Truman Show",
+      "id": "tt31050594",
+      "title": "tt31050594",
       "username": "brosportses",
-      "lastActive": 1771353797446
+      "lastActive": 1771354281107
     },
     "2402:a00:10a:815f:1c61:96f6:ead6:d9c1": {
       "type": "movie",
@@ -88223,10 +88224,10 @@
     },
     "2402:a00:10a:815f:8c31:59dc:2f97:5f83": {
       "type": "series",
-      "id": "tt35149250:1:1",
-      "title": "tt35149250:1:1",
+      "id": "tt35149250:1:2",
+      "title": "tt35149250:1:2",
       "username": "vflix1993",
-      "lastActive": 1771350935163
+      "lastActive": 1771354354711
     },
     "2401:4900:5775:2502:4cee:8a7c:20da:2dac": {
       "type": "movie",
@@ -88276,6 +88277,13 @@
       "title": "The Summer I Turned Pretty",
       "username": "ujas",
       "lastActive": 1771353642971
+    },
+    "2405:201:2033:841:3d90:47a1:44f2:13ea": {
+      "type": "movie",
+      "id": "tt31844586",
+      "title": "tt31844586",
+      "username": "surti_lala",
+      "lastActive": 1771354265313
     }
   }
 }
