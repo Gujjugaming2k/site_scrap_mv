@@ -1,5 +1,5 @@
 {
-  "totalViews": 26377,
+  "totalViews": 26381,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5387,38 +5387,6 @@
     "2401:4900:88d5:8287:5ca2:66f4:2e94:c5bd"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31036941",
-      "title": "Jurassic World Rebirth",
-      "timestamp": "2026-01-24T11:27:02.322Z",
-      "ip": "160.238.72.181",
-      "username": "hjbjkkfggjkjv"
-    },
-    {
-      "type": "movie",
-      "id": "tt28142095",
-      "title": "tt28142095",
-      "timestamp": "2026-01-24T11:37:12.659Z",
-      "ip": "2401:4900:b02f:4fc2:a4b7:b1ff:fe4f:96b5",
-      "username": "adshoyi"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:1:16",
-      "title": "Lost",
-      "timestamp": "2026-01-24T11:41:09.479Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:1:17",
-      "title": "Lost",
-      "timestamp": "2026-01-24T11:41:41.297Z",
-      "ip": "116.68.79.147",
-      "username": "aravindsivan"
-    },
     {
       "type": "series",
       "id": "tt0411008:1:17",
@@ -85386,6 +85354,38 @@
       "timestamp": "2026-02-17T03:22:46.983Z",
       "ip": "2401:4900:88d5:8287:5ca2:66f4:2e94:c5bd",
       "username": "thevedikgujjar"
+    },
+    {
+      "type": "movie",
+      "id": "tt31969779",
+      "title": "tt31969779",
+      "timestamp": "2026-02-17T03:26:39.551Z",
+      "ip": "2401:4900:88d5:8287:5ca2:66f4:2e94:c5bd",
+      "username": "thevedikgujjar"
+    },
+    {
+      "type": "series",
+      "id": "tt1837492:1:1",
+      "title": "tt1837492:1:1",
+      "timestamp": "2026-02-17T03:29:33.964Z",
+      "ip": "2401:4900:88d5:8287:5ca2:66f4:2e94:c5bd",
+      "username": "thevedikgujjar"
+    },
+    {
+      "type": "movie",
+      "id": "tt0290326",
+      "title": "tt0290326",
+      "timestamp": "2026-02-17T03:32:10.741Z",
+      "ip": "106.222.213.223",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt1837492:1:1",
+      "title": "tt1837492:1:1",
+      "timestamp": "2026-02-17T03:32:17.482Z",
+      "ip": "2401:4900:88d5:8287:5ca2:66f4:2e94:c5bd",
+      "username": "thevedikgujjar"
     }
   ],
   "activeNow": {
@@ -87442,10 +87442,10 @@
     },
     "106.222.213.223": {
       "type": "movie",
-      "id": "tt37376961",
-      "title": "tt37376961",
+      "id": "tt0290326",
+      "title": "tt0290326",
       "username": "b1jju",
-      "lastActive": 1771298536546
+      "lastActive": 1771299130741
     },
     "2409:40c4:315e:dda5:a071:b7ff:fe06:5c71": {
       "type": "movie",
@@ -87476,11 +87476,11 @@
       "lastActive": 1771297033976
     },
     "2401:4900:88d5:8287:5ca2:66f4:2e94:c5bd": {
-      "type": "movie",
-      "id": "tt31969779",
-      "title": "tt31969779",
+      "type": "series",
+      "id": "tt1837492:1:1",
+      "title": "tt1837492:1:1",
       "username": "thevedikgujjar",
-      "lastActive": 1771298566983
+      "lastActive": 1771299137482
     }
   }
 }
