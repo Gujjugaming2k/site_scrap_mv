@@ -1,5 +1,5 @@
 {
-  "totalViews": 26859,
+  "totalViews": 26863,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5485,41 +5485,11 @@
     "47.15.69.30,51.89.197.91",
     "122.161.241.143",
     "2405:201:203e:b800:cf52:6de2:b451:1fc4",
-    "2a09:bac5:3af1:86e::d7:51"
+    "2a09:bac5:3af1:86e::d7:51",
+    "157.48.210.220",
+    "157.48.210.220,51.89.197.91"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0241527",
-      "title": "Harry Potter and the Philosopher's Stone",
-      "timestamp": "2026-01-25T13:07:57.569Z",
-      "ip": "2401:4900:6145:f2d3:58f:8554:f225:cee9",
-      "username": "pheonixcon"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:1:1",
-      "title": "tt31938062:1:1",
-      "timestamp": "2026-01-25T13:08:43.560Z",
-      "ip": "2401:4900:6145:f2d3:58f:8554:f225:cee9",
-      "username": "pheonixcon"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:2:1",
-      "title": "tt31938062:2:1",
-      "timestamp": "2026-01-25T13:08:53.878Z",
-      "ip": "2401:4900:6145:f2d3:58f:8554:f225:cee9",
-      "username": "pheonixcon"
-    },
-    {
-      "type": "series",
-      "id": "tt19854762:2:2",
-      "title": "tt19854762:2:2",
-      "timestamp": "2026-01-25T13:12:12.100Z",
-      "ip": "2405:201:202d:d014:1037:db31:53f0:de15",
-      "username": "explorerindia"
-    },
     {
       "type": "series",
       "id": "tt19854762:2:3",
@@ -85487,6 +85457,38 @@
       "timestamp": "2026-02-17T20:27:29.246Z",
       "ip": "2a09:bac5:3af1:86e::d7:51",
       "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt33046197",
+      "title": "tt33046197",
+      "timestamp": "2026-02-17T20:44:01.393Z",
+      "ip": "157.48.210.220",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt33046197",
+      "title": "tt33046197",
+      "timestamp": "2026-02-17T20:44:03.530Z",
+      "ip": "157.48.210.220,51.89.197.91",
+      "username": "bk18"
+    },
+    {
+      "type": "movie",
+      "id": "tt7338690",
+      "title": "Scorpion King: Book of Souls",
+      "timestamp": "2026-02-17T20:47:11.638Z",
+      "ip": "157.48.210.220",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt7338690",
+      "title": "Scorpion King: Book of Souls",
+      "timestamp": "2026-02-17T20:47:13.598Z",
+      "ip": "157.48.210.220,51.89.197.91",
+      "username": "bk18"
     }
   ],
   "activeNow": {
@@ -88324,6 +88326,20 @@
       "title": "F1",
       "username": "switchoff009",
       "lastActive": 1771360049246
+    },
+    "157.48.210.220": {
+      "type": "movie",
+      "id": "tt7338690",
+      "title": "Scorpion King: Book of Souls",
+      "username": "golu_vk",
+      "lastActive": 1771361231638
+    },
+    "157.48.210.220,51.89.197.91": {
+      "type": "movie",
+      "id": "tt7338690",
+      "title": "Scorpion King: Book of Souls",
+      "username": "bk18",
+      "lastActive": 1771361233598
     }
   }
 }
