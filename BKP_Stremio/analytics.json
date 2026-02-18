@@ -1,5 +1,5 @@
 {
-  "totalViews": 27254,
+  "totalViews": 27260,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5557,57 +5557,12 @@
     "2401:4900:c329:e8b1:d519:dd:f1d3:dbee",
     "2409:40c0:6b:4be6:7c49:4083:6959:7af4",
     "2409:40c2:18:6fe3:dd10:6011:537d:8dff",
-    "223.181.97.15"
+    "223.181.97.15",
+    "2405:201:2033:841:7322:49c:55e0:431e",
+    "2409:40c1:215b:e605:3981:1a1a:55b0:c04",
+    "2402:a00:10a:815f:2525:83ef:328b:4c3b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt32612521:1:2",
-      "title": "tt32612521:1:2",
-      "timestamp": "2026-01-26T07:29:13.597Z",
-      "ip": "27.6.114.125",
-      "username": "nothing_8888"
-    },
-    {
-      "type": "series",
-      "id": "tt0417299:2:13",
-      "title": "Avatar: The Last Airbender",
-      "timestamp": "2026-01-26T07:30:53.047Z",
-      "ip": "202.88.248.175",
-      "username": "deepak"
-    },
-    {
-      "type": "series",
-      "id": "tt0417299:2:12",
-      "title": "Avatar: The Last Airbender",
-      "timestamp": "2026-01-26T07:30:54.026Z",
-      "ip": "202.88.248.175",
-      "username": "deepak"
-    },
-    {
-      "type": "series",
-      "id": "tt0417299:2:12",
-      "title": "Avatar: The Last Airbender",
-      "timestamp": "2026-01-26T07:31:03.452Z",
-      "ip": "202.88.248.175",
-      "username": "deepak"
-    },
-    {
-      "type": "series",
-      "id": "tt0417299:3:14",
-      "title": "Avatar: The Last Airbender",
-      "timestamp": "2026-01-26T07:31:16.888Z",
-      "ip": "202.88.248.175",
-      "username": "deepak"
-    },
-    {
-      "type": "series",
-      "id": "tt0417299:3:14",
-      "title": "Avatar: The Last Airbender",
-      "timestamp": "2026-01-26T07:31:22.725Z",
-      "ip": "202.88.248.175",
-      "username": "deepak"
-    },
     {
       "type": "series",
       "id": "tt0417299:3:15",
@@ -85559,6 +85514,54 @@
       "timestamp": "2026-02-18T15:48:05.806Z",
       "ip": "223.181.97.15",
       "username": "baljeet_002"
+    },
+    {
+      "type": "movie",
+      "id": "tt0181852",
+      "title": "Terminator 3: Rise of the Machines",
+      "timestamp": "2026-02-18T15:53:29.695Z",
+      "ip": "2405:201:2033:841:7322:49c:55e0:431e",
+      "username": "surti_lala"
+    },
+    {
+      "type": "series",
+      "id": "tt14016500:3:11",
+      "title": "The Summer I Turned Pretty",
+      "timestamp": "2026-02-18T15:55:19.497Z",
+      "ip": "2409:40c1:215b:e605:3981:1a1a:55b0:c04",
+      "username": "ujas"
+    },
+    {
+      "type": "movie",
+      "id": "tt28434143",
+      "title": "tt28434143",
+      "timestamp": "2026-02-18T15:56:07.233Z",
+      "ip": "2409:40c0:6b:4be6:7c49:4083:6959:7af4",
+      "username": "oo0o0a0o0oo"
+    },
+    {
+      "type": "series",
+      "id": "tt35149250:1:5",
+      "title": "tt35149250:1:5",
+      "timestamp": "2026-02-18T15:57:25.860Z",
+      "ip": "2402:a00:10a:815f:2525:83ef:328b:4c3b",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt14016500:3:11",
+      "title": "The Summer I Turned Pretty",
+      "timestamp": "2026-02-18T15:57:26.246Z",
+      "ip": "2409:40c1:215b:e605:3981:1a1a:55b0:c04",
+      "username": "ujas"
+    },
+    {
+      "type": "series",
+      "id": "tt35149250:1:6",
+      "title": "tt35149250:1:6",
+      "timestamp": "2026-02-18T16:00:25.249Z",
+      "ip": "2402:a00:10a:815f:2525:83ef:328b:4c3b",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -88896,10 +88899,10 @@
     },
     "2409:40c0:6b:4be6:7c49:4083:6959:7af4": {
       "type": "movie",
-      "id": "tt38840387",
-      "title": "tt38840387",
+      "id": "tt28434143",
+      "title": "tt28434143",
       "username": "oo0o0a0o0oo",
-      "lastActive": 1771429174763
+      "lastActive": 1771430167233
     },
     "2409:40c2:18:6fe3:dd10:6011:537d:8dff": {
       "type": "series",
@@ -88914,6 +88917,27 @@
       "title": "tt2436516",
       "username": "baljeet_002",
       "lastActive": 1771429685806
+    },
+    "2405:201:2033:841:7322:49c:55e0:431e": {
+      "type": "movie",
+      "id": "tt0181852",
+      "title": "Terminator 3: Rise of the Machines",
+      "username": "surti_lala",
+      "lastActive": 1771430009695
+    },
+    "2409:40c1:215b:e605:3981:1a1a:55b0:c04": {
+      "type": "series",
+      "id": "tt14016500:3:11",
+      "title": "The Summer I Turned Pretty",
+      "username": "ujas",
+      "lastActive": 1771430246246
+    },
+    "2402:a00:10a:815f:2525:83ef:328b:4c3b": {
+      "type": "series",
+      "id": "tt35149250:1:6",
+      "title": "tt35149250:1:6",
+      "username": "vflix1993",
+      "lastActive": 1771430425249
     }
   }
 }
