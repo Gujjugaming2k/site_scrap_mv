@@ -1,5 +1,5 @@
 {
-  "totalViews": 26969,
+  "totalViews": 26973,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5503,41 +5503,11 @@
     "2409:40e4:101c:16fe:7028:eeff:feea:e53",
     "2405:201:203e:b01c:a1de:4312:4b49:8a63",
     "2400:1a00:7b4e:5d77:af78:b05c:6b3a:2e02",
-    "2401:4900:ac32:a5cd:95f5:1819:345:6f15"
+    "2401:4900:ac32:a5cd:95f5:1819:345:6f15",
+    "2409:40e5:11b9:b2cd:fc8d:d9ff:fee1:bf74",
+    "2409:40d7:1033:ba3c:5c6e:65ff:fe55:871e"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30387012",
-      "title": "tt30387012",
-      "timestamp": "2026-01-25T16:49:32.281Z",
-      "ip": "103.79.168.109",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt30003786:4:6",
-      "title": "tt30003786:4:6",
-      "timestamp": "2026-01-25T16:49:52.509Z",
-      "ip": "103.24.85.218",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt30003786:1:1",
-      "title": "tt30003786:1:1",
-      "timestamp": "2026-01-25T16:50:09.025Z",
-      "ip": "103.24.85.218",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt0227972:27:52",
-      "title": "WWE SmackDown",
-      "timestamp": "2026-01-25T16:50:28.230Z",
-      "ip": "103.24.85.218",
-      "username": "william097"
-    },
     {
       "type": "series",
       "id": "tt0227972:3:1",
@@ -85505,6 +85475,38 @@
       "timestamp": "2026-02-18T05:42:03.804Z",
       "ip": "2401:4900:ac32:a5cd:95f5:1819:345:6f15",
       "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt9603208",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "timestamp": "2026-02-18T05:44:08.935Z",
+      "ip": "2409:40e6:245:d715:ec92:f8ff:feb3:126f",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt32897959",
+      "title": "tt32897959",
+      "timestamp": "2026-02-18T05:47:43.102Z",
+      "ip": "2409:40d2:300d:4f0e:ef5:82e1:2c77:9839",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt20850406",
+      "title": "tt20850406",
+      "timestamp": "2026-02-18T05:49:17.167Z",
+      "ip": "2409:40e5:11b9:b2cd:fc8d:d9ff:fee1:bf74",
+      "username": "skssunilbh"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-18T05:56:59.684Z",
+      "ip": "2409:40d7:1033:ba3c:5c6e:65ff:fe55:871e",
+      "username": "mailrahulboora"
     }
   ],
   "activeNow": {
@@ -87358,10 +87360,10 @@
     },
     "2409:40e6:245:d715:ec92:f8ff:feb3:126f": {
       "type": "movie",
-      "id": "tt1312221",
-      "title": "Frankenstein",
+      "id": "tt9603208",
+      "title": "Mission: Impossible - The Final Reckoning",
       "username": "nabakun24",
-      "lastActive": 1771393234625
+      "lastActive": 1771393448935
     },
     "2401:9640:801:d874:54a9:3cd:1ef5:26b4": {
       "type": "movie",
@@ -88408,10 +88410,10 @@
     },
     "2409:40d2:300d:4f0e:ef5:82e1:2c77:9839": {
       "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
+      "id": "tt32897959",
+      "title": "tt32897959",
       "username": "saurabhkaperwan",
-      "lastActive": 1771390135179
+      "lastActive": 1771393663102
     },
     "106.200.3.206": {
       "type": "series",
@@ -88468,6 +88470,20 @@
       "title": "tt35149250:1:3",
       "username": "vflix1993",
       "lastActive": 1771393323804
+    },
+    "2409:40e5:11b9:b2cd:fc8d:d9ff:fee1:bf74": {
+      "type": "movie",
+      "id": "tt20850406",
+      "title": "tt20850406",
+      "username": "skssunilbh",
+      "lastActive": 1771393757167
+    },
+    "2409:40d7:1033:ba3c:5c6e:65ff:fe55:871e": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "mailrahulboora",
+      "lastActive": 1771394219684
     }
   }
 }
