@@ -1,5 +1,5 @@
 {
-  "totalViews": 27046,
+  "totalViews": 27050,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5521,41 +5521,11 @@
     "2409:40e5:2004:438b:7432:29ff:febf:7e07",
     "152.56.129.91",
     "2405:201:203e:b01c:ccb:4daf:6441:fcb",
-    "2401:4900:8825:d100:fcae:eba0:b35:44b"
+    "2401:4900:8825:d100:fcae:eba0:b35:44b",
+    "2409:40c1:210a:b2b0:397d:c580:8976:6b27",
+    "2409:40e1:11bb:72d9:202c:6d3a:72d1:9fbe"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:1:24",
-      "title": "Lost",
-      "timestamp": "2026-01-25T18:35:10.229Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt6468322:3:6",
-      "title": "tt6468322:3:6",
-      "timestamp": "2026-01-25T18:37:52.375Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "series",
-      "id": "tt23734948:1:1",
-      "title": "tt23734948:1:1",
-      "timestamp": "2026-01-25T18:39:44.139Z",
-      "ip": "2402:ad80:13c:2913:bcd9:6ba6:1325:41fb",
-      "username": "hvre2"
-    },
-    {
-      "type": "series",
-      "id": "tt6468322:3:7",
-      "title": "tt6468322:3:7",
-      "timestamp": "2026-01-25T18:40:14.314Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
     {
       "type": "movie",
       "id": "tt28142095",
@@ -85523,6 +85493,38 @@
       "timestamp": "2026-02-18T08:32:55.764Z",
       "ip": "2405:201:203e:b01c:ccb:4daf:6441:fcb",
       "username": "ujas"
+    },
+    {
+      "type": "movie",
+      "id": "tt0116695",
+      "title": "Jerry Maguire",
+      "timestamp": "2026-02-18T08:35:29.172Z",
+      "ip": "2409:40c1:210a:b2b0:397d:c580:8976:6b27",
+      "username": "ujas"
+    },
+    {
+      "type": "movie",
+      "id": "tt11375428",
+      "title": "tt11375428",
+      "timestamp": "2026-02-18T08:36:08.354Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt12908150",
+      "title": "The Life of Chuck",
+      "timestamp": "2026-02-18T08:43:46.882Z",
+      "ip": "2409:40e1:11bb:72d9:202c:6d3a:72d1:9fbe",
+      "username": "jinwoooooi"
+    },
+    {
+      "type": "movie",
+      "id": "tt32098124",
+      "title": "tt32098124",
+      "timestamp": "2026-02-18T08:49:42.448Z",
+      "ip": "182.77.76.58",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -86000,7 +86002,7 @@
       "id": "tt11375428",
       "title": "tt11375428",
       "username": "aravindsivan",
-      "lastActive": 1771394697123
+      "lastActive": 1771403768354
     },
     "2405:201:682e:6839:1f92:2fc:ba55:6b57": {
       "type": "series",
@@ -87320,10 +87322,10 @@
     },
     "182.77.76.58": {
       "type": "movie",
-      "id": "tt0347304",
-      "title": "tt0347304",
+      "id": "tt32098124",
+      "title": "tt32098124",
       "username": "theaceofficials",
-      "lastActive": 1771325249858
+      "lastActive": 1771404582448
     },
     "103.70.147.203": {
       "type": "movie",
@@ -88619,6 +88621,20 @@
       "title": "tt0808506",
       "username": "sinbad1722",
       "lastActive": 1771403460206
+    },
+    "2409:40c1:210a:b2b0:397d:c580:8976:6b27": {
+      "type": "movie",
+      "id": "tt0116695",
+      "title": "Jerry Maguire",
+      "username": "ujas",
+      "lastActive": 1771403729172
+    },
+    "2409:40e1:11bb:72d9:202c:6d3a:72d1:9fbe": {
+      "type": "movie",
+      "id": "tt12908150",
+      "title": "The Life of Chuck",
+      "username": "jinwoooooi",
+      "lastActive": 1771404226882
     }
   }
 }
