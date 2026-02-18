@@ -1,5 +1,5 @@
 {
-  "totalViews": 27238,
+  "totalViews": 27244,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5557,54 +5557,6 @@
     "2401:4900:c329:e8b1:d519:dd:f1d3:dbee"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt32612521:1:4",
-      "title": "tt32612521:1:4",
-      "timestamp": "2026-01-26T06:57:49.125Z",
-      "ip": "27.6.114.125",
-      "username": "nothing_8888"
-    },
-    {
-      "type": "series",
-      "id": "tt32612521:1:1",
-      "title": "tt32612521:1:1",
-      "timestamp": "2026-01-26T06:57:57.697Z",
-      "ip": "27.6.114.125",
-      "username": "nothing_8888"
-    },
-    {
-      "type": "series",
-      "id": "tt32612521:1:2",
-      "title": "tt32612521:1:2",
-      "timestamp": "2026-01-26T06:58:42.344Z",
-      "ip": "27.6.114.125",
-      "username": "nothing_8888"
-    },
-    {
-      "type": "series",
-      "id": "tt32612521:1:2",
-      "title": "tt32612521:1:2",
-      "timestamp": "2026-01-26T06:58:52.635Z",
-      "ip": "27.6.114.125",
-      "username": "nothing_8888"
-    },
-    {
-      "type": "series",
-      "id": "tt32612521:1:2",
-      "title": "tt32612521:1:2",
-      "timestamp": "2026-01-26T06:59:17.699Z",
-      "ip": "27.6.114.125",
-      "username": "nothing_8888"
-    },
-    {
-      "type": "series",
-      "id": "tt32612521:1:2",
-      "title": "tt32612521:1:2",
-      "timestamp": "2026-01-26T07:04:13.186Z",
-      "ip": "27.6.114.125",
-      "username": "nothing_8888"
-    },
     {
       "type": "series",
       "id": "tt32612521:1:2",
@@ -85556,6 +85508,54 @@
       "timestamp": "2026-02-18T14:52:23.934Z",
       "ip": "2409:40f2:11ae:a91d:fcd8:e50c:df31:3098",
       "username": "max"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:1:1",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-02-18T15:02:03.492Z",
+      "ip": "182.69.183.176",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt28106758:1:2",
+      "title": "tt28106758:1:2",
+      "timestamp": "2026-02-18T15:05:18.067Z",
+      "ip": "181.197.11.6",
+      "username": "ymcinema"
+    },
+    {
+      "type": "series",
+      "id": "tt28106758:1:2",
+      "title": "tt28106758:1:2",
+      "timestamp": "2026-02-18T15:05:33.006Z",
+      "ip": "181.197.11.6",
+      "username": "ymcinema"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:8",
+      "title": "tt14186672:2:8",
+      "timestamp": "2026-02-18T15:07:45.228Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:7",
+      "title": "tt14186672:2:7",
+      "timestamp": "2026-02-18T15:07:50.422Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt9140554:1:1",
+      "title": "tt9140554:1:1",
+      "timestamp": "2026-02-18T15:15:46.961Z",
+      "ip": "2401:4900:88d5:af36:1cfe:2fb4:eb5c:c84d",
+      "username": "thevedikgujjar"
     }
   ],
   "activeNow": {
@@ -85610,10 +85610,10 @@
     },
     "203.192.255.46": {
       "type": "series",
-      "id": "tt14186672:2:8",
-      "title": "tt14186672:2:8",
+      "id": "tt14186672:2:7",
+      "title": "tt14186672:2:7",
       "username": "chetan_b2",
-      "lastActive": 1771424208255
+      "lastActive": 1771427270422
     },
     "49.43.109.57": {
       "type": "movie",
@@ -88255,11 +88255,11 @@
       "lastActive": 1771347362827
     },
     "181.197.11.6": {
-      "type": "movie",
-      "id": "tt28802657",
-      "title": "tt28802657",
+      "type": "series",
+      "id": "tt28106758:1:2",
+      "title": "tt28106758:1:2",
       "username": "ymcinema",
-      "lastActive": 1771347516604
+      "lastActive": 1771427133006
     },
     "2402:a00:10a:815f:362f:916d:8d23:276e": {
       "type": "movie",
@@ -88703,11 +88703,11 @@
       "lastActive": 1771410025881
     },
     "182.69.183.176": {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "type": "series",
+      "id": "tt13706018:1:1",
+      "title": "SPY x FAMILY",
       "username": "dillon_ka_shooter",
-      "lastActive": 1771410593845
+      "lastActive": 1771426923492
     },
     "2401:4900:c329:8b73:acd7:6aff:fe71:5abf": {
       "type": "series",
@@ -88875,7 +88875,7 @@
       "id": "tt9140554:1:1",
       "title": "tt9140554:1:1",
       "username": "thevedikgujjar",
-      "lastActive": 1771425498751
+      "lastActive": 1771427746961
     },
     "2405:201:5c14:2a70:7999:ee1c:3ed0:cafc": {
       "type": "series",
