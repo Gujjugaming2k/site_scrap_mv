@@ -1,5 +1,5 @@
 {
-  "totalViews": 27165,
+  "totalViews": 27169,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5547,38 +5547,6 @@
     "2409:40e4:1098:3c7d:65a8:6425:ee77:6f4e"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt10919420:3:2",
-      "title": "tt10919420:3:2",
-      "timestamp": "2026-01-26T05:20:19.741Z",
-      "ip": "2401:4900:8820:8915:22aa:a634:fbb0:ebdc,2a09:bac5:37ac:ebe::178:1c7",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt35674970:1:2",
-      "title": "tt35674970:1:2",
-      "timestamp": "2026-01-26T05:20:28.246Z",
-      "ip": "103.24.85.218",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt10919420:3:3",
-      "title": "tt10919420:3:3",
-      "timestamp": "2026-01-26T05:20:31.904Z",
-      "ip": "2401:4900:8820:8915:22aa:a634:fbb0:ebdc,2a09:bac5:37ac:ebe::178:1c7",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt10919420:3:3",
-      "title": "tt10919420:3:3",
-      "timestamp": "2026-01-26T05:20:34.905Z",
-      "ip": "2401:4900:8820:8915:22aa:a634:fbb0:ebdc,2a09:bac5:37ac:ebe::178:1c7",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt10919420:3:4",
@@ -85546,6 +85514,38 @@
       "timestamp": "2026-02-18T12:54:53.891Z",
       "ip": "2409:40e4:1098:3c7d:65a8:6425:ee77:6f4e",
       "username": "adshoyi"
+    },
+    {
+      "type": "movie",
+      "id": "tt8413338",
+      "title": "tt8413338",
+      "timestamp": "2026-02-18T13:02:16.876Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt3668162",
+      "title": "tt3668162",
+      "timestamp": "2026-02-18T13:09:46.667Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt1732659",
+      "title": "tt1732659",
+      "timestamp": "2026-02-18T13:11:58.276Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-02-18T13:12:33.895Z",
+      "ip": "103.162.159.140",
+      "username": "opuser75"
     }
   ],
   "activeNow": {
@@ -86020,10 +86020,10 @@
     },
     "116.68.74.159": {
       "type": "movie",
-      "id": "tt3506970",
-      "title": "tt3506970",
+      "id": "tt1732659",
+      "title": "tt1732659",
       "username": "aravindsivan",
-      "lastActive": 1771418621568
+      "lastActive": 1771420318276
     },
     "2405:201:682e:6839:1f92:2fc:ba55:6b57": {
       "type": "series",
@@ -86776,10 +86776,10 @@
     },
     "103.162.159.140": {
       "type": "movie",
-      "id": "tt2345759",
-      "title": "The Mummy",
+      "id": "tt32916440",
+      "title": "tt32916440",
       "username": "opuser75",
-      "lastActive": 1771367551669
+      "lastActive": 1771420353895
     },
     "2409:40d4:3000:4eb:90c2:b87f:1676:df9b": {
       "type": "series",
