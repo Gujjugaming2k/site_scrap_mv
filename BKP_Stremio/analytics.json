@@ -1,5 +1,5 @@
 {
-  "totalViews": 26892,
+  "totalViews": 26893,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5487,17 +5487,10 @@
     "2405:201:203e:b800:cf52:6de2:b451:1fc4",
     "2a09:bac5:3af1:86e::d7:51",
     "157.48.210.220",
-    "157.48.210.220,51.89.197.91"
+    "157.48.210.220,51.89.197.91",
+    "2409:40d2:300b:43a6:6895:34ff:fea3:258f"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0087928",
-      "title": "tt0087928",
-      "timestamp": "2026-01-25T14:17:05.179Z",
-      "ip": "2401:4900:1cc4:1ecb:cc1b:7858:9b44:1f4e",
-      "username": "gaendaswami"
-    },
     {
       "type": "movie",
       "id": "tt23572848",
@@ -85489,6 +85482,14 @@
       "timestamp": "2026-02-18T01:52:02.431Z",
       "ip": "103.98.208.20",
       "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt14948432",
+      "title": "Red One",
+      "timestamp": "2026-02-18T02:09:45.340Z",
+      "ip": "2409:40d2:300b:43a6:6895:34ff:fea3:258f",
+      "username": "shitsunreal"
     }
   ],
   "activeNow": {
@@ -88340,6 +88341,13 @@
       "title": "Scorpion King: Book of Souls",
       "username": "bk18",
       "lastActive": 1771361233598
+    },
+    "2409:40d2:300b:43a6:6895:34ff:fea3:258f": {
+      "type": "movie",
+      "id": "tt14948432",
+      "title": "Red One",
+      "username": "shitsunreal",
+      "lastActive": 1771380585340
     }
   }
 }
