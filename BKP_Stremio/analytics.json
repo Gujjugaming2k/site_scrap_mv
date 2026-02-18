@@ -1,5 +1,5 @@
 {
-  "totalViews": 27079,
+  "totalViews": 27081,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5530,22 +5530,6 @@
     "2405:201:2033:841:448f:c527:ba8c:1beb"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt28142095",
-      "title": "tt28142095",
-      "timestamp": "2026-01-25T19:26:27.922Z",
-      "ip": "2401:4900:b485:fa5d:c03e:bdff:feb8:f4c0",
-      "username": "adshoyi"
-    },
-    {
-      "type": "movie",
-      "id": "tt2677064",
-      "title": "tt2677064",
-      "timestamp": "2026-01-25T19:26:52.079Z",
-      "ip": "181.197.11.6",
-      "username": "ymcinema"
-    },
     {
       "type": "movie",
       "id": "tt2677064",
@@ -85529,6 +85513,22 @@
       "timestamp": "2026-02-18T09:46:23.452Z",
       "ip": "2405:201:2033:841:448f:c527:ba8c:1beb",
       "username": "surti_lala"
+    },
+    {
+      "type": "series",
+      "id": "tt14164730:1:1",
+      "title": "tt14164730:1:1",
+      "timestamp": "2026-02-18T10:00:10.481Z",
+      "ip": "117.212.4.199",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt9603208",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "timestamp": "2026-02-18T10:02:36.785Z",
+      "ip": "2409:40e6:245:d715:ec92:f8ff:feb3:126f",
+      "username": "nabakun24"
     }
   ],
   "activeNow": {
@@ -87385,7 +87385,7 @@
       "id": "tt9603208",
       "title": "Mission: Impossible - The Final Reckoning",
       "username": "nabakun24",
-      "lastActive": 1771407212529
+      "lastActive": 1771408956785
     },
     "2401:9640:801:d874:54a9:3cd:1ef5:26b4": {
       "type": "movie",
@@ -88578,11 +88578,11 @@
       "lastActive": 1771400957890
     },
     "117.212.4.199": {
-      "type": "movie",
-      "id": "tt33028778",
-      "title": "tt33028778",
+      "type": "series",
+      "id": "tt14164730:1:1",
+      "title": "tt14164730:1:1",
       "username": "zealousninja",
-      "lastActive": 1771401594146
+      "lastActive": 1771408810481
     },
     "2401:4900:ad42:beb9:b922:1852:5f02:83f2": {
       "type": "series",
