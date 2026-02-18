@@ -1,5 +1,5 @@
 {
-  "totalViews": 26912,
+  "totalViews": 26913,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5494,14 +5494,6 @@
     "2401:4900:88d5:af36:99d9:8e7a:bd2b:e661"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1399664:1:1",
-      "title": "tt1399664:1:1",
-      "timestamp": "2026-01-25T15:42:52.252Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
     {
       "type": "series",
       "id": "tt1399664:2:3",
@@ -85493,6 +85485,14 @@
       "timestamp": "2026-02-18T03:40:01.470Z",
       "ip": "2401:4900:88d5:af36:99d9:8e7a:bd2b:e661",
       "username": "thevedikgujjar"
+    },
+    {
+      "type": "movie",
+      "id": "tt4411596",
+      "title": "My Cousin Rachel",
+      "timestamp": "2026-02-18T03:57:11.245Z",
+      "ip": "2405:201:2033:841:e07a:8784:75f7:f8a0",
+      "username": "surti_lala"
     }
   ],
   "activeNow": {
@@ -88360,11 +88360,11 @@
       "lastActive": 1771384981129
     },
     "2405:201:2033:841:e07a:8784:75f7:f8a0": {
-      "type": "series",
-      "id": "tt27853283:1:1",
-      "title": "tt27853283:1:1",
+      "type": "movie",
+      "id": "tt4411596",
+      "title": "My Cousin Rachel",
       "username": "surti_lala",
-      "lastActive": 1771385716563
+      "lastActive": 1771387031245
     },
     "2401:4900:88d5:af36:99d9:8e7a:bd2b:e661": {
       "type": "movie",
