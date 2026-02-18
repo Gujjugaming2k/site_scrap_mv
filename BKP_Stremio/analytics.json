@@ -1,5 +1,5 @@
 {
-  "totalViews": 27367,
+  "totalViews": 27368,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5581,14 +5581,6 @@
     "2401:4900:8826:1d68:9d1b:4d8:5cc9:a9c"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1645170",
-      "title": "The Dictator",
-      "timestamp": "2026-01-26T10:54:56.233Z",
-      "ip": "106.219.121.14",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "movie",
       "id": "tt34159694",
@@ -85580,6 +85572,14 @@
       "timestamp": "2026-02-18T20:57:28.678Z",
       "ip": "2401:4900:8826:1d68:9d1b:4d8:5cc9:a9c",
       "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt1790864",
+      "title": "The Maze Runner",
+      "timestamp": "2026-02-18T21:41:06.353Z",
+      "ip": "103.162.159.140",
+      "username": "opuser75"
     }
   ],
   "activeNow": {
@@ -86809,11 +86809,11 @@
       "lastActive": 1771149960266
     },
     "103.162.159.140": {
-      "type": "series",
-      "id": "tt30412869:1:1",
-      "title": "tt30412869:1:1",
+      "type": "movie",
+      "id": "tt1790864",
+      "title": "The Maze Runner",
       "username": "opuser75",
-      "lastActive": 1771428134430
+      "lastActive": 1771450866353
     },
     "2409:40d4:3000:4eb:90c2:b87f:1676:df9b": {
       "type": "series",
