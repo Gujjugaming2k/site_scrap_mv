@@ -1,5 +1,5 @@
 {
-  "totalViews": 27144,
+  "totalViews": 27148,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5540,41 +5540,10 @@
     "2401:4900:ad4f:b137:f87e:5a5:434:b534",
     "106.222.219.209",
     "2401:4900:1cb1:a942:1c45:9117:c41c:a320",
-    "2401:4900:73d0:9f53:c4d4:71c4:6c6d:6657"
+    "2401:4900:73d0:9f53:c4d4:71c4:6c6d:6657",
+    "202.173.124.219"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-01-26T04:52:38.397Z",
-      "ip": "2401:4900:8fe2:d6e9:f50a:146e:33a1:c883",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "movie",
-      "id": "tt6604188",
-      "title": "TRON: Ares",
-      "timestamp": "2026-01-26T05:02:11.175Z",
-      "ip": "2409:40e6:2b:cb9a:c8ff:68ff:fe9c:6a90",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt1757678",
-      "title": "tt1757678",
-      "timestamp": "2026-01-26T05:02:11.883Z",
-      "ip": "2409:40e6:2b:cb9a:c8ff:68ff:fe9c:6a90",
-      "username": "nabakun"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-26T05:03:09.086Z",
-      "ip": "146.70.191.62",
-      "username": "belimhuzaifa"
-    },
     {
       "type": "series",
       "id": "tt0944947:1:1",
@@ -85542,6 +85511,38 @@
       "timestamp": "2026-02-18T12:10:20.203Z",
       "ip": "2401:4900:73d0:9f53:c4d4:71c4:6c6d:6657",
       "username": "adshoyi"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:10",
+      "title": "tt31812476:2:10",
+      "timestamp": "2026-02-18T12:19:21.658Z",
+      "ip": "2401:4900:8fe3:59f8:499:3e06:b650:7ec6",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "series",
+      "id": "tt28106758:1:1",
+      "title": "tt28106758:1:1",
+      "timestamp": "2026-02-18T12:24:37.346Z",
+      "ip": "202.173.124.219",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt9432978:3:3",
+      "title": "tt9432978:3:3",
+      "timestamp": "2026-02-18T12:25:55.665Z",
+      "ip": "2405:201:200d:906b:61b4:90be:921b:e63c",
+      "username": "kulu007"
+    },
+    {
+      "type": "series",
+      "id": "tt9432978:3:4",
+      "title": "tt9432978:3:4",
+      "timestamp": "2026-02-18T12:26:10.178Z",
+      "ip": "2405:201:200d:906b:61b4:90be:921b:e63c",
+      "username": "kulu007"
     }
   ],
   "activeNow": {
@@ -86842,10 +86843,10 @@
     },
     "2405:201:200d:906b:61b4:90be:921b:e63c": {
       "type": "series",
-      "id": "tt9432978:3:3",
-      "title": "tt9432978:3:3",
+      "id": "tt9432978:3:4",
+      "title": "tt9432978:3:4",
       "username": "kulu007",
-      "lastActive": 1771414323758
+      "lastActive": 1771417570178
     },
     "157.48.99.206": {
       "type": "series",
@@ -88721,7 +88722,7 @@
       "id": "tt31812476:2:10",
       "title": "tt31812476:2:10",
       "username": "ashwanileon",
-      "lastActive": 1771411613172
+      "lastActive": 1771417161658
     },
     "109.163.228.74": {
       "type": "series",
@@ -88778,6 +88779,13 @@
       "title": "A Working Man",
       "username": "adshoyi",
       "lastActive": 1771416620203
+    },
+    "202.173.124.219": {
+      "type": "series",
+      "id": "tt28106758:1:1",
+      "title": "tt28106758:1:1",
+      "username": "ryuzaklo26",
+      "lastActive": 1771417477346
     }
   }
 }
