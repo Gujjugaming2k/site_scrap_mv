@@ -1,5 +1,5 @@
 {
-  "totalViews": 27285,
+  "totalViews": 27290,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5569,49 +5569,10 @@
     "45.118.158.205",
     "2409:40c2:2e:cea2:e4c6:b4ff:fe8e:a663",
     "2409:40c1:34:a52b:6415:43ff:fe8b:5980",
-    "205.254.185.243"
+    "205.254.185.243",
+    "2a09:bac5:3af2:26fa::3e2:60"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-26T08:30:44.571Z",
-      "ip": "2a09:bac5:3c92:18d2::279:93",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:2",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-26T08:31:30.059Z",
-      "ip": "2a09:bac5:3c92:18d2::279:93",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt0417299:3:17",
-      "title": "Avatar: The Last Airbender",
-      "timestamp": "2026-01-26T08:33:00.298Z",
-      "ip": "202.88.248.175",
-      "username": "deepak"
-    },
-    {
-      "type": "series",
-      "id": "tt0417299:3:14",
-      "title": "Avatar: The Last Airbender",
-      "timestamp": "2026-01-26T08:33:09.954Z",
-      "ip": "202.88.248.175",
-      "username": "deepak"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:2",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-26T08:33:31.763Z",
-      "ip": "2a09:bac5:3c92:18d2::279:93",
-      "username": "belimhuzaifa"
-    },
     {
       "type": "series",
       "id": "tt0417299:3:15",
@@ -85571,6 +85532,46 @@
       "timestamp": "2026-02-18T17:50:23.848Z",
       "ip": "205.254.185.243",
       "username": "space_forca"
+    },
+    {
+      "type": "series",
+      "id": "tt27853283:1:1",
+      "title": "tt27853283:1:1",
+      "timestamp": "2026-02-18T17:52:51.580Z",
+      "ip": "163.223.102.135",
+      "username": "mutti9"
+    },
+    {
+      "type": "series",
+      "id": "tt13911284:2:6",
+      "title": "tt13911284:2:6",
+      "timestamp": "2026-02-18T17:59:00.775Z",
+      "ip": "2a09:bac5:3af2:26fa::3e2:60",
+      "username": "paregi12"
+    },
+    {
+      "type": "series",
+      "id": "tt21209876:1:1",
+      "title": "tt21209876:1:1",
+      "timestamp": "2026-02-18T18:00:15.389Z",
+      "ip": "2a09:bac5:3af2:26fa::3e2:60",
+      "username": "paregi12"
+    },
+    {
+      "type": "series",
+      "id": "tt35149250:1:1",
+      "title": "tt35149250:1:1",
+      "timestamp": "2026-02-18T18:04:14.963Z",
+      "ip": "2409:40c2:2e:cea2:e4c6:b4ff:fe8e:a663",
+      "username": "agentmj47"
+    },
+    {
+      "type": "series",
+      "id": "tt35149250:1:2",
+      "title": "tt35149250:1:2",
+      "timestamp": "2026-02-18T18:04:17.754Z",
+      "ip": "2409:40c2:2e:cea2:e4c6:b4ff:fe8e:a663",
+      "username": "agentmj47"
     }
   ],
   "activeNow": {
@@ -87584,11 +87585,11 @@
       "lastActive": 1771273226772
     },
     "163.223.102.135": {
-      "type": "movie",
-      "id": "tt37376961",
-      "title": "tt37376961",
+      "type": "series",
+      "id": "tt27853283:1:1",
+      "title": "tt27853283:1:1",
       "username": "mutti9",
-      "lastActive": 1771268411743
+      "lastActive": 1771437171580
     },
     "2402:3a80:440a:6c30:3498:9402:f2cf:e830": {
       "type": "movie",
@@ -88992,10 +88993,10 @@
     },
     "2409:40c2:2e:cea2:e4c6:b4ff:fe8e:a663": {
       "type": "series",
-      "id": "tt35149250:1:1",
-      "title": "tt35149250:1:1",
+      "id": "tt35149250:1:2",
+      "title": "tt35149250:1:2",
       "username": "agentmj47",
-      "lastActive": 1771436426926
+      "lastActive": 1771437857754
     },
     "2409:40c1:34:a52b:6415:43ff:fe8b:5980": {
       "type": "series",
@@ -89010,6 +89011,13 @@
       "title": "28 Days Later",
       "username": "space_forca",
       "lastActive": 1771437023848
+    },
+    "2a09:bac5:3af2:26fa::3e2:60": {
+      "type": "series",
+      "id": "tt21209876:1:1",
+      "title": "tt21209876:1:1",
+      "username": "paregi12",
+      "lastActive": 1771437615389
     }
   }
 }
