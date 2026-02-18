@@ -1,5 +1,5 @@
 {
-  "totalViews": 27364,
+  "totalViews": 27365,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5580,14 +5580,6 @@
     "2409:40c1:1:c5a5:d8a4:c7ff:fee0:697b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt32612521:1:4",
-      "title": "tt32612521:1:4",
-      "timestamp": "2026-01-26T10:32:44.247Z",
-      "ip": "27.6.114.125",
-      "username": "nothing_8888"
-    },
     {
       "type": "series",
       "id": "tt32612521:1:5",
@@ -85579,6 +85571,14 @@
       "timestamp": "2026-02-18T19:57:02.565Z",
       "ip": "2409:40c1:1:c5a5:d8a4:c7ff:fee0:697b",
       "username": "paregi12"
+    },
+    {
+      "type": "series",
+      "id": "tt22248376:1:1",
+      "title": "tt22248376:1:1",
+      "timestamp": "2026-02-18T20:02:05.247Z",
+      "ip": "2409:40c1:1:c5a5:d8a4:c7ff:fee0:697b",
+      "username": "paregi12"
     }
   ],
   "activeNow": {
@@ -89073,7 +89073,7 @@
       "id": "tt22248376:1:1",
       "title": "tt22248376:1:1",
       "username": "paregi12",
-      "lastActive": 1771444622565
+      "lastActive": 1771444925247
     }
   }
 }
