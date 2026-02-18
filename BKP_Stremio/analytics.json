@@ -1,5 +1,5 @@
 {
-  "totalViews": 27204,
+  "totalViews": 27214,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5551,89 +5551,11 @@
     "2409:40c1:3103:ca2:e454:22ff:fefb:9086",
     "146.70.255.57",
     "2401:4900:caeb:fc43:e435:abff:fea4:26c",
-    "2405:201:2022:b81c:e191:cea9:338c:94b2"
+    "2405:201:2022:b81c:e191:cea9:338c:94b2",
+    "2401:4900:88d5:af36:1cfe:2fb4:eb5c:c84d",
+    "2405:201:5c14:2a70:7999:ee1c:3ed0:cafc"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt11612120:1:3",
-      "title": "Sweet Home",
-      "timestamp": "2026-01-26T05:57:43.502Z",
-      "ip": "2401:4900:8820:8915:c7dc:8515:f772:d497,2a09:bac5:37ac:ebe::178:1c7",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt11612120:1:2",
-      "title": "Sweet Home",
-      "timestamp": "2026-01-26T05:59:59.727Z",
-      "ip": "2401:4900:8820:8915:c7dc:8515:f772:d497,2a09:bac5:37ac:ebe::178:1c7",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt11612120:1:3",
-      "title": "Sweet Home",
-      "timestamp": "2026-01-26T06:01:39.222Z",
-      "ip": "2401:4900:8820:8915:c7dc:8515:f772:d497,2a09:bac5:37ac:ebe::178:1c7",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-26T06:22:22.739Z",
-      "ip": "2401:4900:8820:8915:c7dc:8515:f772:d497,2a09:bac5:37ac:ebe::178:1c7",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-26T06:22:47.238Z",
-      "ip": "2401:4900:8820:8915:c7dc:8515:f772:d497,2a09:bac5:37ac:ebe::178:1c7",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-26T06:23:41.972Z",
-      "ip": "2401:4900:8820:8915:c7dc:8515:f772:d497,2a09:bac5:37ac:ebe::178:1c7",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-26T06:24:02.930Z",
-      "ip": "2401:4900:8820:8915:c7dc:8515:f772:d497,2a09:bac5:37ac:ebe::178:1c7",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt32612521:1:2",
-      "title": "tt32612521:1:2",
-      "timestamp": "2026-01-26T06:45:54.692Z",
-      "ip": "27.6.114.125",
-      "username": "nothing_8888"
-    },
-    {
-      "type": "series",
-      "id": "tt32612521:1:2",
-      "title": "tt32612521:1:2",
-      "timestamp": "2026-01-26T06:46:00.960Z",
-      "ip": "27.6.114.125",
-      "username": "nothing_8888"
-    },
-    {
-      "type": "series",
-      "id": "tt32612521:1:3",
-      "title": "tt32612521:1:3",
-      "timestamp": "2026-01-26T06:46:05.533Z",
-      "ip": "27.6.114.125",
-      "username": "nothing_8888"
-    },
     {
       "type": "series",
       "id": "tt32612521:1:3",
@@ -85553,6 +85475,86 @@
       "timestamp": "2026-02-18T14:13:06.025Z",
       "ip": "2405:201:2022:b81c:e191:cea9:338c:94b2",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:2:1",
+      "title": "tt19854762:2:1",
+      "timestamp": "2026-02-18T14:16:26.701Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:2:4",
+      "title": "tt19854762:2:4",
+      "timestamp": "2026-02-18T14:16:31.578Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:2:5",
+      "title": "tt19854762:2:5",
+      "timestamp": "2026-02-18T14:16:35.411Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:2:6",
+      "title": "tt19854762:2:6",
+      "timestamp": "2026-02-18T14:16:41.667Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt14186672:2:8",
+      "title": "tt14186672:2:8",
+      "timestamp": "2026-02-18T14:16:48.255Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt3506970",
+      "title": "tt3506970",
+      "timestamp": "2026-02-18T14:20:35.579Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt9140554:1:1",
+      "title": "tt9140554:1:1",
+      "timestamp": "2026-02-18T14:25:27.710Z",
+      "ip": "2401:4900:88d5:af36:1cfe:2fb4:eb5c:c84d",
+      "username": "thevedikgujjar"
+    },
+    {
+      "type": "series",
+      "id": "tt9140554:1:1",
+      "title": "tt9140554:1:1",
+      "timestamp": "2026-02-18T14:27:40.334Z",
+      "ip": "2401:4900:88d5:af36:1cfe:2fb4:eb5c:c84d",
+      "username": "thevedikgujjar"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:9",
+      "title": "tt31812476:2:9",
+      "timestamp": "2026-02-18T14:27:46.952Z",
+      "ip": "2405:201:5c14:2a70:7999:ee1c:3ed0:cafc",
+      "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:10",
+      "title": "tt31812476:2:10",
+      "timestamp": "2026-02-18T14:28:33.325Z",
+      "ip": "2405:201:5c14:2a70:7999:ee1c:3ed0:cafc",
+      "username": "extremeyat"
     }
   ],
   "activeNow": {
@@ -85610,7 +85612,7 @@
       "id": "tt14186672:2:8",
       "title": "tt14186672:2:8",
       "username": "chetan_b2",
-      "lastActive": 1771310817446
+      "lastActive": 1771424208255
     },
     "49.43.109.57": {
       "type": "movie",
@@ -86027,10 +86029,10 @@
     },
     "116.68.74.159": {
       "type": "movie",
-      "id": "tt7268738",
-      "title": "tt7268738",
+      "id": "tt3506970",
+      "title": "tt3506970",
       "username": "aravindsivan",
-      "lastActive": 1771420996912
+      "lastActive": 1771424435579
     },
     "2405:201:682e:6839:1f92:2fc:ba55:6b57": {
       "type": "series",
@@ -88866,6 +88868,20 @@
       "title": "tmdb:606234",
       "username": "zealousninja",
       "lastActive": 1771423986025
+    },
+    "2401:4900:88d5:af36:1cfe:2fb4:eb5c:c84d": {
+      "type": "series",
+      "id": "tt9140554:1:1",
+      "title": "tt9140554:1:1",
+      "username": "thevedikgujjar",
+      "lastActive": 1771424860334
+    },
+    "2405:201:5c14:2a70:7999:ee1c:3ed0:cafc": {
+      "type": "series",
+      "id": "tt31812476:2:10",
+      "title": "tt31812476:2:10",
+      "username": "extremeyat",
+      "lastActive": 1771424913325
     }
   }
 }
