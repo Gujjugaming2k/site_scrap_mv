@@ -1,5 +1,5 @@
 {
-  "totalViews": 26910,
+  "totalViews": 26912,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5490,25 +5490,10 @@
     "157.48.210.220,51.89.197.91",
     "2409:40d2:300b:43a6:6895:34ff:fea3:258f",
     "2401:4900:88d5:af36:51dc:b727:3844:97c7",
-    "2405:201:2033:841:e07a:8784:75f7:f8a0"
+    "2405:201:2033:841:e07a:8784:75f7:f8a0",
+    "2401:4900:88d5:af36:99d9:8e7a:bd2b:e661"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:6",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-25T15:30:47.590Z",
-      "ip": "223.181.77.202",
-      "username": "b1jju"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:7",
-      "title": "tt35335046:1:7",
-      "timestamp": "2026-01-25T15:34:38.357Z",
-      "ip": "103.181.65.77",
-      "username": "mutti9"
-    },
     {
       "type": "series",
       "id": "tt1399664:1:1",
@@ -85492,6 +85477,22 @@
       "timestamp": "2026-02-18T03:35:16.563Z",
       "ip": "2405:201:2033:841:e07a:8784:75f7:f8a0",
       "username": "surti_lala"
+    },
+    {
+      "type": "movie",
+      "id": "tt6208148",
+      "title": "Snow White",
+      "timestamp": "2026-02-18T03:39:01.934Z",
+      "ip": "2401:4900:88d5:af36:99d9:8e7a:bd2b:e661",
+      "username": "thevedikgujjar"
+    },
+    {
+      "type": "movie",
+      "id": "tt6208148",
+      "title": "Snow White",
+      "timestamp": "2026-02-18T03:40:01.470Z",
+      "ip": "2401:4900:88d5:af36:99d9:8e7a:bd2b:e661",
+      "username": "thevedikgujjar"
     }
   ],
   "activeNow": {
@@ -88364,6 +88365,13 @@
       "title": "tt27853283:1:1",
       "username": "surti_lala",
       "lastActive": 1771385716563
+    },
+    "2401:4900:88d5:af36:99d9:8e7a:bd2b:e661": {
+      "type": "movie",
+      "id": "tt6208148",
+      "title": "Snow White",
+      "username": "thevedikgujjar",
+      "lastActive": 1771386001470
     }
   }
 }
