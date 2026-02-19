@@ -1,5 +1,5 @@
 {
-  "totalViews": 27632,
+  "totalViews": 27635,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5612,33 +5612,10 @@
     "2a02:9b0:106:4496:703c:933d:5034:568b",
     "2405:201:2022:b81c:b8ba:5b49:1682:1432",
     "2405:201:6025:a88d:8d9b:e166:81f1:8f07",
-    "27.6.142.178"
+    "27.6.142.178",
+    "47.31.108.19"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0235198",
-      "title": "tt0235198",
-      "timestamp": "2026-01-26T16:27:44.827Z",
-      "ip": "49.47.152.130",
-      "username": "theonlyfreak"
-    },
-    {
-      "type": "movie",
-      "id": "tt30818815",
-      "title": "tt30818815",
-      "timestamp": "2026-01-26T16:28:27.210Z",
-      "ip": "94.156.30.47",
-      "username": "b1jju"
-    },
-    {
-      "type": "series",
-      "id": "tt32612521:1:7",
-      "title": "tt32612521:1:7",
-      "timestamp": "2026-01-26T16:28:28.691Z",
-      "ip": "115.98.99.86",
-      "username": "nothingokk"
-    },
     {
       "type": "movie",
       "id": "tt30818815",
@@ -85614,6 +85591,30 @@
       "timestamp": "2026-02-19T10:39:33.537Z",
       "ip": "2405:201:2022:b81c:b8ba:5b49:1682:1432",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:5",
+      "title": "tt27497448:1:5",
+      "timestamp": "2026-02-19T10:47:14.600Z",
+      "ip": "47.31.108.19",
+      "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt21108804",
+      "title": "tt21108804",
+      "timestamp": "2026-02-19T10:50:46.138Z",
+      "ip": "2405:201:2022:b81c:b8ba:5b49:1682:1432",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt21108804",
+      "title": "tt21108804",
+      "timestamp": "2026-02-19T10:52:09.424Z",
+      "ip": "2405:201:2022:b81c:b8ba:5b49:1682:1432",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -89336,10 +89337,10 @@
     },
     "2405:201:2022:b81c:b8ba:5b49:1682:1432": {
       "type": "movie",
-      "id": "tt14850054",
-      "title": "tt14850054",
+      "id": "tt21108804",
+      "title": "tt21108804",
       "username": "zealousninja",
-      "lastActive": 1771497573537
+      "lastActive": 1771498329424
     },
     "2405:201:6025:a88d:8d9b:e166:81f1:8f07": {
       "type": "movie",
@@ -89354,6 +89355,13 @@
       "title": "tt11317074:1:2",
       "username": "nothing_8888",
       "lastActive": 1771495873325
+    },
+    "47.31.108.19": {
+      "type": "series",
+      "id": "tt27497448:1:5",
+      "title": "tt27497448:1:5",
+      "username": "magicmannn",
+      "lastActive": 1771498034600
     }
   }
 }
