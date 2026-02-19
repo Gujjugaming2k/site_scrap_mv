@@ -1,5 +1,5 @@
 {
-  "totalViews": 27373,
+  "totalViews": 27374,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5581,17 +5581,10 @@
     "2401:4900:8826:1d68:9d1b:4d8:5cc9:a9c",
     "2402:8100:2cd0:6201:d137:3477:3185:e207",
     "27.97.173.6",
-    "45.131.195.83"
+    "45.131.195.83",
+    "2603:3003:3544:6700:6970:8ebe:e6bd:be78"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-26T10:56:41.882Z",
-      "ip": "146.70.102.204",
-      "username": "belimhuzaifa"
-    },
     {
       "type": "series",
       "id": "tt0944947:8:1",
@@ -85583,6 +85576,14 @@
       "timestamp": "2026-02-19T00:37:02.316Z",
       "ip": "45.131.195.83",
       "username": "sergio_leone96"
+    },
+    {
+      "type": "movie",
+      "id": "tt0139859",
+      "title": "tt0139859",
+      "timestamp": "2026-02-19T01:50:14.364Z",
+      "ip": "2603:3003:3544:6700:6970:8ebe:e6bd:be78",
+      "username": "anupambabu_97"
     }
   ],
   "activeNow": {
@@ -89106,6 +89107,13 @@
       "title": "tt8983202",
       "username": "sergio_leone96",
       "lastActive": 1771461422316
+    },
+    "2603:3003:3544:6700:6970:8ebe:e6bd:be78": {
+      "type": "movie",
+      "id": "tt0139859",
+      "title": "tt0139859",
+      "username": "anupambabu_97",
+      "lastActive": 1771465814364
     }
   }
 }
