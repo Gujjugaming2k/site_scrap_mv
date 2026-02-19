@@ -1,5 +1,5 @@
 {
-  "totalViews": 27917,
+  "totalViews": 27919,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5652,22 +5652,6 @@
     "2401:4900:8fe0:e94f:39e0:7f2e:b915:b346"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt15980138",
-      "title": "tt15980138",
-      "timestamp": "2026-01-27T12:55:37.061Z",
-      "ip": "2405:201:2022:b81c:f59f:20a:dec3:5b87",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt15980138",
-      "title": "tt15980138",
-      "timestamp": "2026-01-27T12:55:40.187Z",
-      "ip": "2405:201:2022:b81c:f59f:20a:dec3:5b87",
-      "username": "zealousninja"
-    },
     {
       "type": "movie",
       "id": "tt31193180",
@@ -85651,6 +85635,22 @@
       "timestamp": "2026-02-19T20:37:49.131Z",
       "ip": "2401:4900:8fe0:e94f:39e0:7f2e:b915:b346",
       "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:19:95",
+      "title": "tt0388629:19:95",
+      "timestamp": "2026-02-19T21:09:35.970Z",
+      "ip": "223.181.16.73",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:19:95",
+      "title": "tt0388629:19:95",
+      "timestamp": "2026-02-19T21:11:25.935Z",
+      "ip": "2401:4900:8fe0:e94f:39e0:7f2e:b915:b346",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -89618,10 +89618,10 @@
     },
     "223.181.16.73": {
       "type": "series",
-      "id": "tt0388629:19:93",
-      "title": "tt0388629:19:93",
+      "id": "tt0388629:19:95",
+      "title": "tt0388629:19:95",
       "username": "theaceofficials",
-      "lastActive": 1771532275516
+      "lastActive": 1771535375970
     },
     "2401:4900:8fe0:e94f:1c2c:ca2b:29b3:58a0": {
       "type": "series",
@@ -89646,10 +89646,10 @@
     },
     "2401:4900:8fe0:e94f:39e0:7f2e:b915:b346": {
       "type": "series",
-      "id": "tt0388629:19:94",
-      "title": "tt0388629:19:94",
+      "id": "tt0388629:19:95",
+      "title": "tt0388629:19:95",
       "username": "theaceofficials",
-      "lastActive": 1771533469131
+      "lastActive": 1771535485935
     }
   }
 }
