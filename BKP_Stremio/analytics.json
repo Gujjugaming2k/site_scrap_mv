@@ -1,5 +1,5 @@
 {
-  "totalViews": 27450,
+  "totalViews": 27454,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5591,41 +5591,10 @@
     "2603:3003:3544:6700:f2ba:ccd0:a596:ea19",
     "2405:201:5c14:2a70:5c05:649e:32a0:6bd2",
     "2401:4900:ac18:58d:48b4:47a4:8fe3:f108",
-    "2405:201:203e:b01c:d9bb:e4d3:b357:d043"
+    "2405:201:203e:b01c:d9bb:e4d3:b357:d043",
+    "2401:4900:a9ff:86c9:1c23:23ff:fed9:251"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-26T13:28:08.378Z",
-      "ip": "112.79.201.1",
-      "username": "targetx_25"
-    },
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-26T13:28:10.742Z",
-      "ip": "112.79.201.1",
-      "username": "targetx_25"
-    },
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-26T13:29:52.798Z",
-      "ip": "112.79.201.1",
-      "username": "targetx_25"
-    },
-    {
-      "type": "series",
-      "id": "tt12125238:1:6",
-      "title": "tt12125238:1:6",
-      "timestamp": "2026-01-26T13:30:18.873Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "movie",
       "id": "tt30144839",
@@ -85593,6 +85562,38 @@
       "timestamp": "2026-02-19T05:58:27.943Z",
       "ip": "2401:4900:8826:1d68:9d1b:4d8:5cc9:a9c",
       "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt35149250:1:7",
+      "title": "tt35149250:1:7",
+      "timestamp": "2026-02-19T06:11:56.835Z",
+      "ip": "2401:4900:ac18:58d:48b4:47a4:8fe3:f108",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "timestamp": "2026-02-19T06:14:31.480Z",
+      "ip": "2401:4900:a9ff:86c9:1c23:23ff:fed9:251",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "timestamp": "2026-02-19T06:14:31.600Z",
+      "ip": "2401:4900:a9ff:86c9:1c23:23ff:fed9:251",
+      "username": "iknowthat"
+    },
+    {
+      "type": "movie",
+      "id": "tt1386697",
+      "title": "Suicide Squad",
+      "timestamp": "2026-02-19T06:15:41.831Z",
+      "ip": "2409:40e6:213:8f80:c03f:b1ff:fe28:c90d",
+      "username": "nabakun24"
     }
   ],
   "activeNow": {
@@ -89070,10 +89071,10 @@
     },
     "2409:40e6:213:8f80:c03f:b1ff:fe28:c90d": {
       "type": "movie",
-      "id": "tt6334354",
-      "title": "The Suicide Squad",
+      "id": "tt1386697",
+      "title": "Suicide Squad",
       "username": "nabakun24",
-      "lastActive": 1771479722957
+      "lastActive": 1771481741831
     },
     "2405:201:2022:b81c:1c73:5f6b:b50e:5e83": {
       "type": "movie",
@@ -89175,10 +89176,10 @@
     },
     "2401:4900:ac18:58d:48b4:47a4:8fe3:f108": {
       "type": "series",
-      "id": "tt35149250:1:6",
-      "title": "tt35149250:1:6",
+      "id": "tt35149250:1:7",
+      "title": "tt35149250:1:7",
       "username": "vflix1993",
-      "lastActive": 1771478794189
+      "lastActive": 1771481516835
     },
     "2405:201:203e:b01c:d9bb:e4d3:b357:d043": {
       "type": "movie",
@@ -89186,6 +89187,13 @@
       "title": "tt31227572",
       "username": "pingmenoone",
       "lastActive": 1771479963171
+    },
+    "2401:4900:a9ff:86c9:1c23:23ff:fed9:251": {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "username": "iknowthat",
+      "lastActive": 1771481671600
     }
   }
 }
