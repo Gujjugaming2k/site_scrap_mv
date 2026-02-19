@@ -1,5 +1,5 @@
 {
-  "totalViews": 27761,
+  "totalViews": 27766,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5631,49 +5631,11 @@
     "2409:4080:9e83:f642:f479:ef80:dbdf:bda1",
     "2409:40c1:2031:147c:8000::",
     "216.73.163.228",
-    "2405:201:900f:a92b:29fb:4cdf:af13:4772"
+    "2405:201:900f:a92b:29fb:4cdf:af13:4772",
+    "45.118.158.132",
+    "2409:4055:2e3a:ed8a:2cc0:5f11:78c3:197d"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1399664:1:2",
-      "title": "tt1399664:1:2",
-      "timestamp": "2026-01-27T04:02:07.637Z",
-      "ip": "103.24.85.218",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt28142095",
-      "title": "tt28142095",
-      "timestamp": "2026-01-27T04:08:24.561Z",
-      "ip": "94.156.30.47",
-      "username": "b1jju"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:1:1",
-      "title": "tt0903747:1:1",
-      "timestamp": "2026-01-27T04:11:29.433Z",
-      "ip": "2a09:bac1:36a0:1e0::2a8:30",
-      "username": "demon18319"
-    },
-    {
-      "type": "movie",
-      "id": "tt0118751",
-      "title": "tt0118751",
-      "timestamp": "2026-01-27T04:12:17.148Z",
-      "ip": "94.156.30.47",
-      "username": "b1jju"
-    },
-    {
-      "type": "series",
-      "id": "tt38990492:1:2",
-      "title": "tt38990492:1:2",
-      "timestamp": "2026-01-27T04:15:25.201Z",
-      "ip": "190.140.187.206",
-      "username": "ymcinema"
-    },
     {
       "type": "series",
       "id": "tt0460649:4:16",
@@ -85633,6 +85595,46 @@
       "timestamp": "2026-02-19T16:38:02.709Z",
       "ip": "2405:201:900f:a92b:29fb:4cdf:af13:4772",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt36472392",
+      "title": "tt36472392",
+      "timestamp": "2026-02-19T16:38:37.324Z",
+      "ip": "2405:201:900f:a92b:29fb:4cdf:af13:4772",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt36472392",
+      "title": "tt36472392",
+      "timestamp": "2026-02-19T16:39:40.264Z",
+      "ip": "2405:201:900f:a92b:29fb:4cdf:af13:4772",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:9",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-19T16:43:49.062Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "movie",
+      "id": "tt14107334",
+      "title": "tt14107334",
+      "timestamp": "2026-02-19T16:48:41.435Z",
+      "ip": "45.118.158.132",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt0997084",
+      "title": "tt0997084",
+      "timestamp": "2026-02-19T16:50:16.840Z",
+      "ip": "2409:4055:2e3a:ed8a:2cc0:5f11:78c3:197d",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -85984,7 +85986,7 @@
       "id": "tt0944947:1:9",
       "title": "Game of Thrones",
       "username": "un0fficial_itachi",
-      "lastActive": 1771517406121
+      "lastActive": 1771519429062
     },
     "94.156.30.212": {
       "type": "movie",
@@ -89505,7 +89507,21 @@
       "id": "tt36472392",
       "title": "tt36472392",
       "username": "theonlyfreak",
-      "lastActive": 1771519082709
+      "lastActive": 1771519180264
+    },
+    "45.118.158.132": {
+      "type": "movie",
+      "id": "tt14107334",
+      "title": "tt14107334",
+      "username": "gaendaswami",
+      "lastActive": 1771519721435
+    },
+    "2409:4055:2e3a:ed8a:2cc0:5f11:78c3:197d": {
+      "type": "movie",
+      "id": "tt0997084",
+      "title": "tt0997084",
+      "username": "theaceofficials",
+      "lastActive": 1771519816840
     }
   }
 }
