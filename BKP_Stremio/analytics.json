@@ -1,5 +1,5 @@
 {
-  "totalViews": 27703,
+  "totalViews": 27706,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5622,33 +5622,10 @@
     "2a09:bac5:40d1:1a96::2a6:4a",
     "2401:4900:1c0b:1e04:8c10:e5e:a15f:b10e",
     "2405:201:682e:6839:7ce9:4f98:3087:f6a1",
-    "2409:40e0:243b:de7a:839:7ac7:e137:e710"
+    "2409:40e0:243b:de7a:839:7ac7:e137:e710",
+    "2409:40e0:53:abce:839:7ac7:e137:e710"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4158110:3:1",
-      "title": "tt4158110:3:1",
-      "timestamp": "2026-01-26T20:02:13.659Z",
-      "ip": "82.17.152.146",
-      "username": "idubno"
-    },
-    {
-      "type": "movie",
-      "id": "tt28142095",
-      "title": "tt28142095",
-      "timestamp": "2026-01-26T20:25:39.393Z",
-      "ip": "2409:40f4:3f:6e71:7c0f:57ff:fe7b:1ba1",
-      "username": "zindha"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:5:16",
-      "title": "tt0903747:5:16",
-      "timestamp": "2026-01-26T20:44:22.289Z",
-      "ip": "182.69.179.34",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "movie",
       "id": "tt0088247",
@@ -85624,6 +85601,30 @@
       "timestamp": "2026-02-19T13:19:07.740Z",
       "ip": "2409:40e0:243b:de7a:839:7ac7:e137:e710",
       "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt26581740",
+      "title": "Weapons",
+      "timestamp": "2026-02-19T13:33:16.864Z",
+      "ip": "2409:40e0:53:abce:839:7ac7:e137:e710",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt4141368",
+      "title": "tt4141368",
+      "timestamp": "2026-02-19T13:38:57.744Z",
+      "ip": "2409:40e0:53:abce:839:7ac7:e137:e710",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:7",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-19T13:44:04.685Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
     }
   ],
   "activeNow": {
@@ -85972,10 +85973,10 @@
     },
     "103.175.168.106": {
       "type": "series",
-      "id": "tt5323298:1:1",
-      "title": "tt5323298:1:1",
+      "id": "tt0944947:1:7",
+      "title": "Game of Thrones",
       "username": "un0fficial_itachi",
-      "lastActive": 1771506169821
+      "lastActive": 1771508644685
     },
     "94.156.30.212": {
       "type": "movie",
@@ -89434,6 +89435,13 @@
       "title": "Smile",
       "username": "nobody_ismy_name",
       "lastActive": 1771507147740
+    },
+    "2409:40e0:53:abce:839:7ac7:e137:e710": {
+      "type": "movie",
+      "id": "tt4141368",
+      "title": "tt4141368",
+      "username": "nobody_ismy_name",
+      "lastActive": 1771508337744
     }
   }
 }
