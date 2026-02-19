@@ -1,5 +1,5 @@
 {
-  "totalViews": 27641,
+  "totalViews": 27646,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5614,49 +5614,10 @@
     "2405:201:6025:a88d:8d9b:e166:81f1:8f07",
     "27.6.142.178",
     "47.31.108.19",
-    "2402:3a80:4421:b283:4f4:e2f7:2adc:bc94"
+    "2402:3a80:4421:b283:4f4:e2f7:2adc:bc94",
+    "2a09:bac5:3b44:2e3c::49b:3b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0460649:4:13",
-      "title": "tt0460649:4:13",
-      "timestamp": "2026-01-26T16:33:58.552Z",
-      "ip": "2a09:bac5:40d3:1478::20a:cb",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt32612521:1:6",
-      "title": "tt32612521:1:6",
-      "timestamp": "2026-01-26T16:35:25.843Z",
-      "ip": "115.98.99.86",
-      "username": "nothingokk"
-    },
-    {
-      "type": "series",
-      "id": "tt32612521:1:7",
-      "title": "tt32612521:1:7",
-      "timestamp": "2026-01-26T16:36:02.382Z",
-      "ip": "115.98.99.86",
-      "username": "nothingokk"
-    },
-    {
-      "type": "series",
-      "id": "tt32612521:1:7",
-      "title": "tt32612521:1:7",
-      "timestamp": "2026-01-26T16:36:22.690Z",
-      "ip": "115.98.99.86",
-      "username": "nothingokk"
-    },
-    {
-      "type": "series",
-      "id": "tt32612521:1:7",
-      "title": "tt32612521:1:7",
-      "timestamp": "2026-01-26T16:36:24.710Z",
-      "ip": "115.98.99.86",
-      "username": "nothingokk"
-    },
     {
       "type": "movie",
       "id": "tt30387012",
@@ -85616,6 +85577,46 @@
       "timestamp": "2026-02-19T11:11:53.491Z",
       "ip": "2402:3a80:4421:b283:4f4:e2f7:2adc:bc94",
       "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt21108804",
+      "title": "tt21108804",
+      "timestamp": "2026-02-19T11:14:54.779Z",
+      "ip": "2405:201:2022:b81c:401e:2491:1d0b:c713",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt21108804",
+      "title": "tt21108804",
+      "timestamp": "2026-02-19T11:17:30.318Z",
+      "ip": "2405:201:2022:b81c:401e:2491:1d0b:c713",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt21108804",
+      "title": "tt21108804",
+      "timestamp": "2026-02-19T11:19:34.681Z",
+      "ip": "2405:201:2022:b81c:401e:2491:1d0b:c713",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt21108804",
+      "title": "tt21108804",
+      "timestamp": "2026-02-19T11:21:34.322Z",
+      "ip": "2405:201:2022:b81c:401e:2491:1d0b:c713",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-02-19T11:22:48.816Z",
+      "ip": "2a09:bac5:3b44:2e3c::49b:3b",
+      "username": "infinityseeker"
     }
   ],
   "activeNow": {
@@ -89240,10 +89241,10 @@
     },
     "2405:201:2022:b81c:401e:2491:1d0b:c713": {
       "type": "movie",
-      "id": "tmdb:965087",
-      "title": "tmdb:965087",
+      "id": "tt21108804",
+      "title": "tt21108804",
       "username": "zealousninja",
-      "lastActive": 1771496679279
+      "lastActive": 1771500094322
     },
     "103.249.4.209": {
       "type": "series",
@@ -89370,6 +89371,13 @@
       "title": "tt13676344:3:3",
       "username": "gendaswammy",
       "lastActive": 1771499513491
+    },
+    "2a09:bac5:3b44:2e3c::49b:3b": {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "username": "infinityseeker",
+      "lastActive": 1771500168816
     }
   }
 }
