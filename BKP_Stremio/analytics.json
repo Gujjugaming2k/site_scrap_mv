@@ -1,5 +1,5 @@
 {
-  "totalViews": 27683,
+  "totalViews": 27689,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5618,57 +5618,10 @@
     "2a09:bac5:3b44:2e3c::49b:3b",
     "2401:4900:1cb2:c754:90a8:3d8e:c8bc:9847",
     "2401:4900:bcf7:c624::309:b3db",
-    "2a02:9b0:106:4496:2ce9:2c79:3d64:dc24"
+    "2a02:9b0:106:4496:2ce9:2c79:3d64:dc24",
+    "2a09:bac5:40d1:1a96::2a6:4a"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-26T18:22:25.464Z",
-      "ip": "2a09:bac5:3c96:1d05::2e4:100",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-26T18:25:00.336Z",
-      "ip": "2401:4900:1c54:4fa0:5d53:1677:48be:71b7",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-26T18:25:57.807Z",
-      "ip": "146.70.102.182",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt0388629:10:24",
-      "title": "tt0388629:10:24",
-      "timestamp": "2026-01-26T18:35:58.872Z",
-      "ip": "152.59.203.222",
-      "username": "rick grimes"
-    },
-    {
-      "type": "series",
-      "id": "tt0388629:10:1",
-      "title": "tt0388629:10:1",
-      "timestamp": "2026-01-26T18:36:17.513Z",
-      "ip": "152.59.203.222",
-      "username": "rick grimes"
-    },
-    {
-      "type": "series",
-      "id": "tt0388629:10:1",
-      "title": "tt0388629:10:1",
-      "timestamp": "2026-01-26T18:36:32.641Z",
-      "ip": "152.59.203.222",
-      "username": "rick grimes"
-    },
     {
       "type": "series",
       "id": "tt0388629:9:1",
@@ -85620,6 +85573,54 @@
       "timestamp": "2026-02-19T12:39:50.592Z",
       "ip": "103.98.208.20",
       "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:7",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-19T12:46:17.098Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:7",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-19T12:49:45.257Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "movie",
+      "id": "tt1386697",
+      "title": "Suicide Squad",
+      "timestamp": "2026-02-19T12:54:43.808Z",
+      "ip": "2409:40e6:213:8f80:c03f:b1ff:fe28:c90d",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:6:5",
+      "title": "tt0460649:6:5",
+      "timestamp": "2026-02-19T12:56:13.032Z",
+      "ip": "2a09:bac5:40d1:1a96::2a6:4a",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt1386697",
+      "title": "Suicide Squad",
+      "timestamp": "2026-02-19T12:58:10.009Z",
+      "ip": "2409:40e6:213:8f80:c03f:b1ff:fe28:c90d",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt0945513",
+      "title": "Source Code",
+      "timestamp": "2026-02-19T12:58:14.835Z",
+      "ip": "2409:40e6:213:8f80:c03f:b1ff:fe28:c90d",
+      "username": "nabakun24"
     }
   ],
   "activeNow": {
@@ -85971,7 +85972,7 @@
       "id": "tt0944947:1:7",
       "title": "Game of Thrones",
       "username": "un0fficial_itachi",
-      "lastActive": 1771418065856
+      "lastActive": 1771505385257
     },
     "94.156.30.212": {
       "type": "movie",
@@ -89097,10 +89098,10 @@
     },
     "2409:40e6:213:8f80:c03f:b1ff:fe28:c90d": {
       "type": "movie",
-      "id": "tt1386697",
-      "title": "Suicide Squad",
+      "id": "tt0945513",
+      "title": "Source Code",
       "username": "nabakun24",
-      "lastActive": 1771489887863
+      "lastActive": 1771505894835
     },
     "2405:201:2022:b81c:1c73:5f6b:b50e:5e83": {
       "type": "movie",
@@ -89402,6 +89403,13 @@
       "title": "tt32916440",
       "username": "hoosa500",
       "lastActive": 1771504098224
+    },
+    "2a09:bac5:40d1:1a96::2a6:4a": {
+      "type": "series",
+      "id": "tt0460649:6:5",
+      "title": "tt0460649:6:5",
+      "username": "demon18319",
+      "lastActive": 1771505773032
     }
   }
 }
