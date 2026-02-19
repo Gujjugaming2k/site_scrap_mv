@@ -1,5 +1,5 @@
 {
-  "totalViews": 27755,
+  "totalViews": 27758,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5633,30 +5633,6 @@
     "216.73.163.228"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt38990492:1:3",
-      "title": "tt38990492:1:3",
-      "timestamp": "2026-01-27T03:41:34.735Z",
-      "ip": "190.140.187.206",
-      "username": "ymcinema"
-    },
-    {
-      "type": "movie",
-      "id": "tt30818815",
-      "title": "tt30818815",
-      "timestamp": "2026-01-27T03:55:07.454Z",
-      "ip": "94.156.30.47",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt30818815",
-      "title": "tt30818815",
-      "timestamp": "2026-01-27T03:56:00.515Z",
-      "ip": "94.156.30.47",
-      "username": "b1jju"
-    },
     {
       "type": "movie",
       "id": "tt28142095",
@@ -85632,6 +85608,30 @@
       "timestamp": "2026-02-19T16:07:02.019Z",
       "ip": "2409:40c4:300c:95c:1027:a2ff:fe06:df48",
       "username": "napsteerr"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:1",
+      "title": "tt1399664:1:1",
+      "timestamp": "2026-02-19T16:08:12.445Z",
+      "ip": "2409:40c4:300c:95c:1027:a2ff:fe06:df48",
+      "username": "napsteerr"
+    },
+    {
+      "type": "series",
+      "id": "tt1399664:1:2",
+      "title": "tt1399664:1:2",
+      "timestamp": "2026-02-19T16:08:31.075Z",
+      "ip": "2409:40c4:300c:95c:1027:a2ff:fe06:df48",
+      "username": "napsteerr"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:9",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-19T16:10:06.121Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
     }
   ],
   "activeNow": {
@@ -85980,10 +85980,10 @@
     },
     "103.175.168.106": {
       "type": "series",
-      "id": "tt0944947:1:8",
+      "id": "tt0944947:1:9",
       "title": "Game of Thrones",
       "username": "un0fficial_itachi",
-      "lastActive": 1771510736317
+      "lastActive": 1771517406121
     },
     "94.156.30.212": {
       "type": "movie",
@@ -89032,10 +89032,10 @@
     },
     "2409:40c4:300c:95c:1027:a2ff:fe06:df48": {
       "type": "series",
-      "id": "tt4052886:5:1",
-      "title": "tt4052886:5:1",
+      "id": "tt1399664:1:2",
+      "title": "tt1399664:1:2",
       "username": "napsteerr",
-      "lastActive": 1771517222019
+      "lastActive": 1771517311075
     },
     "2409:40e4:1094:581b:a9d4:e6ee:1597:24e3": {
       "type": "series",
