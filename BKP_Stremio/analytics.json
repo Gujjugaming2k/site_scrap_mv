@@ -1,5 +1,5 @@
 {
-  "totalViews": 27915,
+  "totalViews": 27917,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5652,22 +5652,6 @@
     "2401:4900:8fe0:e94f:39e0:7f2e:b915:b346"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:5:8",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-27T12:55:11.429Z",
-      "ip": "2409:40c1:400c:81cd:8000::",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:8",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-27T12:55:13.097Z",
-      "ip": "2409:40c1:400c:81cd:8000::",
-      "username": "belimhuzaifa"
-    },
     {
       "type": "movie",
       "id": "tt15980138",
@@ -85651,6 +85635,22 @@
       "timestamp": "2026-02-19T20:17:55.516Z",
       "ip": "223.181.16.73",
       "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:7:4",
+      "title": "tt0412142:7:4",
+      "timestamp": "2026-02-19T20:33:21.281Z",
+      "ip": "2406:7400:3b:55f4::d3d",
+      "username": "telegram"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:19:94",
+      "title": "tt0388629:19:94",
+      "timestamp": "2026-02-19T20:37:49.131Z",
+      "ip": "2401:4900:8fe0:e94f:39e0:7f2e:b915:b346",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -87531,11 +87531,11 @@
       "lastActive": 1771250102891
     },
     "2406:7400:3b:55f4::d3d": {
-      "type": "movie",
-      "id": "tt11214558",
-      "title": "The Smashing Machine",
-      "username": "smallchungus",
-      "lastActive": 1771252173570
+      "type": "series",
+      "id": "tt0412142:7:4",
+      "title": "tt0412142:7:4",
+      "username": "telegram",
+      "lastActive": 1771533201281
     },
     "2406:7400:3b:55f4:9cbc:cc39:e674:c899": {
       "type": "movie",
@@ -89646,10 +89646,10 @@
     },
     "2401:4900:8fe0:e94f:39e0:7f2e:b915:b346": {
       "type": "series",
-      "id": "tt0388629:19:92",
-      "title": "tt0388629:19:92",
+      "id": "tt0388629:19:94",
+      "title": "tt0388629:19:94",
       "username": "theaceofficials",
-      "lastActive": 1771531065304
+      "lastActive": 1771533469131
     }
   }
 }
