@@ -1,5 +1,5 @@
 {
-  "totalViews": 27932,
+  "totalViews": 27933,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5650,17 +5650,10 @@
     "2409:4055:2e3a:ed8a:315c:5f44:a4e2:f966",
     "2001:4490:4e65:683:99ff:342b:e101:2344",
     "2401:4900:8fe0:e94f:39e0:7f2e:b915:b346",
-    "2402:8100:2caf:c36e:a0fe:1e62:6183:a8c7"
+    "2402:8100:2caf:c36e:a0fe:1e62:6183:a8c7",
+    "2402:8100:2ce3:fadb:784b:dffa:68b9:d60e"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12324366:2:8",
-      "title": "tt12324366:2:8",
-      "timestamp": "2026-01-27T13:15:23.432Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
     {
       "type": "series",
       "id": "tt12324366:2:7",
@@ -85652,6 +85645,14 @@
       "timestamp": "2026-02-19T22:35:30.116Z",
       "ip": "2402:8100:2caf:c36e:a0fe:1e62:6183:a8c7",
       "username": "schnom153"
+    },
+    {
+      "type": "movie",
+      "id": "tt1922777",
+      "title": "tt1922777",
+      "timestamp": "2026-02-19T23:38:36.303Z",
+      "ip": "2402:8100:2ce3:fadb:784b:dffa:68b9:d60e",
+      "username": "schnom153"
     }
   ],
   "activeNow": {
@@ -89658,6 +89659,13 @@
       "title": "tt0106519",
       "username": "schnom153",
       "lastActive": 1771540530116
+    },
+    "2402:8100:2ce3:fadb:784b:dffa:68b9:d60e": {
+      "type": "movie",
+      "id": "tt1922777",
+      "title": "tt1922777",
+      "username": "schnom153",
+      "lastActive": 1771544316303
     }
   }
 }
