@@ -1,5 +1,5 @@
 {
-  "totalViews": 27701,
+  "totalViews": 27703,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5625,22 +5625,6 @@
     "2409:40e0:243b:de7a:839:7ac7:e137:e710"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0903747:5:15",
-      "title": "tt0903747:5:15",
-      "timestamp": "2026-01-26T19:48:30.821Z",
-      "ip": "182.69.179.34",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt4158110:2:7",
-      "title": "tt4158110:2:7",
-      "timestamp": "2026-01-26T20:01:56.624Z",
-      "ip": "82.17.152.146",
-      "username": "idubno"
-    },
     {
       "type": "series",
       "id": "tt4158110:3:1",
@@ -85624,6 +85608,22 @@
       "timestamp": "2026-02-19T13:13:53.461Z",
       "ip": "2409:40e0:243b:de7a:839:7ac7:e137:e710",
       "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt29268110",
+      "title": "tt29268110",
+      "timestamp": "2026-02-19T13:18:48.121Z",
+      "ip": "2409:40e0:243b:de7a:839:7ac7:e137:e710",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt15474916",
+      "title": "Smile",
+      "timestamp": "2026-02-19T13:19:07.740Z",
+      "ip": "2409:40e0:243b:de7a:839:7ac7:e137:e710",
+      "username": "nobody_ismy_name"
     }
   ],
   "activeNow": {
@@ -89430,10 +89430,10 @@
     },
     "2409:40e0:243b:de7a:839:7ac7:e137:e710": {
       "type": "movie",
-      "id": "tt0289043",
-      "title": "28 Days Later",
+      "id": "tt15474916",
+      "title": "Smile",
       "username": "nobody_ismy_name",
-      "lastActive": 1771506833461
+      "lastActive": 1771507147740
     }
   }
 }
