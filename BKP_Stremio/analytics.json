@@ -1,5 +1,5 @@
 {
-  "totalViews": 27676,
+  "totalViews": 27683,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5621,62 +5621,6 @@
     "2a02:9b0:106:4496:2ce9:2c79:3d64:dc24"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0388629:4:1",
-      "title": "tt0388629:4:1",
-      "timestamp": "2026-01-26T18:02:09.084Z",
-      "ip": "2409:40f0:1d:570d:ec9a:ff:fe15:21dd",
-      "username": "rick grimes"
-    },
-    {
-      "type": "series",
-      "id": "tt0388629:4:2",
-      "title": "tt0388629:4:2",
-      "timestamp": "2026-01-26T18:03:24.541Z",
-      "ip": "2409:40f0:1d:570d:ec9a:ff:fe15:21dd",
-      "username": "rick grimes"
-    },
-    {
-      "type": "series",
-      "id": "tt0388629:4:1",
-      "title": "tt0388629:4:1",
-      "timestamp": "2026-01-26T18:03:42.045Z",
-      "ip": "2409:40f0:1d:570d:ec9a:ff:fe15:21dd",
-      "username": "rick grimes"
-    },
-    {
-      "type": "series",
-      "id": "tt0388629:4:2",
-      "title": "tt0388629:4:2",
-      "timestamp": "2026-01-26T18:05:22.521Z",
-      "ip": "2409:40f0:1d:570d:ec9a:ff:fe15:21dd",
-      "username": "rick grimes"
-    },
-    {
-      "type": "series",
-      "id": "tt0388629:4:2",
-      "title": "tt0388629:4:2",
-      "timestamp": "2026-01-26T18:05:22.604Z",
-      "ip": "2409:40f0:1d:570d:ec9a:ff:fe15:21dd",
-      "username": "rick grimes"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-26T18:16:54.829Z",
-      "ip": "152.59.1.10",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-26T18:21:45.727Z",
-      "ip": "2a09:bac5:3c96:1d05::2e4:100",
-      "username": "belimhuzaifa"
-    },
     {
       "type": "series",
       "id": "tt0944947:1:1",
@@ -85620,6 +85564,62 @@
       "timestamp": "2026-02-19T12:28:41.042Z",
       "ip": "103.98.208.20",
       "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt28335329",
+      "title": "tt28335329",
+      "timestamp": "2026-02-19T12:29:49.618Z",
+      "ip": "103.98.208.20",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt37893389",
+      "title": "tt37893389",
+      "timestamp": "2026-02-19T12:30:24.119Z",
+      "ip": "103.98.208.20",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt33088887",
+      "title": "tt33088887",
+      "timestamp": "2026-02-19T12:31:11.634Z",
+      "ip": "103.98.208.20",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt32864368",
+      "title": "tt32864368",
+      "timestamp": "2026-02-19T12:31:50.072Z",
+      "ip": "103.98.208.20",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt39182415:1:5",
+      "title": "tt39182415:1:5",
+      "timestamp": "2026-02-19T12:33:03.584Z",
+      "ip": "103.98.208.20",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt39182415:1:5",
+      "title": "tt39182415:1:5",
+      "timestamp": "2026-02-19T12:34:55.201Z",
+      "ip": "103.98.208.20",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt1375666",
+      "title": "Inception",
+      "timestamp": "2026-02-19T12:39:50.592Z",
+      "ip": "103.98.208.20",
+      "username": "thala_75"
     }
   ],
   "activeNow": {
@@ -88173,10 +88173,10 @@
     },
     "103.98.208.20": {
       "type": "movie",
-      "id": "tt33343562",
-      "title": "tt33343562",
+      "id": "tt1375666",
+      "title": "Inception",
       "username": "thala_75",
-      "lastActive": 1771504121042
+      "lastActive": 1771504790592
     },
     "2a09:bac5:3af1:86e::d7:50": {
       "type": "movie",
