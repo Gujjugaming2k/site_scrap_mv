@@ -1,5 +1,5 @@
 {
-  "totalViews": 27912,
+  "totalViews": 27914,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5648,25 +5648,10 @@
     "223.181.16.73",
     "2401:4900:8fe0:e94f:1c2c:ca2b:29b3:58a0",
     "2409:4055:2e3a:ed8a:315c:5f44:a4e2:f966",
-    "2001:4490:4e65:683:99ff:342b:e101:2344"
+    "2001:4490:4e65:683:99ff:342b:e101:2344",
+    "2401:4900:8fe0:e94f:39e0:7f2e:b915:b346"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0938330",
-      "title": "tt0938330",
-      "timestamp": "2026-01-27T12:54:48.608Z",
-      "ip": "152.56.133.92",
-      "username": "jinwoooooi"
-    },
-    {
-      "type": "movie",
-      "id": "tt33034505",
-      "title": "tt33034505",
-      "timestamp": "2026-01-27T12:54:54.046Z",
-      "ip": "152.56.133.92",
-      "username": "jinwoooooi"
-    },
     {
       "type": "movie",
       "id": "tt0384537",
@@ -85650,6 +85635,22 @@
       "timestamp": "2026-02-19T19:40:31.010Z",
       "ip": "2001:4490:4e65:683:99ff:342b:e101:2344",
       "username": "adiyogivishwanath"
+    },
+    {
+      "type": "movie",
+      "id": "tt1190080",
+      "title": "tt1190080",
+      "timestamp": "2026-02-19T19:57:31.121Z",
+      "ip": "103.162.159.140",
+      "username": "opuser75"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:19:92",
+      "title": "tt0388629:19:92",
+      "timestamp": "2026-02-19T19:57:45.304Z",
+      "ip": "2401:4900:8fe0:e94f:39e0:7f2e:b915:b346",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -86880,10 +86881,10 @@
     },
     "103.162.159.140": {
       "type": "movie",
-      "id": "tt0277296",
-      "title": "The Scorpion King",
+      "id": "tt1190080",
+      "title": "tt1190080",
       "username": "opuser75",
-      "lastActive": 1771516360024
+      "lastActive": 1771531051121
     },
     "2409:40d4:3000:4eb:90c2:b87f:1676:df9b": {
       "type": "series",
@@ -89642,6 +89643,13 @@
       "title": "Ballerina",
       "username": "adiyogivishwanath",
       "lastActive": 1771530031010
+    },
+    "2401:4900:8fe0:e94f:39e0:7f2e:b915:b346": {
+      "type": "series",
+      "id": "tt0388629:19:92",
+      "title": "tt0388629:19:92",
+      "username": "theaceofficials",
+      "lastActive": 1771531065304
     }
   }
 }
