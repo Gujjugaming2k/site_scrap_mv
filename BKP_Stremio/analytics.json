@@ -1,5 +1,5 @@
 {
-  "totalViews": 27382,
+  "totalViews": 27385,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5584,33 +5584,10 @@
     "45.131.195.83",
     "2603:3003:3544:6700:6970:8ebe:e6bd:be78",
     "2402:a00:10a:815f:6275:3e3d:f3da:99c1",
-    "2a09:bac1:36e0:5e98::10c:2b"
+    "2a09:bac1:36e0:5e98::10c:2b",
+    "2405:201:6025:a88d:8bf1:ad92:5dc8:c002"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:2:1",
-      "title": "Lost",
-      "timestamp": "2026-01-26T11:47:51.196Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:1:24",
-      "title": "Lost",
-      "timestamp": "2026-01-26T11:47:53.750Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:1:24",
-      "title": "Lost",
-      "timestamp": "2026-01-26T11:48:16.289Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
     {
       "type": "series",
       "id": "tt0411008:2:1",
@@ -85586,6 +85563,30 @@
       "timestamp": "2026-02-19T02:31:35.407Z",
       "ip": "2a09:bac1:36e0:5e98::10c:2b",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt34622232",
+      "title": "tt34622232",
+      "timestamp": "2026-02-19T02:47:38.682Z",
+      "ip": "2405:201:6025:a88d:8bf1:ad92:5dc8:c002",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt1598778",
+      "title": "tt1598778",
+      "timestamp": "2026-02-19T02:51:44.274Z",
+      "ip": "103.46.200.217",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt0918940",
+      "title": "tt0918940",
+      "timestamp": "2026-02-19T02:51:47.380Z",
+      "ip": "103.46.200.217",
+      "username": "katdenningssss"
     }
   ],
   "activeNow": {
@@ -87656,10 +87657,10 @@
     },
     "103.46.200.217": {
       "type": "movie",
-      "id": "tt7363066",
-      "title": "tt7363066",
+      "id": "tt0918940",
+      "title": "tt0918940",
       "username": "katdenningssss",
-      "lastActive": 1771422586179
+      "lastActive": 1771469507380
     },
     "2402:a00:10a:815f:1c61:96f6:ead6:d9c1": {
       "type": "movie",
@@ -89130,6 +89131,13 @@
       "title": "tt7120662:1:3",
       "username": "demon18319",
       "lastActive": 1771468295407
+    },
+    "2405:201:6025:a88d:8bf1:ad92:5dc8:c002": {
+      "type": "movie",
+      "id": "tt34622232",
+      "title": "tt34622232",
+      "username": "infinityseeker",
+      "lastActive": 1771469258682
     }
   }
 }
