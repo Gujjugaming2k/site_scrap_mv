@@ -1,5 +1,5 @@
 {
-  "totalViews": 27930,
+  "totalViews": 27932,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5653,22 +5653,6 @@
     "2402:8100:2caf:c36e:a0fe:1e62:6183:a8c7"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1187043",
-      "title": "3 Idiots",
-      "timestamp": "2026-01-27T13:08:14.602Z",
-      "ip": "2401:4900:aa31:2e18:94d6:81ff:fee1:ef2f",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt0111161",
-      "title": "The Shawshank Redemption",
-      "timestamp": "2026-01-27T13:08:24.931Z",
-      "ip": "2401:4900:aa31:2e18:94d6:81ff:fee1:ef2f",
-      "username": "b1jju"
-    },
     {
       "type": "series",
       "id": "tt12324366:2:8",
@@ -85652,6 +85636,22 @@
       "timestamp": "2026-02-19T22:09:31.911Z",
       "ip": "2402:8100:2caf:c36e:a0fe:1e62:6183:a8c7",
       "username": "schnom153"
+    },
+    {
+      "type": "movie",
+      "id": "tt0083190",
+      "title": "tt0083190",
+      "timestamp": "2026-02-19T22:35:03.780Z",
+      "ip": "2402:8100:2caf:c36e:a0fe:1e62:6183:a8c7",
+      "username": "schnom153"
+    },
+    {
+      "type": "movie",
+      "id": "tt0106519",
+      "title": "tt0106519",
+      "timestamp": "2026-02-19T22:35:30.116Z",
+      "ip": "2402:8100:2caf:c36e:a0fe:1e62:6183:a8c7",
+      "username": "schnom153"
     }
   ],
   "activeNow": {
@@ -89653,11 +89653,11 @@
       "lastActive": 1771538360952
     },
     "2402:8100:2caf:c36e:a0fe:1e62:6183:a8c7": {
-      "type": "series",
-      "id": "tt0098936:1:1",
-      "title": "tt0098936:1:1",
+      "type": "movie",
+      "id": "tt0106519",
+      "title": "tt0106519",
       "username": "schnom153",
-      "lastActive": 1771538971911
+      "lastActive": 1771540530116
     }
   }
 }
