@@ -1,5 +1,5 @@
 {
-  "totalViews": 27724,
+  "totalViews": 27727,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5626,33 +5626,11 @@
     "2409:40e0:53:abce:839:7ac7:e137:e710",
     "2409:40d4:120:e756:14b4:aff:fe13:a233",
     "2409:40d4:120:e756:14b4:aff:fe13:a233,51.89.197.91",
-    "2405:201:5c14:2a70:dd06:1d20:579a:a542"
+    "2405:201:5c14:2a70:dd06:1d20:579a:a542",
+    "106.200.3.167",
+    "2409:4080:9e83:f642:f479:ef80:dbdf:bda1"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt3197766",
-      "title": "tt3197766",
-      "timestamp": "2026-01-27T00:31:28.717Z",
-      "ip": "223.181.77.202",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt3197766",
-      "title": "tt3197766",
-      "timestamp": "2026-01-27T00:46:08.595Z",
-      "ip": "223.181.77.202",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt3197766",
-      "title": "tt3197766",
-      "timestamp": "2026-01-27T01:12:13.056Z",
-      "ip": "223.181.77.202",
-      "username": "b1jju"
-    },
     {
       "type": "movie",
       "id": "tt31712109",
@@ -85628,6 +85606,30 @@
       "timestamp": "2026-02-19T14:25:36.727Z",
       "ip": "2a09:bac5:40d1:1a96::2a6:4a",
       "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "timestamp": "2026-02-19T14:40:25.234Z",
+      "ip": "106.200.3.167",
+      "username": "thevedikgujjar"
+    },
+    {
+      "type": "movie",
+      "id": "tt0330217",
+      "title": "tt0330217",
+      "timestamp": "2026-02-19T14:41:28.864Z",
+      "ip": "2401:9640:801:d874:54a9:3cd:1ef5:26b4",
+      "username": "suprememayank"
+    },
+    {
+      "type": "movie",
+      "id": "tt0892769",
+      "title": "How to Train Your Dragon",
+      "timestamp": "2026-02-19T14:45:31.361Z",
+      "ip": "2409:4080:9e83:f642:f479:ef80:dbdf:bda1",
+      "username": "surti_lala"
     }
   ],
   "activeNow": {
@@ -87488,10 +87490,10 @@
     },
     "2401:9640:801:d874:54a9:3cd:1ef5:26b4": {
       "type": "movie",
-      "id": "tt0251127",
-      "title": "How to Lose a Guy in 10 Days",
+      "id": "tt0330217",
+      "title": "tt0330217",
       "username": "suprememayank",
-      "lastActive": 1771265180887
+      "lastActive": 1771512088864
     },
     "38.254.182.12": {
       "type": "movie",
@@ -89466,6 +89468,20 @@
       "title": "tt21066182:1:4",
       "username": "extremeyat",
       "lastActive": 1771509729379
+    },
+    "106.200.3.167": {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "username": "thevedikgujjar",
+      "lastActive": 1771512025234
+    },
+    "2409:4080:9e83:f642:f479:ef80:dbdf:bda1": {
+      "type": "movie",
+      "id": "tt0892769",
+      "title": "How to Train Your Dragon",
+      "username": "surti_lala",
+      "lastActive": 1771512331361
     }
   }
 }
