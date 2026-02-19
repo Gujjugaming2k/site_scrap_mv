@@ -1,5 +1,5 @@
 {
-  "totalViews": 27753,
+  "totalViews": 27755,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5633,22 +5633,6 @@
     "216.73.163.228"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt38990492:1:2",
-      "title": "tt38990492:1:2",
-      "timestamp": "2026-01-27T03:37:38.627Z",
-      "ip": "190.140.187.206",
-      "username": "ymcinema"
-    },
-    {
-      "type": "movie",
-      "id": "tt31852038",
-      "title": "tt31852038",
-      "timestamp": "2026-01-27T03:38:20.059Z",
-      "ip": "94.156.30.47",
-      "username": "b1jju"
-    },
     {
       "type": "series",
       "id": "tt38990492:1:3",
@@ -85632,6 +85616,22 @@
       "timestamp": "2026-02-19T15:52:40.024Z",
       "ip": "103.162.159.140",
       "username": "opuser75"
+    },
+    {
+      "type": "series",
+      "id": "tt4052886:5:2",
+      "title": "tt4052886:5:2",
+      "timestamp": "2026-02-19T16:07:01.444Z",
+      "ip": "2409:40c4:300c:95c:1027:a2ff:fe06:df48",
+      "username": "napsteerr"
+    },
+    {
+      "type": "series",
+      "id": "tt4052886:5:1",
+      "title": "tt4052886:5:1",
+      "timestamp": "2026-02-19T16:07:02.019Z",
+      "ip": "2409:40c4:300c:95c:1027:a2ff:fe06:df48",
+      "username": "napsteerr"
     }
   ],
   "activeNow": {
@@ -89032,10 +89032,10 @@
     },
     "2409:40c4:300c:95c:1027:a2ff:fe06:df48": {
       "type": "series",
-      "id": "tt1399664:1:2",
-      "title": "tt1399664:1:2",
+      "id": "tt4052886:5:1",
+      "title": "tt4052886:5:1",
       "username": "napsteerr",
-      "lastActive": 1771432372951
+      "lastActive": 1771517222019
     },
     "2409:40e4:1094:581b:a9d4:e6ee:1597:24e3": {
       "type": "series",
