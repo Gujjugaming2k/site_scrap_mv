@@ -1,5 +1,5 @@
 {
-  "totalViews": 27379,
+  "totalViews": 27382,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5582,33 +5582,11 @@
     "2402:8100:2cd0:6201:d137:3477:3185:e207",
     "27.97.173.6",
     "45.131.195.83",
-    "2603:3003:3544:6700:6970:8ebe:e6bd:be78"
+    "2603:3003:3544:6700:6970:8ebe:e6bd:be78",
+    "2402:a00:10a:815f:6275:3e3d:f3da:99c1",
+    "2a09:bac1:36e0:5e98::10c:2b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
-      "timestamp": "2026-01-26T11:17:16.105Z",
-      "ip": "2409:40c1:4038:5c8a:8000::",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt12125238:1:4",
-      "title": "tt12125238:1:4",
-      "timestamp": "2026-01-26T11:20:24.404Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt30387012",
-      "title": "tt30387012",
-      "timestamp": "2026-01-26T11:32:41.042Z",
-      "ip": "94.156.30.10",
-      "username": "b1jju"
-    },
     {
       "type": "series",
       "id": "tt0411008:2:1",
@@ -85584,6 +85562,30 @@
       "timestamp": "2026-02-19T02:21:30.471Z",
       "ip": "2405:201:2022:b81c:1c73:5f6b:b50e:5e83",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt31969779",
+      "title": "tt31969779",
+      "timestamp": "2026-02-19T02:23:54.260Z",
+      "ip": "190.250.228.161",
+      "username": "ymcinema"
+    },
+    {
+      "type": "series",
+      "id": "tt35149250:1:6",
+      "title": "tt35149250:1:6",
+      "timestamp": "2026-02-19T02:29:13.990Z",
+      "ip": "2402:a00:10a:815f:6275:3e3d:f3da:99c1",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt7120662:1:3",
+      "title": "tt7120662:1:3",
+      "timestamp": "2026-02-19T02:31:35.407Z",
+      "ip": "2a09:bac1:36e0:5e98::10c:2b",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -87142,11 +87144,11 @@
       "lastActive": 1771192071325
     },
     "190.250.228.161": {
-      "type": "series",
-      "id": "tt28106758:1:2",
-      "title": "tt28106758:1:2",
+      "type": "movie",
+      "id": "tt31969779",
+      "title": "tt31969779",
       "username": "ymcinema",
-      "lastActive": 1771467649864
+      "lastActive": 1771467834260
     },
     "2409:40c4:1019:fad2:f07b:28ff:febe:52ea": {
       "type": "movie",
@@ -89114,6 +89116,20 @@
       "title": "tt0139859",
       "username": "anupambabu_97",
       "lastActive": 1771465814364
+    },
+    "2402:a00:10a:815f:6275:3e3d:f3da:99c1": {
+      "type": "series",
+      "id": "tt35149250:1:6",
+      "title": "tt35149250:1:6",
+      "username": "vflix1993",
+      "lastActive": 1771468153990
+    },
+    "2a09:bac1:36e0:5e98::10c:2b": {
+      "type": "series",
+      "id": "tt7120662:1:3",
+      "title": "tt7120662:1:3",
+      "username": "demon18319",
+      "lastActive": 1771468295407
     }
   }
 }
