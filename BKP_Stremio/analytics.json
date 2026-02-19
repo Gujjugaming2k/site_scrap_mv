@@ -1,5 +1,5 @@
 {
-  "totalViews": 27515,
+  "totalViews": 27517,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5601,22 +5601,6 @@
     "103.175.9.184"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt21195490:1:2",
-      "title": "tt21195490:1:2",
-      "timestamp": "2026-01-26T14:42:18.831Z",
-      "ip": "2402:a00:10a:815f:4faa:9988:4bae:2e7b",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt21195490:1:2",
-      "title": "tt21195490:1:2",
-      "timestamp": "2026-01-26T14:42:19.101Z",
-      "ip": "2402:a00:10a:815f:4faa:9988:4bae:2e7b",
-      "username": "vflix1993"
-    },
     {
       "type": "movie",
       "id": "tt27957740",
@@ -85600,6 +85584,22 @@
       "timestamp": "2026-02-19T08:05:55.141Z",
       "ip": "2409:40e6:213:8f80:c03f:b1ff:fe28:c90d",
       "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt35684868",
+      "title": "tt35684868",
+      "timestamp": "2026-02-19T08:06:54.257Z",
+      "ip": "103.98.208.20",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
+      "timestamp": "2026-02-19T08:07:27.939Z",
+      "ip": "2a09:bac5:3af1:172d::24f:6",
+      "username": "switchoff009"
     }
   ],
   "activeNow": {
@@ -86976,11 +86976,11 @@
       "lastActive": 1771163641107
     },
     "2a09:bac5:3af1:172d::24f:6": {
-      "type": "series",
-      "id": "tt1395015:15:40",
-      "title": "tt1395015:15:40",
+      "type": "movie",
+      "id": "tt14364480",
+      "title": "tt14364480",
       "username": "switchoff009",
-      "lastActive": 1771164313974
+      "lastActive": 1771488447939
     },
     "103.170.53.153": {
       "type": "series",
@@ -88153,10 +88153,10 @@
     },
     "103.98.208.20": {
       "type": "movie",
-      "id": "tt36926733",
-      "title": "tt36926733",
+      "id": "tt35684868",
+      "title": "tt35684868",
       "username": "thala_75",
-      "lastActive": 1771487079312
+      "lastActive": 1771488414257
     },
     "2a09:bac5:3af1:86e::d7:50": {
       "type": "movie",
