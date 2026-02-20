@@ -1,5 +1,5 @@
 {
-  "totalViews": 28095,
+  "totalViews": 28096,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5688,14 +5688,6 @@
     "2409:40e6:213:7aa7:20e3:58ff:fedd:4a83"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt13028258",
-      "title": "tt13028258",
-      "timestamp": "2026-01-27T18:38:09.095Z",
-      "ip": "200.108.55.178",
-      "username": "ymcinema"
-    },
     {
       "type": "movie",
       "id": "tt13028258",
@@ -85687,6 +85679,14 @@
       "timestamp": "2026-02-20T10:54:38.806Z",
       "ip": "122.161.241.143",
       "username": "dawnstar930"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-02-20T11:15:04.119Z",
+      "ip": "2409:40d2:300e:11b1:4cb:f294:aff1:e44e",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -89793,11 +89793,11 @@
       "lastActive": 1771584290208
     },
     "2409:40d2:300e:11b1:4cb:f294:aff1:e44e": {
-      "type": "series",
-      "id": "tt13443470:1:1",
-      "title": "Wednesday",
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
       "username": "saurabhkaperwan",
-      "lastActive": 1771568210600
+      "lastActive": 1771586104119
     },
     "2405:201:682e:6839:984a:f3cc:2329:e88f": {
       "type": "movie",
