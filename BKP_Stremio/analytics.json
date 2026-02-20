@@ -1,5 +1,5 @@
 {
-  "totalViews": 28326,
+  "totalViews": 28331,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5713,49 +5713,10 @@
     "2405:201:2033:841:a382:b915:4bef:70b7",
     "2405:201:a018:b012:a934:c040:8609:9abd",
     "47.31.106.226",
-    "2409:40e5:113e:d915:e4ed:17ff:fee5:acd0"
+    "2409:40e5:113e:d915:e4ed:17ff:fee5:acd0",
+    "2603:3003:3544:6700:343d:516d:438:6d57"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt36614693:2:1",
-      "title": "tt36614693:2:1",
-      "timestamp": "2026-01-28T12:38:02.145Z",
-      "ip": "2401:9640:801:8985:5859:9e2c:5f29:56d5",
-      "username": "superememayank"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:2:8",
-      "title": "Lost",
-      "timestamp": "2026-01-28T12:38:55.446Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:2:8",
-      "title": "Lost",
-      "timestamp": "2026-01-28T12:38:55.534Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:2:7",
-      "title": "Lost",
-      "timestamp": "2026-01-28T12:39:00.625Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:2:8",
-      "title": "Lost",
-      "timestamp": "2026-01-28T12:39:32.096Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
     {
       "type": "series",
       "id": "tt0411008:2:8",
@@ -85715,6 +85676,46 @@
       "timestamp": "2026-02-20T18:45:26.005Z",
       "ip": "2409:40e5:113e:d915:e4ed:17ff:fee5:acd0",
       "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt0288049",
+      "title": "tt0288049",
+      "timestamp": "2026-02-20T18:55:21.669Z",
+      "ip": "2603:3003:3544:6700:343d:516d:438:6d57",
+      "username": "anupambabu_97"
+    },
+    {
+      "type": "movie",
+      "id": "tt1999121",
+      "title": "tt1999121",
+      "timestamp": "2026-02-20T18:55:59.676Z",
+      "ip": "2603:3003:3544:6700:343d:516d:438:6d57",
+      "username": "anupambabu_97"
+    },
+    {
+      "type": "series",
+      "id": "tt11311302:3:6",
+      "title": "tt11311302:3:6",
+      "timestamp": "2026-02-20T18:58:03.862Z",
+      "ip": "43.231.236.89",
+      "username": "claw_of_beliar"
+    },
+    {
+      "type": "series",
+      "id": "tt13274038:1:6",
+      "title": "tt13274038:1:6",
+      "timestamp": "2026-02-20T19:00:29.209Z",
+      "ip": "202.173.124.219",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt36472392",
+      "title": "tt36472392",
+      "timestamp": "2026-02-20T19:01:24.533Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -86192,7 +86193,7 @@
       "id": "tt36472392",
       "title": "tt36472392",
       "username": "aravindsivan",
-      "lastActive": 1771612607570
+      "lastActive": 1771614084533
     },
     "2405:201:682e:6839:1f92:2fc:ba55:6b57": {
       "type": "series",
@@ -87697,7 +87698,7 @@
       "id": "tt11311302:3:6",
       "title": "tt11311302:3:6",
       "username": "claw_of_beliar",
-      "lastActive": 1771611673051
+      "lastActive": 1771613883862
     },
     "2409:40e4:10ba:4830:81be:9b24:a1e8:634d": {
       "type": "movie",
@@ -88954,10 +88955,10 @@
     },
     "202.173.124.219": {
       "type": "series",
-      "id": "tt39068875:1:1",
-      "title": "tt39068875:1:1",
+      "id": "tt13274038:1:6",
+      "title": "tt13274038:1:6",
       "username": "ryuzaklo26",
-      "lastActive": 1771443097917
+      "lastActive": 1771614029209
     },
     "2409:40e4:1098:3c7d:6542:b8d7:1e92:9f51": {
       "type": "series",
@@ -90190,6 +90191,13 @@
       "title": "tt32536168:1:4",
       "username": "magicmannn",
       "lastActive": 1771613126005
+    },
+    "2603:3003:3544:6700:343d:516d:438:6d57": {
+      "type": "movie",
+      "id": "tt1999121",
+      "title": "tt1999121",
+      "username": "anupambabu_97",
+      "lastActive": 1771613759676
     }
   }
 }
