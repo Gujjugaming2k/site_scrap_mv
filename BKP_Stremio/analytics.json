@@ -1,5 +1,5 @@
 {
-  "totalViews": 27937,
+  "totalViews": 27938,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5656,14 +5656,6 @@
     "2401:4900:c010:d9:712e:d78f:a1d5:14c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1399664:2:4",
-      "title": "tt1399664:2:4",
-      "timestamp": "2026-01-27T13:16:41.350Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
     {
       "type": "series",
       "id": "tt1399664:2:5",
@@ -85655,6 +85647,14 @@
       "timestamp": "2026-02-20T01:34:56.425Z",
       "ip": "2603:3003:3544:6700:2a34:1cdf:84b5:afa6",
       "username": "anupambabu_97"
+    },
+    {
+      "type": "movie",
+      "id": "tt15354916",
+      "title": "tt15354916",
+      "timestamp": "2026-02-20T01:46:58.394Z",
+      "ip": "2603:3003:3544:6700:2a34:1cdf:84b5:afa6",
+      "username": "anupambabu_97"
     }
   ],
   "activeNow": {
@@ -89674,7 +89674,7 @@
       "id": "tt15354916",
       "title": "tt15354916",
       "username": "anupambabu_97",
-      "lastActive": 1771551296425
+      "lastActive": 1771552018394
     },
     "2401:4900:c010:d9:712e:d78f:a1d5:14c": {
       "type": "movie",
