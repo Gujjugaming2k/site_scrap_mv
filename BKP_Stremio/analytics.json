@@ -1,5 +1,5 @@
 {
-  "totalViews": 28348,
+  "totalViews": 28351,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5718,30 +5718,6 @@
     "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt21066182:1:5",
-      "title": "tt21066182:1:5",
-      "timestamp": "2026-01-28T12:46:39.110Z",
-      "ip": "2a09:bac5:3af1:16aa::242:70",
-      "username": "switchoff009"
-    },
-    {
-      "type": "series",
-      "id": "tt0988824:12:1",
-      "title": "tt0988824:12:1",
-      "timestamp": "2026-01-28T13:32:50.526Z",
-      "ip": "2405:201:500c:4056:d080:edf2:b18b:6262",
-      "username": "karthik"
-    },
-    {
-      "type": "series",
-      "id": "tt0988824:12:1",
-      "title": "tt0988824:12:1",
-      "timestamp": "2026-01-28T13:33:53.862Z",
-      "ip": "2405:201:500c:4056:d080:edf2:b18b:6262",
-      "username": "karthik"
-    },
     {
       "type": "series",
       "id": "tt0988824:13:1",
@@ -85717,6 +85693,30 @@
       "timestamp": "2026-02-20T20:43:54.869Z",
       "ip": "103.249.4.57",
       "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt2294861",
+      "title": "tt2294861",
+      "timestamp": "2026-02-20T21:15:01.869Z",
+      "ip": "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt0124774",
+      "title": "tt0124774",
+      "timestamp": "2026-02-20T21:15:31.708Z",
+      "ip": "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt0865560",
+      "title": "tt0865560",
+      "timestamp": "2026-02-20T21:18:45.307Z",
+      "ip": "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -90202,10 +90202,10 @@
     },
     "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a": {
       "type": "movie",
-      "id": "tt7598076",
-      "title": "tt7598076",
+      "id": "tt0865560",
+      "title": "tt0865560",
       "username": "gaendaswami",
-      "lastActive": 1771619279218
+      "lastActive": 1771622325307
     }
   }
 }
