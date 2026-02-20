@@ -1,5 +1,5 @@
 {
-  "totalViews": 28080,
+  "totalViews": 28086,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5687,54 +5687,6 @@
     "2409:40d4:101c:15d:b8a5:28ff:fe54:713,51.89.197.91"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:5",
-      "title": "tt35335046:1:5",
-      "timestamp": "2026-01-27T17:56:57.264Z",
-      "ip": "2405:201:2033:841:49e5:ac6:9b0a:9b4c",
-      "username": "surti_lala"
-    },
-    {
-      "type": "series",
-      "id": "tt9813792:1:1",
-      "title": "tt9813792:1:1",
-      "timestamp": "2026-01-27T17:57:44.670Z",
-      "ip": "2409:40c1:400c:81cd:8000::",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "movie",
-      "id": "tt33244668",
-      "title": "tt33244668",
-      "timestamp": "2026-01-27T18:10:07.593Z",
-      "ip": "45.118.158.122",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt33244668",
-      "title": "tt33244668",
-      "timestamp": "2026-01-27T18:12:07.782Z",
-      "ip": "45.118.158.122",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt9813792:1:1",
-      "title": "tt9813792:1:1",
-      "timestamp": "2026-01-27T18:13:26.359Z",
-      "ip": "2409:40c1:400c:81cd:8000::",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt13706018:3:9",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-01-27T18:19:49.015Z",
-      "ip": "115.187.38.42",
-      "username": "tgh2r"
-    },
     {
       "type": "movie",
       "id": "tt31015496",
@@ -85686,6 +85638,54 @@
       "timestamp": "2026-02-20T10:15:06.440Z",
       "ip": "2409:40d4:101c:15d:b8a5:28ff:fe54:713,51.89.197.91",
       "username": "bk18"
+    },
+    {
+      "type": "movie",
+      "id": "tt1526300",
+      "title": "tt1526300",
+      "timestamp": "2026-02-20T10:15:17.268Z",
+      "ip": "2409:40d4:101c:15d:b8a5:28ff:fe54:713",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt1526300",
+      "title": "tt1526300",
+      "timestamp": "2026-02-20T10:15:17.475Z",
+      "ip": "2409:40d4:101c:15d:b8a5:28ff:fe54:713,51.89.197.91",
+      "username": "bk18"
+    },
+    {
+      "type": "movie",
+      "id": "tt1911658",
+      "title": "Penguins of Madagascar",
+      "timestamp": "2026-02-20T10:15:21.650Z",
+      "ip": "2409:40d4:101c:15d:b8a5:28ff:fe54:713",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt1911658",
+      "title": "Penguins of Madagascar",
+      "timestamp": "2026-02-20T10:15:22.450Z",
+      "ip": "2409:40d4:101c:15d:b8a5:28ff:fe54:713,51.89.197.91",
+      "username": "bk18"
+    },
+    {
+      "type": "movie",
+      "id": "tt1911658",
+      "title": "Penguins of Madagascar",
+      "timestamp": "2026-02-20T10:15:36.972Z",
+      "ip": "2409:40d4:101c:15d:b8a5:28ff:fe54:713",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt1911658",
+      "title": "Penguins of Madagascar",
+      "timestamp": "2026-02-20T10:15:37.791Z",
+      "ip": "2409:40d4:101c:15d:b8a5:28ff:fe54:713,51.89.197.91",
+      "username": "bk18"
     }
   ],
   "activeNow": {
@@ -89905,10 +89905,10 @@
     },
     "2409:40d4:101c:15d:b8a5:28ff:fe54:713": {
       "type": "movie",
-      "id": "tt2702348",
-      "title": "tt2702348",
+      "id": "tt1911658",
+      "title": "Penguins of Madagascar",
       "username": "golu_vk",
-      "lastActive": 1771582505576
+      "lastActive": 1771582536972
     },
     "205.254.185.176": {
       "type": "series",
@@ -89940,10 +89940,10 @@
     },
     "2409:40d4:101c:15d:b8a5:28ff:fe54:713,51.89.197.91": {
       "type": "movie",
-      "id": "tt2702348",
-      "title": "tt2702348",
+      "id": "tt1911658",
+      "title": "Penguins of Madagascar",
       "username": "bk18",
-      "lastActive": 1771582506440
+      "lastActive": 1771582537791
     }
   }
 }
