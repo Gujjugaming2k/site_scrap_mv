@@ -1,5 +1,5 @@
 {
-  "totalViews": 27978,
+  "totalViews": 27981,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5669,30 +5669,6 @@
     "2405:201:682e:6839:984a:f3cc:2329:e88f"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1399664:1:2",
-      "title": "tt1399664:1:2",
-      "timestamp": "2026-01-27T14:06:18.648Z",
-      "ip": "2401:4900:8fe2:b916:357a:1c7c:326c:2f6f",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "series",
-      "id": "tt37356230:1:2",
-      "title": "tt37356230:1:2",
-      "timestamp": "2026-01-27T14:07:19.489Z",
-      "ip": "2401:4900:88b9:3f2f:8461:77c8:b80f:ca50",
-      "username": "b1jju"
-    },
-    {
-      "type": "series",
-      "id": "tt37356230:1:2",
-      "title": "tt37356230:1:2",
-      "timestamp": "2026-01-27T14:08:19.479Z",
-      "ip": "2401:4900:88b9:3f2f:8461:77c8:b80f:ca50",
-      "username": "b1jju"
-    },
     {
       "type": "movie",
       "id": "tt0111161",
@@ -85668,6 +85644,30 @@
       "timestamp": "2026-02-20T06:20:47.476Z",
       "ip": "2401:4900:1f29:dc2a:81f8:c046:9b10:7963",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt18413766",
+      "title": "tt18413766",
+      "timestamp": "2026-02-20T06:25:24.630Z",
+      "ip": "2405:201:682e:6839:984a:f3cc:2329:e88f",
+      "username": "babubhaiya"
+    },
+    {
+      "type": "movie",
+      "id": "tt18413766",
+      "title": "tt18413766",
+      "timestamp": "2026-02-20T06:29:41.889Z",
+      "ip": "2405:201:682e:6839:984a:f3cc:2329:e88f",
+      "username": "babubhaiya"
+    },
+    {
+      "type": "series",
+      "id": "tt7865090:1:1",
+      "title": "tt7865090:1:1",
+      "timestamp": "2026-02-20T06:36:45.793Z",
+      "ip": "2409:40e6:213:8f80:c03f:b1ff:fe28:c90d",
+      "username": "nabakun24"
     }
   ],
   "activeNow": {
@@ -89144,11 +89144,11 @@
       "lastActive": 1771440317547
     },
     "2409:40e6:213:8f80:c03f:b1ff:fe28:c90d": {
-      "type": "movie",
-      "id": "tt0181852",
-      "title": "Terminator 3: Rise of the Machines",
+      "type": "series",
+      "id": "tt7865090:1:1",
+      "title": "tt7865090:1:1",
       "username": "nabakun24",
-      "lastActive": 1771557509740
+      "lastActive": 1771569405793
     },
     "2405:201:2022:b81c:1c73:5f6b:b50e:5e83": {
       "type": "movie",
@@ -89785,7 +89785,7 @@
       "id": "tt18413766",
       "title": "tt18413766",
       "username": "babubhaiya",
-      "lastActive": 1771568401188
+      "lastActive": 1771568981889
     }
   }
 }
