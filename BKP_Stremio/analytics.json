@@ -1,5 +1,5 @@
 {
-  "totalViews": 28343,
+  "totalViews": 28347,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5714,41 +5714,10 @@
     "2405:201:a018:b012:a934:c040:8609:9abd",
     "47.31.106.226",
     "2409:40e5:113e:d915:e4ed:17ff:fee5:acd0",
-    "2603:3003:3544:6700:343d:516d:438:6d57"
+    "2603:3003:3544:6700:343d:516d:438:6d57",
+    "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt5180504:4:2",
-      "title": "tt5180504:4:2",
-      "timestamp": "2026-01-28T12:45:22.783Z",
-      "ip": "2409:40d2:3016:9978:8000::",
-      "username": "saurabhkaperwan"
-    },
-    {
-      "type": "series",
-      "id": "tt21066182:1:6",
-      "title": "tt21066182:1:6",
-      "timestamp": "2026-01-28T12:45:36.811Z",
-      "ip": "2a09:bac5:3af1:16aa::242:70",
-      "username": "switchoff009"
-    },
-    {
-      "type": "movie",
-      "id": "tt33046197",
-      "title": "tt33046197",
-      "timestamp": "2026-01-28T12:45:39.775Z",
-      "ip": "103.24.85.218",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt21066182:1:5",
-      "title": "tt21066182:1:5",
-      "timestamp": "2026-01-28T12:46:05.890Z",
-      "ip": "2a09:bac5:3af1:16aa::242:70",
-      "username": "switchoff009"
-    },
     {
       "type": "series",
       "id": "tt5753856:1:2",
@@ -85716,6 +85685,38 @@
       "timestamp": "2026-02-20T19:24:51.535Z",
       "ip": "116.68.74.159",
       "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt0098635",
+      "title": "tt0098635",
+      "timestamp": "2026-02-20T20:23:16.713Z",
+      "ip": "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt4016934",
+      "title": "tt4016934",
+      "timestamp": "2026-02-20T20:25:08.282Z",
+      "ip": "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt0073115",
+      "title": "tt0073115",
+      "timestamp": "2026-02-20T20:25:59.352Z",
+      "ip": "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt7598076",
+      "title": "tt7598076",
+      "timestamp": "2026-02-20T20:27:59.218Z",
+      "ip": "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -90198,6 +90199,13 @@
       "title": "tt1999121",
       "username": "anupambabu_97",
       "lastActive": 1771613759676
+    },
+    "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a": {
+      "type": "movie",
+      "id": "tt7598076",
+      "title": "tt7598076",
+      "username": "gaendaswami",
+      "lastActive": 1771619279218
     }
   }
 }
