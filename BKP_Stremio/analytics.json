@@ -1,5 +1,5 @@
 {
-  "totalViews": 27948,
+  "totalViews": 27952,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5656,41 +5656,12 @@
     "2401:4900:c010:d9:712e:d78f:a1d5:14c",
     "2409:40d2:300e:11b1:8000::",
     "2409:40c4:34c:a88:986e:8e76:d6d3:e7f2",
-    "2409:40f0:151:9f1f:28a2:ebff:fe62:475d"
+    "2409:40f0:151:9f1f:28a2:ebff:fe62:475d",
+    "2a02:9b0:106:4496:6d8a:4121:50e:8e82",
+    "2401:4900:c302:fc4c:6022:b9ff:fe6b:ef7c",
+    "2405:201:5c14:2a70:5136:33a7:111b:b8d1"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30387012",
-      "title": "tt30387012",
-      "timestamp": "2026-01-27T13:26:02.628Z",
-      "ip": "2401:4900:88b9:3f2f:8461:77c8:b80f:ca50",
-      "username": "b1jju"
-    },
-    {
-      "type": "series",
-      "id": "tt12125238:2:3",
-      "title": "tt12125238:2:3",
-      "timestamp": "2026-01-27T13:29:31.770Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt0384537",
-      "title": "tt0384537",
-      "timestamp": "2026-01-27T13:31:15.451Z",
-      "ip": "2409:40e1:300e:7e12:45a3:1207:155e:7245",
-      "username": "jinwoooooi"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:8",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-27T13:31:41.817Z",
-      "ip": "2405:201:203e:b800:c5d:2359:1ce:dc01",
-      "username": "pingmenoone"
-    },
     {
       "type": "series",
       "id": "tt22202452:1:2",
@@ -85658,6 +85629,38 @@
       "timestamp": "2026-02-20T04:23:08.524Z",
       "ip": "103.220.30.11",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "timestamp": "2026-02-20T04:37:31.807Z",
+      "ip": "2a02:9b0:106:4496:6d8a:4121:50e:8e82",
+      "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt0120148",
+      "title": "tt0120148",
+      "timestamp": "2026-02-20T04:38:10.963Z",
+      "ip": "2401:4900:c302:fc4c:6022:b9ff:fe6b:ef7c",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:1:5",
+      "title": "The Boys",
+      "timestamp": "2026-02-20T04:46:38.699Z",
+      "ip": "2405:201:5c14:2a70:5136:33a7:111b:b8d1",
+      "username": "extremeyat"
+    },
+    {
+      "type": "movie",
+      "id": "tt3895152",
+      "title": "tt3895152",
+      "timestamp": "2026-02-20T04:47:33.422Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -86132,10 +86135,10 @@
     },
     "116.68.74.159": {
       "type": "movie",
-      "id": "tt33372494",
-      "title": "tt33372494",
+      "id": "tt3895152",
+      "title": "tt3895152",
       "username": "aravindsivan",
-      "lastActive": 1771528802803
+      "lastActive": 1771562853422
     },
     "2405:201:682e:6839:1f92:2fc:ba55:6b57": {
       "type": "series",
@@ -89706,6 +89709,27 @@
       "title": "tt31227572",
       "username": "dustin henderson",
       "lastActive": 1771561234479
+    },
+    "2a02:9b0:106:4496:6d8a:4121:50e:8e82": {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "username": "hoosa500",
+      "lastActive": 1771562251807
+    },
+    "2401:4900:c302:fc4c:6022:b9ff:fe6b:ef7c": {
+      "type": "movie",
+      "id": "tt0120148",
+      "title": "tt0120148",
+      "username": "chetan_b2",
+      "lastActive": 1771562290963
+    },
+    "2405:201:5c14:2a70:5136:33a7:111b:b8d1": {
+      "type": "series",
+      "id": "tt1190634:1:5",
+      "title": "The Boys",
+      "username": "extremeyat",
+      "lastActive": 1771562798699
     }
   }
 }
