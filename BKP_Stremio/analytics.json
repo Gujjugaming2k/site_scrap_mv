@@ -1,5 +1,5 @@
 {
-  "totalViews": 27941,
+  "totalViews": 27942,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5656,14 +5656,6 @@
     "2401:4900:c010:d9:712e:d78f:a1d5:14c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt37356230:1:1",
-      "title": "tt37356230:1:1",
-      "timestamp": "2026-01-27T13:17:54.262Z",
-      "ip": "94.156.30.44",
-      "username": "b1jju"
-    },
     {
       "type": "series",
       "id": "tt37356230:1:1",
@@ -85655,6 +85647,14 @@
       "timestamp": "2026-02-20T03:08:48.808Z",
       "ip": "186.188.150.139",
       "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt0181852",
+      "title": "Terminator 3: Rise of the Machines",
+      "timestamp": "2026-02-20T03:18:29.740Z",
+      "ip": "2409:40e6:213:8f80:c03f:b1ff:fe28:c90d",
+      "username": "nabakun24"
     }
   ],
   "activeNow": {
@@ -89131,11 +89131,11 @@
       "lastActive": 1771440317547
     },
     "2409:40e6:213:8f80:c03f:b1ff:fe28:c90d": {
-      "type": "series",
-      "id": "tt13706018:1:1",
-      "title": "SPY x FAMILY",
+      "type": "movie",
+      "id": "tt0181852",
+      "title": "Terminator 3: Rise of the Machines",
       "username": "nabakun24",
-      "lastActive": 1771523652491
+      "lastActive": 1771557509740
     },
     "2405:201:2022:b81c:1c73:5f6b:b50e:5e83": {
       "type": "movie",
