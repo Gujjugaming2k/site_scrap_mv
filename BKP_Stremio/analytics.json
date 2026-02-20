@@ -1,5 +1,5 @@
 {
-  "totalViews": 28380,
+  "totalViews": 28383,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5721,30 +5721,6 @@
     "106.222.213.119"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-01-28T14:30:32.262Z",
-      "ip": "103.134.25.10",
-      "username": "spidey_again"
-    },
-    {
-      "type": "series",
-      "id": "tt37449205:1:1",
-      "title": "tt37449205:1:1",
-      "timestamp": "2026-01-28T14:30:53.861Z",
-      "ip": "103.134.25.10",
-      "username": "spidey_again"
-    },
-    {
-      "type": "series",
-      "id": "tt37449205:1:2",
-      "title": "tt37449205:1:2",
-      "timestamp": "2026-01-28T14:30:55.290Z",
-      "ip": "103.134.25.10",
-      "username": "spidey_again"
-    },
     {
       "type": "movie",
       "id": "tt2172954",
@@ -85720,6 +85696,30 @@
       "timestamp": "2026-02-20T23:38:00.185Z",
       "ip": "106.222.213.119",
       "username": "iknowthat"
+    },
+    {
+      "type": "movie",
+      "id": "tt0157122",
+      "title": "tt0157122",
+      "timestamp": "2026-02-20T23:42:31.682Z",
+      "ip": "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt0086087",
+      "title": "tt0086087",
+      "timestamp": "2026-02-20T23:46:28.434Z",
+      "ip": "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt0086650",
+      "title": "tt0086650",
+      "timestamp": "2026-02-20T23:52:16.770Z",
+      "ip": "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -90205,10 +90205,10 @@
     },
     "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a": {
       "type": "movie",
-      "id": "tt0398883",
-      "title": "tt0398883",
+      "id": "tt0086650",
+      "title": "tt0086650",
       "username": "gaendaswami",
-      "lastActive": 1771630643744
+      "lastActive": 1771631536770
     },
     "2402:8100:2cea:191e:3611:d2ec:f3ad:6bd8": {
       "type": "movie",
