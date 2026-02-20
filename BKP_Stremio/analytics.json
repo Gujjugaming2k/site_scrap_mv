@@ -1,5 +1,5 @@
 {
-  "totalViews": 27964,
+  "totalViews": 27966,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5659,25 +5659,10 @@
     "2409:40f0:151:9f1f:28a2:ebff:fe62:475d",
     "2a02:9b0:106:4496:6d8a:4121:50e:8e82",
     "2401:4900:c302:fc4c:6022:b9ff:fe6b:ef7c",
-    "2405:201:5c14:2a70:5136:33a7:111b:b8d1"
+    "2405:201:5c14:2a70:5136:33a7:111b:b8d1",
+    "59.91.76.251"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31938062:1:1",
-      "title": "tt31938062:1:1",
-      "timestamp": "2026-01-27T13:46:33.866Z",
-      "ip": "2401:4900:5ac4:b22:9d3d:1a54:f63c:57c1",
-      "username": "baljeet_002"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-27T13:46:43.183Z",
-      "ip": "2401:4900:5ac4:b22:9d3d:1a54:f63c:57c1",
-      "username": "baljeet_002"
-    },
     {
       "type": "series",
       "id": "tt37356230:1:1",
@@ -85661,6 +85646,22 @@
       "timestamp": "2026-02-20T04:51:04.092Z",
       "ip": "116.68.74.159",
       "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt30842022",
+      "title": "tt30842022",
+      "timestamp": "2026-02-20T05:06:39.775Z",
+      "ip": "2409:40f0:151:9f1f:28a2:ebff:fe62:475d",
+      "username": "rick grimes"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-20T05:11:21.847Z",
+      "ip": "59.91.76.251",
+      "username": "itsdoom50"
     }
   ],
   "activeNow": {
@@ -89705,10 +89706,10 @@
     },
     "2409:40f0:151:9f1f:28a2:ebff:fe62:475d": {
       "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "username": "dustin henderson",
-      "lastActive": 1771561234479
+      "id": "tt30842022",
+      "title": "tt30842022",
+      "username": "rick grimes",
+      "lastActive": 1771563999775
     },
     "2a02:9b0:106:4496:6d8a:4121:50e:8e82": {
       "type": "movie",
@@ -89730,6 +89731,13 @@
       "title": "The Boys",
       "username": "extremeyat",
       "lastActive": 1771562867496
+    },
+    "59.91.76.251": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "itsdoom50",
+      "lastActive": 1771564281847
     }
   }
 }
