@@ -1,5 +1,5 @@
 {
-  "totalViews": 27970,
+  "totalViews": 27972,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5666,22 +5666,6 @@
     "106.200.7.246"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt39313294:1:1",
-      "title": "tt39313294:1:1",
-      "timestamp": "2026-01-27T13:56:24.515Z",
-      "ip": "2401:4900:8fe2:b916:357a:1c7c:326c:2f6f",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "movie",
-      "id": "tt32526187",
-      "title": "tt32526187",
-      "timestamp": "2026-01-27T13:58:26.541Z",
-      "ip": "2401:4900:8fe2:b916:357a:1c7c:326c:2f6f",
-      "username": "ashwanileon"
-    },
     {
       "type": "movie",
       "id": "tt0118751",
@@ -85665,6 +85649,22 @@
       "timestamp": "2026-02-20T06:03:36.342Z",
       "ip": "106.200.7.246",
       "username": "thevedikgujjar"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-20T06:06:21.663Z",
+      "ip": "106.200.7.246",
+      "username": "thevedikgujjar"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-20T06:06:40.199Z",
+      "ip": "106.200.7.246",
+      "username": "thevedikgujjar"
     }
   ],
   "activeNow": {
@@ -89757,11 +89757,11 @@
       "lastActive": 1771566944665
     },
     "106.200.7.246": {
-      "type": "movie",
-      "id": "tt31969779",
-      "title": "tt31969779",
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
       "username": "thevedikgujjar",
-      "lastActive": 1771567416342
+      "lastActive": 1771567600199
     }
   }
 }
