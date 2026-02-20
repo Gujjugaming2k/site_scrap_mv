@@ -1,5 +1,5 @@
 {
-  "totalViews": 27966,
+  "totalViews": 27968,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5660,25 +5660,10 @@
     "2a02:9b0:106:4496:6d8a:4121:50e:8e82",
     "2401:4900:c302:fc4c:6022:b9ff:fe6b:ef7c",
     "2405:201:5c14:2a70:5136:33a7:111b:b8d1",
-    "59.91.76.251"
+    "59.91.76.251",
+    "2401:4900:7b38:f7f:6cec:45ff:feea:73fe"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt37356230:1:1",
-      "title": "tt37356230:1:1",
-      "timestamp": "2026-01-27T13:47:28.939Z",
-      "ip": "2401:4900:88b9:3f2f:8461:77c8:b80f:ca50",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt34548722",
-      "title": "tt34548722",
-      "timestamp": "2026-01-27T13:49:37.412Z",
-      "ip": "2401:4900:5ac4:b22:9d3d:1a54:f63c:57c1",
-      "username": "baljeet_002"
-    },
     {
       "type": "movie",
       "id": "tt5997666",
@@ -85662,6 +85647,22 @@
       "timestamp": "2026-02-20T05:11:21.847Z",
       "ip": "59.91.76.251",
       "username": "itsdoom50"
+    },
+    {
+      "type": "series",
+      "id": "tt13274038:1:1",
+      "title": "tt13274038:1:1",
+      "timestamp": "2026-02-20T05:38:43.766Z",
+      "ip": "2401:4900:7b38:f7f:6cec:45ff:feea:73fe",
+      "username": "iknowthat"
+    },
+    {
+      "type": "series",
+      "id": "tt13274038:1:16",
+      "title": "tt13274038:1:16",
+      "timestamp": "2026-02-20T05:44:29.504Z",
+      "ip": "2401:4900:7b38:f7f:6cec:45ff:feea:73fe",
+      "username": "iknowthat"
     }
   ],
   "activeNow": {
@@ -89738,6 +89739,13 @@
       "title": "Dhurandhar",
       "username": "itsdoom50",
       "lastActive": 1771564281847
+    },
+    "2401:4900:7b38:f7f:6cec:45ff:feea:73fe": {
+      "type": "series",
+      "id": "tt13274038:1:16",
+      "title": "tt13274038:1:16",
+      "username": "iknowthat",
+      "lastActive": 1771566269504
     }
   }
 }
