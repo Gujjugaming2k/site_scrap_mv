@@ -1,5 +1,5 @@
 {
-  "totalViews": 28065,
+  "totalViews": 28068,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5681,33 +5681,10 @@
     "122.177.12.169",
     "2409:40d4:101c:15d:b8a5:28ff:fe54:713",
     "205.254.185.176",
-    "2401:4900:ac1c:2a5:a0e7:8202:751f:1115"
+    "2401:4900:ac1c:2a5:a0e7:8202:751f:1115",
+    "2405:201:5502:5c18:ade2:7625:fb1a:6c62"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33244668",
-      "title": "tt33244668",
-      "timestamp": "2026-01-27T17:27:21.890Z",
-      "ip": "146.196.32.5",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:6",
-      "title": "tt35335046:1:6",
-      "timestamp": "2026-01-27T17:32:24.504Z",
-      "ip": "2405:201:2033:841:49e5:ac6:9b0a:9b4c",
-      "username": "surti_lala"
-    },
-    {
-      "type": "series",
-      "id": "tt3032476:1:1",
-      "title": "tt3032476:1:1",
-      "timestamp": "2026-01-27T17:33:06.282Z",
-      "ip": "152.58.116.124",
-      "username": "magicmannn"
-    },
     {
       "type": "series",
       "id": "tt35335046:1:7",
@@ -85683,6 +85660,30 @@
       "timestamp": "2026-02-20T09:40:56.091Z",
       "ip": "38.224.232.12",
       "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-20T09:46:33.022Z",
+      "ip": "2405:201:5502:5c18:ade2:7625:fb1a:6c62",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "movie",
+      "id": "tt1760980",
+      "title": "tt1760980",
+      "timestamp": "2026-02-20T09:48:24.706Z",
+      "ip": "2401:4900:1f29:dc2a:81f8:c046:9b10:7963",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt0364569",
+      "title": "Oldboy",
+      "timestamp": "2026-02-20T09:51:26.431Z",
+      "ip": "2401:4900:1f29:dc2a:81f8:c046:9b10:7963",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -89783,10 +89784,10 @@
     },
     "2401:4900:1f29:dc2a:81f8:c046:9b10:7963": {
       "type": "movie",
-      "id": "tt26783625",
-      "title": "Bone Lake",
+      "id": "tt0364569",
+      "title": "Oldboy",
       "username": "gaendaswami",
-      "lastActive": 1771572791718
+      "lastActive": 1771581086431
     },
     "2409:40d2:300e:11b1:4cb:f294:aff1:e44e": {
       "type": "series",
@@ -89920,6 +89921,13 @@
       "title": "tt33295741",
       "username": "gendaswammy",
       "lastActive": 1771580122963
+    },
+    "2405:201:5502:5c18:ade2:7625:fb1a:6c62": {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "username": "dawnstar930",
+      "lastActive": 1771580793022
     }
   }
 }
