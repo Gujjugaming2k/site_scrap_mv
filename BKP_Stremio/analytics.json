@@ -1,5 +1,5 @@
 {
-  "totalViews": 28320,
+  "totalViews": 28326,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5711,57 +5711,11 @@
     "171.48.54.184",
     "2402:a00:10a:815f:33df:a2ff:9819:e2d0",
     "2405:201:2033:841:a382:b915:4bef:70b7",
-    "2405:201:a018:b012:a934:c040:8609:9abd"
+    "2405:201:a018:b012:a934:c040:8609:9abd",
+    "47.31.106.226",
+    "2409:40e5:113e:d915:e4ed:17ff:fee5:acd0"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:2:7",
-      "title": "Lost",
-      "timestamp": "2026-01-28T12:35:15.396Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:2:8",
-      "title": "Lost",
-      "timestamp": "2026-01-28T12:36:25.366Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt36614693:1:5",
-      "title": "tt36614693:1:5",
-      "timestamp": "2026-01-28T12:36:36.099Z",
-      "ip": "2401:9640:801:8985:5859:9e2c:5f29:56d5",
-      "username": "superememayank"
-    },
-    {
-      "type": "movie",
-      "id": "tt24060892",
-      "title": "tt24060892",
-      "timestamp": "2026-01-28T12:36:49.066Z",
-      "ip": "2406:b400:1a:338f:a27:a8ff:fe42:855e",
-      "username": "nothingokk"
-    },
-    {
-      "type": "movie",
-      "id": "tt0111161",
-      "title": "The Shawshank Redemption",
-      "timestamp": "2026-01-28T12:37:41.878Z",
-      "ip": "2402:3a80:4598:c0ed:38f2:59ff:fe4a:861f",
-      "username": "jagan01010"
-    },
-    {
-      "type": "series",
-      "id": "tt36614693:1:5",
-      "title": "tt36614693:1:5",
-      "timestamp": "2026-01-28T12:37:51.311Z",
-      "ip": "2401:9640:801:8985:5859:9e2c:5f29:56d5",
-      "username": "superememayank"
-    },
     {
       "type": "series",
       "id": "tt36614693:2:1",
@@ -85713,6 +85667,54 @@
       "timestamp": "2026-02-20T18:29:57.396Z",
       "ip": "2405:201:a018:b012:a934:c040:8609:9abd",
       "username": "razeamii"
+    },
+    {
+      "type": "movie",
+      "id": "tt36472392",
+      "title": "tt36472392",
+      "timestamp": "2026-02-20T18:34:53.010Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt36472392",
+      "title": "tt36472392",
+      "timestamp": "2026-02-20T18:36:47.570Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt14905854",
+      "title": "tt14905854",
+      "timestamp": "2026-02-20T18:39:40.823Z",
+      "ip": "47.31.106.226",
+      "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt14905854",
+      "title": "tt14905854",
+      "timestamp": "2026-02-20T18:42:35.511Z",
+      "ip": "2409:40e5:113e:d915:e4ed:17ff:fee5:acd0",
+      "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-02-20T18:42:53.367Z",
+      "ip": "2409:40e5:113e:d915:e4ed:17ff:fee5:acd0",
+      "username": "magicmannn"
+    },
+    {
+      "type": "series",
+      "id": "tt32536168:1:4",
+      "title": "tt32536168:1:4",
+      "timestamp": "2026-02-20T18:45:26.005Z",
+      "ip": "2409:40e5:113e:d915:e4ed:17ff:fee5:acd0",
+      "username": "magicmannn"
     }
   ],
   "activeNow": {
@@ -86190,7 +86192,7 @@
       "id": "tt36472392",
       "title": "tt36472392",
       "username": "aravindsivan",
-      "lastActive": 1771610582093
+      "lastActive": 1771612607570
     },
     "2405:201:682e:6839:1f92:2fc:ba55:6b57": {
       "type": "series",
@@ -90174,6 +90176,20 @@
       "title": "Doctor Strange",
       "username": "razeamii",
       "lastActive": 1771612197396
+    },
+    "47.31.106.226": {
+      "type": "movie",
+      "id": "tt14905854",
+      "title": "tt14905854",
+      "username": "magicmannn",
+      "lastActive": 1771612780823
+    },
+    "2409:40e5:113e:d915:e4ed:17ff:fee5:acd0": {
+      "type": "series",
+      "id": "tt32536168:1:4",
+      "title": "tt32536168:1:4",
+      "username": "magicmannn",
+      "lastActive": 1771613126005
     }
   }
 }
