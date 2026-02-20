@@ -1,5 +1,5 @@
 {
-  "totalViews": 28108,
+  "totalViews": 28112,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5691,38 +5691,6 @@
     "119.155.206.15"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt36616410",
-      "title": "tt36616410",
-      "timestamp": "2026-01-27T20:10:43.164Z",
-      "ip": "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt1386697",
-      "title": "Suicide Squad",
-      "timestamp": "2026-01-27T20:11:03.628Z",
-      "ip": "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
-      "username": "nabakun"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:5:16",
-      "title": "tt0903747:5:16",
-      "timestamp": "2026-01-27T21:55:36.033Z",
-      "ip": "182.69.181.156",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt0903747:5:15",
-      "title": "tt0903747:5:15",
-      "timestamp": "2026-01-27T21:56:17.727Z",
-      "ip": "182.69.181.156",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt0903747:5:15",
@@ -85690,6 +85658,38 @@
       "timestamp": "2026-02-20T12:10:26.871Z",
       "ip": "119.155.195.207",
       "username": "hvre2"
+    },
+    {
+      "type": "movie",
+      "id": "tt37956153",
+      "title": "tt37956153",
+      "timestamp": "2026-02-20T12:18:22.496Z",
+      "ip": "2405:201:200d:906b:61b4:90be:921b:e63c",
+      "username": "kulu007"
+    },
+    {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "timestamp": "2026-02-20T12:18:47.033Z",
+      "ip": "119.155.206.15",
+      "username": "hvre2"
+    },
+    {
+      "type": "movie",
+      "id": "tt2146836",
+      "title": "tt2146836",
+      "timestamp": "2026-02-20T12:29:42.325Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:2:2",
+      "title": "tt0903747:2:2",
+      "timestamp": "2026-02-20T12:32:33.134Z",
+      "ip": "103.249.4.57",
+      "username": "tgh2r"
     }
   ],
   "activeNow": {
@@ -86164,10 +86164,10 @@
     },
     "116.68.74.159": {
       "type": "movie",
-      "id": "tt36472392",
-      "title": "tt36472392",
+      "id": "tt2146836",
+      "title": "tt2146836",
       "username": "aravindsivan",
-      "lastActive": 1771588009610
+      "lastActive": 1771590582325
     },
     "2405:201:682e:6839:1f92:2fc:ba55:6b57": {
       "type": "series",
@@ -86993,7 +86993,7 @@
       "id": "tt37956153",
       "title": "tt37956153",
       "username": "kulu007",
-      "lastActive": 1771576955734
+      "lastActive": 1771589902496
     },
     "157.48.99.206": {
       "type": "series",
@@ -89958,10 +89958,10 @@
     },
     "103.249.4.57": {
       "type": "series",
-      "id": "tt0903747:2:1",
-      "title": "tt0903747:2:1",
+      "id": "tt0903747:2:2",
+      "title": "tt0903747:2:2",
       "username": "tgh2r",
-      "lastActive": 1771587815191
+      "lastActive": 1771590753134
     },
     "119.155.195.207": {
       "type": "movie",
@@ -89971,11 +89971,11 @@
       "lastActive": 1771589426871
     },
     "119.155.206.15": {
-      "type": "series",
-      "id": "tt0988824:1:3",
-      "title": "tt0988824:1:3",
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
       "username": "hvre2",
-      "lastActive": 1771589076685
+      "lastActive": 1771589927033
     }
   }
 }
