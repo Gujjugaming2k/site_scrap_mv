@@ -1,5 +1,5 @@
 {
-  "totalViews": 28014,
+  "totalViews": 28019,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5676,49 +5676,10 @@
     "2401:4900:7b38:f7f:583d:ddff:fe72:294a",
     "2406:b400:1a:a9ae:a27:a8ff:fe42:855e",
     "182.77.76.49",
-    "2401:4900:ae24:7e92:2daf:5a9a:e46d:2636"
+    "2401:4900:ae24:7e92:2daf:5a9a:e46d:2636",
+    "2409:40c1:401e:1856:1c93:58ff:fe94:c346"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt37356230:1:5",
-      "title": "tt37356230:1:5",
-      "timestamp": "2026-01-27T15:35:03.785Z",
-      "ip": "81.17.122.138",
-      "username": "b1jju"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-27T15:38:28.360Z",
-      "ip": "223.123.4.59",
-      "username": "hvre2"
-    },
-    {
-      "type": "series",
-      "id": "tt0460649:4:18",
-      "title": "tt0460649:4:18",
-      "timestamp": "2026-01-27T15:38:53.818Z",
-      "ip": "2a09:bac5:40d6:2e3c::49b:47",
-      "username": "demon18319"
-    },
-    {
-      "type": "movie",
-      "id": "tt35684868",
-      "title": "tt35684868",
-      "timestamp": "2026-01-27T15:39:08.368Z",
-      "ip": "2402:a00:10a:815f:369:bb6d:ffc9:752b",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt31226981",
-      "title": "tt31226981",
-      "timestamp": "2026-01-27T15:39:52.007Z",
-      "ip": "2402:a00:10a:815f:369:bb6d:ffc9:752b",
-      "username": "vflix1993"
-    },
     {
       "type": "movie",
       "id": "tt37629310",
@@ -85678,6 +85639,46 @@
       "timestamp": "2026-02-20T08:06:17.936Z",
       "ip": "2406:b400:1a:a9ae:a27:a8ff:fe42:855e",
       "username": "nothingokk"
+    },
+    {
+      "type": "series",
+      "id": "tt39287518:1:1",
+      "title": "tt39287518:1:1",
+      "timestamp": "2026-02-20T08:10:54.749Z",
+      "ip": "2409:40c1:401e:1856:1c93:58ff:fe94:c346",
+      "username": "paregi12"
+    },
+    {
+      "type": "series",
+      "id": "tt39287518:1:1",
+      "title": "tt39287518:1:1",
+      "timestamp": "2026-02-20T08:11:00.400Z",
+      "ip": "2409:40c1:401e:1856:1c93:58ff:fe94:c346",
+      "username": "paregi12"
+    },
+    {
+      "type": "movie",
+      "id": "tt32135720",
+      "title": "tt32135720",
+      "timestamp": "2026-02-20T08:14:22.256Z",
+      "ip": "2406:b400:1a:a9ae:a27:a8ff:fe42:855e",
+      "username": "nothingokk"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-20T08:18:03.316Z",
+      "ip": "2401:4900:7b38:f7f:583d:ddff:fe72:294a",
+      "username": "iknowthat"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-02-20T08:19:08.215Z",
+      "ip": "2401:4900:7b38:f7f:583d:ddff:fe72:294a",
+      "username": "iknowthat"
     }
   ],
   "activeNow": {
@@ -89840,18 +89841,18 @@
       "lastActive": 1771573552828
     },
     "2401:4900:7b38:f7f:583d:ddff:fe72:294a": {
-      "type": "movie",
-      "id": "tt0181852",
-      "title": "Terminator 3: Rise of the Machines",
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
       "username": "iknowthat",
-      "lastActive": 1771573768209
+      "lastActive": 1771575548215
     },
     "2406:b400:1a:a9ae:a27:a8ff:fe42:855e": {
       "type": "movie",
-      "id": "tt13751694",
-      "title": "tt13751694",
+      "id": "tt32135720",
+      "title": "tt32135720",
       "username": "nothingokk",
-      "lastActive": 1771574777936
+      "lastActive": 1771575262256
     },
     "182.77.76.49": {
       "type": "series",
@@ -89866,6 +89867,13 @@
       "title": "tt31050594",
       "username": "vflix1993",
       "lastActive": 1771574652850
+    },
+    "2409:40c1:401e:1856:1c93:58ff:fe94:c346": {
+      "type": "series",
+      "id": "tt39287518:1:1",
+      "title": "tt39287518:1:1",
+      "username": "paregi12",
+      "lastActive": 1771575060400
     }
   }
 }
