@@ -1,5 +1,5 @@
 {
-  "totalViews": 28144,
+  "totalViews": 28145,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5696,14 +5696,6 @@
     "2405:201:2022:b81c:113b:6375:fece:91d"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0197861",
-      "title": "tt0197861",
-      "timestamp": "2026-01-28T04:36:13.262Z",
-      "ip": "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
-      "username": "nabakun"
-    },
     {
       "type": "movie",
       "id": "tt0110958",
@@ -85695,6 +85687,14 @@
       "timestamp": "2026-02-20T13:48:28.182Z",
       "ip": "45.118.158.132",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt27162102",
+      "title": "tt27162102",
+      "timestamp": "2026-02-20T13:51:13.398Z",
+      "ip": "45.118.158.132",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -89571,10 +89571,10 @@
     },
     "45.118.158.132": {
       "type": "movie",
-      "id": "tt7587876",
-      "title": "tt7587876",
+      "id": "tt27162102",
+      "title": "tt27162102",
       "username": "gaendaswami",
-      "lastActive": 1771595308182
+      "lastActive": 1771595473398
     },
     "2409:4055:2e3a:ed8a:2cc0:5f11:78c3:197d": {
       "type": "movie",
