@@ -1,5 +1,5 @@
 {
-  "totalViews": 27972,
+  "totalViews": 27978,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5663,57 +5663,12 @@
     "59.91.76.251",
     "2401:4900:7b38:f7f:6cec:45ff:feea:73fe",
     "2001:4490:444d:2c0:6140:76f2:6dcb:1e4c",
-    "106.200.7.246"
+    "106.200.7.246",
+    "2401:4900:1f29:dc2a:81f8:c046:9b10:7963",
+    "2409:40d2:300e:11b1:4cb:f294:aff1:e44e",
+    "2405:201:682e:6839:984a:f3cc:2329:e88f"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0118751",
-      "title": "tt0118751",
-      "timestamp": "2026-01-27T13:58:33.447Z",
-      "ip": "38.137.57.237",
-      "username": "geekworld7"
-    },
-    {
-      "type": "movie",
-      "id": "tt15307404",
-      "title": "tt15307404",
-      "timestamp": "2026-01-27T14:00:04.016Z",
-      "ip": "2401:4900:8fe2:b916:357a:1c7c:326c:2f6f",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "series",
-      "id": "tt12125238:2:4",
-      "title": "tt12125238:2:4",
-      "timestamp": "2026-01-27T14:00:40.192Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt35684868",
-      "title": "tt35684868",
-      "timestamp": "2026-01-27T14:02:10.429Z",
-      "ip": "2401:4900:8fe2:b916:357a:1c7c:326c:2f6f",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "movie",
-      "id": "tt28142095",
-      "title": "tt28142095",
-      "timestamp": "2026-01-27T14:03:46.502Z",
-      "ip": "2409:40e6:14:4cf:51ab:30e1:1b9a:6a7d",
-      "username": "nabakun"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:1:1",
-      "title": "tt1399664:1:1",
-      "timestamp": "2026-01-27T14:05:47.889Z",
-      "ip": "2401:4900:8fe2:b916:357a:1c7c:326c:2f6f",
-      "username": "ashwanileon"
-    },
     {
       "type": "series",
       "id": "tt1399664:1:2",
@@ -85665,6 +85620,54 @@
       "timestamp": "2026-02-20T06:06:40.199Z",
       "ip": "106.200.7.246",
       "username": "thevedikgujjar"
+    },
+    {
+      "type": "series",
+      "id": "tt4803766:1:1",
+      "title": "tt4803766:1:1",
+      "timestamp": "2026-02-20T06:10:34.775Z",
+      "ip": "106.200.7.246",
+      "username": "thevedikgujjar"
+    },
+    {
+      "type": "movie",
+      "id": "tt9362736",
+      "title": "Die My Love",
+      "timestamp": "2026-02-20T06:12:59.541Z",
+      "ip": "2401:4900:1f29:dc2a:81f8:c046:9b10:7963",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-20T06:13:17.511Z",
+      "ip": "2401:4900:1f29:dc2a:81f8:c046:9b10:7963",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt13443470:1:1",
+      "title": "Wednesday",
+      "timestamp": "2026-02-20T06:16:50.600Z",
+      "ip": "2409:40d2:300e:11b1:4cb:f294:aff1:e44e",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt18413766",
+      "title": "tt18413766",
+      "timestamp": "2026-02-20T06:20:01.188Z",
+      "ip": "2405:201:682e:6839:984a:f3cc:2329:e88f",
+      "username": "babubhaiya"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-20T06:20:47.476Z",
+      "ip": "2401:4900:1f29:dc2a:81f8:c046:9b10:7963",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -89758,10 +89761,31 @@
     },
     "106.200.7.246": {
       "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
+      "id": "tt4803766:1:1",
+      "title": "tt4803766:1:1",
       "username": "thevedikgujjar",
-      "lastActive": 1771567600199
+      "lastActive": 1771567834775
+    },
+    "2401:4900:1f29:dc2a:81f8:c046:9b10:7963": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "gaendaswami",
+      "lastActive": 1771568447476
+    },
+    "2409:40d2:300e:11b1:4cb:f294:aff1:e44e": {
+      "type": "series",
+      "id": "tt13443470:1:1",
+      "title": "Wednesday",
+      "username": "saurabhkaperwan",
+      "lastActive": 1771568210600
+    },
+    "2405:201:682e:6839:984a:f3cc:2329:e88f": {
+      "type": "movie",
+      "id": "tt18413766",
+      "title": "tt18413766",
+      "username": "babubhaiya",
+      "lastActive": 1771568401188
     }
   }
 }
