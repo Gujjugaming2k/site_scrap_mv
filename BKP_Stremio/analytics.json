@@ -1,5 +1,5 @@
 {
-  "totalViews": 28376,
+  "totalViews": 28380,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5717,41 +5717,10 @@
     "2603:3003:3544:6700:343d:516d:438:6d57",
     "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a",
     "2402:8100:2cea:191e:3611:d2ec:f3ad:6bd8",
-    "2401:4900:8823:a9e4:5c75:d465:c73a:63ea"
+    "2401:4900:8823:a9e4:5c75:d465:c73a:63ea",
+    "106.222.213.119"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt13640696",
-      "title": "tt13640696",
-      "timestamp": "2026-01-28T14:23:00.823Z",
-      "ip": "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt0833486",
-      "title": "tt0833486",
-      "timestamp": "2026-01-28T14:23:05.538Z",
-      "ip": "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt0833486",
-      "title": "tt0833486",
-      "timestamp": "2026-01-28T14:23:09.385Z",
-      "ip": "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt0833486",
-      "title": "tt0833486",
-      "timestamp": "2026-01-28T14:24:06.436Z",
-      "ip": "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
-      "username": "nabakun"
-    },
     {
       "type": "movie",
       "id": "tt30144839",
@@ -85719,6 +85688,38 @@
       "timestamp": "2026-02-20T23:21:40.338Z",
       "ip": "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt0416320",
+      "title": "tt0416320",
+      "timestamp": "2026-02-20T23:26:43.916Z",
+      "ip": "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt0381429",
+      "title": "tt0381429",
+      "timestamp": "2026-02-20T23:30:01.755Z",
+      "ip": "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt0398883",
+      "title": "tt0398883",
+      "timestamp": "2026-02-20T23:37:23.744Z",
+      "ip": "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt32012416",
+      "title": "tt32012416",
+      "timestamp": "2026-02-20T23:38:00.185Z",
+      "ip": "106.222.213.119",
+      "username": "iknowthat"
     }
   ],
   "activeNow": {
@@ -90204,10 +90205,10 @@
     },
     "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a": {
       "type": "movie",
-      "id": "tt1204773",
-      "title": "tt1204773",
+      "id": "tt0398883",
+      "title": "tt0398883",
       "username": "gaendaswami",
-      "lastActive": 1771629700338
+      "lastActive": 1771630643744
     },
     "2402:8100:2cea:191e:3611:d2ec:f3ad:6bd8": {
       "type": "movie",
@@ -90222,6 +90223,13 @@
       "title": "tt32012416",
       "username": "iknowthat",
       "lastActive": 1771629608143
+    },
+    "106.222.213.119": {
+      "type": "movie",
+      "id": "tt32012416",
+      "title": "tt32012416",
+      "username": "iknowthat",
+      "lastActive": 1771630680185
     }
   }
 }
