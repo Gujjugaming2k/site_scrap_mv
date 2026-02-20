@@ -1,5 +1,5 @@
 {
-  "totalViews": 28373,
+  "totalViews": 28376,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5716,33 +5716,10 @@
     "2409:40e5:113e:d915:e4ed:17ff:fee5:acd0",
     "2603:3003:3544:6700:343d:516d:438:6d57",
     "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a",
-    "2402:8100:2cea:191e:3611:d2ec:f3ad:6bd8"
+    "2402:8100:2cea:191e:3611:d2ec:f3ad:6bd8",
+    "2401:4900:8823:a9e4:5c75:d465:c73a:63ea"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt26443597",
-      "title": "tt26443597",
-      "timestamp": "2026-01-28T14:12:04.364Z",
-      "ip": "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt26443597",
-      "title": "tt26443597",
-      "timestamp": "2026-01-28T14:13:39.637Z",
-      "ip": "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt26443597",
-      "title": "tt26443597",
-      "timestamp": "2026-01-28T14:16:39.360Z",
-      "ip": "2409:40e6:1c:f5dd:7c12:40ff:fe5c:1fab",
-      "username": "nabakun"
-    },
     {
       "type": "movie",
       "id": "tt13640696",
@@ -85718,6 +85695,30 @@
       "timestamp": "2026-02-20T23:06:52.787Z",
       "ip": "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt0291538",
+      "title": "tt0291538",
+      "timestamp": "2026-02-20T23:12:52.762Z",
+      "ip": "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt32012416",
+      "title": "tt32012416",
+      "timestamp": "2026-02-20T23:20:08.143Z",
+      "ip": "2401:4900:8823:a9e4:5c75:d465:c73a:63ea",
+      "username": "iknowthat"
+    },
+    {
+      "type": "movie",
+      "id": "tt1204773",
+      "title": "tt1204773",
+      "timestamp": "2026-02-20T23:21:40.338Z",
+      "ip": "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -90203,10 +90204,10 @@
     },
     "2401:4900:1f29:dc2a:512e:34ee:3185:8b3a": {
       "type": "movie",
-      "id": "tt0295743",
-      "title": "tt0295743",
+      "id": "tt1204773",
+      "title": "tt1204773",
       "username": "gaendaswami",
-      "lastActive": 1771628812787
+      "lastActive": 1771629700338
     },
     "2402:8100:2cea:191e:3611:d2ec:f3ad:6bd8": {
       "type": "movie",
@@ -90214,6 +90215,13 @@
       "title": "No Other Choice",
       "username": "schnom153",
       "lastActive": 1771628416201
+    },
+    "2401:4900:8823:a9e4:5c75:d465:c73a:63ea": {
+      "type": "movie",
+      "id": "tt32012416",
+      "title": "tt32012416",
+      "username": "iknowthat",
+      "lastActive": 1771629608143
     }
   }
 }
