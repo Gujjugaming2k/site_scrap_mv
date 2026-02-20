@@ -1,5 +1,5 @@
 {
-  "totalViews": 28124,
+  "totalViews": 28129,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5688,49 +5688,12 @@
     "2409:40e6:213:7aa7:20e3:58ff:fedd:4a83",
     "103.249.4.57",
     "119.155.195.207",
-    "119.155.206.15"
+    "119.155.206.15",
+    "2405:201:5c14:2a70:ccf5:5db:2058:918",
+    "2409:40d4:f6:1e68:7456:3dff:fe4a:b385",
+    "2409:40d4:f6:1e68:7456:3dff:fe4a:b385,51.89.197.91"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt7098658",
-      "title": "tt7098658",
-      "timestamp": "2026-01-28T00:58:46.263Z",
-      "ip": "2409:40d7:103b:d1ab:d8e3:dff:fe39:ba21",
-      "username": "mailrahulboora"
-    },
-    {
-      "type": "movie",
-      "id": "tt10752004",
-      "title": "tt10752004",
-      "timestamp": "2026-01-28T01:40:43.873Z",
-      "ip": "103.46.200.35",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt0256116",
-      "title": "tt0256116",
-      "timestamp": "2026-01-28T01:41:08.855Z",
-      "ip": "103.46.200.35",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt1216496",
-      "title": "tt1216496",
-      "timestamp": "2026-01-28T01:49:54.890Z",
-      "ip": "103.46.200.35",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt9010588",
-      "title": "tt9010588",
-      "timestamp": "2026-01-28T01:50:12.383Z",
-      "ip": "103.46.200.35",
-      "username": "katdenningssss"
-    },
     {
       "type": "movie",
       "id": "tt3612616",
@@ -85690,6 +85653,46 @@
       "timestamp": "2026-02-20T13:04:07.404Z",
       "ip": "103.249.4.57",
       "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt2146836",
+      "title": "tt2146836",
+      "timestamp": "2026-02-20T13:24:20.649Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:1:5",
+      "title": "The Boys",
+      "timestamp": "2026-02-20T13:26:42.478Z",
+      "ip": "2405:201:5c14:2a70:ccf5:5db:2058:918",
+      "username": "extremeyat"
+    },
+    {
+      "type": "movie",
+      "id": "tt2146836",
+      "title": "tt2146836",
+      "timestamp": "2026-02-20T13:27:17.639Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt1911658",
+      "title": "Penguins of Madagascar",
+      "timestamp": "2026-02-20T13:31:40.346Z",
+      "ip": "2409:40d4:f6:1e68:7456:3dff:fe4a:b385",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt1911658",
+      "title": "Penguins of Madagascar",
+      "timestamp": "2026-02-20T13:31:41.437Z",
+      "ip": "2409:40d4:f6:1e68:7456:3dff:fe4a:b385,51.89.197.91",
+      "username": "bk18"
     }
   ],
   "activeNow": {
@@ -86167,7 +86170,7 @@
       "id": "tt2146836",
       "title": "tt2146836",
       "username": "aravindsivan",
-      "lastActive": 1771591780273
+      "lastActive": 1771594037639
     },
     "2405:201:682e:6839:1f92:2fc:ba55:6b57": {
       "type": "series",
@@ -89976,6 +89979,27 @@
       "title": "tt31050594",
       "username": "hvre2",
       "lastActive": 1771589927033
+    },
+    "2405:201:5c14:2a70:ccf5:5db:2058:918": {
+      "type": "series",
+      "id": "tt1190634:1:5",
+      "title": "The Boys",
+      "username": "extremeyat",
+      "lastActive": 1771594002478
+    },
+    "2409:40d4:f6:1e68:7456:3dff:fe4a:b385": {
+      "type": "movie",
+      "id": "tt1911658",
+      "title": "Penguins of Madagascar",
+      "username": "golu_vk",
+      "lastActive": 1771594300346
+    },
+    "2409:40d4:f6:1e68:7456:3dff:fe4a:b385,51.89.197.91": {
+      "type": "movie",
+      "id": "tt1911658",
+      "title": "Penguins of Madagascar",
+      "username": "bk18",
+      "lastActive": 1771594301437
     }
   }
 }
