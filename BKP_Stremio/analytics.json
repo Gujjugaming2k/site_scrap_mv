@@ -1,5 +1,5 @@
 {
-  "totalViews": 28092,
+  "totalViews": 28095,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5688,30 +5688,6 @@
     "2409:40e6:213:7aa7:20e3:58ff:fedd:4a83"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt13706018:3:9",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-01-27T18:24:41.477Z",
-      "ip": "115.187.38.42",
-      "username": "tgh2r"
-    },
-    {
-      "type": "series",
-      "id": "tt3581920:1:2",
-      "title": "tt3581920:1:2",
-      "timestamp": "2026-01-27T18:25:39.377Z",
-      "ip": "103.181.65.63",
-      "username": "mutti9"
-    },
-    {
-      "type": "series",
-      "id": "tt13706018:3:8",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-01-27T18:33:12.359Z",
-      "ip": "115.187.38.42",
-      "username": "tgh2r"
-    },
     {
       "type": "movie",
       "id": "tt13028258",
@@ -85687,6 +85663,30 @@
       "timestamp": "2026-02-20T10:44:50.208Z",
       "ip": "2401:4900:1f29:dc2a:81f8:c046:9b10:7963",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt1911658",
+      "title": "Penguins of Madagascar",
+      "timestamp": "2026-02-20T10:49:09.671Z",
+      "ip": "2409:40d4:101c:15d:b8a5:28ff:fe54:713",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt1911658",
+      "title": "Penguins of Madagascar",
+      "timestamp": "2026-02-20T10:49:11.425Z",
+      "ip": "2409:40d4:101c:15d:b8a5:28ff:fe54:713,51.89.197.91",
+      "username": "bk18"
+    },
+    {
+      "type": "series",
+      "id": "tt6468322:1:5",
+      "title": "tt6468322:1:5",
+      "timestamp": "2026-02-20T10:54:38.806Z",
+      "ip": "122.161.241.143",
+      "username": "dawnstar930"
     }
   ],
   "activeNow": {
@@ -88506,10 +88506,10 @@
     },
     "122.161.241.143": {
       "type": "series",
-      "id": "tt6468322:1:4",
-      "title": "tt6468322:1:4",
+      "id": "tt6468322:1:5",
+      "title": "tt6468322:1:5",
       "username": "dawnstar930",
-      "lastActive": 1771584089475
+      "lastActive": 1771584878806
     },
     "2405:201:203e:b800:cf52:6de2:b451:1fc4": {
       "type": "series",
@@ -89909,7 +89909,7 @@
       "id": "tt1911658",
       "title": "Penguins of Madagascar",
       "username": "golu_vk",
-      "lastActive": 1771582536972
+      "lastActive": 1771584549671
     },
     "205.254.185.176": {
       "type": "series",
@@ -89944,7 +89944,7 @@
       "id": "tt1911658",
       "title": "Penguins of Madagascar",
       "username": "bk18",
-      "lastActive": 1771582537791
+      "lastActive": 1771584551425
     },
     "2409:40e6:213:7aa7:20e3:58ff:fedd:4a83": {
       "type": "movie",
