@@ -1,5 +1,5 @@
 {
-  "totalViews": 27945,
+  "totalViews": 27948,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5659,30 +5659,6 @@
     "2409:40f0:151:9f1f:28a2:ebff:fe62:475d"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt14850054",
-      "title": "tt14850054",
-      "timestamp": "2026-01-27T13:23:51.518Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "movie",
-      "id": "tt14850054",
-      "title": "tt14850054",
-      "timestamp": "2026-01-27T13:24:14.993Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "movie",
-      "id": "tt14850054",
-      "title": "tt14850054",
-      "timestamp": "2026-01-27T13:24:34.413Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
     {
       "type": "movie",
       "id": "tt30387012",
@@ -85658,6 +85634,30 @@
       "timestamp": "2026-02-20T04:12:12.723Z",
       "ip": "2409:40f0:151:9f1f:28a2:ebff:fe62:475d",
       "username": "dustin henderson"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-20T04:20:34.479Z",
+      "ip": "2409:40f0:151:9f1f:28a2:ebff:fe62:475d",
+      "username": "dustin henderson"
+    },
+    {
+      "type": "movie",
+      "id": "tt23804696",
+      "title": "tt23804696",
+      "timestamp": "2026-02-20T04:22:45.695Z",
+      "ip": "103.220.30.11",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt23804696",
+      "title": "tt23804696",
+      "timestamp": "2026-02-20T04:23:08.524Z",
+      "ip": "103.220.30.11",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -89215,7 +89215,7 @@
       "id": "tt23804696",
       "title": "tt23804696",
       "username": "gaendaswami",
-      "lastActive": 1771492436491
+      "lastActive": 1771561388524
     },
     "2409:40c1:7:45c2:b4c3:d3ff:feef:f091": {
       "type": "movie",
@@ -89702,10 +89702,10 @@
     },
     "2409:40f0:151:9f1f:28a2:ebff:fe62:475d": {
       "type": "movie",
-      "id": "tt30842022",
-      "title": "tt30842022",
+      "id": "tt31227572",
+      "title": "tt31227572",
       "username": "dustin henderson",
-      "lastActive": 1771560732723
+      "lastActive": 1771561234479
     }
   }
 }
