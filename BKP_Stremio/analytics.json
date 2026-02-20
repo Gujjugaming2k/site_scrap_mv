@@ -1,5 +1,5 @@
 {
-  "totalViews": 27943,
+  "totalViews": 27945,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5654,25 +5654,11 @@
     "2402:8100:2ce3:fadb:784b:dffa:68b9:d60e",
     "2603:3003:3544:6700:2a34:1cdf:84b5:afa6",
     "2401:4900:c010:d9:712e:d78f:a1d5:14c",
-    "2409:40d2:300e:11b1:8000::"
+    "2409:40d2:300e:11b1:8000::",
+    "2409:40c4:34c:a88:986e:8e76:d6d3:e7f2",
+    "2409:40f0:151:9f1f:28a2:ebff:fe62:475d"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt26443597",
-      "title": "tt26443597",
-      "timestamp": "2026-01-27T13:22:33.955Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "movie",
-      "id": "tt26443597",
-      "title": "tt26443597",
-      "timestamp": "2026-01-27T13:22:46.469Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
     {
       "type": "movie",
       "id": "tt14850054",
@@ -85656,6 +85642,22 @@
       "timestamp": "2026-02-20T03:45:06.229Z",
       "ip": "2409:40d2:300e:11b1:8000::",
       "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-20T04:02:27.691Z",
+      "ip": "2409:40c4:34c:a88:986e:8e76:d6d3:e7f2",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt30842022",
+      "title": "tt30842022",
+      "timestamp": "2026-02-20T04:12:12.723Z",
+      "ip": "2409:40f0:151:9f1f:28a2:ebff:fe62:475d",
+      "username": "dustin henderson"
     }
   ],
   "activeNow": {
@@ -89690,6 +89692,20 @@
       "title": "tt27543632",
       "username": "saurabhkaperwan",
       "lastActive": 1771559106229
+    },
+    "2409:40c4:34c:a88:986e:8e76:d6d3:e7f2": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "b1jju",
+      "lastActive": 1771560147691
+    },
+    "2409:40f0:151:9f1f:28a2:ebff:fe62:475d": {
+      "type": "movie",
+      "id": "tt30842022",
+      "title": "tt30842022",
+      "username": "dustin henderson",
+      "lastActive": 1771560732723
     }
   }
 }
