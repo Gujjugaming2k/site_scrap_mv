@@ -1,5 +1,5 @@
 {
-  "totalViews": 28202,
+  "totalViews": 28203,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5701,17 +5701,10 @@
     "2401:4900:8823:a9e4:986e:8e76:d6d3:e7f2",
     "2405:201:200d:906b:e9b9:acfe:e6f5:2f4f",
     "2401:4900:8fe2:5c38:d8eb:95ce:27ae:ddf5",
-    "2405:201:203e:b800:f724:ce7d:8d9e:7e61"
+    "2405:201:203e:b800:f724:ce7d:8d9e:7e61",
+    "2409:40c1:2011:964f:6cc6:814d:2292:ccab"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt39313294:1:5",
-      "title": "tt39313294:1:5",
-      "timestamp": "2026-01-28T07:24:43.625Z",
-      "ip": "200.108.55.178",
-      "username": "ymcinema"
-    },
     {
       "type": "series",
       "id": "tt39313294:1:5",
@@ -85703,6 +85696,14 @@
       "timestamp": "2026-02-20T15:04:34.109Z",
       "ip": "2409:40d2:300e:11b1:4cb:f294:aff1:e44e",
       "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt0116695",
+      "title": "Jerry Maguire",
+      "timestamp": "2026-02-20T15:13:39.351Z",
+      "ip": "2409:40c1:2011:964f:6cc6:814d:2292:ccab",
+      "username": "ujas"
     }
   ],
   "activeNow": {
@@ -90080,6 +90081,13 @@
       "title": "The Night Agent",
       "username": "pingmenoone",
       "lastActive": 1771599789555
+    },
+    "2409:40c1:2011:964f:6cc6:814d:2292:ccab": {
+      "type": "movie",
+      "id": "tt0116695",
+      "title": "Jerry Maguire",
+      "username": "ujas",
+      "lastActive": 1771600419351
     }
   }
 }
