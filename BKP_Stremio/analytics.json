@@ -1,5 +1,5 @@
 {
-  "totalViews": 28216,
+  "totalViews": 28222,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5703,57 +5703,11 @@
     "2401:4900:8fe2:5c38:d8eb:95ce:27ae:ddf5",
     "2405:201:203e:b800:f724:ce7d:8d9e:7e61",
     "2409:40c1:2011:964f:6cc6:814d:2292:ccab",
-    "2405:201:203e:b800:6575:64f:d015:c197"
+    "2405:201:203e:b800:6575:64f:d015:c197",
+    "49.36.116.223",
+    "2409:40c1:214c:c8bd:b921:31a:5477:33eb"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt35661996",
-      "title": "tt35661996",
-      "timestamp": "2026-01-28T07:46:04.783Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:2:7",
-      "title": "Lost",
-      "timestamp": "2026-01-28T07:47:18.886Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:2:8",
-      "title": "Lost",
-      "timestamp": "2026-01-28T07:47:40.698Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt24802780",
-      "title": "Christmas Party",
-      "timestamp": "2026-01-28T07:47:57.641Z",
-      "ip": "2409:40f0:2425:a5cf:f04e:61ff:fe9f:b095",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:2:7",
-      "title": "Lost",
-      "timestamp": "2026-01-28T07:47:58.895Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt0913445",
-      "title": "tt0913445",
-      "timestamp": "2026-01-28T07:49:16.413Z",
-      "ip": "2409:40f0:2425:a5cf:f04e:61ff:fe9f:b095",
-      "username": "sachinprem1"
-    },
     {
       "type": "series",
       "id": "tt1399664:1:2",
@@ -85705,6 +85659,54 @@
       "timestamp": "2026-02-20T15:39:34.693Z",
       "ip": "2409:40e6:213:7aa7:20e3:58ff:fedd:4a83",
       "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:2:1",
+      "title": "The Night Agent",
+      "timestamp": "2026-02-20T15:40:32.118Z",
+      "ip": "49.36.116.223",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:2:1",
+      "title": "The Night Agent",
+      "timestamp": "2026-02-20T15:45:58.734Z",
+      "ip": "2409:40c1:214c:c8bd:b921:31a:5477:33eb",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt9288860:1:3",
+      "title": "tt9288860:1:3",
+      "timestamp": "2026-02-20T15:47:59.097Z",
+      "ip": "205.254.185.176",
+      "username": "space_forca"
+    },
+    {
+      "type": "movie",
+      "id": "tt21818782",
+      "title": "tt21818782",
+      "timestamp": "2026-02-20T15:49:00.363Z",
+      "ip": "2409:40d4:f6:1e68:7456:3dff:fe4a:b385",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt21818782",
+      "title": "tt21818782",
+      "timestamp": "2026-02-20T15:49:02.468Z",
+      "ip": "2409:40d4:f6:1e68:7456:3dff:fe4a:b385,51.89.197.91",
+      "username": "bk18"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-20T15:53:39.348Z",
+      "ip": "2409:40d2:300e:11b1:4cb:f294:aff1:e44e",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -89815,7 +89817,7 @@
       "id": "tt27543632",
       "title": "tt27543632",
       "username": "saurabhkaperwan",
-      "lastActive": 1771599874109
+      "lastActive": 1771602819348
     },
     "2405:201:682e:6839:984a:f3cc:2329:e88f": {
       "type": "movie",
@@ -89931,10 +89933,10 @@
     },
     "205.254.185.176": {
       "type": "series",
-      "id": "tt9288860:1:2",
-      "title": "tt9288860:1:2",
+      "id": "tt9288860:1:3",
+      "title": "tt9288860:1:3",
       "username": "space_forca",
-      "lastActive": 1771601746835
+      "lastActive": 1771602479097
     },
     "2401:4900:ac1c:2a5:a0e7:8202:751f:1115": {
       "type": "movie",
@@ -90001,17 +90003,17 @@
     },
     "2409:40d4:f6:1e68:7456:3dff:fe4a:b385": {
       "type": "movie",
-      "id": "tt15073166",
-      "title": "tt15073166",
+      "id": "tt21818782",
+      "title": "tt21818782",
       "username": "golu_vk",
-      "lastActive": 1771595039899
+      "lastActive": 1771602540363
     },
     "2409:40d4:f6:1e68:7456:3dff:fe4a:b385,51.89.197.91": {
       "type": "movie",
-      "id": "tt15073166",
-      "title": "tt15073166",
+      "id": "tt21818782",
+      "title": "tt21818782",
       "username": "bk18",
-      "lastActive": 1771595041727
+      "lastActive": 1771602542468
     },
     "2405:201:2022:b81c:d105:8498:ec4d:4622": {
       "type": "movie",
@@ -90096,6 +90098,20 @@
       "title": "The Night Agent",
       "username": "pingmenoone",
       "lastActive": 1771601810125
+    },
+    "49.36.116.223": {
+      "type": "series",
+      "id": "tt13918776:2:1",
+      "title": "The Night Agent",
+      "username": "pingmenoone",
+      "lastActive": 1771602032118
+    },
+    "2409:40c1:214c:c8bd:b921:31a:5477:33eb": {
+      "type": "series",
+      "id": "tt13918776:2:1",
+      "title": "The Night Agent",
+      "username": "pingmenoone",
+      "lastActive": 1771602358734
     }
   }
 }
