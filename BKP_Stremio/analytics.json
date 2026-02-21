@@ -1,5 +1,5 @@
 {
-  "totalViews": 28785,
+  "totalViews": 28789,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5777,41 +5777,10 @@
     "2409:40e0:1f:fd74:308a:4d4a:7158:4f5b",
     "223.181.97.144",
     "2401:4900:1c0f:9662:7d12:7cf7:415c:b39",
-    "2405:201:203e:b800:f36c:1dc6:975c:cfd8"
+    "2405:201:203e:b800:f36c:1dc6:975c:cfd8",
+    "146.196.34.234"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:3",
-      "title": "tt35335046:1:3",
-      "timestamp": "2026-01-29T14:25:15.229Z",
-      "ip": "223.181.98.56",
-      "username": "baljeet_002"
-    },
-    {
-      "type": "series",
-      "id": "tt19244304:1:6",
-      "title": "tt19244304:1:6",
-      "timestamp": "2026-01-29T14:28:01.444Z",
-      "ip": "94.156.30.62",
-      "username": "b1jju"
-    },
-    {
-      "type": "series",
-      "id": "tt4644488:5:3",
-      "title": "tt4644488:5:3",
-      "timestamp": "2026-01-29T14:31:47.821Z",
-      "ip": "115.98.99.86",
-      "username": "nothingokk"
-    },
-    {
-      "type": "series",
-      "id": "tt4644488:5:4",
-      "title": "tt4644488:5:4",
-      "timestamp": "2026-01-29T14:32:28.003Z",
-      "ip": "115.98.99.86",
-      "username": "nothingokk"
-    },
     {
       "type": "series",
       "id": "tt4644488:5:4",
@@ -85779,6 +85748,38 @@
       "timestamp": "2026-02-21T16:20:15.056Z",
       "ip": "2405:201:203e:b800:f36c:1dc6:975c:cfd8",
       "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:1:2",
+      "title": "tt19854762:1:2",
+      "timestamp": "2026-02-21T16:29:52.456Z",
+      "ip": "146.196.34.234",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:10",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-21T16:31:28.570Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt39137681:1:9",
+      "title": "tt39137681:1:9",
+      "timestamp": "2026-02-21T16:40:36.560Z",
+      "ip": "2401:4900:1c0f:9662:7d12:7cf7:415c:b39",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "series",
+      "id": "tt39137681:1:8",
+      "title": "tt39137681:1:8",
+      "timestamp": "2026-02-21T16:40:36.653Z",
+      "ip": "2401:4900:1c0f:9662:7d12:7cf7:415c:b39",
+      "username": "saisrinivas"
     }
   ],
   "activeNow": {
@@ -86130,7 +86131,7 @@
       "id": "tt0944947:1:10",
       "title": "Game of Thrones",
       "username": "un0fficial_itachi",
-      "lastActive": 1771689086670
+      "lastActive": 1771691488570
     },
     "94.156.30.212": {
       "type": "movie",
@@ -90701,7 +90702,7 @@
       "id": "tt39137681:1:8",
       "title": "tt39137681:1:8",
       "username": "saisrinivas",
-      "lastActive": 1771690684909
+      "lastActive": 1771692036653
     },
     "2405:201:203e:b800:f36c:1dc6:975c:cfd8": {
       "type": "series",
@@ -90709,6 +90710,13 @@
       "title": "The Night Agent",
       "username": "pingmenoone",
       "lastActive": 1771690815056
+    },
+    "146.196.34.234": {
+      "type": "series",
+      "id": "tt19854762:1:2",
+      "title": "tt19854762:1:2",
+      "username": "gaendaswami",
+      "lastActive": 1771691392456
     }
   }
 }
