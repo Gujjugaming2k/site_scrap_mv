@@ -1,5 +1,5 @@
 {
-  "totalViews": 28865,
+  "totalViews": 28869,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5793,41 +5793,10 @@
     "2409:40e4:10bc:3cdf:4f2:895b:3fdf:7dcd",
     "163.223.102.149",
     "103.162.158.146",
-    "2402:a00:10a:815f:1931:56e6:ad25:abd2"
+    "2402:a00:10a:815f:1931:56e6:ad25:abd2",
+    "110.172.131.238"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0209144",
-      "title": "Memento",
-      "timestamp": "2026-01-29T17:14:17.731Z",
-      "ip": "2401:4900:8825:3180:b252:16ff:fe82:e569",
-      "username": "sinbad1722"
-    },
-    {
-      "type": "movie",
-      "id": "tt30818815",
-      "title": "tt30818815",
-      "timestamp": "2026-01-29T17:14:20.471Z",
-      "ip": "2405:201:2033:841:9d60:4bab:11d1:1051",
-      "username": "surti_lala"
-    },
-    {
-      "type": "movie",
-      "id": "tt19847976",
-      "title": "tt19847976",
-      "timestamp": "2026-01-29T17:15:37.601Z",
-      "ip": "2001:ac8:2:1::13",
-      "username": "golu_vk"
-    },
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-01-29T17:23:57.088Z",
-      "ip": "2405:201:2022:b81c:d42f:6e5b:8188:e2fa",
-      "username": "zealousninja"
-    },
     {
       "type": "movie",
       "id": "tt32642706",
@@ -85795,6 +85764,38 @@
       "timestamp": "2026-02-21T19:00:36.344Z",
       "ip": "163.223.102.149",
       "username": "mutti9"
+    },
+    {
+      "type": "series",
+      "id": "tt27853283:2:2",
+      "title": "tt27853283:2:2",
+      "timestamp": "2026-02-21T19:06:38.432Z",
+      "ip": "163.223.102.149",
+      "username": "mutti9"
+    },
+    {
+      "type": "series",
+      "id": "tt27853283:2:2",
+      "title": "tt27853283:2:2",
+      "timestamp": "2026-02-21T19:06:49.459Z",
+      "ip": "163.223.102.149",
+      "username": "mutti9"
+    },
+    {
+      "type": "series",
+      "id": "tt3175266:1:1",
+      "title": "tt3175266:1:1",
+      "timestamp": "2026-02-21T19:17:01.126Z",
+      "ip": "146.196.34.234",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-21T19:17:18.898Z",
+      "ip": "110.172.131.238",
+      "username": "ryuzaklo26"
     }
   ],
   "activeNow": {
@@ -85821,10 +85822,10 @@
     },
     "163.223.102.149": {
       "type": "series",
-      "id": "tt27853283:2:1",
-      "title": "tt27853283:2:1",
+      "id": "tt27853283:2:2",
+      "title": "tt27853283:2:2",
       "username": "mutti9",
-      "lastActive": 1771700436344
+      "lastActive": 1771700809459
     },
     "116.68.74.159": {
       "type": "series",
@@ -85867,6 +85868,20 @@
       "title": "tt0903747:2:8",
       "username": "tgh2r",
       "lastActive": 1771700193772
+    },
+    "146.196.34.234": {
+      "type": "series",
+      "id": "tt3175266:1:1",
+      "title": "tt3175266:1:1",
+      "username": "gaendaswami",
+      "lastActive": 1771701421126
+    },
+    "110.172.131.238": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "ryuzaklo26",
+      "lastActive": 1771701438898
     }
   }
 }
