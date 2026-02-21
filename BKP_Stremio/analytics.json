@@ -1,5 +1,5 @@
 {
-  "totalViews": 28771,
+  "totalViews": 28774,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5773,33 +5773,10 @@
     "2405:201:f009:b0c0:645d:9b41:6f24:78d3",
     "2402:a00:10a:815f:40c0:d5f6:4572:47ab",
     "2409:40c2:3109:26ff:8000::",
-    "2405:201:202d:d019:43bb:82b6:a50e:3244"
+    "2405:201:202d:d019:43bb:82b6:a50e:3244",
+    "2409:40e0:1f:fd74:308a:4d4a:7158:4f5b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt19244304:1:1",
-      "title": "tt19244304:1:1",
-      "timestamp": "2026-01-29T14:05:58.351Z",
-      "ip": "2401:4900:88b9:3f2f:85b2:e25f:7d1:3382",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt3614516",
-      "title": "tt3614516",
-      "timestamp": "2026-01-29T14:06:33.837Z",
-      "ip": "2402:8100:2704:1a9d:1674:66b:fe5d:3885",
-      "username": "harshra9999"
-    },
-    {
-      "type": "series",
-      "id": "tt15576504:1:4",
-      "title": "tt15576504:1:4",
-      "timestamp": "2026-01-29T14:09:54.392Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt0903747:1:4",
@@ -85775,6 +85752,30 @@
       "timestamp": "2026-02-21T15:38:45.642Z",
       "ip": "2405:201:202d:d019:43bb:82b6:a50e:3244",
       "username": "explorerindia"
+    },
+    {
+      "type": "movie",
+      "id": "tt11490170",
+      "title": "tt11490170",
+      "timestamp": "2026-02-21T15:47:22.274Z",
+      "ip": "2405:201:f009:b0c0:645d:9b41:6f24:78d3",
+      "username": "volfirdiaz"
+    },
+    {
+      "type": "movie",
+      "id": "tt0298130",
+      "title": "The Ring",
+      "timestamp": "2026-02-21T15:50:48.148Z",
+      "ip": "2409:40e0:1f:fd74:308a:4d4a:7158:4f5b",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:10",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-21T15:51:26.670Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
     }
   ],
   "activeNow": {
@@ -86126,7 +86127,7 @@
       "id": "tt0944947:1:10",
       "title": "Game of Thrones",
       "username": "un0fficial_itachi",
-      "lastActive": 1771676615149
+      "lastActive": 1771689086670
     },
     "94.156.30.212": {
       "type": "movie",
@@ -90655,7 +90656,7 @@
       "id": "tt11490170",
       "title": "tt11490170",
       "username": "volfirdiaz",
-      "lastActive": 1771682918847
+      "lastActive": 1771688842274
     },
     "2402:a00:10a:815f:40c0:d5f6:4572:47ab": {
       "type": "series",
@@ -90677,6 +90678,13 @@
       "title": "tt31938062:1:2",
       "username": "explorerindia",
       "lastActive": 1771688325642
+    },
+    "2409:40e0:1f:fd74:308a:4d4a:7158:4f5b": {
+      "type": "movie",
+      "id": "tt0298130",
+      "title": "The Ring",
+      "username": "nobody_ismy_name",
+      "lastActive": 1771689048148
     }
   }
 }
