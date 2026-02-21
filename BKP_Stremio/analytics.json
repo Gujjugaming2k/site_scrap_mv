@@ -1,5 +1,5 @@
 {
-  "totalViews": 28885,
+  "totalViews": 28886,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5801,14 +5801,6 @@
     "2409:40c0:1054:b4f:cf7:7bff:fee7:96e6"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31852038",
-      "title": "tt31852038",
-      "timestamp": "2026-01-29T17:57:22.099Z",
-      "ip": "2401:4900:1c53:3310:8d9e:5f70:c207:4263",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -85800,6 +85792,14 @@
       "timestamp": "2026-02-21T22:50:47.117Z",
       "ip": "2409:40c0:1054:b4f:cf7:7bff:fee7:96e6",
       "username": "anonymous050100"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-21T23:02:21.153Z",
+      "ip": "2409:40c0:1054:b4f:cf7:7bff:fee7:96e6",
+      "username": "anonymous050100"
     }
   ],
   "activeNow": {
@@ -85920,7 +85920,7 @@
       "id": "tt27543632",
       "title": "tt27543632",
       "username": "anonymous050100",
-      "lastActive": 1771714247117
+      "lastActive": 1771714941153
     }
   }
 }
