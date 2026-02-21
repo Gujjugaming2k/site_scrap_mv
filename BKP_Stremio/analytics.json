@@ -1,5 +1,5 @@
 {
-  "totalViews": 28882,
+  "totalViews": 28885,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5797,33 +5797,10 @@
     "110.172.131.238",
     "2401:4900:3a1e:9efa:4f35:21f8:1c75:e41d",
     "2405:201:900f:a92b:1d12:72d7:afdc:acc1",
-    "104.234.53.157"
+    "104.234.53.157",
+    "2409:40c0:1054:b4f:cf7:7bff:fee7:96e6"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:2:14",
-      "title": "Lost",
-      "timestamp": "2026-01-29T17:45:59.737Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:2:14",
-      "title": "Lost",
-      "timestamp": "2026-01-29T17:46:00.021Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:2:13",
-      "title": "Lost",
-      "timestamp": "2026-01-29T17:46:04.569Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
     {
       "type": "movie",
       "id": "tt31852038",
@@ -85799,6 +85776,30 @@
       "timestamp": "2026-02-21T22:15:26.849Z",
       "ip": "104.234.53.157",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-21T22:44:30.925Z",
+      "ip": "2409:40c0:1054:b4f:cf7:7bff:fee7:96e6",
+      "username": "anonymous050100"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-21T22:49:25.756Z",
+      "ip": "2409:40c0:1054:b4f:cf7:7bff:fee7:96e6",
+      "username": "anonymous050100"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-21T22:50:47.117Z",
+      "ip": "2409:40c0:1054:b4f:cf7:7bff:fee7:96e6",
+      "username": "anonymous050100"
     }
   ],
   "activeNow": {
@@ -85913,6 +85914,13 @@
       "title": "tt34278653",
       "username": "theonlyfreak",
       "lastActive": 1771712126849
+    },
+    "2409:40c0:1054:b4f:cf7:7bff:fee7:96e6": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "anonymous050100",
+      "lastActive": 1771714247117
     }
   }
 }
