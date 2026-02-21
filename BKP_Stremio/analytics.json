@@ -1,5 +1,5 @@
 {
-  "totalViews": 28554,
+  "totalViews": 28562,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5744,73 +5744,12 @@
     "2401:4900:1cb2:c754:dcc5:8ec6:f579:dfb9",
     "2405:201:5c14:2a70:8972:9228:428:38ae",
     "2401:4900:8fe2:5c38:92f:61d:2a74:3f6c",
-    "2402:a00:10a:815f:611d:80a8:9c6b:e262"
+    "2402:a00:10a:815f:611d:80a8:9c6b:e262",
+    "2409:40e4:10b6:e119:b555:4b7d:ab40:4c71",
+    "2409:40c1:2150:b785:8000::",
+    "2405:201:6025:a88d:6591:d197:50d:32a9"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt11867666:1:1911",
-      "title": "tt11867666:1:1911",
-      "timestamp": "2026-01-29T04:48:13.569Z",
-      "ip": "190.140.187.206",
-      "username": "ymcinema"
-    },
-    {
-      "type": "movie",
-      "id": "tt24268454",
-      "title": "tt24268454",
-      "timestamp": "2026-01-29T04:48:38.331Z",
-      "ip": "190.140.187.206",
-      "username": "ymcinema"
-    },
-    {
-      "type": "series",
-      "id": "tt21030032:3:3",
-      "title": "tt21030032:3:3",
-      "timestamp": "2026-01-29T04:49:27.989Z",
-      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt24268454",
-      "title": "tt24268454",
-      "timestamp": "2026-01-29T04:49:30.883Z",
-      "ip": "190.140.187.206",
-      "username": "ymcinema"
-    },
-    {
-      "type": "movie",
-      "id": "tt24268454",
-      "title": "tt24268454",
-      "timestamp": "2026-01-29T04:49:39.135Z",
-      "ip": "190.140.187.206",
-      "username": "ymcinema"
-    },
-    {
-      "type": "series",
-      "id": "tt39313294:1:4",
-      "title": "tt39313294:1:4",
-      "timestamp": "2026-01-29T04:49:44.991Z",
-      "ip": "190.140.187.206",
-      "username": "ymcinema"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-29T04:49:57.732Z",
-      "ip": "190.140.187.206",
-      "username": "ymcinema"
-    },
-    {
-      "type": "movie",
-      "id": "tt5311514",
-      "title": "Your Name.",
-      "timestamp": "2026-01-29T04:50:07.348Z",
-      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
-      "username": "nabakun"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -85746,6 +85685,70 @@
       "timestamp": "2026-02-21T08:56:49.157Z",
       "ip": "2405:201:5c14:2a70:8972:9228:428:38ae",
       "username": "extremeyat"
+    },
+    {
+      "type": "movie",
+      "id": "tt1399103",
+      "title": "Transformers: Dark of the Moon",
+      "timestamp": "2026-02-21T09:01:46.816Z",
+      "ip": "2409:40e4:10b6:e119:b555:4b7d:ab40:4c71",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:1:1",
+      "title": "The Night Agent",
+      "timestamp": "2026-02-21T09:04:22.004Z",
+      "ip": "2405:201:5c14:2a70:8972:9228:428:38ae",
+      "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-02-21T09:05:07.097Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt28106758:1:5",
+      "title": "tt28106758:1:5",
+      "timestamp": "2026-02-21T09:05:36.302Z",
+      "ip": "202.173.124.219",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt28106758:1:6",
+      "title": "tt28106758:1:6",
+      "timestamp": "2026-02-21T09:06:03.722Z",
+      "ip": "202.173.124.219",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:2:2",
+      "title": "The Night Agent",
+      "timestamp": "2026-02-21T09:09:43.349Z",
+      "ip": "2409:40c1:2150:b785:8000::",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:2:3",
+      "title": "The Night Agent",
+      "timestamp": "2026-02-21T09:09:48.821Z",
+      "ip": "2409:40c1:2150:b785:8000::",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt13668894:1:1",
+      "title": "tt13668894:1:1",
+      "timestamp": "2026-02-21T09:12:54.749Z",
+      "ip": "2405:201:6025:a88d:6591:d197:50d:32a9",
+      "username": "infinityseeker"
     }
   ],
   "activeNow": {
@@ -85803,7 +85806,7 @@
       "id": "tt27497448:1:1",
       "title": "tt27497448:1:1",
       "username": "chetan_b2",
-      "lastActive": 1771663714001
+      "lastActive": 1771664707097
     },
     "49.43.109.57": {
       "type": "movie",
@@ -88985,10 +88988,10 @@
     },
     "202.173.124.219": {
       "type": "series",
-      "id": "tt39068875:1:3",
-      "title": "tt39068875:1:3",
+      "id": "tt28106758:1:6",
+      "title": "tt28106758:1:6",
       "username": "ryuzaklo26",
-      "lastActive": 1771650591352
+      "lastActive": 1771664763722
     },
     "2409:40e4:1098:3c7d:6542:b8d7:1e92:9f51": {
       "type": "series",
@@ -90427,10 +90430,10 @@
     },
     "2405:201:5c14:2a70:8972:9228:428:38ae": {
       "type": "series",
-      "id": "tt3032476:1:1",
-      "title": "tt3032476:1:1",
+      "id": "tt13918776:1:1",
+      "title": "The Night Agent",
       "username": "extremeyat",
-      "lastActive": 1771664209157
+      "lastActive": 1771664662004
     },
     "2401:4900:8fe2:5c38:92f:61d:2a74:3f6c": {
       "type": "series",
@@ -90445,6 +90448,27 @@
       "title": "The Night Agent",
       "username": "vflix1993",
       "lastActive": 1771663765358
+    },
+    "2409:40e4:10b6:e119:b555:4b7d:ab40:4c71": {
+      "type": "movie",
+      "id": "tt1399103",
+      "title": "Transformers: Dark of the Moon",
+      "username": "askchm",
+      "lastActive": 1771664506816
+    },
+    "2409:40c1:2150:b785:8000::": {
+      "type": "series",
+      "id": "tt13918776:2:3",
+      "title": "The Night Agent",
+      "username": "pingmenoone",
+      "lastActive": 1771664988821
+    },
+    "2405:201:6025:a88d:6591:d197:50d:32a9": {
+      "type": "series",
+      "id": "tt13668894:1:1",
+      "title": "tt13668894:1:1",
+      "username": "infinityseeker",
+      "lastActive": 1771665174749
     }
   }
 }
