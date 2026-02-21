@@ -1,5 +1,5 @@
 {
-  "totalViews": 28878,
+  "totalViews": 28882,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5796,41 +5796,10 @@
     "2402:a00:10a:815f:1931:56e6:ad25:abd2",
     "110.172.131.238",
     "2401:4900:3a1e:9efa:4f35:21f8:1c75:e41d",
-    "2405:201:900f:a92b:1d12:72d7:afdc:acc1"
+    "2405:201:900f:a92b:1d12:72d7:afdc:acc1",
+    "104.234.53.157"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:2:11",
-      "title": "Lost",
-      "timestamp": "2026-01-29T17:45:07.109Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:2:11",
-      "title": "Lost",
-      "timestamp": "2026-01-29T17:45:08.840Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:2:13",
-      "title": "Lost",
-      "timestamp": "2026-01-29T17:45:15.607Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:2:14",
-      "title": "Lost",
-      "timestamp": "2026-01-29T17:45:52.725Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
     {
       "type": "series",
       "id": "tt0411008:2:14",
@@ -85798,6 +85767,38 @@
       "timestamp": "2026-02-21T22:12:38.482Z",
       "ip": "2405:201:900f:a92b:1d12:72d7:afdc:acc1",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt34278653",
+      "title": "tt34278653",
+      "timestamp": "2026-02-21T22:13:12.695Z",
+      "ip": "104.234.53.157",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt0240890",
+      "title": "tt0240890",
+      "timestamp": "2026-02-21T22:13:46.679Z",
+      "ip": "104.234.53.157",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt34278653",
+      "title": "tt34278653",
+      "timestamp": "2026-02-21T22:13:59.337Z",
+      "ip": "104.234.53.157",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt34278653",
+      "title": "tt34278653",
+      "timestamp": "2026-02-21T22:15:26.849Z",
+      "ip": "104.234.53.157",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -85905,6 +85906,13 @@
       "title": "tt34278653",
       "username": "theonlyfreak",
       "lastActive": 1771711958482
+    },
+    "104.234.53.157": {
+      "type": "movie",
+      "id": "tt34278653",
+      "title": "tt34278653",
+      "username": "theonlyfreak",
+      "lastActive": 1771712126849
     }
   }
 }
