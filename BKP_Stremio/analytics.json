@@ -1,5 +1,5 @@
 {
-  "totalViews": 28665,
+  "totalViews": 28668,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5766,30 +5766,6 @@
     "2409:40c1:1000:c541:89fd:a768:56f4:5f9d"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-01-29T10:07:08.471Z",
-      "ip": "2409:40d0:1029:cc60:d415:5188:33bb:415b",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt32820897",
-      "title": "tt32820897",
-      "timestamp": "2026-01-29T10:07:41.021Z",
-      "ip": "2409:40d0:1029:cc60:d415:5188:33bb:415b",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt32820897",
-      "title": "tt32820897",
-      "timestamp": "2026-01-29T10:07:58.509Z",
-      "ip": "2409:40d0:1029:cc60:d415:5188:33bb:415b",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt26225038:1:5",
@@ -85765,6 +85741,30 @@
       "timestamp": "2026-02-21T12:05:17.716Z",
       "ip": "2409:40c1:1000:c541:89fd:a768:56f4:5f9d",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt0247992",
+      "title": "tt0247992",
+      "timestamp": "2026-02-21T12:07:44.451Z",
+      "ip": "2405:201:200d:906b:e9b9:acfe:e6f5:2f4f",
+      "username": "kulu007"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-21T12:09:23.032Z",
+      "ip": "2409:40c1:1000:c541:89fd:a768:56f4:5f9d",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:2:6",
+      "title": "tt0903747:2:6",
+      "timestamp": "2026-02-21T12:18:45.024Z",
+      "ip": "103.249.4.57",
+      "username": "tgh2r"
     }
   ],
   "activeNow": {
@@ -90033,10 +90033,10 @@
     },
     "103.249.4.57": {
       "type": "series",
-      "id": "tt0903747:2:5",
-      "title": "tt0903747:2:5",
+      "id": "tt0903747:2:6",
+      "title": "tt0903747:2:6",
       "username": "tgh2r",
-      "lastActive": 1771673307880
+      "lastActive": 1771676325024
     },
     "119.155.195.207": {
       "type": "movie",
@@ -90127,7 +90127,7 @@
       "id": "tt0247992",
       "title": "tt0247992",
       "username": "kulu007",
-      "lastActive": 1771656693473
+      "lastActive": 1771675664451
     },
     "2401:4900:8fe2:5c38:d8eb:95ce:27ae:ddf5": {
       "type": "movie",
@@ -90593,10 +90593,10 @@
     },
     "2409:40c1:1000:c541:89fd:a768:56f4:5f9d": {
       "type": "movie",
-      "id": "tt33295741",
-      "title": "tt33295741",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "zealousninja",
-      "lastActive": 1771675517716
+      "lastActive": 1771675763032
     }
   }
 }
