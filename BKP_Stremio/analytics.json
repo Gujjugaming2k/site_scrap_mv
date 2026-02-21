@@ -1,5 +1,5 @@
 {
-  "totalViews": 28641,
+  "totalViews": 28656,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5759,129 +5759,11 @@
     "2605:6440:4001:3000:aa98:2130:6cf9:625e",
     "2a09:bac1:3680:470::243:90",
     "2605:6440:4007:c003:b26e:2768:f9:db03",
-    "2409:40e4:1090:ef9e:ad49:69a:f630:c31e"
+    "2409:40e4:1090:ef9e:ad49:69a:f630:c31e",
+    "2a09:bac5:40db:1478::20a:e2",
+    "2401:4900:88f6:8f57:6902:a902:1fbf:3d89"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:2",
-      "title": "tt35335046:1:2",
-      "timestamp": "2026-01-29T09:12:29.002Z",
-      "ip": "2405:201:203e:b839:91ba:8883:1570:fc38",
-      "username": "frankcastleishere"
-    },
-    {
-      "type": "series",
-      "id": "tt15576504:1:4",
-      "title": "tt15576504:1:4",
-      "timestamp": "2026-01-29T09:13:08.056Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt15576504:1:5",
-      "title": "tt15576504:1:5",
-      "timestamp": "2026-01-29T09:13:55.617Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt0499549",
-      "title": "Avatar",
-      "timestamp": "2026-01-29T09:14:19.431Z",
-      "ip": "2405:201:203e:b839:91ba:8883:1570:fc38",
-      "username": "frankcastleishere"
-    },
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-01-29T09:14:27.571Z",
-      "ip": "2405:201:203e:b839:91ba:8883:1570:fc38",
-      "username": "frankcastleishere"
-    },
-    {
-      "type": "movie",
-      "id": "tt0068646",
-      "title": "The Godfather",
-      "timestamp": "2026-01-29T09:14:57.075Z",
-      "ip": "2405:201:203e:b839:91ba:8883:1570:fc38",
-      "username": "frankcastleishere"
-    },
-    {
-      "type": "series",
-      "id": "tt15576504:1:3",
-      "title": "tt15576504:1:3",
-      "timestamp": "2026-01-29T09:15:44.907Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt21030032:1:2",
-      "title": "tt21030032:1:2",
-      "timestamp": "2026-01-29T09:15:48.630Z",
-      "ip": "2409:40d2:3058:abcd:8000::",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-29T09:17:11.140Z",
-      "ip": "2405:201:203e:b01c:8d3b:abba:8770:a8ee",
-      "username": "pingmenoone"
-    },
-    {
-      "type": "series",
-      "id": "tt26225038:1:2",
-      "title": "tt26225038:1:2",
-      "timestamp": "2026-01-29T09:17:44.618Z",
-      "ip": "47.15.114.163",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:2",
-      "title": "tt35335046:1:2",
-      "timestamp": "2026-01-29T09:19:06.524Z",
-      "ip": "2405:201:203e:b839:91ba:8883:1570:fc38",
-      "username": "frankcastleishere"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:2",
-      "title": "tt35335046:1:2",
-      "timestamp": "2026-01-29T09:19:14.749Z",
-      "ip": "2405:201:203e:b839:91ba:8883:1570:fc38",
-      "username": "frankcastleishere"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-01-29T09:19:24.452Z",
-      "ip": "2405:201:203e:b839:91ba:8883:1570:fc38",
-      "username": "frankcastleishere"
-    },
-    {
-      "type": "series",
-      "id": "tt26225038:1:3",
-      "title": "tt26225038:1:3",
-      "timestamp": "2026-01-29T09:27:33.968Z",
-      "ip": "2a09:bac5:40b4:1a96::2a6:5",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt15576504:1:4",
-      "title": "tt15576504:1:4",
-      "timestamp": "2026-01-29T09:30:51.504Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt15576504:1:3",
@@ -85761,6 +85643,126 @@
       "timestamp": "2026-02-21T11:20:00.084Z",
       "ip": "2409:40d4:30cc:22ec:54bb:73ff:fe94:7de4,51.89.197.91",
       "username": "bk18"
+    },
+    {
+      "type": "movie",
+      "id": "tt28671344",
+      "title": "The Strangers: Chapter 2",
+      "timestamp": "2026-02-21T11:20:14.447Z",
+      "ip": "2401:4900:8823:a9e4:44a0:b4b8:7787:d185",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt28671344",
+      "title": "The Strangers: Chapter 2",
+      "timestamp": "2026-02-21T11:20:55.834Z",
+      "ip": "2401:4900:8823:a9e4:44a0:b4b8:7787:d185",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt7019842",
+      "title": "tt7019842",
+      "timestamp": "2026-02-21T11:22:36.007Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt21935972:1:3",
+      "title": "tt21935972:1:3",
+      "timestamp": "2026-02-21T11:22:43.303Z",
+      "ip": "2a09:bac5:40db:1478::20a:e2",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt28671344",
+      "title": "The Strangers: Chapter 2",
+      "timestamp": "2026-02-21T11:23:26.439Z",
+      "ip": "2401:4900:8823:a9e4:44a0:b4b8:7787:d185",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt21935972:1:3",
+      "title": "tt21935972:1:3",
+      "timestamp": "2026-02-21T11:23:41.487Z",
+      "ip": "2405:201:6820:a83c:18da:70ae:bc26:1b24",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt28671344",
+      "title": "The Strangers: Chapter 2",
+      "timestamp": "2026-02-21T11:23:45.584Z",
+      "ip": "2401:4900:8823:a9e4:44a0:b4b8:7787:d185",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt28671344",
+      "title": "The Strangers: Chapter 2",
+      "timestamp": "2026-02-21T11:24:40.509Z",
+      "ip": "2401:4900:8823:a9e4:44a0:b4b8:7787:d185",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt15260176",
+      "title": "tt15260176",
+      "timestamp": "2026-02-21T11:27:03.435Z",
+      "ip": "2401:4900:88f6:8f57:6902:a902:1fbf:3d89",
+      "username": "rishix915"
+    },
+    {
+      "type": "movie",
+      "id": "tt28671344",
+      "title": "The Strangers: Chapter 2",
+      "timestamp": "2026-02-21T11:28:06.138Z",
+      "ip": "2401:4900:8823:a9e4:44a0:b4b8:7787:d185",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt7019842",
+      "title": "tt7019842",
+      "timestamp": "2026-02-21T11:28:14.934Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt28671344",
+      "title": "The Strangers: Chapter 2",
+      "timestamp": "2026-02-21T11:28:21.480Z",
+      "ip": "2401:4900:8823:a9e4:44a0:b4b8:7787:d185",
+      "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:2:5",
+      "title": "tt0903747:2:5",
+      "timestamp": "2026-02-21T11:28:27.880Z",
+      "ip": "103.249.4.57",
+      "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt15477504",
+      "title": "tt15477504",
+      "timestamp": "2026-02-21T11:28:32.245Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt25406500",
+      "title": "tt25406500",
+      "timestamp": "2026-02-21T11:35:20.157Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -86235,10 +86237,10 @@
     },
     "116.68.74.159": {
       "type": "movie",
-      "id": "tt0072352",
-      "title": "tt0072352",
+      "id": "tt25406500",
+      "title": "tt25406500",
       "username": "aravindsivan",
-      "lastActive": 1771672787453
+      "lastActive": 1771673720157
     },
     "2405:201:682e:6839:1f92:2fc:ba55:6b57": {
       "type": "series",
@@ -86732,10 +86734,10 @@
     },
     "2405:201:6820:a83c:18da:70ae:bc26:1b24": {
       "type": "series",
-      "id": "tt21935972:1:2",
-      "title": "tt21935972:1:2",
+      "id": "tt21935972:1:3",
+      "title": "tt21935972:1:3",
       "username": "demon18319",
-      "lastActive": 1771669419884
+      "lastActive": 1771673021487
     },
     "2409:40c1:11:20f1:8000::": {
       "type": "series",
@@ -90028,11 +90030,11 @@
       "lastActive": 1771670509355
     },
     "103.249.4.57": {
-      "type": "movie",
-      "id": "tt0102844",
-      "title": "tt0102844",
+      "type": "series",
+      "id": "tt0903747:2:5",
+      "title": "tt0903747:2:5",
       "username": "tgh2r",
-      "lastActive": 1771659746620
+      "lastActive": 1771673307880
     },
     "119.155.195.207": {
       "type": "movie",
@@ -90536,7 +90538,7 @@
       "id": "tt28671344",
       "title": "The Strangers: Chapter 2",
       "username": "b1jju",
-      "lastActive": 1771671904634
+      "lastActive": 1771673301480
     },
     "2605:6440:4001:3000:aa98:2130:6cf9:625e": {
       "type": "series",
@@ -90565,6 +90567,20 @@
       "title": "tt0918940",
       "username": "askchm",
       "lastActive": 1771672480206
+    },
+    "2a09:bac5:40db:1478::20a:e2": {
+      "type": "series",
+      "id": "tt21935972:1:3",
+      "title": "tt21935972:1:3",
+      "username": "demon18319",
+      "lastActive": 1771672963303
+    },
+    "2401:4900:88f6:8f57:6902:a902:1fbf:3d89": {
+      "type": "movie",
+      "id": "tt15260176",
+      "title": "tt15260176",
+      "username": "rishix915",
+      "lastActive": 1771673223435
     }
   }
 }
