@@ -1,5 +1,5 @@
 {
-  "totalViews": 28391,
+  "totalViews": 28392,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5721,17 +5721,10 @@
     "106.222.213.119",
     "119.155.173.77",
     "2401:ba80:a396:1682:f14c:ea7b:905a:46c8",
-    "2401:4900:8823:a9e4:3f3:d37:624a:8fd4"
+    "2401:4900:8823:a9e4:3f3:d37:624a:8fd4",
+    "2405:201:f009:b0c0:5175:105a:75cc:cf12"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt15576504:1:1",
-      "title": "tt15576504:1:1",
-      "timestamp": "2026-01-28T14:56:30.739Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "movie",
       "id": "tt16311594",
@@ -85723,6 +85716,14 @@
       "timestamp": "2026-02-21T01:25:01.064Z",
       "ip": "2401:4900:8823:a9e4:3f3:d37:624a:8fd4",
       "username": "iknowthat"
+    },
+    {
+      "type": "movie",
+      "id": "tt36472392",
+      "title": "tt36472392",
+      "timestamp": "2026-02-21T01:31:11.192Z",
+      "ip": "2405:201:f009:b0c0:5175:105a:75cc:cf12",
+      "username": "volfirdiaz"
     }
   ],
   "activeNow": {
@@ -90254,6 +90255,13 @@
       "title": "tt39182425",
       "username": "iknowthat",
       "lastActive": 1771637101064
+    },
+    "2405:201:f009:b0c0:5175:105a:75cc:cf12": {
+      "type": "movie",
+      "id": "tt36472392",
+      "title": "tt36472392",
+      "username": "volfirdiaz",
+      "lastActive": 1771637471192
     }
   }
 }
