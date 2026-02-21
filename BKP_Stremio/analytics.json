@@ -1,5 +1,5 @@
 {
-  "totalViews": 28789,
+  "totalViews": 28794,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5778,49 +5778,13 @@
     "223.181.97.144",
     "2401:4900:1c0f:9662:7d12:7cf7:415c:b39",
     "2405:201:203e:b800:f36c:1dc6:975c:cfd8",
-    "146.196.34.234"
+    "146.196.34.234",
+    "2401:4900:8fe2:5c38:8c05:1345:78c8:8dde",
+    "2405:201:203e:b800:819c:e514:7028:c67a",
+    "2405:201:203e:b800:768b:a660:342f:731a",
+    "2409:40e4:10bc:3cdf:65a8:6425:ee77:6f4e"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4644488:5:4",
-      "title": "tt4644488:5:4",
-      "timestamp": "2026-01-29T14:32:48.699Z",
-      "ip": "115.98.99.86",
-      "username": "nothingokk"
-    },
-    {
-      "type": "movie",
-      "id": "tt2461132",
-      "title": "tt2461132",
-      "timestamp": "2026-01-29T14:33:18.757Z",
-      "ip": "94.156.30.62",
-      "username": "b1jju"
-    },
-    {
-      "type": "series",
-      "id": "tt4644488:5:4",
-      "title": "tt4644488:5:4",
-      "timestamp": "2026-01-29T14:33:45.578Z",
-      "ip": "115.98.99.86",
-      "username": "nothingokk"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:1:1",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-29T14:33:47.035Z",
-      "ip": "2401:4900:8820:8915:747e:7b82:51b7:7a1b,2a09:bac5:37ac:1f19::319:20",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4644488:5:4",
-      "title": "tt4644488:5:4",
-      "timestamp": "2026-01-29T14:34:14.751Z",
-      "ip": "115.98.99.86",
-      "username": "nothingokk"
-    },
     {
       "type": "series",
       "id": "tt4644488:5:4",
@@ -85780,6 +85744,46 @@
       "timestamp": "2026-02-21T16:40:36.653Z",
       "ip": "2401:4900:1c0f:9662:7d12:7cf7:415c:b39",
       "username": "saisrinivas"
+    },
+    {
+      "type": "movie",
+      "id": "tt15427952",
+      "title": "tt15427952",
+      "timestamp": "2026-02-21T16:46:47.344Z",
+      "ip": "2401:4900:8fe2:5c38:8c05:1345:78c8:8dde",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:2:3",
+      "title": "The Night Agent",
+      "timestamp": "2026-02-21T16:49:36.635Z",
+      "ip": "2405:201:203e:b800:819c:e514:7028:c67a",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:2:8",
+      "title": "tt0903747:2:8",
+      "timestamp": "2026-02-21T16:55:56.840Z",
+      "ip": "103.249.4.57",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:2:3",
+      "title": "The Night Agent",
+      "timestamp": "2026-02-21T16:59:04.781Z",
+      "ip": "2405:201:203e:b800:768b:a660:342f:731a",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:10",
+      "title": "tt30003786:4:10",
+      "timestamp": "2026-02-21T16:59:35.217Z",
+      "ip": "2409:40e4:10bc:3cdf:65a8:6425:ee77:6f4e",
+      "username": "adshoyi"
     }
   ],
   "activeNow": {
@@ -90051,7 +90055,7 @@
       "id": "tt0903747:2:8",
       "title": "tt0903747:2:8",
       "username": "tgh2r",
-      "lastActive": 1771690219769
+      "lastActive": 1771692956840
     },
     "119.155.195.207": {
       "type": "movie",
@@ -90717,6 +90721,34 @@
       "title": "tt19854762:1:2",
       "username": "gaendaswami",
       "lastActive": 1771691392456
+    },
+    "2401:4900:8fe2:5c38:8c05:1345:78c8:8dde": {
+      "type": "movie",
+      "id": "tt15427952",
+      "title": "tt15427952",
+      "username": "ashwanileon",
+      "lastActive": 1771692407344
+    },
+    "2405:201:203e:b800:819c:e514:7028:c67a": {
+      "type": "series",
+      "id": "tt13918776:2:3",
+      "title": "The Night Agent",
+      "username": "pingmenoone",
+      "lastActive": 1771692576635
+    },
+    "2405:201:203e:b800:768b:a660:342f:731a": {
+      "type": "series",
+      "id": "tt13918776:2:3",
+      "title": "The Night Agent",
+      "username": "pingmenoone",
+      "lastActive": 1771693144781
+    },
+    "2409:40e4:10bc:3cdf:65a8:6425:ee77:6f4e": {
+      "type": "series",
+      "id": "tt30003786:4:10",
+      "title": "tt30003786:4:10",
+      "username": "adshoyi",
+      "lastActive": 1771693175217
     }
   }
 }
