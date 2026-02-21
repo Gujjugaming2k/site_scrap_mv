@@ -1,5 +1,5 @@
 {
-  "totalViews": 28409,
+  "totalViews": 28414,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5723,49 +5723,11 @@
     "2401:ba80:a396:1682:f14c:ea7b:905a:46c8",
     "2401:4900:8823:a9e4:3f3:d37:624a:8fd4",
     "2405:201:f009:b0c0:5175:105a:75cc:cf12",
-    "200.108.54.16"
+    "200.108.54.16",
+    "2401:4900:1cb2:c754:6103:bf3b:73ef:abba",
+    "2409:40d2:304f:334:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1399664:2:2",
-      "title": "tt1399664:2:2",
-      "timestamp": "2026-01-28T15:10:13.475Z",
-      "ip": "43.231.236.82",
-      "username": "claw_of_beliar"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:2:1",
-      "title": "tt1399664:2:1",
-      "timestamp": "2026-01-28T15:10:22.980Z",
-      "ip": "43.231.236.82",
-      "username": "claw_of_beliar"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:2:2",
-      "title": "tt1399664:2:2",
-      "timestamp": "2026-01-28T15:10:41.889Z",
-      "ip": "43.231.236.82",
-      "username": "claw_of_beliar"
-    },
-    {
-      "type": "series",
-      "id": "tt26658460:1:1",
-      "title": "tt26658460:1:1",
-      "timestamp": "2026-01-28T15:13:31.245Z",
-      "ip": "103.46.200.35",
-      "username": "brosportses"
-    },
-    {
-      "type": "movie",
-      "id": "tt0382625",
-      "title": "The Da Vinci Code",
-      "timestamp": "2026-01-28T15:14:37.208Z",
-      "ip": "152.56.67.148",
-      "username": "mailrahulboora"
-    },
     {
       "type": "movie",
       "id": "tt0253599",
@@ -85725,6 +85687,46 @@
       "timestamp": "2026-02-21T04:09:54.584Z",
       "ip": "202.173.124.219",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt39137681:1:7",
+      "title": "tt39137681:1:7",
+      "timestamp": "2026-02-21T04:21:38.062Z",
+      "ip": "2401:4900:1cb2:c754:6103:bf3b:73ef:abba",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "series",
+      "id": "tt39137681:1:7",
+      "title": "tt39137681:1:7",
+      "timestamp": "2026-02-21T04:21:51.847Z",
+      "ip": "2401:4900:1cb2:c754:6103:bf3b:73ef:abba",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "series",
+      "id": "tt39137681:1:8",
+      "title": "tt39137681:1:8",
+      "timestamp": "2026-02-21T04:22:34.756Z",
+      "ip": "2401:4900:1cb2:c754:6103:bf3b:73ef:abba",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-21T04:22:40.490Z",
+      "ip": "2409:40d2:304f:334:8000::",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt39137681:1:7",
+      "title": "tt39137681:1:7",
+      "timestamp": "2026-02-21T04:27:38.576Z",
+      "ip": "2401:4900:1cb2:c754:6103:bf3b:73ef:abba",
+      "username": "saisrinivas"
     }
   ],
   "activeNow": {
@@ -90270,6 +90272,20 @@
       "title": "tt32430579",
       "username": "ymcinema",
       "lastActive": 1771646497029
+    },
+    "2401:4900:1cb2:c754:6103:bf3b:73ef:abba": {
+      "type": "series",
+      "id": "tt39137681:1:7",
+      "title": "tt39137681:1:7",
+      "username": "saisrinivas",
+      "lastActive": 1771648058576
+    },
+    "2409:40d2:304f:334:8000::": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "saurabhkaperwan",
+      "lastActive": 1771647760490
     }
   }
 }
