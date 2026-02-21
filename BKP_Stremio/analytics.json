@@ -1,5 +1,5 @@
 {
-  "totalViews": 28869,
+  "totalViews": 28872,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5794,33 +5794,10 @@
     "163.223.102.149",
     "103.162.158.146",
     "2402:a00:10a:815f:1931:56e6:ad25:abd2",
-    "110.172.131.238"
+    "110.172.131.238",
+    "2401:4900:3a1e:9efa:4f35:21f8:1c75:e41d"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-29T17:24:28.063Z",
-      "ip": "2405:201:2022:b81c:d42f:6e5b:8188:e2fa",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt2461132",
-      "title": "tt2461132",
-      "timestamp": "2026-01-29T17:32:48.813Z",
-      "ip": "94.156.30.62",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt15387190",
-      "title": "tt15387190",
-      "timestamp": "2026-01-29T17:41:23.851Z",
-      "ip": "2409:40e1:c0:b84c:8000::",
-      "username": "tgh2r"
-    },
     {
       "type": "series",
       "id": "tt35335046:1:7",
@@ -85796,6 +85773,30 @@
       "timestamp": "2026-02-21T19:17:18.898Z",
       "ip": "110.172.131.238",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:2:4",
+      "title": "The Night Agent",
+      "timestamp": "2026-02-21T19:40:01.609Z",
+      "ip": "2405:201:203e:b800:768b:a660:342f:731a",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "movie",
+      "id": "tt30447401",
+      "title": "tt30447401",
+      "timestamp": "2026-02-21T19:48:13.083Z",
+      "ip": "2401:4900:3a1e:9efa:4f35:21f8:1c75:e41d",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt27853283:2:2",
+      "title": "tt27853283:2:2",
+      "timestamp": "2026-02-21T19:51:07.245Z",
+      "ip": "163.223.102.149",
+      "username": "mutti9"
     }
   ],
   "activeNow": {
@@ -85825,7 +85826,7 @@
       "id": "tt27853283:2:2",
       "title": "tt27853283:2:2",
       "username": "mutti9",
-      "lastActive": 1771700809459
+      "lastActive": 1771703467245
     },
     "116.68.74.159": {
       "type": "series",
@@ -85853,7 +85854,7 @@
       "id": "tt13918776:2:4",
       "title": "The Night Agent",
       "username": "pingmenoone",
-      "lastActive": 1771699771738
+      "lastActive": 1771702801609
     },
     "103.175.168.106": {
       "type": "series",
@@ -85882,6 +85883,13 @@
       "title": "Dhurandhar",
       "username": "ryuzaklo26",
       "lastActive": 1771701438898
+    },
+    "2401:4900:3a1e:9efa:4f35:21f8:1c75:e41d": {
+      "type": "movie",
+      "id": "tt30447401",
+      "title": "tt30447401",
+      "username": "theonlyfreak",
+      "lastActive": 1771703293083
     }
   }
 }
