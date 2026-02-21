@@ -1,5 +1,5 @@
 {
-  "totalViews": 28662,
+  "totalViews": 28665,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5762,33 +5762,10 @@
     "2409:40e4:1090:ef9e:ad49:69a:f630:c31e",
     "2a09:bac5:40db:1478::20a:e2",
     "2401:4900:88f6:8f57:6902:a902:1fbf:3d89",
-    "2401:4900:8f61:773:9cb0:2cc8:465:2a0"
+    "2401:4900:8f61:773:9cb0:2cc8:465:2a0",
+    "2409:40c1:1000:c541:89fd:a768:56f4:5f9d"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt26225038:1:3",
-      "title": "tt26225038:1:3",
-      "timestamp": "2026-01-29T09:52:51.687Z",
-      "ip": "2a09:bac5:40b2:1aaa::2a8:5b",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt26225038:1:2",
-      "title": "tt26225038:1:2",
-      "timestamp": "2026-01-29T09:52:52.997Z",
-      "ip": "2a09:bac5:40b2:1aaa::2a8:5b",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt26225038:1:4",
-      "title": "tt26225038:1:4",
-      "timestamp": "2026-01-29T09:53:02.923Z",
-      "ip": "2a09:bac5:40b2:1aaa::2a8:5b",
-      "username": "demon18319"
-    },
     {
       "type": "movie",
       "id": "tt31193180",
@@ -85764,6 +85741,30 @@
       "timestamp": "2026-02-21T11:46:08.080Z",
       "ip": "116.68.74.159",
       "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt0050083",
+      "title": "12 Angry Men",
+      "timestamp": "2026-02-21T11:55:09.498Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt14115938:1:1",
+      "title": "The Eminence in Shadow",
+      "timestamp": "2026-02-21T11:56:48.137Z",
+      "ip": "182.77.76.49",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt33295741",
+      "title": "tt33295741",
+      "timestamp": "2026-02-21T12:05:17.716Z",
+      "ip": "2409:40c1:1000:c541:89fd:a768:56f4:5f9d",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -86238,10 +86239,10 @@
     },
     "116.68.74.159": {
       "type": "movie",
-      "id": "tt24683702",
-      "title": "tt24683702",
+      "id": "tt0050083",
+      "title": "12 Angry Men",
       "username": "aravindsivan",
-      "lastActive": 1771674368080
+      "lastActive": 1771674909498
     },
     "2405:201:682e:6839:1f92:2fc:ba55:6b57": {
       "type": "series",
@@ -89944,7 +89945,7 @@
       "id": "tt14115938:1:1",
       "title": "The Eminence in Shadow",
       "username": "nabakun24",
-      "lastActive": 1771574602865
+      "lastActive": 1771675008137
     },
     "2401:4900:ae24:7e92:2daf:5a9a:e46d:2636": {
       "type": "movie",
@@ -90589,6 +90590,13 @@
       "title": "tt33307516",
       "username": "PishMiner",
       "lastActive": 1771674002392
+    },
+    "2409:40c1:1000:c541:89fd:a768:56f4:5f9d": {
+      "type": "movie",
+      "id": "tt33295741",
+      "title": "tt33295741",
+      "username": "zealousninja",
+      "lastActive": 1771675517716
     }
   }
 }
