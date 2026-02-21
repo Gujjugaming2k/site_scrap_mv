@@ -1,5 +1,5 @@
 {
-  "totalViews": 28685,
+  "totalViews": 28689,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5764,41 +5764,11 @@
     "2401:4900:88f6:8f57:6902:a902:1fbf:3d89",
     "2401:4900:8f61:773:9cb0:2cc8:465:2a0",
     "2409:40c1:1000:c541:89fd:a768:56f4:5f9d",
-    "2a09:bac5:3af4:86e::d7:56"
+    "2a09:bac5:3af4:86e::d7:56",
+    "2409:40c1:45:5d6a:1da4:5e60:ac60:73c5",
+    "2405:201:2022:b81c:558e:437:be6b:a43c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt13706018:3:9",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-01-29T10:49:01.098Z",
-      "ip": "115.187.38.42",
-      "username": "tgh2r"
-    },
-    {
-      "type": "series",
-      "id": "tt13706018:3:9",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-01-29T10:49:02.258Z",
-      "ip": "115.187.38.42",
-      "username": "tgh2r"
-    },
-    {
-      "type": "series",
-      "id": "tt13706018:3:10",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-01-29T10:49:05.963Z",
-      "ip": "115.187.38.42",
-      "username": "tgh2r"
-    },
-    {
-      "type": "series",
-      "id": "tt13706018:3:10",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-01-29T10:49:06.737Z",
-      "ip": "115.187.38.42",
-      "username": "tgh2r"
-    },
     {
       "type": "series",
       "id": "tt13706018:3:9",
@@ -85766,6 +85736,38 @@
       "timestamp": "2026-02-21T12:36:18.788Z",
       "ip": "2409:40d2:304f:334:8000::",
       "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt0108778:1:1",
+      "title": "tt0108778:1:1",
+      "timestamp": "2026-02-21T12:37:00.947Z",
+      "ip": "2a09:bac5:3af4:86e::d7:56",
+      "username": "angrybirdsneha"
+    },
+    {
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
+      "timestamp": "2026-02-21T12:37:33.496Z",
+      "ip": "2a09:bac5:3af4:86e::d7:56",
+      "username": "angrybirdsneha"
+    },
+    {
+      "type": "series",
+      "id": "tt0108778:9:19",
+      "title": "tt0108778:9:19",
+      "timestamp": "2026-02-21T12:42:51.652Z",
+      "ip": "2409:40c1:45:5d6a:1da4:5e60:ac60:73c5",
+      "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt39460434:1:1",
+      "title": "tt39460434:1:1",
+      "timestamp": "2026-02-21T12:46:12.197Z",
+      "ip": "2405:201:2022:b81c:558e:437:be6b:a43c",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -90600,11 +90602,25 @@
       "lastActive": 1771675763032
     },
     "2a09:bac5:3af4:86e::d7:56": {
-      "type": "series",
-      "id": "tt0108778:1:1",
-      "title": "tt0108778:1:1",
+      "type": "movie",
+      "id": "tt22740896",
+      "title": "tt22740896",
       "username": "angrybirdsneha",
-      "lastActive": 1771677238537
+      "lastActive": 1771677453496
+    },
+    "2409:40c1:45:5d6a:1da4:5e60:ac60:73c5": {
+      "type": "series",
+      "id": "tt0108778:9:19",
+      "title": "tt0108778:9:19",
+      "username": "switchoff009",
+      "lastActive": 1771677771652
+    },
+    "2405:201:2022:b81c:558e:437:be6b:a43c": {
+      "type": "series",
+      "id": "tt39460434:1:1",
+      "title": "tt39460434:1:1",
+      "username": "zealousninja",
+      "lastActive": 1771677972197
     }
   }
 }
