@@ -1,5 +1,5 @@
 {
-  "totalViews": 28794,
+  "totalViews": 28795,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5782,17 +5782,10 @@
     "2401:4900:8fe2:5c38:8c05:1345:78c8:8dde",
     "2405:201:203e:b800:819c:e514:7028:c67a",
     "2405:201:203e:b800:768b:a660:342f:731a",
-    "2409:40e4:10bc:3cdf:65a8:6425:ee77:6f4e"
+    "2409:40e4:10bc:3cdf:65a8:6425:ee77:6f4e",
+    "2402:a00:10a:815f:862:34a5:fddc:a1de"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4644488:5:4",
-      "title": "tt4644488:5:4",
-      "timestamp": "2026-01-29T14:34:47.232Z",
-      "ip": "115.98.99.86",
-      "username": "nothingokk"
-    },
     {
       "type": "series",
       "id": "tt4644488:5:4",
@@ -85784,6 +85777,14 @@
       "timestamp": "2026-02-21T16:59:35.217Z",
       "ip": "2409:40e4:10bc:3cdf:65a8:6425:ee77:6f4e",
       "username": "adshoyi"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:3:3",
+      "title": "The Night Agent",
+      "timestamp": "2026-02-21T17:01:56.180Z",
+      "ip": "2402:a00:10a:815f:862:34a5:fddc:a1de",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -90749,6 +90750,13 @@
       "title": "tt30003786:4:10",
       "username": "adshoyi",
       "lastActive": 1771693175217
+    },
+    "2402:a00:10a:815f:862:34a5:fddc:a1de": {
+      "type": "series",
+      "id": "tt13918776:3:3",
+      "title": "The Night Agent",
+      "username": "vflix1993",
+      "lastActive": 1771693316180
     }
   }
 }
