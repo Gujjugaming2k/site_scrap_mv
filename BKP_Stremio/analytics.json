@@ -1,5 +1,5 @@
 {
-  "totalViews": 29048,
+  "totalViews": 29055,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5825,65 +5825,10 @@
     "2401:4900:86e3:7307:85e3:963f:abe5:8972",
     "2402:a00:10a:815f:a0c4:a33a:83da:7a54",
     "2409:40c0:1047:df3:ad47:6c9a:7daa:1dc0",
-    "2401:4900:86e3:7307::43a5:df2f"
+    "2401:4900:86e3:7307::43a5:df2f",
+    "2409:40e4:10bf:4dfa:187a:49d8:b34:ad6e"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-01-30T03:38:36.689Z",
-      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-01-30T03:38:42.672Z",
-      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-01-30T03:38:45.330Z",
-      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-01-30T03:38:51.214Z",
-      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-01-30T03:38:56.787Z",
-      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
-      "username": "nabakun"
-    },
-    {
-      "type": "series",
-      "id": "tt31844233:1:1",
-      "title": "tt31844233:1:1",
-      "timestamp": "2026-01-30T03:39:10.491Z",
-      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
-      "username": "nabakun"
-    },
-    {
-      "type": "series",
-      "id": "tt31844233:1:1",
-      "title": "tt31844233:1:1",
-      "timestamp": "2026-01-30T03:39:19.260Z",
-      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
-      "username": "nabakun"
-    },
     {
       "type": "series",
       "id": "tt31844233:1:1",
@@ -85827,6 +85772,62 @@
       "timestamp": "2026-02-22T09:34:53.245Z",
       "ip": "2401:4900:86e3:7307:85e3:963f:abe5:8972",
       "username": "henry"
+    },
+    {
+      "type": "movie",
+      "id": "tt2543164",
+      "title": "Arrival",
+      "timestamp": "2026-02-22T09:37:49.743Z",
+      "ip": "2405:201:2022:b81c:5da4:a4d:7d46:6a4e",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt36956670",
+      "title": "tt36956670",
+      "timestamp": "2026-02-22T09:37:52.041Z",
+      "ip": "2409:40e4:10bf:4dfa:187a:49d8:b34:ad6e",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt37886159",
+      "title": "tt37886159",
+      "timestamp": "2026-02-22T09:38:26.591Z",
+      "ip": "2401:4900:86e3:7307:85e3:963f:abe5:8972",
+      "username": "henry"
+    },
+    {
+      "type": "movie",
+      "id": "tt37886159",
+      "title": "tt37886159",
+      "timestamp": "2026-02-22T09:38:43.180Z",
+      "ip": "2401:4900:86e3:7307:85e3:963f:abe5:8972",
+      "username": "henry"
+    },
+    {
+      "type": "series",
+      "id": "tt0182576",
+      "title": "tt0182576",
+      "timestamp": "2026-02-22T09:39:02.639Z",
+      "ip": "2401:4900:86e3:7307:85e3:963f:abe5:8972",
+      "username": "henry"
+    },
+    {
+      "type": "series",
+      "id": "tt13443470:1:1",
+      "title": "Wednesday",
+      "timestamp": "2026-02-22T09:41:56.406Z",
+      "ip": "2409:40e4:10bf:4dfa:187a:49d8:b34:ad6e",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt2543164",
+      "title": "Arrival",
+      "timestamp": "2026-02-22T09:49:27.562Z",
+      "ip": "2405:201:2022:b81c:5da4:a4d:7d46:6a4e",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -86126,10 +86127,10 @@
     },
     "2405:201:2022:b81c:5da4:a4d:7d46:6a4e": {
       "type": "movie",
-      "id": "tmdb:329865",
-      "title": "tmdb:329865",
+      "id": "tt2543164",
+      "title": "Arrival",
       "username": "zealousninja",
-      "lastActive": 1771752850661
+      "lastActive": 1771753767562
     },
     "2401:4900:889b:4e9e:391c:8629:aa35:4d2c": {
       "type": "movie",
@@ -86196,10 +86197,10 @@
     },
     "2401:4900:86e3:7307:85e3:963f:abe5:8972": {
       "type": "series",
-      "id": "tt0877057:1:1",
-      "title": "Death Note",
+      "id": "tt0182576",
+      "title": "tt0182576",
       "username": "henry",
-      "lastActive": 1771752893245
+      "lastActive": 1771753142639
     },
     "2402:a00:10a:815f:a0c4:a33a:83da:7a54": {
       "type": "series",
@@ -86228,6 +86229,13 @@
       "title": "tt9100018",
       "username": "katdenningssss",
       "lastActive": 1771752746969
+    },
+    "2409:40e4:10bf:4dfa:187a:49d8:b34:ad6e": {
+      "type": "series",
+      "id": "tt13443470:1:1",
+      "title": "Wednesday",
+      "username": "askchm",
+      "lastActive": 1771753316406
     }
   }
 }
