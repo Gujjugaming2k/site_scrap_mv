@@ -1,5 +1,5 @@
 {
-  "totalViews": 29134,
+  "totalViews": 29137,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5842,33 +5842,11 @@
     "2405:201:203e:b800:d4e6:9d72:e1c4:c1cb",
     "2405:201:203e:b800:fe48:73f0:e4ec:8e7c",
     "2409:40e0:102e:84eb:847c:ae2f:c5a8:753a",
-    "2405:201:2022:b81c:41c1:1d01:610d:43b2"
+    "2405:201:2022:b81c:41c1:1d01:610d:43b2",
+    "212.102.51.251",
+    "2406:b400:1a:a9ae:5483:42cc:5f13:c2f8"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T05:05:54.508Z",
-      "ip": "2409:40f0:12b:e6d7:5410:f5ff:fe55:d970",
-      "username": "rick grimes"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T05:09:50.863Z",
-      "ip": "2409:40f0:12b:e6d7:5410:f5ff:fe55:d970",
-      "username": "rick grimes"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T05:10:29.532Z",
-      "ip": "2405:201:900f:a92b:15b1:b1b1:b2b3:7de2",
-      "username": "theonlyfreak"
-    },
     {
       "type": "movie",
       "id": "tt27136041",
@@ -85844,6 +85822,30 @@
       "timestamp": "2026-02-22T13:54:34.840Z",
       "ip": "2405:201:2022:b81c:41c1:1d01:610d:43b2",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt35146696",
+      "title": "tt35146696",
+      "timestamp": "2026-02-22T14:03:30.154Z",
+      "ip": "212.102.51.251",
+      "username": "angrybirdsneha"
+    },
+    {
+      "type": "movie",
+      "id": "tt35146696",
+      "title": "tt35146696",
+      "timestamp": "2026-02-22T14:03:46.433Z",
+      "ip": "212.102.51.251",
+      "username": "angrybirdsneha"
+    },
+    {
+      "type": "movie",
+      "id": "tt21261388",
+      "title": "tt21261388",
+      "timestamp": "2026-02-22T14:04:15.532Z",
+      "ip": "2406:b400:1a:a9ae:5483:42cc:5f13:c2f8",
+      "username": "nothing_8888"
     }
   ],
   "activeNow": {
@@ -86385,6 +86387,20 @@
       "title": "Arrival",
       "username": "zealousninja",
       "lastActive": 1771768474840
+    },
+    "212.102.51.251": {
+      "type": "movie",
+      "id": "tt35146696",
+      "title": "tt35146696",
+      "username": "angrybirdsneha",
+      "lastActive": 1771769026433
+    },
+    "2406:b400:1a:a9ae:5483:42cc:5f13:c2f8": {
+      "type": "movie",
+      "id": "tt21261388",
+      "title": "tt21261388",
+      "username": "nothing_8888",
+      "lastActive": 1771769055532
     }
   }
 }
