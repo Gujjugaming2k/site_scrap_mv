@@ -1,5 +1,5 @@
 {
-  "totalViews": 29131,
+  "totalViews": 29134,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5840,33 +5840,11 @@
     "2405:201:6025:a88d:969f:fa27:a17:773b",
     "27.60.7.206",
     "2405:201:203e:b800:d4e6:9d72:e1c4:c1cb",
-    "2405:201:203e:b800:fe48:73f0:e4ec:8e7c"
+    "2405:201:203e:b800:fe48:73f0:e4ec:8e7c",
+    "2409:40e0:102e:84eb:847c:ae2f:c5a8:753a",
+    "2405:201:2022:b81c:41c1:1d01:610d:43b2"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0903747:3:2",
-      "title": "tt0903747:3:2",
-      "timestamp": "2026-01-30T05:01:50.104Z",
-      "ip": "223.185.26.217",
-      "username": "sinbad1722"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T05:03:10.637Z",
-      "ip": "2409:40f0:12b:e6d7:5410:f5ff:fe55:d970",
-      "username": "rick grimes"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T05:05:12.192Z",
-      "ip": "2409:40f0:12b:e6d7:5410:f5ff:fe55:d970",
-      "username": "rick grimes"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -85842,6 +85820,30 @@
       "timestamp": "2026-02-22T13:44:45.910Z",
       "ip": "2405:201:203e:b800:fe48:73f0:e4ec:8e7c",
       "username": "ujas"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:3:9",
+      "title": "The Night Agent",
+      "timestamp": "2026-02-22T13:47:36.624Z",
+      "ip": "2402:a00:10a:815f:a0c4:a33a:83da:7a54",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "timestamp": "2026-02-22T13:53:50.851Z",
+      "ip": "2409:40e0:102e:84eb:847c:ae2f:c5a8:753a",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt2543164",
+      "title": "Arrival",
+      "timestamp": "2026-02-22T13:54:34.840Z",
+      "ip": "2405:201:2022:b81c:41c1:1d01:610d:43b2",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -86218,10 +86220,10 @@
     },
     "2402:a00:10a:815f:a0c4:a33a:83da:7a54": {
       "type": "series",
-      "id": "tt13918776:3:8",
+      "id": "tt13918776:3:9",
       "title": "The Night Agent",
       "username": "vflix1993",
-      "lastActive": 1771762737127
+      "lastActive": 1771768056624
     },
     "2409:40c0:1047:df3:ad47:6c9a:7daa:1dc0": {
       "type": "movie",
@@ -86369,6 +86371,20 @@
       "title": "Batman v Superman: Dawn of Justice",
       "username": "ujas",
       "lastActive": 1771767885910
+    },
+    "2409:40e0:102e:84eb:847c:ae2f:c5a8:753a": {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "username": "nobody_ismy_name",
+      "lastActive": 1771768430851
+    },
+    "2405:201:2022:b81c:41c1:1d01:610d:43b2": {
+      "type": "movie",
+      "id": "tt2543164",
+      "title": "Arrival",
+      "username": "zealousninja",
+      "lastActive": 1771768474840
     }
   }
 }
