@@ -1,5 +1,5 @@
 {
-  "totalViews": 29063,
+  "totalViews": 29065,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5830,22 +5830,6 @@
     "2409:40c1:45:5d6a:cc43:a57c:ba88:5e86"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31844233:1:1",
-      "title": "tt31844233:1:1",
-      "timestamp": "2026-01-30T03:51:36.074Z",
-      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt33244668",
-      "title": "tt33244668",
-      "timestamp": "2026-01-30T03:51:53.947Z",
-      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
-      "username": "nabakun"
-    },
     {
       "type": "movie",
       "id": "tt14850054",
@@ -85829,6 +85813,22 @@
       "timestamp": "2026-02-22T10:21:55.249Z",
       "ip": "103.165.20.181",
       "username": "anupambabu_97"
+    },
+    {
+      "type": "series",
+      "id": "tt0108778:9:19",
+      "title": "tt0108778:9:19",
+      "timestamp": "2026-02-22T10:36:24.061Z",
+      "ip": "2a09:bac5:3af1:172d::24f:8",
+      "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt0108778:9:19",
+      "title": "tt0108778:9:19",
+      "timestamp": "2026-02-22T10:36:26.980Z",
+      "ip": "2a09:bac5:3af1:172d::24f:8",
+      "username": "switchoff009"
     }
   ],
   "activeNow": {
@@ -86258,6 +86258,13 @@
       "title": "tt35684868",
       "username": "anupambabu_97",
       "lastActive": 1771755715249
+    },
+    "2a09:bac5:3af1:172d::24f:8": {
+      "type": "series",
+      "id": "tt0108778:9:19",
+      "title": "tt0108778:9:19",
+      "username": "switchoff009",
+      "lastActive": 1771756586980
     }
   }
 }
