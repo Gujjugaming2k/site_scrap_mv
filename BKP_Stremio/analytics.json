@@ -1,5 +1,5 @@
 {
-  "totalViews": 29215,
+  "totalViews": 29220,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5859,49 +5859,10 @@
     "2405:201:e00a:a1b3:d762:3155:411d:e7e6",
     "163.223.102.189",
     "2405:201:2022:b81c:d040:45e7:7d64:d5be",
-    "2409:40c2:18:e6c8:18d0:26ff:feb0:c144"
+    "2409:40c2:18:e6c8:18d0:26ff:feb0:c144",
+    "2401:4900:1ca9:45f1:787d:7bce:57a5:3a03"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0903747:1:5",
-      "title": "tt0903747:1:5",
-      "timestamp": "2026-01-30T09:02:44.097Z",
-      "ip": "2a09:bac1:36e0:1e0::2a6:5e",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:3",
-      "title": "tt35335046:1:3",
-      "timestamp": "2026-01-30T09:03:22.113Z",
-      "ip": "2402:3a80:1983:d630:278:5634:1232:5476",
-      "username": "lazerkey"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:2",
-      "title": "tt35335046:1:2",
-      "timestamp": "2026-01-30T09:03:52.540Z",
-      "ip": "2402:3a80:1983:d630:278:5634:1232:5476",
-      "username": "lazerkey"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T09:09:25.298Z",
-      "ip": "2401:4900:8820:8915:8025:f37:5e8:2a62,2a09:bac1:28c0:f0::2e0:10b",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt1677720",
-      "title": "Ready Player One",
-      "timestamp": "2026-01-30T09:10:34.225Z",
-      "ip": "2409:40d4:408d:afd9:9500:57d3:b58b:a24f",
-      "username": "kdbotz"
-    },
     {
       "type": "series",
       "id": "tt35335046:1:3",
@@ -85861,6 +85822,46 @@
       "timestamp": "2026-02-22T16:34:25.195Z",
       "ip": "2409:40c2:18:e6c8:18d0:26ff:feb0:c144",
       "username": "agentmj47"
+    },
+    {
+      "type": "series",
+      "id": "tt14169960:1:7",
+      "title": "All of Us Are Dead",
+      "timestamp": "2026-02-22T16:41:50.811Z",
+      "ip": "2401:4900:1ca9:45f1:787d:7bce:57a5:3a03",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:2:12",
+      "title": "tt0903747:2:12",
+      "timestamp": "2026-02-22T16:42:15.470Z",
+      "ip": "103.249.4.57",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt32590226:3:28",
+      "title": "tt32590226:3:28",
+      "timestamp": "2026-02-22T16:46:13.333Z",
+      "ip": "2401:4900:1ca9:45f1:787d:7bce:57a5:3a03",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt14169960:1:7",
+      "title": "All of Us Are Dead",
+      "timestamp": "2026-02-22T16:46:54.952Z",
+      "ip": "2401:4900:1ca9:45f1:787d:7bce:57a5:3a03",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt14169960:1:7",
+      "title": "All of Us Are Dead",
+      "timestamp": "2026-02-22T16:51:10.188Z",
+      "ip": "2401:4900:1ca9:45f1:787d:7bce:57a5:3a03",
+      "username": "nirbhay1412"
     }
   ],
   "activeNow": {
@@ -85929,10 +85930,10 @@
     },
     "103.249.4.57": {
       "type": "series",
-      "id": "tt0903747:2:10",
-      "title": "tt0903747:2:10",
+      "id": "tt0903747:2:12",
+      "title": "tt0903747:2:12",
       "username": "tgh2r",
-      "lastActive": 1771751651027
+      "lastActive": 1771778535470
     },
     "146.196.34.234": {
       "type": "series",
@@ -86528,6 +86529,13 @@
       "title": "tt35149250:1:3",
       "username": "agentmj47",
       "lastActive": 1771778065195
+    },
+    "2401:4900:1ca9:45f1:787d:7bce:57a5:3a03": {
+      "type": "series",
+      "id": "tt14169960:1:7",
+      "title": "All of Us Are Dead",
+      "username": "nirbhay1412",
+      "lastActive": 1771779070188
     }
   }
 }
