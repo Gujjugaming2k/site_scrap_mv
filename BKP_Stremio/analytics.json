@@ -1,5 +1,5 @@
 {
-  "totalViews": 29291,
+  "totalViews": 29294,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5872,33 +5872,11 @@
     "2402:a00:10a:815f:b85b:eae6:9a97:8408",
     "2401:9640:801:8f3a:54a9:3cd:1ef5:26b4",
     "38.254.182.44",
-    "2409:40f0:26:a8a8:dc6b:a2ff:fe4e:924f"
+    "2409:40f0:26:a8a8:dc6b:a2ff:fe4e:924f",
+    "2409:40e5:1120:d563:26:b3ff:fec3:76c8",
+    "2401:4900:88f4:829d:765b:78ed:1f25:c89f"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T14:34:42.951Z",
-      "ip": "2405:201:202d:d014:c7c9:3d3:b3c8:20b2",
-      "username": "explorerindia"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T14:41:07.114Z",
-      "ip": "117.196.164.75",
-      "username": "adiyogivishwanath"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T14:43:04.067Z",
-      "ip": "117.196.164.75",
-      "username": "adiyogivishwanath"
-    },
     {
       "type": "series",
       "id": "tt14186672:1:10",
@@ -85874,6 +85852,30 @@
       "timestamp": "2026-02-22T20:42:56.759Z",
       "ip": "2409:40f0:26:a8a8:dc6b:a2ff:fe4e:924f",
       "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt0120382",
+      "title": "The Truman Show",
+      "timestamp": "2026-02-22T21:08:09.787Z",
+      "ip": "2409:40e5:1120:d563:26:b3ff:fec3:76c8",
+      "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt1321414",
+      "title": "tt1321414",
+      "timestamp": "2026-02-22T21:10:14.534Z",
+      "ip": "2401:4900:88f4:829d:765b:78ed:1f25:c89f",
+      "username": "rishix915"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:1:1",
+      "title": "The Night Agent",
+      "timestamp": "2026-02-22T21:11:10.475Z",
+      "ip": "2409:40e5:1120:d563:26:b3ff:fec3:76c8",
+      "username": "magicmannn"
     }
   ],
   "activeNow": {
@@ -86639,6 +86641,20 @@
       "title": "tt14564000",
       "username": "sachinprem1",
       "lastActive": 1771792976759
+    },
+    "2409:40e5:1120:d563:26:b3ff:fec3:76c8": {
+      "type": "series",
+      "id": "tt13918776:1:1",
+      "title": "The Night Agent",
+      "username": "magicmannn",
+      "lastActive": 1771794670475
+    },
+    "2401:4900:88f4:829d:765b:78ed:1f25:c89f": {
+      "type": "movie",
+      "id": "tt1321414",
+      "title": "tt1321414",
+      "username": "rishix915",
+      "lastActive": 1771794614534
     }
   }
 }
