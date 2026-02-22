@@ -1,5 +1,5 @@
 {
-  "totalViews": 29055,
+  "totalViews": 29057,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5829,22 +5829,6 @@
     "2409:40e4:10bf:4dfa:187a:49d8:b34:ad6e"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31844233:1:1",
-      "title": "tt31844233:1:1",
-      "timestamp": "2026-01-30T03:49:26.331Z",
-      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt14850054",
-      "title": "tt14850054",
-      "timestamp": "2026-01-30T03:49:43.754Z",
-      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
-      "username": "nabakun"
-    },
     {
       "type": "movie",
       "id": "tt33244668",
@@ -85828,6 +85812,22 @@
       "timestamp": "2026-02-22T09:49:27.562Z",
       "ip": "2405:201:2022:b81c:5da4:a4d:7d46:6a4e",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt0108778:9:19",
+      "title": "tt0108778:9:19",
+      "timestamp": "2026-02-22T09:59:48.935Z",
+      "ip": "2a09:bac5:3af1:86e::d7:56",
+      "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt0108778:9:19",
+      "title": "tt0108778:9:19",
+      "timestamp": "2026-02-22T10:02:32.855Z",
+      "ip": "2a09:bac5:3af1:86e::d7:56",
+      "username": "switchoff009"
     }
   ],
   "activeNow": {
@@ -86236,6 +86236,13 @@
       "title": "Wednesday",
       "username": "askchm",
       "lastActive": 1771753316406
+    },
+    "2a09:bac5:3af1:86e::d7:56": {
+      "type": "series",
+      "id": "tt0108778:9:19",
+      "title": "tt0108778:9:19",
+      "username": "switchoff009",
+      "lastActive": 1771754552855
     }
   }
 }
