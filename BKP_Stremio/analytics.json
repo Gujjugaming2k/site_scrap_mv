@@ -1,5 +1,5 @@
 {
-  "totalViews": 29087,
+  "totalViews": 29091,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5832,41 +5832,10 @@
     "2409:40d2:304d:8e9f:8000::",
     "146.196.32.123",
     "2409:4090:9005:8205:c144:d873:4775:4094",
-    "2a00:5400:e137:1821:c91f:eba2:b4e7:b5f9"
+    "2a00:5400:e137:1821:c91f:eba2:b4e7:b5f9",
+    "2401:4900:8f61:773:1559:56b0:82c9:6177"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt14850054",
-      "title": "tt14850054",
-      "timestamp": "2026-01-30T04:13:23.084Z",
-      "ip": "152.59.149.177",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt22740896",
-      "title": "tt22740896",
-      "timestamp": "2026-01-30T04:13:27.450Z",
-      "ip": "152.59.149.177",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt33028778",
-      "title": "tt33028778",
-      "timestamp": "2026-01-30T04:13:31.111Z",
-      "ip": "152.59.149.177",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt1386697",
-      "title": "Suicide Squad",
-      "timestamp": "2026-01-30T04:16:35.818Z",
-      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
-      "username": "nabakun"
-    },
     {
       "type": "movie",
       "id": "tt1386697",
@@ -85834,6 +85803,38 @@
       "timestamp": "2026-02-22T11:44:34.062Z",
       "ip": "2a00:5400:e137:1821:c91f:eba2:b4e7:b5f9",
       "username": "peunicop"
+    },
+    {
+      "type": "series",
+      "id": "tt14115938:1:1",
+      "title": "The Eminence in Shadow",
+      "timestamp": "2026-02-22T11:55:48.839Z",
+      "ip": "182.77.76.49",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt14115938:1:1",
+      "title": "The Eminence in Shadow",
+      "timestamp": "2026-02-22T11:56:52.915Z",
+      "ip": "182.77.76.49",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt33307516",
+      "title": "tt33307516",
+      "timestamp": "2026-02-22T12:00:16.676Z",
+      "ip": "2401:4900:8f61:773:1559:56b0:82c9:6177",
+      "username": "PishMiner"
+    },
+    {
+      "type": "series",
+      "id": "tt14115938:1:2",
+      "title": "The Eminence in Shadow",
+      "timestamp": "2026-02-22T12:01:24.837Z",
+      "ip": "182.77.76.49",
+      "username": "nabakun24"
     }
   ],
   "activeNow": {
@@ -85986,10 +85987,10 @@
     },
     "182.77.76.49": {
       "type": "series",
-      "id": "tt14115938:1:1",
+      "id": "tt14115938:1:2",
       "title": "The Eminence in Shadow",
       "username": "nabakun24",
-      "lastActive": 1771740335595
+      "lastActive": 1771761684837
     },
     "2405:201:203e:b800:1314:f1e0:68e3:6171": {
       "type": "movie",
@@ -86305,6 +86306,13 @@
       "title": "tt32916440",
       "username": "peunicop",
       "lastActive": 1771760674062
+    },
+    "2401:4900:8f61:773:1559:56b0:82c9:6177": {
+      "type": "movie",
+      "id": "tt33307516",
+      "title": "tt33307516",
+      "username": "PishMiner",
+      "lastActive": 1771761616676
     }
   }
 }
