@@ -1,5 +1,5 @@
 {
-  "totalViews": 29102,
+  "totalViews": 29104,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5834,25 +5834,10 @@
     "2409:4090:9005:8205:c144:d873:4775:4094",
     "2a00:5400:e137:1821:c91f:eba2:b4e7:b5f9",
     "2401:4900:8f61:773:1559:56b0:82c9:6177",
-    "43.248.152.142"
+    "43.248.152.142",
+    "2409:40d2:305b:b6c7:8000::"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T04:48:52.691Z",
-      "ip": "2409:40f0:12b:e6d7:5410:f5ff:fe55:d970",
-      "username": "rick grimes"
-    },
-    {
-      "type": "series",
-      "id": "tt31844233:1:2",
-      "title": "tt31844233:1:2",
-      "timestamp": "2026-01-30T04:49:18.984Z",
-      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
-      "username": "nabakun"
-    },
     {
       "type": "series",
       "id": "tt31844233:1:5",
@@ -85836,6 +85821,22 @@
       "timestamp": "2026-02-22T12:41:22.676Z",
       "ip": "2406:b400:1a:a9ae:a27:a8ff:fe42:855e",
       "username": "nothingokk"
+    },
+    {
+      "type": "movie",
+      "id": "tt39392533",
+      "title": "tt39392533",
+      "timestamp": "2026-02-22T12:50:51.058Z",
+      "ip": "2401:4900:701e:ffc9:400d:c6ff:fe3f:89a7",
+      "username": "saaj"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-02-22T12:56:03.120Z",
+      "ip": "2409:40d2:305b:b6c7:8000::",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -86061,7 +86062,7 @@
       "id": "tt39392533",
       "title": "tt39392533",
       "username": "saaj",
-      "lastActive": 1771738671812
+      "lastActive": 1771764651058
     },
     "2402:a00:10a:815f:94af:9737:4988:269d": {
       "type": "series",
@@ -86321,6 +86322,13 @@
       "title": "tt39221314:1:16",
       "username": "ryuzaklo26",
       "lastActive": 1771762902825
+    },
+    "2409:40d2:305b:b6c7:8000::": {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "username": "saurabhkaperwan",
+      "lastActive": 1771764963120
     }
   }
 }
