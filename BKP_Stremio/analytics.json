@@ -1,5 +1,5 @@
 {
-  "totalViews": 28925,
+  "totalViews": 28930,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5807,49 +5807,11 @@
     "2a02:9b0:106:4496:9449:7d09:ba9f:b9a4",
     "2405:201:2033:841:8ab2:4958:83e:bcb1",
     "2401:4900:3b0b:7b48:fc2d:afff:fea4:7bfc",
-    "2401:4900:701e:ffc9:400d:c6ff:fe3f:89a7"
+    "2401:4900:701e:ffc9:400d:c6ff:fe3f:89a7",
+    "2402:a00:10a:815f:94af:9737:4988:269d",
+    "146.196.32.22"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-29T18:47:14.673Z",
-      "ip": "115.187.38.42",
-      "username": "tgh2r"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-29T18:47:46.226Z",
-      "ip": "115.187.38.42",
-      "username": "tgh2r"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-29T18:50:09.087Z",
-      "ip": "115.187.38.42",
-      "username": "tgh2r"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-29T18:54:09.280Z",
-      "ip": "115.187.38.42",
-      "username": "tgh2r"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-29T18:55:11.580Z",
-      "ip": "2409:40f0:2421:1310:9456:7dff:fea2:e6bd",
-      "username": "sachinprem1"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -85809,6 +85771,46 @@
       "timestamp": "2026-02-22T05:55:59.743Z",
       "ip": "182.77.76.49",
       "username": "pishminer"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-02-22T05:59:14.709Z",
+      "ip": "2402:a00:10a:815f:94af:9737:4988:269d",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt14196410:1:1",
+      "title": "tt14196410:1:1",
+      "timestamp": "2026-02-22T06:00:40.306Z",
+      "ip": "182.77.76.49",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt0456165",
+      "title": "tt0456165",
+      "timestamp": "2026-02-22T06:03:38.912Z",
+      "ip": "182.77.76.49",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt14115938:1:1",
+      "title": "The Eminence in Shadow",
+      "timestamp": "2026-02-22T06:05:35.595Z",
+      "ip": "182.77.76.49",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt0091064",
+      "title": "tt0091064",
+      "timestamp": "2026-02-22T06:11:31.518Z",
+      "ip": "146.196.32.22",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -85961,10 +85963,10 @@
     },
     "182.77.76.49": {
       "type": "series",
-      "id": "tt13274038:1:1",
-      "title": "tt13274038:1:1",
-      "username": "pishminer",
-      "lastActive": 1771739759743
+      "id": "tt14115938:1:1",
+      "title": "The Eminence in Shadow",
+      "username": "nabakun24",
+      "lastActive": 1771740335595
     },
     "2405:201:203e:b800:1314:f1e0:68e3:6171": {
       "type": "movie",
@@ -86035,6 +86037,20 @@
       "title": "tt39392533",
       "username": "saaj",
       "lastActive": 1771738671812
+    },
+    "2402:a00:10a:815f:94af:9737:4988:269d": {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "username": "vflix1993",
+      "lastActive": 1771739954709
+    },
+    "146.196.32.22": {
+      "type": "movie",
+      "id": "tt0091064",
+      "title": "tt0091064",
+      "username": "gaendaswami",
+      "lastActive": 1771740691518
     }
   }
 }
