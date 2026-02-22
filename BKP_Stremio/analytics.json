@@ -1,5 +1,5 @@
 {
-  "totalViews": 28921,
+  "totalViews": 28924,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5804,33 +5804,12 @@
     "2401:4900:1c0f:9662:45a6:82b0:cf73:3fd2",
     "2409:40d2:305b:b6c7:c966:74c4:dd91:e689",
     "2402:a00:10a:815f:969:bb59:7f3b:83b3",
-    "2a02:9b0:106:4496:9449:7d09:ba9f:b9a4"
+    "2a02:9b0:106:4496:9449:7d09:ba9f:b9a4",
+    "2405:201:2033:841:8ab2:4958:83e:bcb1",
+    "2401:4900:3b0b:7b48:fc2d:afff:fea4:7bfc",
+    "2401:4900:701e:ffc9:400d:c6ff:fe3f:89a7"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-29T18:39:58.009Z",
-      "ip": "115.187.38.42",
-      "username": "tgh2r"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-29T18:41:39.995Z",
-      "ip": "115.187.38.42",
-      "username": "tgh2r"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-29T18:45:15.568Z",
-      "ip": "2409:40f0:2421:1310:9456:7dff:fea2:e6bd",
-      "username": "sachinprem1"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -85806,6 +85785,30 @@
       "timestamp": "2026-02-22T05:26:44.381Z",
       "ip": "103.249.4.57",
       "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt1646971",
+      "title": "How to Train Your Dragon 2",
+      "timestamp": "2026-02-22T05:30:02.152Z",
+      "ip": "2405:201:2033:841:8ab2:4958:83e:bcb1",
+      "username": "surti_lala"
+    },
+    {
+      "type": "movie",
+      "id": "tt36331860",
+      "title": "tt36331860",
+      "timestamp": "2026-02-22T05:36:30.116Z",
+      "ip": "2401:4900:3b0b:7b48:fc2d:afff:fea4:7bfc",
+      "username": "skssunilbh"
+    },
+    {
+      "type": "movie",
+      "id": "tt39392533",
+      "title": "tt39392533",
+      "timestamp": "2026-02-22T05:37:51.812Z",
+      "ip": "2401:4900:701e:ffc9:400d:c6ff:fe3f:89a7",
+      "username": "saaj"
     }
   ],
   "activeNow": {
@@ -86011,6 +86014,27 @@
       "title": "tt26658272",
       "username": "baljeet_002",
       "lastActive": 1771737953210
+    },
+    "2405:201:2033:841:8ab2:4958:83e:bcb1": {
+      "type": "movie",
+      "id": "tt1646971",
+      "title": "How to Train Your Dragon 2",
+      "username": "surti_lala",
+      "lastActive": 1771738202152
+    },
+    "2401:4900:3b0b:7b48:fc2d:afff:fea4:7bfc": {
+      "type": "movie",
+      "id": "tt36331860",
+      "title": "tt36331860",
+      "username": "skssunilbh",
+      "lastActive": 1771738590116
+    },
+    "2401:4900:701e:ffc9:400d:c6ff:fe3f:89a7": {
+      "type": "movie",
+      "id": "tt39392533",
+      "title": "tt39392533",
+      "username": "saaj",
+      "lastActive": 1771738671812
     }
   }
 }
