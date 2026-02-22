@@ -1,5 +1,5 @@
 {
-  "totalViews": 29003,
+  "totalViews": 29009,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5816,57 +5816,11 @@
     "2001:4490:4e65:a9e:99b9:df27:c783:77d0",
     "2405:201:2022:b81c:5da4:a4d:7d46:6a4e",
     "2401:4900:889b:4e9e:391c:8629:aa35:4d2c",
-    "2a02:6ea0:c493:2003:f8a4:5f11:98a4:4ea5"
+    "2a02:6ea0:c493:2003:f8a4:5f11:98a4:4ea5",
+    "210.10.1.47",
+    "2405:201:e00a:a1b3:78f5:e13e:9a12:dfeb"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T01:07:47.265Z",
-      "ip": "146.196.34.62",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T01:10:16.893Z",
-      "ip": "186.188.150.139",
-      "username": "gary"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-30T01:10:37.578Z",
-      "ip": "186.188.150.139",
-      "username": "gary"
-    },
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-01-30T01:10:51.841Z",
-      "ip": "186.188.150.139",
-      "username": "gary"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-30T01:11:18.833Z",
-      "ip": "186.188.150.139",
-      "username": "gary"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T01:11:26.685Z",
-      "ip": "186.188.150.139",
-      "username": "gary"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -85818,6 +85772,54 @@
       "timestamp": "2026-02-22T07:40:06.113Z",
       "ip": "2405:201:2022:b81c:5da4:a4d:7d46:6a4e",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-22T07:53:34.386Z",
+      "ip": "210.10.1.47",
+      "username": "sheik"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:1:2",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-22T07:54:09.530Z",
+      "ip": "210.10.1.47",
+      "username": "sheik"
+    },
+    {
+      "type": "movie",
+      "id": "tt2543164",
+      "title": "Arrival",
+      "timestamp": "2026-02-22T07:54:34.480Z",
+      "ip": "2405:201:2022:b81c:5da4:a4d:7d46:6a4e",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt13706018:3:13",
+      "title": "SPY x FAMILY",
+      "timestamp": "2026-02-22T07:57:08.581Z",
+      "ip": "103.249.4.57",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt22202452:1:2",
+      "title": "tt22202452:1:2",
+      "timestamp": "2026-02-22T07:58:29.565Z",
+      "ip": "2405:201:e00a:a1b3:78f5:e13e:9a12:dfeb",
+      "username": "executeal"
+    },
+    {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "timestamp": "2026-02-22T07:59:10.494Z",
+      "ip": "2405:201:e00a:a1b3:78f5:e13e:9a12:dfeb",
+      "username": "executeal"
     }
   ],
   "activeNow": {
@@ -85889,7 +85891,7 @@
       "id": "tt13706018:3:13",
       "title": "SPY x FAMILY",
       "username": "tgh2r",
-      "lastActive": 1771738004381
+      "lastActive": 1771747028581
     },
     "146.196.34.234": {
       "type": "series",
@@ -86116,11 +86118,11 @@
       "lastActive": 1771743375267
     },
     "2405:201:2022:b81c:5da4:a4d:7d46:6a4e": {
-      "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
+      "type": "movie",
+      "id": "tt2543164",
+      "title": "Arrival",
       "username": "zealousninja",
-      "lastActive": 1771746006113
+      "lastActive": 1771746874480
     },
     "2401:4900:889b:4e9e:391c:8629:aa35:4d2c": {
       "type": "movie",
@@ -86142,6 +86144,20 @@
       "title": "tt34278653",
       "username": "theonlyfreak",
       "lastActive": 1771745091060
+    },
+    "210.10.1.47": {
+      "type": "series",
+      "id": "tt0944947:1:2",
+      "title": "Game of Thrones",
+      "username": "sheik",
+      "lastActive": 1771746849530
+    },
+    "2405:201:e00a:a1b3:78f5:e13e:9a12:dfeb": {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "username": "executeal",
+      "lastActive": 1771747150494
     }
   }
 }
