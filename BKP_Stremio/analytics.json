@@ -1,5 +1,5 @@
 {
-  "totalViews": 29065,
+  "totalViews": 29066,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5830,14 +5830,6 @@
     "2409:40c1:45:5d6a:cc43:a57c:ba88:5e86"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt14850054",
-      "title": "tt14850054",
-      "timestamp": "2026-01-30T03:51:57.821Z",
-      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
-      "username": "nabakun"
-    },
     {
       "type": "movie",
       "id": "tt26443597",
@@ -85829,6 +85821,14 @@
       "timestamp": "2026-02-22T10:36:26.980Z",
       "ip": "2a09:bac5:3af1:172d::24f:8",
       "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:2:1",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-22T10:44:47.074Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
     }
   ],
   "activeNow": {
@@ -85893,7 +85893,7 @@
       "id": "tt0944947:2:1",
       "title": "Game of Thrones",
       "username": "un0fficial_itachi",
-      "lastActive": 1771699800981
+      "lastActive": 1771757087074
     },
     "103.249.4.57": {
       "type": "series",
