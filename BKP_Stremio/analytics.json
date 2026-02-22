@@ -1,5 +1,5 @@
 {
-  "totalViews": 28887,
+  "totalViews": 28891,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5801,38 +5801,6 @@
     "2409:40c0:1054:b4f:cf7:7bff:fee7:96e6"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-29T17:58:10.515Z",
-      "ip": "2401:4900:1c53:3310:8d9e:5f70:c207:4263",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-29T17:58:20.277Z",
-      "ip": "2401:4900:1c53:3310:8d9e:5f70:c207:4263",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt9179430",
-      "title": "tt9179430",
-      "timestamp": "2026-01-29T17:59:13.285Z",
-      "ip": "2401:4900:1c53:3310:8d9e:5f70:c207:4263",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt27480868",
-      "title": "tt27480868",
-      "timestamp": "2026-01-29T18:14:28.940Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "movie",
       "id": "tt9179430",
@@ -85800,6 +85768,38 @@
       "timestamp": "2026-02-22T02:24:13.958Z",
       "ip": "2406:b400:1a:a9ae:a27:a8ff:fe42:855e",
       "username": "nothingokk"
+    },
+    {
+      "type": "movie",
+      "id": "tt27847051",
+      "title": "tt27847051",
+      "timestamp": "2026-02-22T03:33:54.992Z",
+      "ip": "186.188.150.139",
+      "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt9603208",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "timestamp": "2026-02-22T03:35:06.053Z",
+      "ip": "186.188.150.139",
+      "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-22T03:35:12.413Z",
+      "ip": "2401:4900:8823:a9e4:44a0:b4b8:7787:d185",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-22T03:36:12.351Z",
+      "ip": "2401:4900:8823:a9e4:44a0:b4b8:7787:d185",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -85928,6 +85928,20 @@
       "title": "tt21261388",
       "username": "nothingokk",
       "lastActive": 1771727053958
+    },
+    "186.188.150.139": {
+      "type": "movie",
+      "id": "tt9603208",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "username": "ymcinema",
+      "lastActive": 1771731306053
+    },
+    "2401:4900:8823:a9e4:44a0:b4b8:7787:d185": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "b1jju",
+      "lastActive": 1771731372351
     }
   }
 }
