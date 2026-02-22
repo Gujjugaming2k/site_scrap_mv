@@ -1,5 +1,5 @@
 {
-  "totalViews": 29282,
+  "totalViews": 29284,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5874,22 +5874,6 @@
     "38.254.182.44"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt35684868",
-      "title": "tt35684868",
-      "timestamp": "2026-01-30T14:05:43.696Z",
-      "ip": "2401:4900:74d5:8829:dcee:6eff:feb7:c717",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt31852038",
-      "title": "tt31852038",
-      "timestamp": "2026-01-30T14:06:08.972Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "movie",
       "id": "tt35684868",
@@ -85873,15 +85857,31 @@
       "timestamp": "2026-02-22T19:04:31.885Z",
       "ip": "103.175.168.106",
       "username": "un0fficial_itachi"
+    },
+    {
+      "type": "movie",
+      "id": "tt0117338",
+      "title": "tt0117338",
+      "timestamp": "2026-02-22T19:13:52.258Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:4",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-22T19:21:22.686Z",
+      "ip": "2409:40d4:40c9:f6dc:8000::",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
     "2409:40d4:40c9:f6dc:8000::": {
       "type": "series",
-      "id": "tt12343534:3:3",
+      "id": "tt12343534:3:4",
       "title": "JUJUTSU KAISEN",
       "username": "kdbotz",
-      "lastActive": 1771780014638
+      "lastActive": 1771788082686
     },
     "2409:40c0:1032:47c3:2c59:d1ff:fe6b:11d3": {
       "type": "series",
@@ -85937,7 +85937,7 @@
       "id": "tt0117338",
       "title": "tt0117338",
       "username": "un0fficial_itachi",
-      "lastActive": 1771787071885
+      "lastActive": 1771787632258
     },
     "103.249.4.57": {
       "type": "series",
