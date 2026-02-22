@@ -1,5 +1,5 @@
 {
-  "totalViews": 28896,
+  "totalViews": 28898,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5798,25 +5798,10 @@
     "2401:4900:3a1e:9efa:4f35:21f8:1c75:e41d",
     "2405:201:900f:a92b:1d12:72d7:afdc:acc1",
     "104.234.53.157",
-    "2409:40c0:1054:b4f:cf7:7bff:fee7:96e6"
+    "2409:40c0:1054:b4f:cf7:7bff:fee7:96e6",
+    "2401:4900:8823:a9e4:8162:dde0:e35f:d47a"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-29T18:38:10.484Z",
-      "ip": "115.187.38.42",
-      "username": "tgh2r"
-    },
-    {
-      "type": "movie",
-      "id": "tt34915705",
-      "title": "tt34915705",
-      "timestamp": "2026-01-29T18:38:14.656Z",
-      "ip": "2401:4900:1c53:3310:8d9e:5f70:c207:4263",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -85800,6 +85785,22 @@
       "timestamp": "2026-02-22T03:49:50.676Z",
       "ip": "186.188.150.139",
       "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt21103218",
+      "title": "The Lost Bus",
+      "timestamp": "2026-02-22T04:02:33.706Z",
+      "ip": "2401:4900:8823:a9e4:8162:dde0:e35f:d47a",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt26758372",
+      "title": "tt26758372",
+      "timestamp": "2026-02-22T04:02:34.627Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -85833,10 +85834,10 @@
     },
     "116.68.74.159": {
       "type": "movie",
-      "id": "tt26691319",
-      "title": "tt26691319",
+      "id": "tt26758372",
+      "title": "tt26758372",
       "username": "aravindsivan",
-      "lastActive": 1771731817674
+      "lastActive": 1771732954627
     },
     "103.162.158.146": {
       "type": "movie",
@@ -85942,6 +85943,13 @@
       "title": "tt31227572",
       "username": "b1jju",
       "lastActive": 1771731372351
+    },
+    "2401:4900:8823:a9e4:8162:dde0:e35f:d47a": {
+      "type": "movie",
+      "id": "tt21103218",
+      "title": "The Lost Bus",
+      "username": "b1jju",
+      "lastActive": 1771732953706
     }
   }
 }
