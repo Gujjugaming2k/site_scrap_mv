@@ -1,5 +1,5 @@
 {
-  "totalViews": 29023,
+  "totalViews": 29024,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5824,14 +5824,6 @@
     "2402:3a80:4502:e53c:b49d:28ff:fecb:68aa"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt15911108",
-      "title": "tt15911108",
-      "timestamp": "2026-01-30T02:15:21.385Z",
-      "ip": "200.108.55.39",
-      "username": "ymcinema"
-    },
     {
       "type": "movie",
       "id": "tt15911108",
@@ -85823,6 +85815,14 @@
       "timestamp": "2026-02-22T08:50:45.134Z",
       "ip": "103.249.4.57",
       "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt13186482",
+      "title": "Mufasa: The Lion King",
+      "timestamp": "2026-02-22T08:56:25.770Z",
+      "ip": "2a09:bac1:36a0:10::ca:160",
+      "username": "switchoff009"
     }
   ],
   "activeNow": {
@@ -86170,11 +86170,11 @@
       "lastActive": 1771749405590
     },
     "2a09:bac1:36a0:10::ca:160": {
-      "type": "series",
-      "id": "tt0108778:9:19",
-      "title": "tt0108778:9:19",
+      "type": "movie",
+      "id": "tt13186482",
+      "title": "Mufasa: The Lion King",
       "username": "switchoff009",
-      "lastActive": 1771748983839
+      "lastActive": 1771750585770
     },
     "103.170.53.245": {
       "type": "series",
