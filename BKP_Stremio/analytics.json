@@ -1,5 +1,5 @@
 {
-  "totalViews": 29073,
+  "totalViews": 29076,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5833,30 +5833,6 @@
     "146.196.32.123"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt21030032:3:3",
-      "title": "tt21030032:3:3",
-      "timestamp": "2026-01-30T03:57:30.738Z",
-      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt14850054",
-      "title": "tt14850054",
-      "timestamp": "2026-01-30T03:57:55.670Z",
-      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt35315322",
-      "title": "tt35315322",
-      "timestamp": "2026-01-30T03:57:58.939Z",
-      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
-      "username": "nabakun"
-    },
     {
       "type": "movie",
       "id": "tt35315322",
@@ -85832,6 +85808,30 @@
       "timestamp": "2026-02-22T11:19:03.459Z",
       "ip": "2a09:bac5:3af4:16aa::242:b0",
       "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt10332508:3:6",
+      "title": "tt10332508:3:6",
+      "timestamp": "2026-02-22T11:26:26.494Z",
+      "ip": "202.173.124.219",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt10332508:3:7",
+      "title": "tt10332508:3:7",
+      "timestamp": "2026-02-22T11:26:58.297Z",
+      "ip": "202.173.124.219",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt10332508:3:6",
+      "title": "tt10332508:3:6",
+      "timestamp": "2026-02-22T11:33:28.678Z",
+      "ip": "202.173.124.219",
+      "username": "ryuzaklo26"
     }
   ],
   "activeNow": {
@@ -86096,10 +86096,10 @@
     },
     "202.173.124.219": {
       "type": "series",
-      "id": "tt28106758:1:8",
-      "title": "tt28106758:1:8",
+      "id": "tt10332508:3:6",
+      "title": "tt10332508:3:6",
       "username": "ryuzaklo26",
-      "lastActive": 1771747751954
+      "lastActive": 1771760008678
     },
     "2a02:cb80:4078:3333:4b8:2e9f:99d6:2d9e": {
       "type": "series",
