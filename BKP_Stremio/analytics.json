@@ -1,5 +1,5 @@
 {
-  "totalViews": 29247,
+  "totalViews": 29253,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5864,57 +5864,11 @@
     "2401:4900:939e:79eb:a52e:36fd:51bf:97c9",
     "2405:201:a40c:dba2:1d4a:4f0e:a18d:eb24",
     "2409:40c2:18:c101:c89f:8eff:fef2:114e",
-    "2402:a00:10a:815f:b5dd:c056:2a34:871f"
+    "2402:a00:10a:815f:b5dd:c056:2a34:871f",
+    "2405:201:900f:a92b:2076:740:7dcf:c218",
+    "45.131.193.140"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T10:55:58.711Z",
-      "ip": "2401:4900:b019:ae40:84df:d9ff:fe4c:5d2a",
-      "username": "adshoyi"
-    },
-    {
-      "type": "series",
-      "id": "tt14186672:1:10",
-      "title": "tt14186672:1:10",
-      "timestamp": "2026-01-30T11:17:29.616Z",
-      "ip": "2401:4900:ab84:7b6b:1cc6:86ff:fe49:3195",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "series",
-      "id": "tt14186672:1:10",
-      "title": "tt14186672:1:10",
-      "timestamp": "2026-01-30T11:19:53.416Z",
-      "ip": "2401:4900:ab84:7b6b:1cc6:86ff:fe49:3195",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "movie",
-      "id": "tt39140662",
-      "title": "tt39140662",
-      "timestamp": "2026-01-30T11:25:12.415Z",
-      "ip": "2405:201:6820:a83c:a4d2:c52f:fefc:2e83",
-      "username": "demon18319"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T11:37:26.312Z",
-      "ip": "146.70.255.37",
-      "username": "jinwoooooi"
-    },
-    {
-      "type": "movie",
-      "id": "tt1232829",
-      "title": "tt1232829",
-      "timestamp": "2026-01-30T11:54:27.121Z",
-      "ip": "2409:40f0:3009:96:9cb0:ecff:fe04:c19d",
-      "username": "hjbjkkfggjkjv"
-    },
     {
       "type": "movie",
       "id": "tt1232829",
@@ -85866,6 +85820,54 @@
       "timestamp": "2026-02-22T17:51:53.016Z",
       "ip": "2402:a00:10a:815f:b5dd:c056:2a34:871f",
       "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt27853283:2:4",
+      "title": "tt27853283:2:4",
+      "timestamp": "2026-02-22T17:54:13.865Z",
+      "ip": "146.196.32.123",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt33088719",
+      "title": "tt33088719",
+      "timestamp": "2026-02-22T18:01:49.052Z",
+      "ip": "2405:201:900f:a92b:2076:740:7dcf:c218",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt33088719",
+      "title": "tt33088719",
+      "timestamp": "2026-02-22T18:03:21.057Z",
+      "ip": "45.131.193.140",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt32897959",
+      "title": "tt32897959",
+      "timestamp": "2026-02-22T18:03:48.437Z",
+      "ip": "45.131.193.140",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt33088719",
+      "title": "tt33088719",
+      "timestamp": "2026-02-22T18:04:12.458Z",
+      "ip": "45.131.193.140",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt33088719",
+      "title": "tt33088719",
+      "timestamp": "2026-02-22T18:05:48.101Z",
+      "ip": "2405:201:900f:a92b:2076:740:7dcf:c218",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -86319,10 +86321,10 @@
     },
     "146.196.32.123": {
       "type": "series",
-      "id": "tt0112064:1:1",
-      "title": "tt0112064:1:1",
+      "id": "tt27853283:2:4",
+      "title": "tt27853283:2:4",
       "username": "gaendaswami",
-      "lastActive": 1771777430448
+      "lastActive": 1771782853865
     },
     "2409:4090:9005:8205:c144:d873:4775:4094": {
       "type": "movie",
@@ -86568,6 +86570,20 @@
       "title": "tt33474179",
       "username": "vflix1993",
       "lastActive": 1771782713016
+    },
+    "2405:201:900f:a92b:2076:740:7dcf:c218": {
+      "type": "movie",
+      "id": "tt33088719",
+      "title": "tt33088719",
+      "username": "theonlyfreak",
+      "lastActive": 1771783548101
+    },
+    "45.131.193.140": {
+      "type": "movie",
+      "id": "tt33088719",
+      "title": "tt33088719",
+      "username": "theonlyfreak",
+      "lastActive": 1771783452458
     }
   }
 }
