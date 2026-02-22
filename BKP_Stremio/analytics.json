@@ -1,5 +1,5 @@
 {
-  "totalViews": 29235,
+  "totalViews": 29236,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5861,17 +5861,10 @@
     "2405:201:2022:b81c:d040:45e7:7d64:d5be",
     "2409:40c2:18:e6c8:18d0:26ff:feb0:c144",
     "2401:4900:1ca9:45f1:787d:7bce:57a5:3a03",
-    "2401:4900:939e:79eb:a52e:36fd:51bf:97c9"
+    "2401:4900:939e:79eb:a52e:36fd:51bf:97c9",
+    "2405:201:a40c:dba2:1d4a:4f0e:a18d:eb24"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T09:43:20.234Z",
-      "ip": "117.222.214.148",
-      "username": "zealousninja"
-    },
     {
       "type": "series",
       "id": "tt36614693:2:1",
@@ -85863,6 +85856,14 @@
       "timestamp": "2026-02-22T17:21:14.886Z",
       "ip": "2401:4900:1ca9:45f1:d536:570e:8031:8c80",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt35727678",
+      "title": "tt35727678",
+      "timestamp": "2026-02-22T17:31:12.273Z",
+      "ip": "2405:201:a40c:dba2:1d4a:4f0e:a18d:eb24",
+      "username": "crunchytoon01"
     }
   ],
   "activeNow": {
@@ -86544,6 +86545,13 @@
       "title": "The Smashing Machine",
       "username": "gaendaswami",
       "lastActive": 1771779704359
+    },
+    "2405:201:a40c:dba2:1d4a:4f0e:a18d:eb24": {
+      "type": "movie",
+      "id": "tt35727678",
+      "title": "tt35727678",
+      "username": "crunchytoon01",
+      "lastActive": 1771781472273
     }
   }
 }
