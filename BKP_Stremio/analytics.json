@@ -1,5 +1,5 @@
 {
-  "totalViews": 29295,
+  "totalViews": 29301,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5874,57 +5874,10 @@
     "38.254.182.44",
     "2409:40f0:26:a8a8:dc6b:a2ff:fe4e:924f",
     "2409:40e5:1120:d563:26:b3ff:fec3:76c8",
-    "2401:4900:88f4:829d:765b:78ed:1f25:c89f"
+    "2401:4900:88f4:829d:765b:78ed:1f25:c89f",
+    "103.99.196.80"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt14186672:1:10",
-      "title": "tt14186672:1:10",
-      "timestamp": "2026-01-30T14:50:37.577Z",
-      "ip": "2401:4900:abb8:a3ae:3476:5eff:feb3:7b9b",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "series",
-      "id": "tt14186672:1:10",
-      "title": "tt14186672:1:10",
-      "timestamp": "2026-01-30T14:53:45.856Z",
-      "ip": "2401:4900:abb8:a3ae:3476:5eff:feb3:7b9b",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "series",
-      "id": "tt10577736:1:1",
-      "title": "Tehran",
-      "timestamp": "2026-01-30T14:54:01.080Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt10577736:1:1",
-      "title": "Tehran",
-      "timestamp": "2026-01-30T14:56:33.263Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt32362695",
-      "title": "tt32362695",
-      "timestamp": "2026-01-30T15:00:22.866Z",
-      "ip": "116.68.64.13",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt14850054",
-      "title": "tt14850054",
-      "timestamp": "2026-01-30T15:03:18.070Z",
-      "ip": "182.68.235.123",
-      "username": "user_9b"
-    },
     {
       "type": "series",
       "id": "tt31918578:1:1",
@@ -85876,6 +85829,54 @@
       "timestamp": "2026-02-22T21:19:32.267Z",
       "ip": "2409:40e5:1120:d563:26:b3ff:fec3:76c8",
       "username": "magicmannn"
+    },
+    {
+      "type": "series",
+      "id": "tt1409055:2:61",
+      "title": "Dragon Ball Z Kai",
+      "timestamp": "2026-02-22T21:31:58.556Z",
+      "ip": "103.99.196.80",
+      "username": "opuser75"
+    },
+    {
+      "type": "series",
+      "id": "tt1409055:2:61",
+      "title": "Dragon Ball Z Kai",
+      "timestamp": "2026-02-22T21:32:20.571Z",
+      "ip": "103.99.196.80",
+      "username": "opuser75"
+    },
+    {
+      "type": "series",
+      "id": "tt1409055:1:1",
+      "title": "Dragon Ball Z Kai",
+      "timestamp": "2026-02-22T21:38:10.839Z",
+      "ip": "103.99.196.80",
+      "username": "opuser75"
+    },
+    {
+      "type": "movie",
+      "id": "tt33295741",
+      "title": "tt33295741",
+      "timestamp": "2026-02-22T21:38:49.617Z",
+      "ip": "103.99.196.80",
+      "username": "opuser75"
+    },
+    {
+      "type": "movie",
+      "id": "tt14905854",
+      "title": "tt14905854",
+      "timestamp": "2026-02-22T21:39:00.003Z",
+      "ip": "103.99.196.80",
+      "username": "opuser75"
+    },
+    {
+      "type": "movie",
+      "id": "tt0099785",
+      "title": "Home Alone",
+      "timestamp": "2026-02-22T21:39:17.132Z",
+      "ip": "103.99.196.80",
+      "username": "opuser75"
     }
   ],
   "activeNow": {
@@ -86655,6 +86656,13 @@
       "title": "tt1321414",
       "username": "rishix915",
       "lastActive": 1771794614534
+    },
+    "103.99.196.80": {
+      "type": "movie",
+      "id": "tt0099785",
+      "title": "Home Alone",
+      "username": "opuser75",
+      "lastActive": 1771796357132
     }
   }
 }
