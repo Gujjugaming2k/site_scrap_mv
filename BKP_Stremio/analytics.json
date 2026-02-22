@@ -1,5 +1,5 @@
 {
-  "totalViews": 29301,
+  "totalViews": 29304,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5875,33 +5875,10 @@
     "2409:40f0:26:a8a8:dc6b:a2ff:fe4e:924f",
     "2409:40e5:1120:d563:26:b3ff:fec3:76c8",
     "2401:4900:88f4:829d:765b:78ed:1f25:c89f",
-    "103.99.196.80"
+    "103.99.196.80",
+    "2402:8100:2ca1:af05:b298:9dec:29a7:6647"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31918578:1:1",
-      "title": "tt31918578:1:1",
-      "timestamp": "2026-01-30T15:05:08.227Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T15:14:46.216Z",
-      "ip": "115.187.38.42",
-      "username": "tgh2r"
-    },
-    {
-      "type": "movie",
-      "id": "tt31852038",
-      "title": "tt31852038",
-      "timestamp": "2026-01-30T15:15:50.704Z",
-      "ip": "27.59.125.128",
-      "username": "b1jju"
-    },
     {
       "type": "movie",
       "id": "tt31852038",
@@ -85877,6 +85854,30 @@
       "timestamp": "2026-02-22T21:39:17.132Z",
       "ip": "103.99.196.80",
       "username": "opuser75"
+    },
+    {
+      "type": "movie",
+      "id": "tt0995031",
+      "title": "tt0995031",
+      "timestamp": "2026-02-22T22:38:04.811Z",
+      "ip": "2402:8100:2ca1:af05:b298:9dec:29a7:6647",
+      "username": "schnom153"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:1:2",
+      "title": "tt6354518:1:2",
+      "timestamp": "2026-02-22T22:41:41.176Z",
+      "ip": "2402:8100:2ca1:af05:b298:9dec:29a7:6647",
+      "username": "schnom153"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:1:3",
+      "title": "tt6354518:1:3",
+      "timestamp": "2026-02-22T22:42:07.895Z",
+      "ip": "2402:8100:2ca1:af05:b298:9dec:29a7:6647",
+      "username": "schnom153"
     }
   ],
   "activeNow": {
@@ -86663,6 +86664,13 @@
       "title": "Home Alone",
       "username": "opuser75",
       "lastActive": 1771796357132
+    },
+    "2402:8100:2ca1:af05:b298:9dec:29a7:6647": {
+      "type": "series",
+      "id": "tt6354518:1:3",
+      "title": "tt6354518:1:3",
+      "username": "schnom153",
+      "lastActive": 1771800127895
     }
   }
 }
