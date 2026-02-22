@@ -1,5 +1,5 @@
 {
-  "totalViews": 29017,
+  "totalViews": 29018,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5818,17 +5818,10 @@
     "2401:4900:889b:4e9e:391c:8629:aa35:4d2c",
     "2a02:6ea0:c493:2003:f8a4:5f11:98a4:4ea5",
     "210.10.1.47",
-    "2405:201:e00a:a1b3:78f5:e13e:9a12:dfeb"
+    "2405:201:e00a:a1b3:78f5:e13e:9a12:dfeb",
+    "2a09:bac1:36a0:10::ca:160"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T01:32:29.654Z",
-      "ip": "223.181.78.115",
-      "username": "b1jju"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -85820,6 +85813,14 @@
       "timestamp": "2026-02-22T08:09:11.954Z",
       "ip": "202.173.124.219",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt0108778:9:19",
+      "title": "tt0108778:9:19",
+      "timestamp": "2026-02-22T08:29:43.839Z",
+      "ip": "2a09:bac1:36a0:10::ca:160",
+      "username": "switchoff009"
     }
   ],
   "activeNow": {
@@ -86165,6 +86166,13 @@
       "title": "tt27853283:2:4",
       "username": "ashwanileon",
       "lastActive": 1771747665003
+    },
+    "2a09:bac1:36a0:10::ca:160": {
+      "type": "series",
+      "id": "tt0108778:9:19",
+      "title": "tt0108778:9:19",
+      "username": "switchoff009",
+      "lastActive": 1771748983839
     }
   }
 }
