@@ -1,5 +1,5 @@
 {
-  "totalViews": 29018,
+  "totalViews": 29023,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5819,49 +5819,11 @@
     "2a02:6ea0:c493:2003:f8a4:5f11:98a4:4ea5",
     "210.10.1.47",
     "2405:201:e00a:a1b3:78f5:e13e:9a12:dfeb",
-    "2a09:bac1:36a0:10::ca:160"
+    "2a09:bac1:36a0:10::ca:160",
+    "103.170.53.245",
+    "2402:3a80:4502:e53c:b49d:28ff:fecb:68aa"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T01:41:20.224Z",
-      "ip": "103.24.85.19",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T01:43:07.937Z",
-      "ip": "2401:4900:ca8e:2945:bc25:4ff:fef9:344e",
-      "username": "executeai"
-    },
-    {
-      "type": "movie",
-      "id": "tt0338013",
-      "title": "Eternal Sunshine of the Spotless Mind",
-      "timestamp": "2026-01-30T01:43:13.050Z",
-      "ip": "2a09:bac5:3b5a:1478::20a:e8",
-      "username": "demon18319"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T01:48:28.239Z",
-      "ip": "223.181.78.115",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt39140662",
-      "title": "tt39140662",
-      "timestamp": "2026-01-30T02:11:46.724Z",
-      "ip": "2a09:bac1:36e0:1a8::20a:5f",
-      "username": "demon18319"
-    },
     {
       "type": "movie",
       "id": "tt15911108",
@@ -85821,6 +85783,46 @@
       "timestamp": "2026-02-22T08:29:43.839Z",
       "ip": "2a09:bac1:36a0:10::ca:160",
       "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt27853283:2:4",
+      "title": "tt27853283:2:4",
+      "timestamp": "2026-02-22T08:36:45.590Z",
+      "ip": "2401:4900:8fe2:5c38:8c05:1345:78c8:8dde",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:10",
+      "title": "tt30003786:4:10",
+      "timestamp": "2026-02-22T08:39:19.607Z",
+      "ip": "103.170.53.245",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "timestamp": "2026-02-22T08:39:51.504Z",
+      "ip": "103.170.53.245",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt1646971",
+      "title": "How to Train Your Dragon 2",
+      "timestamp": "2026-02-22T08:47:36.143Z",
+      "ip": "2402:3a80:4502:e53c:b49d:28ff:fecb:68aa",
+      "username": "surti_lala"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:2:11",
+      "title": "tt0903747:2:11",
+      "timestamp": "2026-02-22T08:50:45.134Z",
+      "ip": "103.249.4.57",
+      "username": "tgh2r"
     }
   ],
   "activeNow": {
@@ -85889,10 +85891,10 @@
     },
     "103.249.4.57": {
       "type": "series",
-      "id": "tt0903747:2:10",
-      "title": "tt0903747:2:10",
+      "id": "tt0903747:2:11",
+      "title": "tt0903747:2:11",
       "username": "tgh2r",
-      "lastActive": 1771747413791
+      "lastActive": 1771750245134
     },
     "146.196.34.234": {
       "type": "series",
@@ -86165,7 +86167,7 @@
       "id": "tt27853283:2:4",
       "title": "tt27853283:2:4",
       "username": "ashwanileon",
-      "lastActive": 1771747665003
+      "lastActive": 1771749405590
     },
     "2a09:bac1:36a0:10::ca:160": {
       "type": "series",
@@ -86173,6 +86175,20 @@
       "title": "tt0108778:9:19",
       "username": "switchoff009",
       "lastActive": 1771748983839
+    },
+    "103.170.53.245": {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "username": "gaendaswami",
+      "lastActive": 1771749591504
+    },
+    "2402:3a80:4502:e53c:b49d:28ff:fecb:68aa": {
+      "type": "movie",
+      "id": "tt1646971",
+      "title": "How to Train Your Dragon 2",
+      "username": "surti_lala",
+      "lastActive": 1771750056143
     }
   }
 }
