@@ -1,5 +1,5 @@
 {
-  "totalViews": 29417,
+  "totalViews": 29419,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5900,25 +5900,11 @@
     "2405:201:5502:5c18:903c:833a:5d57:c900",
     "2401:4900:ae49:764b:f8c9:33b9:f630:8b60",
     "2401:4900:8824:eeee:e840:f0ac:8eb0:9da3",
-    "2402:a00:10a:815f:8ba2:485f:5bb9:decd"
+    "2402:a00:10a:815f:8ba2:485f:5bb9:decd",
+    "2409:40c1:19:4dac:68d0:f6ff:fe7a:ad2d",
+    "2405:201:5502:5c18:790b:52db:342d:abd1"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-31T10:28:06.272Z",
-      "ip": "182.69.180.214",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt32362695",
-      "title": "tt32362695",
-      "timestamp": "2026-01-31T10:35:22.354Z",
-      "ip": "2001:4490:4e65:825d:77:7056:26:8e31",
-      "username": "adiyogivishwanath"
-    },
     {
       "type": "movie",
       "id": "tt2404435",
@@ -85902,6 +85888,22 @@
       "timestamp": "2026-02-23T08:35:50.495Z",
       "ip": "2402:a00:10a:815f:8ba2:485f:5bb9:decd",
       "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt13911284:2:7",
+      "title": "tt13911284:2:7",
+      "timestamp": "2026-02-23T08:42:46.731Z",
+      "ip": "2409:40c1:19:4dac:68d0:f6ff:fe7a:ad2d",
+      "username": "paregi12"
+    },
+    {
+      "type": "series",
+      "id": "tt6468322:3:4",
+      "title": "tt6468322:3:4",
+      "timestamp": "2026-02-23T08:43:13.707Z",
+      "ip": "2405:201:5502:5c18:790b:52db:342d:abd1",
+      "username": "dawnstar930"
     }
   ],
   "activeNow": {
@@ -86863,6 +86865,20 @@
       "title": "tt20234568:1:4",
       "username": "vflix1993",
       "lastActive": 1771835750495
+    },
+    "2409:40c1:19:4dac:68d0:f6ff:fe7a:ad2d": {
+      "type": "series",
+      "id": "tt13911284:2:7",
+      "title": "tt13911284:2:7",
+      "username": "paregi12",
+      "lastActive": 1771836166731
+    },
+    "2405:201:5502:5c18:790b:52db:342d:abd1": {
+      "type": "series",
+      "id": "tt6468322:3:4",
+      "title": "tt6468322:3:4",
+      "username": "dawnstar930",
+      "lastActive": 1771836193707
     }
   }
 }
