@@ -1,5 +1,5 @@
 {
-  "totalViews": 29400,
+  "totalViews": 29406,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5895,57 +5895,11 @@
     "2405:201:682e:6839:e1e9:e215:5ce4:6f93",
     "103.46.200.41",
     "223.177.132.207",
-    "2401:4900:93eb:83ac:f07e:b4ff:fe10:bf5a"
+    "2401:4900:93eb:83ac:f07e:b4ff:fe10:bf5a",
+    "2409:40e5:101e:8d3e:74ef:70db:5b47:7983",
+    "2405:201:5502:5c18:903c:833a:5d57:c900"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33244668",
-      "title": "tt33244668",
-      "timestamp": "2026-01-30T17:24:07.001Z",
-      "ip": "2409:40e6:25f:bc88:dca1:3aff:fe77:dc13",
-      "username": "nabakun"
-    },
-    {
-      "type": "movie",
-      "id": "tt36616410",
-      "title": "tt36616410",
-      "timestamp": "2026-01-30T17:29:58.193Z",
-      "ip": "2405:201:2022:b81c:356f:6bdc:ca6:f8ed",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt35684868",
-      "title": "tt35684868",
-      "timestamp": "2026-01-30T17:31:11.264Z",
-      "ip": "103.24.85.19",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt21309170",
-      "title": "tt21309170",
-      "timestamp": "2026-01-30T17:39:07.159Z",
-      "ip": "2401:4900:1c53:3310:8300:a249:fa12:f7eb",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt30263074:1:2",
-      "title": "tt30263074:1:2",
-      "timestamp": "2026-01-30T17:42:14.872Z",
-      "ip": "2405:201:2022:b81c:356f:6bdc:ca6:f8ed",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt36616410",
-      "title": "tt36616410",
-      "timestamp": "2026-01-30T17:49:26.604Z",
-      "ip": "2405:201:2022:b81c:356f:6bdc:ca6:f8ed",
-      "username": "zealousninja"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -85897,6 +85851,54 @@
       "timestamp": "2026-02-23T07:30:08.736Z",
       "ip": "2401:4900:93eb:83ac:f07e:b4ff:fe10:bf5a",
       "username": "executeal"
+    },
+    {
+      "type": "movie",
+      "id": "tt0353969",
+      "title": "tt0353969",
+      "timestamp": "2026-02-23T07:34:46.878Z",
+      "ip": "2409:40e5:101e:8d3e:74ef:70db:5b47:7983",
+      "username": "magicmannn"
+    },
+    {
+      "type": "series",
+      "id": "tt6468322:3:2",
+      "title": "tt6468322:3:2",
+      "timestamp": "2026-02-23T07:35:01.260Z",
+      "ip": "2405:201:5502:5c18:903c:833a:5d57:c900",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt22202452:1:4",
+      "title": "tt22202452:1:4",
+      "timestamp": "2026-02-23T07:36:08.607Z",
+      "ip": "2401:4900:93eb:83ac:f07e:b4ff:fe10:bf5a",
+      "username": "executeal"
+    },
+    {
+      "type": "series",
+      "id": "tt28618556:1:7",
+      "title": "tt28618556:1:7",
+      "timestamp": "2026-02-23T07:37:46.188Z",
+      "ip": "2409:40e5:101e:8d3e:74ef:70db:5b47:7983",
+      "username": "magicmannn"
+    },
+    {
+      "type": "series",
+      "id": "tt8962124:5:3",
+      "title": "tt8962124:5:3",
+      "timestamp": "2026-02-23T07:38:45.414Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt8962124:5:4",
+      "title": "tt8962124:5:4",
+      "timestamp": "2026-02-23T07:45:15.986Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -86139,11 +86141,11 @@
       "lastActive": 1771743559957
     },
     "203.192.255.46": {
-      "type": "movie",
-      "id": "tt5950044",
-      "title": "Superman",
+      "type": "series",
+      "id": "tt8962124:5:4",
+      "title": "tt8962124:5:4",
       "username": "chetan_b2",
-      "lastActive": 1771773989037
+      "lastActive": 1771832715986
     },
     "2405:201:200d:906b:e9b9:acfe:e6f5:2f4f": {
       "type": "movie",
@@ -86819,10 +86821,24 @@
     },
     "2401:4900:93eb:83ac:f07e:b4ff:fe10:bf5a": {
       "type": "series",
-      "id": "tt22202452:1:5",
-      "title": "tt22202452:1:5",
+      "id": "tt22202452:1:4",
+      "title": "tt22202452:1:4",
       "username": "executeal",
-      "lastActive": 1771831808736
+      "lastActive": 1771832168607
+    },
+    "2409:40e5:101e:8d3e:74ef:70db:5b47:7983": {
+      "type": "series",
+      "id": "tt28618556:1:7",
+      "title": "tt28618556:1:7",
+      "username": "magicmannn",
+      "lastActive": 1771832266188
+    },
+    "2405:201:5502:5c18:903c:833a:5d57:c900": {
+      "type": "series",
+      "id": "tt6468322:3:2",
+      "title": "tt6468322:3:2",
+      "username": "dawnstar930",
+      "lastActive": 1771832101260
     }
   }
 }
