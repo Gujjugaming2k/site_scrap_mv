@@ -1,5 +1,5 @@
 {
-  "totalViews": 29304,
+  "totalViews": 29307,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5876,33 +5876,10 @@
     "2409:40e5:1120:d563:26:b3ff:fec3:76c8",
     "2401:4900:88f4:829d:765b:78ed:1f25:c89f",
     "103.99.196.80",
-    "2402:8100:2ca1:af05:b298:9dec:29a7:6647"
+    "2402:8100:2ca1:af05:b298:9dec:29a7:6647",
+    "2a02:9b0:106:4496:a8e1:10b3:7897:9bf8"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31852038",
-      "title": "tt31852038",
-      "timestamp": "2026-01-30T15:16:40.339Z",
-      "ip": "27.59.125.128",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt0190641",
-      "title": "tt0190641",
-      "timestamp": "2026-01-30T15:17:49.938Z",
-      "ip": "103.170.53.211",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt26692417:1:59",
-      "title": "tt26692417:1:59",
-      "timestamp": "2026-01-30T15:17:57.659Z",
-      "ip": "103.170.53.211",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt26692417:1:60",
@@ -85878,6 +85855,30 @@
       "timestamp": "2026-02-22T22:42:07.895Z",
       "ip": "2402:8100:2ca1:af05:b298:9dec:29a7:6647",
       "username": "schnom153"
+    },
+    {
+      "type": "series",
+      "id": "tmdb:304620:1:1",
+      "title": "tmdb:304620:1:1",
+      "timestamp": "2026-02-23T00:52:50.461Z",
+      "ip": "2a02:9b0:106:4496:a8e1:10b3:7897:9bf8",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tmdb:304620:1:5",
+      "title": "tmdb:304620:1:5",
+      "timestamp": "2026-02-23T00:53:06.324Z",
+      "ip": "2a02:9b0:106:4496:a8e1:10b3:7897:9bf8",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tmdb:304620:1:5",
+      "title": "tmdb:304620:1:5",
+      "timestamp": "2026-02-23T00:53:13.918Z",
+      "ip": "2a02:9b0:106:4496:a8e1:10b3:7897:9bf8",
+      "username": "hoosa500"
     }
   ],
   "activeNow": {
@@ -86671,6 +86672,13 @@
       "title": "tt6354518:1:3",
       "username": "schnom153",
       "lastActive": 1771800127895
+    },
+    "2a02:9b0:106:4496:a8e1:10b3:7897:9bf8": {
+      "type": "series",
+      "id": "tmdb:304620:1:5",
+      "title": "tmdb:304620:1:5",
+      "username": "hoosa500",
+      "lastActive": 1771807993918
     }
   }
 }
