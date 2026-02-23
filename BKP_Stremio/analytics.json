@@ -1,5 +1,5 @@
 {
-  "totalViews": 29438,
+  "totalViews": 29439,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5905,17 +5905,10 @@
     "2405:201:5502:5c18:790b:52db:342d:abd1",
     "2401:4900:8824:eeee:85a2:c2c:271a:950b",
     "2402:a00:10a:815f:ee41:6aba:3acd:4c88",
-    "2409:40d4:1079:8fe5:8000::"
+    "2409:40d4:1079:8fe5:8000::",
+    "43.231.58.165"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt28142095",
-      "title": "tt28142095",
-      "timestamp": "2026-01-31T11:01:05.842Z",
-      "ip": "202.173.124.118",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -85907,6 +85900,14 @@
       "timestamp": "2026-02-23T09:26:55.139Z",
       "ip": "103.24.85.157",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt32430579",
+      "title": "tt32430579",
+      "timestamp": "2026-02-23T09:48:01.051Z",
+      "ip": "43.231.58.165",
+      "username": "ryuzaklo26"
     }
   ],
   "activeNow": {
@@ -86903,6 +86904,13 @@
       "title": "Dhurandhar",
       "username": "vk986",
       "lastActive": 1771838658695
+    },
+    "43.231.58.165": {
+      "type": "movie",
+      "id": "tt32430579",
+      "title": "tt32430579",
+      "username": "ryuzaklo26",
+      "lastActive": 1771840081051
     }
   }
 }
