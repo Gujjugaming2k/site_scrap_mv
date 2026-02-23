@@ -1,5 +1,5 @@
 {
-  "totalViews": 29312,
+  "totalViews": 29313,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5880,14 +5880,6 @@
     "2a02:9b0:106:4496:a8e1:10b3:7897:9bf8"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt26692417:1:61",
-      "title": "tt26692417:1:61",
-      "timestamp": "2026-01-30T15:19:13.178Z",
-      "ip": "103.170.53.211",
-      "username": "gaendaswami"
-    },
     {
       "type": "movie",
       "id": "tt0060196",
@@ -85879,6 +85871,14 @@
       "timestamp": "2026-02-23T01:04:58.780Z",
       "ip": "2a02:9b0:106:4496:a8e1:10b3:7897:9bf8",
       "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:10",
+      "title": "tt30003786:4:10",
+      "timestamp": "2026-02-23T01:42:37.308Z",
+      "ip": "27.60.7.206",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -86387,11 +86387,11 @@
       "lastActive": 1771766641786
     },
     "27.60.7.206": {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "username": "iknowthat",
-      "lastActive": 1771766658812
+      "type": "series",
+      "id": "tt30003786:4:10",
+      "title": "tt30003786:4:10",
+      "username": "b1jju",
+      "lastActive": 1771810957308
     },
     "2405:201:203e:b800:d4e6:9d72:e1c4:c1cb": {
       "type": "movie",
