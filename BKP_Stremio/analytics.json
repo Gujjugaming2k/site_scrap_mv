@@ -1,5 +1,5 @@
 {
-  "totalViews": 29636,
+  "totalViews": 29639,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5947,33 +5947,10 @@
     "163.223.102.221",
     "2405:201:3022:a814:ede9:330b:e128:a50b",
     "2409:40e5:1125:2292:3c95:efff:fe2d:4530",
-    "2409:40c0:b:d18b:10d5:fbff:fe30:922e"
+    "2409:40c0:b:d18b:10d5:fbff:fe30:922e",
+    "2402:8100:2cbe:e216:af99:86cd:136c:9151"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-02-01T06:30:30.512Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
-      "timestamp": "2026-02-01T06:45:08.928Z",
-      "ip": "2a09:bac5:40b1:1aaa::2a8:20",
-      "username": "demon18319"
-    },
-    {
-      "type": "movie",
-      "id": "tt16311594",
-      "title": "F1",
-      "timestamp": "2026-02-01T06:53:01.024Z",
-      "ip": "182.77.78.99",
-      "username": "theaceofficials"
-    },
     {
       "type": "series",
       "id": "tt0369179:2:3",
@@ -85949,6 +85926,30 @@
       "timestamp": "2026-02-23T19:05:36.033Z",
       "ip": "2405:201:900f:a92b:1d12:72d7:afdc:acc1",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt0397442:1:1",
+      "title": "tt0397442:1:1",
+      "timestamp": "2026-02-23T19:15:37.799Z",
+      "ip": "2402:8100:2cbe:e216:af99:86cd:136c:9151",
+      "username": "schnom153"
+    },
+    {
+      "type": "movie",
+      "id": "tt1386697",
+      "title": "Suicide Squad",
+      "timestamp": "2026-02-23T19:16:41.112Z",
+      "ip": "2409:40e6:c:1670:384c:25ff:febd:c0cb",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt30447401",
+      "title": "tt30447401",
+      "timestamp": "2026-02-23T19:26:00.129Z",
+      "ip": "2405:201:900f:a92b:1d12:72d7:afdc:acc1",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -86052,10 +86053,10 @@
     },
     "2405:201:900f:a92b:1d12:72d7:afdc:acc1": {
       "type": "movie",
-      "id": "tt23289160",
-      "title": "Godzilla Minus One",
+      "id": "tt30447401",
+      "title": "tt30447401",
       "username": "theonlyfreak",
-      "lastActive": 1771873536033
+      "lastActive": 1771874760129
     },
     "104.234.53.157": {
       "type": "movie",
@@ -87172,10 +87173,10 @@
     },
     "2409:40e6:c:1670:384c:25ff:febd:c0cb": {
       "type": "movie",
-      "id": "tt5311514",
-      "title": "Your Name.",
+      "id": "tt1386697",
+      "title": "Suicide Squad",
       "username": "nabakun24",
-      "lastActive": 1771863714164
+      "lastActive": 1771874201112
     },
     "2409:40e4:10a9:8171:8dee:ba38:1ac2:932a": {
       "type": "movie",
@@ -87253,6 +87254,13 @@
       "title": "tt0460649:9:11",
       "username": "anonymous050100",
       "lastActive": 1771871435770
+    },
+    "2402:8100:2cbe:e216:af99:86cd:136c:9151": {
+      "type": "series",
+      "id": "tt0397442:1:1",
+      "title": "tt0397442:1:1",
+      "username": "schnom153",
+      "lastActive": 1771874137799
     }
   }
 }
