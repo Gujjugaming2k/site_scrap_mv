@@ -1,5 +1,5 @@
 {
-  "totalViews": 29442,
+  "totalViews": 29443,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5906,17 +5906,10 @@
     "2401:4900:8824:eeee:85a2:c2c:271a:950b",
     "2402:a00:10a:815f:ee41:6aba:3acd:4c88",
     "2409:40d4:1079:8fe5:8000::",
-    "43.231.58.165"
+    "43.231.58.165",
+    "117.222.211.86"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-31T11:03:31.519Z",
-      "ip": "202.173.124.118",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -85908,6 +85901,14 @@
       "timestamp": "2026-02-23T09:59:56.840Z",
       "ip": "2402:a00:10a:815f:ee41:6aba:3acd:4c88",
       "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt7838252",
+      "title": "tt7838252",
+      "timestamp": "2026-02-23T10:14:06.267Z",
+      "ip": "117.222.211.86",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -86911,6 +86912,13 @@
       "title": "tt32430579",
       "username": "ryuzaklo26",
       "lastActive": 1771840081051
+    },
+    "117.222.211.86": {
+      "type": "movie",
+      "id": "tt7838252",
+      "title": "tt7838252",
+      "username": "zealousninja",
+      "lastActive": 1771841646267
     }
   }
 }
