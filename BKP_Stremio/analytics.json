@@ -1,5 +1,5 @@
 {
-  "totalViews": 29575,
+  "totalViews": 29580,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5931,49 +5931,13 @@
     "2402:a00:10a:815f:dea6:d5c:d507:7784",
     "47.15.113.193",
     "2a02:6ea0:d33b:6290::12",
-    "2409:40e2:10f4:5b6a:150d:6b62:bbcb:5af9"
+    "2409:40e2:10f4:5b6a:150d:6b62:bbcb:5af9",
+    "223.181.100.157",
+    "2405:201:2022:b81c:2095:873:5600:a7c2",
+    "2a09:bac5:3af1:8b4::de:3b",
+    "212.8.253.37"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt35661996",
-      "title": "tt35661996",
-      "timestamp": "2026-01-31T17:00:25.932Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:3:3",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-31T17:06:54.718Z",
-      "ip": "157.48.83.94",
-      "username": "kdbotz"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:3:3",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-31T17:07:14.154Z",
-      "ip": "157.48.83.94",
-      "username": "kdbotz"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:3:2",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-31T17:07:19.798Z",
-      "ip": "157.48.83.94",
-      "username": "kdbotz"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:3:3",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-31T17:07:26.802Z",
-      "ip": "157.48.83.94",
-      "username": "kdbotz"
-    },
     {
       "type": "series",
       "id": "tt12343534:3:3",
@@ -85933,6 +85897,46 @@
       "timestamp": "2026-02-23T15:15:44.579Z",
       "ip": "2401:4900:1ca9:45f1:d536:570e:8031:8c80",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt18968540",
+      "title": "tt18968540",
+      "timestamp": "2026-02-23T15:30:02.569Z",
+      "ip": "223.181.100.157",
+      "username": "baljeet_002"
+    },
+    {
+      "type": "movie",
+      "id": "tt2543164",
+      "title": "Arrival",
+      "timestamp": "2026-02-23T15:32:16.577Z",
+      "ip": "2405:201:2022:b81c:2095:873:5600:a7c2",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt27673536",
+      "title": "tt27673536",
+      "timestamp": "2026-02-23T15:32:32.413Z",
+      "ip": "2a09:bac5:3af1:8b4::de:3b",
+      "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt12637874:2:6",
+      "title": "Fallout",
+      "timestamp": "2026-02-23T15:33:55.399Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt27673536",
+      "title": "tt27673536",
+      "timestamp": "2026-02-23T15:34:21.746Z",
+      "ip": "212.8.253.37",
+      "username": "angrybirdsneha"
     }
   ],
   "activeNow": {
@@ -86176,10 +86180,10 @@
     },
     "203.192.255.46": {
       "type": "series",
-      "id": "tt8962124:5:5",
-      "title": "tt8962124:5:5",
+      "id": "tt12637874:2:6",
+      "title": "Fallout",
       "username": "chetan_b2",
-      "lastActive": 1771854005560
+      "lastActive": 1771860835399
     },
     "2405:201:200d:906b:e9b9:acfe:e6f5:2f4f": {
       "type": "movie",
@@ -87118,6 +87122,34 @@
       "title": "tt2649730:1:1",
       "username": "adr7000",
       "lastActive": 1771859273441
+    },
+    "223.181.100.157": {
+      "type": "movie",
+      "id": "tt18968540",
+      "title": "tt18968540",
+      "username": "baljeet_002",
+      "lastActive": 1771860602569
+    },
+    "2405:201:2022:b81c:2095:873:5600:a7c2": {
+      "type": "movie",
+      "id": "tt2543164",
+      "title": "Arrival",
+      "username": "zealousninja",
+      "lastActive": 1771860736577
+    },
+    "2a09:bac5:3af1:8b4::de:3b": {
+      "type": "movie",
+      "id": "tt27673536",
+      "title": "tt27673536",
+      "username": "switchoff009",
+      "lastActive": 1771860752413
+    },
+    "212.8.253.37": {
+      "type": "movie",
+      "id": "tt27673536",
+      "title": "tt27673536",
+      "username": "angrybirdsneha",
+      "lastActive": 1771860861746
     }
   }
 }
