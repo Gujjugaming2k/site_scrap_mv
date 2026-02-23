@@ -1,5 +1,5 @@
 {
-  "totalViews": 29397,
+  "totalViews": 29400,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5893,33 +5893,11 @@
     "110.172.131.255",
     "2405:201:5502:5c18:4087:514d:aa54:ed17",
     "2405:201:682e:6839:e1e9:e215:5ce4:6f93",
-    "103.46.200.41"
+    "103.46.200.41",
+    "223.177.132.207",
+    "2401:4900:93eb:83ac:f07e:b4ff:fe10:bf5a"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33244668",
-      "title": "tt33244668",
-      "timestamp": "2026-01-30T17:14:48.807Z",
-      "ip": "103.214.60.37",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T17:17:49.089Z",
-      "ip": "2405:201:2022:b81c:d9df:2d81:2541:f301",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt0054073",
-      "title": "tt0054073",
-      "timestamp": "2026-01-30T17:21:32.662Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
     {
       "type": "movie",
       "id": "tt33244668",
@@ -85895,6 +85873,30 @@
       "timestamp": "2026-02-23T06:58:51.985Z",
       "ip": "2401:4900:1ca9:45f1:8dd9:3afa:50c6:1f3b",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:6",
+      "title": "tt27497448:1:6",
+      "timestamp": "2026-02-23T07:25:41.331Z",
+      "ip": "223.177.132.207",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt22202452:1:4",
+      "title": "tt22202452:1:4",
+      "timestamp": "2026-02-23T07:29:50.500Z",
+      "ip": "2401:4900:93eb:83ac:f07e:b4ff:fe10:bf5a",
+      "username": "executeal"
+    },
+    {
+      "type": "series",
+      "id": "tt22202452:1:5",
+      "title": "tt22202452:1:5",
+      "timestamp": "2026-02-23T07:30:08.736Z",
+      "ip": "2401:4900:93eb:83ac:f07e:b4ff:fe10:bf5a",
+      "username": "executeal"
     }
   ],
   "activeNow": {
@@ -86807,6 +86809,20 @@
       "title": "tt26443597",
       "username": "brosportses",
       "lastActive": 1771829862423
+    },
+    "223.177.132.207": {
+      "type": "series",
+      "id": "tt27497448:1:6",
+      "title": "tt27497448:1:6",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1771831541331
+    },
+    "2401:4900:93eb:83ac:f07e:b4ff:fe10:bf5a": {
+      "type": "series",
+      "id": "tt22202452:1:5",
+      "title": "tt22202452:1:5",
+      "username": "executeal",
+      "lastActive": 1771831808736
     }
   }
 }
