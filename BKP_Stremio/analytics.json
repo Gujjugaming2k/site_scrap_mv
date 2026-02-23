@@ -1,5 +1,5 @@
 {
-  "totalViews": 29406,
+  "totalViews": 29410,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5900,38 +5900,6 @@
     "2405:201:5502:5c18:903c:833a:5d57:c900"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T17:55:33.327Z",
-      "ip": "2001:ac8:2:1::12",
-      "username": "golu_vk"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T17:57:04.998Z",
-      "ip": "2001:ac8:2:1::12",
-      "username": "golu_vk"
-    },
-    {
-      "type": "movie",
-      "id": "tt36616410",
-      "title": "tt36616410",
-      "timestamp": "2026-01-30T17:57:31.214Z",
-      "ip": "2405:201:2022:b81c:356f:6bdc:ca6:f8ed",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt1645170",
-      "title": "The Dictator",
-      "timestamp": "2026-01-30T17:59:00.972Z",
-      "ip": "2401:4900:8811:d0b5:b3d0:76d0:42bc:5b15",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "movie",
       "id": "tt33244668",
@@ -85899,6 +85867,38 @@
       "timestamp": "2026-02-23T07:45:15.986Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt14169960:1:9",
+      "title": "All of Us Are Dead",
+      "timestamp": "2026-02-23T08:00:53.711Z",
+      "ip": "2401:4900:1ca9:45f1:8dd9:3afa:50c6:1f3b",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt14169960:1:9",
+      "title": "All of Us Are Dead",
+      "timestamp": "2026-02-23T08:03:13.563Z",
+      "ip": "2401:4900:1ca9:45f1:8dd9:3afa:50c6:1f3b",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt6468322:3:3",
+      "title": "tt6468322:3:3",
+      "timestamp": "2026-02-23T08:05:34.118Z",
+      "ip": "2405:201:5502:5c18:903c:833a:5d57:c900",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt11041332:1:5",
+      "title": "tt11041332:1:5",
+      "timestamp": "2026-02-23T08:05:51.487Z",
+      "ip": "103.24.85.157",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -86702,10 +86702,10 @@
     },
     "103.24.85.157": {
       "type": "series",
-      "id": "tt4574334:5:5",
-      "title": "Stranger Things",
+      "id": "tt11041332:1:5",
+      "title": "tt11041332:1:5",
       "username": "william097",
-      "lastActive": 1771827149150
+      "lastActive": 1771833951487
     },
     "49.47.153.66": {
       "type": "movie",
@@ -86765,10 +86765,10 @@
     },
     "2401:4900:1ca9:45f1:8dd9:3afa:50c6:1f3b": {
       "type": "series",
-      "id": "tt14169960:1:8",
+      "id": "tt14169960:1:9",
       "title": "All of Us Are Dead",
       "username": "nirbhay1412",
-      "lastActive": 1771829931985
+      "lastActive": 1771833793563
     },
     "2409:40c0:1002:b246:f5f4:8f3a:229a:5769": {
       "type": "movie",
@@ -86835,10 +86835,10 @@
     },
     "2405:201:5502:5c18:903c:833a:5d57:c900": {
       "type": "series",
-      "id": "tt6468322:3:2",
-      "title": "tt6468322:3:2",
+      "id": "tt6468322:3:3",
+      "title": "tt6468322:3:3",
       "username": "dawnstar930",
-      "lastActive": 1771832101260
+      "lastActive": 1771833934118
     }
   }
 }
