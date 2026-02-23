@@ -1,5 +1,5 @@
 {
-  "totalViews": 29410,
+  "totalViews": 29412,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5897,25 +5897,10 @@
     "223.177.132.207",
     "2401:4900:93eb:83ac:f07e:b4ff:fe10:bf5a",
     "2409:40e5:101e:8d3e:74ef:70db:5b47:7983",
-    "2405:201:5502:5c18:903c:833a:5d57:c900"
+    "2405:201:5502:5c18:903c:833a:5d57:c900",
+    "2401:4900:ae49:764b:f8c9:33b9:f630:8b60"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33244668",
-      "title": "tt33244668",
-      "timestamp": "2026-01-30T18:07:51.324Z",
-      "ip": "103.181.65.63",
-      "username": "mutti9"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:3:3",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-01-30T18:22:54.795Z",
-      "ip": "2409:40c2:a:601b:a070:74ff:feb0:e9f1",
-      "username": "agentmj47"
-    },
     {
       "type": "movie",
       "id": "tt38121182",
@@ -85899,6 +85884,22 @@
       "timestamp": "2026-02-23T08:05:51.487Z",
       "ip": "103.24.85.157",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:2:12",
+      "title": "tt0903747:2:12",
+      "timestamp": "2026-02-23T08:17:51.465Z",
+      "ip": "103.249.4.57",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt20234568:1:3",
+      "title": "tt20234568:1:3",
+      "timestamp": "2026-02-23T08:20:16.295Z",
+      "ip": "2401:4900:ae49:764b:f8c9:33b9:f630:8b60",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -85970,7 +85971,7 @@
       "id": "tt0903747:2:12",
       "title": "tt0903747:2:12",
       "username": "tgh2r",
-      "lastActive": 1771778535470
+      "lastActive": 1771834671465
     },
     "146.196.34.234": {
       "type": "series",
@@ -86839,6 +86840,13 @@
       "title": "tt6468322:3:3",
       "username": "dawnstar930",
       "lastActive": 1771833934118
+    },
+    "2401:4900:ae49:764b:f8c9:33b9:f630:8b60": {
+      "type": "series",
+      "id": "tt20234568:1:3",
+      "title": "tt20234568:1:3",
+      "username": "vflix1993",
+      "lastActive": 1771834816295
     }
   }
 }
