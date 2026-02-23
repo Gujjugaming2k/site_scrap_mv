@@ -1,5 +1,5 @@
 {
-  "totalViews": 29473,
+  "totalViews": 29474,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5917,17 +5917,10 @@
     "2409:40e4:1150:31be:65a8:6425:ee77:6f4e",
     "45.146.54.48",
     "2a02:9b0:106:4496:c124:291:5cab:79d4",
-    "45.146.54.46"
+    "45.146.54.46",
+    "2401:4900:1cb2:a019:d9de:2fe7:2b44:7098"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35674910:1:1",
-      "title": "tt35674910:1:1",
-      "timestamp": "2026-01-31T11:12:30.594Z",
-      "ip": "2a02:9b0:106:3b5f:e8fb:31ac:fac5:4b21",
-      "username": "hoosa500"
-    },
     {
       "type": "series",
       "id": "tt35674910:1:1",
@@ -85919,6 +85912,14 @@
       "timestamp": "2026-02-23T11:17:34.138Z",
       "ip": "2a02:9b0:106:4496:c124:291:5cab:79d4",
       "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tt39137681:1:9",
+      "title": "tt39137681:1:9",
+      "timestamp": "2026-02-23T11:41:35.027Z",
+      "ip": "2401:4900:1cb2:a019:d9de:2fe7:2b44:7098",
+      "username": "saisrinivas"
     }
   ],
   "activeNow": {
@@ -86999,6 +87000,13 @@
       "title": "tt2569772",
       "username": "theonlyfreak",
       "lastActive": 1771845451220
+    },
+    "2401:4900:1cb2:a019:d9de:2fe7:2b44:7098": {
+      "type": "series",
+      "id": "tt39137681:1:9",
+      "title": "tt39137681:1:9",
+      "username": "saisrinivas",
+      "lastActive": 1771846895027
     }
   }
 }
