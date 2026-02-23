@@ -1,5 +1,5 @@
 {
-  "totalViews": 29604,
+  "totalViews": 29607,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5940,33 +5940,12 @@
     "2409:40e4:10a9:8171:8dee:ba38:1ac2:932a",
     "2405:201:200d:906b:5dbb:a33e:fad8:6bc",
     "2409:40d4:4005:d36e:8000::",
-    "2a02:9b0:106:4496:4488:13e6:dc70:689c"
+    "2a02:9b0:106:4496:4488:13e6:dc70:689c",
+    "103.99.196.121",
+    "117.235.151.31",
+    "2409:40c1:1005:dfba:78bf:fa65:8a16:1612"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27497448:1:3",
-      "title": "tt27497448:1:3",
-      "timestamp": "2026-02-01T03:19:56.840Z",
-      "ip": "2409:40e6:249:8909:1cb9:b3ff:fef8:b0b8",
-      "username": "nabakun"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:5",
-      "title": "tt27497448:1:5",
-      "timestamp": "2026-02-01T03:20:14.817Z",
-      "ip": "2409:40e6:249:8909:1cb9:b3ff:fef8:b0b8",
-      "username": "nabakun"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-02-01T03:20:31.548Z",
-      "ip": "2409:40e6:249:8909:1cb9:b3ff:fef8:b0b8",
-      "username": "nabakun"
-    },
     {
       "type": "series",
       "id": "tt27497448:1:1",
@@ -85942,6 +85921,30 @@
       "timestamp": "2026-02-23T17:07:27.838Z",
       "ip": "110.172.131.255",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt1136608",
+      "title": "District 9",
+      "timestamp": "2026-02-23T17:16:12.995Z",
+      "ip": "103.99.196.121",
+      "username": "opuser75"
+    },
+    {
+      "type": "series",
+      "id": "tt30412869:1:1",
+      "title": "tt30412869:1:1",
+      "timestamp": "2026-02-23T17:21:50.645Z",
+      "ip": "117.235.151.31",
+      "username": "wearerequest"
+    },
+    {
+      "type": "movie",
+      "id": "tt31474349",
+      "title": "tt31474349",
+      "timestamp": "2026-02-23T17:21:57.306Z",
+      "ip": "2409:40c1:1005:dfba:78bf:fa65:8a16:1612",
+      "username": "kulu007"
     }
   ],
   "activeNow": {
@@ -87197,6 +87200,27 @@
       "title": "tmdb:304620",
       "username": "hoosa500",
       "lastActive": 1771866061617
+    },
+    "103.99.196.121": {
+      "type": "movie",
+      "id": "tt1136608",
+      "title": "District 9",
+      "username": "opuser75",
+      "lastActive": 1771866972995
+    },
+    "117.235.151.31": {
+      "type": "series",
+      "id": "tt30412869:1:1",
+      "title": "tt30412869:1:1",
+      "username": "wearerequest",
+      "lastActive": 1771867310645
+    },
+    "2409:40c1:1005:dfba:78bf:fa65:8a16:1612": {
+      "type": "movie",
+      "id": "tt31474349",
+      "title": "tt31474349",
+      "username": "kulu007",
+      "lastActive": 1771867317306
     }
   }
 }
