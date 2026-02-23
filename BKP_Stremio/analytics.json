@@ -1,5 +1,5 @@
 {
-  "totalViews": 29621,
+  "totalViews": 29627,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5949,54 +5949,6 @@
     "2409:40e5:1125:2292:3c95:efff:fe2d:4530"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0369179:2:3",
-      "title": "tt0369179:2:3",
-      "timestamp": "2026-02-01T05:24:19.280Z",
-      "ip": "2402:3a80:18dd:25db:b3ec:659a:ce86:9198",
-      "username": "targetx_25"
-    },
-    {
-      "type": "series",
-      "id": "tt0369179:2:4",
-      "title": "tt0369179:2:4",
-      "timestamp": "2026-02-01T05:25:26.588Z",
-      "ip": "2402:3a80:18dd:25db:b3ec:659a:ce86:9198",
-      "username": "targetx_25"
-    },
-    {
-      "type": "series",
-      "id": "tt0369179:2:4",
-      "title": "tt0369179:2:4",
-      "timestamp": "2026-02-01T05:28:31.316Z",
-      "ip": "2402:3a80:18dd:25db:b3ec:659a:ce86:9198",
-      "username": "targetx_25"
-    },
-    {
-      "type": "series",
-      "id": "tt0369179:2:4",
-      "title": "tt0369179:2:4",
-      "timestamp": "2026-02-01T05:28:56.200Z",
-      "ip": "2402:3a80:18dd:25db:b3ec:659a:ce86:9198",
-      "username": "targetx_25"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-01T05:32:36.047Z",
-      "ip": "2a09:bac1:36c0:1e0::10c:47",
-      "username": "demon18319"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-01T05:54:14.708Z",
-      "ip": "2409:40d4:4095:7752:8000::",
-      "username": "kdbotz"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -85948,6 +85900,54 @@
       "timestamp": "2026-02-23T17:54:57.792Z",
       "ip": "116.68.74.159",
       "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:4:9",
+      "title": "Lost",
+      "timestamp": "2026-02-23T17:57:23.744Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:4:9",
+      "title": "Lost",
+      "timestamp": "2026-02-23T17:57:54.213Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "null",
+      "title": "null",
+      "timestamp": "2026-02-23T18:00:14.182Z",
+      "ip": "117.235.151.31",
+      "username": "wearerequest"
+    },
+    {
+      "type": "movie",
+      "id": "null",
+      "title": "null",
+      "timestamp": "2026-02-23T18:00:21.860Z",
+      "ip": "117.235.151.31",
+      "username": "wearerequest"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:4:10",
+      "title": "Lost",
+      "timestamp": "2026-02-23T18:05:30.097Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt11041332:1:8",
+      "title": "tt11041332:1:8",
+      "timestamp": "2026-02-23T18:08:46.622Z",
+      "ip": "103.24.85.157",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -85981,10 +85981,10 @@
     },
     "116.68.74.159": {
       "type": "series",
-      "id": "tt0411008:4:8",
+      "id": "tt0411008:4:10",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1771869297792
+      "lastActive": 1771869930097
     },
     "103.162.158.146": {
       "type": "movie",
@@ -86751,10 +86751,10 @@
     },
     "103.24.85.157": {
       "type": "series",
-      "id": "tt11041332:1:7",
-      "title": "tt11041332:1:7",
+      "id": "tt11041332:1:8",
+      "title": "tt11041332:1:8",
       "username": "william097",
-      "lastActive": 1771844726377
+      "lastActive": 1771870126622
     },
     "49.47.153.66": {
       "type": "movie",
@@ -87212,11 +87212,11 @@
       "lastActive": 1771866972995
     },
     "117.235.151.31": {
-      "type": "series",
-      "id": "tt30412869:1:2",
-      "title": "tt30412869:1:2",
+      "type": "movie",
+      "id": "null",
+      "title": "null",
       "username": "wearerequest",
-      "lastActive": 1771867992435
+      "lastActive": 1771869621860
     },
     "2409:40c1:1005:dfba:78bf:fa65:8a16:1612": {
       "type": "movie",
