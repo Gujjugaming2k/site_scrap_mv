@@ -1,5 +1,5 @@
 {
-  "totalViews": 29641,
+  "totalViews": 29642,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5952,14 +5952,6 @@
     "2402:3a80:1650:a5af:1908:ee37:2402:34ab"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0369179:2:4",
-      "title": "tt0369179:2:4",
-      "timestamp": "2026-02-01T06:57:21.097Z",
-      "ip": "2402:3a80:18cf:578b:e22d:3537:5f41:9c27",
-      "username": "targetx_25"
-    },
     {
       "type": "movie",
       "id": "tt5537002",
@@ -85951,6 +85943,14 @@
       "timestamp": "2026-02-23T21:06:43.198Z",
       "ip": "2402:3a80:1650:a5af:1908:ee37:2402:34ab",
       "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt0988818:1:1",
+      "title": "tt0988818:1:1",
+      "timestamp": "2026-02-23T21:27:30.934Z",
+      "ip": "103.99.196.121",
+      "username": "opuser75"
     }
   ],
   "activeNow": {
@@ -87208,11 +87208,11 @@
       "lastActive": 1771866061617
     },
     "103.99.196.121": {
-      "type": "movie",
-      "id": "tt1136608",
-      "title": "District 9",
+      "type": "series",
+      "id": "tt0988818:1:1",
+      "title": "tt0988818:1:1",
       "username": "opuser75",
-      "lastActive": 1771866972995
+      "lastActive": 1771882050934
     },
     "117.235.151.31": {
       "type": "movie",
