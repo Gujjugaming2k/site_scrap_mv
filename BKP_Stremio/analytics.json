@@ -1,5 +1,5 @@
 {
-  "totalViews": 29467,
+  "totalViews": 29473,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5914,57 +5914,12 @@
     "119.234.91.93",
     "45.146.54.64",
     "2405:201:6025:a88d:556f:c1f5:ac5:31a9",
-    "2409:40e4:1150:31be:65a8:6425:ee77:6f4e"
+    "2409:40e4:1150:31be:65a8:6425:ee77:6f4e",
+    "45.146.54.48",
+    "2a02:9b0:106:4496:c124:291:5cab:79d4",
+    "45.146.54.46"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tmdb:303332:1:8",
-      "title": "tmdb:303332:1:8",
-      "timestamp": "2026-01-31T11:11:39.075Z",
-      "ip": "2a02:9b0:106:3b5f:e8fb:31ac:fac5:4b21",
-      "username": "hoosa500"
-    },
-    {
-      "type": "series",
-      "id": "tmdb:299890:1:1",
-      "title": "tmdb:299890:1:1",
-      "timestamp": "2026-01-31T11:12:00.707Z",
-      "ip": "2a02:9b0:106:3b5f:e8fb:31ac:fac5:4b21",
-      "username": "hoosa500"
-    },
-    {
-      "type": "series",
-      "id": "tmdb:299890:1:1",
-      "title": "tmdb:299890:1:1",
-      "timestamp": "2026-01-31T11:12:03.948Z",
-      "ip": "2a02:9b0:106:3b5f:e8fb:31ac:fac5:4b21",
-      "username": "hoosa500"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-31T11:12:18.110Z",
-      "ip": "202.173.124.118",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt3895150:1:1",
-      "title": "tt3895150:1:1",
-      "timestamp": "2026-01-31T11:12:22.446Z",
-      "ip": "182.77.78.99",
-      "username": "theaceofficials"
-    },
-    {
-      "type": "series",
-      "id": "tt35674910:1:1",
-      "title": "tt35674910:1:1",
-      "timestamp": "2026-01-31T11:12:27.409Z",
-      "ip": "2a02:9b0:106:3b5f:e8fb:31ac:fac5:4b21",
-      "username": "hoosa500"
-    },
     {
       "type": "series",
       "id": "tt35674910:1:1",
@@ -85916,6 +85871,54 @@
       "timestamp": "2026-02-23T11:10:23.044Z",
       "ip": "2409:40e4:1150:31be:65a8:6425:ee77:6f4e",
       "username": "adshoyi"
+    },
+    {
+      "type": "movie",
+      "id": "tt2569772",
+      "title": "tt2569772",
+      "timestamp": "2026-02-23T11:12:02.638Z",
+      "ip": "45.146.54.48",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt9059760:1:3",
+      "title": "tt9059760:1:3",
+      "timestamp": "2026-02-23T11:14:16.995Z",
+      "ip": "2401:9640:801:8f3a:54a9:3cd:1ef5:26b4",
+      "username": "suprememayank"
+    },
+    {
+      "type": "series",
+      "id": "tmdb:304620",
+      "title": "tmdb:304620",
+      "timestamp": "2026-02-23T11:17:24.663Z",
+      "ip": "2a02:9b0:106:4496:c124:291:5cab:79d4",
+      "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt2569772",
+      "title": "tt2569772",
+      "timestamp": "2026-02-23T11:17:31.220Z",
+      "ip": "45.146.54.46",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tmdb:304620",
+      "title": "tmdb:304620",
+      "timestamp": "2026-02-23T11:17:34.064Z",
+      "ip": "2a02:9b0:106:4496:c124:291:5cab:79d4",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tmdb:304620",
+      "title": "tmdb:304620",
+      "timestamp": "2026-02-23T11:17:34.138Z",
+      "ip": "2a02:9b0:106:4496:c124:291:5cab:79d4",
+      "username": "hoosa500"
     }
   ],
   "activeNow": {
@@ -86656,10 +86659,10 @@
     },
     "2401:9640:801:8f3a:54a9:3cd:1ef5:26b4": {
       "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
+      "id": "tt9059760:1:3",
+      "title": "tt9059760:1:3",
       "username": "suprememayank",
-      "lastActive": 1771784855257
+      "lastActive": 1771845256995
     },
     "38.254.182.44": {
       "type": "movie",
@@ -86975,6 +86978,27 @@
       "title": "tt30003786:4:10",
       "username": "adshoyi",
       "lastActive": 1771845023044
+    },
+    "45.146.54.48": {
+      "type": "movie",
+      "id": "tt2569772",
+      "title": "tt2569772",
+      "username": "theonlyfreak",
+      "lastActive": 1771845122638
+    },
+    "2a02:9b0:106:4496:c124:291:5cab:79d4": {
+      "type": "series",
+      "id": "tmdb:304620",
+      "title": "tmdb:304620",
+      "username": "hoosa500",
+      "lastActive": 1771845454138
+    },
+    "45.146.54.46": {
+      "type": "movie",
+      "id": "tt2569772",
+      "title": "tt2569772",
+      "username": "theonlyfreak",
+      "lastActive": 1771845451220
     }
   }
 }
