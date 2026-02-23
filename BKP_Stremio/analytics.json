@@ -1,5 +1,5 @@
 {
-  "totalViews": 29581,
+  "totalViews": 29587,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5935,57 +5935,10 @@
     "223.181.100.157",
     "2405:201:2022:b81c:2095:873:5600:a7c2",
     "2a09:bac5:3af1:8b4::de:3b",
-    "212.8.253.37"
+    "212.8.253.37",
+    "2409:40e6:c:1670:384c:25ff:febd:c0cb"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt38990492:1:4",
-      "title": "tt38990492:1:4",
-      "timestamp": "2026-02-01T00:19:43.348Z",
-      "ip": "200.108.55.38",
-      "username": "ymcinema"
-    },
-    {
-      "type": "series",
-      "id": "tt38990492:1:4",
-      "title": "tt38990492:1:4",
-      "timestamp": "2026-02-01T00:33:56.552Z",
-      "ip": "200.108.55.38",
-      "username": "ymcinema"
-    },
-    {
-      "type": "movie",
-      "id": "tt27673536",
-      "title": "tt27673536",
-      "timestamp": "2026-02-01T00:34:09.588Z",
-      "ip": "200.108.55.38",
-      "username": "ymcinema"
-    },
-    {
-      "type": "movie",
-      "id": "tt27673536",
-      "title": "tt27673536",
-      "timestamp": "2026-02-01T01:46:58.641Z",
-      "ip": "190.250.251.84",
-      "username": "ymcinema"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-01T01:47:08.523Z",
-      "ip": "2409:4085:ae8d:1b9b::e20b:ce0d",
-      "username": "brosportses"
-    },
-    {
-      "type": "movie",
-      "id": "tt1314652",
-      "title": "tt1314652",
-      "timestamp": "2026-02-01T01:47:20.829Z",
-      "ip": "2409:4085:ae8d:1b9b::e20b:ce0d",
-      "username": "brosportses"
-    },
     {
       "type": "movie",
       "id": "tt15887102",
@@ -85937,6 +85890,54 @@
       "timestamp": "2026-02-23T15:51:07.788Z",
       "ip": "182.69.180.143",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt8289930:1:1",
+      "title": "tt8289930:1:1",
+      "timestamp": "2026-02-23T16:12:10.122Z",
+      "ip": "182.77.76.58",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt23289160",
+      "title": "Godzilla Minus One",
+      "timestamp": "2026-02-23T16:16:52.870Z",
+      "ip": "49.47.153.66",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt23289160",
+      "title": "Godzilla Minus One",
+      "timestamp": "2026-02-23T16:19:20.287Z",
+      "ip": "49.47.153.66",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "timestamp": "2026-02-23T16:20:36.075Z",
+      "ip": "2409:40e6:c:1670:384c:25ff:febd:c0cb",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "timestamp": "2026-02-23T16:20:59.552Z",
+      "ip": "2409:40e6:c:1670:384c:25ff:febd:c0cb",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt5311514",
+      "title": "Your Name.",
+      "timestamp": "2026-02-23T16:21:54.164Z",
+      "ip": "2409:40e6:c:1670:384c:25ff:febd:c0cb",
+      "username": "nabakun24"
     }
   ],
   "activeNow": {
@@ -86747,10 +86748,10 @@
     },
     "49.47.153.66": {
       "type": "movie",
-      "id": "tt0100046",
-      "title": "tt0100046",
+      "id": "tt23289160",
+      "title": "Godzilla Minus One",
       "username": "theonlyfreak",
-      "lastActive": 1771814522990
+      "lastActive": 1771863560287
     },
     "216.73.163.57": {
       "type": "movie",
@@ -87086,7 +87087,7 @@
       "id": "tt8289930:1:1",
       "title": "tt8289930:1:1",
       "username": "theaceofficials",
-      "lastActive": 1771853011458
+      "lastActive": 1771863130122
     },
     "2401:4900:62c2:633f:b81b:e997:1857:e061": {
       "type": "movie",
@@ -87157,6 +87158,13 @@
       "title": "tt26737616:1:2",
       "username": "dillon_ka_shooter",
       "lastActive": 1771861867788
+    },
+    "2409:40e6:c:1670:384c:25ff:febd:c0cb": {
+      "type": "movie",
+      "id": "tt5311514",
+      "title": "Your Name.",
+      "username": "nabakun24",
+      "lastActive": 1771863714164
     }
   }
 }
