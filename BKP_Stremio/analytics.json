@@ -1,5 +1,5 @@
 {
-  "totalViews": 29543,
+  "totalViews": 29546,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5932,30 +5932,6 @@
     "47.15.113.193"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tmdb:299890:1:1",
-      "title": "tmdb:299890:1:1",
-      "timestamp": "2026-01-31T14:25:28.786Z",
-      "ip": "2a02:9b0:106:3b5f:680e:574a:758c:4ce7",
-      "username": "hoosa500"
-    },
-    {
-      "type": "series",
-      "id": "tmdb:301883:1:2",
-      "title": "tmdb:301883:1:2",
-      "timestamp": "2026-01-31T14:34:48.644Z",
-      "ip": "2a02:9b0:106:3b5f:680e:574a:758c:4ce7",
-      "username": "hoosa500"
-    },
-    {
-      "type": "series",
-      "id": "tmdb:301883:1:2",
-      "title": "tmdb:301883:1:2",
-      "timestamp": "2026-01-31T14:35:10.292Z",
-      "ip": "2a02:9b0:106:3b5f:680e:574a:758c:4ce7",
-      "username": "hoosa500"
-    },
     {
       "type": "movie",
       "id": "tt32642706",
@@ -85931,15 +85907,39 @@
       "timestamp": "2026-02-23T14:16:52.527Z",
       "ip": "2402:a00:10a:815f:dea6:d5c:d507:7784",
       "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:1:1",
+      "title": "The Night Agent",
+      "timestamp": "2026-02-23T14:23:11.114Z",
+      "ip": "2401:4900:1ca9:45f1:d536:570e:8031:8c80",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:7",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-23T14:23:32.764Z",
+      "ip": "2409:40d4:40c9:f6dc:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:6",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-23T14:23:37.047Z",
+      "ip": "2409:40d4:40c9:f6dc:8000::",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
     "2409:40d4:40c9:f6dc:8000::": {
       "type": "series",
-      "id": "tt33098081:1:6",
-      "title": "tt33098081:1:6",
+      "id": "tt12343534:3:6",
+      "title": "JUJUTSU KAISEN",
       "username": "kdbotz",
-      "lastActive": 1771855879470
+      "lastActive": 1771856617047
     },
     "2409:40c0:1032:47c3:2c59:d1ff:fe6b:11d3": {
       "type": "series",
@@ -86545,10 +86545,10 @@
     },
     "2401:4900:1ca9:45f1:d536:570e:8031:8c80": {
       "type": "series",
-      "id": "tt31938062:1:1",
-      "title": "tt31938062:1:1",
+      "id": "tt13918776:1:1",
+      "title": "The Night Agent",
       "username": "nirbhay1412",
-      "lastActive": 1771855894688
+      "lastActive": 1771856591114
     },
     "2a09:bac5:3af1:1a8c::2a5:a6": {
       "type": "series",
