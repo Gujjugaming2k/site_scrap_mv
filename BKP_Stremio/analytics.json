@@ -1,5 +1,5 @@
 {
-  "totalViews": 29593,
+  "totalViews": 29596,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5937,33 +5937,11 @@
     "2a09:bac5:3af1:8b4::de:3b",
     "212.8.253.37",
     "2409:40e6:c:1670:384c:25ff:febd:c0cb",
-    "2409:40e4:10a9:8171:8dee:ba38:1ac2:932a"
+    "2409:40e4:10a9:8171:8dee:ba38:1ac2:932a",
+    "2405:201:200d:906b:5dbb:a33e:fad8:6bc",
+    "2409:40d4:4005:d36e:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0460649:5:3",
-      "title": "tt0460649:5:3",
-      "timestamp": "2026-02-01T02:50:23.087Z",
-      "ip": "2a09:bac1:36c0:5e98::3e5:1c",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt0460649:5:4",
-      "title": "tt0460649:5:4",
-      "timestamp": "2026-02-01T02:50:24.919Z",
-      "ip": "2a09:bac1:36c0:5e98::3e5:1c",
-      "username": "demon18319"
-    },
-    {
-      "type": "movie",
-      "id": "tt29638896",
-      "title": "tt29638896",
-      "timestamp": "2026-02-01T02:53:57.306Z",
-      "ip": "103.24.85.19",
-      "username": "william097"
-    },
     {
       "type": "series",
       "id": "tt30003786:4:1",
@@ -85939,6 +85917,30 @@
       "timestamp": "2026-02-23T16:36:16.215Z",
       "ip": "146.196.32.123",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt31474349",
+      "title": "tt31474349",
+      "timestamp": "2026-02-23T16:42:45.755Z",
+      "ip": "2405:201:200d:906b:5dbb:a33e:fad8:6bc",
+      "username": "kulu007"
+    },
+    {
+      "type": "movie",
+      "id": "tt31474349",
+      "title": "tt31474349",
+      "timestamp": "2026-02-23T16:43:24.735Z",
+      "ip": "2405:201:200d:906b:5dbb:a33e:fad8:6bc",
+      "username": "kulu007"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "timestamp": "2026-02-23T16:52:18.473Z",
+      "ip": "2409:40d4:4005:d36e:8000::",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -87173,6 +87175,20 @@
       "title": "Furious 7",
       "username": "askchm",
       "lastActive": 1771864180794
+    },
+    "2405:201:200d:906b:5dbb:a33e:fad8:6bc": {
+      "type": "movie",
+      "id": "tt31474349",
+      "title": "tt31474349",
+      "username": "kulu007",
+      "lastActive": 1771865004735
+    },
+    "2409:40d4:4005:d36e:8000::": {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "username": "kdbotz",
+      "lastActive": 1771865538473
     }
   }
 }
