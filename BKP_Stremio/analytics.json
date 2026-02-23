@@ -1,5 +1,5 @@
 {
-  "totalViews": 29474,
+  "totalViews": 29475,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5921,14 +5921,6 @@
     "2401:4900:1cb2:a019:d9de:2fe7:2b44:7098"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35674910:1:1",
-      "title": "tt35674910:1:1",
-      "timestamp": "2026-01-31T11:12:36.942Z",
-      "ip": "2a02:9b0:106:3b5f:e8fb:31ac:fac5:4b21",
-      "username": "hoosa500"
-    },
     {
       "type": "series",
       "id": "tt35674910:1:1",
@@ -85920,6 +85912,14 @@
       "timestamp": "2026-02-23T11:41:35.027Z",
       "ip": "2401:4900:1cb2:a019:d9de:2fe7:2b44:7098",
       "username": "saisrinivas"
+    },
+    {
+      "type": "series",
+      "id": "tt0156214:1:1",
+      "title": "tt0156214:1:1",
+      "timestamp": "2026-02-23T11:58:35.929Z",
+      "ip": "2409:40d2:3041:9d03:b123:aae4:f843:1159",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -86799,11 +86799,11 @@
       "lastActive": 1771826291020
     },
     "2409:40d2:3041:9d03:b123:aae4:f843:1159": {
-      "type": "movie",
-      "id": "tt1757678",
-      "title": "tt1757678",
+      "type": "series",
+      "id": "tt0156214:1:1",
+      "title": "tt0156214:1:1",
       "username": "saurabhkaperwan",
-      "lastActive": 1771827260391
+      "lastActive": 1771847915929
     },
     "110.172.131.255": {
       "type": "movie",
