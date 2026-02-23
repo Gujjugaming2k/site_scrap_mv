@@ -1,5 +1,5 @@
 {
-  "totalViews": 29313,
+  "totalViews": 29315,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5877,25 +5877,11 @@
     "2401:4900:88f4:829d:765b:78ed:1f25:c89f",
     "103.99.196.80",
     "2402:8100:2ca1:af05:b298:9dec:29a7:6647",
-    "2a02:9b0:106:4496:a8e1:10b3:7897:9bf8"
+    "2a02:9b0:106:4496:a8e1:10b3:7897:9bf8",
+    "103.24.85.157",
+    "49.47.153.66"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0060196",
-      "title": "The Good, the Bad and the Ugly",
-      "timestamp": "2026-01-30T15:19:15.162Z",
-      "ip": "27.59.125.128",
-      "username": "b1jju"
-    },
-    {
-      "type": "series",
-      "id": "tt26692417:1:58",
-      "title": "tt26692417:1:58",
-      "timestamp": "2026-01-30T15:19:27.330Z",
-      "ip": "103.170.53.211",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt0417299:3:15",
@@ -85879,6 +85865,22 @@
       "timestamp": "2026-02-23T01:42:37.308Z",
       "ip": "27.60.7.206",
       "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt11041332:1:4",
+      "title": "tt11041332:1:4",
+      "timestamp": "2026-02-23T02:33:19.389Z",
+      "ip": "103.24.85.157",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt33088719",
+      "title": "tt33088719",
+      "timestamp": "2026-02-23T02:39:41.504Z",
+      "ip": "49.47.153.66",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -86679,6 +86681,20 @@
       "title": "tmdb:304620:1:6",
       "username": "hoosa500",
       "lastActive": 1771808698780
+    },
+    "103.24.85.157": {
+      "type": "series",
+      "id": "tt11041332:1:4",
+      "title": "tt11041332:1:4",
+      "username": "william097",
+      "lastActive": 1771813999389
+    },
+    "49.47.153.66": {
+      "type": "movie",
+      "id": "tt33088719",
+      "title": "tt33088719",
+      "username": "theonlyfreak",
+      "lastActive": 1771814381504
     }
   }
 }
