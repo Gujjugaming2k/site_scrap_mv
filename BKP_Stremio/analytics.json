@@ -1,5 +1,5 @@
 {
-  "totalViews": 29330,
+  "totalViews": 29333,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5882,33 +5882,10 @@
     "49.47.153.66",
     "216.73.163.57",
     "2401:4900:1ca9:45f1:a16f:9719:e98c:a2bb",
-    "2409:40c1:2038:cd0d:8000::"
+    "2409:40c1:2038:cd0d:8000::",
+    "2405:201:900f:a92b:64d6:5a41:eed4:9dbe"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T15:46:18.045Z",
-      "ip": "182.69.181.156",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt31918578:1:2",
-      "title": "tt31918578:1:2",
-      "timestamp": "2026-01-30T15:47:28.657Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:2:5",
-      "title": "Stranger Things",
-      "timestamp": "2026-01-30T15:50:32.899Z",
-      "ip": "27.59.125.128",
-      "username": "b1jju"
-    },
     {
       "type": "series",
       "id": "tt31918578:1:3",
@@ -85884,6 +85861,30 @@
       "timestamp": "2026-02-23T03:26:17.289Z",
       "ip": "2401:4900:1ca9:45f1:a16f:9719:e98c:a2bb",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt5323298:1:1",
+      "title": "tt5323298:1:1",
+      "timestamp": "2026-02-23T03:29:38.721Z",
+      "ip": "2401:4900:1ca9:45f1:a16f:9719:e98c:a2bb",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt11041332:1:5",
+      "title": "tt11041332:1:5",
+      "timestamp": "2026-02-23T03:31:03.599Z",
+      "ip": "103.24.85.157",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-02-23T03:33:32.700Z",
+      "ip": "2405:201:900f:a92b:64d6:5a41:eed4:9dbe",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -86690,7 +86691,7 @@
       "id": "tt11041332:1:5",
       "title": "tt11041332:1:5",
       "username": "william097",
-      "lastActive": 1771817017593
+      "lastActive": 1771817463599
     },
     "49.47.153.66": {
       "type": "movie",
@@ -86708,10 +86709,10 @@
     },
     "2401:4900:1ca9:45f1:a16f:9719:e98c:a2bb": {
       "type": "series",
-      "id": "tt32590226:3:28",
-      "title": "tt32590226:3:28",
+      "id": "tt5323298:1:1",
+      "title": "tt5323298:1:1",
       "username": "nirbhay1412",
-      "lastActive": 1771817177289
+      "lastActive": 1771817378721
     },
     "2409:40c1:2038:cd0d:8000::": {
       "type": "series",
@@ -86719,6 +86720,13 @@
       "title": "The Night Agent",
       "username": "pingmenoone",
       "lastActive": 1771816678152
+    },
+    "2405:201:900f:a92b:64d6:5a41:eed4:9dbe": {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "username": "theonlyfreak",
+      "lastActive": 1771817612700
     }
   }
 }
