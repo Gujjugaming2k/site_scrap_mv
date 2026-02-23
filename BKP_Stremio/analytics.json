@@ -1,5 +1,5 @@
 {
-  "totalViews": 29340,
+  "totalViews": 29347,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5885,65 +5885,10 @@
     "2409:40c1:2038:cd0d:8000::",
     "2405:201:900f:a92b:64d6:5a41:eed4:9dbe",
     "2401:4900:ae30:dccf:1cf:7417:b9e6:b056",
-    "2409:40d0:1007:ef26:e056:e9a3:8b1f:f55b"
+    "2409:40d0:1007:ef26:e056:e9a3:8b1f:f55b",
+    "2401:4900:1ca9:45f1:512d:c90d:dcbd:34cc"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt35684868",
-      "title": "tt35684868",
-      "timestamp": "2026-01-30T15:59:06.790Z",
-      "ip": "103.24.85.19",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T15:59:40.184Z",
-      "ip": "103.24.85.19",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-30T16:01:19.913Z",
-      "ip": "103.24.85.19",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-30T16:04:42.940Z",
-      "ip": "103.24.85.19",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt28182053",
-      "title": "tt28182053",
-      "timestamp": "2026-01-30T16:08:04.600Z",
-      "ip": "103.24.85.19",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-01-30T16:08:10.169Z",
-      "ip": "103.24.85.19",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-01-30T16:10:47.100Z",
-      "ip": "2409:40c0:32:46d0:b9f6:75da:7536:5797",
-      "username": "oo0o0a0o0oo"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -85887,15 +85832,71 @@
       "timestamp": "2026-02-23T04:28:57.722Z",
       "ip": "2409:40d4:40c9:f6dc:8000::",
       "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:6",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-23T04:50:53.467Z",
+      "ip": "2409:40d4:40c9:f6dc:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:6",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-23T04:51:08.032Z",
+      "ip": "2409:40d4:40c9:f6dc:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:7",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-23T04:51:27.738Z",
+      "ip": "2409:40d4:40c9:f6dc:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:12",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-23T04:52:32.398Z",
+      "ip": "2409:40d4:40c9:f6dc:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt20234568:1:3",
+      "title": "tt20234568:1:3",
+      "timestamp": "2026-02-23T04:55:14.155Z",
+      "ip": "2401:4900:ae30:dccf:1cf:7417:b9e6:b056",
+      "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt2330927",
+      "title": "tt2330927",
+      "timestamp": "2026-02-23T04:57:48.689Z",
+      "ip": "103.24.85.157",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt14169960:1:7",
+      "title": "All of Us Are Dead",
+      "timestamp": "2026-02-23T04:58:22.584Z",
+      "ip": "2401:4900:1ca9:45f1:512d:c90d:dcbd:34cc",
+      "username": "nirbhay1412"
     }
   ],
   "activeNow": {
     "2409:40d4:40c9:f6dc:8000::": {
       "type": "series",
-      "id": "tt12343534:3:5",
+      "id": "tt12343534:3:12",
       "title": "JUJUTSU KAISEN",
       "username": "kdbotz",
-      "lastActive": 1771820937722
+      "lastActive": 1771822352398
     },
     "2409:40c0:1032:47c3:2c59:d1ff:fe6b:11d3": {
       "type": "series",
@@ -86689,11 +86690,11 @@
       "lastActive": 1771808698780
     },
     "103.24.85.157": {
-      "type": "series",
-      "id": "tt11041332:1:5",
-      "title": "tt11041332:1:5",
+      "type": "movie",
+      "id": "tt2330927",
+      "title": "tt2330927",
       "username": "william097",
-      "lastActive": 1771818353221
+      "lastActive": 1771822668689
     },
     "49.47.153.66": {
       "type": "movie",
@@ -86732,10 +86733,10 @@
     },
     "2401:4900:ae30:dccf:1cf:7417:b9e6:b056": {
       "type": "series",
-      "id": "tt20234568:1:2",
-      "title": "tt20234568:1:2",
+      "id": "tt20234568:1:3",
+      "title": "tt20234568:1:3",
       "username": "vflix1993",
-      "lastActive": 1771819768234
+      "lastActive": 1771822514155
     },
     "2409:40d0:1007:ef26:e056:e9a3:8b1f:f55b": {
       "type": "series",
@@ -86743,6 +86744,13 @@
       "title": "tt31844233",
       "username": "xlr8boiiii",
       "lastActive": 1771820664079
+    },
+    "2401:4900:1ca9:45f1:512d:c90d:dcbd:34cc": {
+      "type": "series",
+      "id": "tt14169960:1:7",
+      "title": "All of Us Are Dead",
+      "username": "nirbhay1412",
+      "lastActive": 1771822702584
     }
   }
 }
