@@ -1,5 +1,5 @@
 {
-  "totalViews": 29534,
+  "totalViews": 29536,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5932,22 +5932,6 @@
     "47.15.113.193"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33244668",
-      "title": "tt33244668",
-      "timestamp": "2026-01-31T14:12:31.687Z",
-      "ip": "2402:3a80:e6d:3773:841c:fdff:fed9:3e93",
-      "username": "surti_lala"
-    },
-    {
-      "type": "series",
-      "id": "tt8740790:4:4",
-      "title": "tt8740790:4:4",
-      "timestamp": "2026-01-31T14:14:57.547Z",
-      "ip": "2401:4900:1c63:59f1:30ff:d535:a7d1:1d29",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tmdb:301883:1:1",
@@ -85931,6 +85915,22 @@
       "timestamp": "2026-02-23T13:40:05.560Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt11375428",
+      "title": "tt11375428",
+      "timestamp": "2026-02-23T13:49:44.480Z",
+      "ip": "2401:4900:62c2:633f:b81b:e997:1857:e061",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "series",
+      "id": "tt30413044:1:1",
+      "title": "tt30413044:1:1",
+      "timestamp": "2026-02-23T13:57:25.455Z",
+      "ip": "2401:4900:1ca9:45f1:d536:570e:8031:8c80",
+      "username": "nirbhay1412"
     }
   ],
   "activeNow": {
@@ -86544,11 +86544,11 @@
       "lastActive": 1771775357337
     },
     "2401:4900:1ca9:45f1:d536:570e:8031:8c80": {
-      "type": "movie",
-      "id": "tt35146696",
-      "title": "tt35146696",
+      "type": "series",
+      "id": "tt30413044:1:1",
+      "title": "tt30413044:1:1",
       "username": "nirbhay1412",
-      "lastActive": 1771780874886
+      "lastActive": 1771855045455
     },
     "2a09:bac5:3af1:1a8c::2a5:a6": {
       "type": "series",
@@ -87087,7 +87087,7 @@
       "id": "tt11375428",
       "title": "tt11375428",
       "username": "saisrinivas",
-      "lastActive": 1771853669675
+      "lastActive": 1771854584480
     },
     "2402:a00:10a:815f:dea6:d5c:d507:7784": {
       "type": "series",
