@@ -1,5 +1,5 @@
 {
-  "totalViews": 29924,
+  "totalViews": 29926,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5988,25 +5988,10 @@
     "2401:4900:7fa9:f5f5:88eb:ac4e:df65:62aa",
     "2401:4900:57aa:9880:88eb:ac4e:df65:62aa",
     "2409:40e0:2b:81a4:b104:74e6:46d0:a338",
-    "2405:201:900f:a92b:1d9b:d3fd:6136:38b7"
+    "2405:201:900f:a92b:1d9b:d3fd:6136:38b7",
+    "2a09:bac1:36c0:10::29e:bf"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt29605391:1:2",
-      "title": "tt29605391:1:2",
-      "timestamp": "2026-02-01T20:36:51.103Z",
-      "ip": "182.77.78.99",
-      "username": "theaceofficials"
-    },
-    {
-      "type": "series",
-      "id": "tt29605391:1:1",
-      "title": "tt29605391:1:1",
-      "timestamp": "2026-02-01T20:36:54.910Z",
-      "ip": "182.77.78.99",
-      "username": "theaceofficials"
-    },
     {
       "type": "series",
       "id": "tt29605391:1:2",
@@ -85990,6 +85975,22 @@
       "timestamp": "2026-02-24T13:09:12.135Z",
       "ip": "116.68.74.159",
       "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0108778:9:22",
+      "title": "tt0108778:9:22",
+      "timestamp": "2026-02-24T13:23:47.311Z",
+      "ip": "2a09:bac1:36c0:10::29e:bf",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt1340138",
+      "title": "Terminator Genisys",
+      "timestamp": "2026-02-24T13:28:24.991Z",
+      "ip": "2409:40e4:1093:763e:e161:1aa1:5fdc:c23a",
+      "username": "askchm"
     }
   ],
   "activeNow": {
@@ -87577,10 +87578,10 @@
     },
     "2409:40e4:1093:763e:e161:1aa1:5fdc:c23a": {
       "type": "movie",
-      "id": "tt31050594",
-      "title": "tt31050594",
+      "id": "tt1340138",
+      "title": "Terminator Genisys",
       "username": "askchm",
-      "lastActive": 1771936435567
+      "lastActive": 1771939704991
     },
     "2401:4900:7fa9:f5f5:88eb:ac4e:df65:62aa": {
       "type": "series",
@@ -87609,6 +87610,13 @@
       "title": "Godzilla Minus One",
       "username": "theonlyfreak",
       "lastActive": 1771938535962
+    },
+    "2a09:bac1:36c0:10::29e:bf": {
+      "type": "series",
+      "id": "tt0108778:9:22",
+      "title": "tt0108778:9:22",
+      "username": "switchoff009",
+      "lastActive": 1771939427311
     }
   }
 }
