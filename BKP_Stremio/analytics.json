@@ -1,5 +1,5 @@
 {
-  "totalViews": 29939,
+  "totalViews": 29941,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5994,25 +5994,11 @@
     "47.15.111.5,51.89.197.91",
     "182.77.78.158",
     "2405:201:203e:b800:863f:91e7:b57c:5764",
-    "2409:40e4:200e:8d9:50ec:bbff:fe4f:1784"
+    "2409:40e4:200e:8d9:50ec:bbff:fe4f:1784",
+    "2405:201:203e:b800:6c65:1bcb:87e4:5b31",
+    "2409:40e4:1093:763e:65a8:6425:ee77:6f4e"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31938062:1:3",
-      "title": "tt31938062:1:3",
-      "timestamp": "2026-02-01T22:14:28.814Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:1:4",
-      "title": "tt31938062:1:4",
-      "timestamp": "2026-02-01T22:14:48.793Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt31974288:1:1",
@@ -85996,6 +85982,22 @@
       "timestamp": "2026-02-24T14:30:09.025Z",
       "ip": "2409:40e4:200e:8d9:50ec:bbff:fe4f:1784",
       "username": "ig_sirmour"
+    },
+    {
+      "type": "movie",
+      "id": "tt0116695",
+      "title": "Jerry Maguire",
+      "timestamp": "2026-02-24T14:39:51.102Z",
+      "ip": "2405:201:203e:b800:6c65:1bcb:87e4:5b31",
+      "username": "ujas"
+    },
+    {
+      "type": "movie",
+      "id": "tt28961625",
+      "title": "tt28961625",
+      "timestamp": "2026-02-24T14:48:43.559Z",
+      "ip": "2409:40e4:1093:763e:65a8:6425:ee77:6f4e",
+      "username": "adshoyi"
     }
   ],
   "activeNow": {
@@ -87657,6 +87659,20 @@
       "title": "Titanic",
       "username": "ig_sirmour",
       "lastActive": 1771943409025
+    },
+    "2405:201:203e:b800:6c65:1bcb:87e4:5b31": {
+      "type": "movie",
+      "id": "tt0116695",
+      "title": "Jerry Maguire",
+      "username": "ujas",
+      "lastActive": 1771943991102
+    },
+    "2409:40e4:1093:763e:65a8:6425:ee77:6f4e": {
+      "type": "movie",
+      "id": "tt28961625",
+      "title": "tt28961625",
+      "username": "adshoyi",
+      "lastActive": 1771944523559
     }
   }
 }
