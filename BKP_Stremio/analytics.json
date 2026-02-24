@@ -1,5 +1,5 @@
 {
-  "totalViews": 29834,
+  "totalViews": 29835,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5972,14 +5972,6 @@
     "2401:4900:74d5:8f32:5990:6b58:cf4e:1d70"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0460649:5:8",
-      "title": "tt0460649:5:8",
-      "timestamp": "2026-02-01T16:19:42.660Z",
-      "ip": "2a09:bac1:36a0:5e98::49b:23",
-      "username": "demon18319"
-    },
     {
       "type": "movie",
       "id": "tt0167260",
@@ -85971,6 +85963,14 @@
       "timestamp": "2026-02-24T08:56:51.168Z",
       "ip": "103.24.85.157",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt8879928",
+      "title": "tt8879928",
+      "timestamp": "2026-02-24T09:10:03.751Z",
+      "ip": "2401:4900:1ca9:45f1:d536:570e:8031:8c80",
+      "username": "nirbhay1412"
     }
   ],
   "activeNow": {
@@ -86585,10 +86585,10 @@
     },
     "2401:4900:1ca9:45f1:d536:570e:8031:8c80": {
       "type": "movie",
-      "id": "tt33603921",
-      "title": "tt33603921",
+      "id": "tt8879928",
+      "title": "tt8879928",
       "username": "nirbhay1412",
-      "lastActive": 1771859744579
+      "lastActive": 1771924203751
     },
     "2a09:bac5:3af1:1a8c::2a5:a6": {
       "type": "series",
