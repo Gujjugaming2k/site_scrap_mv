@@ -1,5 +1,5 @@
 {
-  "totalViews": 30108,
+  "totalViews": 30116,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6017,70 +6017,6 @@
     "47.15.84.118,51.89.197.91"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-02-02T07:33:21.817Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-02-02T07:33:42.336Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
-      "timestamp": "2026-02-02T07:33:43.461Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-02-02T07:34:03.165Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-02-02T07:34:10.374Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:4",
-      "title": "Stranger Things",
-      "timestamp": "2026-02-02T07:34:30.448Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:4",
-      "title": "Stranger Things",
-      "timestamp": "2026-02-02T07:35:10.487Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-02-02T07:35:20.834Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:5",
@@ -86016,6 +85952,70 @@
       "timestamp": "2026-02-24T19:18:11.612Z",
       "ip": "103.99.196.121",
       "username": "opuser75"
+    },
+    {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "timestamp": "2026-02-24T19:18:21.214Z",
+      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt0816436",
+      "title": "tt0816436",
+      "timestamp": "2026-02-24T19:18:41.466Z",
+      "ip": "103.99.196.121",
+      "username": "opuser75"
+    },
+    {
+      "type": "movie",
+      "id": "tt0816436",
+      "title": "tt0816436",
+      "timestamp": "2026-02-24T19:21:19.581Z",
+      "ip": "103.99.196.121",
+      "username": "opuser75"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:3:1",
+      "title": "tt0903747:3:1",
+      "timestamp": "2026-02-24T19:21:45.186Z",
+      "ip": "103.249.4.57",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:3:2",
+      "title": "tt0903747:3:2",
+      "timestamp": "2026-02-24T19:24:26.478Z",
+      "ip": "103.249.4.57",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:3:2",
+      "title": "tt0903747:3:2",
+      "timestamp": "2026-02-24T19:25:10.469Z",
+      "ip": "103.249.4.57",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:3:1",
+      "title": "tt0903747:3:1",
+      "timestamp": "2026-02-24T19:25:16.464Z",
+      "ip": "103.249.4.57",
+      "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt31969779",
+      "title": "tt31969779",
+      "timestamp": "2026-02-24T19:33:13.350Z",
+      "ip": "45.118.158.79",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -86084,10 +86084,10 @@
     },
     "103.249.4.57": {
       "type": "series",
-      "id": "tt0903747:2:13",
-      "title": "tt0903747:2:13",
+      "id": "tt0903747:3:1",
+      "title": "tt0903747:3:1",
       "username": "tgh2r",
-      "lastActive": 1771958273394
+      "lastActive": 1771961116464
     },
     "146.196.34.234": {
       "type": "series",
@@ -87277,7 +87277,7 @@
       "id": "tt0816436",
       "title": "tt0816436",
       "username": "opuser75",
-      "lastActive": 1771960691612
+      "lastActive": 1771960879581
     },
     "117.235.151.31": {
       "type": "movie",
@@ -87721,11 +87721,11 @@
       "lastActive": 1771948773226
     },
     "45.118.158.79": {
-      "type": "series",
-      "id": "tt27497448:1:6",
-      "title": "tt27497448:1:6",
+      "type": "movie",
+      "id": "tt31969779",
+      "title": "tt31969779",
       "username": "gaendaswami",
-      "lastActive": 1771959383266
+      "lastActive": 1771961593350
     },
     "2409:40c0:103e:dc83:d80e:3d79:16f0:46f8": {
       "type": "series",
@@ -87824,6 +87824,13 @@
       "title": "The Nun II",
       "username": "bk18",
       "lastActive": 1771959747809
+    },
+    "2405:201:300c:213:1ef4:3fff:fe0f:1b78": {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "username": "gendaswammy",
+      "lastActive": 1771960701214
     }
   }
 }
