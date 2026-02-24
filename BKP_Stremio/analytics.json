@@ -1,5 +1,5 @@
 {
-  "totalViews": 29926,
+  "totalViews": 29933,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5989,65 +5989,12 @@
     "2401:4900:57aa:9880:88eb:ac4e:df65:62aa",
     "2409:40e0:2b:81a4:b104:74e6:46d0:a338",
     "2405:201:900f:a92b:1d9b:d3fd:6136:38b7",
-    "2a09:bac1:36c0:10::29e:bf"
+    "2a09:bac1:36c0:10::29e:bf",
+    "47.15.111.5",
+    "47.15.111.5,51.89.197.91",
+    "182.77.78.158"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt29605391:1:2",
-      "title": "tt29605391:1:2",
-      "timestamp": "2026-02-01T20:37:01.617Z",
-      "ip": "182.77.78.99",
-      "username": "theaceofficials"
-    },
-    {
-      "type": "series",
-      "id": "tt29605391:1:1",
-      "title": "tt29605391:1:1",
-      "timestamp": "2026-02-01T20:37:05.375Z",
-      "ip": "182.77.78.99",
-      "username": "theaceofficials"
-    },
-    {
-      "type": "series",
-      "id": "tt13911284:1:1",
-      "title": "tt13911284:1:1",
-      "timestamp": "2026-02-01T21:13:31.123Z",
-      "ip": "182.77.78.99",
-      "username": "theaceofficials"
-    },
-    {
-      "type": "series",
-      "id": "tt29605391:1:1",
-      "title": "tt29605391:1:1",
-      "timestamp": "2026-02-01T21:14:12.394Z",
-      "ip": "182.77.78.99",
-      "username": "theaceofficials"
-    },
-    {
-      "type": "series",
-      "id": "tt12590266:1:1",
-      "title": "tt12590266:1:1",
-      "timestamp": "2026-02-01T21:17:15.719Z",
-      "ip": "182.77.78.99",
-      "username": "theaceofficials"
-    },
-    {
-      "type": "series",
-      "id": "tt12590266:1:1",
-      "title": "tt12590266:1:1",
-      "timestamp": "2026-02-01T21:17:39.733Z",
-      "ip": "182.77.78.99",
-      "username": "theaceofficials"
-    },
-    {
-      "type": "series",
-      "id": "tt12590266:1:1",
-      "title": "tt12590266:1:1",
-      "timestamp": "2026-02-01T21:18:03.028Z",
-      "ip": "182.77.78.99",
-      "username": "theaceofficials"
-    },
     {
       "type": "series",
       "id": "tt31938062:1:1",
@@ -85991,6 +85938,62 @@
       "timestamp": "2026-02-24T13:28:24.991Z",
       "ip": "2409:40e4:1093:763e:e161:1aa1:5fdc:c23a",
       "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt0119643",
+      "title": "Meet Joe Black",
+      "timestamp": "2026-02-24T13:38:03.843Z",
+      "ip": "2409:40e4:1093:763e:e161:1aa1:5fdc:c23a",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-02-24T13:42:23.713Z",
+      "ip": "2409:40e4:1093:763e:e161:1aa1:5fdc:c23a",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt5140878",
+      "title": "Annabelle: Creation",
+      "timestamp": "2026-02-24T13:42:27.418Z",
+      "ip": "47.15.111.5",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt5140878",
+      "title": "Annabelle: Creation",
+      "timestamp": "2026-02-24T13:42:28.336Z",
+      "ip": "47.15.111.5,51.89.197.91",
+      "username": "bk18"
+    },
+    {
+      "type": "movie",
+      "id": "tt5140878",
+      "title": "Annabelle: Creation",
+      "timestamp": "2026-02-24T13:50:07.113Z",
+      "ip": "47.15.111.5",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt5140878",
+      "title": "Annabelle: Creation",
+      "timestamp": "2026-02-24T13:50:07.974Z",
+      "ip": "47.15.111.5,51.89.197.91",
+      "username": "bk18"
+    },
+    {
+      "type": "movie",
+      "id": "tt1049413",
+      "title": "Up",
+      "timestamp": "2026-02-24T13:50:57.532Z",
+      "ip": "182.77.78.158",
+      "username": "nabakun24"
     }
   ],
   "activeNow": {
@@ -87578,10 +87581,10 @@
     },
     "2409:40e4:1093:763e:e161:1aa1:5fdc:c23a": {
       "type": "movie",
-      "id": "tt1340138",
-      "title": "Terminator Genisys",
+      "id": "tt16311594",
+      "title": "F1",
       "username": "askchm",
-      "lastActive": 1771939704991
+      "lastActive": 1771940543713
     },
     "2401:4900:7fa9:f5f5:88eb:ac4e:df65:62aa": {
       "type": "series",
@@ -87617,6 +87620,27 @@
       "title": "tt0108778:9:22",
       "username": "switchoff009",
       "lastActive": 1771939427311
+    },
+    "47.15.111.5": {
+      "type": "movie",
+      "id": "tt5140878",
+      "title": "Annabelle: Creation",
+      "username": "golu_vk",
+      "lastActive": 1771941007113
+    },
+    "47.15.111.5,51.89.197.91": {
+      "type": "movie",
+      "id": "tt5140878",
+      "title": "Annabelle: Creation",
+      "username": "bk18",
+      "lastActive": 1771941007974
+    },
+    "182.77.78.158": {
+      "type": "movie",
+      "id": "tt1049413",
+      "title": "Up",
+      "username": "nabakun24",
+      "lastActive": 1771941057532
     }
   }
 }
