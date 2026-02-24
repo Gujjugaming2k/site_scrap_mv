@@ -1,5 +1,5 @@
 {
-  "totalViews": 29920,
+  "totalViews": 29924,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5991,38 +5991,6 @@
     "2405:201:900f:a92b:1d9b:d3fd:6136:38b7"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt9813792:1:1",
-      "title": "tt9813792:1:1",
-      "timestamp": "2026-02-01T20:32:02.735Z",
-      "ip": "182.77.78.99",
-      "username": "theaceofficials"
-    },
-    {
-      "type": "series",
-      "id": "tt10919420:3:3",
-      "title": "tt10919420:3:3",
-      "timestamp": "2026-02-01T20:32:05.202Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt29605391:1:1",
-      "title": "tt29605391:1:1",
-      "timestamp": "2026-02-01T20:36:15.936Z",
-      "ip": "182.77.78.99",
-      "username": "theaceofficials"
-    },
-    {
-      "type": "series",
-      "id": "tt29605391:1:1",
-      "title": "tt29605391:1:1",
-      "timestamp": "2026-02-01T20:36:38.810Z",
-      "ip": "182.77.78.99",
-      "username": "theaceofficials"
-    },
     {
       "type": "series",
       "id": "tt29605391:1:2",
@@ -85990,6 +85958,38 @@
       "timestamp": "2026-02-24T13:03:25.519Z",
       "ip": "2405:201:900f:a92b:1d9b:d3fd:6136:38b7",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-24T13:06:04.805Z",
+      "ip": "103.99.196.121",
+      "username": "opuser75"
+    },
+    {
+      "type": "movie",
+      "id": "tt7581572",
+      "title": "tt7581572",
+      "timestamp": "2026-02-24T13:07:44.336Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt23289160",
+      "title": "Godzilla Minus One",
+      "timestamp": "2026-02-24T13:08:55.962Z",
+      "ip": "2405:201:900f:a92b:1d9b:d3fd:6136:38b7",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt7581572",
+      "title": "tt7581572",
+      "timestamp": "2026-02-24T13:09:12.135Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -86023,10 +86023,10 @@
     },
     "116.68.74.159": {
       "type": "movie",
-      "id": "tt32362695",
-      "title": "tt32362695",
+      "id": "tt7581572",
+      "title": "tt7581572",
       "username": "aravindsivan",
-      "lastActive": 1771938114408
+      "lastActive": 1771938552135
     },
     "103.162.158.146": {
       "type": "movie",
@@ -87247,11 +87247,11 @@
       "lastActive": 1771866061617
     },
     "103.99.196.121": {
-      "type": "series",
-      "id": "tt0988818:1:1",
-      "title": "tt0988818:1:1",
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
       "username": "opuser75",
-      "lastActive": 1771882050934
+      "lastActive": 1771938364805
     },
     "117.235.151.31": {
       "type": "movie",
@@ -87608,7 +87608,7 @@
       "id": "tt23289160",
       "title": "Godzilla Minus One",
       "username": "theonlyfreak",
-      "lastActive": 1771938205519
+      "lastActive": 1771938535962
     }
   }
 }
