@@ -1,5 +1,5 @@
 {
-  "totalViews": 30005,
+  "totalViews": 30011,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6007,57 +6007,10 @@
     "2409:40d4:1078:757e:8000::",
     "2406:b400:1a:8f37:a27:a8ff:fe42:855e",
     "2406:b400:1a:8f37:b4c2:d3ae:62d5:1d2d",
-    "2409:40c0:101f:a0f9:749c:4d9a:21ea:cd89"
+    "2409:40c0:101f:a0f9:749c:4d9a:21ea:cd89",
+    "103.170.53.222"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-02T05:01:01.494Z",
-      "ip": "103.46.200.212",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "series",
-      "id": "tt31844233:1:6",
-      "title": "tt31844233:1:6",
-      "timestamp": "2026-02-02T05:02:38.369Z",
-      "ip": "2401:4900:1cb2:f1f4:b462:1c8c:d71d:9e8b",
-      "username": "saisrinivas"
-    },
-    {
-      "type": "series",
-      "id": "tt31844233:1:6",
-      "title": "tt31844233:1:6",
-      "timestamp": "2026-02-02T05:02:38.467Z",
-      "ip": "2401:4900:1cb2:f1f4:b462:1c8c:d71d:9e8b",
-      "username": "saisrinivas"
-    },
-    {
-      "type": "series",
-      "id": "tt13433812:1:11",
-      "title": "Vincenzo",
-      "timestamp": "2026-02-02T05:14:07.358Z",
-      "ip": "2401:4900:8833:cecd:e4b2:fdc8:a251:576c",
-      "username": "theaceofficials"
-    },
-    {
-      "type": "movie",
-      "id": "tt1314652",
-      "title": "tt1314652",
-      "timestamp": "2026-02-02T05:34:58.983Z",
-      "ip": "103.46.200.212",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt15887102",
-      "title": "tt15887102",
-      "timestamp": "2026-02-02T05:35:05.228Z",
-      "ip": "103.46.200.212",
-      "username": "katdenningssss"
-    },
     {
       "type": "movie",
       "id": "tt5860084",
@@ -86009,6 +85962,54 @@
       "timestamp": "2026-02-24T16:41:30.915Z",
       "ip": "202.173.124.219",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:10",
+      "title": "tt30003786:4:10",
+      "timestamp": "2026-02-24T16:56:08.599Z",
+      "ip": "103.170.53.222",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "timestamp": "2026-02-24T16:56:47.291Z",
+      "ip": "103.170.53.222",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:10",
+      "title": "tt30003786:4:10",
+      "timestamp": "2026-02-24T16:56:57.793Z",
+      "ip": "103.170.53.222",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "timestamp": "2026-02-24T16:57:05.253Z",
+      "ip": "103.170.53.222",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt6450804",
+      "title": "Terminator: Dark Fate",
+      "timestamp": "2026-02-24T16:57:17.897Z",
+      "ip": "103.99.196.80",
+      "username": "opuser75"
+    },
+    {
+      "type": "movie",
+      "id": "tt0438488",
+      "title": "Terminator Salvation",
+      "timestamp": "2026-02-24T16:57:19.050Z",
+      "ip": "103.99.196.80",
+      "username": "opuser75"
     }
   ],
   "activeNow": {
@@ -86791,10 +86792,10 @@
     },
     "103.99.196.80": {
       "type": "movie",
-      "id": "tt0103064",
-      "title": "Terminator 2: Judgment Day",
+      "id": "tt0438488",
+      "title": "Terminator Salvation",
       "username": "opuser75",
-      "lastActive": 1771950322899
+      "lastActive": 1771952239050
     },
     "2402:8100:2ca1:af05:b298:9dec:29a7:6647": {
       "type": "series",
@@ -87761,6 +87762,13 @@
       "title": "tt27543632",
       "username": "anonymous050100",
       "lastActive": 1771951049418
+    },
+    "103.170.53.222": {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "username": "gaendaswami",
+      "lastActive": 1771952225253
     }
   }
 }
