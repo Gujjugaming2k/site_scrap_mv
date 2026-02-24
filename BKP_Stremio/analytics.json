@@ -1,5 +1,5 @@
 {
-  "totalViews": 29751,
+  "totalViews": 29758,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5963,65 +5963,11 @@
     "2402:a00:10a:815f:6ccf:d893:7875:99d9",
     "2001:4490:444d:cd60:bce2:4d4e:6944:34f7",
     "2405:201:5502:5c18:e12c:8bc:faf0:1853",
-    "2409:40e1:495:745d:8000::"
+    "2409:40e1:495:745d:8000::",
+    "182.77.77.70",
+    "2401:4900:1c0b:1e04:6b43:3125:c03d:8b1d"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-02-01T13:37:51.151Z",
-      "ip": "103.181.65.63",
-      "username": "mutti9"
-    },
-    {
-      "type": "movie",
-      "id": "tt0053604",
-      "title": "tt0053604",
-      "timestamp": "2026-02-01T13:38:14.535Z",
-      "ip": "103.181.65.63",
-      "username": "mutti9"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-01T13:38:51.336Z",
-      "ip": "103.181.65.63",
-      "username": "mutti9"
-    },
-    {
-      "type": "movie",
-      "id": "tt26234108",
-      "title": "tt26234108",
-      "timestamp": "2026-02-01T13:42:44.899Z",
-      "ip": "103.181.65.63",
-      "username": "mutti9"
-    },
-    {
-      "type": "movie",
-      "id": "tt33244668",
-      "title": "tt33244668",
-      "timestamp": "2026-02-01T13:42:56.114Z",
-      "ip": "103.46.200.35",
-      "username": "brosportses"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-02-01T13:43:56.699Z",
-      "ip": "2402:8100:2778:a8b5:3916:6ac6:6b0b:dc98",
-      "username": "sat5d"
-    },
-    {
-      "type": "movie",
-      "id": "tt13287846",
-      "title": "Napoleon",
-      "timestamp": "2026-02-01T13:44:01.682Z",
-      "ip": "103.181.65.63",
-      "username": "mutti9"
-    },
     {
       "type": "movie",
       "id": "tt35684868",
@@ -85965,6 +85911,62 @@
       "timestamp": "2026-02-24T06:57:47.765Z",
       "ip": "202.173.124.219",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt3613454:1:3",
+      "title": "tt3613454:1:3",
+      "timestamp": "2026-02-24T07:27:43.087Z",
+      "ip": "202.173.124.219",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt3613454:1:4",
+      "title": "tt3613454:1:4",
+      "timestamp": "2026-02-24T07:28:25.089Z",
+      "ip": "202.173.124.219",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt2543164",
+      "title": "Arrival",
+      "timestamp": "2026-02-24T07:30:10.399Z",
+      "ip": "2001:4490:444d:cd60:bce2:4d4e:6944:34f7",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt8289930:1:1",
+      "title": "tt8289930:1:1",
+      "timestamp": "2026-02-24T07:35:05.663Z",
+      "ip": "182.77.77.70",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt15574124",
+      "title": "tt15574124",
+      "timestamp": "2026-02-24T07:35:31.228Z",
+      "ip": "182.77.77.70",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-24T07:40:15.418Z",
+      "ip": "2401:4900:1c0b:1e04:6b43:3125:c03d:8b1d",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt13911284:1:1",
+      "title": "tt13911284:1:1",
+      "timestamp": "2026-02-24T07:40:46.162Z",
+      "ip": "2401:4900:1c0b:1e04:6b43:3125:c03d:8b1d",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -86229,10 +86231,10 @@
     },
     "202.173.124.219": {
       "type": "series",
-      "id": "tt3613454:1:2",
-      "title": "tt3613454:1:2",
+      "id": "tt3613454:1:4",
+      "title": "tt3613454:1:4",
       "username": "ryuzaklo26",
-      "lastActive": 1771916267765
+      "lastActive": 1771918105089
     },
     "2a02:cb80:4078:3333:4b8:2e9f:99d6:2d9e": {
       "type": "series",
@@ -87373,7 +87375,7 @@
       "id": "tt2543164",
       "title": "Arrival",
       "username": "zealousninja",
-      "lastActive": 1771914775033
+      "lastActive": 1771918210399
     },
     "2405:201:5502:5c18:e12c:8bc:faf0:1853": {
       "type": "series",
@@ -87388,6 +87390,20 @@
       "title": "tt0903747:2:13",
       "username": "tgh2r",
       "lastActive": 1771914855559
+    },
+    "182.77.77.70": {
+      "type": "movie",
+      "id": "tt15574124",
+      "title": "tt15574124",
+      "username": "theaceofficials",
+      "lastActive": 1771918531228
+    },
+    "2401:4900:1c0b:1e04:6b43:3125:c03d:8b1d": {
+      "type": "series",
+      "id": "tt13911284:1:1",
+      "title": "tt13911284:1:1",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1771918846162
     }
   }
 }
