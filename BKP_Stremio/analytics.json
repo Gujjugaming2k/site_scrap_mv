@@ -1,5 +1,5 @@
 {
-  "totalViews": 29697,
+  "totalViews": 29702,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5954,49 +5954,11 @@
     "2401:4900:8f71:5b3c:e844:758b:51b3:a06a",
     "2409:40e4:10a9:8171:65a8:6425:ee77:6f4e",
     "2401:4900:8824:eeee:153d:282c:6011:7a41",
-    "2409:40e4:10a9:8171:1866:8753:3d75:c41"
+    "2409:40e4:10a9:8171:1866:8753:3d75:c41",
+    "2405:201:200d:906b:a8ad:5852:9ad1:fc0d",
+    "2401:4900:62dc:4d7e:bb8d:bf70:c36d:c538"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:4",
-      "title": "tt35335046:1:4",
-      "timestamp": "2026-02-01T09:15:30.021Z",
-      "ip": "2401:4900:8ffe:bb3d:c8f0:2d2a:a8a8:a4e7",
-      "username": "lazerkey"
-    },
-    {
-      "type": "series",
-      "id": "tt14186672:2:1",
-      "title": "tt14186672:2:1",
-      "timestamp": "2026-02-01T09:27:19.717Z",
-      "ip": "2401:4900:57d9:396b:c8bc:25ff:fe9c:dd07",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:3",
-      "title": "tt35335046:1:3",
-      "timestamp": "2026-02-01T09:28:32.254Z",
-      "ip": "2401:4900:8ffe:bb3d:c8f0:2d2a:a8a8:a4e7",
-      "username": "lazerkey"
-    },
-    {
-      "type": "movie",
-      "id": "tt32362695",
-      "title": "tt32362695",
-      "timestamp": "2026-02-01T09:35:57.851Z",
-      "ip": "103.177.252.86",
-      "username": "babybloom1"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-01T09:43:17.219Z",
-      "ip": "2001:4490:488d:c1fd:47d:e26d:f12f:e0b2",
-      "username": "itsdoom50"
-    },
     {
       "type": "movie",
       "id": "tt31193180",
@@ -85956,6 +85918,46 @@
       "timestamp": "2026-02-24T03:47:24.472Z",
       "ip": "2401:4900:8824:eeee:153d:282c:6011:7a41",
       "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt31474349",
+      "title": "tt31474349",
+      "timestamp": "2026-02-24T03:48:33.945Z",
+      "ip": "2405:201:200d:906b:a8ad:5852:9ad1:fc0d",
+      "username": "kulu007"
+    },
+    {
+      "type": "movie",
+      "id": "tt2820852",
+      "title": "Furious 7",
+      "timestamp": "2026-02-24T03:48:43.404Z",
+      "ip": "2409:40e4:10a9:8171:1866:8753:3d75:c41",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt31474349",
+      "title": "tt31474349",
+      "timestamp": "2026-02-24T03:50:11.356Z",
+      "ip": "2405:201:200d:906b:a8ad:5852:9ad1:fc0d",
+      "username": "kulu007"
+    },
+    {
+      "type": "movie",
+      "id": "tt36388163",
+      "title": "tt36388163",
+      "timestamp": "2026-02-24T03:59:23.566Z",
+      "ip": "2401:4900:62dc:4d7e:bb8d:bf70:c36d:c538",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "series",
+      "id": "tt11041332:1:9",
+      "title": "tt11041332:1:9",
+      "timestamp": "2026-02-24T04:02:52.828Z",
+      "ip": "2a10:484:3:1::13",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -87301,7 +87303,7 @@
       "id": "tt11041332:1:9",
       "title": "tt11041332:1:9",
       "username": "william097",
-      "lastActive": 1771903823637
+      "lastActive": 1771905772828
     },
     "2401:4900:8824:eeee:153d:282c:6011:7a41": {
       "type": "movie",
@@ -87312,10 +87314,24 @@
     },
     "2409:40e4:10a9:8171:1866:8753:3d75:c41": {
       "type": "movie",
-      "id": "tt1340138",
-      "title": "Terminator Genisys",
+      "id": "tt2820852",
+      "title": "Furious 7",
       "username": "askchm",
-      "lastActive": 1771904559137
+      "lastActive": 1771904923404
+    },
+    "2405:201:200d:906b:a8ad:5852:9ad1:fc0d": {
+      "type": "movie",
+      "id": "tt31474349",
+      "title": "tt31474349",
+      "username": "kulu007",
+      "lastActive": 1771905011356
+    },
+    "2401:4900:62dc:4d7e:bb8d:bf70:c36d:c538": {
+      "type": "movie",
+      "id": "tt36388163",
+      "title": "tt36388163",
+      "username": "saisrinivas",
+      "lastActive": 1771905563566
     }
   }
 }
