@@ -1,5 +1,5 @@
 {
-  "totalViews": 29935,
+  "totalViews": 29936,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5996,14 +5996,6 @@
     "2405:201:203e:b800:863f:91e7:b57c:5764"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31938062:1:2",
-      "title": "tt31938062:1:2",
-      "timestamp": "2026-02-01T22:14:05.218Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt31938062:1:2",
@@ -85995,6 +85987,14 @@
       "timestamp": "2026-02-24T14:04:15.549Z",
       "ip": "182.77.78.158",
       "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-24T14:21:01.138Z",
+      "ip": "2409:40d4:4005:d36e:8000::",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -87238,11 +87238,11 @@
       "lastActive": 1771865004735
     },
     "2409:40d4:4005:d36e:8000::": {
-      "type": "series",
-      "id": "tt21209804:3:1",
-      "title": "tt21209804:3:1",
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "kdbotz",
-      "lastActive": 1771919537275
+      "lastActive": 1771942861138
     },
     "2a02:9b0:106:4496:4488:13e6:dc70:689c": {
       "type": "series",
