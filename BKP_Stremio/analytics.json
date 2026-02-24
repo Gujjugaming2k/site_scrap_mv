@@ -1,5 +1,5 @@
 {
-  "totalViews": 29702,
+  "totalViews": 29703,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5956,17 +5956,10 @@
     "2401:4900:8824:eeee:153d:282c:6011:7a41",
     "2409:40e4:10a9:8171:1866:8753:3d75:c41",
     "2405:201:200d:906b:a8ad:5852:9ad1:fc0d",
-    "2401:4900:62dc:4d7e:bb8d:bf70:c36d:c538"
+    "2401:4900:62dc:4d7e:bb8d:bf70:c36d:c538",
+    "2405:201:2033:841:5c8f:7c13:d44c:6fe7"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-02-01T09:45:10.940Z",
-      "ip": "2001:4490:488d:c1fd:47d:e26d:f12f:e0b2",
-      "username": "itsdoom50"
-    },
     {
       "type": "series",
       "id": "tt30293074:1:1",
@@ -85958,6 +85951,14 @@
       "timestamp": "2026-02-24T04:02:52.828Z",
       "ip": "2a10:484:3:1::13",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt18312380",
+      "title": "Primitive War",
+      "timestamp": "2026-02-24T04:07:58.961Z",
+      "ip": "2405:201:2033:841:5c8f:7c13:d44c:6fe7",
+      "username": "surti_lala"
     }
   ],
   "activeNow": {
@@ -87332,6 +87333,13 @@
       "title": "tt36388163",
       "username": "saisrinivas",
       "lastActive": 1771905563566
+    },
+    "2405:201:2033:841:5c8f:7c13:d44c:6fe7": {
+      "type": "movie",
+      "id": "tt18312380",
+      "title": "Primitive War",
+      "username": "surti_lala",
+      "lastActive": 1771906078961
     }
   }
 }
