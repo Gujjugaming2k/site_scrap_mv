@@ -1,5 +1,5 @@
 {
-  "totalViews": 29708,
+  "totalViews": 29712,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5958,41 +5958,10 @@
     "2405:201:200d:906b:a8ad:5852:9ad1:fc0d",
     "2401:4900:62dc:4d7e:bb8d:bf70:c36d:c538",
     "2405:201:2033:841:5c8f:7c13:d44c:6fe7",
-    "152.59.142.231"
+    "152.59.142.231",
+    "2401:4900:1ca9:45f1:a161:50b9:fc8d:8179"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-02-01T10:03:22.090Z",
-      "ip": "150.107.232.108",
-      "username": "jamesbond_pistolman"
-    },
-    {
-      "type": "series",
-      "id": "tt12004706:3:1",
-      "title": "tt12004706:3:1",
-      "timestamp": "2026-02-01T10:07:41.255Z",
-      "ip": "2001:4490:4851:bdd5:b599:2e78:5aa3:54a9",
-      "username": "wikramsingh4268"
-    },
-    {
-      "type": "series",
-      "id": "tt12004706:4:1",
-      "title": "tt12004706:4:1",
-      "timestamp": "2026-02-01T10:08:01.454Z",
-      "ip": "2001:4490:4851:bdd5:b599:2e78:5aa3:54a9",
-      "username": "wikramsingh4268"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-01T10:13:21.610Z",
-      "ip": "2406:b400:1a:e8bc:a27:a8ff:fe42:855e",
-      "username": "nothingokk"
-    },
     {
       "type": "movie",
       "id": "tt10648342",
@@ -85960,6 +85929,38 @@
       "timestamp": "2026-02-24T04:44:13.245Z",
       "ip": "152.59.142.231",
       "username": "adshoyi"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:7:18",
+      "title": "tt0412142:7:18",
+      "timestamp": "2026-02-24T04:54:23.048Z",
+      "ip": "49.204.194.62",
+      "username": "telegram"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:1:1",
+      "title": "The Night Agent",
+      "timestamp": "2026-02-24T04:57:43.348Z",
+      "ip": "2401:4900:1ca9:45f1:a161:50b9:fc8d:8179",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:1:1",
+      "title": "The Night Agent",
+      "timestamp": "2026-02-24T04:58:31.050Z",
+      "ip": "2401:4900:1ca9:45f1:a161:50b9:fc8d:8179",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:1:1",
+      "title": "The Night Agent",
+      "timestamp": "2026-02-24T05:02:49.543Z",
+      "ip": "2401:4900:1ca9:45f1:a161:50b9:fc8d:8179",
+      "username": "nirbhay1412"
     }
   ],
   "activeNow": {
@@ -86713,11 +86714,11 @@
       "lastActive": 1771784973694
     },
     "49.204.194.62": {
-      "type": "movie",
-      "id": "tt1700841",
-      "title": "tt1700841",
+      "type": "series",
+      "id": "tt0412142:7:18",
+      "title": "tt0412142:7:18",
       "username": "telegram",
-      "lastActive": 1771785764928
+      "lastActive": 1771908863048
     },
     "2409:40f0:26:a8a8:dc6b:a2ff:fe4e:924f": {
       "type": "movie",
@@ -87348,6 +87349,13 @@
       "title": "tt39137681:1:11",
       "username": "adshoyi",
       "lastActive": 1771908253245
+    },
+    "2401:4900:1ca9:45f1:a161:50b9:fc8d:8179": {
+      "type": "series",
+      "id": "tt13918776:1:1",
+      "title": "The Night Agent",
+      "username": "nirbhay1412",
+      "lastActive": 1771909369543
     }
   }
 }
