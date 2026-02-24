@@ -1,5 +1,5 @@
 {
-  "totalViews": 29837,
+  "totalViews": 29839,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5969,25 +5969,10 @@
     "2401:4900:883c:f3ed:114c:4ef7:2594:f97a",
     "2a02:9b0:106:4496:695e:2b8d:862d:9a6b",
     "122.181.194.62",
-    "2401:4900:74d5:8f32:5990:6b58:cf4e:1d70"
+    "2401:4900:74d5:8f32:5990:6b58:cf4e:1d70",
+    "2401:4900:1c0b:1e04:e432:bf0c:fe62:316"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0460649:5:9",
-      "title": "tt0460649:5:9",
-      "timestamp": "2026-02-01T16:28:01.808Z",
-      "ip": "2a09:bac1:36a0:5e98::49b:23",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt36593026:1:2",
-      "title": "tt36593026:1:2",
-      "timestamp": "2026-02-01T16:29:19.234Z",
-      "ip": "2406:b400:1a:e8bc:a27:a8ff:fe42:855e",
-      "username": "nothingokk"
-    },
     {
       "type": "series",
       "id": "tt36593026:1:2",
@@ -85971,6 +85956,22 @@
       "timestamp": "2026-02-24T09:19:20.123Z",
       "ip": "2401:4900:74d5:8f32:5990:6b58:cf4e:1d70",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt0097165",
+      "title": "tt0097165",
+      "timestamp": "2026-02-24T09:30:42.747Z",
+      "ip": "2401:4900:1c0b:1e04:e432:bf0c:fe62:316",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt4154756",
+      "title": "Avengers: Infinity War",
+      "timestamp": "2026-02-24T09:36:20.827Z",
+      "ip": "2401:4900:74d5:8f32:5990:6b58:cf4e:1d70",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -87431,11 +87432,18 @@
       "lastActive": 1771922926386
     },
     "2401:4900:74d5:8f32:5990:6b58:cf4e:1d70": {
-      "type": "series",
-      "id": "tt0227972:28:8",
-      "title": "WWE SmackDown",
+      "type": "movie",
+      "id": "tt4154756",
+      "title": "Avengers: Infinity War",
       "username": "william097",
-      "lastActive": 1771924760123
+      "lastActive": 1771925780827
+    },
+    "2401:4900:1c0b:1e04:e432:bf0c:fe62:316": {
+      "type": "movie",
+      "id": "tt0097165",
+      "title": "tt0097165",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1771925442747
     }
   }
 }
