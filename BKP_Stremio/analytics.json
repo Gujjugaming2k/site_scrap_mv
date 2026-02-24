@@ -1,5 +1,5 @@
 {
-  "totalViews": 29936,
+  "totalViews": 29939,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5993,33 +5993,10 @@
     "47.15.111.5",
     "47.15.111.5,51.89.197.91",
     "182.77.78.158",
-    "2405:201:203e:b800:863f:91e7:b57c:5764"
+    "2405:201:203e:b800:863f:91e7:b57c:5764",
+    "2409:40e4:200e:8d9:50ec:bbff:fe4f:1784"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31938062:1:2",
-      "title": "tt31938062:1:2",
-      "timestamp": "2026-02-01T22:14:08.885Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:1:3",
-      "title": "tt31938062:1:3",
-      "timestamp": "2026-02-01T22:14:24.901Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:1:3",
-      "title": "tt31938062:1:3",
-      "timestamp": "2026-02-01T22:14:28.242Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt31938062:1:3",
@@ -85995,6 +85972,30 @@
       "timestamp": "2026-02-24T14:21:01.138Z",
       "ip": "2409:40d4:4005:d36e:8000::",
       "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt14967618",
+      "title": "tt14967618",
+      "timestamp": "2026-02-24T14:21:38.391Z",
+      "ip": "182.69.180.143",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt18968540",
+      "title": "tt18968540",
+      "timestamp": "2026-02-24T14:29:34.109Z",
+      "ip": "223.181.100.157",
+      "username": "baljeet_002"
+    },
+    {
+      "type": "movie",
+      "id": "tt0120338",
+      "title": "Titanic",
+      "timestamp": "2026-02-24T14:30:09.025Z",
+      "ip": "2409:40e4:200e:8d9:50ec:bbff:fe4f:1784",
+      "username": "ig_sirmour"
     }
   ],
   "activeNow": {
@@ -87186,7 +87187,7 @@
       "id": "tt18968540",
       "title": "tt18968540",
       "username": "baljeet_002",
-      "lastActive": 1771860602569
+      "lastActive": 1771943374109
     },
     "2405:201:2022:b81c:2095:873:5600:a7c2": {
       "type": "movie",
@@ -87210,11 +87211,11 @@
       "lastActive": 1771860861746
     },
     "182.69.180.143": {
-      "type": "series",
-      "id": "tt26737616:1:2",
-      "title": "tt26737616:1:2",
+      "type": "movie",
+      "id": "tt14967618",
+      "title": "tt14967618",
       "username": "dillon_ka_shooter",
-      "lastActive": 1771861867788
+      "lastActive": 1771942898391
     },
     "2409:40e6:c:1670:384c:25ff:febd:c0cb": {
       "type": "movie",
@@ -87649,6 +87650,13 @@
       "title": "Jerry Maguire",
       "username": "ujas",
       "lastActive": 1771941437232
+    },
+    "2409:40e4:200e:8d9:50ec:bbff:fe4f:1784": {
+      "type": "movie",
+      "id": "tt0120338",
+      "title": "Titanic",
+      "username": "ig_sirmour",
+      "lastActive": 1771943409025
     }
   }
 }
