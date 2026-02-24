@@ -1,5 +1,5 @@
 {
-  "totalViews": 30123,
+  "totalViews": 30125,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6017,22 +6017,6 @@
     "47.15.84.118,51.89.197.91"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt10919420:3:3",
-      "title": "tt10919420:3:3",
-      "timestamp": "2026-02-02T07:38:36.444Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt0120663",
-      "title": "tt0120663",
-      "timestamp": "2026-02-02T07:55:28.168Z",
-      "ip": "2405:201:5502:5c18:5dd0:234c:3f08:8fd1",
-      "username": "dawnstar930"
-    },
     {
       "type": "movie",
       "id": "tt0120663",
@@ -86016,6 +86000,22 @@
       "timestamp": "2026-02-24T19:47:55.645Z",
       "ip": "103.99.196.80",
       "username": "opuser75"
+    },
+    {
+      "type": "movie",
+      "id": "tt7338690",
+      "title": "Scorpion King: Book of Souls",
+      "timestamp": "2026-02-24T19:51:11.051Z",
+      "ip": "103.99.196.80",
+      "username": "opuser75"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:2:3",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-24T19:52:22.383Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
     }
   ],
   "activeNow": {
@@ -86077,10 +86077,10 @@
     },
     "103.175.168.106": {
       "type": "series",
-      "id": "tt0944947:2:2",
+      "id": "tt0944947:2:3",
       "title": "Game of Thrones",
       "username": "un0fficial_itachi",
-      "lastActive": 1771958032036
+      "lastActive": 1771962742383
     },
     "103.249.4.57": {
       "type": "series",
@@ -86798,10 +86798,10 @@
     },
     "103.99.196.80": {
       "type": "movie",
-      "id": "tt3086386",
-      "title": "The Scorpion King 4: Quest for Power",
+      "id": "tt7338690",
+      "title": "Scorpion King: Book of Souls",
       "username": "opuser75",
-      "lastActive": 1771962475645
+      "lastActive": 1771962671051
     },
     "2402:8100:2ca1:af05:b298:9dec:29a7:6647": {
       "type": "series",
