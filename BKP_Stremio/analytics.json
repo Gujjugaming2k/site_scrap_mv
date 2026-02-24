@@ -1,5 +1,5 @@
 {
-  "totalViews": 30125,
+  "totalViews": 30128,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6017,30 +6017,6 @@
     "47.15.84.118,51.89.197.91"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0120663",
-      "title": "tt0120663",
-      "timestamp": "2026-02-02T07:55:38.854Z",
-      "ip": "2405:201:5502:5c18:5dd0:234c:3f08:8fd1",
-      "username": "dawnstar930"
-    },
-    {
-      "type": "series",
-      "id": "tt10919420:3:1",
-      "title": "tt10919420:3:1",
-      "timestamp": "2026-02-02T07:57:42.765Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt10919420:3:2",
-      "title": "tt10919420:3:2",
-      "timestamp": "2026-02-02T07:58:02.389Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt10919420:3:3",
@@ -86016,6 +85992,30 @@
       "timestamp": "2026-02-24T19:52:22.383Z",
       "ip": "103.175.168.106",
       "username": "un0fficial_itachi"
+    },
+    {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "timestamp": "2026-02-24T20:55:08.301Z",
+      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt1781896",
+      "title": "The Scorpion King 3: Battle for Redemption",
+      "timestamp": "2026-02-24T20:58:02.925Z",
+      "ip": "103.99.196.121",
+      "username": "opuser75"
+    },
+    {
+      "type": "movie",
+      "id": "tt3086386",
+      "title": "The Scorpion King 4: Quest for Power",
+      "timestamp": "2026-02-24T20:59:01.678Z",
+      "ip": "103.99.196.121",
+      "username": "opuser75"
     }
   ],
   "activeNow": {
@@ -87274,10 +87274,10 @@
     },
     "103.99.196.121": {
       "type": "movie",
-      "id": "tt1104123",
-      "title": "The Scorpion King 2: Rise of a Warrior",
+      "id": "tt3086386",
+      "title": "The Scorpion King 4: Quest for Power",
       "username": "opuser75",
-      "lastActive": 1771961899169
+      "lastActive": 1771966741678
     },
     "117.235.151.31": {
       "type": "movie",
@@ -87827,10 +87827,10 @@
     },
     "2405:201:300c:213:1ef4:3fff:fe0f:1b78": {
       "type": "movie",
-      "id": "tt32141377",
-      "title": "tt32141377",
+      "id": "tt31050594",
+      "title": "tt31050594",
       "username": "gendaswammy",
-      "lastActive": 1771960701214
+      "lastActive": 1771966508301
     }
   }
 }
