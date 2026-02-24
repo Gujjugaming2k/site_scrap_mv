@@ -1,5 +1,5 @@
 {
-  "totalViews": 29835,
+  "totalViews": 29837,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5972,22 +5972,6 @@
     "2401:4900:74d5:8f32:5990:6b58:cf4e:1d70"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0167260",
-      "title": "The Lord of the Rings: The Return of the King",
-      "timestamp": "2026-02-01T16:23:04.303Z",
-      "ip": "159.26.115.48",
-      "username": "golu_vk"
-    },
-    {
-      "type": "movie",
-      "id": "tt0120737",
-      "title": "The Lord of the Rings: The Fellowship of the Ring",
-      "timestamp": "2026-02-01T16:23:39.568Z",
-      "ip": "159.26.115.48",
-      "username": "golu_vk"
-    },
     {
       "type": "series",
       "id": "tt0460649:5:9",
@@ -85971,6 +85955,22 @@
       "timestamp": "2026-02-24T09:10:03.751Z",
       "ip": "2401:4900:1ca9:45f1:d536:570e:8031:8c80",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt3613454:1:6",
+      "title": "tt3613454:1:6",
+      "timestamp": "2026-02-24T09:14:22.530Z",
+      "ip": "202.173.124.219",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt0227972:28:8",
+      "title": "WWE SmackDown",
+      "timestamp": "2026-02-24T09:19:20.123Z",
+      "ip": "2401:4900:74d5:8f32:5990:6b58:cf4e:1d70",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -86235,10 +86235,10 @@
     },
     "202.173.124.219": {
       "type": "series",
-      "id": "tt3613454:1:5",
-      "title": "tt3613454:1:5",
+      "id": "tt3613454:1:6",
+      "title": "tt3613454:1:6",
       "username": "ryuzaklo26",
-      "lastActive": 1771922094808
+      "lastActive": 1771924462530
     },
     "2a02:cb80:4078:3333:4b8:2e9f:99d6:2d9e": {
       "type": "series",
@@ -87431,11 +87431,11 @@
       "lastActive": 1771922926386
     },
     "2401:4900:74d5:8f32:5990:6b58:cf4e:1d70": {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "type": "series",
+      "id": "tt0227972:28:8",
+      "title": "WWE SmackDown",
       "username": "william097",
-      "lastActive": 1771923160558
+      "lastActive": 1771924760123
     }
   }
 }
