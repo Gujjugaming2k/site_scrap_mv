@@ -1,5 +1,5 @@
 {
-  "totalViews": 29949,
+  "totalViews": 29956,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5996,65 +5996,10 @@
     "2405:201:203e:b800:863f:91e7:b57c:5764",
     "2409:40e4:200e:8d9:50ec:bbff:fe4f:1784",
     "2405:201:203e:b800:6c65:1bcb:87e4:5b31",
-    "2409:40e4:1093:763e:65a8:6425:ee77:6f4e"
+    "2409:40e4:1093:763e:65a8:6425:ee77:6f4e",
+    "111.65.62.79"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt21228320",
-      "title": "tt21228320",
-      "timestamp": "2026-02-02T00:37:27.622Z",
-      "ip": "103.46.200.212",
-      "username": "brosportses"
-    },
-    {
-      "type": "movie",
-      "id": "tt38715634",
-      "title": "tt38715634",
-      "timestamp": "2026-02-02T00:37:40.009Z",
-      "ip": "103.46.200.212",
-      "username": "brosportses"
-    },
-    {
-      "type": "movie",
-      "id": "tt5834760",
-      "title": "tt5834760",
-      "timestamp": "2026-02-02T00:39:16.202Z",
-      "ip": "103.46.200.212",
-      "username": "brosportses"
-    },
-    {
-      "type": "movie",
-      "id": "tt33046197",
-      "title": "tt33046197",
-      "timestamp": "2026-02-02T00:40:19.941Z",
-      "ip": "2a02:9b0:106:3b5f:1421:fc47:355f:e0e4",
-      "username": "hoosa500"
-    },
-    {
-      "type": "movie",
-      "id": "tt32304349",
-      "title": "The Carpenter's Son",
-      "timestamp": "2026-02-02T00:57:15.290Z",
-      "ip": "106.222.214.7",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-02T00:57:26.849Z",
-      "ip": "106.222.214.7",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt26234108",
-      "title": "tt26234108",
-      "timestamp": "2026-02-02T01:01:08.898Z",
-      "ip": "106.222.214.7",
-      "username": "b1jju"
-    },
     {
       "type": "series",
       "id": "tt0460649:5:9",
@@ -85998,6 +85943,62 @@
       "timestamp": "2026-02-24T15:08:19.490Z",
       "ip": "2409:40e4:1093:763e:e161:1aa1:5fdc:c23a",
       "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt8561086",
+      "title": "tt8561086",
+      "timestamp": "2026-02-24T15:12:10.481Z",
+      "ip": "2409:40e4:1093:763e:65a8:6425:ee77:6f4e",
+      "username": "adshoyi"
+    },
+    {
+      "type": "movie",
+      "id": "tt23849582",
+      "title": "tt23849582",
+      "timestamp": "2026-02-24T15:17:54.148Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt8561086",
+      "title": "tt8561086",
+      "timestamp": "2026-02-24T15:18:31.410Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt8561086",
+      "title": "tt8561086",
+      "timestamp": "2026-02-24T15:19:15.447Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt1375666",
+      "title": "Inception",
+      "timestamp": "2026-02-24T15:19:17.452Z",
+      "ip": "111.65.62.79",
+      "username": "sheik"
+    },
+    {
+      "type": "movie",
+      "id": "tt7581572",
+      "title": "tt7581572",
+      "timestamp": "2026-02-24T15:21:14.861Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt7581572",
+      "title": "tt7581572",
+      "timestamp": "2026-02-24T15:21:19.347Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -86034,7 +86035,7 @@
       "id": "tt7581572",
       "title": "tt7581572",
       "username": "aravindsivan",
-      "lastActive": 1771938552135
+      "lastActive": 1771946479347
     },
     "103.162.158.146": {
       "type": "movie",
@@ -87669,10 +87670,17 @@
     },
     "2409:40e4:1093:763e:65a8:6425:ee77:6f4e": {
       "type": "movie",
-      "id": "tt9784456",
-      "title": "tt9784456",
+      "id": "tt8561086",
+      "title": "tt8561086",
       "username": "adshoyi",
-      "lastActive": 1771945132709
+      "lastActive": 1771945930481
+    },
+    "111.65.62.79": {
+      "type": "movie",
+      "id": "tt1375666",
+      "title": "Inception",
+      "username": "sheik",
+      "lastActive": 1771946357452
     }
   }
 }
