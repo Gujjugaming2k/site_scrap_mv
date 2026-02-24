@@ -1,5 +1,5 @@
 {
-  "totalViews": 30128,
+  "totalViews": 30129,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6014,17 +6014,10 @@
     "2401:4900:1ca9:45f1:24a9:6f31:1f97:d769,38.147.106.38",
     "2409:40d4:fc:3f14:8000::",
     "47.15.84.118",
-    "47.15.84.118,51.89.197.91"
+    "47.15.84.118,51.89.197.91",
+    "103.99.196.119"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt10919420:3:3",
-      "title": "tt10919420:3:3",
-      "timestamp": "2026-02-02T07:58:37.354Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt10919420:3:1",
@@ -86016,6 +86009,14 @@
       "timestamp": "2026-02-24T20:59:01.678Z",
       "ip": "103.99.196.121",
       "username": "opuser75"
+    },
+    {
+      "type": "movie",
+      "id": "tt6450804",
+      "title": "Terminator: Dark Fate",
+      "timestamp": "2026-02-24T21:55:37.609Z",
+      "ip": "103.99.196.119",
+      "username": "opuser75"
     }
   ],
   "activeNow": {
@@ -87831,6 +87832,13 @@
       "title": "tt31050594",
       "username": "gendaswammy",
       "lastActive": 1771966508301
+    },
+    "103.99.196.119": {
+      "type": "movie",
+      "id": "tt6450804",
+      "title": "Terminator: Dark Fate",
+      "username": "opuser75",
+      "lastActive": 1771970137609
     }
   }
 }
