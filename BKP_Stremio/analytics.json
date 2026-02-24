@@ -1,5 +1,5 @@
 {
-  "totalViews": 29933,
+  "totalViews": 29935,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5992,25 +5992,10 @@
     "2a09:bac1:36c0:10::29e:bf",
     "47.15.111.5",
     "47.15.111.5,51.89.197.91",
-    "182.77.78.158"
+    "182.77.78.158",
+    "2405:201:203e:b800:863f:91e7:b57c:5764"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31938062:1:1",
-      "title": "tt31938062:1:1",
-      "timestamp": "2026-02-01T22:13:42.223Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:1:2",
-      "title": "tt31938062:1:2",
-      "timestamp": "2026-02-01T22:14:02.730Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt31938062:1:2",
@@ -85994,6 +85979,22 @@
       "timestamp": "2026-02-24T13:50:57.532Z",
       "ip": "182.77.78.158",
       "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt0116695",
+      "title": "Jerry Maguire",
+      "timestamp": "2026-02-24T13:57:17.232Z",
+      "ip": "2405:201:203e:b800:863f:91e7:b57c:5764",
+      "username": "ujas"
+    },
+    {
+      "type": "movie",
+      "id": "tt33244668",
+      "title": "tt33244668",
+      "timestamp": "2026-02-24T14:04:15.549Z",
+      "ip": "182.77.78.158",
+      "username": "nabakun24"
     }
   ],
   "activeNow": {
@@ -87637,10 +87638,17 @@
     },
     "182.77.78.158": {
       "type": "movie",
-      "id": "tt1049413",
-      "title": "Up",
+      "id": "tt33244668",
+      "title": "tt33244668",
       "username": "nabakun24",
-      "lastActive": 1771941057532
+      "lastActive": 1771941855549
+    },
+    "2405:201:203e:b800:863f:91e7:b57c:5764": {
+      "type": "movie",
+      "id": "tt0116695",
+      "title": "Jerry Maguire",
+      "username": "ujas",
+      "lastActive": 1771941437232
     }
   }
 }
