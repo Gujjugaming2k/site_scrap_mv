@@ -1,5 +1,5 @@
 {
-  "totalViews": 29703,
+  "totalViews": 29705,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5960,22 +5960,6 @@
     "2405:201:2033:841:5c8f:7c13:d44c:6fe7"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt30293074:1:1",
-      "title": "tt30293074:1:1",
-      "timestamp": "2026-02-01T09:46:14.848Z",
-      "ip": "2401:4900:1c22:64ad:c013:18:d258:963c",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt34710525:1:1",
-      "title": "tt34710525:1:1",
-      "timestamp": "2026-02-01T09:47:18.557Z",
-      "ip": "202.173.124.118",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "series",
       "id": "tt34710525:1:2",
@@ -85959,6 +85943,22 @@
       "timestamp": "2026-02-24T04:07:58.961Z",
       "ip": "2405:201:2033:841:5c8f:7c13:d44c:6fe7",
       "username": "surti_lala"
+    },
+    {
+      "type": "series",
+      "id": "tt11041332:1:9",
+      "title": "tt11041332:1:9",
+      "timestamp": "2026-02-24T04:26:26.594Z",
+      "ip": "103.24.85.157",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-02-24T04:29:52.318Z",
+      "ip": "2405:201:2033:841:5c8f:7c13:d44c:6fe7",
+      "username": "surti_lala"
     }
   ],
   "activeNow": {
@@ -86762,10 +86762,10 @@
     },
     "103.24.85.157": {
       "type": "series",
-      "id": "tt11041332:1:8",
-      "title": "tt11041332:1:8",
+      "id": "tt11041332:1:9",
+      "title": "tt11041332:1:9",
       "username": "william097",
-      "lastActive": 1771899823307
+      "lastActive": 1771907186594
     },
     "49.47.153.66": {
       "type": "movie",
@@ -87335,11 +87335,11 @@
       "lastActive": 1771905563566
     },
     "2405:201:2033:841:5c8f:7c13:d44c:6fe7": {
-      "type": "movie",
-      "id": "tt18312380",
-      "title": "Primitive War",
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
       "username": "surti_lala",
-      "lastActive": 1771906078961
+      "lastActive": 1771907392318
     }
   }
 }
