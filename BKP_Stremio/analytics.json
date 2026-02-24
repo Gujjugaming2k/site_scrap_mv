@@ -1,5 +1,5 @@
 {
-  "totalViews": 29655,
+  "totalViews": 29659,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5951,41 +5951,11 @@
     "2402:8100:2cbe:e216:af99:86cd:136c:9151",
     "2402:3a80:1650:a5af:1908:ee37:2402:34ab",
     "2409:40e5:11a9:98dd:388d:58ff:fecd:705d",
-    "2401:4900:8f71:5b3c:e844:758b:51b3:a06a"
+    "2401:4900:8f71:5b3c:e844:758b:51b3:a06a",
+    "2409:40e4:10a9:8171:65a8:6425:ee77:6f4e",
+    "2401:4900:8824:eeee:153d:282c:6011:7a41"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0369179:2:5",
-      "title": "tt0369179:2:5",
-      "timestamp": "2026-02-01T07:02:58.242Z",
-      "ip": "2402:3a80:18cf:578b:e22d:3537:5f41:9c27",
-      "username": "targetx_25"
-    },
-    {
-      "type": "series",
-      "id": "tt14186672:2:1",
-      "title": "tt14186672:2:1",
-      "timestamp": "2026-02-01T07:10:27.675Z",
-      "ip": "2401:4900:57f4:cf0f:e4fe:f1ff:fe20:c0d7",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:2:1",
-      "title": "Fallout",
-      "timestamp": "2026-02-01T07:16:20.882Z",
-      "ip": "2409:40c2:20:cf40:4c17:88ff:fe86:7534",
-      "username": "agentmj47"
-    },
-    {
-      "type": "movie",
-      "id": "tt16311594",
-      "title": "F1",
-      "timestamp": "2026-02-01T07:17:11.153Z",
-      "ip": "182.77.78.99",
-      "username": "theaceofficials"
-    },
     {
       "type": "series",
       "id": "tt12343534:3:5",
@@ -85953,6 +85923,38 @@
       "timestamp": "2026-02-24T02:23:43.307Z",
       "ip": "103.24.85.157",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt27613895",
+      "title": "tt27613895",
+      "timestamp": "2026-02-24T02:49:30.854Z",
+      "ip": "2409:40e4:10a9:8171:65a8:6425:ee77:6f4e",
+      "username": "adshoyi"
+    },
+    {
+      "type": "series",
+      "id": "tt11041332:1:8",
+      "title": "tt11041332:1:8",
+      "timestamp": "2026-02-24T02:53:38.006Z",
+      "ip": "2a10:484:3:1::13",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt11041332:1:9",
+      "title": "tt11041332:1:9",
+      "timestamp": "2026-02-24T02:53:49.808Z",
+      "ip": "2a10:484:3:1::13",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt12312250:1:1",
+      "title": "tt12312250:1:1",
+      "timestamp": "2026-02-24T02:58:01.650Z",
+      "ip": "2401:4900:8824:eeee:153d:282c:6011:7a41",
+      "username": "sinbad1722"
     }
   ],
   "activeNow": {
@@ -87285,6 +87287,27 @@
       "title": "Jurassic Park",
       "username": "b1jju",
       "lastActive": 1771899049321
+    },
+    "2409:40e4:10a9:8171:65a8:6425:ee77:6f4e": {
+      "type": "movie",
+      "id": "tt27613895",
+      "title": "tt27613895",
+      "username": "adshoyi",
+      "lastActive": 1771901370854
+    },
+    "2a10:484:3:1::13": {
+      "type": "series",
+      "id": "tt11041332:1:9",
+      "title": "tt11041332:1:9",
+      "username": "william097",
+      "lastActive": 1771901629808
+    },
+    "2401:4900:8824:eeee:153d:282c:6011:7a41": {
+      "type": "series",
+      "id": "tt12312250:1:1",
+      "title": "tt12312250:1:1",
+      "username": "sinbad1722",
+      "lastActive": 1771901881650
     }
   }
 }
