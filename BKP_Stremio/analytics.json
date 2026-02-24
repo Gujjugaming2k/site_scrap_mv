@@ -1,5 +1,5 @@
 {
-  "totalViews": 29896,
+  "totalViews": 29900,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5981,41 +5981,11 @@
     "49.42.132.147",
     "2409:40c1:48:7b6:21:9ff:fe68:75f",
     "2409:40f0:100d:96dc:704a:1cff:fecd:9a3",
-    "2401:4900:1cb2:c22f:90c1:3998:1046:2f61"
+    "2401:4900:1cb2:c22f:90c1:3998:1046:2f61",
+    "157.48.100.16",
+    "157.48.100.16,51.89.197.91"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-01T19:18:43.455Z",
-      "ip": "2405:201:202d:d014:46f8:599c:be4c:fa3",
-      "username": "explorerindia"
-    },
-    {
-      "type": "movie",
-      "id": "tt30387012",
-      "title": "tt30387012",
-      "timestamp": "2026-02-01T19:19:39.311Z",
-      "ip": "2405:201:202d:d014:46f8:599c:be4c:fa3",
-      "username": "explorerindia"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:1:1",
-      "title": "tt1399664:1:1",
-      "timestamp": "2026-02-01T19:50:05.307Z",
-      "ip": "159.26.115.48",
-      "username": "golu_vk"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:1:2",
-      "title": "tt1399664:1:2",
-      "timestamp": "2026-02-01T19:50:48.364Z",
-      "ip": "159.26.115.48",
-      "username": "golu_vk"
-    },
     {
       "type": "series",
       "id": "tt1399664:1:2",
@@ -85983,6 +85953,38 @@
       "timestamp": "2026-02-24T12:01:07.859Z",
       "ip": "103.98.63.135",
       "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt20234568:2:5",
+      "title": "tt20234568:2:5",
+      "timestamp": "2026-02-24T12:16:11.636Z",
+      "ip": "2402:a00:10a:815f:6ccf:d893:7875:99d9",
+      "username": "vflix1993"
+    },
+    {
+      "type": "series",
+      "id": "tt11041332:2:1",
+      "title": "tt11041332:2:1",
+      "timestamp": "2026-02-24T12:16:35.037Z",
+      "ip": "103.24.85.157",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt5814060",
+      "title": "The Nun",
+      "timestamp": "2026-02-24T12:18:40.441Z",
+      "ip": "157.48.100.16",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt5814060",
+      "title": "The Nun",
+      "timestamp": "2026-02-24T12:18:41.511Z",
+      "ip": "157.48.100.16,51.89.197.91",
+      "username": "bk18"
     }
   ],
   "activeNow": {
@@ -86789,7 +86791,7 @@
       "id": "tt11041332:2:1",
       "title": "tt11041332:2:1",
       "username": "william097",
-      "lastActive": 1771929594312
+      "lastActive": 1771935395037
     },
     "49.47.153.66": {
       "type": "movie",
@@ -87384,7 +87386,7 @@
       "id": "tt20234568:2:5",
       "title": "tt20234568:2:5",
       "username": "vflix1993",
-      "lastActive": 1771922961663
+      "lastActive": 1771935371636
     },
     "2001:4490:444d:cd60:bce2:4d4e:6944:34f7": {
       "type": "movie",
@@ -87553,6 +87555,20 @@
       "title": "tt39137681:1:10",
       "username": "saisrinivas",
       "lastActive": 1771932734907
+    },
+    "157.48.100.16": {
+      "type": "movie",
+      "id": "tt5814060",
+      "title": "The Nun",
+      "username": "golu_vk",
+      "lastActive": 1771935520441
+    },
+    "157.48.100.16,51.89.197.91": {
+      "type": "movie",
+      "id": "tt5814060",
+      "title": "The Nun",
+      "username": "bk18",
+      "lastActive": 1771935521511
     }
   }
 }
