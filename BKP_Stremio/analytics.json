@@ -1,5 +1,5 @@
 {
-  "totalViews": 29900,
+  "totalViews": 29905,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5983,49 +5983,10 @@
     "2409:40f0:100d:96dc:704a:1cff:fecd:9a3",
     "2401:4900:1cb2:c22f:90c1:3998:1046:2f61",
     "157.48.100.16",
-    "157.48.100.16,51.89.197.91"
+    "157.48.100.16,51.89.197.91",
+    "2409:40e4:1093:763e:e161:1aa1:5fdc:c23a"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1399664:1:2",
-      "title": "tt1399664:1:2",
-      "timestamp": "2026-02-01T19:51:39.938Z",
-      "ip": "159.26.115.48",
-      "username": "golu_vk"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-01T19:57:00.074Z",
-      "ip": "115.187.38.42",
-      "username": "tgh2r"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-02-01T20:23:14.948Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:2",
-      "title": "tt27497448:1:2",
-      "timestamp": "2026-02-01T20:23:35.424Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:2",
-      "title": "tt27497448:1:2",
-      "timestamp": "2026-02-01T20:23:46.834Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
     {
       "type": "series",
       "id": "tt27497448:1:3",
@@ -85985,6 +85946,46 @@
       "timestamp": "2026-02-24T12:18:41.511Z",
       "ip": "157.48.100.16,51.89.197.91",
       "username": "bk18"
+    },
+    {
+      "type": "movie",
+      "id": "tt4169250",
+      "title": "tt4169250",
+      "timestamp": "2026-02-24T12:21:31.507Z",
+      "ip": "2409:40e4:1093:763e:e161:1aa1:5fdc:c23a",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt27917165:1:1",
+      "title": "tt27917165:1:1",
+      "timestamp": "2026-02-24T12:28:07.998Z",
+      "ip": "2409:40e4:1093:763e:e161:1aa1:5fdc:c23a",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt2283362",
+      "title": "Jumanji: Welcome to the Jungle",
+      "timestamp": "2026-02-24T12:30:28.638Z",
+      "ip": "2409:40e4:1093:763e:e161:1aa1:5fdc:c23a",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt3613454:1:6",
+      "title": "tt3613454:1:6",
+      "timestamp": "2026-02-24T12:33:44.872Z",
+      "ip": "202.173.124.219",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "timestamp": "2026-02-24T12:33:55.567Z",
+      "ip": "2409:40e4:1093:763e:e161:1aa1:5fdc:c23a",
+      "username": "askchm"
     }
   ],
   "activeNow": {
@@ -86252,7 +86253,7 @@
       "id": "tt3613454:1:6",
       "title": "tt3613454:1:6",
       "username": "ryuzaklo26",
-      "lastActive": 1771924462530
+      "lastActive": 1771936424872
     },
     "2a02:cb80:4078:3333:4b8:2e9f:99d6:2d9e": {
       "type": "series",
@@ -87569,6 +87570,13 @@
       "title": "The Nun",
       "username": "bk18",
       "lastActive": 1771935521511
+    },
+    "2409:40e4:1093:763e:e161:1aa1:5fdc:c23a": {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "username": "askchm",
+      "lastActive": 1771936435567
     }
   }
 }
