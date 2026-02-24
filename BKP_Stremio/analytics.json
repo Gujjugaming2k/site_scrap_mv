@@ -1,5 +1,5 @@
 {
-  "totalViews": 29843,
+  "totalViews": 29844,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5970,17 +5970,10 @@
     "2a02:9b0:106:4496:695e:2b8d:862d:9a6b",
     "122.181.194.62",
     "2401:4900:74d5:8f32:5990:6b58:cf4e:1d70",
-    "2401:4900:1c0b:1e04:e432:bf0c:fe62:316"
+    "2401:4900:1c0b:1e04:e432:bf0c:fe62:316",
+    "152.59.146.168"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31844233:1:4",
-      "title": "tt31844233:1:4",
-      "timestamp": "2026-02-01T16:35:26.451Z",
-      "ip": "2401:4900:1cb0:5cf4:9965:e3ed:b2fa:16a9",
-      "username": "saisrinivas"
-    },
     {
       "type": "movie",
       "id": "tt4819576",
@@ -85972,6 +85965,14 @@
       "timestamp": "2026-02-24T09:50:42.782Z",
       "ip": "103.24.85.157",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-24T10:11:34.957Z",
+      "ip": "152.59.146.168",
+      "username": "adshoyi"
     }
   ],
   "activeNow": {
@@ -87444,6 +87445,13 @@
       "title": "tt8291224",
       "username": "dillon_ka_shooter",
       "lastActive": 1771926522096
+    },
+    "152.59.146.168": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "adshoyi",
+      "lastActive": 1771927894957
     }
   }
 }
