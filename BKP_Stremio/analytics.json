@@ -1,5 +1,5 @@
 {
-  "totalViews": 29705,
+  "totalViews": 29708,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -5957,33 +5957,10 @@
     "2409:40e4:10a9:8171:1866:8753:3d75:c41",
     "2405:201:200d:906b:a8ad:5852:9ad1:fc0d",
     "2401:4900:62dc:4d7e:bb8d:bf70:c36d:c538",
-    "2405:201:2033:841:5c8f:7c13:d44c:6fe7"
+    "2405:201:2033:841:5c8f:7c13:d44c:6fe7",
+    "152.59.142.231"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt34710525:1:2",
-      "title": "tt34710525:1:2",
-      "timestamp": "2026-02-01T09:47:49.031Z",
-      "ip": "202.173.124.118",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt14819828:1:1",
-      "title": "tt14819828:1:1",
-      "timestamp": "2026-02-01T09:47:51.571Z",
-      "ip": "2401:4900:1c22:64ad:c013:18:d258:963c",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt32362695",
-      "title": "tt32362695",
-      "timestamp": "2026-02-01T09:58:50.980Z",
-      "ip": "103.177.252.86",
-      "username": "babybloom1"
-    },
     {
       "type": "movie",
       "id": "tt30144839",
@@ -85959,6 +85936,30 @@
       "timestamp": "2026-02-24T04:29:52.318Z",
       "ip": "2405:201:2033:841:5c8f:7c13:d44c:6fe7",
       "username": "surti_lala"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:10",
+      "title": "tt30003786:4:10",
+      "timestamp": "2026-02-24T04:43:37.436Z",
+      "ip": "152.59.142.231",
+      "username": "adshoyi"
+    },
+    {
+      "type": "series",
+      "id": "tt11041332:1:10",
+      "title": "tt11041332:1:10",
+      "timestamp": "2026-02-24T04:43:47.682Z",
+      "ip": "103.24.85.157",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt39137681:1:11",
+      "title": "tt39137681:1:11",
+      "timestamp": "2026-02-24T04:44:13.245Z",
+      "ip": "152.59.142.231",
+      "username": "adshoyi"
     }
   ],
   "activeNow": {
@@ -86762,10 +86763,10 @@
     },
     "103.24.85.157": {
       "type": "series",
-      "id": "tt11041332:1:9",
-      "title": "tt11041332:1:9",
+      "id": "tt11041332:1:10",
+      "title": "tt11041332:1:10",
       "username": "william097",
-      "lastActive": 1771907186594
+      "lastActive": 1771908227682
     },
     "49.47.153.66": {
       "type": "movie",
@@ -87340,6 +87341,13 @@
       "title": "tt27497448:1:1",
       "username": "surti_lala",
       "lastActive": 1771907392318
+    },
+    "152.59.142.231": {
+      "type": "series",
+      "id": "tt39137681:1:11",
+      "title": "tt39137681:1:11",
+      "username": "adshoyi",
+      "lastActive": 1771908253245
     }
   }
 }
