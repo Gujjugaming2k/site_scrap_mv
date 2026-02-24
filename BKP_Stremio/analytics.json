@@ -1,5 +1,5 @@
 {
-  "totalViews": 30129,
+  "totalViews": 30131,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6015,25 +6015,10 @@
     "2409:40d4:fc:3f14:8000::",
     "47.15.84.118",
     "47.15.84.118,51.89.197.91",
-    "103.99.196.119"
+    "103.99.196.119",
+    "2402:8100:2ca9:36de:9648:fe65:be95:9c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt10919420:3:1",
-      "title": "tt10919420:3:1",
-      "timestamp": "2026-02-02T07:58:43.456Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt10243678",
-      "title": "tt10243678",
-      "timestamp": "2026-02-02T07:58:53.100Z",
-      "ip": "117.212.5.188",
-      "username": "zealousninja"
-    },
     {
       "type": "series",
       "id": "tt10919420:3:4",
@@ -86017,6 +86002,22 @@
       "timestamp": "2026-02-24T21:55:37.609Z",
       "ip": "103.99.196.119",
       "username": "opuser75"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:1:2",
+      "title": "tt6354518:1:2",
+      "timestamp": "2026-02-24T23:00:15.459Z",
+      "ip": "2402:8100:2ca9:36de:9648:fe65:be95:9c",
+      "username": "schnom153"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:1:3",
+      "title": "tt6354518:1:3",
+      "timestamp": "2026-02-24T23:00:42.076Z",
+      "ip": "2402:8100:2ca9:36de:9648:fe65:be95:9c",
+      "username": "schnom153"
     }
   ],
   "activeNow": {
@@ -87839,6 +87840,13 @@
       "title": "Terminator: Dark Fate",
       "username": "opuser75",
       "lastActive": 1771970137609
+    },
+    "2402:8100:2ca9:36de:9648:fe65:be95:9c": {
+      "type": "series",
+      "id": "tt6354518:1:3",
+      "title": "tt6354518:1:3",
+      "username": "schnom153",
+      "lastActive": 1771974042076
     }
   }
 }
