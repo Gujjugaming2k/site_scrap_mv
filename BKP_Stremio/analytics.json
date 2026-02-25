@@ -1,5 +1,5 @@
 {
-  "totalViews": 30263,
+  "totalViews": 30266,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6040,33 +6040,11 @@
     "2401:4900:b0b5:aebf:a4b6:11ff:fe8c:f33",
     "2401:4900:7599:93f3:f8bd:a2ff:fed8:1765",
     "216.73.163.240",
-    "2405:201:6025:a88d:408d:9598:684c:1fad"
+    "2405:201:6025:a88d:408d:9598:684c:1fad",
+    "2409:40e4:1084:50d9:ad24:249e:c309:6550",
+    "216.73.163.213"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-02-02T14:38:29.819Z",
-      "ip": "2401:4900:88ba:65a9:9407:f91:4c33:af0a",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt27136041",
-      "title": "tt27136041",
-      "timestamp": "2026-02-02T14:39:10.889Z",
-      "ip": "152.56.131.202",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "series",
-      "id": "tt37062070:1:3",
-      "title": "tt37062070:1:3",
-      "timestamp": "2026-02-02T14:40:04.490Z",
-      "ip": "2401:4900:1f29:a02f:c8e8:d752:90af:4b8d",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt37062070:1:3",
@@ -86042,6 +86020,30 @@
       "timestamp": "2026-02-25T10:18:07.430Z",
       "ip": "2405:201:6025:a88d:408d:9598:684c:1fad",
       "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt0110357",
+      "title": "tt0110357",
+      "timestamp": "2026-02-25T10:22:21.006Z",
+      "ip": "2409:40e4:1084:50d9:ad24:249e:c309:6550",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt21223380",
+      "title": "Doraemon the Movie: Nobita's Sky Utopia",
+      "timestamp": "2026-02-25T10:25:13.314Z",
+      "ip": "2409:40e4:1084:50d9:ad24:249e:c309:6550",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt1989511",
+      "title": "tt1989511",
+      "timestamp": "2026-02-25T10:25:50.764Z",
+      "ip": "216.73.163.213",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -88046,6 +88048,20 @@
       "title": "tt4302956",
       "username": "infinityseeker",
       "lastActive": 1772014687430
+    },
+    "2409:40e4:1084:50d9:ad24:249e:c309:6550": {
+      "type": "movie",
+      "id": "tt21223380",
+      "title": "Doraemon the Movie: Nobita's Sky Utopia",
+      "username": "askchm",
+      "lastActive": 1772015113314
+    },
+    "216.73.163.213": {
+      "type": "movie",
+      "id": "tt1989511",
+      "title": "tt1989511",
+      "username": "theonlyfreak",
+      "lastActive": 1772015150764
     }
   }
 }
