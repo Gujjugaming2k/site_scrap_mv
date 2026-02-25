@@ -1,5 +1,5 @@
 {
-  "totalViews": 30186,
+  "totalViews": 30187,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6020,17 +6020,10 @@
     "2405:201:2022:b81c:102a:e1e6:3ec6:364a",
     "2409:40e4:109a:d7ee:5031:9bd0:74df:f473",
     "2401:4900:1ca9:45f1:6940:3c29:bf97:f844,38.147.106.38",
-    "200.46.70.197"
+    "200.46.70.197",
+    "2409:40c1:10bd:79d6:8082:c075:a41d:30f0"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0027529",
-      "title": "Disorder in the Court",
-      "timestamp": "2026-02-02T11:48:30.526Z",
-      "ip": "2401:4900:1f29:a02f:f926:4acc:5225:3d2e",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt37062070:1:1",
@@ -86022,6 +86015,14 @@
       "timestamp": "2026-02-25T03:43:26.768Z",
       "ip": "200.46.70.197",
       "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-25T04:06:08.241Z",
+      "ip": "2409:40c1:10bd:79d6:8082:c075:a41d:30f0",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -87886,6 +87887,13 @@
       "title": "tt11976134",
       "username": "ymcinema",
       "lastActive": 1771991006768
+    },
+    "2409:40c1:10bd:79d6:8082:c075:a41d:30f0": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "zealousninja",
+      "lastActive": 1771992368241
     }
   }
 }
