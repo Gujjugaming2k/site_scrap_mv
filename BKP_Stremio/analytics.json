@@ -1,5 +1,5 @@
 {
-  "totalViews": 30212,
+  "totalViews": 30216,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6027,41 +6027,12 @@
     "2402:a00:10a:815f:d4ad:fb2c:56df:61f0",
     "2409:40d0:1007:53e9:8c9c:d8ff:fec4:a967",
     "202.173.124.186",
-    "2409:40e1:301e:2f31:994d:ba56:4953:37dd"
+    "2409:40e1:301e:2f31:994d:ba56:4953:37dd",
+    "2409:40d4:408c:5b27:8000::",
+    "2001:4490:444d:429b:c59:71e2:da36:a509",
+    "216.73.163.210"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt6077448:1:1",
-      "title": "tt6077448:1:1",
-      "timestamp": "2026-02-02T13:35:54.051Z",
-      "ip": "2402:8100:2714:2a76:f2f5:1140:c208:3396",
-      "username": "harshra9999"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:3:3",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-02-02T13:38:44.906Z",
-      "ip": "157.48.73.139",
-      "username": "kdbotz"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:3:3",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-02-02T13:38:49.226Z",
-      "ip": "157.48.73.139",
-      "username": "kdbotz"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:3:3",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-02-02T13:38:51.282Z",
-      "ip": "157.48.73.139",
-      "username": "kdbotz"
-    },
     {
       "type": "movie",
       "id": "tt0948470",
@@ -86029,6 +86000,38 @@
       "timestamp": "2026-02-25T07:43:23.571Z",
       "ip": "2409:40e1:301e:2f31:994d:ba56:4953:37dd",
       "username": "jinwoooooi"
+    },
+    {
+      "type": "series",
+      "id": "tt3613454:1:9",
+      "title": "tt3613454:1:9",
+      "timestamp": "2026-02-25T08:00:40.852Z",
+      "ip": "202.173.124.186",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt1631867",
+      "title": "Edge of Tomorrow",
+      "timestamp": "2026-02-25T08:04:25.347Z",
+      "ip": "2409:40d4:408c:5b27:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt36472392",
+      "title": "tt36472392",
+      "timestamp": "2026-02-25T08:04:36.110Z",
+      "ip": "2001:4490:444d:429b:c59:71e2:da36:a509",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt3716466:1:1",
+      "title": "tt3716466:1:1",
+      "timestamp": "2026-02-25T08:12:13.990Z",
+      "ip": "216.73.163.210",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -87931,10 +87934,10 @@
     },
     "202.173.124.186": {
       "type": "series",
-      "id": "tt3613454:1:8",
-      "title": "tt3613454:1:8",
+      "id": "tt3613454:1:9",
+      "title": "tt3613454:1:9",
       "username": "ryuzaklo26",
-      "lastActive": 1772004925254
+      "lastActive": 1772006440852
     },
     "2409:40e1:301e:2f31:994d:ba56:4953:37dd": {
       "type": "movie",
@@ -87942,6 +87945,27 @@
       "title": "tt32141377",
       "username": "jinwoooooi",
       "lastActive": 1772005403571
+    },
+    "2409:40d4:408c:5b27:8000::": {
+      "type": "movie",
+      "id": "tt1631867",
+      "title": "Edge of Tomorrow",
+      "username": "kdbotz",
+      "lastActive": 1772006665347
+    },
+    "2001:4490:444d:429b:c59:71e2:da36:a509": {
+      "type": "movie",
+      "id": "tt36472392",
+      "title": "tt36472392",
+      "username": "zealousninja",
+      "lastActive": 1772006676110
+    },
+    "216.73.163.210": {
+      "type": "series",
+      "id": "tt3716466:1:1",
+      "title": "tt3716466:1:1",
+      "username": "theonlyfreak",
+      "lastActive": 1772007133990
     }
   }
 }
