@@ -1,5 +1,5 @@
 {
-  "totalViews": 30211,
+  "totalViews": 30212,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6026,17 +6026,10 @@
     "2409:40d2:3002:6d5b:9e0b:b788:a2f7:652f",
     "2402:a00:10a:815f:d4ad:fb2c:56df:61f0",
     "2409:40d0:1007:53e9:8c9c:d8ff:fec4:a967",
-    "202.173.124.186"
+    "202.173.124.186",
+    "2409:40e1:301e:2f31:994d:ba56:4953:37dd"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt6077448:1:2",
-      "title": "tt6077448:1:2",
-      "timestamp": "2026-02-02T13:35:45.167Z",
-      "ip": "2402:8100:2714:2a76:f2f5:1140:c208:3396",
-      "username": "harshra9999"
-    },
     {
       "type": "series",
       "id": "tt6077448:1:1",
@@ -86028,6 +86021,14 @@
       "timestamp": "2026-02-25T07:35:25.254Z",
       "ip": "202.173.124.186",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "timestamp": "2026-02-25T07:43:23.571Z",
+      "ip": "2409:40e1:301e:2f31:994d:ba56:4953:37dd",
+      "username": "jinwoooooi"
     }
   ],
   "activeNow": {
@@ -87934,6 +87935,13 @@
       "title": "tt3613454:1:8",
       "username": "ryuzaklo26",
       "lastActive": 1772004925254
+    },
+    "2409:40e1:301e:2f31:994d:ba56:4953:37dd": {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "username": "jinwoooooi",
+      "lastActive": 1772005403571
     }
   }
 }
