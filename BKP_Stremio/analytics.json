@@ -1,5 +1,5 @@
 {
-  "totalViews": 30196,
+  "totalViews": 30198,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6026,22 +6026,6 @@
     "2409:40d2:3002:6d5b:9e0b:b788:a2f7:652f"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt27136041",
-      "title": "tt27136041",
-      "timestamp": "2026-02-02T12:08:47.479Z",
-      "ip": "194.88.96.145",
-      "username": "b1jju"
-    },
-    {
-      "type": "series",
-      "id": "tt38973594:1:1",
-      "title": "tt38973594:1:1",
-      "timestamp": "2026-02-02T12:15:15.276Z",
-      "ip": "2409:40d2:3052:4175:895f:8bb5:a2c3:afe5",
-      "username": "saurabhkaperwan"
-    },
     {
       "type": "series",
       "id": "tt5332206:1:1",
@@ -86025,6 +86009,22 @@
       "timestamp": "2026-02-25T06:07:28.060Z",
       "ip": "2409:40d2:3002:6d5b:9e0b:b788:a2f7:652f",
       "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "timestamp": "2026-02-25T06:08:34.671Z",
+      "ip": "2409:40d2:3002:6d5b:9e0b:b788:a2f7:652f",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "timestamp": "2026-02-25T06:11:04.492Z",
+      "ip": "2409:40d2:3002:6d5b:9e0b:b788:a2f7:652f",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -87906,10 +87906,10 @@
     },
     "2409:40d2:3002:6d5b:9e0b:b788:a2f7:652f": {
       "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
+      "id": "tt1312221",
+      "title": "Frankenstein",
       "username": "saurabhkaperwan",
-      "lastActive": 1771999648060
+      "lastActive": 1771999864492
     }
   }
 }
