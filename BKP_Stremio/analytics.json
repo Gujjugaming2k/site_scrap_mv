@@ -1,5 +1,5 @@
 {
-  "totalViews": 30483,
+  "totalViews": 30486,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6078,30 +6078,6 @@
     "163.223.102.185"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1799631:1:1",
-      "title": "tt1799631:1:1",
-      "timestamp": "2026-02-02T18:35:34.881Z",
-      "ip": "182.77.78.99",
-      "username": "theaceofficials"
-    },
-    {
-      "type": "series",
-      "id": "tt21066182:1:1",
-      "title": "tt21066182:1:1",
-      "timestamp": "2026-02-02T18:36:20.458Z",
-      "ip": "182.77.78.99",
-      "username": "theaceofficials"
-    },
-    {
-      "type": "series",
-      "id": "tt21066182:1:1",
-      "title": "tt21066182:1:1",
-      "timestamp": "2026-02-02T18:37:40.431Z",
-      "ip": "182.77.78.99",
-      "username": "theaceofficials"
-    },
     {
       "type": "series",
       "id": "tt13433812:1:13",
@@ -86077,6 +86053,30 @@
       "timestamp": "2026-02-25T18:04:40.183Z",
       "ip": "139.135.35.56",
       "username": "salman730"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:1:1",
+      "title": "Lost",
+      "timestamp": "2026-02-25T18:07:24.502Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:4:11",
+      "title": "Lost",
+      "timestamp": "2026-02-25T18:08:12.073Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt34819091",
+      "title": "tt34819091",
+      "timestamp": "2026-02-25T18:19:37.851Z",
+      "ip": "163.223.102.185",
+      "username": "mutti9"
     }
   ],
   "activeNow": {
@@ -86109,11 +86109,11 @@
       "lastActive": 1771751659056
     },
     "116.68.74.159": {
-      "type": "movie",
-      "id": "tt3506970",
-      "title": "tt3506970",
+      "type": "series",
+      "id": "tt0411008:4:11",
+      "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1772042489130
+      "lastActive": 1772042892073
     },
     "103.162.158.146": {
       "type": "movie",
@@ -88332,7 +88332,7 @@
       "id": "tt34819091",
       "title": "tt34819091",
       "username": "mutti9",
-      "lastActive": 1772041977343
+      "lastActive": 1772043577851
     }
   }
 }
