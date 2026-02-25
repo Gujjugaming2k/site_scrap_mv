@@ -1,5 +1,5 @@
 {
-  "totalViews": 30199,
+  "totalViews": 30202,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6024,33 +6024,10 @@
     "2409:40c1:10bd:79d6:8082:c075:a41d:30f0",
     "59.178.129.53",
     "2409:40d2:3002:6d5b:9e0b:b788:a2f7:652f",
-    "2402:a00:10a:815f:d4ad:fb2c:56df:61f0"
+    "2402:a00:10a:815f:d4ad:fb2c:56df:61f0",
+    "2409:40d0:1007:53e9:8c9c:d8ff:fec4:a967"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt5332206:1:1",
-      "title": "tt5332206:1:1",
-      "timestamp": "2026-02-02T12:37:44.086Z",
-      "ip": "2401:4900:b85:a848:3484:22fe:fea5:4ecb",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt1187043",
-      "title": "3 Idiots",
-      "timestamp": "2026-02-02T12:47:38.528Z",
-      "ip": "2405:201:2022:b81c:f87d:4fab:85b1:3cd2",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-02T12:59:39.420Z",
-      "ip": "2401:4900:88ba:65a9:9407:f91:4c33:af0a",
-      "username": "b1jju"
-    },
     {
       "type": "series",
       "id": "tt35335046:1:1",
@@ -86026,6 +86003,30 @@
       "timestamp": "2026-02-25T06:32:46.665Z",
       "ip": "2402:a00:10a:815f:d4ad:fb2c:56df:61f0",
       "username": "vflix1993"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-25T06:46:46.776Z",
+      "ip": "2409:40d0:1007:53e9:8c9c:d8ff:fec4:a967",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt33474179",
+      "title": "tt33474179",
+      "timestamp": "2026-02-25T06:52:02.467Z",
+      "ip": "2401:4900:1ca9:45f1:24a9:6f31:1f97:d769",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:10",
+      "title": "tt30003786:4:10",
+      "timestamp": "2026-02-25T06:52:41.606Z",
+      "ip": "2401:4900:1ca9:45f1:24a9:6f31:1f97:d769",
+      "username": "nirbhay1412"
     }
   ],
   "activeNow": {
@@ -87794,11 +87795,11 @@
       "lastActive": 1771988225835
     },
     "2401:4900:1ca9:45f1:24a9:6f31:1f97:d769": {
-      "type": "movie",
-      "id": "tt33474179",
-      "title": "tt33474179",
+      "type": "series",
+      "id": "tt30003786:4:10",
+      "title": "tt30003786:4:10",
       "username": "nirbhay1412",
-      "lastActive": 1771990898573
+      "lastActive": 1772002361606
     },
     "103.186.54.176": {
       "type": "movie",
@@ -87918,6 +87919,13 @@
       "title": "tt20234568:2:5",
       "username": "vflix1993",
       "lastActive": 1772001166665
+    },
+    "2409:40d0:1007:53e9:8c9c:d8ff:fec4:a967": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "ryuzaklo26",
+      "lastActive": 1772002006776
     }
   }
 }
