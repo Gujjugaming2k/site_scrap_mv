@@ -1,5 +1,5 @@
 {
-  "totalViews": 30139,
+  "totalViews": 30142,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6017,33 +6017,10 @@
     "47.15.84.118,51.89.197.91",
     "103.99.196.119",
     "2402:8100:2ca9:36de:9648:fe65:be95:9c",
-    "2405:201:2022:b81c:102a:e1e6:3ec6:364a"
+    "2405:201:2022:b81c:102a:e1e6:3ec6:364a",
+    "2409:40e4:109a:d7ee:5031:9bd0:74df:f473"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32362695",
-      "title": "tt32362695",
-      "timestamp": "2026-02-02T08:09:40.687Z",
-      "ip": "103.24.85.19",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt4052886:5:2",
-      "title": "tt4052886:5:2",
-      "timestamp": "2026-02-02T08:55:33.028Z",
-      "ip": "2409:40c4:3155:14ba:d07e:37ff:fe11:b3d4",
-      "username": "napsteerr"
-    },
-    {
-      "type": "series",
-      "id": "tt4052886:5:1",
-      "title": "tt4052886:5:1",
-      "timestamp": "2026-02-02T08:55:34.606Z",
-      "ip": "2409:40c4:3155:14ba:d07e:37ff:fe11:b3d4",
-      "username": "napsteerr"
-    },
     {
       "type": "series",
       "id": "tt4052886:1:1",
@@ -86019,6 +85996,30 @@
       "timestamp": "2026-02-25T01:57:55.832Z",
       "ip": "103.24.85.157",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "timestamp": "2026-02-25T02:42:09.994Z",
+      "ip": "2409:40e4:109a:d7ee:5031:9bd0:74df:f473",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:10",
+      "title": "tt30003786:4:10",
+      "timestamp": "2026-02-25T02:42:27.302Z",
+      "ip": "2409:40e4:109a:d7ee:5031:9bd0:74df:f473",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:10",
+      "title": "tt30003786:4:10",
+      "timestamp": "2026-02-25T02:45:49.839Z",
+      "ip": "2409:40e4:109a:d7ee:5031:9bd0:74df:f473",
+      "username": "askchm"
     }
   ],
   "activeNow": {
@@ -87862,6 +87863,13 @@
       "title": "tt7838252",
       "username": "zealousninja",
       "lastActive": 1771981668287
+    },
+    "2409:40e4:109a:d7ee:5031:9bd0:74df:f473": {
+      "type": "series",
+      "id": "tt30003786:4:10",
+      "title": "tt30003786:4:10",
+      "username": "askchm",
+      "lastActive": 1771987549839
     }
   }
 }
