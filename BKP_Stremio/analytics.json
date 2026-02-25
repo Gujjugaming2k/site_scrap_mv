@@ -1,5 +1,5 @@
 {
-  "totalViews": 30371,
+  "totalViews": 30372,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6050,17 +6050,10 @@
     "2a02:cb80:4025:78a5:7433:c8f5:7ce4:fee5",
     "2402:8100:2ddf:dfd:d6ac:bde1:1598:903a",
     "2401:4900:4469:b833:5011:2c95:9c11:3d8b",
-    "2405:201:6025:a88d:6497:9660:8118:b9a9"
+    "2405:201:6025:a88d:6497:9660:8118:b9a9",
+    "2401:4900:8fe1:587a:5013:bc51:57ce:39cf"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-02T16:25:18.324Z",
-      "ip": "2401:4900:8ff2:1829:1432:291d:11bd:abcb",
-      "username": "theaceofficials"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -86052,6 +86045,14 @@
       "timestamp": "2026-02-25T13:42:20.809Z",
       "ip": "2405:201:6025:a88d:6497:9660:8118:b9a9",
       "username": "infinityseeker"
+    },
+    {
+      "type": "series",
+      "id": "tt31812476:2:10",
+      "title": "tt31812476:2:10",
+      "timestamp": "2026-02-25T14:12:02.698Z",
+      "ip": "2401:4900:8fe1:587a:5013:bc51:57ce:39cf",
+      "username": "ashwanileon"
     }
   ],
   "activeNow": {
@@ -88126,6 +88127,13 @@
       "title": "tt16385150:1:8",
       "username": "infinityseeker",
       "lastActive": 1772026940809
+    },
+    "2401:4900:8fe1:587a:5013:bc51:57ce:39cf": {
+      "type": "series",
+      "id": "tt31812476:2:10",
+      "title": "tt31812476:2:10",
+      "username": "ashwanileon",
+      "lastActive": 1772028722698
     }
   }
 }
