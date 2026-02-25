@@ -1,5 +1,5 @@
 {
-  "totalViews": 30137,
+  "totalViews": 30138,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6016,17 +6016,10 @@
     "47.15.84.118",
     "47.15.84.118,51.89.197.91",
     "103.99.196.119",
-    "2402:8100:2ca9:36de:9648:fe65:be95:9c"
+    "2402:8100:2ca9:36de:9648:fe65:be95:9c",
+    "2405:201:2022:b81c:102a:e1e6:3ec6:364a"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-02-02T08:04:48.412Z",
-      "ip": "117.212.5.188",
-      "username": "zealousninja"
-    },
     {
       "type": "movie",
       "id": "tt31193180",
@@ -86018,6 +86011,14 @@
       "timestamp": "2026-02-25T00:56:23.938Z",
       "ip": "190.250.228.161",
       "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt7838252",
+      "title": "tt7838252",
+      "timestamp": "2026-02-25T01:07:48.287Z",
+      "ip": "2405:201:2022:b81c:102a:e1e6:3ec6:364a",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -87854,6 +87855,13 @@
       "title": "tt28102562",
       "username": "ymcinema",
       "lastActive": 1771980983938
+    },
+    "2405:201:2022:b81c:102a:e1e6:3ec6:364a": {
+      "type": "movie",
+      "id": "tt7838252",
+      "title": "tt7838252",
+      "username": "zealousninja",
+      "lastActive": 1771981668287
     }
   }
 }
