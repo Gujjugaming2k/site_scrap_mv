@@ -1,5 +1,5 @@
 {
-  "totalViews": 30198,
+  "totalViews": 30199,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6023,17 +6023,10 @@
     "200.46.70.197",
     "2409:40c1:10bd:79d6:8082:c075:a41d:30f0",
     "59.178.129.53",
-    "2409:40d2:3002:6d5b:9e0b:b788:a2f7:652f"
+    "2409:40d2:3002:6d5b:9e0b:b788:a2f7:652f",
+    "2402:a00:10a:815f:d4ad:fb2c:56df:61f0"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt5332206:1:1",
-      "title": "tt5332206:1:1",
-      "timestamp": "2026-02-02T12:36:14.682Z",
-      "ip": "2401:4900:b85:a848:3484:22fe:fea5:4ecb",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt5332206:1:1",
@@ -86025,6 +86018,14 @@
       "timestamp": "2026-02-25T06:11:04.492Z",
       "ip": "2409:40d2:3002:6d5b:9e0b:b788:a2f7:652f",
       "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt20234568:2:5",
+      "title": "tt20234568:2:5",
+      "timestamp": "2026-02-25T06:32:46.665Z",
+      "ip": "2402:a00:10a:815f:d4ad:fb2c:56df:61f0",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -87910,6 +87911,13 @@
       "title": "Frankenstein",
       "username": "saurabhkaperwan",
       "lastActive": 1771999864492
+    },
+    "2402:a00:10a:815f:d4ad:fb2c:56df:61f0": {
+      "type": "series",
+      "id": "tt20234568:2:5",
+      "title": "tt20234568:2:5",
+      "username": "vflix1993",
+      "lastActive": 1772001166665
     }
   }
 }
