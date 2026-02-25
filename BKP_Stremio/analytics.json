@@ -1,5 +1,5 @@
 {
-  "totalViews": 30457,
+  "totalViews": 30462,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6071,49 +6071,11 @@
     "2405:201:c013:93e:844b:9116:18b6:7174",
     "2401:4900:ca98:e464:e027:25ff:fef1:28f2",
     "2401:4900:1c0b:1e04:5cc9:31c3:9a8:7b78",
-    "2405:201:2022:b81c:147:9b71:ad28:805b"
+    "2405:201:2022:b81c:147:9b71:ad28:805b",
+    "2405:201:900f:a92b:5964:ebb6:e6af:674f",
+    "2409:40e4:1084:50d9:a884:d583:d4c4:2d6f"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt32395862:1:1",
-      "title": "tt32395862:1:1",
-      "timestamp": "2026-02-02T17:54:08.183Z",
-      "ip": "2409:40e5:11fc:16d0:6099:9eff:fee2:4468",
-      "username": "magicmannn"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:2:21",
-      "title": "Lost",
-      "timestamp": "2026-02-02T17:54:13.020Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-02T17:56:43.912Z",
-      "ip": "2405:201:2022:b81c:f87d:4fab:85b1:3cd2",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt0898367",
-      "title": "tt0898367",
-      "timestamp": "2026-02-02T17:58:33.674Z",
-      "ip": "122.179.83.162",
-      "username": "user_9b"
-    },
-    {
-      "type": "movie",
-      "id": "tt0398808",
-      "title": "tt0398808",
-      "timestamp": "2026-02-02T17:59:16.753Z",
-      "ip": "122.179.83.162",
-      "username": "user_9b"
-    },
     {
       "type": "movie",
       "id": "tt0053125",
@@ -86073,6 +86035,46 @@
       "timestamp": "2026-02-25T17:00:03.593Z",
       "ip": "103.98.63.135",
       "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt14181714",
+      "title": "tt14181714",
+      "timestamp": "2026-02-25T17:02:39.911Z",
+      "ip": "2405:201:900f:a92b:5964:ebb6:e6af:674f",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt14181714",
+      "title": "tt14181714",
+      "timestamp": "2026-02-25T17:05:17.212Z",
+      "ip": "2409:40e4:1084:50d9:a884:d583:d4c4:2d6f",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-25T17:08:54.765Z",
+      "ip": "2401:4900:1caa:aab9:b500:a44d:bea9:4d17",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt0119643",
+      "title": "Meet Joe Black",
+      "timestamp": "2026-02-25T17:09:11.765Z",
+      "ip": "2409:40e4:1084:50d9:a884:d583:d4c4:2d6f",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt30412869:1:1",
+      "title": "tt30412869:1:1",
+      "timestamp": "2026-02-25T17:10:27.193Z",
+      "ip": "2401:4900:1caa:aab9:b500:a44d:bea9:4d17",
+      "username": "nirbhay1412"
     }
   ],
   "activeNow": {
@@ -88233,11 +88235,11 @@
       "lastActive": 1772034726201
     },
     "2401:4900:1caa:aab9:b500:a44d:bea9:4d17": {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
+      "type": "series",
+      "id": "tt30412869:1:1",
+      "title": "tt30412869:1:1",
       "username": "nirbhay1412",
-      "lastActive": 1772035202951
+      "lastActive": 1772039427193
     },
     "2405:201:c013:93e:d7f0:cdae:6513:279a": {
       "type": "movie",
@@ -88301,6 +88303,20 @@
       "title": "tmdb:20453",
       "username": "zealousninja",
       "lastActive": 1772038143465
+    },
+    "2405:201:900f:a92b:5964:ebb6:e6af:674f": {
+      "type": "movie",
+      "id": "tt14181714",
+      "title": "tt14181714",
+      "username": "theonlyfreak",
+      "lastActive": 1772038959911
+    },
+    "2409:40e4:1084:50d9:a884:d583:d4c4:2d6f": {
+      "type": "movie",
+      "id": "tt0119643",
+      "title": "Meet Joe Black",
+      "username": "askchm",
+      "lastActive": 1772039351765
     }
   }
 }
