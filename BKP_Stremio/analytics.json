@@ -1,5 +1,5 @@
 {
-  "totalViews": 30397,
+  "totalViews": 30400,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6057,33 +6057,10 @@
     "2409:40d4:403e:3e8b:8000::",
     "2406:7400:3b:55f4:b580:f59:97eb:4f99",
     "2a02:9b0:106:4496:d5a:c6e:f8b2:5c7f",
-    "2405:201:6025:a88d:35ea:878:14d8:ea20"
+    "2405:201:6025:a88d:35ea:878:14d8:ea20",
+    "45.146.54.72"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-02T17:08:34.160Z",
-      "ip": "202.173.124.118",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-02T17:09:11.284Z",
-      "ip": "202.173.124.118",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt17424358",
-      "title": "tt17424358",
-      "timestamp": "2026-02-02T17:09:17.571Z",
-      "ip": "202.173.124.118",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -86059,6 +86036,30 @@
       "timestamp": "2026-02-25T14:55:59.953Z",
       "ip": "2405:201:6025:a88d:35ea:878:14d8:ea20",
       "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt4912452",
+      "title": "tt4912452",
+      "timestamp": "2026-02-25T14:59:57.913Z",
+      "ip": "45.146.54.65",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt30412869:1:1",
+      "title": "tt30412869:1:1",
+      "timestamp": "2026-02-25T15:01:40.455Z",
+      "ip": "2405:201:6025:a88d:35ea:878:14d8:ea20",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt0102293",
+      "title": "tt0102293",
+      "timestamp": "2026-02-25T15:12:51.638Z",
+      "ip": "45.146.54.72",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -88150,10 +88151,10 @@
     },
     "45.146.54.65": {
       "type": "movie",
-      "id": "tt8549590",
-      "title": "tt8549590",
+      "id": "tt4912452",
+      "title": "tt4912452",
       "username": "theonlyfreak",
-      "lastActive": 1772031213168
+      "lastActive": 1772031597913
     },
     "2409:40d4:403e:3e8b:8000::": {
       "type": "series",
@@ -88177,11 +88178,18 @@
       "lastActive": 1772031084205
     },
     "2405:201:6025:a88d:35ea:878:14d8:ea20": {
-      "type": "movie",
-      "id": "tt4302956",
-      "title": "tt4302956",
+      "type": "series",
+      "id": "tt30412869:1:1",
+      "title": "tt30412869:1:1",
       "username": "infinityseeker",
-      "lastActive": 1772031359953
+      "lastActive": 1772031700455
+    },
+    "45.146.54.72": {
+      "type": "movie",
+      "id": "tt0102293",
+      "title": "tt0102293",
+      "username": "theonlyfreak",
+      "lastActive": 1772032371638
     }
   }
 }
