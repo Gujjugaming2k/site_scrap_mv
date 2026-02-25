@@ -1,5 +1,5 @@
 {
-  "totalViews": 30300,
+  "totalViews": 30304,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6045,41 +6045,10 @@
     "216.73.163.213",
     "2409:40d0:13a9:c0b6:3dcd:f4f1:a783:b058",
     "2400:1c00:f7:8501:780e:3fff:fe7b:2c0e",
-    "66.102.121.216"
+    "66.102.121.216",
+    "27.58.118.215"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:1",
-      "title": "tt35335046:1:1",
-      "timestamp": "2026-02-02T15:09:57.915Z",
-      "ip": "49.37.8.11",
-      "username": "lazerkey"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:2",
-      "title": "tt35335046:1:2",
-      "timestamp": "2026-02-02T15:10:26.859Z",
-      "ip": "49.37.8.11",
-      "username": "lazerkey"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:1:2",
-      "title": "tt1399664:1:2",
-      "timestamp": "2026-02-02T15:10:50.933Z",
-      "ip": "2401:4900:3e8a:2884:149b:aff:fea1:3a06",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:1:1",
-      "title": "tt1399664:1:1",
-      "timestamp": "2026-02-02T15:12:09.520Z",
-      "ip": "2401:4900:3e8a:2884:149b:aff:fea1:3a06",
-      "username": "william097"
-    },
     {
       "type": "movie",
       "id": "tt36815135",
@@ -86047,6 +86016,38 @@
       "timestamp": "2026-02-25T12:35:57.539Z",
       "ip": "103.87.57.119",
       "username": "kunal_baroliya"
+    },
+    {
+      "type": "movie",
+      "id": "tt33307516",
+      "title": "tt33307516",
+      "timestamp": "2026-02-25T12:39:28.090Z",
+      "ip": "2405:201:6025:a88d:408d:9598:684c:1fad",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "series",
+      "id": "tt21209804:1:1",
+      "title": "tt21209804:1:1",
+      "timestamp": "2026-02-25T12:48:32.776Z",
+      "ip": "103.87.57.119",
+      "username": "kunal_baroliya"
+    },
+    {
+      "type": "series",
+      "id": "tt7221388:6:4",
+      "title": "tt7221388:6:4",
+      "timestamp": "2026-02-25T12:51:06.025Z",
+      "ip": "27.58.118.215",
+      "username": "user_9b"
+    },
+    {
+      "type": "series",
+      "id": "tt7221388:6:5",
+      "title": "tt7221388:6:5",
+      "timestamp": "2026-02-25T12:51:41.439Z",
+      "ip": "27.58.118.215",
+      "username": "user_9b"
     }
   ],
   "activeNow": {
@@ -87984,10 +87985,10 @@
     },
     "103.87.57.119": {
       "type": "series",
-      "id": "tt13911284:2:1",
-      "title": "tt13911284:2:1",
+      "id": "tt21209804:1:1",
+      "title": "tt21209804:1:1",
       "username": "kunal_baroliya",
-      "lastActive": 1772022957539
+      "lastActive": 1772023712776
     },
     "49.47.152.174": {
       "type": "movie",
@@ -88047,10 +88048,10 @@
     },
     "2405:201:6025:a88d:408d:9598:684c:1fad": {
       "type": "movie",
-      "id": "tt4302956",
-      "title": "tt4302956",
+      "id": "tt33307516",
+      "title": "tt33307516",
       "username": "infinityseeker",
-      "lastActive": 1772014687430
+      "lastActive": 1772023168090
     },
     "2409:40e4:1084:50d9:ad24:249e:c309:6550": {
       "type": "movie",
@@ -88086,6 +88087,13 @@
       "title": "tt32357218",
       "username": "hvre2",
       "lastActive": 1772022447709
+    },
+    "27.58.118.215": {
+      "type": "series",
+      "id": "tt7221388:6:5",
+      "title": "tt7221388:6:5",
+      "username": "user_9b",
+      "lastActive": 1772023901439
     }
   }
 }
