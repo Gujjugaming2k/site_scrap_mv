@@ -1,5 +1,5 @@
 {
-  "totalViews": 30420,
+  "totalViews": 30425,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6063,49 +6063,11 @@
     "2405:201:203e:b800:54fa:2a42:9647:4cce",
     "2401:4900:883d:747f:99d:21a4:c543:fa60",
     "223.226.165.200",
-    "2401:4900:1caa:aab9:b500:a44d:bea9:4d17"
+    "2401:4900:1caa:aab9:b500:a44d:bea9:4d17",
+    "2405:201:c013:93e:d7f0:cdae:6513:279a",
+    "202.89.77.93"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30387012",
-      "title": "tt30387012",
-      "timestamp": "2026-02-02T17:18:50.483Z",
-      "ip": "2405:201:202d:d014:4e8a:aff:9297:3866",
-      "username": "explorerindia"
-    },
-    {
-      "type": "series",
-      "id": "tt37062070:1:6",
-      "title": "tt37062070:1:6",
-      "timestamp": "2026-02-02T17:18:51.225Z",
-      "ip": "2401:4900:1f29:a02f:c8e8:d752:90af:4b8d",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt37062070:1:6",
-      "title": "tt37062070:1:6",
-      "timestamp": "2026-02-02T17:19:53.891Z",
-      "ip": "2401:4900:1f29:a02f:c8e8:d752:90af:4b8d",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt37062070:1:6",
-      "title": "tt37062070:1:6",
-      "timestamp": "2026-02-02T17:20:04.345Z",
-      "ip": "2401:4900:1f29:a02f:c8e8:d752:90af:4b8d",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-02T17:21:36.936Z",
-      "ip": "2001:ac8:2:1::13",
-      "username": "golu_vk"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -86065,6 +86027,46 @@
       "timestamp": "2026-02-25T15:56:03.357Z",
       "ip": "2401:4900:1caa:aab9:b500:a44d:bea9:4d17",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt35146696",
+      "title": "tt35146696",
+      "timestamp": "2026-02-25T15:59:46.444Z",
+      "ip": "2401:4900:1caa:aab9:b500:a44d:bea9:4d17",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-25T16:00:02.951Z",
+      "ip": "2401:4900:1caa:aab9:b500:a44d:bea9:4d17",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-25T16:08:04.793Z",
+      "ip": "2405:201:c013:93e:d7f0:cdae:6513:279a",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "movie",
+      "id": "tt32304349",
+      "title": "The Carpenter's Son",
+      "timestamp": "2026-02-25T16:09:02.637Z",
+      "ip": "202.89.77.93",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt32304349",
+      "title": "The Carpenter's Son",
+      "timestamp": "2026-02-25T16:10:38.345Z",
+      "ip": "202.89.77.93",
+      "username": "ryuzaklo26"
     }
   ],
   "activeNow": {
@@ -88226,10 +88228,24 @@
     },
     "2401:4900:1caa:aab9:b500:a44d:bea9:4d17": {
       "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "nirbhay1412",
+      "lastActive": 1772035202951
+    },
+    "2405:201:c013:93e:d7f0:cdae:6513:279a": {
+      "type": "movie",
       "id": "tt33014583",
       "title": "Dhurandhar",
-      "username": "nirbhay1412",
-      "lastActive": 1772034963357
+      "username": "saisrinivas",
+      "lastActive": 1772035684793
+    },
+    "202.89.77.93": {
+      "type": "movie",
+      "id": "tt32304349",
+      "title": "The Carpenter's Son",
+      "username": "ryuzaklo26",
+      "lastActive": 1772035838345
     }
   }
 }
