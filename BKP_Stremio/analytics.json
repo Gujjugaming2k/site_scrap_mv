@@ -1,5 +1,5 @@
 {
-  "totalViews": 30131,
+  "totalViews": 30137,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6019,54 +6019,6 @@
     "2402:8100:2ca9:36de:9648:fe65:be95:9c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt10919420:3:4",
-      "title": "tt10919420:3:4",
-      "timestamp": "2026-02-02T07:58:57.397Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "series",
-      "id": "tt10919420:3:2",
-      "title": "tt10919420:3:2",
-      "timestamp": "2026-02-02T07:59:03.340Z",
-      "ip": "106.222.216.176,2a09:bac5:37ac:26c8::3dd:5d",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt10243678",
-      "title": "tt10243678",
-      "timestamp": "2026-02-02T07:59:06.087Z",
-      "ip": "117.212.5.188",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt14107334",
-      "title": "tt14107334",
-      "timestamp": "2026-02-02T08:02:21.926Z",
-      "ip": "117.212.5.188",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-02-02T08:03:53.685Z",
-      "ip": "117.212.5.188",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-02-02T08:04:26.470Z",
-      "ip": "117.212.5.188",
-      "username": "zealousninja"
-    },
     {
       "type": "movie",
       "id": "tt31193180",
@@ -86018,6 +85970,54 @@
       "timestamp": "2026-02-24T23:00:42.076Z",
       "ip": "2402:8100:2ca9:36de:9648:fe65:be95:9c",
       "username": "schnom153"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-25T00:46:56.305Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "timestamp": "2026-02-25T00:47:02.717Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-25T00:47:06.219Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-25T00:48:31.703Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-25T00:49:23.844Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt28102562",
+      "title": "tt28102562",
+      "timestamp": "2026-02-25T00:56:23.938Z",
+      "ip": "190.250.228.161",
+      "username": "ymcinema"
     }
   ],
   "activeNow": {
@@ -86260,11 +86260,11 @@
       "lastActive": 1771743559957
     },
     "203.192.255.46": {
-      "type": "series",
-      "id": "tt12637874:2:6",
-      "title": "Fallout",
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
       "username": "chetan_b2",
-      "lastActive": 1771860835399
+      "lastActive": 1771980563844
     },
     "2405:201:200d:906b:e9b9:acfe:e6f5:2f4f": {
       "type": "movie",
@@ -87847,6 +87847,13 @@
       "title": "tt6354518:1:3",
       "username": "schnom153",
       "lastActive": 1771974042076
+    },
+    "190.250.228.161": {
+      "type": "movie",
+      "id": "tt28102562",
+      "title": "tt28102562",
+      "username": "ymcinema",
+      "lastActive": 1771980983938
     }
   }
 }
