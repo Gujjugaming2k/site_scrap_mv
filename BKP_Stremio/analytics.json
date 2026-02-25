@@ -1,5 +1,5 @@
 {
-  "totalViews": 30362,
+  "totalViews": 30367,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6048,49 +6048,10 @@
     "66.102.121.216",
     "27.58.118.215",
     "2a02:cb80:4025:78a5:7433:c8f5:7ce4:fee5",
-    "2402:8100:2ddf:dfd:d6ac:bde1:1598:903a"
+    "2402:8100:2ddf:dfd:d6ac:bde1:1598:903a",
+    "2401:4900:4469:b833:5011:2c95:9c11:3d8b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1399664:1:2",
-      "title": "tt1399664:1:2",
-      "timestamp": "2026-02-02T16:23:01.549Z",
-      "ip": "103.24.85.17",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:1:2",
-      "title": "tt1399664:1:2",
-      "timestamp": "2026-02-02T16:23:34.930Z",
-      "ip": "103.24.85.17",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt13433812:1:12",
-      "title": "Vincenzo",
-      "timestamp": "2026-02-02T16:23:41.296Z",
-      "ip": "2401:4900:8ff2:1829:1432:291d:11bd:abcb",
-      "username": "theaceofficials"
-    },
-    {
-      "type": "movie",
-      "id": "tt32820897",
-      "title": "tt32820897",
-      "timestamp": "2026-02-02T16:24:03.285Z",
-      "ip": "2401:4900:8ff2:1829:1432:291d:11bd:abcb",
-      "username": "theaceofficials"
-    },
-    {
-      "type": "movie",
-      "id": "tt30144839",
-      "title": "One Battle After Another",
-      "timestamp": "2026-02-02T16:24:37.454Z",
-      "ip": "103.24.85.17",
-      "username": "william097"
-    },
     {
       "type": "movie",
       "id": "tt30472557",
@@ -86050,6 +86011,46 @@
       "timestamp": "2026-02-25T13:17:59.532Z",
       "ip": "103.98.63.135",
       "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:1",
+      "title": "tt0903747:1:1",
+      "timestamp": "2026-02-25T13:23:38.428Z",
+      "ip": "2401:4900:4469:b833:5011:2c95:9c11:3d8b",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:1",
+      "title": "tt0903747:1:1",
+      "timestamp": "2026-02-25T13:25:13.661Z",
+      "ip": "2401:4900:4469:b833:5011:2c95:9c11:3d8b",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:1",
+      "title": "tt0903747:1:1",
+      "timestamp": "2026-02-25T13:25:17.122Z",
+      "ip": "2401:4900:4469:b833:5011:2c95:9c11:3d8b",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt8962124:5:5",
+      "title": "tt8962124:5:5",
+      "timestamp": "2026-02-25T13:26:19.796Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt14181714",
+      "title": "tt14181714",
+      "timestamp": "2026-02-25T13:30:14.332Z",
+      "ip": "103.98.63.135",
+      "username": "thala_75"
     }
   ],
   "activeNow": {
@@ -86292,11 +86293,11 @@
       "lastActive": 1771743559957
     },
     "203.192.255.46": {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
+      "type": "series",
+      "id": "tt8962124:5:5",
+      "title": "tt8962124:5:5",
       "username": "chetan_b2",
-      "lastActive": 1771980563844
+      "lastActive": 1772025979796
     },
     "2405:201:200d:906b:e9b9:acfe:e6f5:2f4f": {
       "type": "movie",
@@ -87174,11 +87175,11 @@
       "lastActive": 1771851620023
     },
     "103.98.63.135": {
-      "type": "series",
-      "id": "tt15722548:1:1",
-      "title": "tt15722548:1:1",
+      "type": "movie",
+      "id": "tt14181714",
+      "title": "tt14181714",
       "username": "thala_75",
-      "lastActive": 1772025479532
+      "lastActive": 1772026214332
     },
     "2401:4900:8831:6c27:6c55:5476:26c7:d6fe": {
       "type": "series",
@@ -88110,6 +88111,13 @@
       "title": "tt10233718",
       "username": "harshra9999",
       "lastActive": 1772024600448
+    },
+    "2401:4900:4469:b833:5011:2c95:9c11:3d8b": {
+      "type": "series",
+      "id": "tt0903747:1:1",
+      "title": "tt0903747:1:1",
+      "username": "gaendaswami",
+      "lastActive": 1772025917122
     }
   }
 }
