@@ -1,5 +1,5 @@
 {
-  "totalViews": 30916,
+  "totalViews": 30920,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6137,41 +6137,12 @@
     "103.44.49.216",
     "115.98.232.39",
     "163.223.102.169",
-    "2603:3003:3544:6700:28b1:d8c:7471:aaa"
+    "2603:3003:3544:6700:28b1:d8c:7471:aaa",
+    "2409:40d0:2006:306a:a87e:83ff:fe01:3099",
+    "181.197.55.188",
+    "2401:4900:88eb:116c:4d86:19e1:fac5:8b27"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt26238710",
-      "title": "tt26238710",
-      "timestamp": "2026-02-04T09:21:01.914Z",
-      "ip": "2409:40e2:20a6:f205:5d5:7b41:b958:4d6e",
-      "username": "adr7000"
-    },
-    {
-      "type": "movie",
-      "id": "tt3526286",
-      "title": "tt3526286",
-      "timestamp": "2026-02-04T09:28:38.222Z",
-      "ip": "103.46.200.105",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt22868844",
-      "title": "Black Clover: Sword of the Wizard King",
-      "timestamp": "2026-02-04T09:40:06.903Z",
-      "ip": "157.48.66.127",
-      "username": "kdbotz"
-    },
-    {
-      "type": "series",
-      "id": "tt0388629:22:42",
-      "title": "tt0388629:22:42",
-      "timestamp": "2026-02-04T10:09:47.033Z",
-      "ip": "27.6.92.204",
-      "username": "nothing_8888"
-    },
     {
       "type": "series",
       "id": "tt0388629:22:43",
@@ -86139,6 +86110,38 @@
       "timestamp": "2026-02-26T19:20:51.552Z",
       "ip": "2001:4490:4e65:3f99:b466:4039:a955:1389",
       "username": "adiyogivishwanath"
+    },
+    {
+      "type": "movie",
+      "id": "tt0289043",
+      "title": "28 Days Later",
+      "timestamp": "2026-02-26T19:25:54.809Z",
+      "ip": "2409:40d0:2006:306a:a87e:83ff:fe01:3099",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt39992549:1:1",
+      "title": "tt39992549:1:1",
+      "timestamp": "2026-02-26T19:36:24.739Z",
+      "ip": "181.197.55.188",
+      "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt0289043",
+      "title": "28 Days Later",
+      "timestamp": "2026-02-26T19:39:05.885Z",
+      "ip": "2401:4900:88eb:116c:4d86:19e1:fac5:8b27",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt0289043",
+      "title": "28 Days Later",
+      "timestamp": "2026-02-26T19:39:22.362Z",
+      "ip": "2401:4900:88eb:116c:4d86:19e1:fac5:8b27",
+      "username": "ryuzaklo26"
     }
   ],
   "activeNow": {
@@ -88836,6 +88839,27 @@
       "title": "tt13130308",
       "username": "anupambabu_97",
       "lastActive": 1772133340095
+    },
+    "2409:40d0:2006:306a:a87e:83ff:fe01:3099": {
+      "type": "movie",
+      "id": "tt0289043",
+      "title": "28 Days Later",
+      "username": "ryuzaklo26",
+      "lastActive": 1772133954809
+    },
+    "181.197.55.188": {
+      "type": "series",
+      "id": "tt39992549:1:1",
+      "title": "tt39992549:1:1",
+      "username": "ymcinema",
+      "lastActive": 1772134584739
+    },
+    "2401:4900:88eb:116c:4d86:19e1:fac5:8b27": {
+      "type": "movie",
+      "id": "tt0289043",
+      "title": "28 Days Later",
+      "username": "ryuzaklo26",
+      "lastActive": 1772134762362
     }
   }
 }
