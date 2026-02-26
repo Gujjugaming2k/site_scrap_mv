@@ -1,5 +1,5 @@
 {
-  "totalViews": 30656,
+  "totalViews": 30661,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6100,49 +6100,11 @@
     "223.181.96.219",
     "2409:40e4:108c:2b3:65a8:6425:ee77:6f4e",
     "103.171.193.120",
-    "2401:4900:88f5:46cd:7019:9bce:a802:ebc7"
+    "2401:4900:88f5:46cd:7019:9bce:a802:ebc7",
+    "2402:8100:2dee:1edb:230e:4b30:4340:a9c0",
+    "2401:4900:88c7:c777:b8b6:7ea6:ce0c:df27"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt13706018:3:10",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-02-03T15:20:21.801Z",
-      "ip": "103.249.4.50",
-      "username": "tgh2r"
-    },
-    {
-      "type": "series",
-      "id": "tt13706018:3:10",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-02-03T15:20:37.217Z",
-      "ip": "103.249.4.50",
-      "username": "tgh2r"
-    },
-    {
-      "type": "series",
-      "id": "tt13706018:3:11",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-02-03T15:20:57.427Z",
-      "ip": "103.249.4.50",
-      "username": "tgh2r"
-    },
-    {
-      "type": "series",
-      "id": "tt13706018:3:10",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-02-03T15:21:02.968Z",
-      "ip": "103.249.4.50",
-      "username": "tgh2r"
-    },
-    {
-      "type": "series",
-      "id": "tt13706018:3:11",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-02-03T15:21:25.321Z",
-      "ip": "103.249.4.50",
-      "username": "tgh2r"
-    },
     {
       "type": "movie",
       "id": "tt33244668",
@@ -86102,6 +86064,46 @@
       "timestamp": "2026-02-26T07:41:19.227Z",
       "ip": "2001:4490:444d:b12c:8cbc:4d6e:984f:1b07",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt6077448:1:1",
+      "title": "tt6077448:1:1",
+      "timestamp": "2026-02-26T07:54:22.472Z",
+      "ip": "2402:8100:2dee:1edb:230e:4b30:4340:a9c0",
+      "username": "harshra9999"
+    },
+    {
+      "type": "series",
+      "id": "tt6077448:1:1",
+      "title": "tt6077448:1:1",
+      "timestamp": "2026-02-26T07:54:26.374Z",
+      "ip": "2402:8100:2dee:1edb:230e:4b30:4340:a9c0",
+      "username": "harshra9999"
+    },
+    {
+      "type": "series",
+      "id": "tt6077448:2:5",
+      "title": "tt6077448:2:5",
+      "timestamp": "2026-02-26T07:54:36.411Z",
+      "ip": "2402:8100:2dee:1edb:230e:4b30:4340:a9c0",
+      "username": "harshra9999"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:21:178",
+      "title": "tt0388629:21:178",
+      "timestamp": "2026-02-26T07:54:51.906Z",
+      "ip": "2401:4900:88c7:c777:b8b6:7ea6:ce0c:df27",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt6077448:2:6",
+      "title": "tt6077448:2:6",
+      "timestamp": "2026-02-26T07:56:16.656Z",
+      "ip": "2402:8100:2dee:1edb:230e:4b30:4340:a9c0",
+      "username": "harshra9999"
     }
   ],
   "activeNow": {
@@ -88533,6 +88535,20 @@
       "title": "tt10964468",
       "username": "rishix915",
       "lastActive": 1772091280389
+    },
+    "2402:8100:2dee:1edb:230e:4b30:4340:a9c0": {
+      "type": "series",
+      "id": "tt6077448:2:6",
+      "title": "tt6077448:2:6",
+      "username": "harshra9999",
+      "lastActive": 1772092576656
+    },
+    "2401:4900:88c7:c777:b8b6:7ea6:ce0c:df27": {
+      "type": "series",
+      "id": "tt0388629:21:178",
+      "title": "tt0388629:21:178",
+      "username": "theaceofficials",
+      "lastActive": 1772092491906
     }
   }
 }
