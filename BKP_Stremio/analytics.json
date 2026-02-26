@@ -1,5 +1,5 @@
 {
-  "totalViews": 30710,
+  "totalViews": 30713,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6113,30 +6113,6 @@
     "2405:201:203e:b800:75c3:1fac:6f5:8383"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt36812904:1:1",
-      "title": "tt36812904:1:1",
-      "timestamp": "2026-02-03T17:17:31.414Z",
-      "ip": "202.173.124.118",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "movie",
-      "id": "tt22742720",
-      "title": "tt22742720",
-      "timestamp": "2026-02-03T17:17:52.297Z",
-      "ip": "103.240.170.95",
-      "username": "pingmenoone"
-    },
-    {
-      "type": "movie",
-      "id": "tt22742720",
-      "title": "tt22742720",
-      "timestamp": "2026-02-03T17:18:31.633Z",
-      "ip": "2405:201:203e:b800:5b5b:35e1:7a08:188e",
-      "username": "pingmenoone"
-    },
     {
       "type": "series",
       "id": "tt6354518:2:15",
@@ -86112,6 +86088,30 @@
       "timestamp": "2026-02-26T11:47:08.401Z",
       "ip": "2405:201:203e:b800:75c3:1fac:6f5:8383",
       "username": "ujas"
+    },
+    {
+      "type": "movie",
+      "id": "tt29644189",
+      "title": "Black Phone 2",
+      "timestamp": "2026-02-26T12:02:12.214Z",
+      "ip": "2405:201:203e:b800:75c3:1fac:6f5:8383",
+      "username": "ujas"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:2:5",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-26T12:08:28.176Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:2:5",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-26T12:09:09.407Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
     }
   ],
   "activeNow": {
@@ -86176,7 +86176,7 @@
       "id": "tt0944947:2:5",
       "title": "Game of Thrones",
       "username": "un0fficial_itachi",
-      "lastActive": 1772105552634
+      "lastActive": 1772107749407
     },
     "103.249.4.57": {
       "type": "series",
@@ -88616,10 +88616,10 @@
     },
     "2405:201:203e:b800:75c3:1fac:6f5:8383": {
       "type": "movie",
-      "id": "tt7144666",
-      "title": "The Black Phone",
+      "id": "tt29644189",
+      "title": "Black Phone 2",
       "username": "ujas",
-      "lastActive": 1772106428401
+      "lastActive": 1772107332214
     }
   }
 }
