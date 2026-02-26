@@ -1,5 +1,5 @@
 {
-  "totalViews": 30933,
+  "totalViews": 30934,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6141,17 +6141,10 @@
     "2409:40d0:2006:306a:a87e:83ff:fe01:3099",
     "181.197.55.188",
     "2401:4900:88eb:116c:4d86:19e1:fac5:8b27",
-    "2a09:bac1:36a0:80::243:99"
+    "2a09:bac1:36a0:80::243:99",
+    "2409:40e4:1093:e30a:2d81:180f:a28e:93e6"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0479968",
-      "title": "tt0479968",
-      "timestamp": "2026-02-04T10:31:48.117Z",
-      "ip": "173.239.211.31",
-      "username": "theonlyfreak"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -86143,6 +86136,14 @@
       "timestamp": "2026-02-26T21:14:18.508Z",
       "ip": "2406:7400:3b:55f4::d3d",
       "username": "telegram"
+    },
+    {
+      "type": "movie",
+      "id": "tt6963912",
+      "title": "tt6963912",
+      "timestamp": "2026-02-26T21:59:15.545Z",
+      "ip": "2409:40e4:1093:e30a:2d81:180f:a28e:93e6",
+      "username": "askmeword"
     }
   ],
   "activeNow": {
@@ -88875,6 +88876,13 @@
       "title": "tt0412142:8:5",
       "username": "telegram",
       "lastActive": 1772140458508
+    },
+    "2409:40e4:1093:e30a:2d81:180f:a28e:93e6": {
+      "type": "movie",
+      "id": "tt6963912",
+      "title": "tt6963912",
+      "username": "askmeword",
+      "lastActive": 1772143155545
     }
   }
 }
