@@ -1,5 +1,5 @@
 {
-  "totalViews": 30936,
+  "totalViews": 30937,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6145,14 +6145,6 @@
     "2409:40e4:1093:e30a:2d81:180f:a28e:93e6"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0388629:22:43",
-      "title": "tt0388629:22:43",
-      "timestamp": "2026-02-04T10:36:01.730Z",
-      "ip": "2409:40f0:101e:4c11:f03a:2087:bb2e:fde7",
-      "username": "nothing_8888"
-    },
     {
       "type": "series",
       "id": "tt0388629:22:44",
@@ -86144,6 +86136,14 @@
       "timestamp": "2026-02-26T22:08:07.181Z",
       "ip": "2409:40e4:1093:e30a:2d81:180f:a28e:93e6",
       "username": "askmeword"
+    },
+    {
+      "type": "movie",
+      "id": "tt0079489",
+      "title": "tt0079489",
+      "timestamp": "2026-02-26T23:03:14.536Z",
+      "ip": "2409:40e4:1093:e30a:65a8:6425:ee77:6f4e",
+      "username": "adshoyi"
     }
   ],
   "activeNow": {
@@ -88774,10 +88774,10 @@
     },
     "2409:40e4:1093:e30a:65a8:6425:ee77:6f4e": {
       "type": "movie",
-      "id": "tt21626774",
-      "title": "tt21626774",
+      "id": "tt0079489",
+      "title": "tt0079489",
       "username": "adshoyi",
-      "lastActive": 1772129593469
+      "lastActive": 1772146994536
     },
     "2001:4490:4e65:3f99:b466:4039:a955:1389": {
       "type": "series",
