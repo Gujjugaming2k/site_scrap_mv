@@ -1,5 +1,5 @@
 {
-  "totalViews": 30651,
+  "totalViews": 30652,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6098,17 +6098,10 @@
     "103.135.70.162",
     "2409:40e4:108c:2b3:c08b:85a0:496:96f3",
     "223.181.96.219",
-    "2409:40e4:108c:2b3:65a8:6425:ee77:6f4e"
+    "2409:40e4:108c:2b3:65a8:6425:ee77:6f4e",
+    "103.171.193.120"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31844233:1:1",
-      "title": "tt31844233:1:1",
-      "timestamp": "2026-02-03T15:15:31.219Z",
-      "ip": "223.181.103.142",
-      "username": "baljeet_002"
-    },
     {
       "type": "movie",
       "id": "tt14506058",
@@ -86100,6 +86093,14 @@
       "timestamp": "2026-02-26T07:15:28.935Z",
       "ip": "116.68.74.159",
       "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-02-26T07:19:11.022Z",
+      "ip": "103.171.193.120",
+      "username": "wearerequest"
     }
   ],
   "activeNow": {
@@ -88517,6 +88518,13 @@
       "title": "Meet Joe Black",
       "username": "adshoyi",
       "lastActive": 1772087746211
+    },
+    "103.171.193.120": {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "username": "wearerequest",
+      "lastActive": 1772090351022
     }
   }
 }
