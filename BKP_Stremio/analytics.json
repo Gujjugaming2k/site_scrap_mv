@@ -1,5 +1,5 @@
 {
-  "totalViews": 30635,
+  "totalViews": 30640,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6098,46 +6098,6 @@
     "103.135.70.162"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt30003786:4:7",
-      "title": "tt30003786:4:7",
-      "timestamp": "2026-02-03T14:21:53.872Z",
-      "ip": "119.42.59.126",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt30003786:4:8",
-      "title": "tt30003786:4:8",
-      "timestamp": "2026-02-03T14:22:16.173Z",
-      "ip": "119.42.59.126",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt31844233:1:1",
-      "title": "tt31844233:1:1",
-      "timestamp": "2026-02-03T14:34:49.534Z",
-      "ip": "223.181.103.142",
-      "username": "baljeet_002"
-    },
-    {
-      "type": "series",
-      "id": "tt31844233:1:2",
-      "title": "tt31844233:1:2",
-      "timestamp": "2026-02-03T14:35:17.512Z",
-      "ip": "223.181.103.142",
-      "username": "baljeet_002"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
-      "timestamp": "2026-02-03T14:37:18.279Z",
-      "ip": "223.181.78.41",
-      "username": "b1jju"
-    },
     {
       "type": "movie",
       "id": "tt1653913",
@@ -86097,6 +86057,46 @@
       "timestamp": "2026-02-26T05:58:09.836Z",
       "ip": "2409:40e6:c:1670:384c:25ff:febd:c0cb",
       "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt15464188",
+      "title": "tt15464188",
+      "timestamp": "2026-02-26T06:01:32.520Z",
+      "ip": "2001:4490:444d:b12c:8cbc:4d6e:984f:1b07",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt11385128",
+      "title": "tt11385128",
+      "timestamp": "2026-02-26T06:02:33.775Z",
+      "ip": "2409:40e6:c:1670:384c:25ff:febd:c0cb",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt1192169:3:19",
+      "title": "tt1192169:3:19",
+      "timestamp": "2026-02-26T06:03:48.376Z",
+      "ip": "2401:4900:8827:42d0:bc21:cec6:c137:6a86",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt1192169:3:19",
+      "title": "tt1192169:3:19",
+      "timestamp": "2026-02-26T06:07:30.701Z",
+      "ip": "2401:4900:8827:42d0:bc21:cec6:c137:6a86",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt1562871",
+      "title": "tt1562871",
+      "timestamp": "2026-02-26T06:10:11.341Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -86129,11 +86129,11 @@
       "lastActive": 1771751659056
     },
     "116.68.74.159": {
-      "type": "series",
-      "id": "tt0411008:4:11",
-      "title": "Lost",
+      "type": "movie",
+      "id": "tt1562871",
+      "title": "tt1562871",
       "username": "aravindsivan",
-      "lastActive": 1772042892073
+      "lastActive": 1772086211341
     },
     "103.162.158.146": {
       "type": "movie",
@@ -87320,10 +87320,10 @@
     },
     "2409:40e6:c:1670:384c:25ff:febd:c0cb": {
       "type": "movie",
-      "id": "tt27502523",
-      "title": "tt27502523",
+      "id": "tt11385128",
+      "title": "tt11385128",
       "username": "nabakun24",
-      "lastActive": 1772085489836
+      "lastActive": 1772085753775
     },
     "2409:40e4:10a9:8171:8dee:ba38:1ac2:932a": {
       "type": "movie",
@@ -88447,10 +88447,10 @@
     },
     "2001:4490:444d:b12c:8cbc:4d6e:984f:1b07": {
       "type": "movie",
-      "id": "tt3148502",
-      "title": "tt3148502",
+      "id": "tt15464188",
+      "title": "tt15464188",
       "username": "zealousninja",
-      "lastActive": 1772080371377
+      "lastActive": 1772085692520
     },
     "2401:4900:759f:59ec:58ab:7ece:6f8f:e72d": {
       "type": "movie",
@@ -88485,7 +88485,7 @@
       "id": "tt1192169:3:19",
       "title": "tt1192169:3:19",
       "username": "sinbad1722",
-      "lastActive": 1772085426817
+      "lastActive": 1772086050701
     },
     "103.135.70.162": {
       "type": "movie",
