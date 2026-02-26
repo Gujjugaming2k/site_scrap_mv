@@ -1,5 +1,5 @@
 {
-  "totalViews": 30652,
+  "totalViews": 30656,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6099,41 +6099,10 @@
     "2409:40e4:108c:2b3:c08b:85a0:496:96f3",
     "223.181.96.219",
     "2409:40e4:108c:2b3:65a8:6425:ee77:6f4e",
-    "103.171.193.120"
+    "103.171.193.120",
+    "2401:4900:88f5:46cd:7019:9bce:a802:ebc7"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt14506058",
-      "title": "tt14506058",
-      "timestamp": "2026-02-03T15:15:35.181Z",
-      "ip": "45.8.19.82",
-      "username": "theonlyfreak"
-    },
-    {
-      "type": "movie",
-      "id": "tt10872600",
-      "title": "Spider-Man: No Way Home",
-      "timestamp": "2026-02-03T15:16:31.455Z",
-      "ip": "2409:40d4:408c:152b:8000::",
-      "username": "kdbotz"
-    },
-    {
-      "type": "series",
-      "id": "tt13706018:3:10",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-02-03T15:19:14.701Z",
-      "ip": "103.249.4.50",
-      "username": "tgh2r"
-    },
-    {
-      "type": "series",
-      "id": "tt13706018:3:11",
-      "title": "SPY x FAMILY",
-      "timestamp": "2026-02-03T15:20:13.007Z",
-      "ip": "103.249.4.50",
-      "username": "tgh2r"
-    },
     {
       "type": "series",
       "id": "tt13706018:3:10",
@@ -86101,6 +86070,38 @@
       "timestamp": "2026-02-26T07:19:11.022Z",
       "ip": "103.171.193.120",
       "username": "wearerequest"
+    },
+    {
+      "type": "movie",
+      "id": "tt1321414",
+      "title": "tt1321414",
+      "timestamp": "2026-02-26T07:34:10.189Z",
+      "ip": "2401:4900:88f5:46cd:7019:9bce:a802:ebc7",
+      "username": "rishix915"
+    },
+    {
+      "type": "movie",
+      "id": "tt10964468",
+      "title": "tt10964468",
+      "timestamp": "2026-02-26T07:34:40.389Z",
+      "ip": "2401:4900:88f5:46cd:7019:9bce:a802:ebc7",
+      "username": "rishix915"
+    },
+    {
+      "type": "series",
+      "id": "tt10530900:2:3",
+      "title": "tt10530900:2:3",
+      "timestamp": "2026-02-26T07:35:21.425Z",
+      "ip": "2001:4490:444d:b12c:8cbc:4d6e:984f:1b07",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt10530900:2:3",
+      "title": "tt10530900:2:3",
+      "timestamp": "2026-02-26T07:41:19.227Z",
+      "ip": "2001:4490:444d:b12c:8cbc:4d6e:984f:1b07",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -88450,11 +88451,11 @@
       "lastActive": 1772083893516
     },
     "2001:4490:444d:b12c:8cbc:4d6e:984f:1b07": {
-      "type": "movie",
-      "id": "tt15464188",
-      "title": "tt15464188",
+      "type": "series",
+      "id": "tt10530900:2:3",
+      "title": "tt10530900:2:3",
       "username": "zealousninja",
-      "lastActive": 1772085692520
+      "lastActive": 1772091679227
     },
     "2401:4900:759f:59ec:58ab:7ece:6f8f:e72d": {
       "type": "movie",
@@ -88525,6 +88526,13 @@
       "title": "F1",
       "username": "wearerequest",
       "lastActive": 1772090351022
+    },
+    "2401:4900:88f5:46cd:7019:9bce:a802:ebc7": {
+      "type": "movie",
+      "id": "tt10964468",
+      "title": "tt10964468",
+      "username": "rishix915",
+      "lastActive": 1772091280389
     }
   }
 }
