@@ -1,5 +1,5 @@
 {
-  "totalViews": 30708,
+  "totalViews": 30710,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6109,25 +6109,10 @@
     "2401:4900:b07b:723a:50ee:da4a:b64e:431a",
     "122.161.79.122",
     "2405:201:6025:a88d:fc7c:f8ec:c3da:c932",
-    "2409:40e4:1099:30d9:5d03:3c67:a483:c147"
+    "2409:40e4:1099:30d9:5d03:3c67:a483:c147",
+    "2405:201:203e:b800:75c3:1fac:6f5:8383"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt36812904:1:1",
-      "title": "tt36812904:1:1",
-      "timestamp": "2026-02-03T17:17:01.304Z",
-      "ip": "202.173.124.118",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt36812904:1:1",
-      "title": "tt36812904:1:1",
-      "timestamp": "2026-02-03T17:17:26.162Z",
-      "ip": "202.173.124.118",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "series",
       "id": "tt36812904:1:1",
@@ -86111,6 +86096,22 @@
       "timestamp": "2026-02-26T11:32:32.634Z",
       "ip": "103.175.168.106",
       "username": "un0fficial_itachi"
+    },
+    {
+      "type": "movie",
+      "id": "tt29644189",
+      "title": "Black Phone 2",
+      "timestamp": "2026-02-26T11:41:23.321Z",
+      "ip": "2405:201:203e:b800:75c3:1fac:6f5:8383",
+      "username": "ujas"
+    },
+    {
+      "type": "movie",
+      "id": "tt7144666",
+      "title": "The Black Phone",
+      "timestamp": "2026-02-26T11:47:08.401Z",
+      "ip": "2405:201:203e:b800:75c3:1fac:6f5:8383",
+      "username": "ujas"
     }
   ],
   "activeNow": {
@@ -88612,6 +88613,13 @@
       "title": "Ralph Breaks the Internet",
       "username": "askchm",
       "lastActive": 1772100216628
+    },
+    "2405:201:203e:b800:75c3:1fac:6f5:8383": {
+      "type": "movie",
+      "id": "tt7144666",
+      "title": "The Black Phone",
+      "username": "ujas",
+      "lastActive": 1772106428401
     }
   }
 }
