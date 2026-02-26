@@ -1,5 +1,5 @@
 {
-  "totalViews": 30780,
+  "totalViews": 30784,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6124,41 +6124,10 @@
     "2405:201:2022:b81c:8988:70e9:3427:9106",
     "2405:201:5c14:2a70:b1a2:9e60:90f2:1c7f",
     "2409:40c1:1037:ce9e:5dcc:9c9d:185a:44ec",
-    "2409:40e0:103a:71e2:c15b:4d43:ebb2:1ad7"
+    "2409:40e0:103a:71e2:c15b:4d43:ebb2:1ad7",
+    "2401:4900:1caa:aab9:d1a0:5fe1:f657:afa6"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt6354518:2:15",
-      "title": "tt6354518:2:15",
-      "timestamp": "2026-02-03T21:33:41.788Z",
-      "ip": "2401:4900:8825:a674:99e2:4ef7:2771:7501",
-      "username": "sinbad1722"
-    },
-    {
-      "type": "series",
-      "id": "tt6354518:2:15",
-      "title": "tt6354518:2:15",
-      "timestamp": "2026-02-03T21:33:46.324Z",
-      "ip": "2401:4900:8825:a674:99e2:4ef7:2771:7501",
-      "username": "sinbad1722"
-    },
-    {
-      "type": "movie",
-      "id": "tt0808506",
-      "title": "tt0808506",
-      "timestamp": "2026-02-03T21:33:58.042Z",
-      "ip": "2401:4900:8825:a674:99e2:4ef7:2771:7501",
-      "username": "sinbad1722"
-    },
-    {
-      "type": "series",
-      "id": "tt12590266:1:6",
-      "title": "tt12590266:1:6",
-      "timestamp": "2026-02-03T21:35:42.269Z",
-      "ip": "2401:4900:8825:a674:99e2:4ef7:2771:7501",
-      "username": "sinbad1722"
-    },
     {
       "type": "series",
       "id": "tt12590266:1:6",
@@ -86126,6 +86095,38 @@
       "timestamp": "2026-02-26T15:20:28.185Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt6611916:2:2",
+      "title": "tt6611916:2:2",
+      "timestamp": "2026-02-26T15:35:43.707Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt35674970:1:1",
+      "title": "tt35674970:1:1",
+      "timestamp": "2026-02-26T15:35:51.033Z",
+      "ip": "2401:4900:1caa:aab9:d1a0:5fe1:f657:afa6",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt35674970:1:1",
+      "title": "tt35674970:1:1",
+      "timestamp": "2026-02-26T15:38:29.257Z",
+      "ip": "2401:4900:1caa:aab9:d1a0:5fe1:f657:afa6",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "timestamp": "2026-02-26T15:41:18.130Z",
+      "ip": "2409:40c1:1037:ce9e:5dcc:9c9d:185a:44ec",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -86187,10 +86188,10 @@
     },
     "103.175.168.106": {
       "type": "series",
-      "id": "tt6611916:1:1",
-      "title": "tt6611916:1:1",
+      "id": "tt6611916:2:2",
+      "title": "tt6611916:2:2",
       "username": "un0fficial_itachi",
-      "lastActive": 1772111120591
+      "lastActive": 1772120143707
     },
     "103.249.4.57": {
       "type": "series",
@@ -88724,7 +88725,7 @@
       "id": "tt31050594",
       "title": "tt31050594",
       "username": "zealousninja",
-      "lastActive": 1772117895022
+      "lastActive": 1772120478130
     },
     "2409:40e0:103a:71e2:c15b:4d43:ebb2:1ad7": {
       "type": "movie",
@@ -88732,6 +88733,13 @@
       "title": "Ouija: Origin of Evil",
       "username": "nobody_ismy_name",
       "lastActive": 1772118703150
+    },
+    "2401:4900:1caa:aab9:d1a0:5fe1:f657:afa6": {
+      "type": "series",
+      "id": "tt35674970:1:1",
+      "title": "tt35674970:1:1",
+      "username": "nirbhay1412",
+      "lastActive": 1772120309257
     }
   }
 }
