@@ -1,5 +1,5 @@
 {
-  "totalViews": 30754,
+  "totalViews": 30757,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6121,30 +6121,6 @@
     "152.56.132.190"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1183907",
-      "title": "tt1183907",
-      "timestamp": "2026-02-03T18:40:17.418Z",
-      "ip": "2a09:bac5:3b20:11cd::1c6:7",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "series",
-      "id": "tt13676344:1:1",
-      "title": "tt13676344:1:1",
-      "timestamp": "2026-02-03T18:59:42.355Z",
-      "ip": "2401:4900:8f60:5fe8:48e:2a53:7823:6f4a",
-      "username": "theaceofficials"
-    },
-    {
-      "type": "series",
-      "id": "tt12324366:2:8",
-      "title": "tt12324366:2:8",
-      "timestamp": "2026-02-03T19:10:09.799Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
     {
       "type": "series",
       "id": "tt12324366:2:7",
@@ -86120,6 +86096,30 @@
       "timestamp": "2026-02-26T13:38:29.921Z",
       "ip": "2409:40d4:0:b997:98ab:60ff:fede:2961,51.89.197.91",
       "username": "bk18"
+    },
+    {
+      "type": "movie",
+      "id": "tt1457767",
+      "title": "The Conjuring",
+      "timestamp": "2026-02-26T13:51:52.943Z",
+      "ip": "2409:40d4:0:b997:98ab:60ff:fede:2961",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt1457767",
+      "title": "The Conjuring",
+      "timestamp": "2026-02-26T13:51:58.058Z",
+      "ip": "2409:40d4:0:b997:98ab:60ff:fede:2961,51.89.197.91",
+      "username": "bk18"
+    },
+    {
+      "type": "movie",
+      "id": "tt29644189",
+      "title": "Black Phone 2",
+      "timestamp": "2026-02-26T13:58:48.128Z",
+      "ip": "2405:201:203e:b800:38d4:7639:4b39:cb1e",
+      "username": "ujas"
     }
   ],
   "activeNow": {
@@ -88634,7 +88634,7 @@
       "id": "tt29644189",
       "title": "Black Phone 2",
       "username": "ujas",
-      "lastActive": 1772110777258
+      "lastActive": 1772114328128
     },
     "2409:40d4:111:eea2:e4f3:3dff:fe6d:e18c": {
       "type": "movie",
@@ -88666,17 +88666,17 @@
     },
     "2409:40d4:0:b997:98ab:60ff:fede:2961": {
       "type": "movie",
-      "id": "tt3322940",
-      "title": "Annabelle",
+      "id": "tt1457767",
+      "title": "The Conjuring",
       "username": "golu_vk",
-      "lastActive": 1772113105911
+      "lastActive": 1772113912943
     },
     "2409:40d4:0:b997:98ab:60ff:fede:2961,51.89.197.91": {
       "type": "movie",
-      "id": "tt3322940",
-      "title": "Annabelle",
+      "id": "tt1457767",
+      "title": "The Conjuring",
       "username": "bk18",
-      "lastActive": 1772113109921
+      "lastActive": 1772113918058
     },
     "152.56.132.190": {
       "type": "series",
