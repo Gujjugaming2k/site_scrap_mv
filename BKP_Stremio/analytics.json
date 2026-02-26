@@ -1,5 +1,5 @@
 {
-  "totalViews": 30703,
+  "totalViews": 30705,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6112,22 +6112,6 @@
     "2409:40e4:1099:30d9:5d03:3c67:a483:c147"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30387012",
-      "title": "tt30387012",
-      "timestamp": "2026-02-03T17:11:47.274Z",
-      "ip": "2405:201:202d:d014:309e:99c2:a8ae:7705",
-      "username": "explorerindia"
-    },
-    {
-      "type": "movie",
-      "id": "tt36538449",
-      "title": "tt36538449",
-      "timestamp": "2026-02-03T17:11:49.835Z",
-      "ip": "103.240.170.95",
-      "username": "pingmenoone"
-    },
     {
       "type": "movie",
       "id": "tt22742720",
@@ -86111,6 +86095,22 @@
       "timestamp": "2026-02-26T10:31:36.313Z",
       "ip": "2401:4900:8827:42d0:bc21:cec6:c137:6a86",
       "username": "sinbad1722"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:4:13",
+      "title": "Lost",
+      "timestamp": "2026-02-26T11:01:33.250Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:2:5",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-26T11:02:02.340Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
     }
   ],
   "activeNow": {
@@ -86144,10 +86144,10 @@
     },
     "116.68.74.159": {
       "type": "series",
-      "id": "tt0411008:4:12",
+      "id": "tt0411008:4:13",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1772090128935
+      "lastActive": 1772103693250
     },
     "103.162.158.146": {
       "type": "movie",
@@ -86172,10 +86172,10 @@
     },
     "103.175.168.106": {
       "type": "series",
-      "id": "tt8740790:4:5",
-      "title": "tt8740790:4:5",
+      "id": "tt0944947:2:5",
+      "title": "Game of Thrones",
       "username": "un0fficial_itachi",
-      "lastActive": 1772101060430
+      "lastActive": 1772103722340
     },
     "103.249.4.57": {
       "type": "series",
