@@ -1,5 +1,5 @@
 {
-  "totalViews": 30932,
+  "totalViews": 30933,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6144,14 +6144,6 @@
     "2a09:bac1:36a0:80::243:99"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0388629:22:44",
-      "title": "tt0388629:22:44",
-      "timestamp": "2026-02-04T10:19:41.634Z",
-      "ip": "27.6.92.204",
-      "username": "nothing_8888"
-    },
     {
       "type": "movie",
       "id": "tt0479968",
@@ -86143,6 +86135,14 @@
       "timestamp": "2026-02-26T19:50:28.616Z",
       "ip": "2a09:bac1:36a0:80::243:99",
       "username": "adiyogivishwanath"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:8:5",
+      "title": "tt0412142:8:5",
+      "timestamp": "2026-02-26T21:14:18.508Z",
+      "ip": "2406:7400:3b:55f4::d3d",
+      "username": "telegram"
     }
   ],
   "activeNow": {
@@ -88868,6 +88868,13 @@
       "title": "tt32105473:1:1",
       "username": "adiyogivishwanath",
       "lastActive": 1772135428616
+    },
+    "2406:7400:3b:55f4::d3d": {
+      "type": "series",
+      "id": "tt0412142:8:5",
+      "title": "tt0412142:8:5",
+      "username": "telegram",
+      "lastActive": 1772140458508
     }
   }
 }
