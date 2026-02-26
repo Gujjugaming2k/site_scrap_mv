@@ -1,5 +1,5 @@
 {
-  "totalViews": 30752,
+  "totalViews": 30754,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6121,22 +6121,6 @@
     "152.56.132.190"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:2:24",
-      "title": "Lost",
-      "timestamp": "2026-02-03T18:32:52.833Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt29638896",
-      "title": "tt29638896",
-      "timestamp": "2026-02-03T18:39:16.534Z",
-      "ip": "2a09:bac5:3b20:11cd::1c6:7",
-      "username": "sachinprem1"
-    },
     {
       "type": "movie",
       "id": "tt1183907",
@@ -86120,6 +86104,22 @@
       "timestamp": "2026-02-26T13:22:35.925Z",
       "ip": "152.56.132.190",
       "username": "jinwoooooi"
+    },
+    {
+      "type": "movie",
+      "id": "tt3322940",
+      "title": "Annabelle",
+      "timestamp": "2026-02-26T13:38:25.911Z",
+      "ip": "2409:40d4:0:b997:98ab:60ff:fede:2961",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt3322940",
+      "title": "Annabelle",
+      "timestamp": "2026-02-26T13:38:29.921Z",
+      "ip": "2409:40d4:0:b997:98ab:60ff:fede:2961,51.89.197.91",
+      "username": "bk18"
     }
   ],
   "activeNow": {
@@ -88669,14 +88669,14 @@
       "id": "tt3322940",
       "title": "Annabelle",
       "username": "golu_vk",
-      "lastActive": 1772112081587
+      "lastActive": 1772113105911
     },
     "2409:40d4:0:b997:98ab:60ff:fede:2961,51.89.197.91": {
       "type": "movie",
       "id": "tt3322940",
       "title": "Annabelle",
       "username": "bk18",
-      "lastActive": 1772112082024
+      "lastActive": 1772113109921
     },
     "152.56.132.190": {
       "type": "series",
