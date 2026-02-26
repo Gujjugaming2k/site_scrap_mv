@@ -1,5 +1,5 @@
 {
-  "totalViews": 30727,
+  "totalViews": 30734,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6117,62 +6117,6 @@
     "2401:4900:1caa:aab9:9cee:c85c:abe:4ad1"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt39221314:1:1",
-      "title": "tt39221314:1:1",
-      "timestamp": "2026-02-03T17:31:11.192Z",
-      "ip": "43.248.152.196",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt39221314:1:1",
-      "title": "tt39221314:1:1",
-      "timestamp": "2026-02-03T17:31:44.879Z",
-      "ip": "43.248.152.196",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt39221314:1:2",
-      "title": "tt39221314:1:2",
-      "timestamp": "2026-02-03T17:31:50.027Z",
-      "ip": "43.248.152.196",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-03T17:32:23.454Z",
-      "ip": "103.240.170.95",
-      "username": "pingmenoone"
-    },
-    {
-      "type": "series",
-      "id": "tt31844233:1:1",
-      "title": "tt31844233:1:1",
-      "timestamp": "2026-02-03T17:33:39.495Z",
-      "ip": "103.240.170.95",
-      "username": "pingmenoone"
-    },
-    {
-      "type": "series",
-      "id": "tt31844233:1:1",
-      "title": "tt31844233:1:1",
-      "timestamp": "2026-02-03T17:34:11.097Z",
-      "ip": "103.240.170.95",
-      "username": "pingmenoone"
-    },
-    {
-      "type": "movie",
-      "id": "tt11847410",
-      "title": "tt11847410",
-      "timestamp": "2026-02-03T17:37:54.419Z",
-      "ip": "2409:40c2:2f:30d9:c082:72ff:fe82:b96d",
-      "username": "agentmj47"
-    },
     {
       "type": "series",
       "id": "tt12637874:2:5",
@@ -86116,6 +86060,62 @@
       "timestamp": "2026-02-26T12:25:01.445Z",
       "ip": "2401:4900:1caa:aab9:9cee:c85c:abe:4ad1",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-26T12:25:46.357Z",
+      "ip": "2401:4900:1caa:aab9:9cee:c85c:abe:4ad1",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt6611916:2:1",
+      "title": "tt6611916:2:1",
+      "timestamp": "2026-02-26T12:34:25.747Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt6611916:2:2",
+      "title": "tt6611916:2:2",
+      "timestamp": "2026-02-26T12:34:58.670Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:2:5",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-26T12:35:19.541Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt6611916:1:1",
+      "title": "tt6611916:1:1",
+      "timestamp": "2026-02-26T12:35:53.107Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt6611916:2:2",
+      "title": "tt6611916:2:2",
+      "timestamp": "2026-02-26T12:37:32.552Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt6611916:1:1",
+      "title": "tt6611916:1:1",
+      "timestamp": "2026-02-26T12:37:43.043Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
     }
   ],
   "activeNow": {
@@ -86177,10 +86177,10 @@
     },
     "103.175.168.106": {
       "type": "series",
-      "id": "tt0944947:2:5",
-      "title": "Game of Thrones",
+      "id": "tt6611916:1:1",
+      "title": "tt6611916:1:1",
       "username": "un0fficial_itachi",
-      "lastActive": 1772107957889
+      "lastActive": 1772109463043
     },
     "103.249.4.57": {
       "type": "series",
@@ -88651,7 +88651,7 @@
       "id": "tt27543632",
       "title": "tt27543632",
       "username": "nirbhay1412",
-      "lastActive": 1772108701445
+      "lastActive": 1772108746357
     }
   }
 }
