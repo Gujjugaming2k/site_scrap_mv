@@ -1,5 +1,5 @@
 {
-  "totalViews": 30734,
+  "totalViews": 30739,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6114,49 +6114,10 @@
     "2405:201:203e:b800:38d4:7639:4b39:cb1e",
     "2409:40d4:111:eea2:e4f3:3dff:fe6d:e18c",
     "2409:40d4:111:eea2:e4f3:3dff:fe6d:e18c,51.89.197.91",
-    "2401:4900:1caa:aab9:9cee:c85c:abe:4ad1"
+    "2401:4900:1caa:aab9:9cee:c85c:abe:4ad1",
+    "2401:4900:446a:906a:70af:507b:8e12:4975"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12637874:2:5",
-      "title": "Fallout",
-      "timestamp": "2026-02-03T17:38:21.133Z",
-      "ip": "2409:40c2:2f:30d9:c082:72ff:fe82:b96d",
-      "username": "agentmj47"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:2:6",
-      "title": "Fallout",
-      "timestamp": "2026-02-03T17:38:55.234Z",
-      "ip": "2409:40c2:2f:30d9:c082:72ff:fe82:b96d",
-      "username": "agentmj47"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:2:7",
-      "title": "Fallout",
-      "timestamp": "2026-02-03T17:40:18.731Z",
-      "ip": "2409:40c2:2f:30d9:c082:72ff:fe82:b96d",
-      "username": "agentmj47"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:2:5",
-      "title": "Fallout",
-      "timestamp": "2026-02-03T17:40:49.305Z",
-      "ip": "2409:40c2:2f:30d9:c082:72ff:fe82:b96d",
-      "username": "agentmj47"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:2:6",
-      "title": "Fallout",
-      "timestamp": "2026-02-03T17:41:14.216Z",
-      "ip": "2409:40c2:2f:30d9:c082:72ff:fe82:b96d",
-      "username": "agentmj47"
-    },
     {
       "type": "series",
       "id": "tt12637874:2:5",
@@ -86116,6 +86077,46 @@
       "timestamp": "2026-02-26T12:37:43.043Z",
       "ip": "103.175.168.106",
       "username": "un0fficial_itachi"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:2",
+      "title": "tt0903747:1:2",
+      "timestamp": "2026-02-26T12:45:21.728Z",
+      "ip": "2401:4900:446a:906a:70af:507b:8e12:4975",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:2",
+      "title": "tt0903747:1:2",
+      "timestamp": "2026-02-26T12:45:27.319Z",
+      "ip": "2401:4900:446a:906a:70af:507b:8e12:4975",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt29644189",
+      "title": "Black Phone 2",
+      "timestamp": "2026-02-26T12:46:19.397Z",
+      "ip": "2405:201:203e:b800:38d4:7639:4b39:cb1e",
+      "username": "ujas"
+    },
+    {
+      "type": "movie",
+      "id": "tt0360717",
+      "title": "King Kong",
+      "timestamp": "2026-02-26T12:52:09.492Z",
+      "ip": "2405:201:900f:a92b:a0d0:1b34:3f68:156e",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:2:5",
+      "title": "Game of Thrones",
+      "timestamp": "2026-02-26T12:53:07.807Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
     }
   ],
   "activeNow": {
@@ -86177,10 +86178,10 @@
     },
     "103.175.168.106": {
       "type": "series",
-      "id": "tt6611916:1:1",
-      "title": "tt6611916:1:1",
+      "id": "tt0944947:2:5",
+      "title": "Game of Thrones",
       "username": "un0fficial_itachi",
-      "lastActive": 1772109463043
+      "lastActive": 1772110387807
     },
     "103.249.4.57": {
       "type": "series",
@@ -88581,7 +88582,7 @@
       "id": "tt0360717",
       "title": "King Kong",
       "username": "theonlyfreak",
-      "lastActive": 1772094610424
+      "lastActive": 1772110329492
     },
     "2401:4900:b07b:723a:50ee:da4a:b64e:431a": {
       "type": "movie",
@@ -88630,7 +88631,7 @@
       "id": "tt29644189",
       "title": "Black Phone 2",
       "username": "ujas",
-      "lastActive": 1772107862394
+      "lastActive": 1772109979397
     },
     "2409:40d4:111:eea2:e4f3:3dff:fe6d:e18c": {
       "type": "movie",
@@ -88652,6 +88653,13 @@
       "title": "tt27543632",
       "username": "nirbhay1412",
       "lastActive": 1772108746357
+    },
+    "2401:4900:446a:906a:70af:507b:8e12:4975": {
+      "type": "series",
+      "id": "tt0903747:1:2",
+      "title": "tt0903747:1:2",
+      "username": "gaendaswami",
+      "lastActive": 1772109927319
     }
   }
 }
