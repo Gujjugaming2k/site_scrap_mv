@@ -1,5 +1,5 @@
 {
-  "totalViews": 30570,
+  "totalViews": 30572,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6086,22 +6086,6 @@
     "2603:3003:3544:6700:1722:92f5:28f7:aa8f"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0884328",
-      "title": "tt0884328",
-      "timestamp": "2026-02-03T10:33:45.721Z",
-      "ip": "103.46.200.105",
-      "username": "brosportses"
-    },
-    {
-      "type": "movie",
-      "id": "tt0884328",
-      "title": "tt0884328",
-      "timestamp": "2026-02-03T10:35:33.924Z",
-      "ip": "103.46.200.105",
-      "username": "brosportses"
-    },
     {
       "type": "movie",
       "id": "tt4935418",
@@ -86085,6 +86069,22 @@
       "timestamp": "2026-02-26T02:50:11.134Z",
       "ip": "103.98.63.135",
       "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-02-26T02:55:37.764Z",
+      "ip": "103.98.63.135",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt0480249",
+      "title": "I Am Legend",
+      "timestamp": "2026-02-26T02:55:44.370Z",
+      "ip": "2405:201:2022:b81c:7dc2:8c4e:969a:cc0c",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -87210,10 +87210,10 @@
     },
     "103.98.63.135": {
       "type": "movie",
-      "id": "tt0816692",
-      "title": "Interstellar",
+      "id": "tt31193180",
+      "title": "Sinners",
       "username": "thala_75",
-      "lastActive": 1772074211134
+      "lastActive": 1772074537764
     },
     "2401:4900:8831:6c27:6c55:5476:26c7:d6fe": {
       "type": "series",
@@ -88330,10 +88330,10 @@
     },
     "2405:201:2022:b81c:7dc2:8c4e:969a:cc0c": {
       "type": "movie",
-      "id": "tt33295741",
-      "title": "tt33295741",
+      "id": "tt0480249",
+      "title": "I Am Legend",
       "username": "zealousninja",
-      "lastActive": 1772045699284
+      "lastActive": 1772074544370
     },
     "163.223.102.185": {
       "type": "movie",
