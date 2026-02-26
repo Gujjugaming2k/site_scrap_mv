@@ -1,5 +1,5 @@
 {
-  "totalViews": 30694,
+  "totalViews": 30697,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6108,33 +6108,10 @@
     "2405:201:900f:a92b:a0d0:1b34:3f68:156e",
     "2401:4900:b07b:723a:50ee:da4a:b64e:431a",
     "122.161.79.122",
-    "2405:201:6025:a88d:fc7c:f8ec:c3da:c932"
+    "2405:201:6025:a88d:fc7c:f8ec:c3da:c932",
+    "2409:40e4:1099:30d9:5d03:3c67:a483:c147"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt28102562",
-      "title": "tt28102562",
-      "timestamp": "2026-02-03T16:55:18.580Z",
-      "ip": "2402:8100:2701:e7a7:2cfb:ea1c:93f4:8c99",
-      "username": "harshra9999"
-    },
-    {
-      "type": "movie",
-      "id": "tt23790696",
-      "title": "tt23790696",
-      "timestamp": "2026-02-03T16:56:33.143Z",
-      "ip": "2402:8100:2701:e7a7:2cfb:ea1c:93f4:8c99",
-      "username": "harshra9999"
-    },
-    {
-      "type": "movie",
-      "id": "tt4387040",
-      "title": "tt4387040",
-      "timestamp": "2026-02-03T16:58:07.647Z",
-      "ip": "2402:8100:2701:e7a7:2cfb:ea1c:93f4:8c99",
-      "username": "harshra9999"
-    },
     {
       "type": "movie",
       "id": "tt28283834",
@@ -86110,6 +86087,30 @@
       "timestamp": "2026-02-26T09:32:52.458Z",
       "ip": "2409:40d4:408c:5b27:8000::",
       "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt27485777",
+      "title": "tt27485777",
+      "timestamp": "2026-02-26T09:54:53.782Z",
+      "ip": "2001:4490:444d:b12c:8cbc:4d6e:984f:1b07",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt5848272",
+      "title": "Ralph Breaks the Internet",
+      "timestamp": "2026-02-26T10:03:36.628Z",
+      "ip": "2409:40e4:1099:30d9:5d03:3c67:a483:c147",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt8740790:4:6",
+      "title": "tt8740790:4:6",
+      "timestamp": "2026-02-26T10:07:15.135Z",
+      "ip": "122.161.79.122",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -88460,10 +88461,10 @@
     },
     "2001:4490:444d:b12c:8cbc:4d6e:984f:1b07": {
       "type": "series",
-      "id": "tt10530900:2:3",
-      "title": "tt10530900:2:3",
+      "id": "tt27485777",
+      "title": "tt27485777",
       "username": "zealousninja",
-      "lastActive": 1772091679227
+      "lastActive": 1772099693782
     },
     "2401:4900:759f:59ec:58ab:7ece:6f8f:e72d": {
       "type": "movie",
@@ -88586,10 +88587,10 @@
     },
     "122.161.79.122": {
       "type": "series",
-      "id": "tt8740790:4:5",
-      "title": "tt8740790:4:5",
+      "id": "tt8740790:4:6",
+      "title": "tt8740790:4:6",
       "username": "dillon_ka_shooter",
-      "lastActive": 1772096447663
+      "lastActive": 1772100435135
     },
     "182.176.79.18": {
       "type": "movie",
@@ -88604,6 +88605,13 @@
       "title": "tt27996020",
       "username": "infinityseeker",
       "lastActive": 1772097918948
+    },
+    "2409:40e4:1099:30d9:5d03:3c67:a483:c147": {
+      "type": "movie",
+      "id": "tt5848272",
+      "title": "Ralph Breaks the Internet",
+      "username": "askchm",
+      "lastActive": 1772100216628
     }
   }
 }
