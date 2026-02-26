@@ -1,5 +1,5 @@
 {
-  "totalViews": 30597,
+  "totalViews": 30598,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6089,17 +6089,10 @@
     "2405:201:682e:6839:9d12:4ede:9d82:f6b9",
     "223.188.124.120",
     "2409:4055:2e3d:915:164:e37c:8642:5a0e",
-    "2001:4490:444d:b12c:8cbc:4d6e:984f:1b07"
+    "2001:4490:444d:b12c:8cbc:4d6e:984f:1b07",
+    "2401:4900:759f:59ec:58ab:7ece:6f8f:e72d"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:2:20",
-      "title": "Lost",
-      "timestamp": "2026-02-03T11:40:52.759Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
     {
       "type": "series",
       "id": "tt0411008:2:22",
@@ -86091,6 +86084,14 @@
       "timestamp": "2026-02-26T04:32:51.377Z",
       "ip": "2001:4490:444d:b12c:8cbc:4d6e:984f:1b07",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt12422308",
+      "title": "tt12422308",
+      "timestamp": "2026-02-26T04:52:34.078Z",
+      "ip": "2401:4900:759f:59ec:58ab:7ece:6f8f:e72d",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -88445,6 +88446,13 @@
       "title": "tt3148502",
       "username": "zealousninja",
       "lastActive": 1772080371377
+    },
+    "2401:4900:759f:59ec:58ab:7ece:6f8f:e72d": {
+      "type": "movie",
+      "id": "tt12422308",
+      "title": "tt12422308",
+      "username": "william097",
+      "lastActive": 1772081554078
     }
   }
 }
