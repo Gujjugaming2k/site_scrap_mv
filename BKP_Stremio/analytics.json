@@ -1,5 +1,5 @@
 {
-  "totalViews": 30953,
+  "totalViews": 30954,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6151,14 +6151,6 @@
     "2401:4900:1caa:aab9:616f:73f:7b0c:8955"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt5332206:1:2",
-      "title": "tt5332206:1:2",
-      "timestamp": "2026-02-04T11:29:49.801Z",
-      "ip": "146.196.34.186",
-      "username": "gaendaswami"
-    },
     {
       "type": "movie",
       "id": "tt36815135",
@@ -86150,6 +86142,14 @@
       "timestamp": "2026-02-27T03:07:52.824Z",
       "ip": "2401:4900:1caa:aab9:616f:73f:7b0c:8955",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt3005920",
+      "title": "tt3005920",
+      "timestamp": "2026-02-27T03:13:16.193Z",
+      "ip": "116.68.74.159",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -86182,11 +86182,11 @@
       "lastActive": 1771751659056
     },
     "116.68.74.159": {
-      "type": "series",
-      "id": "tt0411008:5:2",
-      "title": "Lost",
+      "type": "movie",
+      "id": "tt3005920",
+      "title": "tt3005920",
       "username": "aravindsivan",
-      "lastActive": 1772129702870
+      "lastActive": 1772161996193
     },
     "103.162.158.146": {
       "type": "movie",
