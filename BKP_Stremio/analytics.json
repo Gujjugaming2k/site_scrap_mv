@@ -1,5 +1,5 @@
 {
-  "totalViews": 31012,
+  "totalViews": 31017,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6167,49 +6167,10 @@
     "2401:4900:c205:afc3:aef6:8e91:1593:a995",
     "2409:40d4:408d:462e:8000::",
     "202.173.124.60",
-    "2401:4900:1caa:aab9:808e:de22:ce96:18cd"
+    "2401:4900:1caa:aab9:808e:de22:ce96:18cd",
+    "45.118.158.142"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0469027",
-      "title": "tt0469027",
-      "timestamp": "2026-02-04T16:50:55.155Z",
-      "ip": "2a09:bac5:3b25:11cd::1c6:3",
-      "username": "sachinprem1"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-04T16:55:31.395Z",
-      "ip": "2401:4900:8f60:5fe8:c4c7:befd:3cfb:fa6c",
-      "username": "theaceofficials"
-    },
-    {
-      "type": "movie",
-      "id": "tt17538632",
-      "title": "Hot Milk",
-      "timestamp": "2026-02-04T16:58:47.867Z",
-      "ip": "2405:201:2033:841:d594:34f5:e395:8043",
-      "username": "surti_lala"
-    },
-    {
-      "type": "movie",
-      "id": "tt27673536",
-      "title": "tt27673536",
-      "timestamp": "2026-02-04T17:02:53.916Z",
-      "ip": "103.24.85.97",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt1187043",
-      "title": "3 Idiots",
-      "timestamp": "2026-02-04T17:18:11.386Z",
-      "ip": "2405:201:2022:b81c:f09c:143a:ab13:e28b",
-      "username": "zealousninja"
-    },
     {
       "type": "movie",
       "id": "tt1187043",
@@ -86169,6 +86130,46 @@
       "timestamp": "2026-02-27T07:03:57.126Z",
       "ip": "2409:40d2:3019:3524:a612:35c1:b7ce:61ec",
       "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-02-27T07:04:51.794Z",
+      "ip": "202.173.124.60",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-02-27T07:06:06.809Z",
+      "ip": "202.173.124.60",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-02-27T07:17:05.834Z",
+      "ip": "202.173.124.60",
+      "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt38201910:1:3",
+      "title": "tt38201910:1:3",
+      "timestamp": "2026-02-27T07:18:29.258Z",
+      "ip": "45.118.158.142",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt38201910:1:4",
+      "title": "tt38201910:1:4",
+      "timestamp": "2026-02-27T07:19:34.292Z",
+      "ip": "45.118.158.142",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -89075,7 +89076,7 @@
       "id": "tt30144839",
       "title": "One Battle After Another",
       "username": "ryuzaklo26",
-      "lastActive": 1772175558153
+      "lastActive": 1772176625834
     },
     "2401:4900:1caa:aab9:808e:de22:ce96:18cd": {
       "type": "movie",
@@ -89083,6 +89084,13 @@
       "title": "tt22868010",
       "username": "nirbhay1412",
       "lastActive": 1772175429557
+    },
+    "45.118.158.142": {
+      "type": "series",
+      "id": "tt38201910:1:4",
+      "title": "tt38201910:1:4",
+      "username": "gaendaswami",
+      "lastActive": 1772176774292
     }
   }
 }
