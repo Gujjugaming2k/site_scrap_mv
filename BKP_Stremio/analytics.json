@@ -1,5 +1,5 @@
 {
-  "totalViews": 30957,
+  "totalViews": 30960,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6149,33 +6149,10 @@
     "2a09:bac5:3aeb:1aaa::2a8:4d",
     "223.181.17.7",
     "2401:4900:1caa:aab9:616f:73f:7b0c:8955",
-    "2401:4900:88b8:b3d0:317f:cfb3:a7f1:8c31"
+    "2401:4900:88b8:b3d0:317f:cfb3:a7f1:8c31",
+    "2603:3003:3544:6700:941b:a11a:bebc:b1e0"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30472557",
-      "title": "Chainsaw Man - The Movie: Reze Arc",
-      "timestamp": "2026-02-04T12:15:05.604Z",
-      "ip": "2401:4900:8825:a674:99e2:4ef7:2771:7501",
-      "username": "sinbad1722"
-    },
-    {
-      "type": "movie",
-      "id": "tt30472557",
-      "title": "Chainsaw Man - The Movie: Reze Arc",
-      "timestamp": "2026-02-04T12:20:32.951Z",
-      "ip": "2401:4900:8825:a674:b4be:89cd:dda1:1b47",
-      "username": "sinbad1722"
-    },
-    {
-      "type": "series",
-      "id": "tt31844233:1:1",
-      "title": "tt31844233:1:1",
-      "timestamp": "2026-02-04T13:05:47.731Z",
-      "ip": "2409:40c4:2f:fa6f:b43b:f7ff:fe12:b37b",
-      "username": "b1jju"
-    },
     {
       "type": "series",
       "id": "tt31844233:1:2",
@@ -86151,6 +86128,30 @@
       "timestamp": "2026-02-27T03:57:20.637Z",
       "ip": "2401:4900:88b8:b3d0:317f:cfb3:a7f1:8c31",
       "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt6611916:1:1",
+      "title": "tt6611916:1:1",
+      "timestamp": "2026-02-27T04:03:52.930Z",
+      "ip": "103.24.85.9",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "timestamp": "2026-02-27T04:09:45.444Z",
+      "ip": "2603:3003:3544:6700:941b:a11a:bebc:b1e0",
+      "username": "anupambabu_97"
+    },
+    {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "timestamp": "2026-02-27T04:11:16.621Z",
+      "ip": "2603:3003:3544:6700:941b:a11a:bebc:b1e0",
+      "username": "anupambabu_97"
     }
   ],
   "activeNow": {
@@ -88602,7 +88603,7 @@
       "id": "tt6611916:1:1",
       "title": "tt6611916:1:1",
       "username": "william097",
-      "lastActive": 1772163930633
+      "lastActive": 1772165032930
     },
     "2401:4900:7b8e:33e5:9f:dfff:fe9e:92c2": {
       "type": "movie",
@@ -88939,6 +88940,13 @@
       "title": "tt35146696",
       "username": "b1jju",
       "lastActive": 1772164640637
+    },
+    "2603:3003:3544:6700:941b:a11a:bebc:b1e0": {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "username": "anupambabu_97",
+      "lastActive": 1772165476621
     }
   }
 }
