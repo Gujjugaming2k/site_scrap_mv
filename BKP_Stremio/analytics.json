@@ -1,5 +1,5 @@
 {
-  "totalViews": 31045,
+  "totalViews": 31050,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6172,49 +6172,10 @@
     "103.92.43.178",
     "110.227.62.125",
     "45.118.158.124",
-    "2401:4900:883e:9293:9c7e:680f:d537:6f99"
+    "2401:4900:883e:9293:9c7e:680f:d537:6f99",
+    "103.92.43.32"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt10233448:1:5",
-      "title": "Vinland Saga",
-      "timestamp": "2026-02-04T19:16:53.686Z",
-      "ip": "202.88.248.12",
-      "username": "deepak"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:1:2",
-      "title": "tt1399664:1:2",
-      "timestamp": "2026-02-04T19:50:18.555Z",
-      "ip": "2409:40d4:106c:e86b:ccfa:87ff:fef5:617c",
-      "username": "golu_vk"
-    },
-    {
-      "type": "series",
-      "id": "tt6354518:2:15",
-      "title": "tt6354518:2:15",
-      "timestamp": "2026-02-04T20:13:59.149Z",
-      "ip": "2401:4900:8825:a674:b4be:89cd:dda1:1b47",
-      "username": "sinbad1722"
-    },
-    {
-      "type": "series",
-      "id": "tt28102595:1:1",
-      "title": "tt28102595:1:1",
-      "timestamp": "2026-02-04T20:42:23.660Z",
-      "ip": "5.32.86.178",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "series",
-      "id": "tt28102595:1:2",
-      "title": "tt28102595:1:2",
-      "timestamp": "2026-02-04T20:43:24.509Z",
-      "ip": "5.32.86.178",
-      "username": "nobody_ismy_name"
-    },
     {
       "type": "movie",
       "id": "tt35684868",
@@ -86174,6 +86135,46 @@
       "timestamp": "2026-02-27T08:20:00.452Z",
       "ip": "2401:4900:883e:9293:9c7e:680f:d537:6f99",
       "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "timestamp": "2026-02-27T08:20:53.981Z",
+      "ip": "2401:4900:883e:9293:9c7e:680f:d537:6f99",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt26581740",
+      "title": "Weapons",
+      "timestamp": "2026-02-27T08:21:39.531Z",
+      "ip": "2401:4900:883e:9293:9c7e:680f:d537:6f99",
+      "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt1392214",
+      "title": "Prisoners",
+      "timestamp": "2026-02-27T08:22:52.387Z",
+      "ip": "2401:4900:883e:9293:9c7e:680f:d537:6f99",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:2:1",
+      "title": "tt17220216:2:1",
+      "timestamp": "2026-02-27T08:32:18.719Z",
+      "ip": "103.92.43.32",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt34956443",
+      "title": "Ne Zha 2",
+      "timestamp": "2026-02-27T08:35:53.742Z",
+      "ip": "2401:4900:1caa:aab9:808e:de22:ce96:18cd",
+      "username": "nirbhay1412"
     }
   ],
   "activeNow": {
@@ -89087,7 +89088,7 @@
       "id": "tt34956443",
       "title": "Ne Zha 2",
       "username": "nirbhay1412",
-      "lastActive": 1772178737854
+      "lastActive": 1772181353742
     },
     "45.118.158.142": {
       "type": "series",
@@ -89119,10 +89120,17 @@
     },
     "2401:4900:883e:9293:9c7e:680f:d537:6f99": {
       "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
+      "id": "tt1392214",
+      "title": "Prisoners",
       "username": "nabakun24",
-      "lastActive": 1772180400452
+      "lastActive": 1772180572387
+    },
+    "103.92.43.32": {
+      "type": "series",
+      "id": "tt17220216:2:1",
+      "title": "tt17220216:2:1",
+      "username": "gaendaswami",
+      "lastActive": 1772181138719
     }
   }
 }
