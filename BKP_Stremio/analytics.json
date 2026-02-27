@@ -1,5 +1,5 @@
 {
-  "totalViews": 30948,
+  "totalViews": 30951,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6145,33 +6145,11 @@
     "2409:40e4:1093:e30a:2d81:180f:a28e:93e6",
     "2401:4900:1caa:aab9:10a7:3d69:3813:f5df",
     "2405:201:6820:a83c:1987:6d4f:e75b:a942",
-    "2405:201:2022:b81c:b068:eacc:d28a:6f87"
+    "2405:201:2022:b81c:b068:eacc:d28a:6f87",
+    "2a09:bac5:3aeb:1aaa::2a8:4d",
+    "223.181.17.7"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt5332206:1:2",
-      "title": "tt5332206:1:2",
-      "timestamp": "2026-02-04T11:28:26.769Z",
-      "ip": "146.196.34.186",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt5332206:1:2",
-      "title": "tt5332206:1:2",
-      "timestamp": "2026-02-04T11:28:32.193Z",
-      "ip": "146.196.34.186",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt5332206:1:1",
-      "title": "tt5332206:1:1",
-      "timestamp": "2026-02-04T11:28:51.877Z",
-      "ip": "146.196.34.186",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt5332206:1:2",
@@ -86147,6 +86125,30 @@
       "timestamp": "2026-02-27T02:27:13.795Z",
       "ip": "103.46.200.41",
       "username": "katdenningssss"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:7:5",
+      "title": "tt0460649:7:5",
+      "timestamp": "2026-02-27T02:49:10.958Z",
+      "ip": "2a09:bac5:3aeb:1aaa::2a8:4d",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt27853283:2:6",
+      "title": "tt27853283:2:6",
+      "timestamp": "2026-02-27T02:51:33.617Z",
+      "ip": "223.181.17.7",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "series",
+      "id": "tt27853283:2:6",
+      "title": "tt27853283:2:6",
+      "timestamp": "2026-02-27T02:52:22.017Z",
+      "ip": "223.181.17.7",
+      "username": "ashwanileon"
     }
   ],
   "activeNow": {
@@ -88907,6 +88909,20 @@
       "title": "tt39020004",
       "username": "zealousninja",
       "lastActive": 1772157649981
+    },
+    "2a09:bac5:3aeb:1aaa::2a8:4d": {
+      "type": "series",
+      "id": "tt0460649:7:5",
+      "title": "tt0460649:7:5",
+      "username": "demon18319",
+      "lastActive": 1772160550958
+    },
+    "223.181.17.7": {
+      "type": "series",
+      "id": "tt27853283:2:6",
+      "title": "tt27853283:2:6",
+      "username": "ashwanileon",
+      "lastActive": 1772160742017
     }
   }
 }
