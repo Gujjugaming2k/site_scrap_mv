@@ -1,5 +1,5 @@
 {
-  "totalViews": 31279,
+  "totalViews": 31281,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6220,22 +6220,6 @@
     "2401:4900:62d6:6a27:3cb:3331:95ca:b02e"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0388629:22:70",
-      "title": "tt0388629:22:70",
-      "timestamp": "2026-02-05T19:15:00.049Z",
-      "ip": "2409:40f0:1195:e0a3:eca0:baff:fec9:7bba",
-      "username": "rick grimes"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:1:3",
-      "title": "tt1399664:1:3",
-      "timestamp": "2026-02-05T19:44:23.453Z",
-      "ip": "47.15.65.57",
-      "username": "golu_vk"
-    },
     {
       "type": "series",
       "id": "tt1399664:1:3",
@@ -86219,6 +86203,22 @@
       "timestamp": "2026-02-27T17:26:02.094Z",
       "ip": "103.24.85.9",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:2:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-27T17:29:42.352Z",
+      "ip": "2409:40d4:4009:6ecd:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:22:20",
+      "title": "tt0388629:22:20",
+      "timestamp": "2026-02-27T17:40:08.329Z",
+      "ip": "2401:4900:88c7:c777:4c6e:3dff:e0ac:78e7",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -89255,10 +89255,10 @@
     },
     "2409:40d4:4009:6ecd:8000::": {
       "type": "series",
-      "id": "tt4574334:2:1",
+      "id": "tt4574334:2:2",
       "title": "Stranger Things",
       "username": "kdbotz",
-      "lastActive": 1772201018441
+      "lastActive": 1772213382352
     },
     "2409:40d2:3051:2352:2cd2:3602:d0d9:7d52": {
       "type": "movie",
@@ -89472,10 +89472,10 @@
     },
     "2401:4900:88c7:c777:4c6e:3dff:e0ac:78e7": {
       "type": "series",
-      "id": "tt0388629:22:19",
-      "title": "tt0388629:22:19",
+      "id": "tt0388629:22:20",
+      "title": "tt0388629:22:20",
       "username": "theaceofficials",
-      "lastActive": 1772212465833
+      "lastActive": 1772214008329
     },
     "2401:4900:62d6:6a27:3cb:3331:95ca:b02e": {
       "type": "movie",
