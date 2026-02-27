@@ -1,5 +1,5 @@
 {
-  "totalViews": 31115,
+  "totalViews": 31120,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6190,46 +6190,6 @@
     "2409:40c1:201e:1898:f179:5a12:839e:b2c2"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt26915338:1:1",
-      "title": "tt26915338:1:1",
-      "timestamp": "2026-02-05T07:13:09.081Z",
-      "ip": "103.70.146.162",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt26915338:1:1",
-      "title": "tt26915338:1:1",
-      "timestamp": "2026-02-05T07:14:12.679Z",
-      "ip": "103.70.146.162",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt33244668",
-      "title": "tt33244668",
-      "timestamp": "2026-02-05T07:14:31.545Z",
-      "ip": "103.70.146.162",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt31723358",
-      "title": "Ask Me What You Want",
-      "timestamp": "2026-02-05T07:20:13.170Z",
-      "ip": "2401:4900:1f29:9d85:20a6:268a:1d14:488b",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt15830678:1:4",
-      "title": "tt15830678:1:4",
-      "timestamp": "2026-02-05T07:21:47.573Z",
-      "ip": "2401:4900:1c0a:539c:18ea:3662:43dc:77d2",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt15830678:1:5",
@@ -86189,6 +86149,46 @@
       "timestamp": "2026-02-27T12:13:31.228Z",
       "ip": "2409:40d2:3051:2352:2cd2:3602:d0d9:7d52",
       "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt0816692",
+      "title": "Interstellar",
+      "timestamp": "2026-02-27T12:13:56.036Z",
+      "ip": "2409:40d2:3051:2352:2cd2:3602:d0d9:7d52",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "movie",
+      "id": "tt0330217",
+      "title": "tt0330217",
+      "timestamp": "2026-02-27T12:20:50.039Z",
+      "ip": "2401:9640:801:8f3a:54a9:3cd:1ef5:26b4",
+      "username": "suprememayank"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:6",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-27T12:21:25.611Z",
+      "ip": "2409:40d4:4009:6ecd:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:7",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-27T12:21:40.716Z",
+      "ip": "2409:40d4:4009:6ecd:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt0330217",
+      "title": "tt0330217",
+      "timestamp": "2026-02-27T12:22:12.621Z",
+      "ip": "2401:9640:801:8f3a:54a9:3cd:1ef5:26b4",
+      "username": "suprememayank"
     }
   ],
   "activeNow": {
@@ -86928,11 +86928,11 @@
       "lastActive": 1771786013291
     },
     "2401:9640:801:8f3a:54a9:3cd:1ef5:26b4": {
-      "type": "series",
-      "id": "tt13918776:1:1",
-      "title": "The Night Agent",
+      "type": "movie",
+      "id": "tt0330217",
+      "title": "tt0330217",
       "username": "suprememayank",
-      "lastActive": 1772020243177
+      "lastActive": 1772194932621
     },
     "38.254.182.44": {
       "type": "movie",
@@ -89225,17 +89225,17 @@
     },
     "2409:40d4:4009:6ecd:8000::": {
       "type": "series",
-      "id": "tt12343534:3:6",
+      "id": "tt12343534:3:7",
       "title": "JUJUTSU KAISEN",
       "username": "kdbotz",
-      "lastActive": 1772193473676
+      "lastActive": 1772194900716
     },
     "2409:40d2:3051:2352:2cd2:3602:d0d9:7d52": {
       "type": "movie",
-      "id": "tt32897959",
-      "title": "tt32897959",
+      "id": "tt0816692",
+      "title": "Interstellar",
       "username": "saurabhkaperwan",
-      "lastActive": 1772194411228
+      "lastActive": 1772194436036
     },
     "2409:40c1:201e:1898:f179:5a12:839e:b2c2": {
       "type": "series",
