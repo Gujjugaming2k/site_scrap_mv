@@ -1,5 +1,5 @@
 {
-  "totalViews": 31059,
+  "totalViews": 31064,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6179,49 +6179,10 @@
     "150.107.241.55",
     "2401:4900:1caa:aab9:850f:f3d3:a142:bb9a",
     "2409:40e5:1d:aaee:dce0:c1ff:fe82:f783",
-    "146.196.34.128"
+    "146.196.34.128",
+    "119.234.77.242"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-05T00:50:16.430Z",
-      "ip": "103.46.200.105",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt29713093",
-      "title": "tt29713093",
-      "timestamp": "2026-02-05T00:50:51.090Z",
-      "ip": "103.46.200.105",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt1187043",
-      "title": "3 Idiots",
-      "timestamp": "2026-02-05T01:35:57.189Z",
-      "ip": "2409:40d7:1003:d896:401f:daff:fe9e:d99f",
-      "username": "mailrahulboora"
-    },
-    {
-      "type": "movie",
-      "id": "tt27673536",
-      "title": "tt27673536",
-      "timestamp": "2026-02-05T01:55:46.165Z",
-      "ip": "2a10:484:3:1::13",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-05T02:08:17.126Z",
-      "ip": "152.59.48.52",
-      "username": "b1jju"
-    },
     {
       "type": "movie",
       "id": "tt2283362",
@@ -86181,6 +86142,46 @@
       "timestamp": "2026-02-27T10:34:13.020Z",
       "ip": "2409:40e5:1d:aaee:dce0:c1ff:fe82:f783",
       "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt21057450:1:1",
+      "title": "tt21057450:1:1",
+      "timestamp": "2026-02-27T10:43:00.168Z",
+      "ip": "146.196.34.128",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt21057450:1:2",
+      "title": "tt21057450:1:2",
+      "timestamp": "2026-02-27T10:43:35.251Z",
+      "ip": "146.196.34.128",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt29921437:1:10",
+      "title": "tt29921437:1:10",
+      "timestamp": "2026-02-27T10:50:33.302Z",
+      "ip": "119.234.77.242",
+      "username": "bala"
+    },
+    {
+      "type": "movie",
+      "id": "tt9362736",
+      "title": "Die My Love",
+      "timestamp": "2026-02-27T10:51:53.432Z",
+      "ip": "119.234.77.242",
+      "username": "bala"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-27T10:57:08.016Z",
+      "ip": "2409:40e5:1d:aaee:dce0:c1ff:fe82:f783",
+      "username": "cyberboy12321"
     }
   ],
   "activeNow": {
@@ -89168,17 +89169,24 @@
     },
     "2409:40e5:1d:aaee:dce0:c1ff:fe82:f783": {
       "type": "movie",
-      "id": "tt0323013",
-      "title": "tt0323013",
+      "id": "tt27543632",
+      "title": "tt27543632",
       "username": "cyberboy12321",
-      "lastActive": 1772188453020
+      "lastActive": 1772189828016
     },
     "146.196.34.128": {
       "type": "series",
-      "id": "tt39971916:1:1",
-      "title": "tt39971916:1:1",
+      "id": "tt21057450:1:2",
+      "title": "tt21057450:1:2",
       "username": "gaendaswami",
-      "lastActive": 1772188385483
+      "lastActive": 1772189015251
+    },
+    "119.234.77.242": {
+      "type": "movie",
+      "id": "tt9362736",
+      "title": "Die My Love",
+      "username": "bala",
+      "lastActive": 1772189513432
     }
   }
 }
