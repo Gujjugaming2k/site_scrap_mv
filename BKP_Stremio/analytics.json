@@ -1,5 +1,5 @@
 {
-  "totalViews": 31383,
+  "totalViews": 31384,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6228,14 +6228,6 @@
     "66.102.121.253"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt33035373:1:1",
-      "title": "tt33035373:1:1",
-      "timestamp": "2026-02-06T09:57:20.364Z",
-      "ip": "2405:201:203e:b01c:f918:1384:f7fe:e790",
-      "username": "pingmenoone"
-    },
     {
       "type": "series",
       "id": "tt33035373:1:2",
@@ -86227,6 +86219,14 @@
       "timestamp": "2026-02-27T22:46:27.995Z",
       "ip": "66.102.121.253",
       "username": "hvre2"
+    },
+    {
+      "type": "series",
+      "id": "tt6611916:1:2",
+      "title": "tt6611916:1:2",
+      "timestamp": "2026-02-27T22:56:58.211Z",
+      "ip": "103.24.85.9",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -88678,7 +88678,7 @@
       "id": "tt6611916:1:2",
       "title": "tt6611916:1:2",
       "username": "william097",
-      "lastActive": 1772213162094
+      "lastActive": 1772233018211
     },
     "2401:4900:7b8e:33e5:9f:dfff:fe9e:92c2": {
       "type": "movie",
