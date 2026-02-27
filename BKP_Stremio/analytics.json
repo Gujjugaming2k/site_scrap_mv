@@ -1,5 +1,5 @@
 {
-  "totalViews": 31150,
+  "totalViews": 31156,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6191,57 +6191,11 @@
     "2a02:9b0:106:4496:7953:ca70:7f6c:43b5",
     "152.59.32.194",
     "2401:4900:74e1:f907:20d2:73ff:fec3:2498",
-    "2402:8100:2e1e:6816:c605:39f5:bd35:145a"
+    "2402:8100:2e1e:6816:c605:39f5:bd35:145a",
+    "2409:40e2:10f4:c489:3075:d4a9:4f43:a8ae",
+    "119.234.99.36"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt29638896",
-      "title": "tt29638896",
-      "timestamp": "2026-02-05T09:58:22.536Z",
-      "ip": "106.200.207.42",
-      "username": "user_9b"
-    },
-    {
-      "type": "series",
-      "id": "tt39221314:1:1",
-      "title": "tt39221314:1:1",
-      "timestamp": "2026-02-05T10:18:38.736Z",
-      "ip": "2401:4900:ae2b:a94f:3cee:e86d:bf6b:434",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt39139925",
-      "title": "tt39139925",
-      "timestamp": "2026-02-05T10:19:14.056Z",
-      "ip": "2409:40d4:40d5:9d25:8000::",
-      "username": "kdbotz"
-    },
-    {
-      "type": "movie",
-      "id": "tt1846675",
-      "title": "tt1846675",
-      "timestamp": "2026-02-05T10:19:28.677Z",
-      "ip": "103.46.200.105",
-      "username": "brosportses"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-05T10:19:31.340Z",
-      "ip": "2409:40d4:40d5:9d25:8000::",
-      "username": "kdbotz"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:2:8",
-      "title": "Fallout",
-      "timestamp": "2026-02-05T10:41:59.537Z",
-      "ip": "2409:40d4:107c:b6c1:d0bc:ccff:fee2:b23c",
-      "username": "golu_vk"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -86193,6 +86147,54 @@
       "timestamp": "2026-02-27T14:03:38.441Z",
       "ip": "2409:40d4:4009:6ecd:8000::",
       "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt0192657",
+      "title": "tt0192657",
+      "timestamp": "2026-02-27T14:06:28.288Z",
+      "ip": "2409:40e2:10f4:c489:3075:d4a9:4f43:a8ae",
+      "username": "adr7000"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-02-27T14:06:48.294Z",
+      "ip": "2409:40e2:10f4:c489:3075:d4a9:4f43:a8ae",
+      "username": "adr7000"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-27T14:07:35.498Z",
+      "ip": "2409:40e2:10f4:c489:3075:d4a9:4f43:a8ae",
+      "username": "adr7000"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-27T14:10:43.911Z",
+      "ip": "2409:40e2:10f4:c489:3075:d4a9:4f43:a8ae",
+      "username": "adr7000"
+    },
+    {
+      "type": "movie",
+      "id": "tt0192657",
+      "title": "tt0192657",
+      "timestamp": "2026-02-27T14:11:47.169Z",
+      "ip": "2409:40e2:10f4:c489:3075:d4a9:4f43:a8ae",
+      "username": "adr7000"
+    },
+    {
+      "type": "movie",
+      "id": "tt29344903",
+      "title": "The Ugly Stepsister",
+      "timestamp": "2026-02-27T14:12:27.626Z",
+      "ip": "119.234.99.36",
+      "username": "sheik"
     }
   ],
   "activeNow": {
@@ -89275,6 +89277,20 @@
       "title": "tt6077448:2:7",
       "username": "harshra9999",
       "lastActive": 1772199364986
+    },
+    "2409:40e2:10f4:c489:3075:d4a9:4f43:a8ae": {
+      "type": "movie",
+      "id": "tt0192657",
+      "title": "tt0192657",
+      "username": "adr7000",
+      "lastActive": 1772201507169
+    },
+    "119.234.99.36": {
+      "type": "movie",
+      "id": "tt29344903",
+      "title": "The Ugly Stepsister",
+      "username": "sheik",
+      "lastActive": 1772201547626
     }
   }
 }
