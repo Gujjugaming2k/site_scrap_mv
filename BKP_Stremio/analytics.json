@@ -1,5 +1,5 @@
 {
-  "totalViews": 31042,
+  "totalViews": 31045,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6170,33 +6170,11 @@
     "2401:4900:1caa:aab9:808e:de22:ce96:18cd",
     "45.118.158.142",
     "103.92.43.178",
-    "110.227.62.125"
+    "110.227.62.125",
+    "45.118.158.124",
+    "2401:4900:883e:9293:9c7e:680f:d537:6f99"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt10233448:1:4",
-      "title": "Vinland Saga",
-      "timestamp": "2026-02-04T19:15:56.781Z",
-      "ip": "202.88.248.12",
-      "username": "deepak"
-    },
-    {
-      "type": "series",
-      "id": "tt10233448:1:4",
-      "title": "Vinland Saga",
-      "timestamp": "2026-02-04T19:15:59.364Z",
-      "ip": "202.88.248.12",
-      "username": "deepak"
-    },
-    {
-      "type": "series",
-      "id": "tt10233448:1:4",
-      "title": "Vinland Saga",
-      "timestamp": "2026-02-04T19:16:39.180Z",
-      "ip": "202.88.248.12",
-      "username": "deepak"
-    },
     {
       "type": "series",
       "id": "tt10233448:1:5",
@@ -86172,6 +86150,30 @@
       "timestamp": "2026-02-27T08:01:09.406Z",
       "ip": "202.173.124.60",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "series",
+      "id": "tt8962124:5:6",
+      "title": "tt8962124:5:6",
+      "timestamp": "2026-02-27T08:06:50.288Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt38201910:1:5",
+      "title": "tt38201910:1:5",
+      "timestamp": "2026-02-27T08:09:55.772Z",
+      "ip": "45.118.158.124",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-02-27T08:20:00.452Z",
+      "ip": "2401:4900:883e:9293:9c7e:680f:d537:6f99",
+      "username": "nabakun24"
     }
   ],
   "activeNow": {
@@ -86415,10 +86417,10 @@
     },
     "203.192.255.46": {
       "type": "series",
-      "id": "tt8962124:5:5",
-      "title": "tt8962124:5:5",
+      "id": "tt8962124:5:6",
+      "title": "tt8962124:5:6",
       "username": "chetan_b2",
-      "lastActive": 1772177771569
+      "lastActive": 1772179610288
     },
     "2405:201:200d:906b:e9b9:acfe:e6f5:2f4f": {
       "type": "movie",
@@ -89107,6 +89109,20 @@
       "title": "tt33295741",
       "username": "s4nchitt",
       "lastActive": 1772178073734
+    },
+    "45.118.158.124": {
+      "type": "series",
+      "id": "tt38201910:1:5",
+      "title": "tt38201910:1:5",
+      "username": "gaendaswami",
+      "lastActive": 1772179795772
+    },
+    "2401:4900:883e:9293:9c7e:680f:d537:6f99": {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "username": "nabakun24",
+      "lastActive": 1772180400452
     }
   }
 }
