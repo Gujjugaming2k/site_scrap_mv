@@ -1,5 +1,5 @@
 {
-  "totalViews": 31156,
+  "totalViews": 31160,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6193,41 +6193,12 @@
     "2401:4900:74e1:f907:20d2:73ff:fec3:2498",
     "2402:8100:2e1e:6816:c605:39f5:bd35:145a",
     "2409:40e2:10f4:c489:3075:d4a9:4f43:a8ae",
-    "119.234.99.36"
+    "119.234.99.36",
+    "2a09:bac5:3af1:7eb::ca:181",
+    "2409:40e2:10f4:c489:ad1f:f04a:6c81:30fe",
+    "2401:4900:8558:b651::7098:bfb8"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-05T10:44:02.274Z",
-      "ip": "2405:201:6025:a88d:48da:db5:a66d:b2fb",
-      "username": "infinityseeker"
-    },
-    {
-      "type": "movie",
-      "id": "tt35146696",
-      "title": "tt35146696",
-      "timestamp": "2026-02-05T10:45:02.600Z",
-      "ip": "2401:9640:801:f425:cd2b:8f75:ee16:b6d3",
-      "username": "superememayank"
-    },
-    {
-      "type": "movie",
-      "id": "tt35146696",
-      "title": "tt35146696",
-      "timestamp": "2026-02-05T10:48:52.859Z",
-      "ip": "2401:9640:801:f425:cd2b:8f75:ee16:b6d3",
-      "username": "superememayank"
-    },
-    {
-      "type": "movie",
-      "id": "tt25872924",
-      "title": "tt25872924",
-      "timestamp": "2026-02-05T10:49:37.364Z",
-      "ip": "49.42.175.51",
-      "username": "adr7000"
-    },
     {
       "type": "movie",
       "id": "tt5580390",
@@ -86195,6 +86166,38 @@
       "timestamp": "2026-02-27T14:12:27.626Z",
       "ip": "119.234.99.36",
       "username": "sheik"
+    },
+    {
+      "type": "series",
+      "id": "tt0108778:10:3",
+      "title": "tt0108778:10:3",
+      "timestamp": "2026-02-27T14:22:58.112Z",
+      "ip": "2a09:bac5:3af1:7eb::ca:181",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-02-27T14:30:24.762Z",
+      "ip": "2409:40e2:10f4:c489:ad1f:f04a:6c81:30fe",
+      "username": "adr7000"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-27T14:30:36.244Z",
+      "ip": "2401:4900:8558:b651::7098:bfb8",
+      "username": "henry"
+    },
+    {
+      "type": "movie",
+      "id": "tt33295741",
+      "title": "tt33295741",
+      "timestamp": "2026-02-27T14:30:51.645Z",
+      "ip": "2409:40e2:10f4:c489:ad1f:f04a:6c81:30fe",
+      "username": "adr7000"
     }
   ],
   "activeNow": {
@@ -89291,6 +89294,27 @@
       "title": "The Ugly Stepsister",
       "username": "sheik",
       "lastActive": 1772201547626
+    },
+    "2a09:bac5:3af1:7eb::ca:181": {
+      "type": "series",
+      "id": "tt0108778:10:3",
+      "title": "tt0108778:10:3",
+      "username": "switchoff009",
+      "lastActive": 1772202178112
+    },
+    "2409:40e2:10f4:c489:ad1f:f04a:6c81:30fe": {
+      "type": "movie",
+      "id": "tt33295741",
+      "title": "tt33295741",
+      "username": "adr7000",
+      "lastActive": 1772202651645
+    },
+    "2401:4900:8558:b651::7098:bfb8": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "henry",
+      "lastActive": 1772202636244
     }
   }
 }
