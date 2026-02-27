@@ -1,5 +1,5 @@
 {
-  "totalViews": 31051,
+  "totalViews": 31052,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6176,14 +6176,6 @@
     "103.92.43.32"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33046197",
-      "title": "tt33046197",
-      "timestamp": "2026-02-04T20:55:13.813Z",
-      "ip": "5.32.86.178",
-      "username": "nobody_ismy_name"
-    },
     {
       "type": "series",
       "id": "tt12343534:2:1",
@@ -86175,6 +86167,14 @@
       "timestamp": "2026-02-27T08:41:22.251Z",
       "ip": "182.77.77.70",
       "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt26737616:1:2",
+      "title": "tt26737616:1:2",
+      "timestamp": "2026-02-27T09:09:40.116Z",
+      "ip": "182.69.180.143",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -87390,11 +87390,11 @@
       "lastActive": 1771860861746
     },
     "182.69.180.143": {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "type": "series",
+      "id": "tt26737616:1:2",
+      "title": "tt26737616:1:2",
       "username": "dillon_ka_shooter",
-      "lastActive": 1772021940563
+      "lastActive": 1772183380116
     },
     "2409:40e6:c:1670:384c:25ff:febd:c0cb": {
       "type": "movie",
