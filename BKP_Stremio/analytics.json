@@ -1,5 +1,5 @@
 {
-  "totalViews": 31054,
+  "totalViews": 31055,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6175,17 +6175,10 @@
     "2401:4900:883e:9293:9c7e:680f:d537:6f99",
     "103.92.43.32",
     "103.214.60.28",
-    "2405:201:900f:a92b:e5bc:a4bf:9e9b:7ab5"
+    "2405:201:900f:a92b:e5bc:a4bf:9e9b:7ab5",
+    "150.107.241.55"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt30003786:4:7",
-      "title": "tt30003786:4:7",
-      "timestamp": "2026-02-04T23:21:33.786Z",
-      "ip": "152.56.135.193",
-      "username": "adshoyi"
-    },
     {
       "type": "movie",
       "id": "tt0079489",
@@ -86177,6 +86170,14 @@
       "timestamp": "2026-02-27T09:24:42.154Z",
       "ip": "2405:201:900f:a92b:e5bc:a4bf:9e9b:7ab5",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "timestamp": "2026-02-27T09:38:09.401Z",
+      "ip": "150.107.241.55",
+      "username": "jamesbond_pistolman"
     }
   ],
   "activeNow": {
@@ -89147,6 +89148,13 @@
       "title": "tt0120685",
       "username": "theonlyfreak",
       "lastActive": 1772184282154
+    },
+    "150.107.241.55": {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "username": "jamesbond_pistolman",
+      "lastActive": 1772185089401
     }
   }
 }
