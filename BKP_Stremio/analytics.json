@@ -1,5 +1,5 @@
 {
-  "totalViews": 31052,
+  "totalViews": 31054,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6173,25 +6173,11 @@
     "110.227.62.125",
     "45.118.158.124",
     "2401:4900:883e:9293:9c7e:680f:d537:6f99",
-    "103.92.43.32"
+    "103.92.43.32",
+    "103.214.60.28",
+    "2405:201:900f:a92b:e5bc:a4bf:9e9b:7ab5"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12343534:2:1",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-02-04T21:56:35.544Z",
-      "ip": "2405:201:a001:21d8:1262:935:cd50:43ff",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:2:2",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-02-04T21:57:23.171Z",
-      "ip": "2405:201:a001:21d8:1262:935:cd50:43ff",
-      "username": "william097"
-    },
     {
       "type": "series",
       "id": "tt30003786:4:7",
@@ -86175,6 +86161,22 @@
       "timestamp": "2026-02-27T09:09:40.116Z",
       "ip": "182.69.180.143",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:2:1",
+      "title": "tt17220216:2:1",
+      "timestamp": "2026-02-27T09:12:22.685Z",
+      "ip": "103.214.60.28",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt0120685",
+      "title": "tt0120685",
+      "timestamp": "2026-02-27T09:24:42.154Z",
+      "ip": "2405:201:900f:a92b:e5bc:a4bf:9e9b:7ab5",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -89131,6 +89133,20 @@
       "title": "tt17220216:2:1",
       "username": "gaendaswami",
       "lastActive": 1772181138719
+    },
+    "103.214.60.28": {
+      "type": "series",
+      "id": "tt17220216:2:1",
+      "title": "tt17220216:2:1",
+      "username": "gaendaswami",
+      "lastActive": 1772183542685
+    },
+    "2405:201:900f:a92b:e5bc:a4bf:9e9b:7ab5": {
+      "type": "movie",
+      "id": "tt0120685",
+      "title": "tt0120685",
+      "username": "theonlyfreak",
+      "lastActive": 1772184282154
     }
   }
 }
