@@ -1,5 +1,5 @@
 {
-  "totalViews": 31055,
+  "totalViews": 31056,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6176,17 +6176,10 @@
     "103.92.43.32",
     "103.214.60.28",
     "2405:201:900f:a92b:e5bc:a4bf:9e9b:7ab5",
-    "150.107.241.55"
+    "150.107.241.55",
+    "2401:4900:1caa:aab9:850f:f3d3:a142:bb9a"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0079489",
-      "title": "tt0079489",
-      "timestamp": "2026-02-04T23:56:49.254Z",
-      "ip": "152.56.135.193",
-      "username": "adshoyi"
-    },
     {
       "type": "movie",
       "id": "tt1760980",
@@ -86178,6 +86171,14 @@
       "timestamp": "2026-02-27T09:38:09.401Z",
       "ip": "150.107.241.55",
       "username": "jamesbond_pistolman"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-27T10:02:27.471Z",
+      "ip": "2401:4900:1caa:aab9:850f:f3d3:a142:bb9a",
+      "username": "nirbhay1412"
     }
   ],
   "activeNow": {
@@ -89155,6 +89156,13 @@
       "title": "tt32141377",
       "username": "jamesbond_pistolman",
       "lastActive": 1772185089401
+    },
+    "2401:4900:1caa:aab9:850f:f3d3:a142:bb9a": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "nirbhay1412",
+      "lastActive": 1772186547471
     }
   }
 }
