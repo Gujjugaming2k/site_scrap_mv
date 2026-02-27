@@ -1,5 +1,5 @@
 {
-  "totalViews": 31134,
+  "totalViews": 31136,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6189,25 +6189,10 @@
     "2409:40d2:3051:2352:2cd2:3602:d0d9:7d52",
     "2409:40c1:201e:1898:f179:5a12:839e:b2c2",
     "2a02:9b0:106:4496:7953:ca70:7f6c:43b5",
-    "152.59.32.194"
+    "152.59.32.194",
+    "2401:4900:74e1:f907:20d2:73ff:fec3:2498"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:6",
-      "title": "tt35335046:1:6",
-      "timestamp": "2026-02-05T08:40:57.859Z",
-      "ip": "2402:3a80:1985:b8d:378:5634:1232:5476",
-      "username": "lazerkey"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:5",
-      "title": "tt35335046:1:5",
-      "timestamp": "2026-02-05T08:41:31.312Z",
-      "ip": "2402:3a80:1985:b8d:378:5634:1232:5476",
-      "username": "lazerkey"
-    },
     {
       "type": "series",
       "id": "tt31844233:1:1",
@@ -86191,6 +86176,22 @@
       "timestamp": "2026-02-27T13:02:11.500Z",
       "ip": "152.59.32.194",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:5",
+      "title": "tt27497448:1:5",
+      "timestamp": "2026-02-27T13:08:13.406Z",
+      "ip": "2401:4900:74e1:f907:20d2:73ff:fec3:2498",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:8",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-27T13:11:27.789Z",
+      "ip": "2409:40d4:4009:6ecd:8000::",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -89226,11 +89227,11 @@
       "lastActive": 1772192194293
     },
     "2409:40d4:4009:6ecd:8000::": {
-      "type": "movie",
-      "id": "tt18277182",
-      "title": "tt18277182",
+      "type": "series",
+      "id": "tt4574334:1:8",
+      "title": "Stranger Things",
       "username": "kdbotz",
-      "lastActive": 1772196004084
+      "lastActive": 1772197887789
     },
     "2409:40d2:3051:2352:2cd2:3602:d0d9:7d52": {
       "type": "movie",
@@ -89259,6 +89260,13 @@
       "title": "tt28184712",
       "username": "zealousninja",
       "lastActive": 1772197331500
+    },
+    "2401:4900:74e1:f907:20d2:73ff:fec3:2498": {
+      "type": "series",
+      "id": "tt27497448:1:5",
+      "title": "tt27497448:1:5",
+      "username": "william097",
+      "lastActive": 1772197693406
     }
   }
 }
