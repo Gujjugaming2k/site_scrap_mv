@@ -1,5 +1,5 @@
 {
-  "totalViews": 31004,
+  "totalViews": 31006,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6164,25 +6164,10 @@
     "2409:40e4:1097:38c2:284a:ee:eb:c74",
     "2409:40d2:3019:3524:a612:35c1:b7ce:61ec",
     "2409:40c0:101f:2e7c:148d:9eff:fee6:3b7f",
-    "2401:4900:c205:afc3:aef6:8e91:1593:a995"
+    "2401:4900:c205:afc3:aef6:8e91:1593:a995",
+    "2409:40d4:408d:462e:8000::"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33046197",
-      "title": "tt33046197",
-      "timestamp": "2026-02-04T16:10:44.916Z",
-      "ip": "2401:4900:ac17:a27f:91a4:d6f0:a974:b357",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-04T16:13:05.203Z",
-      "ip": "5.32.86.178",
-      "username": "nobody_ismy_name"
-    },
     {
       "type": "series",
       "id": "tt31844233:1:7",
@@ -86166,6 +86151,22 @@
       "timestamp": "2026-02-27T06:31:58.359Z",
       "ip": "2401:4900:1caa:aab9:b500:a44d:bea9:4d17",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:6",
+      "title": "Stranger Things",
+      "timestamp": "2026-02-27T06:39:46.740Z",
+      "ip": "2409:40d4:408d:462e:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt34956443",
+      "title": "Ne Zha 2",
+      "timestamp": "2026-02-27T06:47:23.977Z",
+      "ip": "2401:4900:1caa:aab9:b500:a44d:bea9:4d17",
+      "username": "nirbhay1412"
     }
   ],
   "activeNow": {
@@ -88327,10 +88328,10 @@
     },
     "2401:4900:1caa:aab9:b500:a44d:bea9:4d17": {
       "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
+      "id": "tt34956443",
+      "title": "Ne Zha 2",
       "username": "nirbhay1412",
-      "lastActive": 1772173918359
+      "lastActive": 1772174843977
     },
     "2405:201:c013:93e:d7f0:cdae:6513:279a": {
       "type": "movie",
@@ -89059,6 +89060,13 @@
       "title": "tt6077448:2:8",
       "username": "harshra9999",
       "lastActive": 1772173793517
+    },
+    "2409:40d4:408d:462e:8000::": {
+      "type": "series",
+      "id": "tt4574334:1:6",
+      "title": "Stranger Things",
+      "username": "kdbotz",
+      "lastActive": 1772174386740
     }
   }
 }
