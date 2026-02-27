@@ -1,5 +1,5 @@
 {
-  "totalViews": 30937,
+  "totalViews": 30938,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6142,17 +6142,10 @@
     "181.197.55.188",
     "2401:4900:88eb:116c:4d86:19e1:fac5:8b27",
     "2a09:bac1:36a0:80::243:99",
-    "2409:40e4:1093:e30a:2d81:180f:a28e:93e6"
+    "2409:40e4:1093:e30a:2d81:180f:a28e:93e6",
+    "2401:4900:1caa:aab9:10a7:3d69:3813:f5df"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0388629:22:44",
-      "title": "tt0388629:22:44",
-      "timestamp": "2026-02-04T10:36:42.542Z",
-      "ip": "2409:40f0:101e:4c11:f03a:2087:bb2e:fde7",
-      "username": "nothing_8888"
-    },
     {
       "type": "movie",
       "id": "tt5037912",
@@ -86144,6 +86137,14 @@
       "timestamp": "2026-02-26T23:03:14.536Z",
       "ip": "2409:40e4:1093:e30a:65a8:6425:ee77:6f4e",
       "username": "adshoyi"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-27T00:25:11.628Z",
+      "ip": "2401:4900:1caa:aab9:10a7:3d69:3813:f5df",
+      "username": "nirbhay1412"
     }
   ],
   "activeNow": {
@@ -88883,6 +88884,13 @@
       "title": "tt3449292",
       "username": "askmeword",
       "lastActive": 1772143687181
+    },
+    "2401:4900:1caa:aab9:10a7:3d69:3813:f5df": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "nirbhay1412",
+      "lastActive": 1772151911628
     }
   }
 }
