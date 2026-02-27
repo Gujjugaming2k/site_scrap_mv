@@ -1,5 +1,5 @@
 {
-  "totalViews": 30938,
+  "totalViews": 30939,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6146,14 +6146,6 @@
     "2401:4900:1caa:aab9:10a7:3d69:3813:f5df"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt5037912",
-      "title": "tt5037912",
-      "timestamp": "2026-02-04T10:39:03.772Z",
-      "ip": "2a09:bac5:3b22:10dc::1ae:f",
-      "username": "sachinprem1"
-    },
     {
       "type": "movie",
       "id": "tt29638896",
@@ -86145,6 +86137,14 @@
       "timestamp": "2026-02-27T00:25:11.628Z",
       "ip": "2401:4900:1caa:aab9:10a7:3d69:3813:f5df",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt1355642:1:1",
+      "title": "tt1355642:1:1",
+      "timestamp": "2026-02-27T01:23:37.720Z",
+      "ip": "2409:40c1:1037:ce9e:5dcc:9c9d:185a:44ec",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -88739,11 +88739,11 @@
       "lastActive": 1772117814372
     },
     "2409:40c1:1037:ce9e:5dcc:9c9d:185a:44ec": {
-      "type": "movie",
-      "id": "tt31036941",
-      "title": "Jurassic World Rebirth",
+      "type": "series",
+      "id": "tt1355642:1:1",
+      "title": "tt1355642:1:1",
       "username": "zealousninja",
-      "lastActive": 1772125108068
+      "lastActive": 1772155417720
     },
     "2409:40e0:103a:71e2:c15b:4d43:ebb2:1ad7": {
       "type": "movie",
