@@ -1,5 +1,5 @@
 {
-  "totalViews": 30946,
+  "totalViews": 30948,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6148,22 +6148,6 @@
     "2405:201:2022:b81c:b068:eacc:d28a:6f87"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt5332206:1:1",
-      "title": "tt5332206:1:1",
-      "timestamp": "2026-02-04T11:27:43.594Z",
-      "ip": "146.196.34.186",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt14186672:2:1",
-      "title": "tt14186672:2:1",
-      "timestamp": "2026-02-04T11:28:15.008Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
     {
       "type": "series",
       "id": "tt5332206:1:2",
@@ -86147,6 +86131,22 @@
       "timestamp": "2026-02-27T02:25:54.677Z",
       "ip": "103.46.200.41",
       "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt0871510",
+      "title": "tt0871510",
+      "timestamp": "2026-02-27T02:26:22.256Z",
+      "ip": "103.46.200.41",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt13334578",
+      "title": "tt13334578",
+      "timestamp": "2026-02-27T02:27:13.795Z",
+      "ip": "103.46.200.41",
+      "username": "katdenningssss"
     }
   ],
   "activeNow": {
@@ -87055,10 +87055,10 @@
     },
     "103.46.200.41": {
       "type": "movie",
-      "id": "tt11112526",
-      "title": "tt11112526",
+      "id": "tt13334578",
+      "title": "tt13334578",
       "username": "katdenningssss",
-      "lastActive": 1772159154677
+      "lastActive": 1772159233795
     },
     "223.177.132.207": {
       "type": "series",
