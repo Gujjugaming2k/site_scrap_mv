@@ -1,5 +1,5 @@
 {
-  "totalViews": 30961,
+  "totalViews": 30964,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6150,33 +6150,10 @@
     "223.181.17.7",
     "2401:4900:1caa:aab9:616f:73f:7b0c:8955",
     "2401:4900:88b8:b3d0:317f:cfb3:a7f1:8c31",
-    "2603:3003:3544:6700:941b:a11a:bebc:b1e0"
+    "2603:3003:3544:6700:941b:a11a:bebc:b1e0",
+    "117.235.173.153"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31844233:1:3",
-      "title": "tt31844233:1:3",
-      "timestamp": "2026-02-04T13:14:51.279Z",
-      "ip": "2409:40c4:2f:fa6f:b43b:f7ff:fe12:b37b",
-      "username": "b1jju"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:3",
-      "title": "tt35335046:1:3",
-      "timestamp": "2026-02-04T13:17:07.487Z",
-      "ip": "2409:40c4:2f:fa6f:b43b:f7ff:fe12:b37b",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-04T13:22:26.168Z",
-      "ip": "2406:b400:1a:3712:a27:a8ff:fe42:855e",
-      "username": "nothingokk"
-    },
     {
       "type": "movie",
       "id": "tt33514451",
@@ -86152,6 +86129,30 @@
       "timestamp": "2026-02-27T04:13:32.981Z",
       "ip": "2603:3003:3544:6700:941b:a11a:bebc:b1e0",
       "username": "anupambabu_97"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:2:1",
+      "title": "tt17220216:2:1",
+      "timestamp": "2026-02-27T04:53:48.821Z",
+      "ip": "117.235.173.153",
+      "username": "itsdoom50"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:2:2",
+      "title": "tt17220216:2:2",
+      "timestamp": "2026-02-27T04:54:06.062Z",
+      "ip": "117.235.173.153",
+      "username": "itsdoom50"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:2:2",
+      "title": "tt17220216:2:2",
+      "timestamp": "2026-02-27T04:54:16.227Z",
+      "ip": "117.235.173.153",
+      "username": "itsdoom50"
     }
   ],
   "activeNow": {
@@ -88947,6 +88948,13 @@
       "title": "tt31050594",
       "username": "anupambabu_97",
       "lastActive": 1772165612981
+    },
+    "117.235.173.153": {
+      "type": "series",
+      "id": "tt17220216:2:2",
+      "title": "tt17220216:2:2",
+      "username": "itsdoom50",
+      "lastActive": 1772168056227
     }
   }
 }
