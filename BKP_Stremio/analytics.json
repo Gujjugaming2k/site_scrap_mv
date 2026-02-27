@@ -1,5 +1,5 @@
 {
-  "totalViews": 31112,
+  "totalViews": 31115,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6186,33 +6186,10 @@
     "2a09:bac5:3af1:8b4::de:3d",
     "2001:4490:444d:4fef:58d:e4a9:de86:1301",
     "2409:40d4:4009:6ecd:8000::",
-    "2409:40d2:3051:2352:2cd2:3602:d0d9:7d52"
+    "2409:40d2:3051:2352:2cd2:3602:d0d9:7d52",
+    "2409:40c1:201e:1898:f179:5a12:839e:b2c2"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt9253866:1:7",
-      "title": "tt9253866:1:7",
-      "timestamp": "2026-02-05T07:01:51.221Z",
-      "ip": "2405:201:a001:21d8:193b:3900:4bd6:1614",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt9253866:1:7",
-      "title": "tt9253866:1:7",
-      "timestamp": "2026-02-05T07:11:15.845Z",
-      "ip": "2405:201:a001:21d8:193b:3900:4bd6:1614",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt9253866:1:7",
-      "title": "tt9253866:1:7",
-      "timestamp": "2026-02-05T07:11:58.390Z",
-      "ip": "49.37.117.145",
-      "username": "william097"
-    },
     {
       "type": "series",
       "id": "tt26915338:1:1",
@@ -86188,6 +86165,30 @@
       "timestamp": "2026-02-27T11:57:53.676Z",
       "ip": "2409:40d4:4009:6ecd:8000::",
       "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt2179136",
+      "title": "American Sniper",
+      "timestamp": "2026-02-27T12:02:45.901Z",
+      "ip": "119.234.77.242",
+      "username": "bala"
+    },
+    {
+      "type": "series",
+      "id": "tt8740790:4:7",
+      "title": "tt8740790:4:7",
+      "timestamp": "2026-02-27T12:04:35.281Z",
+      "ip": "2409:40c1:201e:1898:f179:5a12:839e:b2c2",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt32897959",
+      "title": "tt32897959",
+      "timestamp": "2026-02-27T12:13:31.228Z",
+      "ip": "2409:40d2:3051:2352:2cd2:3602:d0d9:7d52",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -89189,10 +89190,10 @@
     },
     "119.234.77.242": {
       "type": "movie",
-      "id": "tt0265086",
-      "title": "Black Hawk Down",
+      "id": "tt2179136",
+      "title": "American Sniper",
       "username": "bala",
-      "lastActive": 1772192900294
+      "lastActive": 1772193765901
     },
     "2402:8100:2de0:12a1:fcdd:77ef:59e:4d53": {
       "type": "series",
@@ -89231,10 +89232,17 @@
     },
     "2409:40d2:3051:2352:2cd2:3602:d0d9:7d52": {
       "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
+      "id": "tt32897959",
+      "title": "tt32897959",
       "username": "saurabhkaperwan",
-      "lastActive": 1772193206442
+      "lastActive": 1772194411228
+    },
+    "2409:40c1:201e:1898:f179:5a12:839e:b2c2": {
+      "type": "series",
+      "id": "tt8740790:4:7",
+      "title": "tt8740790:4:7",
+      "username": "gendaswammy",
+      "lastActive": 1772193875281
     }
   }
 }
