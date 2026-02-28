@@ -1,5 +1,5 @@
 {
-  "totalViews": 31608,
+  "totalViews": 31612,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6268,41 +6268,10 @@
     "103.149.158.160",
     "2409:40d4:121:fb9c:742f:46ff:fe8c:5a54",
     "2409:40d4:121:fb9c:742f:46ff:fe8c:5a54,51.89.197.91",
-    "2401:4900:75a7:cb97:183d:58ff:fe53:3b10"
+    "2401:4900:75a7:cb97:183d:58ff:fe53:3b10",
+    "146.70.142.90"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:3:8",
-      "title": "Lost",
-      "timestamp": "2026-02-07T11:50:46.062Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:3:9",
-      "title": "Lost",
-      "timestamp": "2026-02-07T11:52:01.752Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:3:10",
-      "title": "Lost",
-      "timestamp": "2026-02-07T11:52:48.061Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:3:9",
-      "title": "Lost",
-      "timestamp": "2026-02-07T11:56:42.709Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
     {
       "type": "series",
       "id": "tt0411008:3:10",
@@ -86270,6 +86239,38 @@
       "timestamp": "2026-02-28T09:55:43.510Z",
       "ip": "2409:40d4:121:fb9c:742f:46ff:fe8c:5a54,51.89.197.91",
       "username": "bk18"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:3:1",
+      "title": "The Night Agent",
+      "timestamp": "2026-02-28T10:03:45.248Z",
+      "ip": "60.254.0.56",
+      "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:3:2",
+      "title": "The Night Agent",
+      "timestamp": "2026-02-28T10:06:29.292Z",
+      "ip": "146.70.142.90",
+      "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:3:2",
+      "title": "The Night Agent",
+      "timestamp": "2026-02-28T10:06:29.424Z",
+      "ip": "146.70.142.90",
+      "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:3:2",
+      "title": "The Night Agent",
+      "timestamp": "2026-02-28T10:06:29.532Z",
+      "ip": "146.70.142.90",
+      "username": "insnaee99"
     }
   ],
   "activeNow": {
@@ -89848,7 +89849,7 @@
       "id": "tt13918776:3:1",
       "title": "The Night Agent",
       "username": "insnaee99",
-      "lastActive": 1772270819928
+      "lastActive": 1772273025248
     },
     "2401:4900:88f7:b559:cd7c:8a81:604d:34b9": {
       "type": "movie",
@@ -89891,6 +89892,13 @@
       "title": "tt6611916:1:1",
       "username": "william097",
       "lastActive": 1772272407988
+    },
+    "146.70.142.90": {
+      "type": "series",
+      "id": "tt13918776:3:2",
+      "title": "The Night Agent",
+      "username": "insnaee99",
+      "lastActive": 1772273189532
     }
   }
 }
