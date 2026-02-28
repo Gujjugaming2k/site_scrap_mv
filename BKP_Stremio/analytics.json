@@ -1,5 +1,5 @@
 {
-  "totalViews": 31411,
+  "totalViews": 31412,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6231,14 +6231,6 @@
     "2409:40d4:1065:579e:8000::"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33088418",
-      "title": "tt33088418",
-      "timestamp": "2026-02-06T13:47:26.195Z",
-      "ip": "2401:4900:1f29:9d85:41a1:d68a:5534:4ff2",
-      "username": "gaendaswami"
-    },
     {
       "type": "movie",
       "id": "tt0317705",
@@ -86230,6 +86222,14 @@
       "timestamp": "2026-02-28T02:20:41.740Z",
       "ip": "2409:40d4:1065:579e:8000::",
       "username": "pingmenoone"
+    },
+    {
+      "type": "movie",
+      "id": "tt27673536",
+      "title": "tt27673536",
+      "timestamp": "2026-02-28T02:48:41.628Z",
+      "ip": "186.188.150.139",
+      "username": "ymcinema"
     }
   ],
   "activeNow": {
@@ -86361,10 +86361,10 @@
     },
     "186.188.150.139": {
       "type": "movie",
-      "id": "tt1790885",
-      "title": "Zero Dark Thirty",
+      "id": "tt27673536",
+      "title": "tt27673536",
       "username": "ymcinema",
-      "lastActive": 1771815412672
+      "lastActive": 1772246921628
     },
     "2401:4900:8823:a9e4:44a0:b4b8:7787:d185": {
       "type": "series",
