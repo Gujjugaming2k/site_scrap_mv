@@ -1,5 +1,5 @@
 {
-  "totalViews": 31552,
+  "totalViews": 31558,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6257,57 +6257,10 @@
     "2409:40e4:109f:7afa:b989:4182:d267:ae30",
     "2401:4900:ac3c:fcb3:54be:cf53:feaf:32f7",
     "2401:4900:ac00:e705:3485:8c5f:83c:310c",
-    "119.234.85.33"
+    "119.234.85.33",
+    "2a09:bac5:3af1:1a46::29e:4f"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt19854762:1:1",
-      "title": "tt19854762:1:1",
-      "timestamp": "2026-02-07T06:34:15.039Z",
-      "ip": "2001:4490:444d:4a3b:10d3:a39d:9cca:8fa2",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt4154796",
-      "title": "Avengers: Endgame",
-      "timestamp": "2026-02-07T06:53:23.870Z",
-      "ip": "2001:4490:4e65:b1df:7196:3e34:a40f:8cf2",
-      "username": "adiyogivishwanath"
-    },
-    {
-      "type": "movie",
-      "id": "tt0079501",
-      "title": "tt0079501",
-      "timestamp": "2026-02-07T07:30:29.672Z",
-      "ip": "2401:4900:be83:9a6b:8651:8f12:ba6d:c833",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:3:5",
-      "title": "Lost",
-      "timestamp": "2026-02-07T07:35:55.422Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:3:7",
-      "title": "Lost",
-      "timestamp": "2026-02-07T07:36:06.748Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:3:8",
-      "title": "Lost",
-      "timestamp": "2026-02-07T07:37:38.120Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
     {
       "type": "movie",
       "id": "tt32362695",
@@ -86259,6 +86212,54 @@
       "timestamp": "2026-02-28T07:52:34.247Z",
       "ip": "119.234.85.33",
       "username": "sheik"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-02-28T07:56:06.190Z",
+      "ip": "45.118.158.131",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt1705772",
+      "title": "tt1705772",
+      "timestamp": "2026-02-28T07:57:30.328Z",
+      "ip": "103.98.63.135",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt39255646",
+      "title": "tt39255646",
+      "timestamp": "2026-02-28T07:58:01.750Z",
+      "ip": "103.98.63.135",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-02-28T07:58:40.193Z",
+      "ip": "45.118.158.131",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt0108778:10:5",
+      "title": "tt0108778:10:5",
+      "timestamp": "2026-02-28T07:58:43.152Z",
+      "ip": "2a09:bac5:3af1:1a46::29e:4f",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt39255646",
+      "title": "tt39255646",
+      "timestamp": "2026-02-28T08:02:05.786Z",
+      "ip": "103.98.63.135",
+      "username": "thala_75"
     }
   ],
   "activeNow": {
@@ -87387,7 +87388,7 @@
       "id": "tt39255646",
       "title": "tt39255646",
       "username": "thala_75",
-      "lastActive": 1772264154901
+      "lastActive": 1772265725786
     },
     "2401:4900:8831:6c27:6c55:5476:26c7:d6fe": {
       "type": "series",
@@ -89393,10 +89394,10 @@
     },
     "45.118.158.131": {
       "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
       "username": "gaendaswami",
-      "lastActive": 1772264583266
+      "lastActive": 1772265520193
     },
     "2405:201:682e:6839:c9ef:8a50:53fc:7b20": {
       "type": "movie",
@@ -89803,6 +89804,13 @@
       "title": "tt6304046",
       "username": "sheik",
       "lastActive": 1772265154247
+    },
+    "2a09:bac5:3af1:1a46::29e:4f": {
+      "type": "series",
+      "id": "tt0108778:10:5",
+      "title": "tt0108778:10:5",
+      "username": "switchoff009",
+      "lastActive": 1772265523152
     }
   }
 }
