@@ -1,5 +1,5 @@
 {
-  "totalViews": 31748,
+  "totalViews": 31753,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6300,49 +6300,11 @@
     "2409:40c0:6e:f579:9c05:f9ac:c153:c8f5",
     "2409:40e4:10a7:3d02:c045:9d12:5584:9b2",
     "115.98.233.35",
-    "2409:40e4:10a7:3d02:65a8:6425:ee77:6f4e"
+    "2409:40e4:10a7:3d02:65a8:6425:ee77:6f4e",
+    "2409:40e4:1a:9cda:8487:8bff:fe61:8304",
+    "122.161.57.154"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30742355",
-      "title": "tt30742355",
-      "timestamp": "2026-02-08T03:32:20.317Z",
-      "ip": "2401:4900:55ad:907f:5c09:a1ff:fe00:6598",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt32360696",
-      "title": "French Lover",
-      "timestamp": "2026-02-08T03:41:56.931Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "movie",
-      "id": "tt1757678",
-      "title": "tt1757678",
-      "timestamp": "2026-02-08T03:43:10.805Z",
-      "ip": "2401:4900:55ad:907f:5c09:a1ff:fe00:6598",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt1757678",
-      "title": "tt1757678",
-      "timestamp": "2026-02-08T03:43:23.342Z",
-      "ip": "2401:4900:55ad:907f:5c09:a1ff:fe00:6598",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt0499549",
-      "title": "Avatar",
-      "timestamp": "2026-02-08T03:47:51.940Z",
-      "ip": "2401:4900:55ad:907f:5c09:a1ff:fe00:6598",
-      "username": "b1jju"
-    },
     {
       "type": "movie",
       "id": "tt32360696",
@@ -86302,6 +86264,46 @@
       "timestamp": "2026-02-28T16:08:49.163Z",
       "ip": "2409:40e4:10a7:3d02:65a8:6425:ee77:6f4e",
       "username": "adshoyi"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:9",
+      "title": "tt30003786:4:9",
+      "timestamp": "2026-02-28T16:17:31.585Z",
+      "ip": "2409:40e4:1a:9cda:8487:8bff:fe61:8304",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-28T16:19:06.552Z",
+      "ip": "2409:40e4:1a:9cda:8487:8bff:fe61:8304",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt8291224",
+      "title": "tt8291224",
+      "timestamp": "2026-02-28T16:19:52.754Z",
+      "ip": "2409:40e4:1a:9cda:8487:8bff:fe61:8304",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt8291224",
+      "title": "tt8291224",
+      "timestamp": "2026-02-28T16:22:26.787Z",
+      "ip": "2409:40e4:1a:9cda:8487:8bff:fe61:8304",
+      "username": "cyberboy12321"
+    },
+    {
+      "type": "movie",
+      "id": "tt0093773",
+      "title": "Predator",
+      "timestamp": "2026-02-28T16:25:05.079Z",
+      "ip": "122.161.57.154",
+      "username": "user_9b"
     }
   ],
   "activeNow": {
@@ -90147,6 +90149,20 @@
       "title": "Your Name.",
       "username": "adshoyi",
       "lastActive": 1772294929163
+    },
+    "2409:40e4:1a:9cda:8487:8bff:fe61:8304": {
+      "type": "movie",
+      "id": "tt8291224",
+      "title": "tt8291224",
+      "username": "cyberboy12321",
+      "lastActive": 1772295746787
+    },
+    "122.161.57.154": {
+      "type": "movie",
+      "id": "tt0093773",
+      "title": "Predator",
+      "username": "user_9b",
+      "lastActive": 1772295905079
     }
   }
 }
