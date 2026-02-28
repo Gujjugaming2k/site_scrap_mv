@@ -1,5 +1,5 @@
 {
-  "totalViews": 31661,
+  "totalViews": 31664,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6282,33 +6282,11 @@
     "2409:40d4:11ff:d686:476:9dff:feee:6524",
     "2409:40d4:11ff:d686:476:9dff:feee:6524,51.89.197.91",
     "2409:40f0:1019:b41:d8d9:5bff:feb8:c2a0",
-    "38.83.114.63"
+    "38.83.114.63",
+    "2409:40c1:54:1973:28c6:e4ff:fe2b:32ad",
+    "216.73.163.7"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31844233:1:1",
-      "title": "tt31844233:1:1",
-      "timestamp": "2026-02-07T17:07:41.922Z",
-      "ip": "103.181.65.86",
-      "username": "mutti9"
-    },
-    {
-      "type": "series",
-      "id": "tt31844233:1:5",
-      "title": "tt31844233:1:5",
-      "timestamp": "2026-02-07T17:08:48.755Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt31844233:1:4",
-      "title": "tt31844233:1:4",
-      "timestamp": "2026-02-07T17:08:58.745Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt31844233:1:5",
@@ -86284,6 +86262,30 @@
       "timestamp": "2026-02-28T12:42:33.574Z",
       "ip": "2409:40e2:10f4:c489:3075:d4a9:4f43:a8ae",
       "username": "adr7000"
+    },
+    {
+      "type": "movie",
+      "id": "tt10627720",
+      "title": "Ne Zha",
+      "timestamp": "2026-02-28T12:58:57.765Z",
+      "ip": "2401:4900:1caa:aab9:b500:a44d:bea9:4d17",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt39287518:1:1",
+      "title": "tt39287518:1:1",
+      "timestamp": "2026-02-28T13:03:11.726Z",
+      "ip": "2409:40c1:54:1973:28c6:e4ff:fe2b:32ad",
+      "username": "paregi12"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-02-28T13:05:33.501Z",
+      "ip": "216.73.163.7",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -88444,11 +88446,11 @@
       "lastActive": 1772034726201
     },
     "2401:4900:1caa:aab9:b500:a44d:bea9:4d17": {
-      "type": "series",
-      "id": "tt0426371:1:1",
-      "title": "tt0426371:1:1",
+      "type": "movie",
+      "id": "tt10627720",
+      "title": "Ne Zha",
       "username": "nirbhay1412",
-      "lastActive": 1772240200268
+      "lastActive": 1772283537765
     },
     "2405:201:c013:93e:d7f0:cdae:6513:279a": {
       "type": "movie",
@@ -90003,6 +90005,20 @@
       "title": "tt11998558",
       "username": "goatedbentennyson",
       "lastActive": 1772282196321
+    },
+    "2409:40c1:54:1973:28c6:e4ff:fe2b:32ad": {
+      "type": "series",
+      "id": "tt39287518:1:1",
+      "title": "tt39287518:1:1",
+      "username": "paregi12",
+      "lastActive": 1772283791726
+    },
+    "216.73.163.7": {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "username": "theonlyfreak",
+      "lastActive": 1772283933501
     }
   }
 }
