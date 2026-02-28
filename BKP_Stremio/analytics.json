@@ -1,5 +1,5 @@
 {
-  "totalViews": 31499,
+  "totalViews": 31506,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6244,65 +6244,11 @@
     "2409:40c1:f:70a1:b983:968b:7d74:9b1",
     "2001:4490:4e65:659:9cfc:ae03:407a:2ba0",
     "2401:4900:8f61:bc4b:59ca:f913:7a00:278",
-    "2409:40c1:102f:920f:d147:5d7f:d089:d8d3"
+    "2409:40c1:102f:920f:d147:5d7f:d089:d8d3",
+    "2401:4900:ac39:4de5:3435:acb7:7127:9482",
+    "2401:4900:8f61:bc4b:991a:cdeb:b1dc:9938"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt38990492:1:3",
-      "title": "tt38990492:1:3",
-      "timestamp": "2026-02-06T20:42:22.763Z",
-      "ip": "190.250.187.215",
-      "username": "ymcinema"
-    },
-    {
-      "type": "series",
-      "id": "tt38990492:1:1",
-      "title": "tt38990492:1:1",
-      "timestamp": "2026-02-06T20:42:45.507Z",
-      "ip": "190.250.187.215",
-      "username": "ymcinema"
-    },
-    {
-      "type": "series",
-      "id": "tt38990492:1:2",
-      "title": "tt38990492:1:2",
-      "timestamp": "2026-02-06T20:43:18.407Z",
-      "ip": "190.250.187.215",
-      "username": "ymcinema"
-    },
-    {
-      "type": "series",
-      "id": "tt38990492:1:4",
-      "title": "tt38990492:1:4",
-      "timestamp": "2026-02-06T21:08:50.767Z",
-      "ip": "190.250.187.215",
-      "username": "ymcinema"
-    },
-    {
-      "type": "series",
-      "id": "tt38990492:1:5",
-      "title": "tt38990492:1:5",
-      "timestamp": "2026-02-06T21:09:03.780Z",
-      "ip": "190.250.187.215",
-      "username": "ymcinema"
-    },
-    {
-      "type": "series",
-      "id": "tt38990492:1:6",
-      "title": "tt38990492:1:6",
-      "timestamp": "2026-02-06T21:10:00.466Z",
-      "ip": "190.250.187.215",
-      "username": "ymcinema"
-    },
-    {
-      "type": "movie",
-      "id": "tt0404032",
-      "title": "The Exorcism of Emily Rose",
-      "timestamp": "2026-02-06T21:56:06.409Z",
-      "ip": "2409:40f3:1c:261b:1508:9f99:9873:98e7",
-      "username": "sergio_leone96"
-    },
     {
       "type": "movie",
       "id": "tt35146696",
@@ -86246,6 +86192,62 @@
       "timestamp": "2026-02-28T06:03:56.892Z",
       "ip": "2409:40c1:102f:920f:d147:5d7f:d089:d8d3",
       "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt9603208",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "timestamp": "2026-02-28T06:09:13.244Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt31514146",
+      "title": "tt31514146",
+      "timestamp": "2026-02-28T06:10:37.732Z",
+      "ip": "2401:4900:ac39:4de5:3435:acb7:7127:9482",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt8289930:7:3",
+      "title": "tt8289930:7:3",
+      "timestamp": "2026-02-28T06:10:46.536Z",
+      "ip": "2401:4900:8f61:bc4b:991a:cdeb:b1dc:9938",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt6611916:1:5",
+      "title": "tt6611916:1:5",
+      "timestamp": "2026-02-28T06:14:27.129Z",
+      "ip": "103.24.85.9",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt6611916:1:5",
+      "title": "tt6611916:1:5",
+      "timestamp": "2026-02-28T06:17:16.516Z",
+      "ip": "103.24.85.9",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt27673536",
+      "title": "tt27673536",
+      "timestamp": "2026-02-28T06:17:45.800Z",
+      "ip": "200.46.70.197",
+      "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt27673536",
+      "title": "tt27673536",
+      "timestamp": "2026-02-28T06:17:50.475Z",
+      "ip": "200.46.70.197",
+      "username": "ymcinema"
     }
   ],
   "activeNow": {
@@ -86492,7 +86494,7 @@
       "id": "tt9603208",
       "title": "Mission: Impossible - The Final Reckoning",
       "username": "chetan_b2",
-      "lastActive": 1772255636627
+      "lastActive": 1772258953244
     },
     "2405:201:200d:906b:e9b9:acfe:e6f5:2f4f": {
       "type": "movie",
@@ -88106,10 +88108,10 @@
     },
     "200.46.70.197": {
       "type": "movie",
-      "id": "tt39392533",
-      "title": "tt39392533",
+      "id": "tt27673536",
+      "title": "tt27673536",
       "username": "ymcinema",
-      "lastActive": 1772249285122
+      "lastActive": 1772259470475
     },
     "2409:40c1:10bd:79d6:8082:c075:a41d:30f0": {
       "type": "movie",
@@ -88697,7 +88699,7 @@
       "id": "tt6611916:1:5",
       "title": "tt6611916:1:5",
       "username": "william097",
-      "lastActive": 1772256029332
+      "lastActive": 1772259436516
     },
     "2401:4900:7b8e:33e5:9f:dfff:fe9e:92c2": {
       "type": "movie",
@@ -89699,6 +89701,20 @@
       "title": "tt31514146",
       "username": "gendaswammy",
       "lastActive": 1772258636892
+    },
+    "2401:4900:ac39:4de5:3435:acb7:7127:9482": {
+      "type": "movie",
+      "id": "tt31514146",
+      "title": "tt31514146",
+      "username": "gendaswammy",
+      "lastActive": 1772259037732
+    },
+    "2401:4900:8f61:bc4b:991a:cdeb:b1dc:9938": {
+      "type": "series",
+      "id": "tt8289930:7:3",
+      "title": "tt8289930:7:3",
+      "username": "theaceofficials",
+      "lastActive": 1772259046536
     }
   }
 }
