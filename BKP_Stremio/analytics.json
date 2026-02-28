@@ -1,5 +1,5 @@
 {
-  "totalViews": 31843,
+  "totalViews": 31850,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6313,65 +6313,10 @@
     "2401:4900:8837:a3be:ee8f:939c:3e06:b5b3",
     "2401:4900:1c0b:1e04:478e:f747:706b:145",
     "2401:4900:8837:a3be:94fc:8c28:72c2:e5c9",
-    "2a02:9b0:106:4496:468:df0f:8a0b:3b9d"
+    "2a02:9b0:106:4496:468:df0f:8a0b:3b9d",
+    "223.188.120.116"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt10548174",
-      "title": "28 Years Later",
-      "timestamp": "2026-02-08T08:29:04.151Z",
-      "ip": "103.46.200.34",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt0123948",
-      "title": "tt0123948",
-      "timestamp": "2026-02-08T08:29:04.237Z",
-      "ip": "103.46.200.34",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt1105709",
-      "title": "tt1105709",
-      "timestamp": "2026-02-08T08:29:05.332Z",
-      "ip": "103.46.200.34",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:2:5",
-      "title": "tt1399664:2:5",
-      "timestamp": "2026-02-08T08:29:22.547Z",
-      "ip": "2409:40d4:3108:6fc0:402d:f2ff:feb7:c1a3",
-      "username": "golu_vk"
-    },
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-02-08T08:30:26.681Z",
-      "ip": "45.118.158.239",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt6354518:2:19",
-      "title": "tt6354518:2:19",
-      "timestamp": "2026-02-08T08:30:29.548Z",
-      "ip": "2401:4900:8826:ff71:5145:ddbf:54be:2f21",
-      "username": "sinbad1722"
-    },
-    {
-      "type": "series",
-      "id": "tt6354518:2:19",
-      "title": "tt6354518:2:19",
-      "timestamp": "2026-02-08T08:30:31.582Z",
-      "ip": "2401:4900:8826:ff71:5145:ddbf:54be:2f21",
-      "username": "sinbad1722"
-    },
     {
       "type": "series",
       "id": "tt1399664:2:6",
@@ -86315,6 +86260,62 @@
       "timestamp": "2026-02-28T19:00:41.387Z",
       "ip": "103.214.60.117",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt32874331:1:1",
+      "title": "tt32874331:1:1",
+      "timestamp": "2026-02-28T19:16:56.806Z",
+      "ip": "66.102.121.253",
+      "username": "hvre2"
+    },
+    {
+      "type": "series",
+      "id": "tt6611916:1:1",
+      "title": "tt6611916:1:1",
+      "timestamp": "2026-02-28T19:19:26.061Z",
+      "ip": "223.188.120.116",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt22248234:1:5",
+      "title": "tt22248234:1:5",
+      "timestamp": "2026-02-28T19:19:53.254Z",
+      "ip": "2401:4900:8837:a3be:ee8f:939c:3e06:b5b3",
+      "username": "komi008"
+    },
+    {
+      "type": "series",
+      "id": "tt22248234:1:1",
+      "title": "tt22248234:1:1",
+      "timestamp": "2026-02-28T19:20:36.910Z",
+      "ip": "2401:4900:8837:a3be:ee8f:939c:3e06:b5b3",
+      "username": "komi008"
+    },
+    {
+      "type": "series",
+      "id": "tt22248234:1:2",
+      "title": "tt22248234:1:2",
+      "timestamp": "2026-02-28T19:20:59.559Z",
+      "ip": "2401:4900:8837:a3be:ee8f:939c:3e06:b5b3",
+      "username": "komi008"
+    },
+    {
+      "type": "series",
+      "id": "tt6611916:1:1",
+      "title": "tt6611916:1:1",
+      "timestamp": "2026-02-28T19:21:07.789Z",
+      "ip": "223.188.120.116",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt1405406:4:15",
+      "title": "The Vampire Diaries",
+      "timestamp": "2026-02-28T19:31:25.437Z",
+      "ip": "2401:9640:801:8f3a:54a9:3cd:1ef5:26b4",
+      "username": "suprememayank"
     }
   ],
   "activeNow": {
@@ -87054,11 +87055,11 @@
       "lastActive": 1771786013291
     },
     "2401:9640:801:8f3a:54a9:3cd:1ef5:26b4": {
-      "type": "movie",
-      "id": "tt0330217",
-      "title": "tt0330217",
+      "type": "series",
+      "id": "tt1405406:4:15",
+      "title": "The Vampire Diaries",
       "username": "suprememayank",
-      "lastActive": 1772194932621
+      "lastActive": 1772307085437
     },
     "38.254.182.44": {
       "type": "movie",
@@ -89630,11 +89631,11 @@
       "lastActive": 1772223358637
     },
     "66.102.121.253": {
-      "type": "movie",
-      "id": "tt27047903",
-      "title": "tt27047903",
+      "type": "series",
+      "id": "tt32874331:1:1",
+      "title": "tt32874331:1:1",
       "username": "hvre2",
-      "lastActive": 1772256534313
+      "lastActive": 1772306216806
     },
     "157.49.121.148": {
       "type": "movie",
@@ -90226,10 +90227,10 @@
     },
     "2401:4900:8837:a3be:ee8f:939c:3e06:b5b3": {
       "type": "series",
-      "id": "tt13918776:1:1",
-      "title": "The Night Agent",
+      "id": "tt22248234:1:2",
+      "title": "tt22248234:1:2",
       "username": "komi008",
-      "lastActive": 1772305086025
+      "lastActive": 1772306459559
     },
     "2401:4900:1c0b:1e04:478e:f747:706b:145": {
       "type": "movie",
@@ -90251,6 +90252,13 @@
       "title": "wecima_id",
       "username": "hoosa500",
       "lastActive": 1772304767391
+    },
+    "223.188.120.116": {
+      "type": "series",
+      "id": "tt6611916:1:1",
+      "title": "tt6611916:1:1",
+      "username": "dawnstar930",
+      "lastActive": 1772306467789
     }
   }
 }
