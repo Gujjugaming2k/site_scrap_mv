@@ -1,5 +1,5 @@
 {
-  "totalViews": 31571,
+  "totalViews": 31572,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6263,14 +6263,6 @@
     "2405:201:5c14:2a70:1c0b:5250:df2c:bc15"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:3:8",
-      "title": "Lost",
-      "timestamp": "2026-02-07T08:32:24.758Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
     {
       "type": "series",
       "id": "tt0388629:22:44",
@@ -86262,6 +86254,14 @@
       "timestamp": "2026-02-28T08:57:31.843Z",
       "ip": "103.98.63.135",
       "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-02-28T08:58:37.501Z",
+      "ip": "103.98.63.135",
+      "username": "thala_75"
     }
   ],
   "activeNow": {
@@ -87387,10 +87387,10 @@
     },
     "103.98.63.135": {
       "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
+      "id": "tt27543632",
+      "title": "tt27543632",
       "username": "thala_75",
-      "lastActive": 1772269051843
+      "lastActive": 1772269117501
     },
     "2401:4900:8831:6c27:6c55:5476:26c7:d6fe": {
       "type": "series",
