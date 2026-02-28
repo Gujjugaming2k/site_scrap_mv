@@ -1,5 +1,5 @@
 {
-  "totalViews": 31433,
+  "totalViews": 31436,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6233,30 +6233,6 @@
     "202.160.144.44"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1192169:1:11",
-      "title": "tt1192169:1:11",
-      "timestamp": "2026-02-06T14:48:04.054Z",
-      "ip": "119.42.59.59",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt1192169:1:12",
-      "title": "tt1192169:1:12",
-      "timestamp": "2026-02-06T14:48:17.724Z",
-      "ip": "119.42.59.59",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt30387012",
-      "title": "tt30387012",
-      "timestamp": "2026-02-06T14:52:18.206Z",
-      "ip": "190.250.187.215",
-      "username": "ymcinema"
-    },
     {
       "type": "series",
       "id": "tt38990492:1:4",
@@ -86232,6 +86208,30 @@
       "timestamp": "2026-02-28T03:37:37.206Z",
       "ip": "202.160.144.44",
       "username": "anonymous050100"
+    },
+    {
+      "type": "movie",
+      "id": "tt29268110",
+      "title": "tt29268110",
+      "timestamp": "2026-02-28T03:50:30.391Z",
+      "ip": "45.118.158.131",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-02-28T03:50:38.157Z",
+      "ip": "45.118.158.131",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-02-28T03:51:09.081Z",
+      "ip": "45.118.158.131",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -89365,11 +89365,11 @@
       "lastActive": 1772203155652
     },
     "45.118.158.131": {
-      "type": "series",
-      "id": "tt31844233:1:4",
-      "title": "tt31844233:1:4",
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
       "username": "gaendaswami",
-      "lastActive": 1772218210587
+      "lastActive": 1772250669081
     },
     "2405:201:682e:6839:c9ef:8a50:53fc:7b20": {
       "type": "movie",
