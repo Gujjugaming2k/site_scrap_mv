@@ -1,5 +1,5 @@
 {
-  "totalViews": 31391,
+  "totalViews": 31394,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6228,30 +6228,6 @@
     "66.102.121.253"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:3:4",
-      "title": "Lost",
-      "timestamp": "2026-02-06T11:45:55.807Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:3:5",
-      "title": "Lost",
-      "timestamp": "2026-02-06T11:46:30.216Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:3:6",
-      "title": "Lost",
-      "timestamp": "2026-02-06T11:47:57.942Z",
-      "ip": "116.68.74.75",
-      "username": "aravindsivan"
-    },
     {
       "type": "movie",
       "id": "tt35146696",
@@ -86227,6 +86203,30 @@
       "timestamp": "2026-02-28T00:20:47.425Z",
       "ip": "2409:40e2:10f4:c489:3075:d4a9:4f43:a8ae",
       "username": "adr7000"
+    },
+    {
+      "type": "movie",
+      "id": "tt31723358",
+      "title": "Ask Me What You Want",
+      "timestamp": "2026-02-28T00:38:19.931Z",
+      "ip": "2409:40e2:10f4:c489:3075:d4a9:4f43:a8ae",
+      "username": "adr7000"
+    },
+    {
+      "type": "series",
+      "id": "tt11557904:1:1",
+      "title": "tt11557904:1:1",
+      "timestamp": "2026-02-28T00:38:37.013Z",
+      "ip": "2409:40e2:10f4:c489:3075:d4a9:4f43:a8ae",
+      "username": "adr7000"
+    },
+    {
+      "type": "movie",
+      "id": "tt26581740",
+      "title": "Weapons",
+      "timestamp": "2026-02-28T00:40:28.199Z",
+      "ip": "2409:40e2:10f4:c489:3075:d4a9:4f43:a8ae",
+      "username": "adr7000"
     }
   ],
   "activeNow": {
@@ -89312,10 +89312,10 @@
     },
     "2409:40e2:10f4:c489:3075:d4a9:4f43:a8ae": {
       "type": "movie",
-      "id": "tt1562437",
-      "title": "tt1562437",
+      "id": "tt26581740",
+      "title": "Weapons",
       "username": "adr7000",
-      "lastActive": 1772238047425
+      "lastActive": 1772239228199
     },
     "119.234.99.36": {
       "type": "movie",
