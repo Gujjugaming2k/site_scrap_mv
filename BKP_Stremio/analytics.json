@@ -1,5 +1,5 @@
 {
-  "totalViews": 31436,
+  "totalViews": 31439,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6230,33 +6230,10 @@
     "152.58.87.224",
     "2409:40d4:1065:579e:8000::",
     "2401:4900:8824:ad62:546e:19da:cd84:1ce7",
-    "202.160.144.44"
+    "202.160.144.44",
+    "2001:4490:4e65:659:a9c3:2e4a:4e64:6548"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt38990492:1:4",
-      "title": "tt38990492:1:4",
-      "timestamp": "2026-02-06T15:00:23.249Z",
-      "ip": "190.250.187.215",
-      "username": "ymcinema"
-    },
-    {
-      "type": "series",
-      "id": "tt38990492:1:5",
-      "title": "tt38990492:1:5",
-      "timestamp": "2026-02-06T15:01:45.538Z",
-      "ip": "190.250.187.215",
-      "username": "ymcinema"
-    },
-    {
-      "type": "series",
-      "id": "tt38990492:1:1",
-      "title": "tt38990492:1:1",
-      "timestamp": "2026-02-06T15:03:10.959Z",
-      "ip": "190.250.187.215",
-      "username": "ymcinema"
-    },
     {
       "type": "series",
       "id": "tt38990492:1:2",
@@ -86232,6 +86209,30 @@
       "timestamp": "2026-02-28T03:51:09.081Z",
       "ip": "45.118.158.131",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt6611916:1:3",
+      "title": "tt6611916:1:3",
+      "timestamp": "2026-02-28T04:02:13.760Z",
+      "ip": "103.24.85.9",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt32105473:1:1",
+      "title": "tt32105473:1:1",
+      "timestamp": "2026-02-28T04:04:03.497Z",
+      "ip": "2001:4490:4e65:659:a9c3:2e4a:4e64:6548",
+      "username": "adiyogivishwanath"
+    },
+    {
+      "type": "series",
+      "id": "tt32105473:1:1",
+      "title": "tt32105473:1:1",
+      "timestamp": "2026-02-28T04:04:28.226Z",
+      "ip": "2001:4490:4e65:659:a9c3:2e4a:4e64:6548",
+      "username": "adiyogivishwanath"
     }
   ],
   "activeNow": {
@@ -88683,7 +88684,7 @@
       "id": "tt6611916:1:3",
       "title": "tt6611916:1:3",
       "username": "william097",
-      "lastActive": 1772242719249
+      "lastActive": 1772251333760
     },
     "2401:4900:7b8e:33e5:9f:dfff:fe9e:92c2": {
       "type": "movie",
@@ -89587,6 +89588,13 @@
       "title": "Dhurandhar",
       "username": "anonymous050100",
       "lastActive": 1772249857206
+    },
+    "2001:4490:4e65:659:a9c3:2e4a:4e64:6548": {
+      "type": "series",
+      "id": "tt32105473:1:1",
+      "title": "tt32105473:1:1",
+      "username": "adiyogivishwanath",
+      "lastActive": 1772251468226
     }
   }
 }
