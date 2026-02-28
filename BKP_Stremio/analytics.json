@@ -1,5 +1,5 @@
 {
-  "totalViews": 31635,
+  "totalViews": 31638,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6275,33 +6275,10 @@
     "103.214.60.117",
     "2401:4900:3e99:fb02:c45f:3bf7:113f:64ed",
     "2409:40e4:10a7:3d02:ecaf:630:dcb7:3691",
-    "2409:40e1:11a1:d228:3d47:ac39:d5a0:5f60"
+    "2409:40e1:11a1:d228:3d47:ac39:d5a0:5f60",
+    "2401:4900:892c:b932:60fc:6397:f620:e87f"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33046197",
-      "title": "tt33046197",
-      "timestamp": "2026-02-07T15:12:12.968Z",
-      "ip": "139.135.35.56",
-      "username": "salman730"
-    },
-    {
-      "type": "movie",
-      "id": "tt27564844",
-      "title": "tt27564844",
-      "timestamp": "2026-02-07T15:12:19.496Z",
-      "ip": "139.135.35.56",
-      "username": "salman730"
-    },
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-02-07T15:13:53.465Z",
-      "ip": "139.135.35.56",
-      "username": "salman730"
-    },
     {
       "type": "movie",
       "id": "tt23790696",
@@ -86277,6 +86254,30 @@
       "timestamp": "2026-02-28T11:28:10.787Z",
       "ip": "2409:40e4:10a7:3d02:ecaf:630:dcb7:3691",
       "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:22:21",
+      "title": "tt0388629:22:21",
+      "timestamp": "2026-02-28T11:44:52.092Z",
+      "ip": "2401:4900:892c:b932:60fc:6397:f620:e87f",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:22:23",
+      "title": "tt0388629:22:23",
+      "timestamp": "2026-02-28T11:45:03.144Z",
+      "ip": "2401:4900:892c:b932:60fc:6397:f620:e87f",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:22:22",
+      "title": "tt0388629:22:22",
+      "timestamp": "2026-02-28T11:45:08.500Z",
+      "ip": "2401:4900:892c:b932:60fc:6397:f620:e87f",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -89947,6 +89948,13 @@
       "title": "tt0318649",
       "username": "jinwoooooi",
       "lastActive": 1772277960728
+    },
+    "2401:4900:892c:b932:60fc:6397:f620:e87f": {
+      "type": "series",
+      "id": "tt0388629:22:22",
+      "title": "tt0388629:22:22",
+      "username": "theaceofficials",
+      "lastActive": 1772279108500
     }
   }
 }
