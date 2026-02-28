@@ -1,5 +1,5 @@
 {
-  "totalViews": 31428,
+  "totalViews": 31433,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6228,49 +6228,11 @@
     "66.102.121.253",
     "157.49.121.148",
     "152.58.87.224",
-    "2409:40d4:1065:579e:8000::"
+    "2409:40d4:1065:579e:8000::",
+    "2401:4900:8824:ad62:546e:19da:cd84:1ce7",
+    "202.160.144.44"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1192169:1:6",
-      "title": "tt1192169:1:6",
-      "timestamp": "2026-02-06T14:46:21.524Z",
-      "ip": "119.42.59.59",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt1192169:1:7",
-      "title": "tt1192169:1:7",
-      "timestamp": "2026-02-06T14:47:09.065Z",
-      "ip": "119.42.59.59",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt31193180",
-      "title": "Sinners",
-      "timestamp": "2026-02-06T14:47:12.918Z",
-      "ip": "2409:40d2:305f:fb47:d7f3:4356:5eb3:5443",
-      "username": "saurabhkaperwan"
-    },
-    {
-      "type": "series",
-      "id": "tt1192169:1:8",
-      "title": "tt1192169:1:8",
-      "timestamp": "2026-02-06T14:47:36.068Z",
-      "ip": "119.42.59.59",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt1192169:1:8",
-      "title": "tt1192169:1:8",
-      "timestamp": "2026-02-06T14:47:48.088Z",
-      "ip": "119.42.59.59",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt1192169:1:11",
@@ -86230,6 +86192,46 @@
       "timestamp": "2026-02-28T03:28:58.050Z",
       "ip": "2405:201:2022:b81c:40d4:4747:a6cf:8107",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt39302439",
+      "title": "tt39302439",
+      "timestamp": "2026-02-28T03:29:12.420Z",
+      "ip": "2405:201:2022:b81c:40d4:4747:a6cf:8107",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt15464188",
+      "title": "tt15464188",
+      "timestamp": "2026-02-28T03:31:34.752Z",
+      "ip": "2405:201:2022:b81c:40d4:4747:a6cf:8107",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:1:1",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-02-28T03:35:59.615Z",
+      "ip": "2401:4900:8824:ad62:546e:19da:cd84:1ce7",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-28T03:37:25.521Z",
+      "ip": "202.160.144.44",
+      "username": "anonymous050100"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-02-28T03:37:37.206Z",
+      "ip": "202.160.144.44",
+      "username": "anonymous050100"
     }
   ],
   "activeNow": {
@@ -89434,10 +89436,10 @@
     },
     "2405:201:2022:b81c:40d4:4747:a6cf:8107": {
       "type": "movie",
-      "id": "tt0292490",
-      "title": "tt0292490",
+      "id": "tt15464188",
+      "title": "tt15464188",
       "username": "zealousninja",
-      "lastActive": 1772249338050
+      "lastActive": 1772249494752
     },
     "117.235.148.211": {
       "type": "series",
@@ -89571,6 +89573,20 @@
       "title": "tt31227572",
       "username": "pingmenoone",
       "lastActive": 1772245241740
+    },
+    "2401:4900:8824:ad62:546e:19da:cd84:1ce7": {
+      "type": "series",
+      "id": "tt12343534:1:1",
+      "title": "JUJUTSU KAISEN",
+      "username": "sinbad1722",
+      "lastActive": 1772249759615
+    },
+    "202.160.144.44": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "anonymous050100",
+      "lastActive": 1772249857206
     }
   }
 }
