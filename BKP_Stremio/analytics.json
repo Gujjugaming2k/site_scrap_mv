@@ -1,5 +1,5 @@
 {
-  "totalViews": 31936,
+  "totalViews": 31942,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6345,54 +6345,6 @@
     "119.42.59.122"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt36812904:1:1",
-      "title": "tt36812904:1:1",
-      "timestamp": "2026-02-08T14:42:02.818Z",
-      "ip": "202.173.124.242",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-08T14:42:27.944Z",
-      "ip": "202.173.124.242",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "movie",
-      "id": "tt14905854",
-      "title": "tt14905854",
-      "timestamp": "2026-02-08T14:43:07.938Z",
-      "ip": "122.162.186.92",
-      "username": "user_9b"
-    },
-    {
-      "type": "movie",
-      "id": "tt18382850",
-      "title": "If I Had Legs I'd Kick You",
-      "timestamp": "2026-02-08T14:43:26.494Z",
-      "ip": "122.162.186.92",
-      "username": "user_9b"
-    },
-    {
-      "type": "movie",
-      "id": "tt31844586",
-      "title": "tt31844586",
-      "timestamp": "2026-02-08T14:43:32.207Z",
-      "ip": "122.162.186.92",
-      "username": "user_9b"
-    },
-    {
-      "type": "movie",
-      "id": "tt8178634",
-      "title": "tt8178634",
-      "timestamp": "2026-02-08T14:44:40.047Z",
-      "ip": "2405:201:a001:21d8:d465:61e:c3f3:4796",
-      "username": "william097"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -86344,6 +86296,54 @@
       "timestamp": "2026-03-01T07:36:57.878Z",
       "ip": "119.42.59.122",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "timestamp": "2026-03-01T07:37:49.348Z",
+      "ip": "119.42.59.122",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:1:1",
+      "title": "tt17220216:1:1",
+      "timestamp": "2026-03-01T07:38:40.585Z",
+      "ip": "103.46.200.41",
+      "username": "brosportses"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "timestamp": "2026-03-01T07:39:38.741Z",
+      "ip": "119.42.59.122",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "timestamp": "2026-03-01T07:39:39.559Z",
+      "ip": "119.42.59.122",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt39387657",
+      "title": "tt39387657",
+      "timestamp": "2026-03-01T07:47:03.328Z",
+      "ip": "2409:40f3:20c3:8fb2:dcb6:73f2:888:1dc4",
+      "username": "jilin abraham"
+    },
+    {
+      "type": "movie",
+      "id": "tt36774478",
+      "title": "tt36774478",
+      "timestamp": "2026-03-01T07:50:43.535Z",
+      "ip": "2409:40f3:20c3:8fb2:dcb6:73f2:888:1dc4",
+      "username": "jilin abraham"
     }
   ],
   "activeNow": {
@@ -87251,11 +87251,11 @@
       "lastActive": 1771828320054
     },
     "103.46.200.41": {
-      "type": "movie",
-      "id": "tt9100018",
-      "title": "tt9100018",
-      "username": "katdenningssss",
-      "lastActive": 1772343867470
+      "type": "series",
+      "id": "tt17220216:1:1",
+      "title": "tt17220216:1:1",
+      "username": "brosportses",
+      "lastActive": 1772350720585
     },
     "223.177.132.207": {
       "type": "series",
@@ -90430,10 +90430,10 @@
     },
     "2409:40f3:20c3:8fb2:dcb6:73f2:888:1dc4": {
       "type": "movie",
-      "id": "tt0076723",
-      "title": "tt0076723",
+      "id": "tt36774478",
+      "title": "tt36774478",
       "username": "jilin abraham",
-      "lastActive": 1772350289122
+      "lastActive": 1772351443535
     },
     "2409:40e4:5b:b8a3:8417:39ff:fe23:a39d": {
       "type": "movie",
@@ -90482,7 +90482,7 @@
       "id": "tt30003786:4:11",
       "title": "tt30003786:4:11",
       "username": "gaendaswami",
-      "lastActive": 1772350617878
+      "lastActive": 1772350779559
     }
   }
 }
