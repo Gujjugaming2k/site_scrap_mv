@@ -1,5 +1,5 @@
 {
-  "totalViews": 32197,
+  "totalViews": 32201,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6388,38 +6388,6 @@
     "2405:201:a018:b012:4977:3f99:a891:3a94"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt35335046:1:4",
-      "title": "tt35335046:1:4",
-      "timestamp": "2026-02-09T11:36:55.083Z",
-      "ip": "2405:201:682e:6839:2c5c:21a:f1c5:a1cd",
-      "username": "tushar0nly"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:6",
-      "title": "tt35335046:1:6",
-      "timestamp": "2026-02-09T11:41:26.196Z",
-      "ip": "2405:201:682e:6839:2c5c:21a:f1c5:a1cd",
-      "username": "tushar0nly"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:7",
-      "title": "tt35335046:1:7",
-      "timestamp": "2026-02-09T11:41:49.988Z",
-      "ip": "2405:201:682e:6839:2c5c:21a:f1c5:a1cd",
-      "username": "tushar0nly"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:7",
-      "title": "tt35335046:1:7",
-      "timestamp": "2026-02-09T11:42:51.494Z",
-      "ip": "2405:201:682e:6839:2c5c:21a:f1c5:a1cd",
-      "username": "tushar0nly"
-    },
     {
       "type": "movie",
       "id": "tt35727678",
@@ -86387,6 +86355,38 @@
       "timestamp": "2026-03-01T19:57:41.020Z",
       "ip": "64.43.40.35",
       "username": "sid_g"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "timestamp": "2026-03-01T20:03:51.989Z",
+      "ip": "64.43.40.35",
+      "username": "sid_g"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:1:1",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-03-01T20:05:29.165Z",
+      "ip": "64.43.40.35",
+      "username": "sid_g"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:9:17",
+      "title": "tt0460649:9:17",
+      "timestamp": "2026-03-01T20:08:19.268Z",
+      "ip": "202.160.144.44",
+      "username": "anonymous050100"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:9:17",
+      "title": "tt0460649:9:17",
+      "timestamp": "2026-03-01T20:08:44.911Z",
+      "ip": "202.160.144.44",
+      "username": "anonymous050100"
     }
   ],
   "activeNow": {
@@ -89738,10 +89738,10 @@
     },
     "202.160.144.44": {
       "type": "series",
-      "id": "tt0460649:9:16",
-      "title": "tt0460649:9:16",
+      "id": "tt0460649:9:17",
+      "title": "tt0460649:9:17",
       "username": "anonymous050100",
-      "lastActive": 1772394393868
+      "lastActive": 1772395724911
     },
     "2001:4490:4e65:659:a9c3:2e4a:4e64:6548": {
       "type": "series",
@@ -90501,10 +90501,10 @@
     },
     "64.43.40.35": {
       "type": "series",
-      "id": "tt0460681:1:1",
-      "title": "Supernatural",
+      "id": "tt12343534:1:1",
+      "title": "JUJUTSU KAISEN",
       "username": "sid_g",
-      "lastActive": 1772395061020
+      "lastActive": 1772395529165
     },
     "2405:201:203e:b800:10da:eb77:c9e2:bbeb": {
       "type": "series",
