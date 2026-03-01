@@ -1,5 +1,5 @@
 {
-  "totalViews": 31942,
+  "totalViews": 31944,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6345,22 +6345,6 @@
     "119.42.59.122"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-08T14:50:25.824Z",
-      "ip": "202.173.124.242",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt9059350:1:1",
-      "title": "tt9059350:1:1",
-      "timestamp": "2026-02-08T14:51:14.745Z",
-      "ip": "122.162.186.92",
-      "username": "user_9b"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -86344,6 +86328,22 @@
       "timestamp": "2026-03-01T07:50:43.535Z",
       "ip": "2409:40f3:20c3:8fb2:dcb6:73f2:888:1dc4",
       "username": "jilin abraham"
+    },
+    {
+      "type": "movie",
+      "id": "tt39302439",
+      "title": "tt39302439",
+      "timestamp": "2026-03-01T08:03:56.805Z",
+      "ip": "2409:40f3:20c3:8fb2:dcb6:73f2:888:1dc4",
+      "username": "jilin abraham"
+    },
+    {
+      "type": "series",
+      "id": "tt8962124:5:8",
+      "title": "tt8962124:5:8",
+      "timestamp": "2026-03-01T08:06:33.807Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -86586,11 +86586,11 @@
       "lastActive": 1771743559957
     },
     "203.192.255.46": {
-      "type": "movie",
-      "id": "tt9603208",
-      "title": "Mission: Impossible - The Final Reckoning",
+      "type": "series",
+      "id": "tt8962124:5:8",
+      "title": "tt8962124:5:8",
       "username": "chetan_b2",
-      "lastActive": 1772346205790
+      "lastActive": 1772352393807
     },
     "2405:201:200d:906b:e9b9:acfe:e6f5:2f4f": {
       "type": "movie",
@@ -90430,10 +90430,10 @@
     },
     "2409:40f3:20c3:8fb2:dcb6:73f2:888:1dc4": {
       "type": "movie",
-      "id": "tt36774478",
-      "title": "tt36774478",
+      "id": "tt39302439",
+      "title": "tt39302439",
       "username": "jilin abraham",
-      "lastActive": 1772351443535
+      "lastActive": 1772352236805
     },
     "2409:40e4:5b:b8a3:8417:39ff:fe23:a39d": {
       "type": "movie",
