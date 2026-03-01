@@ -1,5 +1,5 @@
 {
-  "totalViews": 32054,
+  "totalViews": 32057,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6356,33 +6356,10 @@
     "2405:201:a40c:dba2:3dff:7dea:355a:78cc",
     "2409:40e4:10b3:41ae:fc60:efac:ce2e:ef9f",
     "2405:201:203e:b800:8eb6:a9f6:2b52:a28e",
-    "2402:3a80:15a7:948e:55d:15a:5612:5b9d"
+    "2402:3a80:15a7:948e:55d:15a:5612:5b9d",
+    "2409:40d4:4009:6ecd:644a:6df7:ad26:fe82"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt7060344",
-      "title": "tt7060344",
-      "timestamp": "2026-02-09T01:53:12.049Z",
-      "ip": "2409:40e6:38:b04e:e41b:2cff:febb:5475",
-      "username": "n a b a."
-    },
-    {
-      "type": "movie",
-      "id": "tt7060344",
-      "title": "tt7060344",
-      "timestamp": "2026-02-09T01:53:38.435Z",
-      "ip": "2409:40e6:38:b04e:e41b:2cff:febb:5475",
-      "username": "n a b a."
-    },
-    {
-      "type": "movie",
-      "id": "tt35146696",
-      "title": "tt35146696",
-      "timestamp": "2026-02-09T02:03:50.176Z",
-      "ip": "2401:4900:88b8:32ba:7450:da6d:fed8:485d",
-      "username": "b1jju"
-    },
     {
       "type": "movie",
       "id": "tt14850054",
@@ -86358,6 +86335,30 @@
       "timestamp": "2026-03-01T12:43:52.696Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt14181714",
+      "title": "tt14181714",
+      "timestamp": "2026-03-01T12:51:03.523Z",
+      "ip": "103.46.200.41",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:2:4",
+      "title": "Stranger Things",
+      "timestamp": "2026-03-01T12:54:59.839Z",
+      "ip": "2409:40d4:4009:6ecd:644a:6df7:ad26:fe82",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt3613454:1:1",
+      "title": "tt3613454:1:1",
+      "timestamp": "2026-03-01T13:00:59.960Z",
+      "ip": "182.77.78.164",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -87265,11 +87266,11 @@
       "lastActive": 1771828320054
     },
     "103.46.200.41": {
-      "type": "series",
-      "id": "tt17220216:1:1",
-      "title": "tt17220216:1:1",
-      "username": "brosportses",
-      "lastActive": 1772350720585
+      "type": "movie",
+      "id": "tt14181714",
+      "title": "tt14181714",
+      "username": "katdenningssss",
+      "lastActive": 1772369463523
     },
     "223.177.132.207": {
       "type": "series",
@@ -90227,10 +90228,10 @@
     },
     "182.77.78.164": {
       "type": "series",
-      "id": "tt0804484:1:1",
-      "title": "Foundation",
+      "id": "tt3613454:1:1",
+      "title": "tt3613454:1:1",
       "username": "theaceofficials",
-      "lastActive": 1772301501481
+      "lastActive": 1772370059960
     },
     "152.59.142.25": {
       "type": "movie",
@@ -90595,6 +90596,13 @@
       "title": "JUJUTSU KAISEN",
       "username": "gendaswammy",
       "lastActive": 1772365457573
+    },
+    "2409:40d4:4009:6ecd:644a:6df7:ad26:fe82": {
+      "type": "series",
+      "id": "tt4574334:2:4",
+      "title": "Stranger Things",
+      "username": "kdbotz",
+      "lastActive": 1772369699839
     }
   }
 }
