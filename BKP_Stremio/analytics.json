@@ -1,5 +1,5 @@
 {
-  "totalViews": 32126,
+  "totalViews": 32128,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6378,22 +6378,6 @@
     "2401:9640:801:c15e:54a9:3cd:1ef5:26b4"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-02-09T08:05:40.213Z",
-      "ip": "2405:201:6025:a88d:6d8c:b718:cd3c:4a34",
-      "username": "infinityseeker"
-    },
-    {
-      "type": "movie",
-      "id": "tt33046197",
-      "title": "tt33046197",
-      "timestamp": "2026-02-09T08:05:45.660Z",
-      "ip": "2405:201:6025:a88d:6d8c:b718:cd3c:4a34",
-      "username": "infinityseeker"
-    },
     {
       "type": "movie",
       "id": "tt37897260",
@@ -86377,6 +86361,22 @@
       "timestamp": "2026-03-01T16:39:19.372Z",
       "ip": "2401:9640:801:c15e:54a9:3cd:1ef5:26b4",
       "username": "suprememayank"
+    },
+    {
+      "type": "movie",
+      "id": "tt28007064",
+      "title": "tt28007064",
+      "timestamp": "2026-03-01T16:39:42.981Z",
+      "ip": "2405:201:2022:b81c:c994:9111:57c9:bd02",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt6914500",
+      "title": "tt6914500",
+      "timestamp": "2026-03-01T16:50:24.492Z",
+      "ip": "2405:201:203e:b800:9cb9:c52f:163b:5e65",
+      "username": "pingmenoone"
     }
   ],
   "activeNow": {
@@ -90669,7 +90669,7 @@
       "id": "tt28007064",
       "title": "tt28007064",
       "username": "zealousninja",
-      "lastActive": 1772382510318
+      "lastActive": 1772383182981
     },
     "2409:40e1:9:e08a:8000::": {
       "type": "series",
@@ -90714,11 +90714,11 @@
       "lastActive": 1772378126395
     },
     "2405:201:203e:b800:9cb9:c52f:163b:5e65": {
-      "type": "series",
-      "id": "tt13918776:3:1",
-      "title": "The Night Agent",
+      "type": "movie",
+      "id": "tt6914500",
+      "title": "tt6914500",
       "username": "pingmenoone",
-      "lastActive": 1772378697531
+      "lastActive": 1772383824492
     },
     "2a02:6ea0:d802:5502::38": {
       "type": "series",
