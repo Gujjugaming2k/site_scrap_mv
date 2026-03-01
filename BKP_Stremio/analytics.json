@@ -1,5 +1,5 @@
 {
-  "totalViews": 31930,
+  "totalViews": 31936,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6340,57 +6340,11 @@
     "2409:40e4:1098:83f:91f1:2211:cb99:8d6d",
     "2a09:bac5:3af1:1a46::29e:b0",
     "64.43.40.35",
-    "2405:201:203e:b800:10da:eb77:c9e2:bbeb"
+    "2405:201:203e:b800:10da:eb77:c9e2:bbeb",
+    "2405:201:2022:b81c:51c8:841f:e909:f9c1",
+    "119.42.59.122"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt38598912",
-      "title": "tt38598912",
-      "timestamp": "2026-02-08T14:31:36.151Z",
-      "ip": "122.162.186.92",
-      "username": "user_9b"
-    },
-    {
-      "type": "series",
-      "id": "tt36812904:1:1",
-      "title": "tt36812904:1:1",
-      "timestamp": "2026-02-08T14:41:03.770Z",
-      "ip": "202.173.124.242",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt29764006:1:1",
-      "title": "tt29764006:1:1",
-      "timestamp": "2026-02-08T14:41:21.575Z",
-      "ip": "122.162.186.92",
-      "username": "user_9b"
-    },
-    {
-      "type": "movie",
-      "id": "tt0816692",
-      "title": "Interstellar",
-      "timestamp": "2026-02-08T14:41:28.437Z",
-      "ip": "2409:40e0:3a:f836:906c:fb1b:838d:b240",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "movie",
-      "id": "tt0816692",
-      "title": "Interstellar",
-      "timestamp": "2026-02-08T14:41:43.978Z",
-      "ip": "2409:40e0:3a:f836:906c:fb1b:838d:b240",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "movie",
-      "id": "tt14905854",
-      "title": "tt14905854",
-      "timestamp": "2026-02-08T14:41:54.835Z",
-      "ip": "122.162.186.92",
-      "username": "user_9b"
-    },
     {
       "type": "series",
       "id": "tt36812904:1:1",
@@ -86342,6 +86296,54 @@
       "timestamp": "2026-03-01T07:21:48.703Z",
       "ip": "2409:40f3:20c3:8fb2:dcb6:73f2:888:1dc4",
       "username": "jilin abraham"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-03-01T07:24:18.452Z",
+      "ip": "2405:201:2022:b81c:51c8:841f:e909:f9c1",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "timestamp": "2026-03-01T07:24:21.773Z",
+      "ip": "2405:201:2022:b81c:51c8:841f:e909:f9c1",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt5323662",
+      "title": "A Silent Voice: The Movie",
+      "timestamp": "2026-03-01T07:27:49.631Z",
+      "ip": "2409:40e4:1098:83f:91f1:2211:cb99:8d6d",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt0076723",
+      "title": "tt0076723",
+      "timestamp": "2026-03-01T07:31:29.122Z",
+      "ip": "2409:40f3:20c3:8fb2:dcb6:73f2:888:1dc4",
+      "username": "jilin abraham"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "timestamp": "2026-03-01T07:36:22.945Z",
+      "ip": "119.42.59.122",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "timestamp": "2026-03-01T07:36:57.878Z",
+      "ip": "119.42.59.122",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -90428,10 +90430,10 @@
     },
     "2409:40f3:20c3:8fb2:dcb6:73f2:888:1dc4": {
       "type": "movie",
-      "id": "tt35699183",
-      "title": "tt35699183",
+      "id": "tt0076723",
+      "title": "tt0076723",
       "username": "jilin abraham",
-      "lastActive": 1772349708703
+      "lastActive": 1772350289122
     },
     "2409:40e4:5b:b8a3:8417:39ff:fe23:a39d": {
       "type": "movie",
@@ -90442,10 +90444,10 @@
     },
     "2409:40e4:1098:83f:91f1:2211:cb99:8d6d": {
       "type": "movie",
-      "id": "tt5311514",
-      "title": "Your Name.",
+      "id": "tt5323662",
+      "title": "A Silent Voice: The Movie",
       "username": "askchm",
-      "lastActive": 1772348886205
+      "lastActive": 1772350069631
     },
     "2a09:bac5:3af1:1a46::29e:b0": {
       "type": "series",
@@ -90467,6 +90469,20 @@
       "title": "The Night Agent",
       "username": "pingmenoone",
       "lastActive": 1772349526342
+    },
+    "2405:201:2022:b81c:51c8:841f:e909:f9c1": {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "username": "zealousninja",
+      "lastActive": 1772349861773
+    },
+    "119.42.59.122": {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "username": "gaendaswami",
+      "lastActive": 1772350617878
     }
   }
 }
