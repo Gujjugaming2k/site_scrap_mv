@@ -1,5 +1,5 @@
 {
-  "totalViews": 31859,
+  "totalViews": 31860,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6315,17 +6315,10 @@
     "2401:4900:8837:a3be:94fc:8c28:72c2:e5c9",
     "2a02:9b0:106:4496:468:df0f:8a0b:3b9d",
     "223.188.120.116",
-    "2401:4900:1caa:aab9:b803:2b73:c836:dd85"
+    "2401:4900:1caa:aab9:b803:2b73:c836:dd85",
+    "2405:201:e00a:a1b3:9b19:c1eb:23a1:74cd"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt10548174",
-      "title": "28 Years Later",
-      "timestamp": "2026-02-08T09:26:38.627Z",
-      "ip": "103.46.200.34",
-      "username": "katdenningssss"
-    },
     {
       "type": "movie",
       "id": "tt0795434",
@@ -86317,6 +86310,14 @@
       "timestamp": "2026-03-01T03:28:00.536Z",
       "ip": "116.68.77.63",
       "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt31945132",
+      "title": "tt31945132",
+      "timestamp": "2026-03-01T03:43:31.279Z",
+      "ip": "2405:201:e00a:a1b3:9b19:c1eb:23a1:74cd",
+      "username": "executeal"
     }
   ],
   "activeNow": {
@@ -90267,6 +90268,13 @@
       "title": "tt31173685:1:1",
       "username": "nirbhay1412",
       "lastActive": 1772335418225
+    },
+    "2405:201:e00a:a1b3:9b19:c1eb:23a1:74cd": {
+      "type": "movie",
+      "id": "tt31945132",
+      "title": "tt31945132",
+      "username": "executeal",
+      "lastActive": 1772336611279
     }
   }
 }
