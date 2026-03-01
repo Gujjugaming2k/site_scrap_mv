@@ -1,5 +1,5 @@
 {
-  "totalViews": 32079,
+  "totalViews": 32080,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6366,14 +6366,6 @@
     "2409:40e0:4b:f497:a010:6d99:bfa3:c912"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt9813792:1:6",
-      "title": "tt9813792:1:6",
-      "timestamp": "2026-02-09T03:36:16.282Z",
-      "ip": "2401:4900:1ca9:17fd:48ee:9138:3231:a04d",
-      "username": "nirbhay1412"
-    },
     {
       "type": "series",
       "id": "tt2306299%3A1%3A1",
@@ -86365,6 +86357,14 @@
       "timestamp": "2026-03-01T14:01:25.760Z",
       "ip": "2409:40e0:4b:f497:a010:6d99:bfa3:c912",
       "username": "nobody_ismy_name"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:2:10",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-01T14:11:47.948Z",
+      "ip": "2405:201:203e:b800:8eb6:a9f6:2b52:a28e",
+      "username": "pingmenoone"
     }
   ],
   "activeNow": {
@@ -90591,10 +90591,10 @@
     },
     "2405:201:203e:b800:8eb6:a9f6:2b52:a28e": {
       "type": "series",
-      "id": "tt13918776:2:9",
+      "id": "tt13918776:2:10",
       "title": "The Night Agent",
       "username": "pingmenoone",
-      "lastActive": 1772371238745
+      "lastActive": 1772374307948
     },
     "2402:3a80:15a7:948e:55d:15a:5612:5b9d": {
       "type": "series",
