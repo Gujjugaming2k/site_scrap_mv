@@ -1,5 +1,5 @@
 {
-  "totalViews": 32166,
+  "totalViews": 32172,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6386,54 +6386,6 @@
     "157.48.220.141,51.89.197.91"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-02-09T09:30:08.544Z",
-      "ip": "205.254.186.55",
-      "username": "manoz1"
-    },
-    {
-      "type": "movie",
-      "id": "tt26439764",
-      "title": "tt26439764",
-      "timestamp": "2026-02-09T09:30:16.836Z",
-      "ip": "205.254.186.55",
-      "username": "manoz1"
-    },
-    {
-      "type": "series",
-      "id": "tt1405406:1:1",
-      "title": "The Vampire Diaries",
-      "timestamp": "2026-02-09T09:32:24.886Z",
-      "ip": "2409:40c1:3085:9058:1f0e:d6ef:c25:abb1",
-      "username": "tips9694"
-    },
-    {
-      "type": "movie",
-      "id": "tt22740896",
-      "title": "tt22740896",
-      "timestamp": "2026-02-09T09:33:43.311Z",
-      "ip": "45.118.158.239",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-02-09T09:33:44.054Z",
-      "ip": "205.254.186.55",
-      "username": "manoz1"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-02-09T09:34:26.457Z",
-      "ip": "205.254.186.55",
-      "username": "manoz1"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:1",
@@ -86385,6 +86337,54 @@
       "timestamp": "2026-03-01T18:12:37.752Z",
       "ip": "64.43.40.35",
       "username": "sid_g"
+    },
+    {
+      "type": "movie",
+      "id": "tt1392214",
+      "title": "Prisoners",
+      "timestamp": "2026-03-01T18:19:22.032Z",
+      "ip": "64.43.40.35",
+      "username": "sid_g"
+    },
+    {
+      "type": "movie",
+      "id": "tt1392214",
+      "title": "Prisoners",
+      "timestamp": "2026-03-01T18:20:15.620Z",
+      "ip": "64.43.40.35",
+      "username": "sid_g"
+    },
+    {
+      "type": "movie",
+      "id": "tt3766354",
+      "title": "The Equalizer 2",
+      "timestamp": "2026-03-01T18:21:08.405Z",
+      "ip": "2409:40d4:11f6:fbb:7ca1:d4ff:fe87:69c9",
+      "username": "golu_vk"
+    },
+    {
+      "type": "series",
+      "id": "tt9251798:1:4",
+      "title": "tt9251798:1:4",
+      "timestamp": "2026-03-01T18:24:08.563Z",
+      "ip": "2a02:6ea0:d101:6226::27",
+      "username": "i_am_cheetah"
+    },
+    {
+      "type": "series",
+      "id": "tt9251798:1:3",
+      "title": "tt9251798:1:3",
+      "timestamp": "2026-03-01T18:24:21.544Z",
+      "ip": "2a02:6ea0:d101:6226::27",
+      "username": "i_am_cheetah"
+    },
+    {
+      "type": "series",
+      "id": "tt0386676:1:1",
+      "title": "tt0386676:1:1",
+      "timestamp": "2026-03-01T18:29:53.688Z",
+      "ip": "64.43.40.35",
+      "username": "sid_g"
     }
   ],
   "activeNow": {
@@ -90366,10 +90366,10 @@
     },
     "2409:40d4:11f6:fbb:7ca1:d4ff:fe87:69c9": {
       "type": "movie",
-      "id": "tt0455944",
-      "title": "The Equalizer",
+      "id": "tt3766354",
+      "title": "The Equalizer 2",
       "username": "golu_vk",
-      "lastActive": 1772340681065
+      "lastActive": 1772389268405
     },
     "2409:40d4:11f6:fbb:7ca1:d4ff:fe87:69c9,51.89.197.91": {
       "type": "movie",
@@ -90498,11 +90498,11 @@
       "lastActive": 1772349170558
     },
     "64.43.40.35": {
-      "type": "movie",
-      "id": "tt32357218",
-      "title": "tt32357218",
+      "type": "series",
+      "id": "tt0386676:1:1",
+      "title": "tt0386676:1:1",
       "username": "sid_g",
-      "lastActive": 1772388757752
+      "lastActive": 1772389793688
     },
     "2405:201:203e:b800:10da:eb77:c9e2:bbeb": {
       "type": "series",
@@ -90782,7 +90782,7 @@
       "id": "tt9251798:1:3",
       "title": "tt9251798:1:3",
       "username": "i_am_cheetah",
-      "lastActive": 1772385910633
+      "lastActive": 1772389461544
     },
     "163.223.102.165": {
       "type": "movie",
