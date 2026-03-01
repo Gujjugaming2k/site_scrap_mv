@@ -1,5 +1,5 @@
 {
-  "totalViews": 32076,
+  "totalViews": 32079,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6366,30 +6366,6 @@
     "2409:40e0:4b:f497:a010:6d99:bfa3:c912"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt8036976",
-      "title": "tt8036976",
-      "timestamp": "2026-02-09T03:18:00.363Z",
-      "ip": "2a09:bac5:40b3:a82::10c:29",
-      "username": "demon18319"
-    },
-    {
-      "type": "movie",
-      "id": "tt39049192",
-      "title": "tt39049192",
-      "timestamp": "2026-02-09T03:21:12.330Z",
-      "ip": "2401:4900:1ca9:17fd:48ee:9138:3231:a04d",
-      "username": "nirbhay1412"
-    },
-    {
-      "type": "movie",
-      "id": "tt30387012",
-      "title": "tt30387012",
-      "timestamp": "2026-02-09T03:35:05.911Z",
-      "ip": "2401:4900:1ca9:17fd:48ee:9138:3231:a04d",
-      "username": "nirbhay1412"
-    },
     {
       "type": "series",
       "id": "tt9813792:1:6",
@@ -86365,6 +86341,30 @@
       "timestamp": "2026-03-01T13:46:16.779Z",
       "ip": "2409:40e0:4b:f497:a010:6d99:bfa3:c912",
       "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt5638642",
+      "title": "tt5638642",
+      "timestamp": "2026-03-01T13:48:34.579Z",
+      "ip": "2409:40e0:4b:f497:a010:6d99:bfa3:c912",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt1591095",
+      "title": "Insidious",
+      "timestamp": "2026-03-01T13:51:15.961Z",
+      "ip": "2409:40e0:4b:f497:a010:6d99:bfa3:c912",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt1591095",
+      "title": "Insidious",
+      "timestamp": "2026-03-01T14:01:25.760Z",
+      "ip": "2409:40e0:4b:f497:a010:6d99:bfa3:c912",
+      "username": "nobody_ismy_name"
     }
   ],
   "activeNow": {
@@ -90647,10 +90647,10 @@
     },
     "2409:40e0:4b:f497:a010:6d99:bfa3:c912": {
       "type": "movie",
-      "id": "tt6644200",
-      "title": "A Quiet Place",
+      "id": "tt1591095",
+      "title": "Insidious",
       "username": "nobody_ismy_name",
-      "lastActive": 1772372776779
+      "lastActive": 1772373685760
     }
   }
 }
