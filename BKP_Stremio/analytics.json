@@ -1,5 +1,5 @@
 {
-  "totalViews": 31901,
+  "totalViews": 31903,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6334,22 +6334,6 @@
     "103.214.60.49"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1239290",
-      "title": "tt1239290",
-      "timestamp": "2026-02-08T11:43:20.742Z",
-      "ip": "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e",
-      "username": "adshoyi"
-    },
-    {
-      "type": "movie",
-      "id": "tt0169547",
-      "title": "American Beauty",
-      "timestamp": "2026-02-08T11:49:52.354Z",
-      "ip": "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e",
-      "username": "adshoyi"
-    },
     {
       "type": "movie",
       "id": "tt0069311",
@@ -86333,6 +86317,22 @@
       "timestamp": "2026-03-01T05:54:33.610Z",
       "ip": "103.214.60.49",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt6611916:2:1",
+      "title": "tt6611916:2:1",
+      "timestamp": "2026-03-01T06:19:51.742Z",
+      "ip": "103.24.85.9",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt32357218",
+      "title": "tt32357218",
+      "timestamp": "2026-03-01T06:20:19.592Z",
+      "ip": "103.24.85.9",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -88780,11 +88780,11 @@
       "lastActive": 1772092491906
     },
     "103.24.85.9": {
-      "type": "series",
-      "id": "tt6611916:2:1",
-      "title": "tt6611916:2:1",
+      "type": "movie",
+      "id": "tt32357218",
+      "title": "tt32357218",
       "username": "william097",
-      "lastActive": 1772344204670
+      "lastActive": 1772346019592
     },
     "2401:4900:7b8e:33e5:9f:dfff:fe9e:92c2": {
       "type": "movie",
