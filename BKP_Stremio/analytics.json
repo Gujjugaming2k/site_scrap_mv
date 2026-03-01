@@ -1,5 +1,5 @@
 {
-  "totalViews": 31881,
+  "totalViews": 31887,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6325,57 +6325,11 @@
     "2401:4900:8fe2:de50:26f1:44e6:b7ed:bcec",
     "103.170.55.96",
     "2401:4900:1caa:aab9:68:c9d6:54af:f5d3",
-    "2409:40e2:209e:f603:3075:d4a9:4f43:a8ae"
+    "2409:40e2:209e:f603:3075:d4a9:4f43:a8ae",
+    "2409:40d0:103d:525f:d8f1:4fff:fed9:cb31",
+    "2405:201:2022:b81c:8147:786:2a9f:4c8d"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt10548174",
-      "title": "28 Years Later",
-      "timestamp": "2026-02-08T10:17:29.469Z",
-      "ip": "103.46.200.34",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "series",
-      "id": "tt0279600:1:1",
-      "title": "tt0279600:1:1",
-      "timestamp": "2026-02-08T10:17:39.616Z",
-      "ip": "2a09:bac5:40b6:a82::10c:6b",
-      "username": "demon18319"
-    },
-    {
-      "type": "movie",
-      "id": "tt0390384",
-      "title": "tt0390384",
-      "timestamp": "2026-02-08T10:17:46.558Z",
-      "ip": "103.46.200.34",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt0073707",
-      "title": "tt0073707",
-      "timestamp": "2026-02-08T10:24:10.056Z",
-      "ip": "2409:40c4:e8:b6ff:1c28:72ff:fe7d:f7ae",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt0073707",
-      "title": "tt0073707",
-      "timestamp": "2026-02-08T10:24:14.134Z",
-      "ip": "2409:40c4:e8:b6ff:1c28:72ff:fe7d:f7ae",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt0073707",
-      "title": "tt0073707",
-      "timestamp": "2026-02-08T10:30:58.798Z",
-      "ip": "110.227.50.100",
-      "username": "b1jju"
-    },
     {
       "type": "series",
       "id": "tt1399664:2:2",
@@ -86327,6 +86281,54 @@
       "timestamp": "2026-03-01T05:11:44.808Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt9335498:1:2",
+      "title": "tt9335498:1:2",
+      "timestamp": "2026-03-01T05:21:03.563Z",
+      "ip": "2401:4900:1caa:aab9:68:c9d6:54af:f5d3",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt0460681:1:3",
+      "title": "Supernatural",
+      "timestamp": "2026-03-01T05:25:58.637Z",
+      "ip": "2409:40d0:103d:525f:d8f1:4fff:fed9:cb31",
+      "username": "magicmannn"
+    },
+    {
+      "type": "series",
+      "id": "tt0460681:1:3",
+      "title": "Supernatural",
+      "timestamp": "2026-03-01T05:27:21.797Z",
+      "ip": "2409:40d0:103d:525f:d8f1:4fff:fed9:cb31",
+      "username": "magicmannn"
+    },
+    {
+      "type": "series",
+      "id": "tt0460681:1:3",
+      "title": "Supernatural",
+      "timestamp": "2026-03-01T05:27:30.599Z",
+      "ip": "2409:40d0:103d:525f:d8f1:4fff:fed9:cb31",
+      "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt28007064",
+      "title": "tt28007064",
+      "timestamp": "2026-03-01T05:27:31.370Z",
+      "ip": "2405:201:2022:b81c:8147:786:2a9f:4c8d",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt10627720",
+      "title": "Ne Zha",
+      "timestamp": "2026-03-01T05:30:15.874Z",
+      "ip": "223.181.17.7",
+      "username": "ashwanileon"
     }
   ],
   "activeNow": {
@@ -89097,10 +89099,10 @@
     },
     "223.181.17.7": {
       "type": "movie",
-      "id": "tt39302439",
-      "title": "tt39302439",
+      "id": "tt10627720",
+      "title": "Ne Zha",
       "username": "ashwanileon",
-      "lastActive": 1772297803579
+      "lastActive": 1772343015874
     },
     "2401:4900:1caa:aab9:616f:73f:7b0c:8955": {
       "type": "movie",
@@ -90336,10 +90338,10 @@
     },
     "2401:4900:1caa:aab9:68:c9d6:54af:f5d3": {
       "type": "series",
-      "id": "tt9335498:1:1",
-      "title": "tt9335498:1:1",
+      "id": "tt9335498:1:2",
+      "title": "tt9335498:1:2",
       "username": "nirbhay1412",
-      "lastActive": 1772341108154
+      "lastActive": 1772342463563
     },
     "2409:40e2:209e:f603:3075:d4a9:4f43:a8ae": {
       "type": "series",
@@ -90347,6 +90349,20 @@
       "title": "tt33429144:1:1",
       "username": "adr7000",
       "lastActive": 1772341790384
+    },
+    "2409:40d0:103d:525f:d8f1:4fff:fed9:cb31": {
+      "type": "series",
+      "id": "tt0460681:1:3",
+      "title": "Supernatural",
+      "username": "magicmannn",
+      "lastActive": 1772342850599
+    },
+    "2405:201:2022:b81c:8147:786:2a9f:4c8d": {
+      "type": "movie",
+      "id": "tt28007064",
+      "title": "tt28007064",
+      "username": "zealousninja",
+      "lastActive": 1772342851370
     }
   }
 }
