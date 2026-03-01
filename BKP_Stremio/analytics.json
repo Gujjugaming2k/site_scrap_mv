@@ -1,5 +1,5 @@
 {
-  "totalViews": 32128,
+  "totalViews": 32129,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6378,14 +6378,6 @@
     "2401:9640:801:c15e:54a9:3cd:1ef5:26b4"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt37897260",
-      "title": "tt37897260",
-      "timestamp": "2026-02-09T08:06:33.329Z",
-      "ip": "2405:201:6025:a88d:6d8c:b718:cd3c:4a34",
-      "username": "infinityseeker"
-    },
     {
       "type": "movie",
       "id": "tt27543632",
@@ -86377,6 +86369,14 @@
       "timestamp": "2026-03-01T16:50:24.492Z",
       "ip": "2405:201:203e:b800:9cb9:c52f:163b:5e65",
       "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt8962124:5:9",
+      "title": "tt8962124:5:9",
+      "timestamp": "2026-03-01T17:00:50.840Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -86619,11 +86619,11 @@
       "lastActive": 1771743559957
     },
     "203.192.255.46": {
-      "type": "movie",
-      "id": "tt9603208",
-      "title": "Mission: Impossible - The Final Reckoning",
+      "type": "series",
+      "id": "tt8962124:5:9",
+      "title": "tt8962124:5:9",
       "username": "chetan_b2",
-      "lastActive": 1772379868583
+      "lastActive": 1772384450840
     },
     "2405:201:200d:906b:e9b9:acfe:e6f5:2f4f": {
       "type": "movie",
