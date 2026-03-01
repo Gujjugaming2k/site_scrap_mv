@@ -1,5 +1,5 @@
 {
-  "totalViews": 31887,
+  "totalViews": 31892,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6327,49 +6327,11 @@
     "2401:4900:1caa:aab9:68:c9d6:54af:f5d3",
     "2409:40e2:209e:f603:3075:d4a9:4f43:a8ae",
     "2409:40d0:103d:525f:d8f1:4fff:fed9:cb31",
-    "2405:201:2022:b81c:8147:786:2a9f:4c8d"
+    "2405:201:2022:b81c:8147:786:2a9f:4c8d",
+    "2a09:bac5:3af1:86e::d7:52",
+    "2405:201:6836:30eb:f0e6:9746:7ea3:b5ec"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1399664:2:2",
-      "title": "tt1399664:2:2",
-      "timestamp": "2026-02-08T10:34:42.961Z",
-      "ip": "223.185.16.35",
-      "username": "golu_vk"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:2:1",
-      "title": "tt1399664:2:1",
-      "timestamp": "2026-02-08T10:34:43.058Z",
-      "ip": "223.185.16.35",
-      "username": "golu_vk"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:4",
-      "title": "tt27497448:1:4",
-      "timestamp": "2026-02-08T10:39:36.020Z",
-      "ip": "2409:40e4:10ab:51e2:9c35:b86d:8b71:225e",
-      "username": "adshoyi"
-    },
-    {
-      "type": "movie",
-      "id": "tt0073707",
-      "title": "tt0073707",
-      "timestamp": "2026-02-08T10:40:34.211Z",
-      "ip": "110.227.50.100",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt1630029",
-      "title": "Avatar: The Way of Water",
-      "timestamp": "2026-02-08T10:47:29.450Z",
-      "ip": "110.227.50.100",
-      "username": "b1jju"
-    },
     {
       "type": "movie",
       "id": "tt1630029",
@@ -86329,6 +86291,46 @@
       "timestamp": "2026-03-01T05:30:15.874Z",
       "ip": "223.181.17.7",
       "username": "ashwanileon"
+    },
+    {
+      "type": "series",
+      "id": "tt0108778:10:5",
+      "title": "tt0108778:10:5",
+      "timestamp": "2026-03-01T05:35:07.205Z",
+      "ip": "2a09:bac5:3af1:86e::d7:52",
+      "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt0108778:10:5",
+      "title": "tt0108778:10:5",
+      "timestamp": "2026-03-01T05:40:51.657Z",
+      "ip": "2a09:bac5:3af1:86e::d7:52",
+      "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-03-01T05:41:54.754Z",
+      "ip": "2405:201:6836:30eb:f0e6:9746:7ea3:b5ec",
+      "username": "xlr8boiiii"
+    },
+    {
+      "type": "movie",
+      "id": "tt9100018",
+      "title": "tt9100018",
+      "timestamp": "2026-03-01T05:44:27.470Z",
+      "ip": "103.46.200.41",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "series",
+      "id": "tt9335498:1:3",
+      "title": "tt9335498:1:3",
+      "timestamp": "2026-03-01T05:46:12.079Z",
+      "ip": "2401:4900:1caa:aab9:68:c9d6:54af:f5d3",
+      "username": "nirbhay1412"
     }
   ],
   "activeNow": {
@@ -87236,11 +87238,11 @@
       "lastActive": 1771828320054
     },
     "103.46.200.41": {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
+      "type": "movie",
+      "id": "tt9100018",
+      "title": "tt9100018",
       "username": "katdenningssss",
-      "lastActive": 1772302718515
+      "lastActive": 1772343867470
     },
     "223.177.132.207": {
       "type": "series",
@@ -90338,10 +90340,10 @@
     },
     "2401:4900:1caa:aab9:68:c9d6:54af:f5d3": {
       "type": "series",
-      "id": "tt9335498:1:2",
-      "title": "tt9335498:1:2",
+      "id": "tt9335498:1:3",
+      "title": "tt9335498:1:3",
       "username": "nirbhay1412",
-      "lastActive": 1772342463563
+      "lastActive": 1772343972079
     },
     "2409:40e2:209e:f603:3075:d4a9:4f43:a8ae": {
       "type": "series",
@@ -90363,6 +90365,20 @@
       "title": "tt28007064",
       "username": "zealousninja",
       "lastActive": 1772342851370
+    },
+    "2a09:bac5:3af1:86e::d7:52": {
+      "type": "series",
+      "id": "tt0108778:10:5",
+      "title": "tt0108778:10:5",
+      "username": "switchoff009",
+      "lastActive": 1772343651657
+    },
+    "2405:201:6836:30eb:f0e6:9746:7ea3:b5ec": {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "username": "xlr8boiiii",
+      "lastActive": 1772343714754
     }
   }
 }
