@@ -1,5 +1,5 @@
 {
-  "totalViews": 32120,
+  "totalViews": 32126,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6374,57 +6374,10 @@
     "2405:201:203e:b800:9cb9:c52f:163b:5e65",
     "2a02:6ea0:d802:5502::38",
     "2409:40c1:5a:e2d9:842c:39ff:fec4:189b",
-    "2409:40e5:1c:559:30e0:82ff:fef3:6f8"
+    "2409:40e5:1c:559:30e0:82ff:fef3:6f8",
+    "2401:9640:801:c15e:54a9:3cd:1ef5:26b4"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt10919074",
-      "title": "tt10919074",
-      "timestamp": "2026-02-09T07:26:49.272Z",
-      "ip": "49.47.153.247",
-      "username": "theonlyfreak"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:1:1",
-      "title": "tt31938062:1:1",
-      "timestamp": "2026-02-09T07:27:38.347Z",
-      "ip": "2409:40d2:3019:b9f8:f39d:25ed:8169:c564",
-      "username": "saurabhkaperwan"
-    },
-    {
-      "type": "series",
-      "id": "tt11737520:1:5",
-      "title": "tt11737520:1:5",
-      "timestamp": "2026-02-09T07:31:01.774Z",
-      "ip": "106.222.249.57",
-      "username": "nirbhay1412"
-    },
-    {
-      "type": "movie",
-      "id": "tt15458866",
-      "title": "tt15458866",
-      "timestamp": "2026-02-09T07:32:25.926Z",
-      "ip": "63.135.161.140",
-      "username": "theonlyfreak"
-    },
-    {
-      "type": "series",
-      "id": "tt11737520:1:6",
-      "title": "tt11737520:1:6",
-      "timestamp": "2026-02-09T07:39:39.027Z",
-      "ip": "2401:4900:1cab:41dc:5025:8878:d000:c9a0",
-      "username": "nirbhay1412"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:1:3",
-      "title": "tt1399664:1:3",
-      "timestamp": "2026-02-09T08:00:09.252Z",
-      "ip": "103.24.85.184",
-      "username": "william097"
-    },
     {
       "type": "movie",
       "id": "tt32642706",
@@ -86376,6 +86329,54 @@
       "timestamp": "2026-03-01T16:05:41.388Z",
       "ip": "2409:40e5:1c:559:30e0:82ff:fef3:6f8",
       "username": "cyberboy12321"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:2:5",
+      "title": "Stranger Things",
+      "timestamp": "2026-03-01T16:25:00.423Z",
+      "ip": "2409:40d4:4009:6ecd:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt1571234",
+      "title": "Mortal Engines",
+      "timestamp": "2026-03-01T16:25:48.132Z",
+      "ip": "2405:201:2022:b81c:c994:9111:57c9:bd02",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt28007064",
+      "title": "tt28007064",
+      "timestamp": "2026-03-01T16:28:30.318Z",
+      "ip": "2405:201:2022:b81c:c994:9111:57c9:bd02",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt9251798:1:2",
+      "title": "tt9251798:1:2",
+      "timestamp": "2026-03-01T16:35:44.857Z",
+      "ip": "2409:40e1:9:e08a:8000::",
+      "username": "i_am_cheetah"
+    },
+    {
+      "type": "series",
+      "id": "tt9251798:1:1",
+      "title": "tt9251798:1:1",
+      "timestamp": "2026-03-01T16:36:01.805Z",
+      "ip": "2409:40e1:9:e08a:8000::",
+      "username": "i_am_cheetah"
+    },
+    {
+      "type": "series",
+      "id": "tt1405406:4:1",
+      "title": "The Vampire Diaries",
+      "timestamp": "2026-03-01T16:39:19.372Z",
+      "ip": "2401:9640:801:c15e:54a9:3cd:1ef5:26b4",
+      "username": "suprememayank"
     }
   ],
   "activeNow": {
@@ -89412,10 +89413,10 @@
     },
     "2409:40d4:4009:6ecd:8000::": {
       "type": "series",
-      "id": "tt4574334:2:2",
+      "id": "tt4574334:2:5",
       "title": "Stranger Things",
       "username": "kdbotz",
-      "lastActive": 1772213382352
+      "lastActive": 1772382300423
     },
     "2409:40d2:3051:2352:2cd2:3602:d0d9:7d52": {
       "type": "movie",
@@ -90665,17 +90666,17 @@
     },
     "2405:201:2022:b81c:c994:9111:57c9:bd02": {
       "type": "movie",
-      "id": "tt1571234",
-      "title": "Mortal Engines",
+      "id": "tt28007064",
+      "title": "tt28007064",
       "username": "zealousninja",
-      "lastActive": 1772376642763
+      "lastActive": 1772382510318
     },
     "2409:40e1:9:e08a:8000::": {
       "type": "series",
-      "id": "tt9251798:1:2",
-      "title": "tt9251798:1:2",
+      "id": "tt9251798:1:1",
+      "title": "tt9251798:1:1",
       "username": "i_am_cheetah",
-      "lastActive": 1772378584619
+      "lastActive": 1772382961805
     },
     "103.92.43.44": {
       "type": "series",
@@ -90739,6 +90740,13 @@
       "title": "tt1757678",
       "username": "cyberboy12321",
       "lastActive": 1772381141388
+    },
+    "2401:9640:801:c15e:54a9:3cd:1ef5:26b4": {
+      "type": "series",
+      "id": "tt1405406:4:1",
+      "title": "The Vampire Diaries",
+      "username": "suprememayank",
+      "lastActive": 1772383159372
     }
   }
 }
