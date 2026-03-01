@@ -1,5 +1,5 @@
 {
-  "totalViews": 31861,
+  "totalViews": 31863,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6317,25 +6317,10 @@
     "223.188.120.116",
     "2401:4900:1caa:aab9:b803:2b73:c836:dd85",
     "2405:201:e00a:a1b3:9b19:c1eb:23a1:74cd",
-    "2402:8100:26a3:d805:6405:d6ff:fecf:f570"
+    "2402:8100:26a3:d805:6405:d6ff:fecf:f570",
+    "2401:4900:b02b:a012:65a8:6425:ee77:6f4e"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1105709",
-      "title": "tt1105709",
-      "timestamp": "2026-02-08T09:26:38.836Z",
-      "ip": "103.46.200.34",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt28132094",
-      "title": "tt28132094",
-      "timestamp": "2026-02-08T09:26:42.009Z",
-      "ip": "103.46.200.34",
-      "username": "katdenningssss"
-    },
     {
       "type": "movie",
       "id": "tt1105709",
@@ -86319,6 +86304,22 @@
       "timestamp": "2026-03-01T03:45:12.416Z",
       "ip": "2402:8100:26a3:d805:6405:d6ff:fecf:f570",
       "username": "surti_lala"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:10",
+      "title": "tt30003786:4:10",
+      "timestamp": "2026-03-01T04:10:45.447Z",
+      "ip": "2401:4900:b02b:a012:65a8:6425:ee77:6f4e",
+      "username": "adshoyi"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "timestamp": "2026-03-01T04:10:54.557Z",
+      "ip": "2401:4900:b02b:a012:65a8:6425:ee77:6f4e",
+      "username": "adshoyi"
     }
   ],
   "activeNow": {
@@ -90283,6 +90284,13 @@
       "title": "tt1840911",
       "username": "surti_lala",
       "lastActive": 1772336712416
+    },
+    "2401:4900:b02b:a012:65a8:6425:ee77:6f4e": {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "username": "adshoyi",
+      "lastActive": 1772338254557
     }
   }
 }
