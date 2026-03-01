@@ -1,5 +1,5 @@
 {
-  "totalViews": 32066,
+  "totalViews": 32072,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6360,57 +6360,10 @@
     "2409:40d4:4009:6ecd:644a:6df7:ad26:fe82",
     "2409:40e2:20bb:f651:a4cd:7f51:4a36:f54c",
     "2401:4900:8835:7f7a:3944:6c83:bcb2:8906",
-    "2405:201:202d:d019:c28:3a2e:f2d6:3631"
+    "2405:201:202d:d019:c28:3a2e:f2d6:3631",
+    "2400:adc5:4a2:5b00:abc0:7149:17d1:70b6"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31812476:2:8",
-      "title": "tt31812476:2:8",
-      "timestamp": "2026-02-09T02:28:07.663Z",
-      "ip": "103.24.85.184",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt31812476:2:7",
-      "title": "tt31812476:2:7",
-      "timestamp": "2026-02-09T02:29:12.123Z",
-      "ip": "103.24.85.184",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:5",
-      "title": "Stranger Things",
-      "timestamp": "2026-02-09T02:30:11.838Z",
-      "ip": "94.156.30.130",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt39100948",
-      "title": "tt39100948",
-      "timestamp": "2026-02-09T02:36:01.720Z",
-      "ip": "2409:40c4:3109:6680:7450:da6d:fed8:485d",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt31852038",
-      "title": "tt31852038",
-      "timestamp": "2026-02-09T02:37:48.376Z",
-      "ip": "2409:40c4:3109:6680:7450:da6d:fed8:485d",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt15327088",
-      "title": "tt15327088",
-      "timestamp": "2026-02-09T02:45:43.707Z",
-      "ip": "94.156.30.145",
-      "username": "b1jju"
-    },
     {
       "type": "movie",
       "id": "tt35146696",
@@ -86362,6 +86315,54 @@
       "timestamp": "2026-03-01T13:15:26.785Z",
       "ip": "2405:201:202d:d019:c28:3a2e:f2d6:3631",
       "username": "explorerindia"
+    },
+    {
+      "type": "series",
+      "id": "tt8962124:5:9",
+      "title": "tt8962124:5:9",
+      "timestamp": "2026-03-01T13:17:51.373Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt9603208",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "timestamp": "2026-03-01T13:17:56.259Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:2:9",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-01T13:20:38.745Z",
+      "ip": "2405:201:203e:b800:8eb6:a9f6:2b52:a28e",
+      "username": "pingmenoone"
+    },
+    {
+      "type": "movie",
+      "id": "tt14181714",
+      "title": "tt14181714",
+      "timestamp": "2026-03-01T13:22:57.287Z",
+      "ip": "2400:adc5:4a2:5b00:abc0:7149:17d1:70b6",
+      "username": "salman720"
+    },
+    {
+      "type": "movie",
+      "id": "tt39631179",
+      "title": "tt39631179",
+      "timestamp": "2026-03-01T13:24:17.661Z",
+      "ip": "2400:adc5:4a2:5b00:abc0:7149:17d1:70b6",
+      "username": "salman720"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:2:5",
+      "title": "Stranger Things",
+      "timestamp": "2026-03-01T13:28:24.888Z",
+      "ip": "2409:40d4:4009:6ecd:644a:6df7:ad26:fe82",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -86604,11 +86605,11 @@
       "lastActive": 1771743559957
     },
     "203.192.255.46": {
-      "type": "series",
-      "id": "tt8962124:5:9",
-      "title": "tt8962124:5:9",
+      "type": "movie",
+      "id": "tt9603208",
+      "title": "Mission: Impossible - The Final Reckoning",
       "username": "chetan_b2",
-      "lastActive": 1772369032696
+      "lastActive": 1772371076259
     },
     "2405:201:200d:906b:e9b9:acfe:e6f5:2f4f": {
       "type": "movie",
@@ -90588,10 +90589,10 @@
     },
     "2405:201:203e:b800:8eb6:a9f6:2b52:a28e": {
       "type": "series",
-      "id": "tt13918776:2:8",
+      "id": "tt13918776:2:9",
       "title": "The Night Agent",
       "username": "pingmenoone",
-      "lastActive": 1772367361242
+      "lastActive": 1772371238745
     },
     "2402:3a80:15a7:948e:55d:15a:5612:5b9d": {
       "type": "series",
@@ -90602,10 +90603,10 @@
     },
     "2409:40d4:4009:6ecd:644a:6df7:ad26:fe82": {
       "type": "series",
-      "id": "tt4574334:2:4",
+      "id": "tt4574334:2:5",
       "title": "Stranger Things",
       "username": "kdbotz",
-      "lastActive": 1772369699839
+      "lastActive": 1772371704888
     },
     "2409:40e2:20bb:f651:a4cd:7f51:4a36:f54c": {
       "type": "series",
@@ -90627,6 +90628,13 @@
       "title": "The Night Agent",
       "username": "explorerindia",
       "lastActive": 1772370926785
+    },
+    "2400:adc5:4a2:5b00:abc0:7149:17d1:70b6": {
+      "type": "movie",
+      "id": "tt39631179",
+      "title": "tt39631179",
+      "username": "salman720",
+      "lastActive": 1772371457661
     }
   }
 }
