@@ -1,5 +1,5 @@
 {
-  "totalViews": 31879,
+  "totalViews": 31881,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6324,25 +6324,10 @@
     "2409:40d4:11f6:fbb:7ca1:d4ff:fe87:69c9,51.89.197.91",
     "2401:4900:8fe2:de50:26f1:44e6:b7ed:bcec",
     "103.170.55.96",
-    "2401:4900:1caa:aab9:68:c9d6:54af:f5d3"
+    "2401:4900:1caa:aab9:68:c9d6:54af:f5d3",
+    "2409:40e2:209e:f603:3075:d4a9:4f43:a8ae"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt10548174",
-      "title": "28 Years Later",
-      "timestamp": "2026-02-08T10:17:25.124Z",
-      "ip": "103.46.200.34",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "movie",
-      "id": "tt0123948",
-      "title": "tt0123948",
-      "timestamp": "2026-02-08T10:17:25.199Z",
-      "ip": "103.46.200.34",
-      "username": "katdenningssss"
-    },
     {
       "type": "movie",
       "id": "tt10548174",
@@ -86326,6 +86311,22 @@
       "timestamp": "2026-03-01T04:58:28.154Z",
       "ip": "2401:4900:1caa:aab9:68:c9d6:54af:f5d3",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt33429144:1:1",
+      "title": "tt33429144:1:1",
+      "timestamp": "2026-03-01T05:09:50.384Z",
+      "ip": "2409:40e2:209e:f603:3075:d4a9:4f43:a8ae",
+      "username": "adr7000"
+    },
+    {
+      "type": "movie",
+      "id": "tt9603208",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "timestamp": "2026-03-01T05:11:44.808Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -86572,7 +86573,7 @@
       "id": "tt9603208",
       "title": "Mission: Impossible - The Final Reckoning",
       "username": "chetan_b2",
-      "lastActive": 1772291579336
+      "lastActive": 1772341904808
     },
     "2405:201:200d:906b:e9b9:acfe:e6f5:2f4f": {
       "type": "movie",
@@ -90339,6 +90340,13 @@
       "title": "tt9335498:1:1",
       "username": "nirbhay1412",
       "lastActive": 1772341108154
+    },
+    "2409:40e2:209e:f603:3075:d4a9:4f43:a8ae": {
+      "type": "series",
+      "id": "tt33429144:1:1",
+      "title": "tt33429144:1:1",
+      "username": "adr7000",
+      "lastActive": 1772341790384
     }
   }
 }
