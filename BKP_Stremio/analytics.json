@@ -1,5 +1,5 @@
 {
-  "totalViews": 32144,
+  "totalViews": 32149,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6381,49 +6381,10 @@
     "2409:40e4:10b3:41ae:65a8:6425:ee77:6f4e",
     "2a02:6ea0:d101:6226::27",
     "163.223.102.165",
-    "2409:40e4:10b3:41ae:f8f2:f3eb:3a65:41ae"
+    "2409:40e4:10b3:41ae:f8f2:f3eb:3a65:41ae",
+    "155.117.189.44"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27497448:1:4",
-      "title": "tt27497448:1:4",
-      "timestamp": "2026-02-09T08:35:21.464Z",
-      "ip": "45.118.158.239",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:4",
-      "title": "tt27497448:1:4",
-      "timestamp": "2026-02-09T08:35:47.649Z",
-      "ip": "45.118.158.239",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-02-09T08:37:07.077Z",
-      "ip": "2409:40d4:402e:8ba2:2ccd:43fb:668:746f",
-      "username": "kdbotz"
-    },
-    {
-      "type": "movie",
-      "id": "tt23149780",
-      "title": "Eden",
-      "timestamp": "2026-02-09T08:37:28.925Z",
-      "ip": "2405:201:2033:841:36ff:f3cd:9e81:cd21",
-      "username": "surti_lala"
-    },
-    {
-      "type": "movie",
-      "id": "tt21357150",
-      "title": "tt21357150",
-      "timestamp": "2026-02-09T08:48:21.430Z",
-      "ip": "2401:4900:a068:c023:2952:778d:25f2:6093",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "movie",
       "id": "tt35222590",
@@ -86383,6 +86344,46 @@
       "timestamp": "2026-03-01T17:40:37.956Z",
       "ip": "2409:40e4:10b3:41ae:f8f2:f3eb:3a65:41ae",
       "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt0293734:1:1",
+      "title": "tt0293734:1:1",
+      "timestamp": "2026-03-01T17:42:06.477Z",
+      "ip": "155.117.189.44",
+      "username": "goatedbentennyson"
+    },
+    {
+      "type": "movie",
+      "id": "tt27489557",
+      "title": "tt27489557",
+      "timestamp": "2026-03-01T17:44:26.299Z",
+      "ip": "163.223.102.165",
+      "username": "mutti9"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:1:1",
+      "title": "tt17220216:1:1",
+      "timestamp": "2026-03-01T17:46:16.181Z",
+      "ip": "64.43.40.35",
+      "username": "sid_g"
+    },
+    {
+      "type": "movie",
+      "id": "tt14181714",
+      "title": "tt14181714",
+      "timestamp": "2026-03-01T17:47:03.079Z",
+      "ip": "64.43.40.35",
+      "username": "sid_g"
+    },
+    {
+      "type": "movie",
+      "id": "tt0374345",
+      "title": "tt0374345",
+      "timestamp": "2026-03-01T17:54:41.760Z",
+      "ip": "2409:40e2:20bb:f651:a4cd:7f51:4a36:f54c",
+      "username": "adr7000"
     }
   ],
   "activeNow": {
@@ -90496,11 +90497,11 @@
       "lastActive": 1772349170558
     },
     "64.43.40.35": {
-      "type": "series",
-      "id": "tt8740790:1:1",
-      "title": "tt8740790:1:1",
+      "type": "movie",
+      "id": "tt14181714",
+      "title": "tt14181714",
       "username": "sid_g",
-      "lastActive": 1772386802119
+      "lastActive": 1772387223079
     },
     "2405:201:203e:b800:10da:eb77:c9e2:bbeb": {
       "type": "series",
@@ -90629,11 +90630,11 @@
       "lastActive": 1772371704888
     },
     "2409:40e2:20bb:f651:a4cd:7f51:4a36:f54c": {
-      "type": "series",
-      "id": "tt32848814:1:2",
-      "title": "tt32848814:1:2",
+      "type": "movie",
+      "id": "tt0374345",
+      "title": "tt0374345",
       "username": "adr7000",
-      "lastActive": 1772370166502
+      "lastActive": 1772387681760
     },
     "2401:4900:8835:7f7a:3944:6c83:bcb2:8906": {
       "type": "series",
@@ -90784,10 +90785,10 @@
     },
     "163.223.102.165": {
       "type": "movie",
-      "id": "tt15464188",
-      "title": "tt15464188",
+      "id": "tt27489557",
+      "title": "tt27489557",
       "username": "mutti9",
-      "lastActive": 1772386770591
+      "lastActive": 1772387066299
     },
     "2409:40e4:10b3:41ae:f8f2:f3eb:3a65:41ae": {
       "type": "movie",
@@ -90795,6 +90796,13 @@
       "title": "tt14181714",
       "username": "askchm",
       "lastActive": 1772386837956
+    },
+    "155.117.189.44": {
+      "type": "series",
+      "id": "tt0293734:1:1",
+      "title": "tt0293734:1:1",
+      "username": "goatedbentennyson",
+      "lastActive": 1772386926477
     }
   }
 }
