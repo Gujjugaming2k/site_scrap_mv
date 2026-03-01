@@ -1,5 +1,5 @@
 {
-  "totalViews": 32072,
+  "totalViews": 32076,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6361,41 +6361,11 @@
     "2409:40e2:20bb:f651:a4cd:7f51:4a36:f54c",
     "2401:4900:8835:7f7a:3944:6c83:bcb2:8906",
     "2405:201:202d:d019:c28:3a2e:f2d6:3631",
-    "2400:adc5:4a2:5b00:abc0:7149:17d1:70b6"
+    "2400:adc5:4a2:5b00:abc0:7149:17d1:70b6",
+    "2409:40f3:20c8:7b9e:d42c:64a5:d81b:24b7",
+    "2409:40e0:4b:f497:a010:6d99:bfa3:c912"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt35146696",
-      "title": "tt35146696",
-      "timestamp": "2026-02-09T02:53:51.587Z",
-      "ip": "2401:4900:8fe3:1191:4833:cafc:5b7e:32a3",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-09T03:03:59.718Z",
-      "ip": "2409:40e5:11e5:d2f4:5834:5fff:fe6a:2614",
-      "username": "magicmannn"
-    },
-    {
-      "type": "series",
-      "id": "tt31812476:0:4",
-      "title": "tt31812476:0:4",
-      "timestamp": "2026-02-09T03:11:37.461Z",
-      "ip": "103.24.85.184",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:3",
-      "title": "tt27497448:1:3",
-      "timestamp": "2026-02-09T03:11:47.074Z",
-      "ip": "2409:40e5:11e5:d2f4:5834:5fff:fe6a:2614",
-      "username": "magicmannn"
-    },
     {
       "type": "movie",
       "id": "tt8036976",
@@ -86363,6 +86333,38 @@
       "timestamp": "2026-03-01T13:28:24.888Z",
       "ip": "2409:40d4:4009:6ecd:644a:6df7:ad26:fe82",
       "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt29344894",
+      "title": "tt29344894",
+      "timestamp": "2026-03-01T13:36:23.927Z",
+      "ip": "2409:40f3:20c8:7b9e:d42c:64a5:d81b:24b7",
+      "username": "jilin abraham"
+    },
+    {
+      "type": "movie",
+      "id": "tt4361050",
+      "title": "Ouija: Origin of Evil",
+      "timestamp": "2026-03-01T13:37:44.756Z",
+      "ip": "2409:40e0:4b:f497:a010:6d99:bfa3:c912",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt10548174",
+      "title": "28 Years Later",
+      "timestamp": "2026-03-01T13:41:07.595Z",
+      "ip": "2409:40e0:4b:f497:a010:6d99:bfa3:c912",
+      "username": "nobody_ismy_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt6644200",
+      "title": "A Quiet Place",
+      "timestamp": "2026-03-01T13:46:16.779Z",
+      "ip": "2409:40e0:4b:f497:a010:6d99:bfa3:c912",
+      "username": "nobody_ismy_name"
     }
   ],
   "activeNow": {
@@ -90635,6 +90637,20 @@
       "title": "tt39631179",
       "username": "salman720",
       "lastActive": 1772371457661
+    },
+    "2409:40f3:20c8:7b9e:d42c:64a5:d81b:24b7": {
+      "type": "movie",
+      "id": "tt29344894",
+      "title": "tt29344894",
+      "username": "jilin abraham",
+      "lastActive": 1772372183927
+    },
+    "2409:40e0:4b:f497:a010:6d99:bfa3:c912": {
+      "type": "movie",
+      "id": "tt6644200",
+      "title": "A Quiet Place",
+      "username": "nobody_ismy_name",
+      "lastActive": 1772372776779
     }
   }
 }
