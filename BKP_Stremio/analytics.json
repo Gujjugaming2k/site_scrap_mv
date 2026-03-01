@@ -1,5 +1,5 @@
 {
-  "totalViews": 32201,
+  "totalViews": 32203,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6388,22 +6388,6 @@
     "2405:201:a018:b012:4977:3f99:a891:3a94"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt35727678",
-      "title": "tt35727678",
-      "timestamp": "2026-02-09T11:46:23.234Z",
-      "ip": "2405:201:682e:6839:2c5c:21a:f1c5:a1cd",
-      "username": "tushar0nly"
-    },
-    {
-      "type": "movie",
-      "id": "tt1320082",
-      "title": "tt1320082",
-      "timestamp": "2026-02-09T11:50:55.126Z",
-      "ip": "2001:4490:4e65:b24a:7ddb:33bb:61f1:14a",
-      "username": "adiyogivishwanath"
-    },
     {
       "type": "movie",
       "id": "tt1187043",
@@ -86387,6 +86371,22 @@
       "timestamp": "2026-03-01T20:08:44.911Z",
       "ip": "202.160.144.44",
       "username": "anonymous050100"
+    },
+    {
+      "type": "series",
+      "id": "tt19854762:2:1",
+      "title": "tt19854762:2:1",
+      "timestamp": "2026-03-01T20:19:51.752Z",
+      "ip": "64.43.40.35",
+      "username": "sid_g"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-03-01T20:27:37.305Z",
+      "ip": "64.43.40.35",
+      "username": "sid_g"
     }
   ],
   "activeNow": {
@@ -90500,11 +90500,11 @@
       "lastActive": 1772349170558
     },
     "64.43.40.35": {
-      "type": "series",
-      "id": "tt12343534:1:1",
-      "title": "JUJUTSU KAISEN",
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
       "username": "sid_g",
-      "lastActive": 1772395529165
+      "lastActive": 1772396857305
     },
     "2405:201:203e:b800:10da:eb77:c9e2:bbeb": {
       "type": "series",
