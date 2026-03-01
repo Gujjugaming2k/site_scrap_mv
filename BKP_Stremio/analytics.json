@@ -1,5 +1,5 @@
 {
-  "totalViews": 32002,
+  "totalViews": 32003,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6353,14 +6353,6 @@
     "2405:201:2022:b81c:6d19:c1e:a27b:5bfb"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27497448:1:2",
-      "title": "tt27497448:1:2",
-      "timestamp": "2026-02-08T17:54:54.483Z",
-      "ip": "2401:4900:a9b9:90a8:7736:3a0b:72e0:c76a",
-      "username": "extremeyat"
-    },
     {
       "type": "movie",
       "id": "tt28629017",
@@ -86352,6 +86344,14 @@
       "timestamp": "2026-03-01T09:23:37.505Z",
       "ip": "2409:40f0:103c:e16e:c86f:47ff:febe:1a9a",
       "username": "saisrinivas"
+    },
+    {
+      "type": "movie",
+      "id": "tt21692408",
+      "title": "Kung Fu Panda 4",
+      "timestamp": "2026-03-01T09:49:28.532Z",
+      "ip": "103.214.60.49",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -90409,11 +90409,11 @@
       "lastActive": 1772344078132
     },
     "103.214.60.49": {
-      "type": "series",
-      "id": "tt12343534:3:9",
-      "title": "JUJUTSU KAISEN",
+      "type": "movie",
+      "id": "tt21692408",
+      "title": "Kung Fu Panda 4",
       "username": "gaendaswami",
-      "lastActive": 1772344473610
+      "lastActive": 1772358568532
     },
     "2401:4900:1caa:aab9:484e:e966:eaa5:652a": {
       "type": "series",
