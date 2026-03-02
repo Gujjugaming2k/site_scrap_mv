@@ -1,5 +1,5 @@
 {
-  "totalViews": 32573,
+  "totalViews": 32579,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6448,57 +6448,10 @@
     "152.59.35.152",
     "2405:201:2022:b81c:f581:bdf3:74d7:f979",
     "2401:4900:5555:3683:3084:d568:c00b:bed",
-    "2401:4900:5555:3683:f0ef:584f:a7f0:a5bb"
+    "2401:4900:5555:3683:f0ef:584f:a7f0:a5bb",
+    "2a09:bac1:36a0:80::243:65"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt13833978:1:1",
-      "title": "The Lincoln Lawyer",
-      "timestamp": "2026-02-10T14:15:01.045Z",
-      "ip": "2405:201:6820:a82f:8d5:ed4b:2b1b:cbc7",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt13833978:1:1",
-      "title": "The Lincoln Lawyer",
-      "timestamp": "2026-02-10T14:15:06.769Z",
-      "ip": "2405:201:6820:a82f:8d5:ed4b:2b1b:cbc7",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt39460434:1:5",
-      "title": "tt39460434:1:5",
-      "timestamp": "2026-02-10T14:16:30.192Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt39460434:1:6",
-      "title": "tt39460434:1:6",
-      "timestamp": "2026-02-10T14:16:43.503Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt0357905",
-      "title": "tt0357905",
-      "timestamp": "2026-02-10T14:21:12.566Z",
-      "ip": "38.224.232.16",
-      "username": "thala_75"
-    },
-    {
-      "type": "series",
-      "id": "tt11311302:1:1",
-      "title": "tt11311302:1:1",
-      "timestamp": "2026-02-10T14:44:48.881Z",
-      "ip": "223.226.129.165",
-      "username": "user_9b"
-    },
     {
       "type": "movie",
       "id": "tt32642706",
@@ -86450,6 +86403,54 @@
       "timestamp": "2026-03-02T19:14:09.895Z",
       "ip": "2409:40d4:2d:bb46:a063:16ff:fec3:846",
       "username": "vk986"
+    },
+    {
+      "type": "movie",
+      "id": "tt2395427",
+      "title": "Avengers: Age of Ultron",
+      "timestamp": "2026-03-02T20:21:42.504Z",
+      "ip": "2a09:bac1:36a0:80::243:65",
+      "username": "adiyogivishwanath"
+    },
+    {
+      "type": "movie",
+      "id": "tt1757678",
+      "title": "tt1757678",
+      "timestamp": "2026-03-02T20:25:42.674Z",
+      "ip": "109.76.53.79",
+      "username": "sid_g"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-03-02T20:27:40.157Z",
+      "ip": "109.76.53.79",
+      "username": "sid_g"
+    },
+    {
+      "type": "movie",
+      "id": "tt0431197",
+      "title": "tt0431197",
+      "timestamp": "2026-03-02T20:32:10.630Z",
+      "ip": "109.76.53.79",
+      "username": "sid_g"
+    },
+    {
+      "type": "movie",
+      "id": "tt0431197",
+      "title": "tt0431197",
+      "timestamp": "2026-03-02T20:32:46.915Z",
+      "ip": "109.76.53.79",
+      "username": "sid_g"
+    },
+    {
+      "type": "movie",
+      "id": "tt0431197",
+      "title": "tt0431197",
+      "timestamp": "2026-03-02T20:34:07.521Z",
+      "ip": "109.76.53.79",
+      "username": "sid_g"
     }
   ],
   "activeNow": {
@@ -91187,10 +91188,10 @@
     },
     "109.76.53.79": {
       "type": "movie",
-      "id": "tt33255286",
-      "title": "tt33255286",
+      "id": "tt0431197",
+      "title": "tt0431197",
       "username": "sid_g",
-      "lastActive": 1772464783353
+      "lastActive": 1772483647521
     },
     "2405:201:2033:841:75ad:568a:6dc5:83ac": {
       "type": "movie",
@@ -91359,6 +91360,13 @@
       "title": "tt0369179:5:10",
       "username": "gendaswammy",
       "lastActive": 1772476670464
+    },
+    "2a09:bac1:36a0:80::243:65": {
+      "type": "movie",
+      "id": "tt2395427",
+      "title": "Avengers: Age of Ultron",
+      "username": "adiyogivishwanath",
+      "lastActive": 1772482902504
     }
   }
 }
