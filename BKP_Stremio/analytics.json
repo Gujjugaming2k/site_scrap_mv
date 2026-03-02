@@ -1,5 +1,5 @@
 {
-  "totalViews": 32360,
+  "totalViews": 32361,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6420,14 +6420,6 @@
     "2409:40d2:3000:4e2b:e320:2a0a:5544:e7fb"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33244668",
-      "title": "tt33244668",
-      "timestamp": "2026-02-09T17:09:09.356Z",
-      "ip": "2409:40e6:1a:6d31:7069:d6ff:fe18:d8eb",
-      "username": "n a b a."
-    },
     {
       "type": "series",
       "id": "tt9059350:2:1",
@@ -86419,6 +86411,14 @@
       "timestamp": "2026-03-02T09:27:24.162Z",
       "ip": "103.87.57.119",
       "username": "kunal_baroliya"
+    },
+    {
+      "type": "series",
+      "id": "tt37522729:1:5",
+      "title": "tt37522729:1:5",
+      "timestamp": "2026-03-02T09:31:16.737Z",
+      "ip": "103.87.57.119",
+      "username": "kunal_baroliya"
     }
   ],
   "activeNow": {
@@ -88356,10 +88356,10 @@
     },
     "103.87.57.119": {
       "type": "series",
-      "id": "tt0937403:1:1",
-      "title": "tt0937403:1:1",
+      "id": "tt37522729:1:5",
+      "title": "tt37522729:1:5",
       "username": "kunal_baroliya",
-      "lastActive": 1772443644162
+      "lastActive": 1772443876737
     },
     "49.47.152.174": {
       "type": "movie",
