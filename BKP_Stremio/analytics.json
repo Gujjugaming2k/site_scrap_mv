@@ -1,5 +1,5 @@
 {
-  "totalViews": 32263,
+  "totalViews": 32271,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6398,73 +6398,11 @@
     "2409:40e2:20ae:afac:a4cd:7f51:4a36:f54c",
     "210.10.3.15",
     "2409:40e1:41d:b660:8000::",
-    "2409:40f0:120:add7:2c13:55ff:fe35:5151"
+    "2409:40f0:120:add7:2c13:55ff:fe35:5151",
+    "2409:40f0:1010:70c3:98a5:8aff:fead:de20",
+    "152.59.143.172"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt26443597",
-      "title": "tt26443597",
-      "timestamp": "2026-02-09T13:18:46.966Z",
-      "ip": "152.59.150.190",
-      "username": "n a b a."
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-02-09T13:19:00.042Z",
-      "ip": "152.59.150.190",
-      "username": "n a b a."
-    },
-    {
-      "type": "series",
-      "id": "tt2442560:1:2",
-      "title": "tt2442560:1:2",
-      "timestamp": "2026-02-09T13:19:48.838Z",
-      "ip": "2a09:bac5:3c94:25cd::3c4:19",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt2442560:1:3",
-      "title": "tt2442560:1:3",
-      "timestamp": "2026-02-09T13:20:04.292Z",
-      "ip": "2a09:bac5:3c94:25cd::3c4:19",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt2442560:1:2",
-      "title": "tt2442560:1:2",
-      "timestamp": "2026-02-09T13:20:18.228Z",
-      "ip": "2a09:bac5:3c94:25cd::3c4:19",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt2442560:1:3",
-      "title": "tt2442560:1:3",
-      "timestamp": "2026-02-09T13:21:00.302Z",
-      "ip": "2a09:bac5:3c94:25cd::3c4:19",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt2442560:1:3",
-      "title": "tt2442560:1:3",
-      "timestamp": "2026-02-09T13:22:00.085Z",
-      "ip": "2a09:bac5:3c94:25cd::3c4:19",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt2442560:1:4",
-      "title": "tt2442560:1:4",
-      "timestamp": "2026-02-09T13:22:21.889Z",
-      "ip": "2a09:bac5:3c94:25cd::3c4:19",
-      "username": "belimhuzaifa"
-    },
     {
       "type": "movie",
       "id": "tt0099785",
@@ -86400,6 +86338,70 @@
       "timestamp": "2026-03-02T04:01:05.454Z",
       "ip": "2409:40e1:41d:b660:8000::",
       "username": "i_am_cheetah"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-03-02T04:05:09.736Z",
+      "ip": "2409:40e1:41d:b660:8000::",
+      "username": "i_am_cheetah"
+    },
+    {
+      "type": "movie",
+      "id": "tt0477348",
+      "title": "No Country for Old Men",
+      "timestamp": "2026-03-02T04:07:03.335Z",
+      "ip": "2409:40e2:20ae:afac:a4cd:7f51:4a36:f54c",
+      "username": "adr7000"
+    },
+    {
+      "type": "movie",
+      "id": "tt7645780",
+      "title": "tt7645780",
+      "timestamp": "2026-03-02T04:07:18.965Z",
+      "ip": "2409:40e2:20ae:afac:a4cd:7f51:4a36:f54c",
+      "username": "adr7000"
+    },
+    {
+      "type": "series",
+      "id": "tt8801670:1:1",
+      "title": "tt8801670:1:1",
+      "timestamp": "2026-03-02T04:07:38.096Z",
+      "ip": "2409:40e2:20ae:afac:a4cd:7f51:4a36:f54c",
+      "username": "adr7000"
+    },
+    {
+      "type": "series",
+      "id": "tt8801670:1:1",
+      "title": "tt8801670:1:1",
+      "timestamp": "2026-03-02T04:08:20.348Z",
+      "ip": "2409:40e2:20ae:afac:a4cd:7f51:4a36:f54c",
+      "username": "adr7000"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:1:2",
+      "title": "tt17220216:1:2",
+      "timestamp": "2026-03-02T04:08:38.161Z",
+      "ip": "2405:201:6820:a83c:c980:926c:4df9:7779",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt13875494:3:10",
+      "title": "tt13875494:3:10",
+      "timestamp": "2026-03-02T04:08:49.494Z",
+      "ip": "2409:40f0:1010:70c3:98a5:8aff:fead:de20",
+      "username": "rick grimes"
+    },
+    {
+      "type": "movie",
+      "id": "tt5323662",
+      "title": "A Silent Voice: The Movie",
+      "timestamp": "2026-03-02T04:10:33.861Z",
+      "ip": "152.59.143.172",
+      "username": "askchm"
     }
   ],
   "activeNow": {
@@ -90892,10 +90894,10 @@
     },
     "2405:201:6820:a83c:c980:926c:4df9:7779": {
       "type": "series",
-      "id": "tt17220216:1:1",
-      "title": "tt17220216:1:1",
+      "id": "tt17220216:1:2",
+      "title": "tt17220216:1:2",
       "username": "demon18319",
-      "lastActive": 1772421296663
+      "lastActive": 1772424518161
     },
     "2409:40e4:10a0:aca8:f9d0:9324:b459:994": {
       "type": "movie",
@@ -90905,11 +90907,11 @@
       "lastActive": 1772421699689
     },
     "2409:40e2:20ae:afac:a4cd:7f51:4a36:f54c": {
-      "type": "movie",
-      "id": "tt0477348",
-      "title": "No Country for Old Men",
+      "type": "series",
+      "id": "tt8801670:1:1",
+      "title": "tt8801670:1:1",
       "username": "adr7000",
-      "lastActive": 1772422998577
+      "lastActive": 1772424500348
     },
     "210.10.3.15": {
       "type": "series",
@@ -90919,11 +90921,11 @@
       "lastActive": 1772423843900
     },
     "2409:40e1:41d:b660:8000::": {
-      "type": "series",
-      "id": "tt9813792:4:10",
-      "title": "tt9813792:4:10",
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "i_am_cheetah",
-      "lastActive": 1772424065454
+      "lastActive": 1772424309736
     },
     "2409:40f0:120:add7:2c13:55ff:fe35:5151": {
       "type": "movie",
@@ -90931,6 +90933,20 @@
       "title": "tt34159694",
       "username": "saisrinivas",
       "lastActive": 1772423975881
+    },
+    "2409:40f0:1010:70c3:98a5:8aff:fead:de20": {
+      "type": "series",
+      "id": "tt13875494:3:10",
+      "title": "tt13875494:3:10",
+      "username": "rick grimes",
+      "lastActive": 1772424529494
+    },
+    "152.59.143.172": {
+      "type": "movie",
+      "id": "tt5323662",
+      "title": "A Silent Voice: The Movie",
+      "username": "askchm",
+      "lastActive": 1772424633861
     }
   }
 }
