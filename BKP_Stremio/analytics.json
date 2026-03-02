@@ -1,5 +1,5 @@
 {
-  "totalViews": 32438,
+  "totalViews": 32443,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6431,49 +6431,10 @@
     "2401:4900:3c7f:75c9:65a8:6425:ee77:6f4e",
     "115.98.233.47",
     "2a02:9b0:106:4496:d40e:c15a:5461:dd38",
-    "2409:40e1:518:cc8c:8000::"
+    "2409:40e1:518:cc8c:8000::",
+    "103.162.159.89"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33046197",
-      "title": "tt33046197",
-      "timestamp": "2026-02-10T06:06:50.479Z",
-      "ip": "117.223.90.227",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt33046197",
-      "title": "tt33046197",
-      "timestamp": "2026-02-10T06:08:26.907Z",
-      "ip": "117.223.90.227",
-      "username": "zealousninja"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:8",
-      "title": "Stranger Things",
-      "timestamp": "2026-02-10T06:10:25.142Z",
-      "ip": "2409:40d4:402e:8ba2:55b8:9e6:661f:8982",
-      "username": "kdbotz"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:3",
-      "title": "Stranger Things",
-      "timestamp": "2026-02-10T06:11:06.593Z",
-      "ip": "2409:40d4:402e:8ba2:55b8:9e6:661f:8982",
-      "username": "kdbotz"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:3:18",
-      "title": "Lost",
-      "timestamp": "2026-02-10T06:31:38.454Z",
-      "ip": "116.68.75.147",
-      "username": "aravindsivan"
-    },
     {
       "type": "series",
       "id": "tt0411008:3:18",
@@ -86433,6 +86394,46 @@
       "timestamp": "2026-03-02T13:02:56.201Z",
       "ip": "2409:40e1:518:cc8c:8000::",
       "username": "i_am_cheetah"
+    },
+    {
+      "type": "movie",
+      "id": "tt0460740",
+      "title": "tt0460740",
+      "timestamp": "2026-03-02T13:07:40.310Z",
+      "ip": "103.162.159.89",
+      "username": "opuser75"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-03-02T13:13:19.946Z",
+      "ip": "2409:40c1:314d:d8c6:ec59:91ff:fe1e:288c",
+      "username": "tips9694"
+    },
+    {
+      "type": "movie",
+      "id": "tt31227572",
+      "title": "tt31227572",
+      "timestamp": "2026-03-02T13:13:50.161Z",
+      "ip": "2409:40c1:314d:d8c6:ec59:91ff:fe1e:288c",
+      "username": "tips9694"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-03-02T13:17:06.339Z",
+      "ip": "2409:40e1:518:cc8c:8000::",
+      "username": "i_am_cheetah"
+    },
+    {
+      "type": "movie",
+      "id": "tt1427017",
+      "title": "tt1427017",
+      "timestamp": "2026-03-02T13:19:21.103Z",
+      "ip": "103.46.200.93",
+      "username": "katdenningssss"
     }
   ],
   "activeNow": {
@@ -90897,10 +90898,10 @@
     },
     "103.46.200.93": {
       "type": "movie",
-      "id": "tt0194926",
-      "title": "tt0194926",
+      "id": "tt1427017",
+      "title": "tt1427017",
       "username": "katdenningssss",
-      "lastActive": 1772456148326
+      "lastActive": 1772457561103
     },
     "2405:201:2022:b81c:bc1a:b0b9:d1e1:3576": {
       "type": "series",
@@ -91065,10 +91066,10 @@
     },
     "2409:40c1:314d:d8c6:ec59:91ff:fe1e:288c": {
       "type": "movie",
-      "id": "tt26548127",
-      "title": "tt26548127",
+      "id": "tt31227572",
+      "title": "tt31227572",
       "username": "tips9694",
-      "lastActive": 1772435163790
+      "lastActive": 1772457230161
     },
     "2402:3a80:4518:9c5e:8cd3:18ff:fea8:5dc8": {
       "type": "movie",
@@ -91205,10 +91206,17 @@
     },
     "2409:40e1:518:cc8c:8000::": {
       "type": "movie",
-      "id": "tt6514010",
-      "title": "tt6514010",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
       "username": "i_am_cheetah",
-      "lastActive": 1772456576201
+      "lastActive": 1772457426339
+    },
+    "103.162.159.89": {
+      "type": "movie",
+      "id": "tt0460740",
+      "title": "tt0460740",
+      "username": "opuser75",
+      "lastActive": 1772456860310
     }
   }
 }
