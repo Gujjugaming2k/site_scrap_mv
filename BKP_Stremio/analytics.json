@@ -1,5 +1,5 @@
 {
-  "totalViews": 32596,
+  "totalViews": 32598,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6453,22 +6453,6 @@
     "122.161.242.173"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-02-10T15:17:05.738Z",
-      "ip": "2409:40f0:167:a614:e0cf:81ff:feba:7aec",
-      "username": "rick grimes"
-    },
-    {
-      "type": "series",
-      "id": "tt39460434:1:6",
-      "title": "tt39460434:1:6",
-      "timestamp": "2026-02-10T15:22:22.372Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "movie",
       "id": "tt27136041",
@@ -86452,6 +86436,22 @@
       "timestamp": "2026-03-02T22:26:22.705Z",
       "ip": "109.76.53.79",
       "username": "sid_g"
+    },
+    {
+      "type": "series",
+      "id": "tt39227709:1:1",
+      "title": "tt39227709:1:1",
+      "timestamp": "2026-03-02T22:27:14.360Z",
+      "ip": "109.76.53.79",
+      "username": "sid_g"
+    },
+    {
+      "type": "series",
+      "id": "tt39227709:1:1",
+      "title": "tt39227709:1:1",
+      "timestamp": "2026-03-02T22:28:20.178Z",
+      "ip": "109.76.53.79",
+      "username": "sid_g"
     }
   ],
   "activeNow": {
@@ -91188,11 +91188,11 @@
       "lastActive": 1772452314787
     },
     "109.76.53.79": {
-      "type": "movie",
-      "id": "tt2126355",
-      "title": "San Andreas",
+      "type": "series",
+      "id": "tt39227709:1:1",
+      "title": "tt39227709:1:1",
       "username": "sid_g",
-      "lastActive": 1772490382705
+      "lastActive": 1772490500178
     },
     "2405:201:2033:841:75ad:568a:6dc5:83ac": {
       "type": "movie",
