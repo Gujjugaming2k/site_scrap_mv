@@ -1,5 +1,5 @@
 {
-  "totalViews": 32232,
+  "totalViews": 32235,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6389,33 +6389,11 @@
     "2409:40f3:20d8:fb4:5441:729:b6a8:43fc",
     "2402:a00:182:1828:d0d2:5e14:7b02:ab1f",
     "103.99.196.94",
-    "103.46.200.93"
+    "103.46.200.93",
+    "2405:201:2022:b81c:bc1a:b0b9:d1e1:3576",
+    "106.202.58.19"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt26443597",
-      "title": "tt26443597",
-      "timestamp": "2026-02-09T12:46:11.203Z",
-      "ip": "152.59.150.190",
-      "username": "n a b a."
-    },
-    {
-      "type": "movie",
-      "id": "tt7060344",
-      "title": "tt7060344",
-      "timestamp": "2026-02-09T12:53:54.776Z",
-      "ip": "152.59.150.190",
-      "username": "n a b a."
-    },
-    {
-      "type": "movie",
-      "id": "tt10886166",
-      "title": "365 Days",
-      "timestamp": "2026-02-09T12:56:09.213Z",
-      "ip": "2401:4900:3e38:eecf:dcee:9732:fab4:4784",
-      "username": "skssunilbh"
-    },
     {
       "type": "movie",
       "id": "tt10886166",
@@ -86391,6 +86369,30 @@
       "timestamp": "2026-03-02T02:17:31.948Z",
       "ip": "103.24.85.9",
       "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt6611916:1:1",
+      "title": "tt6611916:1:1",
+      "timestamp": "2026-03-02T02:43:44.564Z",
+      "ip": "2405:201:2022:b81c:bc1a:b0b9:d1e1:3576",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt39631179",
+      "title": "tt39631179",
+      "timestamp": "2026-03-02T02:46:14.421Z",
+      "ip": "106.202.58.19",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt39631179",
+      "title": "tt39631179",
+      "timestamp": "2026-03-02T02:46:45.742Z",
+      "ip": "106.202.58.19",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -90859,6 +90861,20 @@
       "title": "tt9100018",
       "username": "katdenningssss",
       "lastActive": 1772413684527
+    },
+    "2405:201:2022:b81c:bc1a:b0b9:d1e1:3576": {
+      "type": "series",
+      "id": "tt6611916:1:1",
+      "title": "tt6611916:1:1",
+      "username": "zealousninja",
+      "lastActive": 1772419424564
+    },
+    "106.202.58.19": {
+      "type": "movie",
+      "id": "tt39631179",
+      "title": "tt39631179",
+      "username": "b1jju",
+      "lastActive": 1772419605742
     }
   }
 }
