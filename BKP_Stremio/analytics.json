@@ -1,5 +1,5 @@
 {
-  "totalViews": 32521,
+  "totalViews": 32524,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6444,33 +6444,10 @@
     "2409:40e2:20be:bbf4:a4cd:7f51:4a36:f54c",
     "2405:201:6820:a83c:9c16:67f7:313e:5dd7",
     "2409:40c1:10da:1869:6579:a920:d231:78c3",
-    "2409:40e5:11b7:6e0c:65a8:6425:ee77:6f4e"
+    "2409:40e5:11b7:6e0c:65a8:6425:ee77:6f4e",
+    "152.59.35.152"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0325041",
-      "title": "tt0325041",
-      "timestamp": "2026-02-10T12:03:14.491Z",
-      "ip": "81.17.122.234",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt0325041",
-      "title": "tt0325041",
-      "timestamp": "2026-02-10T12:07:29.290Z",
-      "ip": "81.17.122.234",
-      "username": "b1jju"
-    },
-    {
-      "type": "series",
-      "id": "tt30003786:4:9",
-      "title": "tt30003786:4:9",
-      "timestamp": "2026-02-10T12:08:52.953Z",
-      "ip": "103.170.53.142",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt30003786:4:9",
@@ -86446,6 +86423,30 @@
       "timestamp": "2026-03-02T16:26:57.678Z",
       "ip": "103.92.43.44",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30955673:2:1",
+      "title": "tt30955673:2:1",
+      "timestamp": "2026-03-02T16:36:18.719Z",
+      "ip": "43.231.236.89",
+      "username": "claw_of_beliar"
+    },
+    {
+      "type": "series",
+      "id": "tt30955673:2:1",
+      "title": "tt30955673:2:1",
+      "timestamp": "2026-03-02T16:37:04.665Z",
+      "ip": "43.231.236.89",
+      "username": "claw_of_beliar"
+    },
+    {
+      "type": "series",
+      "id": "tt36812904:1:1",
+      "title": "tt36812904:1:1",
+      "timestamp": "2026-03-02T16:39:32.329Z",
+      "ip": "152.59.35.152",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -91320,6 +91321,20 @@
       "title": "Transformers: Dark of the Moon",
       "username": "adshoyi",
       "lastActive": 1772468653802
+    },
+    "43.231.236.89": {
+      "type": "series",
+      "id": "tt30955673:2:1",
+      "title": "tt30955673:2:1",
+      "username": "claw_of_beliar",
+      "lastActive": 1772469424665
+    },
+    "152.59.35.152": {
+      "type": "series",
+      "id": "tt36812904:1:1",
+      "title": "tt36812904:1:1",
+      "username": "zealousninja",
+      "lastActive": 1772469572329
     }
   }
 }
