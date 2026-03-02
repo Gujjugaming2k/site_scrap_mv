@@ -1,5 +1,5 @@
 {
-  "totalViews": 32247,
+  "totalViews": 32248,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6393,17 +6393,10 @@
     "2405:201:2022:b81c:bc1a:b0b9:d1e1:3576",
     "106.202.58.19",
     "2409:40e4:1081:380b:34ac:e3ab:6ad3:d577",
-    "2405:201:6820:a83c:c980:926c:4df9:7779"
+    "2405:201:6820:a83c:c980:926c:4df9:7779",
+    "2409:40e4:10a0:aca8:f9d0:9324:b459:994"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2442560:1:3",
-      "title": "tt2442560:1:3",
-      "timestamp": "2026-02-09T13:10:56.462Z",
-      "ip": "2a09:bac5:3c94:25cd::3c4:19",
-      "username": "belimhuzaifa"
-    },
     {
       "type": "movie",
       "id": "tt0867465",
@@ -86395,6 +86388,14 @@
       "timestamp": "2026-03-02T03:14:56.663Z",
       "ip": "2405:201:6820:a83c:c980:926c:4df9:7779",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt5323662",
+      "title": "A Silent Voice: The Movie",
+      "timestamp": "2026-03-02T03:21:39.689Z",
+      "ip": "2409:40e4:10a0:aca8:f9d0:9324:b459:994",
+      "username": "askchm"
     }
   ],
   "activeNow": {
@@ -90891,6 +90892,13 @@
       "title": "tt17220216:1:1",
       "username": "demon18319",
       "lastActive": 1772421296663
+    },
+    "2409:40e4:10a0:aca8:f9d0:9324:b459:994": {
+      "type": "movie",
+      "id": "tt5323662",
+      "title": "A Silent Voice: The Movie",
+      "username": "askchm",
+      "lastActive": 1772421699689
     }
   }
 }
