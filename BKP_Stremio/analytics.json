@@ -1,5 +1,5 @@
 {
-  "totalViews": 32361,
+  "totalViews": 32368,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6420,62 +6420,6 @@
     "2409:40d2:3000:4e2b:e320:2a0a:5544:e7fb"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt9059350:2:1",
-      "title": "tt9059350:2:1",
-      "timestamp": "2026-02-09T17:15:18.495Z",
-      "ip": "223.236.85.216",
-      "username": "user_9b"
-    },
-    {
-      "type": "movie",
-      "id": "tt1934231",
-      "title": "tt1934231",
-      "timestamp": "2026-02-09T17:26:01.489Z",
-      "ip": "2409:40e6:1a:6d31:7069:d6ff:fe18:d8eb",
-      "username": "n a b a."
-    },
-    {
-      "type": "movie",
-      "id": "tt0867465",
-      "title": "tt0867465",
-      "timestamp": "2026-02-09T17:56:39.860Z",
-      "ip": "2001:4490:4e65:6f36:d361:4826:cfba:b06f",
-      "username": "adiyogivishwanath"
-    },
-    {
-      "type": "movie",
-      "id": "tt31434030",
-      "title": "Dracula",
-      "timestamp": "2026-02-09T18:20:31.950Z",
-      "ip": "45.118.158.239",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt12300742",
-      "title": "Bugonia",
-      "timestamp": "2026-02-09T18:21:08.206Z",
-      "ip": "45.118.158.239",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt12300742",
-      "title": "Bugonia",
-      "timestamp": "2026-02-09T18:21:47.266Z",
-      "ip": "45.118.158.239",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt16311594",
-      "title": "F1",
-      "timestamp": "2026-02-09T18:21:59.562Z",
-      "ip": "45.118.158.239",
-      "username": "gaendaswami"
-    },
     {
       "type": "movie",
       "id": "tt32916440",
@@ -86419,6 +86363,62 @@
       "timestamp": "2026-03-02T09:31:16.737Z",
       "ip": "103.87.57.119",
       "username": "kunal_baroliya"
+    },
+    {
+      "type": "series",
+      "id": "tt0213363:1:1",
+      "title": "Oggy and the Cockroaches",
+      "timestamp": "2026-03-02T09:33:35.902Z",
+      "ip": "103.87.57.119",
+      "username": "kunal_baroliya"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "timestamp": "2026-03-02T09:33:36.806Z",
+      "ip": "103.170.53.255",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "timestamp": "2026-03-02T09:33:43.745Z",
+      "ip": "103.170.53.255",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt0213363:1:2",
+      "title": "Oggy and the Cockroaches",
+      "timestamp": "2026-03-02T09:34:36.961Z",
+      "ip": "103.87.57.119",
+      "username": "kunal_baroliya"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "timestamp": "2026-03-02T09:35:48.533Z",
+      "ip": "103.170.53.255",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "timestamp": "2026-03-02T09:35:53.697Z",
+      "ip": "103.170.53.255",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt11755260:1:1",
+      "title": "tt11755260:1:1",
+      "timestamp": "2026-03-02T09:38:23.138Z",
+      "ip": "66.102.121.253",
+      "username": "hvre2"
     }
   ],
   "activeNow": {
@@ -88356,10 +88356,10 @@
     },
     "103.87.57.119": {
       "type": "series",
-      "id": "tt37522729:1:5",
-      "title": "tt37522729:1:5",
+      "id": "tt0213363:1:2",
+      "title": "Oggy and the Cockroaches",
       "username": "kunal_baroliya",
-      "lastActive": 1772443876737
+      "lastActive": 1772444076961
     },
     "49.47.152.174": {
       "type": "movie",
@@ -89734,11 +89734,11 @@
       "lastActive": 1772223358637
     },
     "66.102.121.253": {
-      "type": "movie",
-      "id": "tt3566834",
-      "title": "A Minecraft Movie",
+      "type": "series",
+      "id": "tt11755260:1:1",
+      "title": "tt11755260:1:1",
       "username": "hvre2",
-      "lastActive": 1772365820751
+      "lastActive": 1772444303138
     },
     "157.49.121.148": {
       "type": "movie",
@@ -91047,7 +91047,7 @@
       "id": "tt30003786:4:11",
       "title": "tt30003786:4:11",
       "username": "gaendaswami",
-      "lastActive": 1772435315735
+      "lastActive": 1772444153697
     },
     "2409:40c1:314d:d8c6:ec59:91ff:fe1e:288c": {
       "type": "movie",
