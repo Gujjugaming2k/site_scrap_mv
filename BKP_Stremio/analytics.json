@@ -1,5 +1,5 @@
 {
-  "totalViews": 32572,
+  "totalViews": 32573,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6451,14 +6451,6 @@
     "2401:4900:5555:3683:f0ef:584f:a7f0:a5bb"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt21066182:1:2",
-      "title": "tt21066182:1:2",
-      "timestamp": "2026-02-10T14:12:35.146Z",
-      "ip": "2405:201:5c14:2a70:a9b7:5d13:8350:292",
-      "username": "extremeyat"
-    },
     {
       "type": "series",
       "id": "tt13833978:1:1",
@@ -86450,6 +86442,14 @@
       "timestamp": "2026-03-02T18:57:00.383Z",
       "ip": "2402:a00:182:1828:d0d2:5e14:7b02:ab1f",
       "username": "asj90"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:1:1",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-02T19:14:09.895Z",
+      "ip": "2409:40d4:2d:bb46:a063:16ff:fec3:846",
+      "username": "vk986"
     }
   ],
   "activeNow": {
@@ -91025,11 +91025,11 @@
       "lastActive": 1772468091956
     },
     "2409:40d4:2d:bb46:a063:16ff:fec3:846": {
-      "type": "movie",
-      "id": "tt32832266",
-      "title": "tt32832266",
+      "type": "series",
+      "id": "tt13918776:1:1",
+      "title": "The Night Agent",
       "username": "vk986",
-      "lastActive": 1772464715599
+      "lastActive": 1772478849895
     },
     "2409:40d4:2d:bb46:a063:16ff:fec3:846,51.89.197.91": {
       "type": "movie",
