@@ -1,5 +1,5 @@
 {
-  "totalViews": 32279,
+  "totalViews": 32281,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6402,25 +6402,11 @@
     "2409:40f0:1010:70c3:98a5:8aff:fead:de20",
     "152.59.143.172",
     "2405:201:6820:a83c:7428:5c1a:b766:f57e",
-    "2001:4490:444d:77f8:f4f6:8f8f:8024:ee21"
+    "2001:4490:444d:77f8:f4f6:8f8f:8024:ee21",
+    "2409:4090:1001:4008:e0f4:d393:6211:f5ce",
+    "2409:40e6:252:e7f6:9496:ddff:feca:12bb"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33307516",
-      "title": "tt33307516",
-      "timestamp": "2026-02-09T13:54:09.309Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt2442560:1:1",
-      "title": "tt2442560:1:1",
-      "timestamp": "2026-02-09T13:59:31.358Z",
-      "ip": "2409:40c1:414e:47e3:8000::",
-      "username": "belimhuzaifa"
-    },
     {
       "type": "movie",
       "id": "tt32916440",
@@ -86404,6 +86390,22 @@
       "timestamp": "2026-03-02T04:58:38.691Z",
       "ip": "182.69.180.143",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt31514146",
+      "title": "tt31514146",
+      "timestamp": "2026-03-02T05:26:29.242Z",
+      "ip": "2409:4090:1001:4008:e0f4:d393:6211:f5ce",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt5311514",
+      "title": "Your Name.",
+      "timestamp": "2026-03-02T05:29:33.547Z",
+      "ip": "2409:40e6:252:e7f6:9496:ddff:feca:12bb",
+      "username": "nabakun24"
     }
   ],
   "activeNow": {
@@ -90963,6 +90965,20 @@
       "title": "tt33044444:1:1",
       "username": "zealousninja",
       "lastActive": 1772426268890
+    },
+    "2409:4090:1001:4008:e0f4:d393:6211:f5ce": {
+      "type": "movie",
+      "id": "tt31514146",
+      "title": "tt31514146",
+      "username": "gendaswammy",
+      "lastActive": 1772429189242
+    },
+    "2409:40e6:252:e7f6:9496:ddff:feca:12bb": {
+      "type": "movie",
+      "id": "tt5311514",
+      "title": "Your Name.",
+      "username": "nabakun24",
+      "lastActive": 1772429373547
     }
   }
 }
