@@ -1,5 +1,5 @@
 {
-  "totalViews": 32271,
+  "totalViews": 32277,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6400,57 +6400,11 @@
     "2409:40e1:41d:b660:8000::",
     "2409:40f0:120:add7:2c13:55ff:fe35:5151",
     "2409:40f0:1010:70c3:98a5:8aff:fead:de20",
-    "152.59.143.172"
+    "152.59.143.172",
+    "2405:201:6820:a83c:7428:5c1a:b766:f57e",
+    "2001:4490:444d:77f8:f4f6:8f8f:8024:ee21"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0099785",
-      "title": "Home Alone",
-      "timestamp": "2026-02-09T13:30:01.361Z",
-      "ip": "152.59.150.190",
-      "username": "n a b a."
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-09T13:31:30.787Z",
-      "ip": "2402:a00:182:5b40:b0ad:3c4a:c134:f77d",
-      "username": "asj90"
-    },
-    {
-      "type": "movie",
-      "id": "tt0867465",
-      "title": "tt0867465",
-      "timestamp": "2026-02-09T13:32:29.381Z",
-      "ip": "2001:4490:4e65:b24a:3014:1080:265e:9c79",
-      "username": "adiyogivishwanath"
-    },
-    {
-      "type": "movie",
-      "id": "tt0867465",
-      "title": "tt0867465",
-      "timestamp": "2026-02-09T13:33:35.753Z",
-      "ip": "2001:4490:4e65:b24a:3014:1080:265e:9c79",
-      "username": "adiyogivishwanath"
-    },
-    {
-      "type": "movie",
-      "id": "tt0867465",
-      "title": "tt0867465",
-      "timestamp": "2026-02-09T13:34:27.152Z",
-      "ip": "2001:4490:4e65:b24a:3014:1080:265e:9c79",
-      "username": "adiyogivishwanath"
-    },
-    {
-      "type": "movie",
-      "id": "tt0867465",
-      "title": "tt0867465",
-      "timestamp": "2026-02-09T13:40:45.694Z",
-      "ip": "2001:4490:4e65:b24a:3014:1080:265e:9c79",
-      "username": "adiyogivishwanath"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -86402,6 +86356,54 @@
       "timestamp": "2026-03-02T04:10:33.861Z",
       "ip": "152.59.143.172",
       "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:1:2",
+      "title": "tt17220216:1:2",
+      "timestamp": "2026-03-02T04:35:36.826Z",
+      "ip": "2405:201:6820:a83c:7428:5c1a:b766:f57e",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt33044444:1:1",
+      "title": "tt33044444:1:1",
+      "timestamp": "2026-03-02T04:37:48.890Z",
+      "ip": "2001:4490:444d:77f8:f4f6:8f8f:8024:ee21",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt26737616:1:1",
+      "title": "tt26737616:1:1",
+      "timestamp": "2026-03-02T04:42:00.218Z",
+      "ip": "182.69.180.143",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt26737616:1:3",
+      "title": "tt26737616:1:3",
+      "timestamp": "2026-03-02T04:46:51.775Z",
+      "ip": "182.69.180.143",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt26737616:1:3",
+      "title": "tt26737616:1:3",
+      "timestamp": "2026-03-02T04:47:34.997Z",
+      "ip": "182.69.180.143",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt26737616:1:3",
+      "title": "tt26737616:1:3",
+      "timestamp": "2026-03-02T04:48:03.539Z",
+      "ip": "182.69.180.143",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -87617,11 +87619,11 @@
       "lastActive": 1771860861746
     },
     "182.69.180.143": {
-      "type": "movie",
-      "id": "tt28494851",
-      "title": "tt28494851",
+      "type": "series",
+      "id": "tt26737616:1:3",
+      "title": "tt26737616:1:3",
       "username": "dillon_ka_shooter",
-      "lastActive": 1772391489894
+      "lastActive": 1772426883539
     },
     "2409:40e6:c:1670:384c:25ff:febd:c0cb": {
       "type": "movie",
@@ -90947,6 +90949,20 @@
       "title": "A Silent Voice: The Movie",
       "username": "askchm",
       "lastActive": 1772424633861
+    },
+    "2405:201:6820:a83c:7428:5c1a:b766:f57e": {
+      "type": "series",
+      "id": "tt17220216:1:2",
+      "title": "tt17220216:1:2",
+      "username": "demon18319",
+      "lastActive": 1772426136826
+    },
+    "2001:4490:444d:77f8:f4f6:8f8f:8024:ee21": {
+      "type": "series",
+      "id": "tt33044444:1:1",
+      "title": "tt33044444:1:1",
+      "username": "zealousninja",
+      "lastActive": 1772426268890
     }
   }
 }
