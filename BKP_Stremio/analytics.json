@@ -1,5 +1,5 @@
 {
-  "totalViews": 32368,
+  "totalViews": 32375,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6417,65 +6417,11 @@
     "2405:201:a000:c843:245b:7f7f:4060:b537",
     "2402:8100:2e19:5632:a0fa:9359:9ec6:754",
     "2a02:6ea0:d802:6233::28",
-    "2409:40d2:3000:4e2b:e320:2a0a:5544:e7fb"
+    "2409:40d2:3000:4e2b:e320:2a0a:5544:e7fb",
+    "2401:4900:1c0b:1e04:c5e:e630:afc9:e191",
+    "2a02:9b0:106:4496:9904:b343:d4d9:51c6"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
-      "timestamp": "2026-02-09T18:27:13.494Z",
-      "ip": "45.118.158.239",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt1713476",
-      "title": "tt1713476",
-      "timestamp": "2026-02-09T18:27:29.024Z",
-      "ip": "2405:201:900f:a92b:d52c:2217:44a2:fe39",
-      "username": "theonlyfreak"
-    },
-    {
-      "type": "series",
-      "id": "tt26915338:1:1",
-      "title": "tt26915338:1:1",
-      "timestamp": "2026-02-09T18:28:49.631Z",
-      "ip": "45.118.158.239",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt26915338:1:1",
-      "title": "tt26915338:1:1",
-      "timestamp": "2026-02-09T18:29:06.773Z",
-      "ip": "45.118.158.239",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt16867200",
-      "title": "tt16867200",
-      "timestamp": "2026-02-09T19:40:16.207Z",
-      "ip": "2409:40e4:8:a9e:24ce:d2ff:fe25:309c",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "series",
-      "id": "tt30003786:4:8",
-      "title": "tt30003786:4:8",
-      "timestamp": "2026-02-09T19:40:28.495Z",
-      "ip": "2409:40e4:8:a9e:24ce:d2ff:fe25:309c",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "movie",
-      "id": "tt0120737",
-      "title": "The Lord of the Rings: The Fellowship of the Ring",
-      "timestamp": "2026-02-09T19:40:41.104Z",
-      "ip": "2409:40d4:f3:2b18:cca1:60ff:fe25:33de",
-      "username": "golu_vk"
-    },
     {
       "type": "movie",
       "id": "tt8291224",
@@ -86419,6 +86365,62 @@
       "timestamp": "2026-03-02T09:38:23.138Z",
       "ip": "66.102.121.253",
       "username": "hvre2"
+    },
+    {
+      "type": "series",
+      "id": "tt26737616:1:3",
+      "title": "tt26737616:1:3",
+      "timestamp": "2026-03-02T10:03:53.722Z",
+      "ip": "2401:4900:1c0b:1e04:c5e:e630:afc9:e191",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt26737616:1:3",
+      "title": "tt26737616:1:3",
+      "timestamp": "2026-03-02T10:07:10.038Z",
+      "ip": "2401:4900:1c0b:1e04:c5e:e630:afc9:e191",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "timestamp": "2026-03-02T10:08:53.654Z",
+      "ip": "2409:40d4:2d:bb46:a063:16ff:fec3:846",
+      "username": "vk986"
+    },
+    {
+      "type": "series",
+      "id": "tmdb:195646:1:1",
+      "title": "tmdb:195646:1:1",
+      "timestamp": "2026-03-02T10:12:10.666Z",
+      "ip": "2a02:9b0:106:4496:9904:b343:d4d9:51c6",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tt12979628:1:1",
+      "title": "tt12979628:1:1",
+      "timestamp": "2026-03-02T10:12:48.596Z",
+      "ip": "2a02:9b0:106:4496:9904:b343:d4d9:51c6",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tt12979628:1:1",
+      "title": "tt12979628:1:1",
+      "timestamp": "2026-03-02T10:13:04.169Z",
+      "ip": "2a02:9b0:106:4496:9904:b343:d4d9:51c6",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:5:5",
+      "title": "Lost",
+      "timestamp": "2026-03-02T10:15:44.633Z",
+      "ip": "116.68.77.63",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -90309,10 +90311,10 @@
     },
     "116.68.77.63": {
       "type": "series",
-      "id": "tt0411008:5:4",
+      "id": "tt0411008:5:5",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1772390317241
+      "lastActive": 1772446544633
     },
     "2409:40e4:1156:e4c6:40ab:f3ff:fece:13fa": {
       "type": "movie",
@@ -90998,7 +91000,7 @@
       "id": "tt31050594",
       "title": "tt31050594",
       "username": "vk986",
-      "lastActive": 1772442372407
+      "lastActive": 1772446133654
     },
     "2409:40d4:2d:bb46:a063:16ff:fec3:846,51.89.197.91": {
       "type": "movie",
@@ -91090,6 +91092,20 @@
       "title": "Sinners",
       "username": "saurabhkaperwan",
       "lastActive": 1772441969352
+    },
+    "2401:4900:1c0b:1e04:c5e:e630:afc9:e191": {
+      "type": "series",
+      "id": "tt26737616:1:3",
+      "title": "tt26737616:1:3",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1772446030038
+    },
+    "2a02:9b0:106:4496:9904:b343:d4d9:51c6": {
+      "type": "series",
+      "id": "tt12979628:1:1",
+      "title": "tt12979628:1:1",
+      "username": "hoosa500",
+      "lastActive": 1772446384169
     }
   }
 }
