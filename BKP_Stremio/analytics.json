@@ -1,5 +1,5 @@
 {
-  "totalViews": 32424,
+  "totalViews": 32427,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6429,30 +6429,6 @@
     "109.76.53.79"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt16311594",
-      "title": "F1",
-      "timestamp": "2026-02-10T05:07:00.969Z",
-      "ip": "2409:40d2:304b:1186:610e:d602:f759:e672",
-      "username": "saurabhkaperwan"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-10T05:09:35.389Z",
-      "ip": "2409:40d2:304b:1186:610e:d602:f759:e672",
-      "username": "saurabhkaperwan"
-    },
-    {
-      "type": "series",
-      "id": "tt1442449:1:1",
-      "title": "tt1442449:1:1",
-      "timestamp": "2026-02-10T05:10:18.298Z",
-      "ip": "2409:40d2:304b:1186:610e:d602:f759:e672",
-      "username": "saurabhkaperwan"
-    },
     {
       "type": "movie",
       "id": "tt28629017",
@@ -86428,6 +86404,30 @@
       "timestamp": "2026-03-02T12:14:36.326Z",
       "ip": "103.87.57.119",
       "username": "kunal_baroliya"
+    },
+    {
+      "type": "movie",
+      "id": "tt0454921",
+      "title": "The Pursuit of Happyness",
+      "timestamp": "2026-03-02T12:20:38.977Z",
+      "ip": "2409:4090:1001:4008:e0f4:d393:6211:f5ce",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:2:7",
+      "title": "Stranger Things",
+      "timestamp": "2026-03-02T12:24:22.929Z",
+      "ip": "2409:40d4:4002:5c3c:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-03-02T12:30:22.008Z",
+      "ip": "2409:40d2:3000:4e2b:e320:2a0a:5544:e7fb",
+      "username": "saurabhkaperwan"
     }
   ],
   "activeNow": {
@@ -90990,10 +90990,10 @@
     },
     "2409:4090:1001:4008:e0f4:d393:6211:f5ce": {
       "type": "movie",
-      "id": "tt31514146",
-      "title": "tt31514146",
+      "id": "tt0454921",
+      "title": "The Pursuit of Happyness",
       "username": "gendaswammy",
-      "lastActive": 1772429189242
+      "lastActive": 1772454038977
     },
     "2409:40e6:252:e7f6:9496:ddff:feca:12bb": {
       "type": "movie",
@@ -91094,11 +91094,11 @@
       "lastActive": 1772440417538
     },
     "2409:40d2:3000:4e2b:e320:2a0a:5544:e7fb": {
-      "type": "series",
-      "id": "tt26471411:1:1",
-      "title": "tt26471411:1:1",
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
       "username": "saurabhkaperwan",
-      "lastActive": 1772453635748
+      "lastActive": 1772454622008
     },
     "2401:4900:1c0b:1e04:c5e:e630:afc9:e191": {
       "type": "series",
@@ -91123,10 +91123,10 @@
     },
     "2409:40d4:4002:5c3c:8000::": {
       "type": "series",
-      "id": "tt4574334:2:6",
+      "id": "tt4574334:2:7",
       "title": "Stranger Things",
       "username": "kdbotz",
-      "lastActive": 1772453433085
+      "lastActive": 1772454262929
     },
     "117.235.164.239": {
       "type": "movie",
