@@ -1,5 +1,5 @@
 {
-  "totalViews": 32579,
+  "totalViews": 32581,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6449,25 +6449,10 @@
     "2405:201:2022:b81c:f581:bdf3:74d7:f979",
     "2401:4900:5555:3683:3084:d568:c00b:bed",
     "2401:4900:5555:3683:f0ef:584f:a7f0:a5bb",
-    "2a09:bac1:36a0:80::243:65"
+    "2a09:bac1:36a0:80::243:65",
+    "122.161.242.173"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-02-10T14:45:33.731Z",
-      "ip": "152.59.152.129",
-      "username": "n a b a."
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:3:22",
-      "title": "Lost",
-      "timestamp": "2026-02-10T14:45:48.408Z",
-      "ip": "116.68.75.147",
-      "username": "aravindsivan"
-    },
     {
       "type": "series",
       "id": "tt0411008:3:23",
@@ -86451,6 +86436,22 @@
       "timestamp": "2026-03-02T20:34:07.521Z",
       "ip": "109.76.53.79",
       "username": "sid_g"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:4",
+      "title": "tt0903747:1:4",
+      "timestamp": "2026-03-02T20:50:50.596Z",
+      "ip": "122.161.242.173",
+      "username": "dawnstar930"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:4",
+      "title": "tt0903747:1:4",
+      "timestamp": "2026-03-02T20:52:36.049Z",
+      "ip": "122.161.242.173",
+      "username": "dawnstar930"
     }
   ],
   "activeNow": {
@@ -91367,6 +91368,13 @@
       "title": "Avengers: Age of Ultron",
       "username": "adiyogivishwanath",
       "lastActive": 1772482902504
+    },
+    "122.161.242.173": {
+      "type": "series",
+      "id": "tt0903747:1:4",
+      "title": "tt0903747:1:4",
+      "username": "dawnstar930",
+      "lastActive": 1772484756049
     }
   }
 }
