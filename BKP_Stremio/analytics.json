@@ -1,5 +1,5 @@
 {
-  "totalViews": 32560,
+  "totalViews": 32567,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6447,65 +6447,10 @@
     "2409:40e5:11b7:6e0c:65a8:6425:ee77:6f4e",
     "152.59.35.152",
     "2405:201:2022:b81c:f581:bdf3:74d7:f979",
-    "2401:4900:5555:3683:3084:d568:c00b:bed"
+    "2401:4900:5555:3683:3084:d568:c00b:bed",
+    "2401:4900:5555:3683:f0ef:584f:a7f0:a5bb"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-10T13:59:42.700Z",
-      "ip": "2405:201:500c:4a01:7566:41e8:8086:4023",
-      "username": "karthik"
-    },
-    {
-      "type": "movie",
-      "id": "tt9603208",
-      "title": "Mission: Impossible - The Final Reckoning",
-      "timestamp": "2026-02-10T14:00:07.443Z",
-      "ip": "223.226.129.165",
-      "username": "user_9b"
-    },
-    {
-      "type": "series",
-      "id": "tt9059350:2:1",
-      "title": "tt9059350:2:1",
-      "timestamp": "2026-02-10T14:00:35.802Z",
-      "ip": "223.226.129.165",
-      "username": "user_9b"
-    },
-    {
-      "type": "series",
-      "id": "tt9059350:2:1",
-      "title": "tt9059350:2:1",
-      "timestamp": "2026-02-10T14:03:35.294Z",
-      "ip": "223.226.129.165",
-      "username": "user_9b"
-    },
-    {
-      "type": "series",
-      "id": "tt2395695:2:1",
-      "title": "tt2395695:2:1",
-      "timestamp": "2026-02-10T14:03:43.867Z",
-      "ip": "49.36.233.68",
-      "username": "extremeyat"
-    },
-    {
-      "type": "series",
-      "id": "tt2395695:2:2",
-      "title": "tt2395695:2:2",
-      "timestamp": "2026-02-10T14:04:33.946Z",
-      "ip": "49.36.233.68",
-      "username": "extremeyat"
-    },
-    {
-      "type": "series",
-      "id": "tt2395695:1:7",
-      "title": "tt2395695:1:7",
-      "timestamp": "2026-02-10T14:06:11.479Z",
-      "ip": "49.36.233.68",
-      "username": "extremeyat"
-    },
     {
       "type": "series",
       "id": "tt2395695:1:8",
@@ -86449,6 +86394,62 @@
       "timestamp": "2026-03-02T18:32:31.793Z",
       "ip": "2405:201:2022:b81c:f581:bdf3:74d7:f979",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt2707408:1:1",
+      "title": "tt2707408:1:1",
+      "timestamp": "2026-03-02T18:34:10.810Z",
+      "ip": "2401:4900:5555:3683:f0ef:584f:a7f0:a5bb",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt2707408:1:1",
+      "title": "tt2707408:1:1",
+      "timestamp": "2026-03-02T18:37:09.248Z",
+      "ip": "2401:4900:5555:3683:f0ef:584f:a7f0:a5bb",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:5:9",
+      "title": "tt0369179:5:9",
+      "timestamp": "2026-03-02T18:37:32.658Z",
+      "ip": "2401:4900:5555:3683:f0ef:584f:a7f0:a5bb",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:5:9",
+      "title": "tt0369179:5:9",
+      "timestamp": "2026-03-02T18:37:44.822Z",
+      "ip": "2401:4900:5555:3683:f0ef:584f:a7f0:a5bb",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt0369179:5:10",
+      "title": "tt0369179:5:10",
+      "timestamp": "2026-03-02T18:37:50.464Z",
+      "ip": "2401:4900:5555:3683:f0ef:584f:a7f0:a5bb",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt39631179",
+      "title": "tt39631179",
+      "timestamp": "2026-03-02T18:43:29.024Z",
+      "ip": "2401:4900:5555:3683:3084:d568:c00b:bed",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt31036941",
+      "title": "Jurassic World Rebirth",
+      "timestamp": "2026-03-02T18:44:35.334Z",
+      "ip": "2405:201:2022:b81c:f581:bdf3:74d7:f979",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -91340,17 +91341,24 @@
     },
     "2405:201:2022:b81c:f581:bdf3:74d7:f979": {
       "type": "movie",
-      "id": "tt0422091",
-      "title": "tt0422091",
+      "id": "tt31036941",
+      "title": "Jurassic World Rebirth",
       "username": "zealousninja",
-      "lastActive": 1772476351793
+      "lastActive": 1772477075334
     },
     "2401:4900:5555:3683:3084:d568:c00b:bed": {
-      "type": "series",
-      "id": "tt2707408:1:1",
-      "title": "tt2707408:1:1",
+      "type": "movie",
+      "id": "tt39631179",
+      "title": "tt39631179",
       "username": "gendaswammy",
-      "lastActive": 1772476140511
+      "lastActive": 1772477009024
+    },
+    "2401:4900:5555:3683:f0ef:584f:a7f0:a5bb": {
+      "type": "series",
+      "id": "tt0369179:5:10",
+      "title": "tt0369179:5:10",
+      "username": "gendaswammy",
+      "lastActive": 1772476670464
     }
   }
 }
