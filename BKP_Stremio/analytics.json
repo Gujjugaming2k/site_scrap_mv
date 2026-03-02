@@ -1,5 +1,5 @@
 {
-  "totalViews": 32427,
+  "totalViews": 32431,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6426,41 +6426,12 @@
     "119.234.91.70",
     "146.70.142.34",
     "2401:4900:8826:ee0d:3166:7c83:8584:6927",
-    "109.76.53.79"
+    "109.76.53.79",
+    "2405:201:2033:841:75ad:568a:6dc5:83ac",
+    "2401:4900:3c7f:75c9:65a8:6425:ee77:6f4e",
+    "115.98.233.47"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt28629017",
-      "title": "tt28629017",
-      "timestamp": "2026-02-10T05:15:31.753Z",
-      "ip": "2603:3003:3544:6700:b2ed:926b:b037:6c89",
-      "username": "anupambabu_97"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-10T05:15:56.423Z",
-      "ip": "2409:40d2:304b:1186:610e:d602:f759:e672",
-      "username": "saurabhkaperwan"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-10T05:18:13.134Z",
-      "ip": "2409:40d2:304b:1186:610e:d602:f759:e672",
-      "username": "saurabhkaperwan"
-    },
-    {
-      "type": "movie",
-      "id": "tt3263904",
-      "title": "Sully",
-      "timestamp": "2026-02-10T05:23:31.442Z",
-      "ip": "2401:4900:3e29:7626:9c35:b86d:8b71:225e",
-      "username": "adshoyi"
-    },
     {
       "type": "series",
       "id": "tt22248376:2:4",
@@ -86428,6 +86399,38 @@
       "timestamp": "2026-03-02T12:30:22.008Z",
       "ip": "2409:40d2:3000:4e2b:e320:2a0a:5544:e7fb",
       "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt6611916:2:2",
+      "title": "tt6611916:2:2",
+      "timestamp": "2026-03-02T12:44:11.584Z",
+      "ip": "103.24.85.9",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt1840911",
+      "title": "tt1840911",
+      "timestamp": "2026-03-02T12:46:19.777Z",
+      "ip": "2405:201:2033:841:75ad:568a:6dc5:83ac",
+      "username": "surti_lala"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "timestamp": "2026-03-02T12:49:07.030Z",
+      "ip": "2401:4900:3c7f:75c9:65a8:6425:ee77:6f4e",
+      "username": "adshoyi"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:3:2",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-02T12:49:37.505Z",
+      "ip": "115.98.233.47",
+      "username": "insnaee99"
     }
   ],
   "activeNow": {
@@ -88875,11 +88878,11 @@
       "lastActive": 1772092491906
     },
     "103.24.85.9": {
-      "type": "movie",
-      "id": "tt39302439",
-      "title": "tt39302439",
+      "type": "series",
+      "id": "tt6611916:2:2",
+      "title": "tt6611916:2:2",
       "username": "william097",
-      "lastActive": 1772438353236
+      "lastActive": 1772455451584
     },
     "2401:4900:7b8e:33e5:9f:dfff:fe9e:92c2": {
       "type": "movie",
@@ -91169,6 +91172,27 @@
       "title": "tt26443597",
       "username": "sid_g",
       "lastActive": 1772452979708
+    },
+    "2405:201:2033:841:75ad:568a:6dc5:83ac": {
+      "type": "movie",
+      "id": "tt1840911",
+      "title": "tt1840911",
+      "username": "surti_lala",
+      "lastActive": 1772455579777
+    },
+    "2401:4900:3c7f:75c9:65a8:6425:ee77:6f4e": {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "username": "adshoyi",
+      "lastActive": 1772455747030
+    },
+    "115.98.233.47": {
+      "type": "series",
+      "id": "tt13918776:3:2",
+      "title": "The Night Agent",
+      "username": "insnaee99",
+      "lastActive": 1772455777505
     }
   }
 }
