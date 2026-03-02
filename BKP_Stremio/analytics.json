@@ -1,5 +1,5 @@
 {
-  "totalViews": 32336,
+  "totalViews": 32340,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6417,38 +6417,6 @@
     "2405:201:a000:c843:245b:7f7f:4060:b537"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-09T16:10:43.536Z",
-      "ip": "2409:40d2:301e:50dd:636a:4c28:3f0a:de4f",
-      "username": "saurabhkaperwan"
-    },
-    {
-      "type": "movie",
-      "id": "tt39100948",
-      "title": "tt39100948",
-      "timestamp": "2026-02-09T16:13:59.967Z",
-      "ip": "94.156.30.131",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt9052870",
-      "title": "tt9052870",
-      "timestamp": "2026-02-09T16:14:32.978Z",
-      "ip": "94.156.30.131",
-      "username": "b1jju"
-    },
-    {
-      "type": "series",
-      "id": "tt6354518:2:20",
-      "title": "tt6354518:2:20",
-      "timestamp": "2026-02-09T16:17:35.019Z",
-      "ip": "223.185.23.154",
-      "username": "sinbad1722"
-    },
     {
       "type": "series",
       "id": "tt1442449:1:2",
@@ -86416,6 +86384,38 @@
       "timestamp": "2026-03-02T07:41:14.556Z",
       "ip": "2405:201:a000:c843:245b:7f7f:4060:b537",
       "username": "denver1769"
+    },
+    {
+      "type": "series",
+      "id": "tt0069576",
+      "title": "tt0069576",
+      "timestamp": "2026-03-02T07:42:14.649Z",
+      "ip": "2405:201:a000:c843:245b:7f7f:4060:b537",
+      "username": "denver1769"
+    },
+    {
+      "type": "movie",
+      "id": "tt18372308",
+      "title": "tt18372308",
+      "timestamp": "2026-03-02T07:43:22.046Z",
+      "ip": "2402:3a80:4518:9c5e:8cd3:18ff:fea8:5dc8",
+      "username": "surti_lala"
+    },
+    {
+      "type": "movie",
+      "id": "tt17024450",
+      "title": "The Equalizer 3",
+      "timestamp": "2026-03-02T07:56:13.925Z",
+      "ip": "2409:40d4:2d:bb46:a063:16ff:fec3:846",
+      "username": "golu_vk"
+    },
+    {
+      "type": "movie",
+      "id": "tt17024450",
+      "title": "The Equalizer 3",
+      "timestamp": "2026-03-02T07:56:14.975Z",
+      "ip": "2409:40d4:2d:bb46:a063:16ff:fec3:846,51.89.197.91",
+      "username": "bk18"
     }
   ],
   "activeNow": {
@@ -90994,15 +90994,15 @@
       "type": "movie",
       "id": "tt17024450",
       "title": "The Equalizer 3",
-      "username": "vk986",
-      "lastActive": 1772432175640
+      "username": "golu_vk",
+      "lastActive": 1772438173925
     },
     "2409:40d4:2d:bb46:a063:16ff:fec3:846,51.89.197.91": {
       "type": "movie",
       "id": "tt17024450",
       "title": "The Equalizer 3",
       "username": "bk18",
-      "lastActive": 1772430350861
+      "lastActive": 1772438174975
     },
     "2405:201:682e:6839:d03f:7bf6:6c3b:6ad3": {
       "type": "movie",
@@ -91054,18 +91054,18 @@
       "lastActive": 1772435163790
     },
     "2402:3a80:4518:9c5e:8cd3:18ff:fea8:5dc8": {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
+      "type": "movie",
+      "id": "tt18372308",
+      "title": "tt18372308",
       "username": "surti_lala",
-      "lastActive": 1772436658472
+      "lastActive": 1772437402046
     },
     "2405:201:a000:c843:245b:7f7f:4060:b537": {
       "type": "series",
-      "id": "tt30412869:1:1",
-      "title": "tt30412869:1:1",
+      "id": "tt0069576",
+      "title": "tt0069576",
       "username": "denver1769",
-      "lastActive": 1772437274556
+      "lastActive": 1772437334649
     }
   }
 }
