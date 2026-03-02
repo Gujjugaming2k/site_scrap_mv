@@ -1,5 +1,5 @@
 {
-  "totalViews": 32443,
+  "totalViews": 32446,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6432,33 +6432,10 @@
     "115.98.233.47",
     "2a02:9b0:106:4496:d40e:c15a:5461:dd38",
     "2409:40e1:518:cc8c:8000::",
-    "103.162.159.89"
+    "103.162.159.89",
+    "106.197.19.233"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:3:18",
-      "title": "Lost",
-      "timestamp": "2026-02-10T06:31:50.634Z",
-      "ip": "116.68.75.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:3:19",
-      "title": "Lost",
-      "timestamp": "2026-02-10T06:32:20.716Z",
-      "ip": "116.68.75.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:3:20",
-      "title": "Lost",
-      "timestamp": "2026-02-10T06:32:55.006Z",
-      "ip": "116.68.75.147",
-      "username": "aravindsivan"
-    },
     {
       "type": "movie",
       "id": "tt33244668",
@@ -86434,6 +86411,30 @@
       "timestamp": "2026-03-02T13:19:21.103Z",
       "ip": "103.46.200.93",
       "username": "katdenningssss"
+    },
+    {
+      "type": "series",
+      "id": "tt0433286:1:1",
+      "title": "tt0433286:1:1",
+      "timestamp": "2026-03-02T13:34:31.061Z",
+      "ip": "106.197.19.233",
+      "username": "goatedbentennyson"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:6",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-03-02T13:38:18.988Z",
+      "ip": "2409:40d4:4002:5c3c:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt9813792:4:10",
+      "title": "tt9813792:4:10",
+      "timestamp": "2026-03-02T13:38:39.305Z",
+      "ip": "2409:40e1:518:cc8c:8000::",
+      "username": "i_am_cheetah"
     }
   ],
   "activeNow": {
@@ -91129,10 +91130,10 @@
     },
     "2409:40d4:4002:5c3c:8000::": {
       "type": "series",
-      "id": "tt4574334:2:7",
-      "title": "Stranger Things",
+      "id": "tt12343534:3:6",
+      "title": "JUJUTSU KAISEN",
       "username": "kdbotz",
-      "lastActive": 1772454262929
+      "lastActive": 1772458698988
     },
     "117.235.164.239": {
       "type": "movie",
@@ -91205,11 +91206,11 @@
       "lastActive": 1772455937598
     },
     "2409:40e1:518:cc8c:8000::": {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "type": "series",
+      "id": "tt9813792:4:10",
+      "title": "tt9813792:4:10",
       "username": "i_am_cheetah",
-      "lastActive": 1772457426339
+      "lastActive": 1772458719305
     },
     "103.162.159.89": {
       "type": "movie",
@@ -91217,6 +91218,13 @@
       "title": "tt0460740",
       "username": "opuser75",
       "lastActive": 1772456860310
+    },
+    "106.197.19.233": {
+      "type": "series",
+      "id": "tt0433286:1:1",
+      "title": "tt0433286:1:1",
+      "username": "goatedbentennyson",
+      "lastActive": 1772458471061
     }
   }
 }
