@@ -1,5 +1,5 @@
 {
-  "totalViews": 32493,
+  "totalViews": 32495,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6440,25 +6440,10 @@
     "2405:201:2022:b81c:4dea:3b96:5002:3120",
     "2405:201:2022:b81c:95f3:977d:a795:9845",
     "45.131.194.228",
-    "2401:4900:8fe3:9242:3c51:4895:8ef2:4991"
+    "2401:4900:8fe3:9242:3c51:4895:8ef2:4991",
+    "2409:40e2:20be:bbf4:a4cd:7f51:4a36:f54c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt39460434:1:1",
-      "title": "tt39460434:1:1",
-      "timestamp": "2026-02-10T09:11:47.811Z",
-      "ip": "2a09:bac5:3af1:172d::24f:5",
-      "username": "angrybirdsneha"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:2:7",
-      "title": "Fallout",
-      "timestamp": "2026-02-10T09:17:30.733Z",
-      "ip": "2a09:bac5:3af1:172d::24f:5",
-      "username": "switchoff009"
-    },
     {
       "type": "series",
       "id": "tt4197638:1:1",
@@ -86442,6 +86427,22 @@
       "timestamp": "2026-03-02T15:25:57.364Z",
       "ip": "2401:4900:8fe3:9242:3c51:4895:8ef2:4991",
       "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt7456310",
+      "title": "tt7456310",
+      "timestamp": "2026-03-02T15:35:19.105Z",
+      "ip": "2409:40e2:20be:bbf4:a4cd:7f51:4a36:f54c",
+      "username": "adr7000"
+    },
+    {
+      "type": "series",
+      "id": "tt0220880:1:1",
+      "title": "tt0220880:1:1",
+      "timestamp": "2026-03-02T15:39:34.820Z",
+      "ip": "2409:40e2:20be:bbf4:a4cd:7f51:4a36:f54c",
+      "username": "adr7000"
     }
   ],
   "activeNow": {
@@ -91288,6 +91289,13 @@
       "title": "tt0388629:22:39",
       "username": "theaceofficials",
       "lastActive": 1772465157364
+    },
+    "2409:40e2:20be:bbf4:a4cd:7f51:4a36:f54c": {
+      "type": "series",
+      "id": "tt0220880:1:1",
+      "title": "tt0220880:1:1",
+      "username": "adr7000",
+      "lastActive": 1772465974820
     }
   }
 }
