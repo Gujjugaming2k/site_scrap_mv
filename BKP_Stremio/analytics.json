@@ -1,5 +1,5 @@
 {
-  "totalViews": 32334,
+  "totalViews": 32336,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6412,25 +6412,11 @@
     "119.234.107.182",
     "152.59.146.92",
     "103.170.53.255",
-    "2409:40c1:314d:d8c6:ec59:91ff:fe1e:288c"
+    "2409:40c1:314d:d8c6:ec59:91ff:fe1e:288c",
+    "2402:3a80:4518:9c5e:8cd3:18ff:fea8:5dc8",
+    "2405:201:a000:c843:245b:7f7f:4060:b537"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0925266:1:1",
-      "title": "tt0925266:1:1",
-      "timestamp": "2026-02-09T16:08:36.255Z",
-      "ip": "106.222.249.57",
-      "username": "nirbhay1412"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-09T16:10:11.011Z",
-      "ip": "2409:40d2:301e:50dd:636a:4c28:3f0a:de4f",
-      "username": "saurabhkaperwan"
-    },
     {
       "type": "movie",
       "id": "tt27543632",
@@ -86414,6 +86400,22 @@
       "timestamp": "2026-03-02T07:15:13.577Z",
       "ip": "182.77.78.164",
       "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-03-02T07:30:58.472Z",
+      "ip": "2402:3a80:4518:9c5e:8cd3:18ff:fea8:5dc8",
+      "username": "surti_lala"
+    },
+    {
+      "type": "series",
+      "id": "tt30412869:1:1",
+      "title": "tt30412869:1:1",
+      "timestamp": "2026-03-02T07:41:14.556Z",
+      "ip": "2405:201:a000:c843:245b:7f7f:4060:b537",
+      "username": "denver1769"
     }
   ],
   "activeNow": {
@@ -91050,6 +91052,20 @@
       "title": "tt26548127",
       "username": "tips9694",
       "lastActive": 1772435163790
+    },
+    "2402:3a80:4518:9c5e:8cd3:18ff:fea8:5dc8": {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "username": "surti_lala",
+      "lastActive": 1772436658472
+    },
+    "2405:201:a000:c843:245b:7f7f:4060:b537": {
+      "type": "series",
+      "id": "tt30412869:1:1",
+      "title": "tt30412869:1:1",
+      "username": "denver1769",
+      "lastActive": 1772437274556
     }
   }
 }
