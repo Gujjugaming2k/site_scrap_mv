@@ -1,5 +1,5 @@
 {
-  "totalViews": 32599,
+  "totalViews": 32602,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6450,33 +6450,10 @@
     "2401:4900:5555:3683:3084:d568:c00b:bed",
     "2401:4900:5555:3683:f0ef:584f:a7f0:a5bb",
     "2a09:bac1:36a0:80::243:65",
-    "122.161.242.173"
+    "122.161.242.173",
+    "2a02:9b0:106:4496:1977:31a7:7155:bdf3"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt21906554:1:1",
-      "title": "tt21906554:1:1",
-      "timestamp": "2026-02-10T15:52:23.843Z",
-      "ip": "152.59.200.123",
-      "username": "rick grimes"
-    },
-    {
-      "type": "series",
-      "id": "tt21906554:1:3",
-      "title": "tt21906554:1:3",
-      "timestamp": "2026-02-10T15:54:03.549Z",
-      "ip": "152.59.200.123",
-      "username": "rick grimes"
-    },
-    {
-      "type": "series",
-      "id": "tt21906554:1:1",
-      "title": "tt21906554:1:1",
-      "timestamp": "2026-02-10T15:54:47.336Z",
-      "ip": "2409:40f0:167:a614:e0cf:81ff:feba:7aec",
-      "username": "rick grimes"
-    },
     {
       "type": "series",
       "id": "tt21906554:1:7",
@@ -86452,6 +86429,30 @@
       "timestamp": "2026-03-02T23:16:13.711Z",
       "ip": "106.197.19.233",
       "username": "goatedbentennyson"
+    },
+    {
+      "type": "movie",
+      "id": "tt0120737",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "timestamp": "2026-03-03T01:21:57.996Z",
+      "ip": "103.46.200.93",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt32357218",
+      "title": "tt32357218",
+      "timestamp": "2026-03-03T01:28:07.235Z",
+      "ip": "2a02:9b0:106:4496:1977:31a7:7155:bdf3",
+      "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "timestamp": "2026-03-03T01:28:59.455Z",
+      "ip": "2a02:9b0:106:4496:1977:31a7:7155:bdf3",
+      "username": "hoosa500"
     }
   ],
   "activeNow": {
@@ -90916,10 +90917,10 @@
     },
     "103.46.200.93": {
       "type": "movie",
-      "id": "tt1427017",
-      "title": "tt1427017",
+      "id": "tt0120737",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
       "username": "katdenningssss",
-      "lastActive": 1772457561103
+      "lastActive": 1772500917996
     },
     "2405:201:2022:b81c:bc1a:b0b9:d1e1:3576": {
       "type": "series",
@@ -91375,6 +91376,13 @@
       "title": "tt0903747:1:4",
       "username": "dawnstar930",
       "lastActive": 1772484756049
+    },
+    "2a02:9b0:106:4496:1977:31a7:7155:bdf3": {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "username": "hoosa500",
+      "lastActive": 1772501339455
     }
   }
 }
