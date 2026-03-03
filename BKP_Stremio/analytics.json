@@ -1,5 +1,5 @@
 {
-  "totalViews": 32951,
+  "totalViews": 32952,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6507,17 +6507,10 @@
     "115.98.234.63",
     "2409:40c2:403a:b4c7:690e:df34:736d:9aee",
     "80.233.74.132",
-    "2401:4900:86f0:9b8f::486a:3c8e"
+    "2401:4900:86f0:9b8f::486a:3c8e",
+    "2a09:bac6:d872:1aaa::2a8:75"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27497448:1:4",
-      "title": "tt27497448:1:4",
-      "timestamp": "2026-02-11T16:28:42.691Z",
-      "ip": "2409:40d4:106c:3e5d:5079:12ff:fe82:a405",
-      "username": "golu_vk"
-    },
     {
       "type": "series",
       "id": "tt11794812:1:1",
@@ -86509,6 +86502,14 @@
       "timestamp": "2026-03-03T14:40:56.351Z",
       "ip": "139.135.35.56",
       "username": "salman720"
+    },
+    {
+      "type": "movie",
+      "id": "tt14181714",
+      "title": "tt14181714",
+      "timestamp": "2026-03-03T14:55:38.956Z",
+      "ip": "2a09:bac6:d872:1aaa::2a8:75",
+      "username": "ryuzaklo26"
     }
   ],
   "activeNow": {
@@ -91831,6 +91832,13 @@
       "title": "Dhurandhar",
       "username": "henry",
       "lastActive": 1772548812911
+    },
+    "2a09:bac6:d872:1aaa::2a8:75": {
+      "type": "movie",
+      "id": "tt14181714",
+      "title": "tt14181714",
+      "username": "ryuzaklo26",
+      "lastActive": 1772549738956
     }
   }
 }
