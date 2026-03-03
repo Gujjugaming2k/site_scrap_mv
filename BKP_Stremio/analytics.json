@@ -1,5 +1,5 @@
 {
-  "totalViews": 32983,
+  "totalViews": 32987,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6513,41 +6513,10 @@
     "2409:40e0:37:8aab:5168:ed57:7b4f:85c9",
     "152.58.120.162",
     "2409:40d2:3012:a634:29f1:570a:1762:c0bd",
-    "2409:40c2:5435:c54a:9447:14ff:feeb:568d"
+    "2409:40c2:5435:c54a:9447:14ff:feeb:568d",
+    "2405:201:202d:d019:bb49:e82c:d5c1:e287"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0790736",
-      "title": "tt0790736",
-      "timestamp": "2026-02-11T17:07:02.942Z",
-      "ip": "2409:40e6:1e:3f92:e866:edff:fe19:b7a4",
-      "username": "n a b a."
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:1:1",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-02-11T17:15:15.766Z",
-      "ip": "152.59.5.194",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:1:1",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-02-11T17:17:07.894Z",
-      "ip": "152.59.5.194",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-11T17:18:27.488Z",
-      "ip": "152.59.5.194",
-      "username": "belimhuzaifa"
-    },
     {
       "type": "movie",
       "id": "tt30742355",
@@ -86515,6 +86484,38 @@
       "timestamp": "2026-03-03T16:46:43.388Z",
       "ip": "2409:40c2:5435:c54a:9447:14ff:feeb:568d",
       "username": "targetx_25"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:3:5",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-03T16:50:40.893Z",
+      "ip": "2405:201:202d:d019:bb49:e82c:d5c1:e287",
+      "username": "explorerindia"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:3:5",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-03T16:52:24.574Z",
+      "ip": "2405:201:202d:d019:bb49:e82c:d5c1:e287",
+      "username": "explorerindia"
+    },
+    {
+      "type": "series",
+      "id": "tt6611916:2:6",
+      "title": "tt6611916:2:6",
+      "timestamp": "2026-03-03T16:53:07.638Z",
+      "ip": "103.24.85.9",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:4",
+      "title": "tt0903747:1:4",
+      "timestamp": "2026-03-03T16:59:28.212Z",
+      "ip": "146.196.34.167",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -88963,10 +88964,10 @@
     },
     "103.24.85.9": {
       "type": "series",
-      "id": "tt6611916:2:5",
-      "title": "tt6611916:2:5",
+      "id": "tt6611916:2:6",
+      "title": "tt6611916:2:6",
       "username": "william097",
-      "lastActive": 1772555361476
+      "lastActive": 1772556787638
     },
     "2401:4900:7b8e:33e5:9f:dfff:fe9e:92c2": {
       "type": "movie",
@@ -91664,11 +91665,11 @@
       "lastActive": 1772542816117
     },
     "146.196.34.167": {
-      "type": "movie",
-      "id": "tt39310158",
-      "title": "tt39310158",
+      "type": "series",
+      "id": "tt0903747:1:4",
+      "title": "tt0903747:1:4",
       "username": "gaendaswami",
-      "lastActive": 1772540634038
+      "lastActive": 1772557168212
     },
     "103.87.57.76": {
       "type": "movie",
@@ -91879,6 +91880,13 @@
       "title": "tt1196946:1:23",
       "username": "targetx_25",
       "lastActive": 1772556403388
+    },
+    "2405:201:202d:d019:bb49:e82c:d5c1:e287": {
+      "type": "series",
+      "id": "tt13918776:3:5",
+      "title": "The Night Agent",
+      "username": "explorerindia",
+      "lastActive": 1772556744574
     }
   }
 }
