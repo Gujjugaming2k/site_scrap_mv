@@ -1,5 +1,5 @@
 {
-  "totalViews": 32958,
+  "totalViews": 32962,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6512,38 +6512,6 @@
     "2a09:bac5:3af1:16b4::243:65"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt11794812:1:1",
-      "title": "Cross",
-      "timestamp": "2026-02-11T16:36:11.201Z",
-      "ip": "2001:4490:4e65:1d8b:9d0f:bf2c:33da:3396",
-      "username": "adiyogivishwanath"
-    },
-    {
-      "type": "series",
-      "id": "tt11794812:1:2",
-      "title": "Cross",
-      "timestamp": "2026-02-11T16:36:35.229Z",
-      "ip": "2001:4490:4e65:1d8b:9d0f:bf2c:33da:3396",
-      "username": "adiyogivishwanath"
-    },
-    {
-      "type": "series",
-      "id": "tt11794812:1:1",
-      "title": "Cross",
-      "timestamp": "2026-02-11T16:37:59.035Z",
-      "ip": "2001:4490:4e65:1d8b:9d0f:bf2c:33da:3396",
-      "username": "adiyogivishwanath"
-    },
-    {
-      "type": "movie",
-      "id": "tt10548174",
-      "title": "28 Years Later",
-      "timestamp": "2026-02-11T16:38:31.176Z",
-      "ip": "2401:4900:ca76:184c:3852:76ff:fe39:e634",
-      "username": "execute28"
-    },
     {
       "type": "movie",
       "id": "tt33028778",
@@ -86511,6 +86479,38 @@
       "timestamp": "2026-03-03T15:22:40.828Z",
       "ip": "202.173.124.60",
       "username": "ryuzaklo26"
+    },
+    {
+      "type": "movie",
+      "id": "tmdb:19666",
+      "title": "tmdb:19666",
+      "timestamp": "2026-03-03T15:59:11.595Z",
+      "ip": "2405:201:2022:b81c:58ef:9e6c:2f2b:41da",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:2:9",
+      "title": "Stranger Things",
+      "timestamp": "2026-03-03T15:59:13.812Z",
+      "ip": "2409:40d4:4002:5c3c:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:2:9",
+      "title": "Stranger Things",
+      "timestamp": "2026-03-03T15:59:26.714Z",
+      "ip": "2409:40d4:4002:5c3c:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt12735488",
+      "title": "tt12735488",
+      "timestamp": "2026-03-03T16:00:04.861Z",
+      "ip": "2405:201:2022:b81c:58ef:9e6c:2f2b:41da",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -91206,10 +91206,10 @@
     },
     "2409:40d4:4002:5c3c:8000::": {
       "type": "series",
-      "id": "tt4574334:2:7",
+      "id": "tt4574334:2:9",
       "title": "Stranger Things",
       "username": "kdbotz",
-      "lastActive": 1772547069776
+      "lastActive": 1772553566714
     },
     "117.235.164.239": {
       "type": "movie",
@@ -91787,10 +91787,10 @@
     },
     "2405:201:2022:b81c:58ef:9e6c:2f2b:41da": {
       "type": "movie",
-      "id": "tmdb:1327819",
-      "title": "tmdb:1327819",
+      "id": "tt12735488",
+      "title": "tt12735488",
       "username": "zealousninja",
-      "lastActive": 1772544707992
+      "lastActive": 1772553604861
     },
     "152.58.120.8": {
       "type": "series",
