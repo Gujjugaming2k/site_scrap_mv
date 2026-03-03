@@ -1,5 +1,5 @@
 {
-  "totalViews": 32635,
+  "totalViews": 32638,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6457,33 +6457,11 @@
     "2401:4900:1cab:d12a:1dcc:efc0:ef31:9f25",
     "2405:201:6820:a83c:9125:408d:d9cc:d164",
     "2401:4900:1cab:d12a:9452:9903:d1a1:dd7a",
-    "2401:4900:1cab:d12a:394a:a842:c7cc:625b"
+    "2401:4900:1cab:d12a:394a:a842:c7cc:625b",
+    "106.222.248.202",
+    "2a09:bac6:d870:a82::10c:65"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31812476:2:4",
-      "title": "tt31812476:2:4",
-      "timestamp": "2026-02-10T17:10:42.403Z",
-      "ip": "2401:4900:5276:fcf4:a811:e938:90a:c864",
-      "username": "extremeyat"
-    },
-    {
-      "type": "movie",
-      "id": "tt29537095",
-      "title": "tt29537095",
-      "timestamp": "2026-02-10T17:10:51.116Z",
-      "ip": "38.224.232.16",
-      "username": "thala_75"
-    },
-    {
-      "type": "series",
-      "id": "tt0411008:3:22",
-      "title": "Lost",
-      "timestamp": "2026-02-10T17:10:57.681Z",
-      "ip": "116.68.75.147",
-      "username": "aravindsivan"
-    },
     {
       "type": "series",
       "id": "tt0411008:4:1",
@@ -86459,6 +86437,30 @@
       "timestamp": "2026-03-03T03:31:25.298Z",
       "ip": "2401:4900:1cab:d12a:9452:9903:d1a1:dd7a",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt9335498:1:5",
+      "title": "tt9335498:1:5",
+      "timestamp": "2026-03-03T03:37:05.552Z",
+      "ip": "2401:4900:1cab:d12a:9452:9903:d1a1:dd7a",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt9335498:1:5",
+      "title": "tt9335498:1:5",
+      "timestamp": "2026-03-03T03:39:26.615Z",
+      "ip": "106.222.248.202",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:1:8",
+      "title": "tt17220216:1:8",
+      "timestamp": "2026-03-03T03:51:18.173Z",
+      "ip": "2a09:bac6:d870:a82::10c:65",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -91419,11 +91421,11 @@
       "lastActive": 1772508228679
     },
     "2401:4900:1cab:d12a:9452:9903:d1a1:dd7a": {
-      "type": "movie",
-      "id": "tt10622136",
-      "title": "tt10622136",
+      "type": "series",
+      "id": "tt9335498:1:5",
+      "title": "tt9335498:1:5",
       "username": "nirbhay1412",
-      "lastActive": 1772508685298
+      "lastActive": 1772509025552
     },
     "2401:4900:1cab:d12a:394a:a842:c7cc:625b": {
       "type": "series",
@@ -91431,6 +91433,20 @@
       "title": "tt9335498:1:5",
       "username": "nirbhay1412",
       "lastActive": 1772507825251
+    },
+    "106.222.248.202": {
+      "type": "series",
+      "id": "tt9335498:1:5",
+      "title": "tt9335498:1:5",
+      "username": "nirbhay1412",
+      "lastActive": 1772509166615
+    },
+    "2a09:bac6:d870:a82::10c:65": {
+      "type": "series",
+      "id": "tt17220216:1:8",
+      "title": "tt17220216:1:8",
+      "username": "demon18319",
+      "lastActive": 1772509878173
     }
   }
 }
