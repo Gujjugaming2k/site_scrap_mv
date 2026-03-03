@@ -1,5 +1,5 @@
 {
-  "totalViews": 32663,
+  "totalViews": 32668,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6464,49 +6464,12 @@
     "2a09:bac6:d877:a82::10c:65",
     "2a09:bac5:3ae8:a82::10c:65",
     "2001:4490:444d:e974:d87f:b2b0:4d1e:c4cc",
-    "2409:40d2:3000:74f7:68f8:d393:e6df:eee8"
+    "2409:40d2:3000:74f7:68f8:d393:e6df:eee8",
+    "2a09:bac5:3aed:a82::10c:29",
+    "2409:40c1:302b:5277:2c43:a8ff:fec0:1a61",
+    "2a09:bac1:3680:5d68::10c:29"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt14905854",
-      "title": "tt14905854",
-      "timestamp": "2026-02-10T18:21:39.475Z",
-      "ip": "103.181.65.86",
-      "username": "mutti9"
-    },
-    {
-      "type": "movie",
-      "id": "tt0117571",
-      "title": "Scream",
-      "timestamp": "2026-02-10T18:22:27.755Z",
-      "ip": "182.77.73.123",
-      "username": "theaceofficials"
-    },
-    {
-      "type": "movie",
-      "id": "tt0063522",
-      "title": "Rosemary's Baby",
-      "timestamp": "2026-02-10T18:24:40.462Z",
-      "ip": "103.181.65.86",
-      "username": "mutti9"
-    },
-    {
-      "type": "movie",
-      "id": "tt37376961",
-      "title": "tt37376961",
-      "timestamp": "2026-02-10T18:25:36.797Z",
-      "ip": "103.181.65.86",
-      "username": "mutti9"
-    },
-    {
-      "type": "movie",
-      "id": "tt0117571",
-      "title": "Scream",
-      "timestamp": "2026-02-10T18:28:30.243Z",
-      "ip": "182.77.73.123",
-      "username": "theaceofficials"
-    },
     {
       "type": "series",
       "id": "tt1405406:1:1",
@@ -86466,6 +86429,46 @@
       "timestamp": "2026-03-03T05:04:38.773Z",
       "ip": "2401:4900:1cab:d12a:9452:9903:d1a1:dd7a",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:2:1",
+      "title": "tt17220216:2:1",
+      "timestamp": "2026-03-03T05:13:00.219Z",
+      "ip": "2a09:bac5:3aed:a82::10c:29",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:1:10",
+      "title": "tt17220216:1:10",
+      "timestamp": "2026-03-03T05:13:03.426Z",
+      "ip": "2a09:bac5:3aed:a82::10c:29",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt29872951:1:1",
+      "title": "tt29872951:1:1",
+      "timestamp": "2026-03-03T05:18:38.769Z",
+      "ip": "2409:40c1:302b:5277:2c43:a8ff:fec0:1a61",
+      "username": "tips9694"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-03-03T05:22:07.356Z",
+      "ip": "2409:40d2:3000:74f7:68f8:d393:e6df:eee8",
+      "username": "saurabhkaperwan"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:2:1",
+      "title": "tt17220216:2:1",
+      "timestamp": "2026-03-03T05:25:26.504Z",
+      "ip": "2a09:bac1:3680:5d68::10c:29",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -91483,10 +91486,31 @@
     },
     "2409:40d2:3000:74f7:68f8:d393:e6df:eee8": {
       "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
+      "id": "tt31193180",
+      "title": "Sinners",
       "username": "saurabhkaperwan",
-      "lastActive": 1772514245548
+      "lastActive": 1772515327356
+    },
+    "2a09:bac5:3aed:a82::10c:29": {
+      "type": "series",
+      "id": "tt17220216:1:10",
+      "title": "tt17220216:1:10",
+      "username": "demon18319",
+      "lastActive": 1772514783426
+    },
+    "2409:40c1:302b:5277:2c43:a8ff:fec0:1a61": {
+      "type": "series",
+      "id": "tt29872951:1:1",
+      "title": "tt29872951:1:1",
+      "username": "tips9694",
+      "lastActive": 1772515118769
+    },
+    "2a09:bac1:3680:5d68::10c:29": {
+      "type": "series",
+      "id": "tt17220216:2:1",
+      "title": "tt17220216:2:1",
+      "username": "demon18319",
+      "lastActive": 1772515526504
     }
   }
 }
