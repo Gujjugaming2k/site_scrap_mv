@@ -1,5 +1,5 @@
 {
-  "totalViews": 32734,
+  "totalViews": 32739,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6477,49 +6477,10 @@
     "103.170.53.32",
     "2409:40d4:5:562c:6c7c:32ff:fe3c:eb38,51.89.197.91",
     "117.235.160.91",
-    "2409:40e1:7:13f1:8000::"
+    "2409:40e1:7:13f1:8000::",
+    "2401:4900:1cab:d12a:dd73:1aa6:ed1a:8841"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt28629017",
-      "title": "tt28629017",
-      "timestamp": "2026-02-11T05:29:30.112Z",
-      "ip": "2603:3003:3544:6700:cd4a:7601:d4e2:b826",
-      "username": "anupambabu_97"
-    },
-    {
-      "type": "movie",
-      "id": "tt28629017",
-      "title": "tt28629017",
-      "timestamp": "2026-02-11T05:29:32.827Z",
-      "ip": "2603:3003:3544:6700:cd4a:7601:d4e2:b826",
-      "username": "anupambabu_97"
-    },
-    {
-      "type": "movie",
-      "id": "tt0104952",
-      "title": "tt0104952",
-      "timestamp": "2026-02-11T05:31:26.064Z",
-      "ip": "2603:3003:3544:6700:cd4a:7601:d4e2:b826",
-      "username": "anupambabu_97"
-    },
-    {
-      "type": "movie",
-      "id": "tt0104952",
-      "title": "tt0104952",
-      "timestamp": "2026-02-11T05:50:32.750Z",
-      "ip": "2603:3003:3544:6700:cd4a:7601:d4e2:b826",
-      "username": "anupambabu_97"
-    },
-    {
-      "type": "movie",
-      "id": "tt28182053",
-      "title": "tt28182053",
-      "timestamp": "2026-02-11T05:57:01.674Z",
-      "ip": "2401:4900:1cb0:cfef:6573:6d21:3fbc:326",
-      "username": "saisrinivas"
-    },
     {
       "type": "series",
       "id": "tt11311302:1:4",
@@ -86479,6 +86440,46 @@
       "timestamp": "2026-03-03T08:41:05.242Z",
       "ip": "110.235.219.176",
       "username": "sid_g"
+    },
+    {
+      "type": "series",
+      "id": "tt9335498:1:8",
+      "title": "tt9335498:1:8",
+      "timestamp": "2026-03-03T08:51:15.412Z",
+      "ip": "2401:4900:1cab:d12a:dd73:1aa6:ed1a:8841",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-03-03T08:58:37.631Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:1:5",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-03T08:58:49.285Z",
+      "ip": "2409:40d4:5:562c:6c7c:32ff:fe3c:eb38",
+      "username": "vk986"
+    },
+    {
+      "type": "movie",
+      "id": "tt4564560",
+      "title": "tt4564560",
+      "timestamp": "2026-03-03T09:01:45.897Z",
+      "ip": "117.235.160.91",
+      "username": "itsdoom50"
+    },
+    {
+      "type": "movie",
+      "id": "tt4564560",
+      "title": "tt4564560",
+      "timestamp": "2026-03-03T09:03:33.128Z",
+      "ip": "117.235.160.91",
+      "username": "itsdoom50"
     }
   ],
   "activeNow": {
@@ -86725,7 +86726,7 @@
       "id": "tt4574334:1:1",
       "title": "Stranger Things",
       "username": "chetan_b2",
-      "lastActive": 1772520422600
+      "lastActive": 1772528317631
     },
     "2405:201:200d:906b:e9b9:acfe:e6f5:2f4f": {
       "type": "movie",
@@ -91538,10 +91539,10 @@
     },
     "2409:40d4:5:562c:6c7c:32ff:fe3c:eb38": {
       "type": "series",
-      "id": "tt13918776:1:4",
+      "id": "tt13918776:1:5",
       "title": "The Night Agent",
       "username": "vk986",
-      "lastActive": 1772526364146
+      "lastActive": 1772528329285
     },
     "2409:40f3:20cd:5450:583c:9f7b:988c:bfb6": {
       "type": "movie",
@@ -91583,7 +91584,7 @@
       "id": "tt4564560",
       "title": "tt4564560",
       "username": "itsdoom50",
-      "lastActive": 1772525096665
+      "lastActive": 1772528613128
     },
     "2409:40e1:7:13f1:8000::": {
       "type": "movie",
@@ -91591,6 +91592,13 @@
       "title": "tt29550683",
       "username": "i_am_cheetah",
       "lastActive": 1772526773242
+    },
+    "2401:4900:1cab:d12a:dd73:1aa6:ed1a:8841": {
+      "type": "series",
+      "id": "tt9335498:1:8",
+      "title": "tt9335498:1:8",
+      "username": "nirbhay1412",
+      "lastActive": 1772527875412
     }
   }
 }
