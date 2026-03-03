@@ -1,5 +1,5 @@
 {
-  "totalViews": 32609,
+  "totalViews": 32612,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6454,33 +6454,10 @@
     "2a02:9b0:106:4496:1977:31a7:7155:bdf3",
     "47.15.112.149",
     "2409:40e5:113e:f7f5:65a8:6425:ee77:6f4e",
-    "2401:4900:1cab:d12a:1dcc:efc0:ef31:9f25"
+    "2401:4900:1cab:d12a:1dcc:efc0:ef31:9f25",
+    "2405:201:6820:a83c:9125:408d:d9cc:d164"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt3144098",
-      "title": "tt3144098",
-      "timestamp": "2026-02-10T16:00:10.662Z",
-      "ip": "2409:40e2:1158:b086:5d5:7b41:b958:4d6e",
-      "username": "adr7000"
-    },
-    {
-      "type": "series",
-      "id": "tt10850932:1:11",
-      "title": "Crash Landing on You",
-      "timestamp": "2026-02-10T16:01:59.597Z",
-      "ip": "2409:40e4:109d:5de3:4dd7:2a23:ec35:5ba4",
-      "username": "askchm"
-    },
-    {
-      "type": "series",
-      "id": "tt1355642:1:2",
-      "title": "tt1355642:1:2",
-      "timestamp": "2026-02-10T16:02:01.056Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
     {
       "type": "series",
       "id": "tt1355642:1:2",
@@ -86456,6 +86433,30 @@
       "timestamp": "2026-03-03T02:19:03.301Z",
       "ip": "2401:4900:1cab:d12a:1dcc:efc0:ef31:9f25",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt9335498:1:5",
+      "title": "tt9335498:1:5",
+      "timestamp": "2026-03-03T02:20:24.739Z",
+      "ip": "2401:4900:1cab:d12a:1dcc:efc0:ef31:9f25",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt9335498:1:5",
+      "title": "tt9335498:1:5",
+      "timestamp": "2026-03-03T02:23:22.027Z",
+      "ip": "2401:4900:1cab:d12a:1dcc:efc0:ef31:9f25",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:1:6",
+      "title": "tt17220216:1:6",
+      "timestamp": "2026-03-03T02:28:49.969Z",
+      "ip": "2405:201:6820:a83c:9125:408d:d9cc:d164",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -91406,7 +91407,14 @@
       "id": "tt9335498:1:5",
       "title": "tt9335498:1:5",
       "username": "nirbhay1412",
-      "lastActive": 1772504343301
+      "lastActive": 1772504602027
+    },
+    "2405:201:6820:a83c:9125:408d:d9cc:d164": {
+      "type": "series",
+      "id": "tt17220216:1:6",
+      "title": "tt17220216:1:6",
+      "username": "demon18319",
+      "lastActive": 1772504929969
     }
   }
 }
