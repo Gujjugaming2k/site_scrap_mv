@@ -1,5 +1,5 @@
 {
-  "totalViews": 33057,
+  "totalViews": 33059,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6525,22 +6525,6 @@
     "2a09:bac5:3af1:86e::d7:42"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt19244304:1:2",
-      "title": "tt19244304:1:2",
-      "timestamp": "2026-02-11T19:00:00.073Z",
-      "ip": "2405:201:682e:6839:4b12:f490:d42e:c576",
-      "username": "babubhaiya"
-    },
-    {
-      "type": "series",
-      "id": "tt2788316:1:1",
-      "title": "tt2788316:1:1",
-      "timestamp": "2026-02-11T19:00:43.894Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "n a b a."
-    },
     {
       "type": "series",
       "id": "tt2788316:1:1",
@@ -86524,6 +86508,22 @@
       "timestamp": "2026-03-03T19:13:51.131Z",
       "ip": "2405:201:2022:b81c:35f5:59c5:f3d3:934b",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt0108778:10:10",
+      "title": "tt0108778:10:10",
+      "timestamp": "2026-03-03T19:24:39.787Z",
+      "ip": "2a09:bac5:3af1:86e::d7:42",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt8036976",
+      "title": "tt8036976",
+      "timestamp": "2026-03-03T19:33:45.509Z",
+      "ip": "2409:40c2:5435:c54a:9447:14ff:feeb:568d",
+      "username": "targetx_25"
     }
   ],
   "activeNow": {
@@ -91883,11 +91883,11 @@
       "lastActive": 1772554308270
     },
     "2409:40c2:5435:c54a:9447:14ff:feeb:568d": {
-      "type": "series",
-      "id": "tt1352421:1:2",
-      "title": "tt1352421:1:2",
+      "type": "movie",
+      "id": "tt8036976",
+      "title": "tt8036976",
       "username": "targetx_25",
-      "lastActive": 1772559690166
+      "lastActive": 1772566425509
     },
     "2405:201:202d:d019:bb49:e82c:d5c1:e287": {
       "type": "series",
@@ -91947,10 +91947,10 @@
     },
     "2a09:bac5:3af1:86e::d7:42": {
       "type": "series",
-      "id": "tt0108778:10:9",
-      "title": "tt0108778:10:9",
+      "id": "tt0108778:10:10",
+      "title": "tt0108778:10:10",
       "username": "switchoff009",
-      "lastActive": 1772565190577
+      "lastActive": 1772565879787
     }
   }
 }
