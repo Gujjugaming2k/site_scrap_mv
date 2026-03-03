@@ -1,5 +1,5 @@
 {
-  "totalViews": 33069,
+  "totalViews": 33071,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6528,22 +6528,6 @@
     "51.37.138.123"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0944947:2:5",
-      "title": "Game of Thrones",
-      "timestamp": "2026-02-11T19:05:38.612Z",
-      "ip": "2405:201:682e:6839:4b12:f490:d42e:c576",
-      "username": "babubhaiya"
-    },
-    {
-      "type": "movie",
-      "id": "tt33046197",
-      "title": "tt33046197",
-      "timestamp": "2026-02-11T19:06:25.015Z",
-      "ip": "2405:201:2022:b81c:6c72:dc9b:575e:e837",
-      "username": "zealousninja"
-    },
     {
       "type": "series",
       "id": "tt0944947:2:6",
@@ -86527,6 +86511,22 @@
       "timestamp": "2026-03-03T20:00:11.214Z",
       "ip": "51.37.138.123",
       "username": "sid_g"
+    },
+    {
+      "type": "series",
+      "id": "tt39227709:1:1",
+      "title": "tt39227709:1:1",
+      "timestamp": "2026-03-03T21:06:06.395Z",
+      "ip": "51.37.138.123",
+      "username": "sid_g"
+    },
+    {
+      "type": "series",
+      "id": "tt39227709:1:1",
+      "title": "tt39227709:1:1",
+      "timestamp": "2026-03-03T21:08:02.205Z",
+      "ip": "51.37.138.123",
+      "username": "sid_g"
     }
   ],
   "activeNow": {
@@ -91970,11 +91970,11 @@
       "lastActive": 1772568004222
     },
     "51.37.138.123": {
-      "type": "movie",
-      "id": "tt31844586",
-      "title": "tt31844586",
+      "type": "series",
+      "id": "tt39227709:1:1",
+      "title": "tt39227709:1:1",
       "username": "sid_g",
-      "lastActive": 1772568011214
+      "lastActive": 1772572082205
     }
   }
 }
