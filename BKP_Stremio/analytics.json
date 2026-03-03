@@ -1,5 +1,5 @@
 {
-  "totalViews": 32605,
+  "totalViews": 32606,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6456,14 +6456,6 @@
     "2409:40e5:113e:f7f5:65a8:6425:ee77:6f4e"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt17220216:1:1",
-      "title": "tt17220216:1:1",
-      "timestamp": "2026-02-10T15:58:24.845Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt21906554:1:1",
@@ -86455,6 +86447,14 @@
       "timestamp": "2026-03-03T01:46:11.580Z",
       "ip": "2409:40e5:113e:f7f5:65a8:6425:ee77:6f4e",
       "username": "adshoyi"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:1:5",
+      "title": "tt17220216:1:5",
+      "timestamp": "2026-03-03T01:51:09.815Z",
+      "ip": "47.15.112.149",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -91388,10 +91388,10 @@
     },
     "47.15.112.149": {
       "type": "series",
-      "id": "tt17220216:1:4",
-      "title": "tt17220216:1:4",
+      "id": "tt17220216:1:5",
+      "title": "tt17220216:1:5",
       "username": "demon18319",
-      "lastActive": 1772501872468
+      "lastActive": 1772502669815
     },
     "2409:40e5:113e:f7f5:65a8:6425:ee77:6f4e": {
       "type": "series",
