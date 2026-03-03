@@ -1,5 +1,5 @@
 {
-  "totalViews": 32640,
+  "totalViews": 32645,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6460,49 +6460,10 @@
     "2401:4900:1cab:d12a:394a:a842:c7cc:625b",
     "106.222.248.202",
     "2a09:bac6:d870:a82::10c:65",
-    "2409:40e6:38:edc9:4ec:f3ff:feee:8e88"
+    "2409:40e6:38:edc9:4ec:f3ff:feee:8e88",
+    "2a09:bac6:d877:a82::10c:65"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt38772178",
-      "title": "tt38772178",
-      "timestamp": "2026-02-10T17:14:45.215Z",
-      "ip": "38.224.232.16",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt31844586",
-      "title": "tt31844586",
-      "timestamp": "2026-02-10T17:14:58.195Z",
-      "ip": "38.224.232.16",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt36388163",
-      "title": "tt36388163",
-      "timestamp": "2026-02-10T17:15:10.194Z",
-      "ip": "38.224.232.16",
-      "username": "thala_75"
-    },
-    {
-      "type": "series",
-      "id": "tt11311302:1:2",
-      "title": "tt11311302:1:2",
-      "timestamp": "2026-02-10T17:15:50.107Z",
-      "ip": "223.226.129.165",
-      "username": "user_9b"
-    },
-    {
-      "type": "series",
-      "id": "tt31812476:2:4",
-      "title": "tt31812476:2:4",
-      "timestamp": "2026-02-10T17:21:27.156Z",
-      "ip": "2401:4900:5276:fcf4:a811:e938:90a:c864",
-      "username": "extremeyat"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -86462,6 +86423,46 @@
       "timestamp": "2026-03-03T04:02:57.777Z",
       "ip": "2409:40e6:38:edc9:4ec:f3ff:feee:8e88",
       "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:1:9",
+      "title": "tt17220216:1:9",
+      "timestamp": "2026-03-03T04:07:17.708Z",
+      "ip": "2a09:bac6:d877:a82::10c:65",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt0265086",
+      "title": "Black Hawk Down",
+      "timestamp": "2026-03-03T04:09:28.355Z",
+      "ip": "2409:40e6:38:edc9:4ec:f3ff:feee:8e88",
+      "username": "nabakun24"
+    },
+    {
+      "type": "series",
+      "id": "tt9335498:1:7",
+      "title": "tt9335498:1:7",
+      "timestamp": "2026-03-03T04:20:01.737Z",
+      "ip": "106.222.248.202",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt27540542",
+      "title": "tt27540542",
+      "timestamp": "2026-03-03T04:20:31.312Z",
+      "ip": "110.235.219.176",
+      "username": "sid_g"
+    },
+    {
+      "type": "series",
+      "id": "tt27853283:2:3",
+      "title": "tt27853283:2:3",
+      "timestamp": "2026-03-03T04:22:16.043Z",
+      "ip": "110.235.219.176",
+      "username": "sid_g"
     }
   ],
   "activeNow": {
@@ -90667,10 +90668,10 @@
     },
     "110.235.219.176": {
       "type": "series",
-      "id": "tt36150795:1:5",
-      "title": "tt36150795:1:5",
+      "id": "tt27853283:2:3",
+      "title": "tt27853283:2:3",
       "username": "sid_g",
-      "lastActive": 1772378899906
+      "lastActive": 1772511736043
     },
     "2405:201:a40c:dba2:3dff:7dea:355a:78cc": {
       "type": "series",
@@ -91437,10 +91438,10 @@
     },
     "106.222.248.202": {
       "type": "series",
-      "id": "tt9335498:1:6",
-      "title": "tt9335498:1:6",
+      "id": "tt9335498:1:7",
+      "title": "tt9335498:1:7",
       "username": "nirbhay1412",
-      "lastActive": 1772510119418
+      "lastActive": 1772511601737
     },
     "2a09:bac6:d870:a82::10c:65": {
       "type": "series",
@@ -91451,10 +91452,17 @@
     },
     "2409:40e6:38:edc9:4ec:f3ff:feee:8e88": {
       "type": "movie",
-      "id": "tt24950660",
-      "title": "tt24950660",
+      "id": "tt0265086",
+      "title": "Black Hawk Down",
       "username": "nabakun24",
-      "lastActive": 1772510577777
+      "lastActive": 1772510968355
+    },
+    "2a09:bac6:d877:a82::10c:65": {
+      "type": "series",
+      "id": "tt17220216:1:9",
+      "title": "tt17220216:1:9",
+      "username": "demon18319",
+      "lastActive": 1772510837708
     }
   }
 }
