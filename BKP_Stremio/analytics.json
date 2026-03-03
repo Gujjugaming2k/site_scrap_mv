@@ -1,5 +1,5 @@
 {
-  "totalViews": 32675,
+  "totalViews": 32677,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6469,25 +6469,10 @@
     "2409:40c1:302b:5277:2c43:a8ff:fec0:1a61",
     "2a09:bac1:3680:5d68::10c:29",
     "2401:4900:ae26:ba85:2011:e42e:6419:c5b2",
-    "2409:40e4:1086:65d3:65a8:6425:ee77:6f4e"
+    "2409:40e4:1086:65d3:65a8:6425:ee77:6f4e",
+    "2409:40d4:5:562c:6c7c:32ff:fe3c:eb38"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt8103070:1:1",
-      "title": "tt8103070:1:1",
-      "timestamp": "2026-02-10T18:33:48.256Z",
-      "ip": "182.77.73.123",
-      "username": "theaceofficials"
-    },
-    {
-      "type": "series",
-      "id": "tt4145054:1:1",
-      "title": "tt4145054:1:1",
-      "timestamp": "2026-02-10T18:34:35.280Z",
-      "ip": "182.77.73.123",
-      "username": "theaceofficials"
-    },
     {
       "type": "series",
       "id": "tt2365946:1:1",
@@ -86471,6 +86456,22 @@
       "timestamp": "2026-03-03T05:42:12.779Z",
       "ip": "2001:4490:444d:e974:d87f:b2b0:4d1e:c4cc",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:1:1",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-03T05:57:34.989Z",
+      "ip": "2409:40d4:5:562c:6c7c:32ff:fe3c:eb38",
+      "username": "vk986"
+    },
+    {
+      "type": "movie",
+      "id": "tt1155076",
+      "title": "tt1155076",
+      "timestamp": "2026-03-03T06:12:11.208Z",
+      "ip": "2001:4490:444d:e974:d87f:b2b0:4d1e:c4cc",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -91481,10 +91482,10 @@
     },
     "2001:4490:444d:e974:d87f:b2b0:4d1e:c4cc": {
       "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
+      "id": "tt1155076",
+      "title": "tt1155076",
       "username": "zealousninja",
-      "lastActive": 1772516532779
+      "lastActive": 1772518331208
     },
     "2409:40d2:3000:74f7:68f8:d393:e6df:eee8": {
       "type": "movie",
@@ -91527,6 +91528,13 @@
       "title": "tt4712810",
       "username": "adshoyi",
       "lastActive": 1772516401936
+    },
+    "2409:40d4:5:562c:6c7c:32ff:fe3c:eb38": {
+      "type": "series",
+      "id": "tt13918776:1:1",
+      "title": "The Night Agent",
+      "username": "vk986",
+      "lastActive": 1772517454989
     }
   }
 }
