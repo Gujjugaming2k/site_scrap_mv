@@ -1,5 +1,5 @@
 {
-  "totalViews": 32801,
+  "totalViews": 32803,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6482,25 +6482,11 @@
     "2401:4900:1c0b:1e04:e508:ba41:6f3b:376c",
     "2409:40d0:10c1:f1fe:94c7:d8ff:fe90:3460",
     "2401:4900:1cab:d12a:288f:8d06:665d:ac47",
-    "122.168.80.124"
+    "122.168.80.124",
+    "146.196.34.167",
+    "103.87.57.76"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt11311302:1:5",
-      "title": "tt11311302:1:5",
-      "timestamp": "2026-02-11T09:54:19.990Z",
-      "ip": "2401:4900:889b:730d:a815:a7ff:9567:84a0",
-      "username": "user_9b"
-    },
-    {
-      "type": "movie",
-      "id": "tt1160419",
-      "title": "Dune",
-      "timestamp": "2026-02-11T09:56:03.469Z",
-      "ip": "2409:40e4:10a9:2a82:a597:6ab4:8157:d98e",
-      "username": "askchm"
-    },
     {
       "type": "movie",
       "id": "tt12908150",
@@ -86484,6 +86470,22 @@
       "timestamp": "2026-03-03T10:47:19.825Z",
       "ip": "2401:4900:1cab:d12a:288f:8d06:665d:ac47",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt29550683",
+      "title": "tt29550683",
+      "timestamp": "2026-03-03T10:55:17.803Z",
+      "ip": "146.196.34.167",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-03-03T11:01:46.362Z",
+      "ip": "103.87.57.76",
+      "username": "kunal_baroliya"
     }
   ],
   "activeNow": {
@@ -91631,6 +91633,20 @@
       "title": "tt23897504:2:1",
       "username": "user_9b",
       "lastActive": 1772533610296
+    },
+    "146.196.34.167": {
+      "type": "movie",
+      "id": "tt29550683",
+      "title": "tt29550683",
+      "username": "gaendaswami",
+      "lastActive": 1772535317803
+    },
+    "103.87.57.76": {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "username": "kunal_baroliya",
+      "lastActive": 1772535706362
     }
   }
 }
