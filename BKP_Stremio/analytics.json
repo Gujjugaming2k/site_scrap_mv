@@ -1,5 +1,5 @@
 {
-  "totalViews": 32803,
+  "totalViews": 32810,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6484,65 +6484,11 @@
     "2401:4900:1cab:d12a:288f:8d06:665d:ac47",
     "122.168.80.124",
     "146.196.34.167",
-    "103.87.57.76"
+    "103.87.57.76",
+    "2409:40e4:1087:55d2:e1f2:3945:6344:4df5",
+    "49.204.196.76"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt12908150",
-      "title": "The Life of Chuck",
-      "timestamp": "2026-02-11T10:03:07.312Z",
-      "ip": "59.95.32.4",
-      "username": "zealousninja"
-    },
-    {
-      "type": "series",
-      "id": "tt30003786:4:8",
-      "title": "tt30003786:4:8",
-      "timestamp": "2026-02-11T10:08:55.168Z",
-      "ip": "103.214.60.209",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt0111161",
-      "title": "The Shawshank Redemption",
-      "timestamp": "2026-02-11T10:39:03.755Z",
-      "ip": "2409:40d4:106c:3e5d:5079:12ff:fe82:a405",
-      "username": "golu_vk"
-    },
-    {
-      "type": "movie",
-      "id": "tt0073115",
-      "title": "tt0073115",
-      "timestamp": "2026-02-11T10:40:43.769Z",
-      "ip": "2409:40d4:106c:3e5d:5079:12ff:fe82:a405",
-      "username": "golu_vk"
-    },
-    {
-      "type": "series",
-      "id": "tt11311302:1:6",
-      "title": "tt11311302:1:6",
-      "timestamp": "2026-02-11T11:00:10.198Z",
-      "ip": "223.226.198.4",
-      "username": "user_9b"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:3",
-      "title": "tt27497448:1:3",
-      "timestamp": "2026-02-11T11:51:04.809Z",
-      "ip": "2409:40e5:1016:b9c0:f88d:8cff:fe39:e29b",
-      "username": "magicmannn"
-    },
-    {
-      "type": "series",
-      "id": "tt31812476:2:8",
-      "title": "tt31812476:2:8",
-      "timestamp": "2026-02-11T11:56:09.158Z",
-      "ip": "2401:4900:8fe1:b09f:d8bb:27e0:baaa:3061",
-      "username": "ashwanileon"
-    },
     {
       "type": "movie",
       "id": "tt32916440",
@@ -86486,6 +86432,62 @@
       "timestamp": "2026-03-03T11:01:46.362Z",
       "ip": "103.87.57.76",
       "username": "kunal_baroliya"
+    },
+    {
+      "type": "series",
+      "id": "tt39303992:1:1",
+      "title": "tt39303992:1:1",
+      "timestamp": "2026-03-03T11:07:37.162Z",
+      "ip": "2409:40e4:1087:55d2:e1f2:3945:6344:4df5",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:0:5",
+      "title": "tt0412142:0:5",
+      "timestamp": "2026-03-03T11:09:05.685Z",
+      "ip": "49.204.196.76",
+      "username": "telegram"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:8:6",
+      "title": "tt0412142:8:6",
+      "timestamp": "2026-03-03T11:10:20.034Z",
+      "ip": "49.204.196.76",
+      "username": "telegram"
+    },
+    {
+      "type": "series",
+      "id": "tt22014226",
+      "title": "tt22014226",
+      "timestamp": "2026-03-03T11:10:51.806Z",
+      "ip": "2001:4490:444d:e974:d87f:b2b0:4d1e:c4cc",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt0412142:7:23",
+      "title": "tt0412142:7:23",
+      "timestamp": "2026-03-03T11:11:40.305Z",
+      "ip": "49.204.196.76",
+      "username": "telegram"
+    },
+    {
+      "type": "movie",
+      "id": "tt27987046",
+      "title": "Uprising",
+      "timestamp": "2026-03-03T11:18:37.158Z",
+      "ip": "2001:4490:444d:e974:d87f:b2b0:4d1e:c4cc",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:1:7",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-03T11:19:36.466Z",
+      "ip": "2409:40d4:5:562c:6c7c:32ff:fe3c:eb38",
+      "username": "vk986"
     }
   ],
   "activeNow": {
@@ -91496,10 +91498,10 @@
     },
     "2001:4490:444d:e974:d87f:b2b0:4d1e:c4cc": {
       "type": "movie",
-      "id": "tt39444607",
-      "title": "tt39444607",
+      "id": "tt27987046",
+      "title": "Uprising",
       "username": "zealousninja",
-      "lastActive": 1772533898037
+      "lastActive": 1772536717158
     },
     "2409:40d2:3000:74f7:68f8:d393:e6df:eee8": {
       "type": "series",
@@ -91548,7 +91550,7 @@
       "id": "tt13918776:1:7",
       "title": "The Night Agent",
       "username": "vk986",
-      "lastActive": 1772533580857
+      "lastActive": 1772536776466
     },
     "2409:40f3:20cd:5450:583c:9f7b:988c:bfb6": {
       "type": "movie",
@@ -91647,6 +91649,20 @@
       "title": "tt27497448:1:1",
       "username": "kunal_baroliya",
       "lastActive": 1772535706362
+    },
+    "2409:40e4:1087:55d2:e1f2:3945:6344:4df5": {
+      "type": "series",
+      "id": "tt39303992:1:1",
+      "title": "tt39303992:1:1",
+      "username": "askchm",
+      "lastActive": 1772536057162
+    },
+    "49.204.196.76": {
+      "type": "series",
+      "id": "tt0412142:7:23",
+      "title": "tt0412142:7:23",
+      "username": "telegram",
+      "lastActive": 1772536300305
     }
   }
 }
