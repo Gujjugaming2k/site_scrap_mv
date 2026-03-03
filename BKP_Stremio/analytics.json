@@ -1,5 +1,5 @@
 {
-  "totalViews": 32602,
+  "totalViews": 32605,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6451,33 +6451,11 @@
     "2401:4900:5555:3683:f0ef:584f:a7f0:a5bb",
     "2a09:bac1:36a0:80::243:65",
     "122.161.242.173",
-    "2a02:9b0:106:4496:1977:31a7:7155:bdf3"
+    "2a02:9b0:106:4496:1977:31a7:7155:bdf3",
+    "47.15.112.149",
+    "2409:40e5:113e:f7f5:65a8:6425:ee77:6f4e"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt21906554:1:7",
-      "title": "tt21906554:1:7",
-      "timestamp": "2026-02-10T15:54:53.936Z",
-      "ip": "2409:40f0:167:a614:e0cf:81ff:feba:7aec",
-      "username": "rick grimes"
-    },
-    {
-      "type": "series",
-      "id": "tt21906554:1:9",
-      "title": "tt21906554:1:9",
-      "timestamp": "2026-02-10T15:56:00.958Z",
-      "ip": "2409:40f0:167:a614:e0cf:81ff:feba:7aec",
-      "username": "rick grimes"
-    },
-    {
-      "type": "movie",
-      "id": "tt28182053",
-      "title": "tt28182053",
-      "timestamp": "2026-02-10T15:56:10.098Z",
-      "ip": "2401:4900:1cb0:cfef:3487:2feb:c5f5:f0ab",
-      "username": "saisrinivas"
-    },
     {
       "type": "series",
       "id": "tt17220216:1:1",
@@ -86453,6 +86431,30 @@
       "timestamp": "2026-03-03T01:28:59.455Z",
       "ip": "2a02:9b0:106:4496:1977:31a7:7155:bdf3",
       "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:1:4",
+      "title": "tt17220216:1:4",
+      "timestamp": "2026-03-03T01:37:52.468Z",
+      "ip": "47.15.112.149",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt39303992:1:1",
+      "title": "tt39303992:1:1",
+      "timestamp": "2026-03-03T01:46:04.854Z",
+      "ip": "2409:40e5:113e:f7f5:65a8:6425:ee77:6f4e",
+      "username": "adshoyi"
+    },
+    {
+      "type": "series",
+      "id": "tt39303992:1:1",
+      "title": "tt39303992:1:1",
+      "timestamp": "2026-03-03T01:46:11.580Z",
+      "ip": "2409:40e5:113e:f7f5:65a8:6425:ee77:6f4e",
+      "username": "adshoyi"
     }
   ],
   "activeNow": {
@@ -91383,6 +91385,20 @@
       "title": "tt31050594",
       "username": "hoosa500",
       "lastActive": 1772501339455
+    },
+    "47.15.112.149": {
+      "type": "series",
+      "id": "tt17220216:1:4",
+      "title": "tt17220216:1:4",
+      "username": "demon18319",
+      "lastActive": 1772501872468
+    },
+    "2409:40e5:113e:f7f5:65a8:6425:ee77:6f4e": {
+      "type": "series",
+      "id": "tt39303992:1:1",
+      "title": "tt39303992:1:1",
+      "username": "adshoyi",
+      "lastActive": 1772502371580
     }
   }
 }
