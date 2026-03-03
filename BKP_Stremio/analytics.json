@@ -1,5 +1,5 @@
 {
-  "totalViews": 33071,
+  "totalViews": 33076,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6528,46 +6528,6 @@
     "51.37.138.123"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0944947:2:6",
-      "title": "Game of Thrones",
-      "timestamp": "2026-02-11T19:06:33.343Z",
-      "ip": "2405:201:682e:6839:1182:cd18:9453:711f",
-      "username": "tushar0nly"
-    },
-    {
-      "type": "series",
-      "id": "tt24053860:1:10",
-      "title": "tt24053860:1:10",
-      "timestamp": "2026-02-11T19:07:11.660Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "n a b a."
-    },
-    {
-      "type": "movie",
-      "id": "tt33046197",
-      "title": "tt33046197",
-      "timestamp": "2026-02-11T19:07:29.397Z",
-      "ip": "2405:201:2022:b81c:6c72:dc9b:575e:e837",
-      "username": "zealousninja"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:2:6",
-      "title": "Game of Thrones",
-      "timestamp": "2026-02-11T19:07:40.395Z",
-      "ip": "2405:201:682e:6839:1182:cd18:9453:711f",
-      "username": "tushar0nly"
-    },
-    {
-      "type": "movie",
-      "id": "tt33046197",
-      "title": "tt33046197",
-      "timestamp": "2026-02-11T19:08:21.786Z",
-      "ip": "2405:201:2022:b81c:6c72:dc9b:575e:e837",
-      "username": "zealousninja"
-    },
     {
       "type": "movie",
       "id": "tt26443597",
@@ -86527,6 +86487,46 @@
       "timestamp": "2026-03-03T21:08:02.205Z",
       "ip": "51.37.138.123",
       "username": "sid_g"
+    },
+    {
+      "type": "series",
+      "id": "tt39227709:1:1",
+      "title": "tt39227709:1:1",
+      "timestamp": "2026-03-03T21:13:59.044Z",
+      "ip": "51.37.138.123",
+      "username": "sid_g"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-03-03T21:14:39.233Z",
+      "ip": "51.37.138.123",
+      "username": "sid_g"
+    },
+    {
+      "type": "movie",
+      "id": "tt39376926",
+      "title": "tt39376926",
+      "timestamp": "2026-03-03T21:18:00.959Z",
+      "ip": "103.162.159.89",
+      "username": "opuser75"
+    },
+    {
+      "type": "movie",
+      "id": "tt35544996",
+      "title": "tt35544996",
+      "timestamp": "2026-03-03T21:20:31.476Z",
+      "ip": "103.162.159.89",
+      "username": "opuser75"
+    },
+    {
+      "type": "movie",
+      "id": "tt39715009",
+      "title": "tt39715009",
+      "timestamp": "2026-03-03T21:20:58.558Z",
+      "ip": "103.162.159.89",
+      "username": "opuser75"
     }
   ],
   "activeNow": {
@@ -91306,10 +91306,10 @@
     },
     "103.162.159.89": {
       "type": "movie",
-      "id": "tt0460740",
-      "title": "tt0460740",
+      "id": "tt39715009",
+      "title": "tt39715009",
       "username": "opuser75",
-      "lastActive": 1772456860310
+      "lastActive": 1772572858558
     },
     "106.197.19.233": {
       "type": "series",
@@ -91970,11 +91970,11 @@
       "lastActive": 1772568004222
     },
     "51.37.138.123": {
-      "type": "series",
-      "id": "tt39227709:1:1",
-      "title": "tt39227709:1:1",
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
       "username": "sid_g",
-      "lastActive": 1772572082205
+      "lastActive": 1772572479233
     }
   }
 }
