@@ -1,5 +1,5 @@
 {
-  "totalViews": 33035,
+  "totalViews": 33039,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6517,41 +6517,10 @@
     "2405:201:202d:d019:bb49:e82c:d5c1:e287",
     "2a09:bac5:3af1:16aa::242:83",
     "2001:4490:4e65:3784:2c34:701d:2acd:2fae",
-    "2402:8100:2cdd:234b:ce3d:76ad:b80c:79c1"
+    "2402:8100:2cdd:234b:ce3d:76ad:b80c:79c1",
+    "2402:a00:182:1828:d60:2d03:77c:a0c4"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0214915",
-      "title": "tt0214915",
-      "timestamp": "2026-02-11T18:27:07.646Z",
-      "ip": "103.249.4.198",
-      "username": "tgh2r"
-    },
-    {
-      "type": "movie",
-      "id": "tt25433734",
-      "title": "tt25433734",
-      "timestamp": "2026-02-11T18:28:41.307Z",
-      "ip": "2409:40e4:1097:9d96:690b:147c:ef6e:bcf5",
-      "username": "askchm"
-    },
-    {
-      "type": "movie",
-      "id": "tt25433734",
-      "title": "tt25433734",
-      "timestamp": "2026-02-11T18:29:19.170Z",
-      "ip": "2409:40e4:1097:9d96:690b:147c:ef6e:bcf5",
-      "username": "askchm"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-11T18:31:31.722Z",
-      "ip": "49.37.8.211",
-      "username": "lazerkey"
-    },
     {
       "type": "series",
       "id": "tt30003786:4:1",
@@ -86519,6 +86488,38 @@
       "timestamp": "2026-03-03T18:20:20.313Z",
       "ip": "2409:40d4:5:562c:6c7c:32ff:fe3c:eb38",
       "username": "vk986"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:1:12",
+      "title": "tt6354518:1:12",
+      "timestamp": "2026-03-03T18:26:43.186Z",
+      "ip": "2402:8100:2cdd:234b:ce3d:76ad:b80c:79c1",
+      "username": "schnom153"
+    },
+    {
+      "type": "series",
+      "id": "tt6354518:1:13",
+      "title": "tt6354518:1:13",
+      "timestamp": "2026-03-03T18:27:17.642Z",
+      "ip": "2402:8100:2cdd:234b:ce3d:76ad:b80c:79c1",
+      "username": "schnom153"
+    },
+    {
+      "type": "movie",
+      "id": "tt38772178",
+      "title": "tt38772178",
+      "timestamp": "2026-03-03T18:29:12.459Z",
+      "ip": "38.224.232.177",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "timestamp": "2026-03-03T18:30:34.117Z",
+      "ip": "2402:a00:182:1828:d60:2d03:77c:a0c4",
+      "username": "asj90"
     }
   ],
   "activeNow": {
@@ -90948,10 +90949,10 @@
     },
     "38.224.232.177": {
       "type": "movie",
-      "id": "tt33088887",
-      "title": "tt33088887",
+      "id": "tt38772178",
+      "title": "tt38772178",
       "username": "thala_75",
-      "lastActive": 1772557663560
+      "lastActive": 1772562552459
     },
     "2405:201:a018:b012:4977:3f99:a891:3a94": {
       "type": "movie",
@@ -91906,11 +91907,18 @@
       "lastActive": 1772560086813
     },
     "2402:8100:2cdd:234b:ce3d:76ad:b80c:79c1": {
-      "type": "movie",
-      "id": "tt1493274",
-      "title": "Caught Stealing",
+      "type": "series",
+      "id": "tt6354518:1:13",
+      "title": "tt6354518:1:13",
       "username": "schnom153",
-      "lastActive": 1772561899904
+      "lastActive": 1772562437642
+    },
+    "2402:a00:182:1828:d60:2d03:77c:a0c4": {
+      "type": "movie",
+      "id": "tt23790696",
+      "title": "tt23790696",
+      "username": "asj90",
+      "lastActive": 1772562634117
     }
   }
 }
