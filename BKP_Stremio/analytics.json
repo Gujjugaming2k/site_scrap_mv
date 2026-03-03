@@ -1,5 +1,5 @@
 {
-  "totalViews": 32810,
+  "totalViews": 32814,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6486,41 +6486,12 @@
     "146.196.34.167",
     "103.87.57.76",
     "2409:40e4:1087:55d2:e1f2:3945:6344:4df5",
-    "49.204.196.76"
+    "49.204.196.76",
+    "45.63.76.132",
+    "2409:40f3:200d:1b67:187:b208:b3c7:f56",
+    "2409:40e0:37:8aab:1997:3b99:6d46:e8b9"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
-      "timestamp": "2026-02-11T11:57:15.260Z",
-      "ip": "2a09:bac5:3af1:172d::24f:7",
-      "username": "switchoff009"
-    },
-    {
-      "type": "series",
-      "id": "tt31812476:2:8",
-      "title": "tt31812476:2:8",
-      "timestamp": "2026-02-11T11:57:42.361Z",
-      "ip": "2401:4900:8fe1:b09f:448f:2eba:6fa6:d15",
-      "username": "ashwanileon"
-    },
-    {
-      "type": "movie",
-      "id": "tt30476518",
-      "title": "Big World",
-      "timestamp": "2026-02-11T12:10:54.515Z",
-      "ip": "103.214.60.209",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt30476518",
-      "title": "Big World",
-      "timestamp": "2026-02-11T12:20:02.968Z",
-      "ip": "103.214.60.209",
-      "username": "gaendaswami"
-    },
     {
       "type": "movie",
       "id": "tt15048614",
@@ -86488,6 +86459,38 @@
       "timestamp": "2026-03-03T11:19:36.466Z",
       "ip": "2409:40d4:5:562c:6c7c:32ff:fe3c:eb38",
       "username": "vk986"
+    },
+    {
+      "type": "series",
+      "id": "tt1356511:1:1",
+      "title": "tt1356511:1:1",
+      "timestamp": "2026-03-03T11:22:15.122Z",
+      "ip": "106.197.19.233",
+      "username": "goatedbentennyson"
+    },
+    {
+      "type": "series",
+      "id": "tt1356511:1:1",
+      "title": "tt1356511:1:1",
+      "timestamp": "2026-03-03T11:28:02.150Z",
+      "ip": "45.63.76.132",
+      "username": "goatedbentennyson"
+    },
+    {
+      "type": "movie",
+      "id": "tt2964120",
+      "title": "tt2964120",
+      "timestamp": "2026-03-03T11:29:52.240Z",
+      "ip": "2409:40f3:200d:1b67:187:b208:b3c7:f56",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt1591095",
+      "title": "Insidious",
+      "timestamp": "2026-03-03T11:36:09.392Z",
+      "ip": "2409:40e0:37:8aab:1997:3b99:6d46:e8b9",
+      "username": "nobody_ismy_name"
     }
   ],
   "activeNow": {
@@ -91274,10 +91277,10 @@
     },
     "106.197.19.233": {
       "type": "series",
-      "id": "tt0293734:1:1",
-      "title": "tt0293734:1:1",
+      "id": "tt1356511:1:1",
+      "title": "tt1356511:1:1",
       "username": "goatedbentennyson",
-      "lastActive": 1772493373711
+      "lastActive": 1772536935122
     },
     "2401:4900:88d5:77b2:3e3b:adff:fe63:d1d2": {
       "type": "series",
@@ -91663,6 +91666,27 @@
       "title": "tt0412142:7:23",
       "username": "telegram",
       "lastActive": 1772536300305
+    },
+    "45.63.76.132": {
+      "type": "series",
+      "id": "tt1356511:1:1",
+      "title": "tt1356511:1:1",
+      "username": "goatedbentennyson",
+      "lastActive": 1772537282150
+    },
+    "2409:40f3:200d:1b67:187:b208:b3c7:f56": {
+      "type": "movie",
+      "id": "tt2964120",
+      "title": "tt2964120",
+      "username": "aravindsivan",
+      "lastActive": 1772537392240
+    },
+    "2409:40e0:37:8aab:1997:3b99:6d46:e8b9": {
+      "type": "movie",
+      "id": "tt1591095",
+      "title": "Insidious",
+      "username": "nobody_ismy_name",
+      "lastActive": 1772537769392
     }
   }
 }
