@@ -1,5 +1,5 @@
 {
-  "totalViews": 32956,
+  "totalViews": 32958,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6512,22 +6512,6 @@
     "2a09:bac5:3af1:16b4::243:65"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt13964560",
-      "title": "tt13964560",
-      "timestamp": "2026-02-11T16:34:56.508Z",
-      "ip": "2001:4490:4e65:1d8b:9d0f:bf2c:33da:3396",
-      "username": "adiyogivishwanath"
-    },
-    {
-      "type": "series",
-      "id": "tt0460649:5:10",
-      "title": "tt0460649:5:10",
-      "timestamp": "2026-02-11T16:35:06.841Z",
-      "ip": "2a09:bac5:40de:1a96::2a6:53",
-      "username": "demon18319"
-    },
     {
       "type": "series",
       "id": "tt11794812:1:1",
@@ -86511,6 +86495,22 @@
       "timestamp": "2026-03-03T15:04:00.423Z",
       "ip": "106.197.19.233",
       "username": "goatedbentennyson"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:1:10",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-03T15:22:21.974Z",
+      "ip": "2409:40d4:5:562c:6c7c:32ff:fe3c:eb38",
+      "username": "vk986"
+    },
+    {
+      "type": "movie",
+      "id": "tt24244300",
+      "title": "tt24244300",
+      "timestamp": "2026-03-03T15:22:40.828Z",
+      "ip": "202.173.124.60",
+      "username": "ryuzaklo26"
     }
   ],
   "activeNow": {
@@ -89414,10 +89414,10 @@
     },
     "202.173.124.60": {
       "type": "movie",
-      "id": "tt8205190",
-      "title": "tt8205190",
+      "id": "tt24244300",
+      "title": "tt24244300",
       "username": "ryuzaklo26",
-      "lastActive": 1772472086676
+      "lastActive": 1772551360828
     },
     "2401:4900:1caa:aab9:808e:de22:ce96:18cd": {
       "type": "movie",
@@ -91570,10 +91570,10 @@
     },
     "2409:40d4:5:562c:6c7c:32ff:fe3c:eb38": {
       "type": "series",
-      "id": "tt13918776:1:9",
+      "id": "tt13918776:1:10",
       "title": "The Night Agent",
       "username": "vk986",
-      "lastActive": 1772548584347
+      "lastActive": 1772551341974
     },
     "2409:40f3:20cd:5450:583c:9f7b:988c:bfb6": {
       "type": "movie",
