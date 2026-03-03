@@ -1,5 +1,5 @@
 {
-  "totalViews": 32638,
+  "totalViews": 32640,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6459,25 +6459,10 @@
     "2401:4900:1cab:d12a:9452:9903:d1a1:dd7a",
     "2401:4900:1cab:d12a:394a:a842:c7cc:625b",
     "106.222.248.202",
-    "2a09:bac6:d870:a82::10c:65"
+    "2a09:bac6:d870:a82::10c:65",
+    "2409:40e6:38:edc9:4ec:f3ff:feee:8e88"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0411008:4:1",
-      "title": "Lost",
-      "timestamp": "2026-02-10T17:11:07.468Z",
-      "ip": "116.68.75.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
-      "timestamp": "2026-02-10T17:13:54.044Z",
-      "ip": "38.224.232.16",
-      "username": "thala_75"
-    },
     {
       "type": "movie",
       "id": "tt38772178",
@@ -86461,6 +86446,22 @@
       "timestamp": "2026-03-03T03:51:18.173Z",
       "ip": "2a09:bac6:d870:a82::10c:65",
       "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt9335498:1:6",
+      "title": "tt9335498:1:6",
+      "timestamp": "2026-03-03T03:55:19.418Z",
+      "ip": "106.222.248.202",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt24950660",
+      "title": "tt24950660",
+      "timestamp": "2026-03-03T04:02:57.777Z",
+      "ip": "2409:40e6:38:edc9:4ec:f3ff:feee:8e88",
+      "username": "nabakun24"
     }
   ],
   "activeNow": {
@@ -91436,10 +91437,10 @@
     },
     "106.222.248.202": {
       "type": "series",
-      "id": "tt9335498:1:5",
-      "title": "tt9335498:1:5",
+      "id": "tt9335498:1:6",
+      "title": "tt9335498:1:6",
       "username": "nirbhay1412",
-      "lastActive": 1772509166615
+      "lastActive": 1772510119418
     },
     "2a09:bac6:d870:a82::10c:65": {
       "type": "series",
@@ -91447,6 +91448,13 @@
       "title": "tt17220216:1:8",
       "username": "demon18319",
       "lastActive": 1772509878173
+    },
+    "2409:40e6:38:edc9:4ec:f3ff:feee:8e88": {
+      "type": "movie",
+      "id": "tt24950660",
+      "title": "tt24950660",
+      "username": "nabakun24",
+      "lastActive": 1772510577777
     }
   }
 }
