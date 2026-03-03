@@ -1,5 +1,5 @@
 {
-  "totalViews": 33032,
+  "totalViews": 33035,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6516,33 +6516,10 @@
     "2409:40c2:5435:c54a:9447:14ff:feeb:568d",
     "2405:201:202d:d019:bb49:e82c:d5c1:e287",
     "2a09:bac5:3af1:16aa::242:83",
-    "2001:4490:4e65:3784:2c34:701d:2acd:2fae"
+    "2001:4490:4e65:3784:2c34:701d:2acd:2fae",
+    "2402:8100:2cdd:234b:ce3d:76ad:b80c:79c1"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt9544034:3:3",
-      "title": "tt9544034:3:3",
-      "timestamp": "2026-02-11T18:22:39.199Z",
-      "ip": "2405:201:682e:6839:1182:cd18:9453:711f",
-      "username": "tushar0nly"
-    },
-    {
-      "type": "series",
-      "id": "tt9544034:3:3",
-      "title": "tt9544034:3:3",
-      "timestamp": "2026-02-11T18:24:43.091Z",
-      "ip": "2405:201:682e:6839:1182:cd18:9453:711f",
-      "username": "tushar0nly"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-11T18:25:37.922Z",
-      "ip": "2405:201:2022:b81c:6186:3ad4:78b0:f34b",
-      "username": "zealousninja"
-    },
     {
       "type": "movie",
       "id": "tt0214915",
@@ -86518,6 +86495,30 @@
       "timestamp": "2026-03-03T17:59:46.284Z",
       "ip": "122.168.80.124",
       "username": "user_9b"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:3:5",
+      "title": "tt0903747:3:5",
+      "timestamp": "2026-03-03T18:15:58.941Z",
+      "ip": "103.249.4.164",
+      "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt1493274",
+      "title": "Caught Stealing",
+      "timestamp": "2026-03-03T18:18:19.904Z",
+      "ip": "2402:8100:2cdd:234b:ce3d:76ad:b80c:79c1",
+      "username": "schnom153"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:2:2",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-03T18:20:20.313Z",
+      "ip": "2409:40d4:5:562c:6c7c:32ff:fe3c:eb38",
+      "username": "vk986"
     }
   ],
   "activeNow": {
@@ -89806,10 +89807,10 @@
     },
     "103.249.4.164": {
       "type": "series",
-      "id": "tt11318102:2:1",
-      "title": "tt11318102:2:1",
+      "id": "tt0903747:3:5",
+      "title": "tt0903747:3:5",
       "username": "tgh2r",
-      "lastActive": 1772560762189
+      "lastActive": 1772561758941
     },
     "49.37.11.122": {
       "type": "movie",
@@ -91576,11 +91577,11 @@
       "lastActive": 1772516401936
     },
     "2409:40d4:5:562c:6c7c:32ff:fe3c:eb38": {
-      "type": "movie",
-      "id": "tt14181714",
-      "title": "tt14181714",
-      "username": "golu_vk",
-      "lastActive": 1772560411730
+      "type": "series",
+      "id": "tt13918776:2:2",
+      "title": "The Night Agent",
+      "username": "vk986",
+      "lastActive": 1772562020313
     },
     "2409:40f3:20cd:5450:583c:9f7b:988c:bfb6": {
       "type": "movie",
@@ -91903,6 +91904,13 @@
       "title": "tt0429683",
       "username": "adiyogivishwanath",
       "lastActive": 1772560086813
+    },
+    "2402:8100:2cdd:234b:ce3d:76ad:b80c:79c1": {
+      "type": "movie",
+      "id": "tt1493274",
+      "title": "Caught Stealing",
+      "username": "schnom153",
+      "lastActive": 1772561899904
     }
   }
 }
