@@ -1,5 +1,5 @@
 {
-  "totalViews": 33467,
+  "totalViews": 33474,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6605,65 +6605,10 @@
     "2001:4490:488d:e92:a44c:33b7:b81e:d3d1",
     "2603:3003:3544:6700:7de5:7495:35e0:1cc0",
     "2409:40f3:20cb:3856:f058:a6c0:badd:a072",
-    "163.223.102.215"
+    "163.223.102.215",
+    "182.77.74.44"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0988824:1:1",
-      "title": "tt0988824:1:1",
-      "timestamp": "2026-02-12T07:54:14.131Z",
-      "ip": "49.43.110.5",
-      "username": "shadow"
-    },
-    {
-      "type": "series",
-      "id": "tt16280546:1:1",
-      "title": "tt16280546:1:1",
-      "timestamp": "2026-02-12T07:55:57.924Z",
-      "ip": "182.69.179.214",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt16311594",
-      "title": "F1",
-      "timestamp": "2026-02-12T07:56:32.476Z",
-      "ip": "2405:201:2022:b81c:c951:4ea4:c622:5401",
-      "username": "zealousninja"
-    },
-    {
-      "type": "series",
-      "id": "tt16280546:1:1",
-      "title": "tt16280546:1:1",
-      "timestamp": "2026-02-12T07:56:34.287Z",
-      "ip": "182.69.179.214",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt0988824:1:1",
-      "title": "tt0988824:1:1",
-      "timestamp": "2026-02-12T07:56:42.664Z",
-      "ip": "2405:201:500c:4a01:c9a5:9839:79ae:6189",
-      "username": "karthik"
-    },
-    {
-      "type": "series",
-      "id": "tt0988824:1:1",
-      "title": "tt0988824:1:1",
-      "timestamp": "2026-02-12T07:56:42.747Z",
-      "ip": "2405:201:500c:4a01:c9a5:9839:79ae:6189",
-      "username": "shadow"
-    },
-    {
-      "type": "series",
-      "id": "tt16280546:1:1",
-      "title": "tt16280546:1:1",
-      "timestamp": "2026-02-12T07:56:42.998Z",
-      "ip": "182.69.179.214",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt11097240:1:2",
@@ -86607,6 +86552,62 @@
       "timestamp": "2026-03-04T18:53:55.948Z",
       "ip": "2409:40d4:1236:cd69:acf2:dcff:fe5e:8597",
       "username": "vk986"
+    },
+    {
+      "type": "movie",
+      "id": "tt32246771",
+      "title": "Bring Her Back",
+      "timestamp": "2026-03-04T19:01:29.572Z",
+      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt1130884",
+      "title": "Shutter Island",
+      "timestamp": "2026-03-04T19:03:13.555Z",
+      "ip": "182.77.74.44",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt1130884",
+      "title": "Shutter Island",
+      "timestamp": "2026-03-04T19:04:10.239Z",
+      "ip": "182.77.74.44",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt23855250",
+      "title": "tt23855250",
+      "timestamp": "2026-03-04T19:08:52.666Z",
+      "ip": "116.68.77.63",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt11281192",
+      "title": "tt11281192",
+      "timestamp": "2026-03-04T19:09:15.986Z",
+      "ip": "116.68.77.63",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt34446638",
+      "title": "tt34446638",
+      "timestamp": "2026-03-04T19:09:28.394Z",
+      "ip": "116.68.77.63",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:5:7",
+      "title": "Lost",
+      "timestamp": "2026-03-04T19:09:44.440Z",
+      "ip": "116.68.77.63",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -88418,10 +88419,10 @@
     },
     "2405:201:300c:213:1ef4:3fff:fe0f:1b78": {
       "type": "movie",
-      "id": "tt27564844",
-      "title": "tt27564844",
+      "id": "tt32246771",
+      "title": "Bring Her Back",
       "username": "gendaswammy",
-      "lastActive": 1772393700424
+      "lastActive": 1772650889572
     },
     "103.99.196.119": {
       "type": "movie",
@@ -90496,11 +90497,11 @@
       "lastActive": 1772302571668
     },
     "116.68.77.63": {
-      "type": "movie",
-      "id": "tt30476518",
-      "title": "Big World",
+      "type": "series",
+      "id": "tt0411008:5:7",
+      "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1772640164245
+      "lastActive": 1772651384440
     },
     "2409:40e4:1156:e4c6:40ab:f3ff:fece:13fa": {
       "type": "movie",
@@ -92615,6 +92616,13 @@
       "title": "tt32642706",
       "username": "mutti9",
       "lastActive": 1772650063956
+    },
+    "182.77.74.44": {
+      "type": "movie",
+      "id": "tt1130884",
+      "title": "Shutter Island",
+      "username": "theaceofficials",
+      "lastActive": 1772651050239
     }
   }
 }
