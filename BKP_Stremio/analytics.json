@@ -1,5 +1,5 @@
 {
-  "totalViews": 33119,
+  "totalViews": 33121,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6532,22 +6532,6 @@
     "2405:201:2022:b81c:755f:c5af:a01a:d378"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12004706:3:1",
-      "title": "tt12004706:3:1",
-      "timestamp": "2026-02-12T02:28:14.101Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "n a b a."
-    },
-    {
-      "type": "series",
-      "id": "tt12004706:4:1",
-      "title": "tt12004706:4:1",
-      "timestamp": "2026-02-12T02:28:27.564Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "n a b a."
-    },
     {
       "type": "series",
       "id": "tt31812476:2:8",
@@ -86531,6 +86515,22 @@
       "timestamp": "2026-03-04T03:53:15.459Z",
       "ip": "2405:201:2022:b81c:755f:c5af:a01a:d378",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt0468569",
+      "title": "The Dark Knight",
+      "timestamp": "2026-03-04T03:55:56.163Z",
+      "ip": "2405:201:2022:b81c:755f:c5af:a01a:d378",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt0468569",
+      "title": "The Dark Knight",
+      "timestamp": "2026-03-04T03:55:56.975Z",
+      "ip": "2405:201:2022:b81c:755f:c5af:a01a:d378",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -92006,7 +92006,7 @@
       "id": "tt0468569",
       "title": "The Dark Knight",
       "username": "zealousninja",
-      "lastActive": 1772596395459
+      "lastActive": 1772596556975
     }
   }
 }
