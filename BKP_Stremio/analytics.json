@@ -1,5 +1,5 @@
 {
-  "totalViews": 33388,
+  "totalViews": 33391,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6597,30 +6597,6 @@
     "2401:4900:1cab:d12a:557f:6c5d:adb:7e1b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt11126994:1:5",
-      "title": "Arcane",
-      "timestamp": "2026-02-12T06:36:56.209Z",
-      "ip": "2409:40e4:5:b11b:1078:a5ff:fe54:cdfd",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "movie",
-      "id": "tt6791350",
-      "title": "Guardians of the Galaxy Vol. 3",
-      "timestamp": "2026-02-12T06:39:34.650Z",
-      "ip": "2001:4490:4e65:1d8b:fdc7:8e64:b88f:e178",
-      "username": "adiyogivishwanath"
-    },
-    {
-      "type": "series",
-      "id": "tt11126994:1:5",
-      "title": "Arcane",
-      "timestamp": "2026-02-12T06:39:34.851Z",
-      "ip": "152.58.189.201",
-      "username": "cyberboy12321"
-    },
     {
       "type": "movie",
       "id": "tt14905854",
@@ -86596,6 +86572,30 @@
       "timestamp": "2026-03-04T16:06:22.830Z",
       "ip": "2401:4900:1cab:d12a:557f:6c5d:adb:7e1b",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt9335498:1:15",
+      "title": "tt9335498:1:15",
+      "timestamp": "2026-03-04T16:07:38.577Z",
+      "ip": "2401:4900:1cab:d12a:557f:6c5d:adb:7e1b",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt9335498:1:15",
+      "title": "tt9335498:1:15",
+      "timestamp": "2026-03-04T16:11:22.926Z",
+      "ip": "2401:4900:1cab:d12a:557f:6c5d:adb:7e1b",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt0386676:5:2",
+      "title": "tt0386676:5:2",
+      "timestamp": "2026-03-04T16:13:43.228Z",
+      "ip": "2a09:bac5:3af1:16aa::242:81",
+      "username": "switchoff009"
     }
   ],
   "activeNow": {
@@ -92495,10 +92495,10 @@
     },
     "2a09:bac5:3af1:16aa::242:81": {
       "type": "series",
-      "id": "tt0386676:4:19",
-      "title": "tt0386676:4:19",
+      "id": "tt0386676:5:2",
+      "title": "tt0386676:5:2",
       "username": "switchoff009",
-      "lastActive": 1772639333105
+      "lastActive": 1772640823228
     },
     "2409:40d4:40c6:d0e5:8000::": {
       "type": "movie",
@@ -92526,7 +92526,7 @@
       "id": "tt9335498:1:15",
       "title": "tt9335498:1:15",
       "username": "nirbhay1412",
-      "lastActive": 1772640382830
+      "lastActive": 1772640682926
     }
   }
 }
