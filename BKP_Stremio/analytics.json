@@ -1,5 +1,5 @@
 {
-  "totalViews": 33199,
+  "totalViews": 33202,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6552,33 +6552,10 @@
     "103.175.9.154",
     "2402:8100:2dcb:320b:200c:c670:35c1:115c",
     "2402:a00:10a:60cf:4005:7f6b:4038:e62e",
-    "2401:4900:88bb:b9fe:f00a:1138:894a:d2b4"
+    "2401:4900:88bb:b9fe:f00a:1138:894a:d2b4",
+    "2401:4900:c039:8e63:d052:6950:75c2:9249"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt3315342",
-      "title": "Logan",
-      "timestamp": "2026-02-12T03:39:30.424Z",
-      "ip": "2409:40e4:14:a0fa:28e8:9cff:fe31:503b",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-12T03:45:09.722Z",
-      "ip": "2409:40e4:14:a0fa:28e8:9cff:fe31:503b",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "movie",
-      "id": "tt14850054",
-      "title": "tt14850054",
-      "timestamp": "2026-02-12T03:45:57.196Z",
-      "ip": "181.197.11.6",
-      "username": "ymcinema"
-    },
     {
       "type": "series",
       "id": "tt0158417:1:1",
@@ -86554,6 +86531,30 @@
       "timestamp": "2026-03-04T09:30:15.593Z",
       "ip": "2401:4900:84c5:f294:3c9d:5046:22a1:daa6",
       "username": "nabakun24"
+    },
+    {
+      "type": "movie",
+      "id": "tt27564844",
+      "title": "tt27564844",
+      "timestamp": "2026-03-04T10:02:40.743Z",
+      "ip": "2401:4900:c039:8e63:d052:6950:75c2:9249",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-03-04T10:08:31.870Z",
+      "ip": "2409:40c2:5439:fb13:74df:74ff:fe01:5e6c",
+      "username": "targetx_25"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-03-04T10:08:39.914Z",
+      "ip": "2409:40c2:5439:fb13:74df:74ff:fe01:5e6c",
+      "username": "targetx_25"
     }
   ],
   "activeNow": {
@@ -92032,11 +92033,11 @@
       "lastActive": 1772598597113
     },
     "2409:40c2:5439:fb13:74df:74ff:fe01:5e6c": {
-      "type": "series",
-      "id": "tt2356777:2:1",
-      "title": "tt2356777:2:1",
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
       "username": "targetx_25",
-      "lastActive": 1772615955484
+      "lastActive": 1772618919914
     },
     "2401:4900:c335:f71f:10f6:bbff:fe1b:d1c3": {
       "type": "series",
@@ -92191,6 +92192,13 @@
       "title": "tt13818368",
       "username": "b1jju",
       "lastActive": 1772615034467
+    },
+    "2401:4900:c039:8e63:d052:6950:75c2:9249": {
+      "type": "movie",
+      "id": "tt27564844",
+      "title": "tt27564844",
+      "username": "gendaswammy",
+      "lastActive": 1772618560743
     }
   }
 }
