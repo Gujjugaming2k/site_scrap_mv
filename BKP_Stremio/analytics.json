@@ -1,5 +1,5 @@
 {
-  "totalViews": 33121,
+  "totalViews": 33123,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6529,25 +6529,10 @@
     "2a02:9b0:106:4496:f509:bf71:83b5:79fa",
     "2409:40e1:49c:a89d:8000::",
     "2409:40e4:10bb:22b5:10b8:c39f:115a:72ff",
-    "2405:201:2022:b81c:755f:c5af:a01a:d378"
+    "2405:201:2022:b81c:755f:c5af:a01a:d378",
+    "2409:40c2:5439:fb13:74df:74ff:fe01:5e6c"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31812476:2:8",
-      "title": "tt31812476:2:8",
-      "timestamp": "2026-02-12T02:29:17.887Z",
-      "ip": "103.24.85.184",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:1:2",
-      "title": "tt1399664:1:2",
-      "timestamp": "2026-02-12T02:29:40.561Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "n a b a."
-    },
     {
       "type": "movie",
       "id": "tt23790696",
@@ -86531,6 +86516,22 @@
       "timestamp": "2026-03-04T03:55:56.975Z",
       "ip": "2405:201:2022:b81c:755f:c5af:a01a:d378",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt1442437:2:18",
+      "title": "tt1442437:2:18",
+      "timestamp": "2026-03-04T04:17:51.630Z",
+      "ip": "2409:40c2:5439:fb13:74df:74ff:fe01:5e6c",
+      "username": "targetx_25"
+    },
+    {
+      "type": "series",
+      "id": "tt1442437:2:19",
+      "title": "tt1442437:2:19",
+      "timestamp": "2026-03-04T04:18:06.876Z",
+      "ip": "2409:40c2:5439:fb13:74df:74ff:fe01:5e6c",
+      "username": "targetx_25"
     }
   ],
   "activeNow": {
@@ -92007,6 +92008,13 @@
       "title": "The Dark Knight",
       "username": "zealousninja",
       "lastActive": 1772596556975
+    },
+    "2409:40c2:5439:fb13:74df:74ff:fe01:5e6c": {
+      "type": "series",
+      "id": "tt1442437:2:19",
+      "title": "tt1442437:2:19",
+      "username": "targetx_25",
+      "lastActive": 1772597886876
     }
   }
 }
