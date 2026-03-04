@@ -1,5 +1,5 @@
 {
-  "totalViews": 33195,
+  "totalViews": 33197,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6555,22 +6555,6 @@
     "2401:4900:88bb:b9fe:f00a:1138:894a:d2b4"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt19244304:1:1",
-      "title": "tt19244304:1:1",
-      "timestamp": "2026-02-12T03:35:03.460Z",
-      "ip": "2409:40c1:4154:2a7f:8000::",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt11794812:1:1",
-      "title": "Cross",
-      "timestamp": "2026-02-12T03:35:23.627Z",
-      "ip": "49.42.144.185",
-      "username": "johnwick"
-    },
     {
       "type": "movie",
       "id": "tt30798612",
@@ -86554,6 +86538,22 @@
       "timestamp": "2026-03-04T09:03:54.467Z",
       "ip": "2401:4900:88bb:b9fe:f00a:1138:894a:d2b4",
       "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt2356777:1:8",
+      "title": "tt2356777:1:8",
+      "timestamp": "2026-03-04T09:19:02.319Z",
+      "ip": "2409:40c2:5439:fb13:74df:74ff:fe01:5e6c",
+      "username": "targetx_25"
+    },
+    {
+      "type": "series",
+      "id": "tt2356777:2:1",
+      "title": "tt2356777:2:1",
+      "timestamp": "2026-03-04T09:19:15.484Z",
+      "ip": "2409:40c2:5439:fb13:74df:74ff:fe01:5e6c",
+      "username": "targetx_25"
     }
   ],
   "activeNow": {
@@ -92033,10 +92033,10 @@
     },
     "2409:40c2:5439:fb13:74df:74ff:fe01:5e6c": {
       "type": "series",
-      "id": "tt2356777:1:8",
-      "title": "tt2356777:1:8",
+      "id": "tt2356777:2:1",
+      "title": "tt2356777:2:1",
       "username": "targetx_25",
-      "lastActive": 1772612607723
+      "lastActive": 1772615955484
     },
     "2401:4900:c335:f71f:10f6:bbff:fe1b:d1c3": {
       "type": "series",
