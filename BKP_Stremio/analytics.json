@@ -1,5 +1,5 @@
 {
-  "totalViews": 33265,
+  "totalViews": 33271,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6569,57 +6569,12 @@
     "2a09:bac1:36e0:21b0::243:6e",
     "147.93.215.39",
     "2a09:bac1:36c0:5d68::2a8:1",
-    "2409:40d4:1236:cd69:acf2:dcff:fe5e:8597"
+    "2409:40d4:1236:cd69:acf2:dcff:fe5e:8597",
+    "2401:4900:1cab:d12a:cceb:b071:e670:1f6a",
+    "2401:4900:8253:574d:80d0:9d70:5381:d7cb",
+    "2401:4900:883c:7567:388e:84bf:5180:6484"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt35288598",
-      "title": "tt35288598",
-      "timestamp": "2026-02-12T04:32:34.033Z",
-      "ip": "116.68.75.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt28615165",
-      "title": "tt28615165",
-      "timestamp": "2026-02-12T04:34:31.954Z",
-      "ip": "2405:201:500c:4a01:c9a5:9839:79ae:6189",
-      "username": "karthik"
-    },
-    {
-      "type": "movie",
-      "id": "tt28615165",
-      "title": "tt28615165",
-      "timestamp": "2026-02-12T04:35:38.406Z",
-      "ip": "2405:201:500c:4a01:c9a5:9839:79ae:6189",
-      "username": "karthik"
-    },
-    {
-      "type": "movie",
-      "id": "tt28615165",
-      "title": "tt28615165",
-      "timestamp": "2026-02-12T04:35:48.623Z",
-      "ip": "2405:201:500c:4a01:c9a5:9839:79ae:6189",
-      "username": "karthik"
-    },
-    {
-      "type": "movie",
-      "id": "tt15097358",
-      "title": "tt15097358",
-      "timestamp": "2026-02-12T04:36:41.690Z",
-      "ip": "2409:40e4:5:b11b:1078:a5ff:fe54:cdfd",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "movie",
-      "id": "tt28615165",
-      "title": "tt28615165",
-      "timestamp": "2026-02-12T04:36:53.581Z",
-      "ip": "2405:201:500c:4a01:c9a5:9839:79ae:6189",
-      "username": "shadow"
-    },
     {
       "type": "movie",
       "id": "tt28615165",
@@ -86571,6 +86526,54 @@
       "timestamp": "2026-03-04T12:59:26.593Z",
       "ip": "117.235.158.9",
       "username": "wearerequest"
+    },
+    {
+      "type": "movie",
+      "id": "tt14181714",
+      "title": "tt14181714",
+      "timestamp": "2026-03-04T13:03:07.190Z",
+      "ip": "2401:4900:1cab:d12a:cceb:b071:e670:1f6a",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt26584495",
+      "title": "tt26584495",
+      "timestamp": "2026-03-04T13:08:47.598Z",
+      "ip": "2401:4900:8253:574d:80d0:9d70:5381:d7cb",
+      "username": "fw_arjun"
+    },
+    {
+      "type": "movie",
+      "id": "tt12593682",
+      "title": "Bullet Train",
+      "timestamp": "2026-03-04T13:11:40.317Z",
+      "ip": "2401:4900:1cab:d12a:cceb:b071:e670:1f6a",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt13146488:1:1",
+      "title": "Peacemaker",
+      "timestamp": "2026-03-04T13:12:49.401Z",
+      "ip": "117.235.158.9",
+      "username": "wearerequest"
+    },
+    {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "timestamp": "2026-03-04T13:14:47.066Z",
+      "ip": "2401:4900:883c:7567:388e:84bf:5180:6484",
+      "username": "fw_arjun"
+    },
+    {
+      "type": "movie",
+      "id": "tt0120737",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "timestamp": "2026-03-04T13:15:38.525Z",
+      "ip": "2401:4900:883c:7567:388e:84bf:5180:6484",
+      "username": "fw_arjun"
     }
   ],
   "activeNow": {
@@ -92119,11 +92122,11 @@
       "lastActive": 1772607911381
     },
     "117.235.158.9": {
-      "type": "movie",
-      "id": "tt32474216",
-      "title": "tt32474216",
+      "type": "series",
+      "id": "tt13146488:1:1",
+      "title": "Peacemaker",
       "username": "wearerequest",
-      "lastActive": 1772629166593
+      "lastActive": 1772629969401
     },
     "2a09:bac5:3af1:1a8c::2a5:b2": {
       "type": "series",
@@ -92327,6 +92330,27 @@
       "title": "The Night Agent",
       "username": "vk986",
       "lastActive": 1772629088681
+    },
+    "2401:4900:1cab:d12a:cceb:b071:e670:1f6a": {
+      "type": "movie",
+      "id": "tt12593682",
+      "title": "Bullet Train",
+      "username": "nirbhay1412",
+      "lastActive": 1772629900317
+    },
+    "2401:4900:8253:574d:80d0:9d70:5381:d7cb": {
+      "type": "movie",
+      "id": "tt26584495",
+      "title": "tt26584495",
+      "username": "fw_arjun",
+      "lastActive": 1772629727598
+    },
+    "2401:4900:883c:7567:388e:84bf:5180:6484": {
+      "type": "movie",
+      "id": "tt0120737",
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "username": "fw_arjun",
+      "lastActive": 1772630138525
     }
   }
 }
