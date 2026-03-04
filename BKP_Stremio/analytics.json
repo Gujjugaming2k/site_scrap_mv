@@ -1,5 +1,5 @@
 {
-  "totalViews": 33479,
+  "totalViews": 33480,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6609,14 +6609,6 @@
     "182.77.74.44"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt16311594",
-      "title": "F1",
-      "timestamp": "2026-02-12T07:58:21.579Z",
-      "ip": "2405:201:2022:b81c:c951:4ea4:c622:5401",
-      "username": "zealousninja"
-    },
     {
       "type": "series",
       "id": "tt0988824:1:1",
@@ -86608,6 +86600,14 @@
       "timestamp": "2026-03-04T19:23:32.706Z",
       "ip": "116.68.77.63",
       "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:2:8",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-04T19:29:55.843Z",
+      "ip": "2409:40d4:1236:cd69:acf2:dcff:fe5e:8597",
+      "username": "vk986"
     }
   ],
   "activeNow": {
@@ -92360,10 +92360,10 @@
     },
     "2409:40d4:1236:cd69:acf2:dcff:fe5e:8597": {
       "type": "series",
-      "id": "tt13918776:2:7",
+      "id": "tt13918776:2:8",
       "title": "The Night Agent",
       "username": "vk986",
-      "lastActive": 1772650435948
+      "lastActive": 1772652595843
     },
     "2401:4900:1cab:d12a:cceb:b071:e670:1f6a": {
       "type": "series",
