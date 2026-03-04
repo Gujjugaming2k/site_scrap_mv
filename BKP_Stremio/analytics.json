@@ -1,5 +1,5 @@
 {
-  "totalViews": 33481,
+  "totalViews": 33484,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6610,30 +6610,6 @@
     "122.161.68.50"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0988824:1:1",
-      "title": "tt0988824:1:1",
-      "timestamp": "2026-02-12T07:58:41.228Z",
-      "ip": "2405:201:500c:4a01:c9a5:9839:79ae:6189",
-      "username": "shadow"
-    },
-    {
-      "type": "series",
-      "id": "tt0988824:1:1",
-      "title": "tt0988824:1:1",
-      "timestamp": "2026-02-12T07:58:43.810Z",
-      "ip": "2405:201:500c:4a01:c9a5:9839:79ae:6189",
-      "username": "karthik"
-    },
-    {
-      "type": "series",
-      "id": "tt0988824:1:1",
-      "title": "tt0988824:1:1",
-      "timestamp": "2026-02-12T07:58:44.296Z",
-      "ip": "2405:201:500c:4a01:c9a5:9839:79ae:6189",
-      "username": "shadow"
-    },
     {
       "type": "series",
       "id": "tt0988824:1:6",
@@ -86609,6 +86585,30 @@
       "timestamp": "2026-03-04T19:53:22.734Z",
       "ip": "122.161.68.50",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt7098658",
+      "title": "tt7098658",
+      "timestamp": "2026-03-04T20:06:03.235Z",
+      "ip": "182.77.74.44",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt7098658",
+      "title": "tt7098658",
+      "timestamp": "2026-03-04T20:07:37.484Z",
+      "ip": "182.77.74.44",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt8289930:7:9",
+      "title": "tt8289930:7:9",
+      "timestamp": "2026-03-04T20:10:29.349Z",
+      "ip": "182.77.74.44",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -92619,11 +92619,11 @@
       "lastActive": 1772650063956
     },
     "182.77.74.44": {
-      "type": "movie",
-      "id": "tt1130884",
-      "title": "Shutter Island",
+      "type": "series",
+      "id": "tt8289930:7:9",
+      "title": "tt8289930:7:9",
       "username": "theaceofficials",
-      "lastActive": 1772651050239
+      "lastActive": 1772655029349
     },
     "122.161.68.50": {
       "type": "series",
