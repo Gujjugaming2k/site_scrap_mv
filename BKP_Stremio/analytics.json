@@ -1,5 +1,5 @@
 {
-  "totalViews": 33141,
+  "totalViews": 33142,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6536,17 +6536,10 @@
     "2001:4490:4851:4bab:4829:920b:aa1:1fa0",
     "217.216.98.154",
     "49.47.153.87",
-    "2409:40f3:204a:da08:51df:cc01:859b:dc6"
+    "2409:40f3:204a:da08:51df:cc01:859b:dc6",
+    "2402:8100:2e08:d99a:d25f:635:19fc:604c"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt15428134",
-      "title": "tt15428134",
-      "timestamp": "2026-02-12T03:01:28.999Z",
-      "ip": "2401:4900:9154:f1b7:3493:adff:fed3:ca2a",
-      "username": "execute28"
-    },
     {
       "type": "movie",
       "id": "tt0790736",
@@ -86538,6 +86531,14 @@
       "timestamp": "2026-03-04T06:27:03.824Z",
       "ip": "2409:40f3:204a:da08:51df:cc01:859b:dc6",
       "username": "jilin abraham"
+    },
+    {
+      "type": "movie",
+      "id": "tt12300742",
+      "title": "Bugonia",
+      "timestamp": "2026-03-04T06:36:18.996Z",
+      "ip": "2402:8100:2e08:d99a:d25f:635:19fc:604c",
+      "username": "harshra9999"
     }
   ],
   "activeNow": {
@@ -92063,6 +92064,13 @@
       "title": "tt36598036",
       "username": "jilin abraham",
       "lastActive": 1772605623824
+    },
+    "2402:8100:2e08:d99a:d25f:635:19fc:604c": {
+      "type": "movie",
+      "id": "tt12300742",
+      "title": "Bugonia",
+      "username": "harshra9999",
+      "lastActive": 1772606178996
     }
   }
 }
