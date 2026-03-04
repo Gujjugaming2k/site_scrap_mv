@@ -1,5 +1,5 @@
 {
-  "totalViews": 33308,
+  "totalViews": 33314,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6579,54 +6579,6 @@
     "2401:4900:883c:7567:f041:cbef:4762:b785"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0988824:1:1",
-      "title": "tt0988824:1:1",
-      "timestamp": "2026-02-12T05:01:37.457Z",
-      "ip": "2405:201:500c:4a01:c9a5:9839:79ae:6189",
-      "username": "shadow"
-    },
-    {
-      "type": "series",
-      "id": "tt0988824:1:1",
-      "title": "tt0988824:1:1",
-      "timestamp": "2026-02-12T05:01:37.518Z",
-      "ip": "2405:201:500c:4a01:c9a5:9839:79ae:6189",
-      "username": "karthik"
-    },
-    {
-      "type": "movie",
-      "id": "tt0084827",
-      "title": "tt0084827",
-      "timestamp": "2026-02-12T05:02:07.411Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt1104001",
-      "title": "TRON: Legacy",
-      "timestamp": "2026-02-12T05:02:09.134Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "nabakun24"
-    },
-    {
-      "type": "series",
-      "id": "tt0988824:1:1",
-      "title": "tt0988824:1:1",
-      "timestamp": "2026-02-12T05:02:46.667Z",
-      "ip": "2405:201:500c:4a01:c9a5:9839:79ae:6189",
-      "username": "karthik"
-    },
-    {
-      "type": "series",
-      "id": "tt0988824:1:1",
-      "title": "tt0988824:1:1",
-      "timestamp": "2026-02-12T05:02:46.756Z",
-      "ip": "2405:201:500c:4a01:c9a5:9839:79ae:6189",
-      "username": "shadow"
-    },
     {
       "type": "series",
       "id": "tt0988824:13:1",
@@ -86578,6 +86530,54 @@
       "timestamp": "2026-03-04T14:01:23.783Z",
       "ip": "2405:201:6025:a88d:6551:db8a:aca1:6599",
       "username": "infinityseeker"
+    },
+    {
+      "type": "series",
+      "id": "tt5753856:1:2",
+      "title": "tt5753856:1:2",
+      "timestamp": "2026-03-04T14:04:29.934Z",
+      "ip": "2401:4900:883c:7567:f041:cbef:4762:b785",
+      "username": "fw_arjun"
+    },
+    {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "timestamp": "2026-03-04T14:06:11.827Z",
+      "ip": "2401:4900:883c:7567:f041:cbef:4762:b785",
+      "username": "fw_arjun"
+    },
+    {
+      "type": "movie",
+      "id": "tt32141377",
+      "title": "tt32141377",
+      "timestamp": "2026-03-04T14:07:15.282Z",
+      "ip": "2401:4900:883c:7567:f041:cbef:4762:b785",
+      "username": "fw_arjun"
+    },
+    {
+      "type": "movie",
+      "id": "tt10548174",
+      "title": "28 Years Later",
+      "timestamp": "2026-03-04T14:07:46.953Z",
+      "ip": "2401:4900:883c:7567:f041:cbef:4762:b785",
+      "username": "fw_arjun"
+    },
+    {
+      "type": "series",
+      "id": "tt13210838:1:5",
+      "title": "tt13210838:1:5",
+      "timestamp": "2026-03-04T14:08:19.622Z",
+      "ip": "2401:4900:8ff9:aee5:1cad:fdf6:3f04:7b15",
+      "username": "user_9b"
+    },
+    {
+      "type": "movie",
+      "id": "tt1130884",
+      "title": "Shutter Island",
+      "timestamp": "2026-03-04T14:09:46.173Z",
+      "ip": "2401:4900:883c:7567:f041:cbef:4762:b785",
+      "username": "fw_arjun"
     }
   ],
   "activeNow": {
@@ -92361,7 +92361,7 @@
       "id": "tt13210838:1:5",
       "title": "tt13210838:1:5",
       "username": "user_9b",
-      "lastActive": 1772630742797
+      "lastActive": 1772633299622
     },
     "103.83.128.88": {
       "type": "series",
@@ -92378,11 +92378,11 @@
       "lastActive": 1772632883783
     },
     "2401:4900:883c:7567:f041:cbef:4762:b785": {
-      "type": "series",
-      "id": "tt5753856:1:2",
-      "title": "tt5753856:1:2",
+      "type": "movie",
+      "id": "tt1130884",
+      "title": "Shutter Island",
       "username": "fw_arjun",
-      "lastActive": 1772632844696
+      "lastActive": 1772633386173
     }
   }
 }
