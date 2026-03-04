@@ -1,5 +1,5 @@
 {
-  "totalViews": 33314,
+  "totalViews": 33318,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6576,41 +6576,11 @@
     "2401:4900:8ff9:aee5:1cad:fdf6:3f04:7b15",
     "103.83.128.88",
     "2405:201:6025:a88d:6551:db8a:aca1:6599",
-    "2401:4900:883c:7567:f041:cbef:4762:b785"
+    "2401:4900:883c:7567:f041:cbef:4762:b785",
+    "2409:40f0:3d:c3ef:286a:d9ff:fe7c:c17f",
+    "2405:201:682e:6839:6f09:8e38:25b5:8772"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0988824:13:1",
-      "title": "tt0988824:13:1",
-      "timestamp": "2026-02-12T05:03:59.141Z",
-      "ip": "2405:201:500c:4a01:c9a5:9839:79ae:6189",
-      "username": "karthik"
-    },
-    {
-      "type": "series",
-      "id": "tt0988824:13:1",
-      "title": "tt0988824:13:1",
-      "timestamp": "2026-02-12T05:03:59.235Z",
-      "ip": "2405:201:500c:4a01:c9a5:9839:79ae:6189",
-      "username": "shadow"
-    },
-    {
-      "type": "series",
-      "id": "tt0988824:1:1",
-      "title": "tt0988824:1:1",
-      "timestamp": "2026-02-12T05:05:44.072Z",
-      "ip": "2405:201:500c:4a01:c9a5:9839:79ae:6189",
-      "username": "shadow"
-    },
-    {
-      "type": "series",
-      "id": "tt0988824:1:1",
-      "title": "tt0988824:1:1",
-      "timestamp": "2026-02-12T05:05:44.167Z",
-      "ip": "2405:201:500c:4a01:c9a5:9839:79ae:6189",
-      "username": "karthik"
-    },
     {
       "type": "series",
       "id": "tt0259141:1:5",
@@ -86578,6 +86548,38 @@
       "timestamp": "2026-03-04T14:09:46.173Z",
       "ip": "2401:4900:883c:7567:f041:cbef:4762:b785",
       "username": "fw_arjun"
+    },
+    {
+      "type": "series",
+      "id": "tt9143820:1:1",
+      "title": "tt9143820:1:1",
+      "timestamp": "2026-03-04T14:17:15.233Z",
+      "ip": "2409:40f0:3d:c3ef:286a:d9ff:fe7c:c17f",
+      "username": "sachinprem1"
+    },
+    {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "timestamp": "2026-03-04T14:28:58.112Z",
+      "ip": "2405:201:682e:6839:6f09:8e38:25b5:8772",
+      "username": "babubhaiya"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:5:7",
+      "title": "Lost",
+      "timestamp": "2026-03-04T14:29:22.794Z",
+      "ip": "116.68.77.63",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:5:6",
+      "title": "Lost",
+      "timestamp": "2026-03-04T14:30:34.631Z",
+      "ip": "116.68.77.63",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -90471,7 +90473,7 @@
       "id": "tt0411008:5:6",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1772631305346
+      "lastActive": 1772634634631
     },
     "2409:40e4:1156:e4c6:40ab:f3ff:fece:13fa": {
       "type": "movie",
@@ -92383,6 +92385,20 @@
       "title": "Shutter Island",
       "username": "fw_arjun",
       "lastActive": 1772633386173
+    },
+    "2409:40f0:3d:c3ef:286a:d9ff:fe7c:c17f": {
+      "type": "series",
+      "id": "tt9143820:1:1",
+      "title": "tt9143820:1:1",
+      "username": "sachinprem1",
+      "lastActive": 1772633835233
+    },
+    "2405:201:682e:6839:6f09:8e38:25b5:8772": {
+      "type": "movie",
+      "id": "tt28142095",
+      "title": "tt28142095",
+      "username": "babubhaiya",
+      "lastActive": 1772634538112
     }
   }
 }
