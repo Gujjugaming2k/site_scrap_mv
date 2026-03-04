@@ -1,5 +1,5 @@
 {
-  "totalViews": 33193,
+  "totalViews": 33195,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6550,25 +6550,11 @@
     "2401:4900:892c:7a6b:591e:e31f:f00e:af6a",
     "2405:201:900f:a92b:f487:d751:fd72:315f",
     "103.175.9.154",
-    "2402:8100:2dcb:320b:200c:c670:35c1:115c"
+    "2402:8100:2dcb:320b:200c:c670:35c1:115c",
+    "2402:a00:10a:60cf:4005:7f6b:4038:e62e",
+    "2401:4900:88bb:b9fe:f00a:1138:894a:d2b4"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt27477888",
-      "title": "tt27477888",
-      "timestamp": "2026-02-12T03:33:02.350Z",
-      "ip": "2409:40e4:14:a0fa:28e8:9cff:fe31:503b",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "movie",
-      "id": "tt1396484",
-      "title": "It",
-      "timestamp": "2026-02-12T03:34:58.742Z",
-      "ip": "2409:40c1:4154:2a7f:8000::",
-      "username": "belimhuzaifa"
-    },
     {
       "type": "series",
       "id": "tt19244304:1:1",
@@ -86552,6 +86538,22 @@
       "timestamp": "2026-03-04T08:50:48.705Z",
       "ip": "2402:8100:2dcb:320b:200c:c670:35c1:115c",
       "username": "harshra9999"
+    },
+    {
+      "type": "movie",
+      "id": "tt5433138",
+      "title": "F9",
+      "timestamp": "2026-03-04T08:53:16.873Z",
+      "ip": "2402:a00:10a:60cf:4005:7f6b:4038:e62e",
+      "username": "paregi12"
+    },
+    {
+      "type": "movie",
+      "id": "tt13818368",
+      "title": "tt13818368",
+      "timestamp": "2026-03-04T09:03:54.467Z",
+      "ip": "2401:4900:88bb:b9fe:f00a:1138:894a:d2b4",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -92175,6 +92177,20 @@
       "title": "The Shawshank Redemption",
       "username": "harshra9999",
       "lastActive": 1772614248705
+    },
+    "2402:a00:10a:60cf:4005:7f6b:4038:e62e": {
+      "type": "movie",
+      "id": "tt5433138",
+      "title": "F9",
+      "username": "paregi12",
+      "lastActive": 1772614396873
+    },
+    "2401:4900:88bb:b9fe:f00a:1138:894a:d2b4": {
+      "type": "movie",
+      "id": "tt13818368",
+      "title": "tt13818368",
+      "username": "b1jju",
+      "lastActive": 1772615034467
     }
   }
 }
