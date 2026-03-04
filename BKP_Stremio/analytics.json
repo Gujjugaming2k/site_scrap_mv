@@ -1,5 +1,5 @@
 {
-  "totalViews": 33131,
+  "totalViews": 33134,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6534,33 +6534,11 @@
     "2401:4900:c335:f71f:10f6:bbff:fe1b:d1c3",
     "109.76.209.115",
     "2001:4490:4851:4bab:4829:920b:aa1:1fa0",
-    "217.216.98.154"
+    "217.216.98.154",
+    "49.47.153.87",
+    "2409:40f3:204a:da08:51df:cc01:859b:dc6"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0158417:1:4",
-      "title": "tt0158417:1:4",
-      "timestamp": "2026-02-12T02:47:05.698Z",
-      "ip": "2409:40e4:14:a0fa:28e8:9cff:fe31:503b",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "series",
-      "id": "tt0158417:1:1",
-      "title": "tt0158417:1:1",
-      "timestamp": "2026-02-12T02:49:33.178Z",
-      "ip": "2409:40e4:14:a0fa:28e8:9cff:fe31:503b",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "series",
-      "id": "tt0158417:1:2",
-      "title": "tt0158417:1:2",
-      "timestamp": "2026-02-12T02:50:16.352Z",
-      "ip": "2409:40e4:14:a0fa:28e8:9cff:fe31:503b",
-      "username": "cyberboy12321"
-    },
     {
       "type": "movie",
       "id": "tt3566834",
@@ -86536,6 +86514,30 @@
       "timestamp": "2026-03-04T06:00:15.176Z",
       "ip": "217.216.98.154",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt13968662",
+      "title": "tt13968662",
+      "timestamp": "2026-03-04T06:02:22.943Z",
+      "ip": "49.47.153.87",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt5791884",
+      "title": "tt5791884",
+      "timestamp": "2026-03-04T06:10:45.671Z",
+      "ip": "49.47.153.87",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt29344894",
+      "title": "tt29344894",
+      "timestamp": "2026-03-04T06:16:13.524Z",
+      "ip": "2409:40f3:204a:da08:51df:cc01:859b:dc6",
+      "username": "jilin abraham"
     }
   ],
   "activeNow": {
@@ -92047,6 +92049,20 @@
       "title": "tt13968662",
       "username": "theonlyfreak",
       "lastActive": 1772604015176
+    },
+    "49.47.153.87": {
+      "type": "movie",
+      "id": "tt5791884",
+      "title": "tt5791884",
+      "username": "theonlyfreak",
+      "lastActive": 1772604645671
+    },
+    "2409:40f3:204a:da08:51df:cc01:859b:dc6": {
+      "type": "movie",
+      "id": "tt29344894",
+      "title": "tt29344894",
+      "username": "jilin abraham",
+      "lastActive": 1772604973524
     }
   }
 }
