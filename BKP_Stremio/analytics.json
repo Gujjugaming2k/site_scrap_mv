@@ -1,5 +1,5 @@
 {
-  "totalViews": 33154,
+  "totalViews": 33157,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6540,33 +6540,10 @@
     "2402:8100:2e08:d99a:d25f:635:19fc:604c",
     "2405:201:2022:b81c:d074:24a5:9f2e:12ca",
     "2409:40f0:1009:241e:7473:1ff:fe3e:6e7c",
-    "117.235.158.9"
+    "117.235.158.9",
+    "2a09:bac5:3af1:1a8c::2a5:b2"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt5040012",
-      "title": "Nosferatu",
-      "timestamp": "2026-02-12T03:13:49.706Z",
-      "ip": "2401:4900:9154:f1b7:3493:adff:fed3:ca2a",
-      "username": "executeal"
-    },
-    {
-      "type": "series",
-      "id": "tt19072562:1:1",
-      "title": "tt19072562:1:1",
-      "timestamp": "2026-02-12T03:14:01.366Z",
-      "ip": "2401:4900:9154:f1b7:3493:adff:fed3:ca2a",
-      "username": "executeal"
-    },
-    {
-      "type": "movie",
-      "id": "tt27477888",
-      "title": "tt27477888",
-      "timestamp": "2026-02-12T03:14:12.464Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "n a b a."
-    },
     {
       "type": "series",
       "id": "tt10919420:2:1",
@@ -86542,6 +86519,30 @@
       "timestamp": "2026-03-04T07:12:26.523Z",
       "ip": "117.235.158.9",
       "username": "wearerequest"
+    },
+    {
+      "type": "movie",
+      "id": "tt12300742",
+      "title": "Bugonia",
+      "timestamp": "2026-03-04T07:27:59.265Z",
+      "ip": "2402:8100:2e08:d99a:d25f:635:19fc:604c",
+      "username": "harshra9999"
+    },
+    {
+      "type": "series",
+      "id": "tt0386676:3:1",
+      "title": "tt0386676:3:1",
+      "timestamp": "2026-03-04T07:29:24.949Z",
+      "ip": "2a09:bac5:3af1:1a8c::2a5:b2",
+      "username": "switchoff009"
+    },
+    {
+      "type": "movie",
+      "id": "tt23782140",
+      "title": "tt23782140",
+      "timestamp": "2026-03-04T07:32:26.495Z",
+      "ip": "116.68.77.63",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -90435,7 +90436,7 @@
       "id": "tt23782140",
       "title": "tt23782140",
       "username": "aravindsivan",
-      "lastActive": 1772607596155
+      "lastActive": 1772609546495
     },
     "2409:40e4:1156:e4c6:40ab:f3ff:fece:13fa": {
       "type": "movie",
@@ -92073,7 +92074,7 @@
       "id": "tt12300742",
       "title": "Bugonia",
       "username": "harshra9999",
-      "lastActive": 1772606178996
+      "lastActive": 1772609279265
     },
     "2405:201:2022:b81c:d074:24a5:9f2e:12ca": {
       "type": "movie",
@@ -92095,6 +92096,13 @@
       "title": "tt14181714",
       "username": "wearerequest",
       "lastActive": 1772608346523
+    },
+    "2a09:bac5:3af1:1a8c::2a5:b2": {
+      "type": "series",
+      "id": "tt0386676:3:1",
+      "title": "tt0386676:3:1",
+      "username": "switchoff009",
+      "lastActive": 1772609364949
     }
   }
 }
