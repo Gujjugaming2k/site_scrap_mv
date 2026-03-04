@@ -1,5 +1,5 @@
 {
-  "totalViews": 33103,
+  "totalViews": 33104,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6527,17 +6527,10 @@
     "2401:4900:7fbe:fa8b:88eb:ac4e:df65:62aa",
     "51.37.138.123",
     "2a02:9b0:106:4496:f509:bf71:83b5:79fa",
-    "2409:40e1:49c:a89d:8000::"
+    "2409:40e1:49c:a89d:8000::",
+    "2409:40e4:10bb:22b5:10b8:c39f:115a:72ff"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt29638896",
-      "title": "tt29638896",
-      "timestamp": "2026-02-11T19:29:53.790Z",
-      "ip": "103.24.85.184",
-      "username": "william097"
-    },
     {
       "type": "series",
       "id": "tt31812476:2:8",
@@ -86529,6 +86522,14 @@
       "timestamp": "2026-03-04T02:34:47.220Z",
       "ip": "2409:40e1:49c:a89d:8000::",
       "username": "i_am_cheetah"
+    },
+    {
+      "type": "movie",
+      "id": "tt2245084",
+      "title": "Big Hero 6",
+      "timestamp": "2026-03-04T02:46:51.721Z",
+      "ip": "2409:40e4:10bb:22b5:10b8:c39f:115a:72ff",
+      "username": "askchm"
     }
   ],
   "activeNow": {
@@ -91991,6 +91992,13 @@
       "title": "tt2628232:1:1",
       "username": "i_am_cheetah",
       "lastActive": 1772591687220
+    },
+    "2409:40e4:10bb:22b5:10b8:c39f:115a:72ff": {
+      "type": "movie",
+      "id": "tt2245084",
+      "title": "Big Hero 6",
+      "username": "askchm",
+      "lastActive": 1772592411721
     }
   }
 }
