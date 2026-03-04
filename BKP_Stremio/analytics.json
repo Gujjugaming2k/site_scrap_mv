@@ -1,5 +1,5 @@
 {
-  "totalViews": 33237,
+  "totalViews": 33239,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6560,25 +6560,10 @@
     "2405:201:6025:a88d:750b:8a3c:bcec:5beb",
     "2401:4900:892c:9dbb:80e4:fae6:d89d:70cd",
     "2409:40c2:6047:cd5d:c075:afff:fe45:27ea",
-    "119.234.27.57"
+    "119.234.27.57",
+    "2a09:bac5:3df3:16b4::243:94"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt36926733",
-      "title": "tt36926733",
-      "timestamp": "2026-02-12T04:04:11.143Z",
-      "ip": "2401:4900:ae4d:6cdd:dcd3:c7ca:f413:1fc3",
-      "username": "vflix1993"
-    },
-    {
-      "type": "series",
-      "id": "tt19244304:1:1",
-      "title": "tt19244304:1:1",
-      "timestamp": "2026-02-12T04:06:17.380Z",
-      "ip": "2409:40c1:4154:2a7f:8000::",
-      "username": "belimhuzaifa"
-    },
     {
       "type": "movie",
       "id": "tt36926733",
@@ -86562,6 +86547,22 @@
       "timestamp": "2026-03-04T12:12:47.375Z",
       "ip": "202.160.144.44",
       "username": "anonymous050100"
+    },
+    {
+      "type": "movie",
+      "id": "tt31036941",
+      "title": "Jurassic World Rebirth",
+      "timestamp": "2026-03-04T12:23:00.916Z",
+      "ip": "2405:201:2022:b81c:35f5:59c5:f3d3:934b",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt2467372:1:1",
+      "title": "tt2467372:1:1",
+      "timestamp": "2026-03-04T12:29:48.131Z",
+      "ip": "2a09:bac5:3df3:16b4::243:94",
+      "username": "anonymous050100"
     }
   ],
   "activeNow": {
@@ -91789,10 +91790,10 @@
     },
     "2405:201:2022:b81c:35f5:59c5:f3d3:934b": {
       "type": "movie",
-      "id": "tt14181714",
-      "title": "tt14181714",
+      "id": "tt31036941",
+      "title": "Jurassic World Rebirth",
       "username": "zealousninja",
-      "lastActive": 1772609751071
+      "lastActive": 1772626980916
     },
     "212.102.51.89": {
       "type": "series",
@@ -92255,6 +92256,13 @@
       "title": "Game of Thrones",
       "username": "bala",
       "lastActive": 1772625885118
+    },
+    "2a09:bac5:3df3:16b4::243:94": {
+      "type": "series",
+      "id": "tt2467372:1:1",
+      "title": "tt2467372:1:1",
+      "username": "anonymous050100",
+      "lastActive": 1772627388131
     }
   }
 }
