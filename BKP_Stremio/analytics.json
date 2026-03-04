@@ -1,5 +1,5 @@
 {
-  "totalViews": 33206,
+  "totalViews": 33211,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6556,49 +6556,10 @@
     "2401:4900:c039:8e63:d052:6950:75c2:9249",
     "2409:40e5:1b:376c:b08b:6bff:fe54:83ac",
     "2409:40c1:18:76df:c9e:e5ff:feed:67e",
-    "2409:40c0:106b:9a26:204c:bff:fe3c:c2bf"
+    "2409:40c0:106b:9a26:204c:bff:fe3c:c2bf",
+    "2405:201:6025:a88d:750b:8a3c:bcec:5beb"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt36926733",
-      "title": "tt36926733",
-      "timestamp": "2026-02-12T03:47:53.881Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt0429683",
-      "title": "tt0429683",
-      "timestamp": "2026-02-12T03:48:35.633Z",
-      "ip": "2001:4490:4e65:1d8b:84c8:fb72:a72e:3a21",
-      "username": "adiyogivishwanath"
-    },
-    {
-      "type": "movie",
-      "id": "tt14850054",
-      "title": "tt14850054",
-      "timestamp": "2026-02-12T03:48:49.769Z",
-      "ip": "181.197.11.6",
-      "username": "ymcinema"
-    },
-    {
-      "type": "movie",
-      "id": "tt1877832",
-      "title": "X-Men: Days of Future Past",
-      "timestamp": "2026-02-12T03:49:22.657Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt36926733",
-      "title": "tt36926733",
-      "timestamp": "2026-02-12T03:49:36.954Z",
-      "ip": "2409:40c1:303a:88ad:ecfc:7bff:fe0b:968d",
-      "username": "tips9694"
-    },
     {
       "type": "series",
       "id": "tt31844233:1:2",
@@ -86558,6 +86519,46 @@
       "timestamp": "2026-03-04T10:35:05.177Z",
       "ip": "2409:40c0:106b:9a26:204c:bff:fe3c:c2bf",
       "username": "oo0o0a0o0oo"
+    },
+    {
+      "type": "movie",
+      "id": "tt1375666",
+      "title": "Inception",
+      "timestamp": "2026-03-04T10:56:15.684Z",
+      "ip": "182.77.78.164",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt1375666",
+      "title": "Inception",
+      "timestamp": "2026-03-04T10:56:19.460Z",
+      "ip": "182.77.78.164",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
+      "timestamp": "2026-03-04T10:56:49.020Z",
+      "ip": "2405:201:6025:a88d:750b:8a3c:bcec:5beb",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt1375666",
+      "title": "Inception",
+      "timestamp": "2026-03-04T10:57:02.849Z",
+      "ip": "182.77.78.164",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt1375666",
+      "title": "Inception",
+      "timestamp": "2026-03-04T10:58:29.264Z",
+      "ip": "182.77.78.164",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -90426,11 +90427,11 @@
       "lastActive": 1772298393158
     },
     "182.77.78.164": {
-      "type": "series",
-      "id": "tt2098220:1:44",
-      "title": "tt2098220:1:44",
+      "type": "movie",
+      "id": "tt1375666",
+      "title": "Inception",
       "username": "theaceofficials",
-      "lastActive": 1772523833346
+      "lastActive": 1772621909264
     },
     "152.59.142.25": {
       "type": "movie",
@@ -92223,6 +92224,13 @@
       "title": "tt39299519",
       "username": "oo0o0a0o0oo",
       "lastActive": 1772620505177
+    },
+    "2405:201:6025:a88d:750b:8a3c:bcec:5beb": {
+      "type": "movie",
+      "id": "tt36642456",
+      "title": "tt36642456",
+      "username": "infinityseeker",
+      "lastActive": 1772621809020
     }
   }
 }
