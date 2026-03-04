@@ -1,5 +1,5 @@
 {
-  "totalViews": 33484,
+  "totalViews": 33485,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6610,14 +6610,6 @@
     "122.161.68.50"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0988824:1:6",
-      "title": "tt0988824:1:6",
-      "timestamp": "2026-02-12T07:58:58.770Z",
-      "ip": "2405:201:500c:4a01:c9a5:9839:79ae:6189",
-      "username": "shadow"
-    },
     {
       "type": "series",
       "id": "tt0988824:1:6",
@@ -86609,6 +86601,14 @@
       "timestamp": "2026-03-04T20:10:29.349Z",
       "ip": "182.77.74.44",
       "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:2:9",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-04T20:23:16.905Z",
+      "ip": "2409:40d4:1236:cd69:acf2:dcff:fe5e:8597",
+      "username": "vk986"
     }
   ],
   "activeNow": {
@@ -92361,10 +92361,10 @@
     },
     "2409:40d4:1236:cd69:acf2:dcff:fe5e:8597": {
       "type": "series",
-      "id": "tt13918776:2:8",
+      "id": "tt13918776:2:9",
       "title": "The Night Agent",
       "username": "vk986",
-      "lastActive": 1772652595843
+      "lastActive": 1772655796905
     },
     "2401:4900:1cab:d12a:cceb:b071:e670:1f6a": {
       "type": "series",
