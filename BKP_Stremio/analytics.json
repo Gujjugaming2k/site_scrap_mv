@@ -1,5 +1,5 @@
 {
-  "totalViews": 33123,
+  "totalViews": 33125,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6533,22 +6533,6 @@
     "2409:40c2:5439:fb13:74df:74ff:fe01:5e6c"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt23790696",
-      "title": "tt23790696",
-      "timestamp": "2026-02-12T02:31:33.700Z",
-      "ip": "2402:a00:10a:815f:82d7:d81:4e18:e4fd",
-      "username": "vflix1993"
-    },
-    {
-      "type": "movie",
-      "id": "tt0790736",
-      "title": "tt0790736",
-      "timestamp": "2026-02-12T02:32:13.306Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "n a b a."
-    },
     {
       "type": "series",
       "id": "tt31812476:2:8",
@@ -86532,6 +86516,22 @@
       "timestamp": "2026-03-04T04:18:06.876Z",
       "ip": "2409:40c2:5439:fb13:74df:74ff:fe01:5e6c",
       "username": "targetx_25"
+    },
+    {
+      "type": "movie",
+      "id": "tmdb:205022",
+      "title": "tmdb:205022",
+      "timestamp": "2026-03-04T04:29:57.113Z",
+      "ip": "2405:201:2022:b81c:755f:c5af:a01a:d378",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt36812904:1:1",
+      "title": "tt36812904:1:1",
+      "timestamp": "2026-03-04T04:31:44.243Z",
+      "ip": "2405:201:2022:b81c:35f5:59c5:f3d3:934b",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -91758,11 +91758,11 @@
       "lastActive": 1772540944655
     },
     "2405:201:2022:b81c:35f5:59c5:f3d3:934b": {
-      "type": "movie",
-      "id": "tt8337158",
-      "title": "Rumble",
+      "type": "series",
+      "id": "tt36812904:1:1",
+      "title": "tt36812904:1:1",
       "username": "zealousninja",
-      "lastActive": 1772594636468
+      "lastActive": 1772598704243
     },
     "212.102.51.89": {
       "type": "series",
@@ -92004,10 +92004,10 @@
     },
     "2405:201:2022:b81c:755f:c5af:a01a:d378": {
       "type": "movie",
-      "id": "tt0468569",
-      "title": "The Dark Knight",
+      "id": "tmdb:205022",
+      "title": "tmdb:205022",
       "username": "zealousninja",
-      "lastActive": 1772596556975
+      "lastActive": 1772598597113
     },
     "2409:40c2:5439:fb13:74df:74ff:fe01:5e6c": {
       "type": "series",
