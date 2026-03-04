@@ -1,5 +1,5 @@
 {
-  "totalViews": 33480,
+  "totalViews": 33481,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6606,17 +6606,10 @@
     "2603:3003:3544:6700:7de5:7495:35e0:1cc0",
     "2409:40f3:20cb:3856:f058:a6c0:badd:a072",
     "163.223.102.215",
-    "182.77.74.44"
+    "182.77.74.44",
+    "122.161.68.50"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0988824:1:1",
-      "title": "tt0988824:1:1",
-      "timestamp": "2026-02-12T07:58:41.152Z",
-      "ip": "2405:201:500c:4a01:c9a5:9839:79ae:6189",
-      "username": "karthik"
-    },
     {
       "type": "series",
       "id": "tt0988824:1:1",
@@ -86608,6 +86601,14 @@
       "timestamp": "2026-03-04T19:29:55.843Z",
       "ip": "2409:40d4:1236:cd69:acf2:dcff:fe5e:8597",
       "username": "vk986"
+    },
+    {
+      "type": "series",
+      "id": "tt0455275:1:3",
+      "title": "Prison Break",
+      "timestamp": "2026-03-04T19:53:22.734Z",
+      "ip": "122.161.68.50",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -92623,6 +92624,13 @@
       "title": "Shutter Island",
       "username": "theaceofficials",
       "lastActive": 1772651050239
+    },
+    "122.161.68.50": {
+      "type": "series",
+      "id": "tt0455275:1:3",
+      "title": "Prison Break",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1772654002734
     }
   }
 }
