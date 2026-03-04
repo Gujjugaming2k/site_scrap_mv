@@ -1,5 +1,5 @@
 {
-  "totalViews": 33465,
+  "totalViews": 33467,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6604,25 +6604,10 @@
     "2409:40e5:9d:d364:f40c:bff:fe1a:78ca",
     "2001:4490:488d:e92:a44c:33b7:b81e:d3d1",
     "2603:3003:3544:6700:7de5:7495:35e0:1cc0",
-    "2409:40f3:20cb:3856:f058:a6c0:badd:a072"
+    "2409:40f3:20cb:3856:f058:a6c0:badd:a072",
+    "163.223.102.215"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt36926733",
-      "title": "tt36926733",
-      "timestamp": "2026-02-12T07:53:40.249Z",
-      "ip": "103.24.85.184",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt0988824:1:1",
-      "title": "tt0988824:1:1",
-      "timestamp": "2026-02-12T07:54:14.046Z",
-      "ip": "49.43.110.5",
-      "username": "karthik"
-    },
     {
       "type": "series",
       "id": "tt0988824:1:1",
@@ -86606,6 +86591,22 @@
       "timestamp": "2026-03-04T18:31:25.799Z",
       "ip": "2409:40f3:20cb:3856:f058:a6c0:badd:a072",
       "username": "jilin abraham"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-03-04T18:47:43.956Z",
+      "ip": "163.223.102.215",
+      "username": "mutti9"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:2:7",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-04T18:53:55.948Z",
+      "ip": "2409:40d4:1236:cd69:acf2:dcff:fe5e:8597",
+      "username": "vk986"
     }
   ],
   "activeNow": {
@@ -92358,10 +92359,10 @@
     },
     "2409:40d4:1236:cd69:acf2:dcff:fe5e:8597": {
       "type": "series",
-      "id": "tt13918776:2:6",
+      "id": "tt13918776:2:7",
       "title": "The Night Agent",
       "username": "vk986",
-      "lastActive": 1772647849995
+      "lastActive": 1772650435948
     },
     "2401:4900:1cab:d12a:cceb:b071:e670:1f6a": {
       "type": "series",
@@ -92607,6 +92608,13 @@
       "title": "tt29344894",
       "username": "jilin abraham",
       "lastActive": 1772649085799
+    },
+    "163.223.102.215": {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "username": "mutti9",
+      "lastActive": 1772650063956
     }
   }
 }
