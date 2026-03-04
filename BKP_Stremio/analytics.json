@@ -1,5 +1,5 @@
 {
-  "totalViews": 33455,
+  "totalViews": 33458,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6606,30 +6606,6 @@
     "2603:3003:3544:6700:7de5:7495:35e0:1cc0"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2442560:1:1",
-      "title": "tt2442560:1:1",
-      "timestamp": "2026-02-12T07:40:28.140Z",
-      "ip": "2a09:bac1:3680:120::23:3bf",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt39460434:1:1",
-      "title": "tt39460434:1:1",
-      "timestamp": "2026-02-12T07:40:43.159Z",
-      "ip": "2405:201:2022:b81c:c951:4ea4:c622:5401",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
-      "timestamp": "2026-02-12T07:40:59.049Z",
-      "ip": "2a09:bac1:3680:120::23:3bf",
-      "username": "belimhuzaifa"
-    },
     {
       "type": "series",
       "id": "tt11097240:1:1",
@@ -86605,6 +86581,30 @@
       "timestamp": "2026-03-04T18:09:48.807Z",
       "ip": "146.196.34.167",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:2:6",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-04T18:10:49.995Z",
+      "ip": "2409:40d4:1236:cd69:acf2:dcff:fe5e:8597",
+      "username": "vk986"
+    },
+    {
+      "type": "movie",
+      "id": "tt2404461",
+      "title": "tt2404461",
+      "timestamp": "2026-03-04T18:20:55.496Z",
+      "ip": "103.24.85.9",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt8011712",
+      "title": "tt8011712",
+      "timestamp": "2026-03-04T18:21:22.077Z",
+      "ip": "103.24.85.9",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -89053,10 +89053,10 @@
     },
     "103.24.85.9": {
       "type": "movie",
-      "id": "tt0265086",
-      "title": "Black Hawk Down",
+      "id": "tt8011712",
+      "title": "tt8011712",
       "username": "william097",
-      "lastActive": 1772647123811
+      "lastActive": 1772648482077
     },
     "2401:4900:7b8e:33e5:9f:dfff:fe9e:92c2": {
       "type": "movie",
@@ -92357,10 +92357,10 @@
     },
     "2409:40d4:1236:cd69:acf2:dcff:fe5e:8597": {
       "type": "series",
-      "id": "tt13918776:2:5",
+      "id": "tt13918776:2:6",
       "title": "The Night Agent",
       "username": "vk986",
-      "lastActive": 1772645595703
+      "lastActive": 1772647849995
     },
     "2401:4900:1cab:d12a:cceb:b071:e670:1f6a": {
       "type": "series",
