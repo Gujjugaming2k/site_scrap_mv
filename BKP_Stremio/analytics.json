@@ -1,5 +1,5 @@
 {
-  "totalViews": 33125,
+  "totalViews": 33126,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6530,17 +6530,10 @@
     "2409:40e1:49c:a89d:8000::",
     "2409:40e4:10bb:22b5:10b8:c39f:115a:72ff",
     "2405:201:2022:b81c:755f:c5af:a01a:d378",
-    "2409:40c2:5439:fb13:74df:74ff:fe01:5e6c"
+    "2409:40c2:5439:fb13:74df:74ff:fe01:5e6c",
+    "2401:4900:c335:f71f:10f6:bbff:fe1b:d1c3"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31812476:2:8",
-      "title": "tt31812476:2:8",
-      "timestamp": "2026-02-12T02:39:23.755Z",
-      "ip": "103.24.85.184",
-      "username": "william097"
-    },
     {
       "type": "movie",
       "id": "tt0790736",
@@ -86532,6 +86525,14 @@
       "timestamp": "2026-03-04T04:31:44.243Z",
       "ip": "2405:201:2022:b81c:35f5:59c5:f3d3:934b",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "timestamp": "2026-03-04T05:03:18.559Z",
+      "ip": "2401:4900:c335:f71f:10f6:bbff:fe1b:d1c3",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -92015,6 +92016,13 @@
       "title": "tt1442437:2:19",
       "username": "targetx_25",
       "lastActive": 1772597886876
+    },
+    "2401:4900:c335:f71f:10f6:bbff:fe1b:d1c3": {
+      "type": "series",
+      "id": "tt4574334:1:2",
+      "title": "Stranger Things",
+      "username": "chetan_b2",
+      "lastActive": 1772600598559
     }
   }
 }
