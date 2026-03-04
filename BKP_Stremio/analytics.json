@@ -1,5 +1,5 @@
 {
-  "totalViews": 33205,
+  "totalViews": 33206,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6555,17 +6555,10 @@
     "2401:4900:88bb:b9fe:f00a:1138:894a:d2b4",
     "2401:4900:c039:8e63:d052:6950:75c2:9249",
     "2409:40e5:1b:376c:b08b:6bff:fe54:83ac",
-    "2409:40c1:18:76df:c9e:e5ff:feed:67e"
+    "2409:40c1:18:76df:c9e:e5ff:feed:67e",
+    "2409:40c0:106b:9a26:204c:bff:fe3c:c2bf"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt36926733",
-      "title": "tt36926733",
-      "timestamp": "2026-02-12T03:47:25.379Z",
-      "ip": "2409:40c1:303a:88ad:ecfc:7bff:fe0b:968d",
-      "username": "tips9694"
-    },
     {
       "type": "movie",
       "id": "tt36926733",
@@ -86557,6 +86550,14 @@
       "timestamp": "2026-03-04T10:24:04.197Z",
       "ip": "2409:40c1:18:76df:c9e:e5ff:feed:67e",
       "username": "paregi12"
+    },
+    {
+      "type": "series",
+      "id": "tt39299519",
+      "title": "tt39299519",
+      "timestamp": "2026-03-04T10:35:05.177Z",
+      "ip": "2409:40c0:106b:9a26:204c:bff:fe3c:c2bf",
+      "username": "oo0o0a0o0oo"
     }
   ],
   "activeNow": {
@@ -92215,6 +92216,13 @@
       "title": "F9",
       "username": "paregi12",
       "lastActive": 1772619844197
+    },
+    "2409:40c0:106b:9a26:204c:bff:fe3c:c2bf": {
+      "type": "series",
+      "id": "tt39299519",
+      "title": "tt39299519",
+      "username": "oo0o0a0o0oo",
+      "lastActive": 1772620505177
     }
   }
 }
