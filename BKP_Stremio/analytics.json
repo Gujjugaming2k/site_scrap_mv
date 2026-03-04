@@ -1,5 +1,5 @@
 {
-  "totalViews": 33104,
+  "totalViews": 33105,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6531,14 +6531,6 @@
     "2409:40e4:10bb:22b5:10b8:c39f:115a:72ff"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31812476:2:8",
-      "title": "tt31812476:2:8",
-      "timestamp": "2026-02-11T19:30:01.233Z",
-      "ip": "103.24.85.184",
-      "username": "william097"
-    },
     {
       "type": "movie",
       "id": "tt27543632",
@@ -86530,6 +86522,14 @@
       "timestamp": "2026-03-04T02:46:51.721Z",
       "ip": "2409:40e4:10bb:22b5:10b8:c39f:115a:72ff",
       "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt8337158",
+      "title": "Rumble",
+      "timestamp": "2026-03-04T03:23:56.468Z",
+      "ip": "2405:201:2022:b81c:35f5:59c5:f3d3:934b",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -91757,10 +91757,10 @@
     },
     "2405:201:2022:b81c:35f5:59c5:f3d3:934b": {
       "type": "movie",
-      "id": "tt39302439",
-      "title": "tt39302439",
+      "id": "tt8337158",
+      "title": "Rumble",
       "username": "zealousninja",
-      "lastActive": 1772567454086
+      "lastActive": 1772594636468
     },
     "212.102.51.89": {
       "type": "series",
