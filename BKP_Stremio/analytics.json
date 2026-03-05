@@ -1,5 +1,5 @@
 {
-  "totalViews": 33580,
+  "totalViews": 33582,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6626,22 +6626,6 @@
     "2401:4900:8fe0:f710:ec7b:2e51:7720:3368"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt9814458:2:1",
-      "title": "tt9814458:2:1",
-      "timestamp": "2026-02-12T09:04:40.027Z",
-      "ip": "2409:40d4:31:4e7c:687d:fdff:fe3c:d834",
-      "username": "golu_vk"
-    },
-    {
-      "type": "series",
-      "id": "tt9814458:2:1",
-      "title": "tt9814458:2:1",
-      "timestamp": "2026-02-12T09:04:40.614Z",
-      "ip": "47.15.99.68,51.89.197.91",
-      "username": "bk18"
-    },
     {
       "type": "movie",
       "id": "tt8178634",
@@ -86625,6 +86609,22 @@
       "timestamp": "2026-03-05T05:43:00.376Z",
       "ip": "2a02:9b0:106:4496:1825:6560:ff39:71f5",
       "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt2140203",
+      "title": "tt2140203",
+      "timestamp": "2026-03-05T06:00:12.676Z",
+      "ip": "2409:40e4:10a5:267b:b5f7:f803:7954:6886",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt1219289",
+      "title": "Limitless",
+      "timestamp": "2026-03-05T06:01:16.635Z",
+      "ip": "2409:40e4:10a5:267b:b5f7:f803:7954:6886",
+      "username": "askchm"
     }
   ],
   "activeNow": {
@@ -92727,10 +92727,10 @@
     },
     "2409:40e4:10a5:267b:b5f7:f803:7954:6886": {
       "type": "movie",
-      "id": "tt0245429",
-      "title": "Spirited Away",
+      "id": "tt1219289",
+      "title": "Limitless",
       "username": "askchm",
-      "lastActive": 1772685985387
+      "lastActive": 1772690476635
     },
     "2409:40d2:3009:2b6b:a527:53ff:7a24:7467": {
       "type": "movie",
