@@ -1,5 +1,5 @@
 {
-  "totalViews": 33682,
+  "totalViews": 33685,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6651,30 +6651,6 @@
     "2401:4900:883e:d81e:35a7:c5a2:f2ef:84dd"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-12T10:27:06.255Z",
-      "ip": "2401:4900:1c52:fe33:8af0:23ef:7baf:bc65",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt31510819:1:2",
-      "title": "tt31510819:1:2",
-      "timestamp": "2026-02-12T10:30:35.672Z",
-      "ip": "2409:40c1:1018:3836:8000::",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt31510819:1:1",
-      "title": "tt31510819:1:1",
-      "timestamp": "2026-02-12T10:30:38.161Z",
-      "ip": "2409:40c1:1018:3836:8000::",
-      "username": "belimhuzaifa"
-    },
     {
       "type": "movie",
       "id": "tt25433734",
@@ -86650,6 +86626,30 @@
       "timestamp": "2026-03-05T10:53:44.486Z",
       "ip": "103.87.57.76",
       "username": "kunal_baroliya"
+    },
+    {
+      "type": "series",
+      "id": "tt15477488:1:2",
+      "title": "tt15477488:1:2",
+      "timestamp": "2026-03-05T11:00:21.190Z",
+      "ip": "2406:b400:1a:8f37:c899:6f45:58fb:d22d",
+      "username": "nothingokk"
+    },
+    {
+      "type": "series",
+      "id": "tt2230051:0:1",
+      "title": "tt2230051:0:1",
+      "timestamp": "2026-03-05T11:10:12.483Z",
+      "ip": "103.87.57.76",
+      "username": "kunal_baroliya"
+    },
+    {
+      "type": "series",
+      "id": "tt2230051:0:1",
+      "title": "tt2230051:0:1",
+      "timestamp": "2026-03-05T11:11:03.707Z",
+      "ip": "103.87.57.76",
+      "username": "kunal_baroliya"
     }
   ],
   "activeNow": {
@@ -91806,11 +91806,11 @@
       "lastActive": 1772647788807
     },
     "103.87.57.76": {
-      "type": "movie",
-      "id": "tt10734928",
-      "title": "tt10734928",
+      "type": "series",
+      "id": "tt2230051:0:1",
+      "title": "tt2230051:0:1",
       "username": "kunal_baroliya",
-      "lastActive": 1772708024486
+      "lastActive": 1772709063707
     },
     "2409:40e4:1087:55d2:e1f2:3945:6344:4df5": {
       "type": "movie",
@@ -92958,7 +92958,7 @@
       "id": "tt15477488:1:2",
       "title": "tt15477488:1:2",
       "username": "nothingokk",
-      "lastActive": 1772706772804
+      "lastActive": 1772708421190
     },
     "2401:4900:883e:d81e:35a7:c5a2:f2ef:84dd": {
       "type": "series",
