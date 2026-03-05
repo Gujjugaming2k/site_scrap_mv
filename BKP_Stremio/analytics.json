@@ -1,5 +1,5 @@
 {
-  "totalViews": 33579,
+  "totalViews": 33580,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6626,14 +6626,6 @@
     "2401:4900:8fe0:f710:ec7b:2e51:7720:3368"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31938062:1:1",
-      "title": "tt31938062:1:1",
-      "timestamp": "2026-02-12T09:04:23.418Z",
-      "ip": "47.15.99.68,51.89.197.91",
-      "username": "bk18"
-    },
     {
       "type": "series",
       "id": "tt9814458:2:1",
@@ -86625,6 +86617,14 @@
       "timestamp": "2026-03-05T05:34:16.840Z",
       "ip": "2409:40d4:106e:8371:40b6:4bff:fe4d:b4b3",
       "username": "vk986"
+    },
+    {
+      "type": "channel",
+      "id": "dex_channel_348002_ts:1:1",
+      "title": "dex_channel_348002_ts:1:1",
+      "timestamp": "2026-03-05T05:43:00.376Z",
+      "ip": "2a02:9b0:106:4496:1825:6560:ff39:71f5",
+      "username": "hoosa500"
     }
   ],
   "activeNow": {
@@ -92705,11 +92705,11 @@
       "lastActive": 1772680918916
     },
     "2a02:9b0:106:4496:1825:6560:ff39:71f5": {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
+      "type": "channel",
+      "id": "dex_channel_348002_ts:1:1",
+      "title": "dex_channel_348002_ts:1:1",
       "username": "hoosa500",
-      "lastActive": 1772688339840
+      "lastActive": 1772689380376
     },
     "106.202.58.10": {
       "type": "series",
