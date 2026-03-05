@@ -1,5 +1,5 @@
 {
-  "totalViews": 33546,
+  "totalViews": 33548,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6617,25 +6617,10 @@
     "49.36.78.193",
     "190.250.237.36",
     "2a02:9b0:106:4496:1825:6560:ff39:71f5",
-    "106.202.58.10"
+    "106.202.58.10",
+    "2409:40d4:4036:aa18:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt26745417:1:1",
-      "title": "tt26745417:1:1",
-      "timestamp": "2026-02-12T08:47:38.725Z",
-      "ip": "106.222.217.210",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt0045693",
-      "title": "tt0045693",
-      "timestamp": "2026-02-12T08:48:19.744Z",
-      "ip": "106.222.217.210",
-      "username": "anonymous_rare"
-    },
     {
       "type": "movie",
       "id": "tt13964560",
@@ -86619,6 +86604,22 @@
       "timestamp": "2026-03-05T03:58:00.998Z",
       "ip": "106.202.58.10",
       "username": "b1jju"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:3:1",
+      "title": "Stranger Things",
+      "timestamp": "2026-03-05T04:22:26.746Z",
+      "ip": "2409:40d4:4036:aa18:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt8178634",
+      "title": "tt8178634",
+      "timestamp": "2026-03-05T04:29:27.386Z",
+      "ip": "117.235.173.244",
+      "username": "itsdoom50"
     }
   ],
   "activeNow": {
@@ -92458,7 +92459,7 @@
       "id": "tt8178634",
       "title": "tt8178634",
       "username": "itsdoom50",
-      "lastActive": 1772635985942
+      "lastActive": 1772684967386
     },
     "2401:4900:1cb2:4cf5:e9de:9fe6:dd37:2442": {
       "type": "movie",
@@ -92711,6 +92712,13 @@
       "title": "tt11867666:1:1",
       "username": "b1jju",
       "lastActive": 1772683080998
+    },
+    "2409:40d4:4036:aa18:8000::": {
+      "type": "series",
+      "id": "tt4574334:3:1",
+      "title": "Stranger Things",
+      "username": "kdbotz",
+      "lastActive": 1772684546746
     }
   }
 }
