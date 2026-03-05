@@ -1,5 +1,5 @@
 {
-  "totalViews": 33536,
+  "totalViews": 33542,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6618,54 +6618,6 @@
     "190.250.237.36"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt8178634",
-      "title": "tt8178634",
-      "timestamp": "2026-02-12T08:42:42.839Z",
-      "ip": "182.69.179.214",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt8178634",
-      "title": "tt8178634",
-      "timestamp": "2026-02-12T08:42:54.668Z",
-      "ip": "182.69.179.214",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt8178634",
-      "title": "tt8178634",
-      "timestamp": "2026-02-12T08:43:18.637Z",
-      "ip": "103.249.4.198",
-      "username": "tgh2r"
-    },
-    {
-      "type": "movie",
-      "id": "tt8178634",
-      "title": "tt8178634",
-      "timestamp": "2026-02-12T08:43:44.110Z",
-      "ip": "103.249.4.198",
-      "username": "tgh2r"
-    },
-    {
-      "type": "movie",
-      "id": "tt8178634",
-      "title": "tt8178634",
-      "timestamp": "2026-02-12T08:44:00.654Z",
-      "ip": "103.249.4.198",
-      "username": "tgh2r"
-    },
-    {
-      "type": "movie",
-      "id": "tt8178634",
-      "title": "tt8178634",
-      "timestamp": "2026-02-12T08:44:37.468Z",
-      "ip": "103.249.4.198",
-      "username": "tgh2r"
-    },
     {
       "type": "movie",
       "id": "tt8178634",
@@ -86617,6 +86569,54 @@
       "timestamp": "2026-03-05T03:10:49.299Z",
       "ip": "190.250.237.36",
       "username": "ymcinema"
+    },
+    {
+      "type": "series",
+      "id": "tt15477488:1:1",
+      "title": "tt15477488:1:1",
+      "timestamp": "2026-03-05T03:18:14.550Z",
+      "ip": "2406:b400:1a:8f37:a27:a8ff:fe42:855e",
+      "username": "nothingokk"
+    },
+    {
+      "type": "series",
+      "id": "tt15477488:1:2",
+      "title": "tt15477488:1:2",
+      "timestamp": "2026-03-05T03:19:05.793Z",
+      "ip": "2406:b400:1a:8f37:a27:a8ff:fe42:855e",
+      "username": "nothingokk"
+    },
+    {
+      "type": "series",
+      "id": "tt15477488:1:2",
+      "title": "tt15477488:1:2",
+      "timestamp": "2026-03-05T03:19:16.026Z",
+      "ip": "2406:b400:1a:8f37:a27:a8ff:fe42:855e",
+      "username": "nothingokk"
+    },
+    {
+      "type": "series",
+      "id": "tt15477488:1:2",
+      "title": "tt15477488:1:2",
+      "timestamp": "2026-03-05T03:19:44.234Z",
+      "ip": "2406:b400:1a:8f37:a27:a8ff:fe42:855e",
+      "username": "nothingokk"
+    },
+    {
+      "type": "movie",
+      "id": "tt39310158",
+      "title": "tt39310158",
+      "timestamp": "2026-03-05T03:21:58.916Z",
+      "ip": "190.250.237.36",
+      "username": "ymcinema"
+    },
+    {
+      "type": "series",
+      "id": "tt0168366:1:1",
+      "title": "tt0168366:1:1",
+      "timestamp": "2026-03-05T03:25:08.708Z",
+      "ip": "117.235.158.9",
+      "username": "wearerequest"
     }
   ],
   "activeNow": {
@@ -88350,11 +88350,11 @@
       "lastActive": 1771949914582
     },
     "2406:b400:1a:8f37:a27:a8ff:fe42:855e": {
-      "type": "movie",
-      "id": "tt13131610",
-      "title": "tt13131610",
+      "type": "series",
+      "id": "tt15477488:1:2",
+      "title": "tt15477488:1:2",
       "username": "nothingokk",
-      "lastActive": 1772203977431
+      "lastActive": 1772680784234
     },
     "2406:b400:1a:8f37:b4c2:d3ae:62d5:1d2d": {
       "type": "series",
@@ -92166,10 +92166,10 @@
     },
     "117.235.158.9": {
       "type": "series",
-      "id": "tt13146488:1:1",
-      "title": "Peacemaker",
+      "id": "tt0168366:1:1",
+      "title": "tt0168366:1:1",
       "username": "wearerequest",
-      "lastActive": 1772629969401
+      "lastActive": 1772681108708
     },
     "2a09:bac5:3af1:1a8c::2a5:b2": {
       "type": "series",
@@ -92694,7 +92694,7 @@
       "id": "tt39310158",
       "title": "tt39310158",
       "username": "ymcinema",
-      "lastActive": 1772680249299
+      "lastActive": 1772680918916
     }
   }
 }
