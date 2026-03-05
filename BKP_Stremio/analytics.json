@@ -1,5 +1,5 @@
 {
-  "totalViews": 33509,
+  "totalViews": 33513,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6608,41 +6608,10 @@
     "163.223.102.215",
     "182.77.74.44",
     "122.161.68.50",
-    "2401:4900:c315:668c:cc5a:47ff:fec5:5e56"
+    "2401:4900:c315:668c:cc5a:47ff:fec5:5e56",
+    "2409:40c1:34:fb2d:881a:40ff:fee0:6505"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0367110",
-      "title": "tt0367110",
-      "timestamp": "2026-02-12T08:13:25.428Z",
-      "ip": "2405:201:2022:b81c:c951:4ea4:c622:5401",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-12T08:13:36.132Z",
-      "ip": "182.69.179.214",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-12T08:13:42.882Z",
-      "ip": "182.69.179.214",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-12T08:16:11.280Z",
-      "ip": "182.69.179.214",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "movie",
       "id": "tt0367110",
@@ -86610,6 +86579,38 @@
       "timestamp": "2026-03-05T01:39:57.024Z",
       "ip": "103.24.85.9",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt1790885",
+      "title": "Zero Dark Thirty",
+      "timestamp": "2026-03-05T01:45:24.432Z",
+      "ip": "103.24.85.9",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt11737520:1:1",
+      "title": "tt11737520:1:1",
+      "timestamp": "2026-03-05T01:46:26.643Z",
+      "ip": "2409:40c1:34:fb2d:881a:40ff:fee0:6505",
+      "username": "paregi12"
+    },
+    {
+      "type": "series",
+      "id": "tt0388629:17:21",
+      "title": "tt0388629:17:21",
+      "timestamp": "2026-03-05T01:48:14.379Z",
+      "ip": "2409:40c1:34:fb2d:881a:40ff:fee0:6505",
+      "username": "paregi12"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:2:1",
+      "title": "tt17220216:2:1",
+      "timestamp": "2026-03-05T01:57:01.476Z",
+      "ip": "2405:201:6820:a83c:9c16:67f7:313e:5dd7",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -89061,7 +89062,7 @@
       "id": "tt1790885",
       "title": "Zero Dark Thirty",
       "username": "william097",
-      "lastActive": 1772674797024
+      "lastActive": 1772675124432
     },
     "2401:4900:7b8e:33e5:9f:dfff:fe9e:92c2": {
       "type": "movie",
@@ -91466,10 +91467,10 @@
     },
     "2405:201:6820:a83c:9c16:67f7:313e:5dd7": {
       "type": "series",
-      "id": "tt17220216:1:4",
-      "title": "tt17220216:1:4",
+      "id": "tt17220216:2:1",
+      "title": "tt17220216:2:1",
       "username": "demon18319",
-      "lastActive": 1772468805330
+      "lastActive": 1772675821476
     },
     "2409:40c1:10da:1869:6579:a920:d231:78c3": {
       "type": "movie",
@@ -92639,6 +92640,13 @@
       "title": "tt12324366:2:8",
       "username": "chetan_b2",
       "lastActive": 1772672830451
+    },
+    "2409:40c1:34:fb2d:881a:40ff:fee0:6505": {
+      "type": "series",
+      "id": "tt0388629:17:21",
+      "title": "tt0388629:17:21",
+      "username": "paregi12",
+      "lastActive": 1772675294379
     }
   }
 }
