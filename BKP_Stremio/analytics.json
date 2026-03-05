@@ -1,5 +1,5 @@
 {
-  "totalViews": 33749,
+  "totalViews": 33753,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6656,41 +6656,10 @@
     "45.143.82.119",
     "2405:201:2022:b81c:ac69:7703:5ce4:a7d7",
     "2409:40e0:20:59aa:891a:c3cb:5544:e17",
-    "2409:40c1:101b:fffa:68e3:cd2f:a38e:e580"
+    "2409:40c1:101b:fffa:68e3:cd2f:a38e:e580",
+    "138.199.50.3"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0059246",
-      "title": "tt0059246",
-      "timestamp": "2026-02-12T11:59:59.094Z",
-      "ip": "2409:40e5:1a:ad0:7c9f:98ff:fe37:3270",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "movie",
-      "id": "tt0357905",
-      "title": "tt0357905",
-      "timestamp": "2026-02-12T12:05:11.721Z",
-      "ip": "38.224.232.109",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt0357905",
-      "title": "tt0357905",
-      "timestamp": "2026-02-12T12:06:31.191Z",
-      "ip": "38.224.232.109",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt11655566",
-      "title": "Lilo & Stitch",
-      "timestamp": "2026-02-12T12:07:37.352Z",
-      "ip": "2a09:bac5:3af1:8b4::de:36",
-      "username": "switchoff009"
-    },
     {
       "type": "movie",
       "id": "tt32141377",
@@ -86658,6 +86627,38 @@
       "timestamp": "2026-03-05T15:24:55.439Z",
       "ip": "2405:201:6820:a83c:9c16:67f7:313e:5dd7",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt9036998",
+      "title": "tt9036998",
+      "timestamp": "2026-03-05T15:34:13.012Z",
+      "ip": "138.199.50.3",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt33028778",
+      "title": "tt33028778",
+      "timestamp": "2026-03-05T15:39:45.702Z",
+      "ip": "106.222.248.202",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt8599532:1:1",
+      "title": "tt8599532:1:1",
+      "timestamp": "2026-03-05T15:40:08.136Z",
+      "ip": "5.32.86.178",
+      "username": "nobody_is_my_name"
+    },
+    {
+      "type": "series",
+      "id": "tt8599532:1:2",
+      "title": "tt8599532:1:2",
+      "timestamp": "2026-03-05T15:40:28.507Z",
+      "ip": "5.32.86.178",
+      "username": "nobody_is_my_name"
     }
   ],
   "activeNow": {
@@ -91632,11 +91633,11 @@
       "lastActive": 1772507825251
     },
     "106.222.248.202": {
-      "type": "series",
-      "id": "tt9335498:1:7",
-      "title": "tt9335498:1:7",
+      "type": "movie",
+      "id": "tt33028778",
+      "title": "tt33028778",
       "username": "nirbhay1412",
-      "lastActive": 1772512662243
+      "lastActive": 1772725185702
     },
     "2a09:bac6:d870:a82::10c:65": {
       "type": "series",
@@ -92822,11 +92823,11 @@
       "lastActive": 1772718771715
     },
     "5.32.86.178": {
-      "type": "movie",
-      "id": "tt31050594",
-      "title": "tt31050594",
+      "type": "series",
+      "id": "tt8599532:1:2",
+      "title": "tt8599532:1:2",
       "username": "nobody_is_my_name",
-      "lastActive": 1772701903637
+      "lastActive": 1772725228507
     },
     "2402:3a80:e4d:474c:4460:66ff:fe9c:1ffd": {
       "type": "movie",
@@ -93030,6 +93031,13 @@
       "title": "tt33503491:1:2",
       "username": "ujas",
       "lastActive": 1772722271385
+    },
+    "138.199.50.3": {
+      "type": "movie",
+      "id": "tt9036998",
+      "title": "tt9036998",
+      "username": "theonlyfreak",
+      "lastActive": 1772724853012
     }
   }
 }
