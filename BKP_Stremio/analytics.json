@@ -1,5 +1,5 @@
 {
-  "totalViews": 33848,
+  "totalViews": 33849,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6674,14 +6674,6 @@
     "2402:8100:2cf9:4ad1:5110:2153:9bf5:8616"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt26439764",
-      "title": "tt26439764",
-      "timestamp": "2026-02-12T13:45:25.057Z",
-      "ip": "2401:4900:1c52:fe33:3d07:a25f:161e:ee22",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "movie",
       "id": "tt8291224",
@@ -86673,6 +86665,14 @@
       "timestamp": "2026-03-05T20:33:25.263Z",
       "ip": "109.76.41.27",
       "username": "sid_g"
+    },
+    {
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
+      "timestamp": "2026-03-05T20:40:32.819Z",
+      "ip": "49.204.196.76",
+      "username": "telegram"
     }
   ],
   "activeNow": {
@@ -91843,11 +91843,11 @@
       "lastActive": 1772540520187
     },
     "49.204.196.76": {
-      "type": "series",
-      "id": "tt0412142:7:23",
-      "title": "tt0412142:7:23",
+      "type": "movie",
+      "id": "tt26443597",
+      "title": "tt26443597",
       "username": "telegram",
-      "lastActive": 1772536300305
+      "lastActive": 1772743232819
     },
     "45.63.76.132": {
       "type": "series",
