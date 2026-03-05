@@ -1,5 +1,5 @@
 {
-  "totalViews": 33574,
+  "totalViews": 33579,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6626,46 +6626,6 @@
     "2401:4900:8fe0:f710:ec7b:2e51:7720:3368"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2016058:1:1",
-      "title": "tt2016058:1:1",
-      "timestamp": "2026-02-12T09:02:13.046Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "nabakun24"
-    },
-    {
-      "type": "series",
-      "id": "tt2016058:1:1",
-      "title": "tt2016058:1:1",
-      "timestamp": "2026-02-12T09:03:31.416Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "nabakun24"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:1:1",
-      "title": "tt31938062:1:1",
-      "timestamp": "2026-02-12T09:03:36.712Z",
-      "ip": "2409:40d4:31:4e7c:687d:fdff:fe3c:d834",
-      "username": "golu_vk"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:1:1",
-      "title": "tt31938062:1:1",
-      "timestamp": "2026-02-12T09:03:39.677Z",
-      "ip": "47.15.99.68,51.89.197.91",
-      "username": "bk18"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:1:1",
-      "title": "tt31938062:1:1",
-      "timestamp": "2026-02-12T09:04:22.615Z",
-      "ip": "2409:40d4:31:4e7c:687d:fdff:fe3c:d834",
-      "username": "golu_vk"
-    },
     {
       "type": "series",
       "id": "tt31938062:1:1",
@@ -86625,6 +86585,46 @@
       "timestamp": "2026-03-05T05:18:33.128Z",
       "ip": "2a02:9b0:106:4496:1825:6560:ff39:71f5",
       "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "dex_movie_433521_mkv",
+      "title": "dex_movie_433521_mkv",
+      "timestamp": "2026-03-05T05:20:22.449Z",
+      "ip": "2a02:9b0:106:4496:1825:6560:ff39:71f5",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "dex_series_635_mp4:1:1",
+      "title": "dex_series_635_mp4:1:1",
+      "timestamp": "2026-03-05T05:22:56.994Z",
+      "ip": "2a02:9b0:106:4496:1825:6560:ff39:71f5",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "dex_series_1924_mp4:1:1",
+      "title": "dex_series_1924_mp4:1:1",
+      "timestamp": "2026-03-05T05:23:17.346Z",
+      "ip": "2a02:9b0:106:4496:1825:6560:ff39:71f5",
+      "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt32642706",
+      "title": "tt32642706",
+      "timestamp": "2026-03-05T05:25:39.840Z",
+      "ip": "2a02:9b0:106:4496:1825:6560:ff39:71f5",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:2:10",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-05T05:34:16.840Z",
+      "ip": "2409:40d4:106e:8371:40b6:4bff:fe4d:b4b3",
+      "username": "vk986"
     }
   ],
   "activeNow": {
@@ -92706,10 +92706,10 @@
     },
     "2a02:9b0:106:4496:1825:6560:ff39:71f5": {
       "type": "movie",
-      "id": "dex_movie_151715_mp4",
-      "title": "dex_movie_151715_mp4",
+      "id": "tt32642706",
+      "title": "tt32642706",
       "username": "hoosa500",
-      "lastActive": 1772687913128
+      "lastActive": 1772688339840
     },
     "106.202.58.10": {
       "type": "series",
@@ -92748,10 +92748,10 @@
     },
     "2409:40d4:106e:8371:40b6:4bff:fe4d:b4b3": {
       "type": "series",
-      "id": "tt13918776:2:9",
+      "id": "tt13918776:2:10",
       "title": "The Night Agent",
       "username": "vk986",
-      "lastActive": 1772686534176
+      "lastActive": 1772688856840
     },
     "2401:4900:8fe0:f710:ec7b:2e51:7720:3368": {
       "type": "movie",
