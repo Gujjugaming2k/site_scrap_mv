@@ -1,5 +1,5 @@
 {
-  "totalViews": 33609,
+  "totalViews": 33615,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6632,57 +6632,10 @@
     "2a02:cb80:4023:7ee3:d858:a07b:54f6:859e",
     "156.146.51.81",
     "2409:40e2:10fd:1449:45d7:a0c4:d83c:d707",
-    "152.58.118.19"
+    "152.58.118.19",
+    "223.181.96.69"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt39568462",
-      "title": "tt39568462",
-      "timestamp": "2026-02-12T09:24:10.013Z",
-      "ip": "103.46.200.43",
-      "username": "brosportses"
-    },
-    {
-      "type": "movie",
-      "id": "tt28500290",
-      "title": "tt28500290",
-      "timestamp": "2026-02-12T09:24:16.829Z",
-      "ip": "103.46.200.43",
-      "username": "brosportses"
-    },
-    {
-      "type": "movie",
-      "id": "tt0367110",
-      "title": "tt0367110",
-      "timestamp": "2026-02-12T09:24:31.999Z",
-      "ip": "2405:201:2022:b81c:c951:4ea4:c622:5401",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt0367110",
-      "title": "tt0367110",
-      "timestamp": "2026-02-12T09:24:43.127Z",
-      "ip": "2405:201:2022:b81c:c951:4ea4:c622:5401",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt24950660",
-      "title": "tt24950660",
-      "timestamp": "2026-02-12T09:25:00.832Z",
-      "ip": "152.58.138.170",
-      "username": "tgh2r"
-    },
-    {
-      "type": "movie",
-      "id": "tt37969426",
-      "title": "tt37969426",
-      "timestamp": "2026-02-12T09:25:34.434Z",
-      "ip": "2a09:bac6:d97e:2723::3e6:15",
-      "username": "demon18319"
-    },
     {
       "type": "movie",
       "id": "tt37969426",
@@ -86634,6 +86587,54 @@
       "timestamp": "2026-03-05T07:19:39.541Z",
       "ip": "152.58.118.19",
       "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt8178634",
+      "title": "tt8178634",
+      "timestamp": "2026-03-05T07:26:30.454Z",
+      "ip": "117.235.173.244",
+      "username": "itsdoom50"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:2:2",
+      "title": "tt17220216:2:2",
+      "timestamp": "2026-03-05T07:30:05.873Z",
+      "ip": "117.235.173.244",
+      "username": "itsdoom50"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-03-05T07:30:18.530Z",
+      "ip": "117.235.173.244",
+      "username": "itsdoom50"
+    },
+    {
+      "type": "movie",
+      "id": "tt8178634",
+      "title": "tt8178634",
+      "timestamp": "2026-03-05T07:31:56.799Z",
+      "ip": "117.235.173.244",
+      "username": "itsdoom50"
+    },
+    {
+      "type": "movie",
+      "id": "tt3345472",
+      "title": "tt3345472",
+      "timestamp": "2026-03-05T07:35:13.056Z",
+      "ip": "223.181.96.69",
+      "username": "baljeet_002"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-03-05T07:36:35.214Z",
+      "ip": "223.181.96.69",
+      "username": "baljeet_002"
     }
   ],
   "activeNow": {
@@ -92470,10 +92471,10 @@
     },
     "117.235.173.244": {
       "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "id": "tt8178634",
+      "title": "tt8178634",
       "username": "itsdoom50",
-      "lastActive": 1772685279670
+      "lastActive": 1772695916799
     },
     "2401:4900:1cb2:4cf5:e9de:9fe6:dd37:2442": {
       "type": "movie",
@@ -92838,6 +92839,13 @@
       "title": "tt28618556:1:1",
       "username": "magicmannn",
       "lastActive": 1772695179541
+    },
+    "223.181.96.69": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "baljeet_002",
+      "lastActive": 1772696195214
     }
   }
 }
