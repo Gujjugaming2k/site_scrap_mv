@@ -1,5 +1,5 @@
 {
-  "totalViews": 33843,
+  "totalViews": 33844,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6673,14 +6673,6 @@
     "2402:8100:2cfc:4f37:cdd3:3027:f066:1708"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt17220216:1:8",
-      "title": "tt17220216:1:8",
-      "timestamp": "2026-02-12T13:27:38.750Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt17220216:1:8",
@@ -86672,6 +86664,14 @@
       "timestamp": "2026-03-05T19:48:16.520Z",
       "ip": "2402:8100:2cfc:4f37:cdd3:3027:f066:1708",
       "username": "schnom153"
+    },
+    {
+      "type": "movie",
+      "id": "tt0298130",
+      "title": "The Ring",
+      "timestamp": "2026-03-05T19:57:58.283Z",
+      "ip": "103.186.54.177",
+      "username": "schnom153"
     }
   ],
   "activeNow": {
@@ -93089,10 +93089,10 @@
     },
     "103.186.54.177": {
       "type": "movie",
-      "id": "tt11540726",
-      "title": "tt11540726",
+      "id": "tt0298130",
+      "title": "The Ring",
       "username": "schnom153",
-      "lastActive": 1772738600532
+      "lastActive": 1772740678283
     },
     "2409:40e4:10ab:bc72:f87d:84bc:19b2:87b6": {
       "type": "movie",
