@@ -1,5 +1,5 @@
 {
-  "totalViews": 33608,
+  "totalViews": 33609,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6631,17 +6631,10 @@
     "2402:3a80:e4d:474c:4460:66ff:fe9c:1ffd",
     "2a02:cb80:4023:7ee3:d858:a07b:54f6:859e",
     "156.146.51.81",
-    "2409:40e2:10fd:1449:45d7:a0c4:d83c:d707"
+    "2409:40e2:10fd:1449:45d7:a0c4:d83c:d707",
+    "152.58.118.19"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0429683",
-      "title": "tt0429683",
-      "timestamp": "2026-02-12T09:24:01.762Z",
-      "ip": "2001:4490:4e65:1d8b:f018:3a18:1f40:3bec",
-      "username": "adiyogivishwanath"
-    },
     {
       "type": "movie",
       "id": "tt39568462",
@@ -86633,6 +86626,14 @@
       "timestamp": "2026-03-05T07:05:12.622Z",
       "ip": "2409:40e2:10fd:1449:45d7:a0c4:d83c:d707",
       "username": "adr7000"
+    },
+    {
+      "type": "series",
+      "id": "tt28618556:1:1",
+      "title": "tt28618556:1:1",
+      "timestamp": "2026-03-05T07:19:39.541Z",
+      "ip": "152.58.118.19",
+      "username": "magicmannn"
     }
   ],
   "activeNow": {
@@ -92830,6 +92831,13 @@
       "title": "tt13872248",
       "username": "adr7000",
       "lastActive": 1772694312622
+    },
+    "152.58.118.19": {
+      "type": "series",
+      "id": "tt28618556:1:1",
+      "title": "tt28618556:1:1",
+      "username": "magicmannn",
+      "lastActive": 1772695179541
     }
   }
 }
