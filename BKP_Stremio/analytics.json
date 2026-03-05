@@ -1,5 +1,5 @@
 {
-  "totalViews": 33726,
+  "totalViews": 33728,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6654,25 +6654,10 @@
     "2409:40d4:40c6:2597:8000::",
     "2401:4900:1c18:6029:b873:c6dc:c63c:55c7",
     "45.143.82.119",
-    "2405:201:2022:b81c:ac69:7703:5ce4:a7d7"
+    "2405:201:2022:b81c:ac69:7703:5ce4:a7d7",
+    "2409:40e0:20:59aa:891a:c3cb:5544:e17"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt24330464",
-      "title": "tt24330464",
-      "timestamp": "2026-02-12T11:41:49.291Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-02-12T11:42:15.724Z",
-      "ip": "2409:40e5:1a:ad0:7c9f:98ff:fe37:3270",
-      "username": "cyberboy12321"
-    },
     {
       "type": "movie",
       "id": "tt24330464",
@@ -86656,6 +86641,22 @@
       "timestamp": "2026-03-05T13:42:17.452Z",
       "ip": "2405:201:2022:b81c:ac69:7703:5ce4:a7d7",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt38813422",
+      "title": "tt38813422",
+      "timestamp": "2026-03-05T13:52:51.715Z",
+      "ip": "109.76.41.27",
+      "username": "sid_g"
+    },
+    {
+      "type": "movie",
+      "id": "tt3195644",
+      "title": "Insidious: Chapter 3",
+      "timestamp": "2026-03-05T13:53:44.565Z",
+      "ip": "2409:40e0:20:59aa:891a:c3cb:5544:e17",
+      "username": "nobody_is_my_name"
     }
   ],
   "activeNow": {
@@ -92813,11 +92814,11 @@
       "lastActive": 1772692062768
     },
     "109.76.41.27": {
-      "type": "series",
-      "id": "tt30412869",
-      "title": "tt30412869",
+      "type": "movie",
+      "id": "tt38813422",
+      "title": "tt38813422",
       "username": "sid_g",
-      "lastActive": 1772715291330
+      "lastActive": 1772718771715
     },
     "5.32.86.178": {
       "type": "movie",
@@ -93014,6 +93015,13 @@
       "title": "tt0420332",
       "username": "zealousninja",
       "lastActive": 1772718137452
+    },
+    "2409:40e0:20:59aa:891a:c3cb:5544:e17": {
+      "type": "movie",
+      "id": "tt3195644",
+      "title": "Insidious: Chapter 3",
+      "username": "nobody_is_my_name",
+      "lastActive": 1772718824565
     }
   }
 }
