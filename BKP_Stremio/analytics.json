@@ -1,5 +1,5 @@
 {
-  "totalViews": 33715,
+  "totalViews": 33718,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6652,33 +6652,10 @@
     "2409:40c1:1036:d9e0:512d:1344:f5b9:e245",
     "117.235.160.179",
     "2409:40d4:40c6:2597:8000::",
-    "2401:4900:1c18:6029:b873:c6dc:c63c:55c7"
+    "2401:4900:1c18:6029:b873:c6dc:c63c:55c7",
+    "45.143.82.119"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt22202452:1:2",
-      "title": "tt22202452:1:2",
-      "timestamp": "2026-02-12T11:27:07.938Z",
-      "ip": "2409:40e5:9d:b2db:48f0:4aff:fe6a:e19a",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-02-12T11:31:23.896Z",
-      "ip": "103.249.4.198",
-      "username": "tgh2r"
-    },
-    {
-      "type": "series",
-      "id": "tt31510819:1:1",
-      "title": "tt31510819:1:1",
-      "timestamp": "2026-02-12T11:36:35.238Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "nabakun24"
-    },
     {
       "type": "movie",
       "id": "tt28629017",
@@ -86654,6 +86631,30 @@
       "timestamp": "2026-03-05T13:19:12.047Z",
       "ip": "146.196.34.167",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt5753856:1:2",
+      "title": "tt5753856:1:2",
+      "timestamp": "2026-03-05T13:19:53.931Z",
+      "ip": "2401:4900:883c:7567:5d50:9b3c:b6bd:abb1",
+      "username": "fw_arjun"
+    },
+    {
+      "type": "movie",
+      "id": "tt21377766",
+      "title": "tt21377766",
+      "timestamp": "2026-03-05T13:19:56.402Z",
+      "ip": "45.143.82.119",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt0082348",
+      "title": "tt0082348",
+      "timestamp": "2026-03-05T13:33:37.398Z",
+      "ip": "45.143.82.119",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -92892,7 +92893,7 @@
       "id": "tt5753856:1:2",
       "title": "tt5753856:1:2",
       "username": "fw_arjun",
-      "lastActive": 1772700916147
+      "lastActive": 1772716793931
     },
     "2401:4900:57fe:5bf7:c118:6afc:afa2:8758": {
       "type": "movie",
@@ -92998,6 +92999,13 @@
       "title": "tt32058735",
       "username": "gendaswammy",
       "lastActive": 1772715503858
+    },
+    "45.143.82.119": {
+      "type": "movie",
+      "id": "tt0082348",
+      "title": "tt0082348",
+      "username": "theonlyfreak",
+      "lastActive": 1772717617398
     }
   }
 }
