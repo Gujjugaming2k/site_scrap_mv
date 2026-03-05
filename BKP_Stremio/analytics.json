@@ -1,5 +1,5 @@
 {
-  "totalViews": 33740,
+  "totalViews": 33742,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6655,25 +6655,10 @@
     "2401:4900:1c18:6029:b873:c6dc:c63c:55c7",
     "45.143.82.119",
     "2405:201:2022:b81c:ac69:7703:5ce4:a7d7",
-    "2409:40e0:20:59aa:891a:c3cb:5544:e17"
+    "2409:40e0:20:59aa:891a:c3cb:5544:e17",
+    "2409:40c1:101b:fffa:68e3:cd2f:a38e:e580"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27497448:1:2",
-      "title": "tt27497448:1:2",
-      "timestamp": "2026-02-12T11:53:15.641Z",
-      "ip": "2401:9640:801:a701:e42d:1c2e:912e:e9ad",
-      "username": "supermemayank"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:2",
-      "title": "tt27497448:1:2",
-      "timestamp": "2026-02-12T11:53:15.745Z",
-      "ip": "2401:9640:801:a701:e42d:1c2e:912e:e9ad",
-      "username": "superememayank"
-    },
     {
       "type": "movie",
       "id": "tt0357905",
@@ -86657,6 +86642,22 @@
       "timestamp": "2026-03-05T14:34:32.275Z",
       "ip": "103.46.200.93",
       "username": "katdenningssss"
+    },
+    {
+      "type": "series",
+      "id": "tt33503491:1:1",
+      "title": "tt33503491:1:1",
+      "timestamp": "2026-03-05T14:50:47.956Z",
+      "ip": "2409:40c1:101b:fffa:68e3:cd2f:a38e:e580",
+      "username": "ujas"
+    },
+    {
+      "type": "series",
+      "id": "tt33503491:1:2",
+      "title": "tt33503491:1:2",
+      "timestamp": "2026-03-05T14:51:11.385Z",
+      "ip": "2409:40c1:101b:fffa:68e3:cd2f:a38e:e580",
+      "username": "ujas"
     }
   ],
   "activeNow": {
@@ -93022,6 +93023,13 @@
       "title": "Insidious: Chapter 3",
       "username": "nobody_is_my_name",
       "lastActive": 1772720646669
+    },
+    "2409:40c1:101b:fffa:68e3:cd2f:a38e:e580": {
+      "type": "series",
+      "id": "tt33503491:1:2",
+      "title": "tt33503491:1:2",
+      "username": "ujas",
+      "lastActive": 1772722271385
     }
   }
 }
