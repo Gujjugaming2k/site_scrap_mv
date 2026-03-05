@@ -1,5 +1,5 @@
 {
-  "totalViews": 33753,
+  "totalViews": 33757,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6657,41 +6657,11 @@
     "2405:201:2022:b81c:ac69:7703:5ce4:a7d7",
     "2409:40e0:20:59aa:891a:c3cb:5544:e17",
     "2409:40c1:101b:fffa:68e3:cd2f:a38e:e580",
-    "138.199.50.3"
+    "138.199.50.3",
+    "2409:40e0:105d:29dc:891a:c3cb:5544:e17",
+    "2401:4900:88c5:ec2c:b0c8:f9ec:dab5:e0a0"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32141377",
-      "title": "tt32141377",
-      "timestamp": "2026-02-12T12:08:08.990Z",
-      "ip": "45.118.158.231",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt36926733",
-      "title": "tt36926733",
-      "timestamp": "2026-02-12T12:08:27.454Z",
-      "ip": "38.224.232.109",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt0357905",
-      "title": "tt0357905",
-      "timestamp": "2026-02-12T12:09:09.447Z",
-      "ip": "45.118.158.231",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-02-12T12:10:06.470Z",
-      "ip": "103.249.4.198",
-      "username": "tgh2r"
-    },
     {
       "type": "series",
       "id": "tt2100976:1:1",
@@ -86659,6 +86629,38 @@
       "timestamp": "2026-03-05T15:40:28.507Z",
       "ip": "5.32.86.178",
       "username": "nobody_is_my_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt3195644",
+      "title": "Insidious: Chapter 3",
+      "timestamp": "2026-03-05T15:44:36.284Z",
+      "ip": "2409:40e0:105d:29dc:891a:c3cb:5544:e17",
+      "username": "nobody_is_my_name"
+    },
+    {
+      "type": "series",
+      "id": "tt8599532:1:1",
+      "title": "tt8599532:1:1",
+      "timestamp": "2026-03-05T15:45:06.930Z",
+      "ip": "5.32.86.178",
+      "username": "nobody_is_my_name"
+    },
+    {
+      "type": "series",
+      "id": "tt8599532:1:2",
+      "title": "tt8599532:1:2",
+      "timestamp": "2026-03-05T15:46:03.111Z",
+      "ip": "5.32.86.178",
+      "username": "nobody_is_my_name"
+    },
+    {
+      "type": "series",
+      "id": "tt29569035:1:9",
+      "title": "tt29569035:1:9",
+      "timestamp": "2026-03-05T15:47:07.412Z",
+      "ip": "2401:4900:88c5:ec2c:b0c8:f9ec:dab5:e0a0",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -92827,7 +92829,7 @@
       "id": "tt8599532:1:2",
       "title": "tt8599532:1:2",
       "username": "nobody_is_my_name",
-      "lastActive": 1772725228507
+      "lastActive": 1772725563111
     },
     "2402:3a80:e4d:474c:4460:66ff:fe9c:1ffd": {
       "type": "movie",
@@ -93038,6 +93040,20 @@
       "title": "tt9036998",
       "username": "theonlyfreak",
       "lastActive": 1772724853012
+    },
+    "2409:40e0:105d:29dc:891a:c3cb:5544:e17": {
+      "type": "movie",
+      "id": "tt3195644",
+      "title": "Insidious: Chapter 3",
+      "username": "nobody_is_my_name",
+      "lastActive": 1772725476284
+    },
+    "2401:4900:88c5:ec2c:b0c8:f9ec:dab5:e0a0": {
+      "type": "series",
+      "id": "tt29569035:1:9",
+      "title": "tt29569035:1:9",
+      "username": "theaceofficials",
+      "lastActive": 1772725627412
     }
   }
 }
