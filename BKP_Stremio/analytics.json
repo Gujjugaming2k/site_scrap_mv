@@ -1,5 +1,5 @@
 {
-  "totalViews": 33654,
+  "totalViews": 33661,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6643,65 +6643,12 @@
     "2401:4900:883e:d81e:c8c:1948:dd9d:9560",
     "2401:4900:c31a:c329:1c03:b4ff:fedd:a9c2",
     "2409:40e2:10fd:1449:af77:7dda:f0f6:5b7b",
-    "157.49.10.236"
+    "157.49.10.236",
+    "2409:40e1:309e:525b:8000::",
+    "2405:201:6025:a88d:2668:30f8:bd65:f949",
+    "2a09:bac5:3b3f:10d2::1ad:b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt31510819:1:2",
-      "title": "tt31510819:1:2",
-      "timestamp": "2026-02-12T10:00:48.765Z",
-      "ip": "152.59.153.61",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt2948372",
-      "title": "tt2948372",
-      "timestamp": "2026-02-12T10:02:51.969Z",
-      "ip": "2409:40e5:9d:b2db:48f0:4aff:fe6a:e19a",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "series",
-      "id": "tt31510819:1:1",
-      "title": "tt31510819:1:1",
-      "timestamp": "2026-02-12T10:07:14.559Z",
-      "ip": "2409:40c1:1018:3836:8000::",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt31510819:1:1",
-      "title": "tt31510819:1:1",
-      "timestamp": "2026-02-12T10:08:01.864Z",
-      "ip": "2409:40c1:1018:3836:8000::",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt31510819:1:1",
-      "title": "tt31510819:1:1",
-      "timestamp": "2026-02-12T10:08:08.442Z",
-      "ip": "2409:40c1:1018:3836:8000::",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-02-12T10:10:03.338Z",
-      "ip": "2409:40e5:9d:b2db:48f0:4aff:fe6a:e19a",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "series",
-      "id": "tt2016058:1:1",
-      "title": "tt2016058:1:1",
-      "timestamp": "2026-02-12T10:13:55.459Z",
-      "ip": "2401:4900:1c52:fe33:8af0:23ef:7baf:bc65",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt31510819:1:1",
@@ -86645,6 +86592,62 @@
       "timestamp": "2026-03-05T10:09:17.736Z",
       "ip": "157.49.10.236",
       "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt0119643",
+      "title": "Meet Joe Black",
+      "timestamp": "2026-03-05T10:13:17.139Z",
+      "ip": "157.49.10.236",
+      "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt0119643",
+      "title": "Meet Joe Black",
+      "timestamp": "2026-03-05T10:13:31.252Z",
+      "ip": "157.49.10.236",
+      "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt31852278",
+      "title": "tt31852278",
+      "timestamp": "2026-03-05T10:15:53.951Z",
+      "ip": "2409:40e1:309e:525b:8000::",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt39692558:1:1",
+      "title": "tt39692558:1:1",
+      "timestamp": "2026-03-05T10:18:32.069Z",
+      "ip": "2409:40e1:309e:525b:8000::",
+      "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt39692558:1:1",
+      "title": "tt39692558:1:1",
+      "timestamp": "2026-03-05T10:18:34.212Z",
+      "ip": "2409:40e1:309e:525b:8000::",
+      "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt27328206",
+      "title": "tt27328206",
+      "timestamp": "2026-03-05T10:22:46.475Z",
+      "ip": "2405:201:6025:a88d:2668:30f8:bd65:f949",
+      "username": "infinityseeker"
+    },
+    {
+      "type": "movie",
+      "id": "tt27328206",
+      "title": "tt27328206",
+      "timestamp": "2026-03-05T10:25:12.896Z",
+      "ip": "2a09:bac5:3b3f:10d2::1ad:b",
+      "username": "infinityseeker"
     }
   ],
   "activeNow": {
@@ -92921,11 +92924,32 @@
       "lastActive": 1772705118753
     },
     "157.49.10.236": {
-      "type": "series",
-      "id": "tt38987259:1:1",
-      "title": "tt38987259:1:1",
+      "type": "movie",
+      "id": "tt0119643",
+      "title": "Meet Joe Black",
       "username": "magicmannn",
-      "lastActive": 1772705357736
+      "lastActive": 1772705611252
+    },
+    "2409:40e1:309e:525b:8000::": {
+      "type": "series",
+      "id": "tt39692558:1:1",
+      "title": "tt39692558:1:1",
+      "username": "tgh2r",
+      "lastActive": 1772705914212
+    },
+    "2405:201:6025:a88d:2668:30f8:bd65:f949": {
+      "type": "movie",
+      "id": "tt27328206",
+      "title": "tt27328206",
+      "username": "infinityseeker",
+      "lastActive": 1772706166475
+    },
+    "2a09:bac5:3b3f:10d2::1ad:b": {
+      "type": "movie",
+      "id": "tt27328206",
+      "title": "tt27328206",
+      "username": "infinityseeker",
+      "lastActive": 1772706312896
     }
   }
 }
