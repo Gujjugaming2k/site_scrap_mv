@@ -1,5 +1,5 @@
 {
-  "totalViews": 33629,
+  "totalViews": 33631,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6635,25 +6635,10 @@
     "152.58.118.19",
     "223.181.96.69",
     "2409:40e1:3:9b6c:8000::",
-    "122.161.73.252"
+    "122.161.73.252",
+    "2402:8100:2dfd:548f:8d56:c5f1:f219:d01c"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0367110",
-      "title": "tt0367110",
-      "timestamp": "2026-02-12T09:32:22.185Z",
-      "ip": "2405:201:2022:b81c:c951:4ea4:c622:5401",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt0429683",
-      "title": "tt0429683",
-      "timestamp": "2026-02-12T09:33:32.614Z",
-      "ip": "2001:4490:4e65:1d8b:f018:3a18:1f40:3bec",
-      "username": "adiyogivishwanath"
-    },
     {
       "type": "series",
       "id": "tt2016058:1:1",
@@ -86637,6 +86622,22 @@
       "timestamp": "2026-03-05T08:24:59.791Z",
       "ip": "152.58.118.19",
       "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt31050594",
+      "title": "tt31050594",
+      "timestamp": "2026-03-05T08:29:20.278Z",
+      "ip": "5.32.86.178",
+      "username": "nobody_is_my_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt0213847",
+      "title": "tt0213847",
+      "timestamp": "2026-03-05T08:32:13.372Z",
+      "ip": "2402:8100:2dfd:548f:8d56:c5f1:f219:d01c",
+      "username": "harshra9999"
     }
   ],
   "activeNow": {
@@ -92805,7 +92806,7 @@
       "id": "tt31050594",
       "title": "tt31050594",
       "username": "nobody_is_my_name",
-      "lastActive": 1772699093175
+      "lastActive": 1772699360278
     },
     "2402:3a80:e4d:474c:4460:66ff:fe9c:1ffd": {
       "type": "movie",
@@ -92862,6 +92863,13 @@
       "title": "Prison Break",
       "username": "dillon_ka_shooter",
       "lastActive": 1772698965393
+    },
+    "2402:8100:2dfd:548f:8d56:c5f1:f219:d01c": {
+      "type": "movie",
+      "id": "tt0213847",
+      "title": "tt0213847",
+      "username": "harshra9999",
+      "lastActive": 1772699533372
     }
   }
 }
