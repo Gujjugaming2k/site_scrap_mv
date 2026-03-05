@@ -1,5 +1,5 @@
 {
-  "totalViews": 33810,
+  "totalViews": 33816,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6666,57 +6666,10 @@
     "103.186.54.177",
     "2409:40e4:10ab:bc72:f87d:84bc:19b2:87b6",
     "37.120.132.18",
-    "2401:4900:88c5:181e:b400:e7f8:277b:f91a"
+    "2401:4900:88c5:181e:b400:e7f8:277b:f91a",
+    "157.49.5.174"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt8672856",
-      "title": "tt8672856",
-      "timestamp": "2026-02-12T12:50:53.636Z",
-      "ip": "2405:201:682e:6839:4b12:f490:d42e:c576",
-      "username": "babubhaiya"
-    },
-    {
-      "type": "movie",
-      "id": "tt36926733",
-      "title": "tt36926733",
-      "timestamp": "2026-02-12T12:52:27.232Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "movie",
-      "id": "tt36926733",
-      "title": "tt36926733",
-      "timestamp": "2026-02-12T12:52:44.173Z",
-      "ip": "103.24.85.184",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt15464188",
-      "title": "tt15464188",
-      "timestamp": "2026-02-12T12:53:03.773Z",
-      "ip": "103.24.85.184",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt26439764",
-      "title": "tt26439764",
-      "timestamp": "2026-02-12T12:54:24.350Z",
-      "ip": "152.58.134.138",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "movie",
-      "id": "tt35288598",
-      "title": "tt35288598",
-      "timestamp": "2026-02-12T12:55:03.239Z",
-      "ip": "116.68.75.147",
-      "username": "aravindsivan"
-    },
     {
       "type": "movie",
       "id": "tt36926733",
@@ -86668,6 +86621,54 @@
       "timestamp": "2026-03-05T17:58:16.440Z",
       "ip": "38.224.232.77",
       "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt20251716",
+      "title": "tt20251716",
+      "timestamp": "2026-03-05T17:58:39.528Z",
+      "ip": "2409:40e4:10ab:bc72:f87d:84bc:19b2:87b6",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt39255646",
+      "title": "tt39255646",
+      "timestamp": "2026-03-05T17:59:22.261Z",
+      "ip": "38.224.232.77",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt39255646",
+      "title": "tt39255646",
+      "timestamp": "2026-03-05T18:00:16.751Z",
+      "ip": "38.224.232.77",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt0112130:1:1",
+      "title": "tt0112130:1:1",
+      "timestamp": "2026-03-05T18:06:43.050Z",
+      "ip": "157.49.5.174",
+      "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-03-05T18:10:08.305Z",
+      "ip": "38.224.232.77",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-03-05T18:10:28.352Z",
+      "ip": "38.224.232.77",
+      "username": "thala_75"
     }
   ],
   "activeNow": {
@@ -92546,10 +92547,10 @@
     },
     "38.224.232.77": {
       "type": "movie",
-      "id": "tt39255646",
-      "title": "tt39255646",
+      "id": "tt27543632",
+      "title": "tt27543632",
       "username": "thala_75",
-      "lastActive": 1772733496440
+      "lastActive": 1772734228352
     },
     "2409:40c2:1:4fe1:b9f3:f425:bcad:852f": {
       "type": "movie",
@@ -93092,10 +93093,10 @@
     },
     "2409:40e4:10ab:bc72:f87d:84bc:19b2:87b6": {
       "type": "movie",
-      "id": "tt1219289",
-      "title": "Limitless",
+      "id": "tt20251716",
+      "title": "tt20251716",
       "username": "askchm",
-      "lastActive": 1772732571065
+      "lastActive": 1772733519528
     },
     "37.120.132.18": {
       "type": "series",
@@ -93110,6 +93111,13 @@
       "title": "tt29569035:1:10",
       "username": "theaceofficials",
       "lastActive": 1772733211780
+    },
+    "157.49.5.174": {
+      "type": "series",
+      "id": "tt0112130:1:1",
+      "title": "tt0112130:1:1",
+      "username": "magicmannn",
+      "lastActive": 1772734003050
     }
   }
 }
