@@ -1,5 +1,5 @@
 {
-  "totalViews": 33543,
+  "totalViews": 33546,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6616,33 +6616,10 @@
     "2401:4900:892d:3915:f5aa:bc71:9a3c:ad81",
     "49.36.78.193",
     "190.250.237.36",
-    "2a02:9b0:106:4496:1825:6560:ff39:71f5"
+    "2a02:9b0:106:4496:1825:6560:ff39:71f5",
+    "106.202.58.10"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt8178634",
-      "title": "tt8178634",
-      "timestamp": "2026-02-12T08:46:42.484Z",
-      "ip": "103.249.4.198",
-      "username": "tgh2r"
-    },
-    {
-      "type": "series",
-      "id": "tt22091076:1:1",
-      "title": "tt22091076:1:1",
-      "timestamp": "2026-02-12T08:46:42.673Z",
-      "ip": "106.222.217.210",
-      "username": "anonymous_rare"
-    },
-    {
-      "type": "movie",
-      "id": "tt8178634",
-      "title": "tt8178634",
-      "timestamp": "2026-02-12T08:47:27.418Z",
-      "ip": "103.249.4.198",
-      "username": "tgh2r"
-    },
     {
       "type": "series",
       "id": "tt26745417:1:1",
@@ -86618,6 +86595,30 @@
       "timestamp": "2026-03-05T03:35:00.996Z",
       "ip": "2a02:9b0:106:4496:1825:6560:ff39:71f5",
       "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt28377588",
+      "title": "tt28377588",
+      "timestamp": "2026-03-05T03:56:55.391Z",
+      "ip": "186.188.150.139",
+      "username": "ymcinema"
+    },
+    {
+      "type": "series",
+      "id": "tt11867666:1:1",
+      "title": "tt11867666:1:1",
+      "timestamp": "2026-03-05T03:58:00.899Z",
+      "ip": "106.202.58.10",
+      "username": "iknowthat"
+    },
+    {
+      "type": "series",
+      "id": "tt11867666:1:1",
+      "title": "tt11867666:1:1",
+      "timestamp": "2026-03-05T03:58:00.998Z",
+      "ip": "106.202.58.10",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -86749,10 +86750,10 @@
     },
     "186.188.150.139": {
       "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "id": "tt28377588",
+      "title": "tt28377588",
       "username": "ymcinema",
-      "lastActive": 1772339502287
+      "lastActive": 1772683015391
     },
     "2401:4900:8823:a9e4:44a0:b4b8:7787:d185": {
       "type": "series",
@@ -92703,6 +92704,13 @@
       "title": "tt35950179:1:1",
       "username": "hoosa500",
       "lastActive": 1772681700996
+    },
+    "106.202.58.10": {
+      "type": "series",
+      "id": "tt11867666:1:1",
+      "title": "tt11867666:1:1",
+      "username": "b1jju",
+      "lastActive": 1772683080998
     }
   }
 }
