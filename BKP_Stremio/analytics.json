@@ -1,5 +1,5 @@
 {
-  "totalViews": 33713,
+  "totalViews": 33715,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6655,22 +6655,6 @@
     "2401:4900:1c18:6029:b873:c6dc:c63c:55c7"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt3212600:1:1",
-      "title": "tt3212600:1:1",
-      "timestamp": "2026-02-12T11:22:05.345Z",
-      "ip": "2409:40e5:9d:b2db:48f0:4aff:fe6a:e19a",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "series",
-      "id": "tt22202452:1:1",
-      "title": "tt22202452:1:1",
-      "timestamp": "2026-02-12T11:26:29.721Z",
-      "ip": "2409:40e5:9d:b2db:48f0:4aff:fe6a:e19a",
-      "username": "cyberboy12321"
-    },
     {
       "type": "series",
       "id": "tt22202452:1:2",
@@ -86654,6 +86638,22 @@
       "timestamp": "2026-03-05T13:01:22.607Z",
       "ip": "2409:40c1:1036:d9e0:512d:1344:f5b9:e245",
       "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt4508902:3:3",
+      "title": "tt4508902:3:3",
+      "timestamp": "2026-03-05T13:06:09.985Z",
+      "ip": "150.107.241.55",
+      "username": "jamesbond_pistolman"
+    },
+    {
+      "type": "movie",
+      "id": "tt0266697",
+      "title": "Kill Bill: Vol. 1",
+      "timestamp": "2026-03-05T13:19:12.047Z",
+      "ip": "146.196.34.167",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -89626,11 +89626,11 @@
       "lastActive": 1772184282154
     },
     "150.107.241.55": {
-      "type": "movie",
-      "id": "tt32141377",
-      "title": "tt32141377",
+      "type": "series",
+      "id": "tt4508902:3:3",
+      "title": "tt4508902:3:3",
       "username": "jamesbond_pistolman",
-      "lastActive": 1772185089401
+      "lastActive": 1772715969985
     },
     "2401:4900:1caa:aab9:850f:f3d3:a142:bb9a": {
       "type": "movie",
@@ -91804,10 +91804,10 @@
     },
     "146.196.34.167": {
       "type": "movie",
-      "id": "tt29268110",
-      "title": "tt29268110",
+      "id": "tt0266697",
+      "title": "Kill Bill: Vol. 1",
       "username": "gaendaswami",
-      "lastActive": 1772647788807
+      "lastActive": 1772716752047
     },
     "103.87.57.76": {
       "type": "series",
