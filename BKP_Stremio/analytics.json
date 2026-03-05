@@ -1,5 +1,5 @@
 {
-  "totalViews": 33686,
+  "totalViews": 33689,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6651,30 +6651,6 @@
     "2401:4900:883e:d81e:35a7:c5a2:f2ef:84dd"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt2948372",
-      "title": "tt2948372",
-      "timestamp": "2026-02-12T10:33:44.036Z",
-      "ip": "2409:40e5:9d:b2db:48f0:4aff:fe6a:e19a",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "movie",
-      "id": "tt0371735",
-      "title": "tt0371735",
-      "timestamp": "2026-02-12T10:34:18.746Z",
-      "ip": "2401:4900:1c52:fe33:8af0:23ef:7baf:bc65",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-02-12T10:34:56.889Z",
-      "ip": "2409:40e5:9d:b2db:48f0:4aff:fe6a:e19a",
-      "username": "cyberboy12321"
-    },
     {
       "type": "series",
       "id": "tt0108778:9:13",
@@ -86650,6 +86626,30 @@
       "timestamp": "2026-03-05T11:15:59.279Z",
       "ip": "2409:40e1:3:9b6c:8000::",
       "username": "i_am_cheetah"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:5:9",
+      "title": "Lost",
+      "timestamp": "2026-03-05T11:37:31.651Z",
+      "ip": "116.68.77.63",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:5:8",
+      "title": "Lost",
+      "timestamp": "2026-03-05T11:37:45.405Z",
+      "ip": "116.68.77.63",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:5:9",
+      "title": "Lost",
+      "timestamp": "2026-03-05T11:39:16.665Z",
+      "ip": "116.68.77.63",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -90540,10 +90540,10 @@
     },
     "116.68.77.63": {
       "type": "series",
-      "id": "tt0411008:5:8",
+      "id": "tt0411008:5:9",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1772707376096
+      "lastActive": 1772710756665
     },
     "2409:40e4:1156:e4c6:40ab:f3ff:fece:13fa": {
       "type": "movie",
