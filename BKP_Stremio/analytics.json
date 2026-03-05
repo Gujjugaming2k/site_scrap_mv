@@ -1,5 +1,5 @@
 {
-  "totalViews": 33835,
+  "totalViews": 33838,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6668,33 +6668,10 @@
     "37.120.132.18",
     "2401:4900:88c5:181e:b400:e7f8:277b:f91a",
     "157.49.5.174",
-    "2402:3a80:15aa:ae76:13:7f7b:69e5:1886"
+    "2402:3a80:15aa:ae76:13:7f7b:69e5:1886",
+    "2a09:bac5:3b5b:1d05::2e4:f5"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt36926733",
-      "title": "tt36926733",
-      "timestamp": "2026-02-12T13:17:46.087Z",
-      "ip": "103.24.85.184",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt26439764",
-      "title": "tt26439764",
-      "timestamp": "2026-02-12T13:18:25.975Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt8178634",
-      "title": "tt8178634",
-      "timestamp": "2026-02-12T13:25:07.390Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt17220216:1:7",
@@ -86670,6 +86647,30 @@
       "timestamp": "2026-03-05T18:57:26.697Z",
       "ip": "116.68.77.63",
       "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt19403516",
+      "title": "Hallow Road",
+      "timestamp": "2026-03-05T19:10:08.013Z",
+      "ip": "103.186.54.177",
+      "username": "schnom153"
+    },
+    {
+      "type": "movie",
+      "id": "tt1527793",
+      "title": "No Other Choice",
+      "timestamp": "2026-03-05T19:10:39.672Z",
+      "ip": "103.186.54.177",
+      "username": "schnom153"
+    },
+    {
+      "type": "series",
+      "id": "tt26737616:1:7",
+      "title": "tt26737616:1:7",
+      "timestamp": "2026-03-05T19:13:34.663Z",
+      "ip": "2a09:bac5:3b5b:1d05::2e4:f5",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -93087,10 +93088,10 @@
     },
     "103.186.54.177": {
       "type": "movie",
-      "id": "tt6533240",
-      "title": "tt6533240",
+      "id": "tt1527793",
+      "title": "No Other Choice",
       "username": "schnom153",
-      "lastActive": 1772732392944
+      "lastActive": 1772737839672
     },
     "2409:40e4:10ab:bc72:f87d:84bc:19b2:87b6": {
       "type": "movie",
@@ -93126,6 +93127,13 @@
       "title": "JUJUTSU KAISEN",
       "username": "gendaswammy",
       "lastActive": 1772735588572
+    },
+    "2a09:bac5:3b5b:1d05::2e4:f5": {
+      "type": "series",
+      "id": "tt26737616:1:7",
+      "title": "tt26737616:1:7",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1772738014663
     }
   }
 }
