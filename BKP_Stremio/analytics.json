@@ -1,5 +1,5 @@
 {
-  "totalViews": 33939,
+  "totalViews": 33940,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6691,14 +6691,6 @@
     "2409:40d2:300e:82d3:67e7:c255:314a:7af6"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt11097240:1:4",
-      "title": "tt11097240:1:4",
-      "timestamp": "2026-02-12T15:58:32.515Z",
-      "ip": "152.59.24.121",
-      "username": "napsteerr"
-    },
     {
       "type": "series",
       "id": "tt0460649:5:11",
@@ -86690,6 +86682,14 @@
       "timestamp": "2026-03-06T05:43:18.111Z",
       "ip": "182.69.180.143",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt29359373",
+      "title": "Everybody Loves Touda",
+      "timestamp": "2026-03-06T05:59:06.465Z",
+      "ip": "2409:40e4:10b6:3966:61f0:9d95:5751:a813",
+      "username": "askchm"
     }
   ],
   "activeNow": {
@@ -93198,10 +93198,10 @@
     },
     "2409:40e4:10b6:3966:61f0:9d95:5751:a813": {
       "type": "movie",
-      "id": "tt38123566",
-      "title": "tt38123566",
+      "id": "tt29359373",
+      "title": "Everybody Loves Touda",
       "username": "askchm",
-      "lastActive": 1772771296700
+      "lastActive": 1772776746465
     },
     "2405:201:202d:d019:f443:7419:92ac:5619": {
       "type": "movie",
