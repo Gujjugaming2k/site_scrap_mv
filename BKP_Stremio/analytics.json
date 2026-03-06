@@ -1,5 +1,5 @@
 {
-  "totalViews": 34348,
+  "totalViews": 34351,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6750,30 +6750,6 @@
     "78.152.209.50"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0107290",
-      "title": "Jurassic Park",
-      "timestamp": "2026-02-13T08:08:14.416Z",
-      "ip": "2405:201:900f:a92b:1191:4ed7:e9dc:ba8",
-      "username": "theonlyfreak"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:4",
-      "title": "Stranger Things",
-      "timestamp": "2026-02-13T08:20:07.747Z",
-      "ip": "2401:4900:88d5:8287:8f1:6423:2f18:1232",
-      "username": "itsvenum"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:4",
-      "title": "Stranger Things",
-      "timestamp": "2026-02-13T08:20:07.855Z",
-      "ip": "2401:4900:88d5:8287:8f1:6423:2f18:1232",
-      "username": "itsvenum"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:1",
@@ -86749,6 +86725,30 @@
       "timestamp": "2026-03-06T23:37:09.078Z",
       "ip": "66.102.121.253",
       "username": "hvre2"
+    },
+    {
+      "type": "movie",
+      "id": "tt34509472",
+      "title": "tt34509472",
+      "timestamp": "2026-03-06T23:48:45.287Z",
+      "ip": "78.152.209.50",
+      "username": "sid_g"
+    },
+    {
+      "type": "movie",
+      "id": "tt39028191",
+      "title": "tt39028191",
+      "timestamp": "2026-03-06T23:51:39.567Z",
+      "ip": "66.102.121.253",
+      "username": "hvre2"
+    },
+    {
+      "type": "series",
+      "id": "tt22248376:1:1",
+      "title": "tt22248376:1:1",
+      "timestamp": "2026-03-06T23:52:08.030Z",
+      "ip": "66.102.121.253",
+      "username": "hvre2"
     }
   ],
   "activeNow": {
@@ -90065,10 +90065,10 @@
     },
     "66.102.121.253": {
       "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
+      "id": "tt22248376:1:1",
+      "title": "tt22248376:1:1",
       "username": "hvre2",
-      "lastActive": 1772840229078
+      "lastActive": 1772841128030
     },
     "157.49.121.148": {
       "type": "movie",
@@ -93753,11 +93753,11 @@
       "lastActive": 1772827854728
     },
     "78.152.209.50": {
-      "type": "series",
-      "id": "tt8599532:1:5",
-      "title": "tt8599532:1:5",
+      "type": "movie",
+      "id": "tt34509472",
+      "title": "tt34509472",
       "username": "sid_g",
-      "lastActive": 1772831964619
+      "lastActive": 1772840925287
     }
   }
 }
