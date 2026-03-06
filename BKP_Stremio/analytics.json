@@ -1,5 +1,5 @@
 {
-  "totalViews": 33885,
+  "totalViews": 33891,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6677,57 +6677,11 @@
     "2405:201:2022:b81c:2530:722f:51ae:148f",
     "2406:b400:1a:5b71:a27:a8ff:fe42:855e",
     "2409:40e4:10b6:3966:61f0:9d95:5751:a813",
-    "2405:201:202d:d019:f443:7419:92ac:5619"
+    "2405:201:202d:d019:f443:7419:92ac:5619",
+    "2a09:bac5:3aee:1aaa::2a8:28",
+    "2409:40c2:5046:afc6:f49b:fcff:fe9f:a71f"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt26439764",
-      "title": "tt26439764",
-      "timestamp": "2026-02-12T15:10:41.118Z",
-      "ip": "2409:40d0:202a:232d:8000::",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt27853283:2:1",
-      "title": "tt27853283:2:1",
-      "timestamp": "2026-02-12T15:11:20.663Z",
-      "ip": "45.118.158.231",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt15427952",
-      "title": "tt15427952",
-      "timestamp": "2026-02-12T15:11:46.059Z",
-      "ip": "223.236.84.231",
-      "username": "user_9b"
-    },
-    {
-      "type": "series",
-      "id": "tt27853283:2:1",
-      "title": "tt27853283:2:1",
-      "timestamp": "2026-02-12T15:12:13.770Z",
-      "ip": "45.118.158.231",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt10919420:1:1",
-      "title": "tt10919420:1:1",
-      "timestamp": "2026-02-12T15:12:19.832Z",
-      "ip": "2405:201:e00a:a19d:b13:9dcf:f2ee:dc48",
-      "username": "executeal"
-    },
-    {
-      "type": "series",
-      "id": "tt27853283:2:1",
-      "title": "tt27853283:2:1",
-      "timestamp": "2026-02-12T15:13:00.780Z",
-      "ip": "45.118.158.231",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt27853283:2:1",
@@ -86679,6 +86633,54 @@
       "timestamp": "2026-03-06T03:48:52.415Z",
       "ip": "2405:201:202d:d019:f443:7419:92ac:5619",
       "username": "explorerindia"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:8:11",
+      "title": "tt0460649:8:11",
+      "timestamp": "2026-03-06T03:51:00.776Z",
+      "ip": "2a09:bac5:3aee:1aaa::2a8:28",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt14824792:2:1",
+      "title": "tt14824792:2:1",
+      "timestamp": "2026-03-06T03:52:05.520Z",
+      "ip": "2409:40c2:5046:afc6:f49b:fcff:fe9f:a71f",
+      "username": "targetx_25"
+    },
+    {
+      "type": "series",
+      "id": "tt14824792:2:2",
+      "title": "tt14824792:2:2",
+      "timestamp": "2026-03-06T03:54:09.867Z",
+      "ip": "2409:40c2:5046:afc6:f49b:fcff:fe9f:a71f",
+      "username": "targetx_25"
+    },
+    {
+      "type": "series",
+      "id": "tt1442437:2:19",
+      "title": "tt1442437:2:19",
+      "timestamp": "2026-03-06T03:59:27.381Z",
+      "ip": "2409:40c2:5046:afc6:f49b:fcff:fe9f:a71f",
+      "username": "targetx_25"
+    },
+    {
+      "type": "series",
+      "id": "tt1442437:2:19",
+      "title": "tt1442437:2:19",
+      "timestamp": "2026-03-06T03:59:27.981Z",
+      "ip": "2409:40c2:5046:afc6:f49b:fcff:fe9f:a71f",
+      "username": "targetx_25"
+    },
+    {
+      "type": "series",
+      "id": "tt1442437:2:20",
+      "title": "tt1442437:2:20",
+      "timestamp": "2026-03-06T03:59:51.511Z",
+      "ip": "2409:40c2:5046:afc6:f49b:fcff:fe9f:a71f",
+      "username": "targetx_25"
     }
   ],
   "activeNow": {
@@ -93198,6 +93200,20 @@
       "title": "tt37956153",
       "username": "explorerindia",
       "lastActive": 1772768932415
+    },
+    "2a09:bac5:3aee:1aaa::2a8:28": {
+      "type": "series",
+      "id": "tt0460649:8:11",
+      "title": "tt0460649:8:11",
+      "username": "demon18319",
+      "lastActive": 1772769060776
+    },
+    "2409:40c2:5046:afc6:f49b:fcff:fe9f:a71f": {
+      "type": "series",
+      "id": "tt1442437:2:20",
+      "title": "tt1442437:2:20",
+      "username": "targetx_25",
+      "lastActive": 1772769591511
     }
   }
 }
