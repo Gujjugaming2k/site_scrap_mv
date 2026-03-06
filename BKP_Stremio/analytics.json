@@ -1,5 +1,5 @@
 {
-  "totalViews": 33991,
+  "totalViews": 33996,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6696,49 +6696,10 @@
     "2401:4900:883c:7567:a00e:2fe0:6411:ca59",
     "122.161.68.42",
     "2401:4900:4164:a614:647f:5331:b1dd:e462",
-    "2401:4900:1c0b:1e04:8065:25cc:fb69:2388"
+    "2401:4900:1c0b:1e04:8065:25cc:fb69:2388",
+    "114.31.189.129"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
-      "timestamp": "2026-02-12T16:38:42.648Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:5:8",
-      "title": "Stranger Things",
-      "timestamp": "2026-02-12T16:38:55.901Z",
-      "ip": "2a09:bac1:3680:5e98::3e3:9",
-      "username": "demon18319"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
-      "timestamp": "2026-02-12T16:39:07.864Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-02-12T16:40:23.991Z",
-      "ip": "103.249.4.198",
-      "username": "tgh2r"
-    },
-    {
-      "type": "movie",
-      "id": "tt0367110",
-      "title": "tt0367110",
-      "timestamp": "2026-02-12T16:41:01.637Z",
-      "ip": "2405:201:2022:b81c:e1ba:be3:1678:fa81",
-      "username": "zealousninja"
-    },
     {
       "type": "movie",
       "id": "tt0816711",
@@ -86698,6 +86659,46 @@
       "timestamp": "2026-03-06T08:28:08.154Z",
       "ip": "38.224.232.77",
       "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:8",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-03-06T08:33:23.408Z",
+      "ip": "114.31.189.129",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:9",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-03-06T08:33:39.063Z",
+      "ip": "114.31.189.129",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:3:9",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-03-06T08:33:49.798Z",
+      "ip": "114.31.189.129",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt14331144",
+      "title": "Jujutsu Kaisen 0",
+      "timestamp": "2026-03-06T08:37:27.980Z",
+      "ip": "122.161.68.42",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0455275:1:16",
+      "title": "Prison Break",
+      "timestamp": "2026-03-06T08:37:42.478Z",
+      "ip": "122.161.68.42",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -93332,10 +93333,10 @@
     },
     "122.161.68.42": {
       "type": "series",
-      "id": "tt0455275:1:15",
+      "id": "tt0455275:1:16",
       "title": "Prison Break",
       "username": "dillon_ka_shooter",
-      "lastActive": 1772785581113
+      "lastActive": 1772786262478
     },
     "2401:4900:4164:a614:647f:5331:b1dd:e462": {
       "type": "series",
@@ -93350,6 +93351,13 @@
       "title": "tt30003786:4:11",
       "username": "dillon_ka_shooter",
       "lastActive": 1772784484415
+    },
+    "114.31.189.129": {
+      "type": "series",
+      "id": "tt12343534:3:9",
+      "title": "JUJUTSU KAISEN",
+      "username": "gendaswammy",
+      "lastActive": 1772786029798
     }
   }
 }
