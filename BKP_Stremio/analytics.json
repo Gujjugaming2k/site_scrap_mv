@@ -1,5 +1,5 @@
 {
-  "totalViews": 34051,
+  "totalViews": 34053,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6707,25 +6707,10 @@
     "2409:40d4:4036:7b25:8000::",
     "122.177.246.149",
     "2405:201:6025:a88d:e9bc:4356:3ebd:ae80",
-    "2405:201:6820:a83c:fc3e:bb9a:2e41:1b2a"
+    "2405:201:6820:a83c:fc3e:bb9a:2e41:1b2a",
+    "106.222.250.253"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33307516",
-      "title": "tt33307516",
-      "timestamp": "2026-02-12T17:28:56.925Z",
-      "ip": "49.43.110.5",
-      "username": "shadow"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-02-12T17:30:02.630Z",
-      "ip": "49.43.110.5",
-      "username": "karthik"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:1",
@@ -86709,6 +86694,22 @@
       "timestamp": "2026-03-06T11:02:52.368Z",
       "ip": "2001:4490:444d:3f37:d4c0:c8de:10ca:a997",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt33028778",
+      "title": "tt33028778",
+      "timestamp": "2026-03-06T11:33:22.273Z",
+      "ip": "106.222.250.253",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt9335498:1:16",
+      "title": "tt9335498:1:16",
+      "timestamp": "2026-03-06T11:34:05.283Z",
+      "ip": "106.222.250.253",
+      "username": "nirbhay1412"
     }
   ],
   "activeNow": {
@@ -93438,6 +93439,13 @@
       "title": "tt17220216:2:2",
       "username": "demon18319",
       "lastActive": 1772794920869
+    },
+    "106.222.250.253": {
+      "type": "series",
+      "id": "tt9335498:1:16",
+      "title": "tt9335498:1:16",
+      "username": "nirbhay1412",
+      "lastActive": 1772796845283
     }
   }
 }
