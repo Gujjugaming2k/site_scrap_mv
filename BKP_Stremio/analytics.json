@@ -1,5 +1,5 @@
 {
-  "totalViews": 34301,
+  "totalViews": 34306,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6734,49 +6734,11 @@
     "2405:201:202d:d019:f699:c06c:d5bc:1a1e",
     "2409:40d0:1b:35cd:470:66ff:fe26:781a",
     "49.42.143.13",
-    "2409:40c2:a:52ee:24d0:12ff:fe0a:c8a8"
+    "2409:40c2:a:52ee:24d0:12ff:fe0a:c8a8",
+    "106.222.250.51",
+    "2401:4900:88c6:3456:9dc7:fa29:adbf:8010"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt5519340",
-      "title": "tt5519340",
-      "timestamp": "2026-02-13T05:09:56.717Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt5519340",
-      "title": "tt5519340",
-      "timestamp": "2026-02-13T05:17:48.408Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt5519340",
-      "title": "tt5519340",
-      "timestamp": "2026-02-13T05:22:21.687Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt33436924",
-      "title": "tt33436924",
-      "timestamp": "2026-02-13T05:32:43.556Z",
-      "ip": "38.224.232.109",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt0438488",
-      "title": "Terminator Salvation",
-      "timestamp": "2026-02-13T05:33:00.474Z",
-      "ip": "38.224.232.109",
-      "username": "thala_75"
-    },
     {
       "type": "series",
       "id": "tt12853970:1:1",
@@ -86736,6 +86698,46 @@
       "timestamp": "2026-03-06T17:21:15.960Z",
       "ip": "2409:40c2:a:52ee:24d0:12ff:fe0a:c8a8",
       "username": "agentmj47"
+    },
+    {
+      "type": "series",
+      "id": "tt9335498:1:15",
+      "title": "tt9335498:1:15",
+      "timestamp": "2026-03-06T17:34:30.113Z",
+      "ip": "106.222.250.51",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt29569035:1:13",
+      "title": "tt29569035:1:13",
+      "timestamp": "2026-03-06T17:36:22.000Z",
+      "ip": "2401:4900:88c6:3456:9dc7:fa29:adbf:8010",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt5626028:1:1",
+      "title": "tt5626028:1:1",
+      "timestamp": "2026-03-06T17:40:04.519Z",
+      "ip": "182.77.74.44",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt9335498:1:15",
+      "title": "tt9335498:1:15",
+      "timestamp": "2026-03-06T17:44:44.049Z",
+      "ip": "106.222.250.51",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:4:3",
+      "title": "tt0903747:4:3",
+      "timestamp": "2026-03-06T17:45:19.222Z",
+      "ip": "103.249.4.164",
+      "username": "tgh2r"
     }
   ],
   "activeNow": {
@@ -90024,10 +90026,10 @@
     },
     "103.249.4.164": {
       "type": "series",
-      "id": "tt0903747:4:2",
-      "title": "tt0903747:4:2",
+      "id": "tt0903747:4:3",
+      "title": "tt0903747:4:3",
       "username": "tgh2r",
-      "lastActive": 1772816203316
+      "lastActive": 1772819119222
     },
     "49.37.11.122": {
       "type": "movie",
@@ -92747,10 +92749,10 @@
     },
     "182.77.74.44": {
       "type": "series",
-      "id": "tt23139038:1:1",
-      "title": "tt23139038:1:1",
+      "id": "tt5626028:1:1",
+      "title": "tt5626028:1:1",
       "username": "theaceofficials",
-      "lastActive": 1772816300643
+      "lastActive": 1772818804519
     },
     "122.161.68.50": {
       "type": "series",
@@ -93654,6 +93656,20 @@
       "title": "tt0422091",
       "username": "agentmj47",
       "lastActive": 1772817675960
+    },
+    "106.222.250.51": {
+      "type": "series",
+      "id": "tt9335498:1:15",
+      "title": "tt9335498:1:15",
+      "username": "nirbhay1412",
+      "lastActive": 1772819084049
+    },
+    "2401:4900:88c6:3456:9dc7:fa29:adbf:8010": {
+      "type": "series",
+      "id": "tt29569035:1:13",
+      "title": "tt29569035:1:13",
+      "username": "theaceofficials",
+      "lastActive": 1772818582000
     }
   }
 }
