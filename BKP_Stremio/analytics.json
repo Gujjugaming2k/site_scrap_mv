@@ -1,5 +1,5 @@
 {
-  "totalViews": 34306,
+  "totalViews": 34309,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6736,33 +6736,10 @@
     "49.42.143.13",
     "2409:40c2:a:52ee:24d0:12ff:fe0a:c8a8",
     "106.222.250.51",
-    "2401:4900:88c6:3456:9dc7:fa29:adbf:8010"
+    "2401:4900:88c6:3456:9dc7:fa29:adbf:8010",
+    "2409:40e1:51f:c70e:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12853970:1:1",
-      "title": "tt12853970:1:1",
-      "timestamp": "2026-02-13T05:40:48.722Z",
-      "ip": "2405:201:500c:4a01:7059:d909:e451:e59f",
-      "username": "karthik"
-    },
-    {
-      "type": "series",
-      "id": "tt12853970:1:1",
-      "title": "tt12853970:1:1",
-      "timestamp": "2026-02-13T05:40:48.807Z",
-      "ip": "2405:201:500c:4a01:7059:d909:e451:e59f",
-      "username": "shadow"
-    },
-    {
-      "type": "series",
-      "id": "tt12853970:1:2",
-      "title": "tt12853970:1:2",
-      "timestamp": "2026-02-13T05:41:08.794Z",
-      "ip": "2405:201:500c:4a01:7059:d909:e451:e59f",
-      "username": "karthik"
-    },
     {
       "type": "series",
       "id": "tt12853970:1:2",
@@ -86738,6 +86715,30 @@
       "timestamp": "2026-03-06T17:45:19.222Z",
       "ip": "103.249.4.164",
       "username": "tgh2r"
+    },
+    {
+      "type": "series",
+      "id": "tt5626028:1:1",
+      "title": "tt5626028:1:1",
+      "timestamp": "2026-03-06T17:45:45.530Z",
+      "ip": "182.77.74.44",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt9335498:1:15",
+      "title": "tt9335498:1:15",
+      "timestamp": "2026-03-06T17:48:03.105Z",
+      "ip": "106.222.250.51",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt2628232:1:4",
+      "title": "tt2628232:1:4",
+      "timestamp": "2026-03-06T17:59:16.906Z",
+      "ip": "2409:40e1:51f:c70e:8000::",
+      "username": "i_am_cheetah"
     }
   ],
   "activeNow": {
@@ -92752,7 +92753,7 @@
       "id": "tt5626028:1:1",
       "title": "tt5626028:1:1",
       "username": "theaceofficials",
-      "lastActive": 1772818804519
+      "lastActive": 1772819145530
     },
     "122.161.68.50": {
       "type": "series",
@@ -93662,7 +93663,7 @@
       "id": "tt9335498:1:15",
       "title": "tt9335498:1:15",
       "username": "nirbhay1412",
-      "lastActive": 1772819084049
+      "lastActive": 1772819283105
     },
     "2401:4900:88c6:3456:9dc7:fa29:adbf:8010": {
       "type": "series",
@@ -93670,6 +93671,13 @@
       "title": "tt29569035:1:13",
       "username": "theaceofficials",
       "lastActive": 1772818582000
+    },
+    "2409:40e1:51f:c70e:8000::": {
+      "type": "series",
+      "id": "tt2628232:1:4",
+      "title": "tt2628232:1:4",
+      "username": "i_am_cheetah",
+      "lastActive": 1772819956906
     }
   }
 }
