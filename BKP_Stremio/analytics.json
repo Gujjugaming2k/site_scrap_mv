@@ -1,5 +1,5 @@
 {
-  "totalViews": 33956,
+  "totalViews": 33958,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6698,22 +6698,6 @@
     "2401:4900:4164:a614:647f:5331:b1dd:e462"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt17676734",
-      "title": "Americana",
-      "timestamp": "2026-02-12T16:06:27.527Z",
-      "ip": "2401:4900:1c52:fe33:a110:efcd:a2a9:6776",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-12T16:06:28.687Z",
-      "ip": "2401:4900:1c52:fe33:a110:efcd:a2a9:6776",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt11097240:1:4",
@@ -86697,6 +86681,22 @@
       "timestamp": "2026-03-06T07:32:14.443Z",
       "ip": "2401:4900:4164:a614:647f:5331:b1dd:e462",
       "username": "fw_arjun"
+    },
+    {
+      "type": "movie",
+      "id": "tt0120815",
+      "title": "Saving Private Ryan",
+      "timestamp": "2026-03-06T07:42:56.847Z",
+      "ip": "103.24.85.233",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt39299519:1:1",
+      "title": "tt39299519:1:1",
+      "timestamp": "2026-03-06T07:54:11.278Z",
+      "ip": "103.24.85.233",
+      "username": "william097"
     }
   ],
   "activeNow": {
@@ -93099,11 +93099,11 @@
       "lastActive": 1772726867206
     },
     "103.24.85.233": {
-      "type": "movie",
-      "id": "tt37956153",
-      "title": "tt37956153",
+      "type": "series",
+      "id": "tt39299519:1:1",
+      "title": "tt39299519:1:1",
       "username": "william097",
-      "lastActive": 1772770216552
+      "lastActive": 1772783651278
     },
     "23.94.155.140": {
       "type": "movie",
