@@ -1,5 +1,5 @@
 {
-  "totalViews": 34043,
+  "totalViews": 34044,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6704,17 +6704,10 @@
     "2401:4900:1c0b:1e04:a18d:3c19:9031:d67c",
     "2401:4900:ae2d:1d6e:f090:861c:19f2:b775",
     "2409:40c4:5f:d13c:bfe5:1c6e:98b7:4dc8",
-    "2409:40d4:4036:7b25:8000::"
+    "2409:40d4:4036:7b25:8000::",
+    "122.177.246.149"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0429683",
-      "title": "tt0429683",
-      "timestamp": "2026-02-12T17:26:46.830Z",
-      "ip": "2a09:bac1:3680:470::243:79",
-      "username": "adiyogivishwanath"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:1",
@@ -86706,6 +86699,14 @@
       "timestamp": "2026-03-06T10:11:18.244Z",
       "ip": "2409:40d4:4036:7b25:8000::",
       "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt2404605",
+      "title": "tt2404605",
+      "timestamp": "2026-03-06T10:33:35.225Z",
+      "ip": "122.177.246.149",
+      "username": "rishix915"
     }
   ],
   "activeNow": {
@@ -93414,6 +93415,13 @@
       "title": "Stranger Things",
       "username": "kdbotz",
       "lastActive": 1772791878244
+    },
+    "122.177.246.149": {
+      "type": "movie",
+      "id": "tt2404605",
+      "title": "tt2404605",
+      "username": "rishix915",
+      "lastActive": 1772793215225
     }
   }
 }
