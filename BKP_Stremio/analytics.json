@@ -1,5 +1,5 @@
 {
-  "totalViews": 33950,
+  "totalViews": 33952,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6692,25 +6692,10 @@
     "2401:4900:1c19:17f3:b5d1:9e63:e8c9:6340",
     "2402:3a80:4509:fcf5:d435:e6ff:fefc:ba71",
     "2001:4490:444d:3f37:d4c0:c8de:10ca:a997",
-    "2401:4900:53e5:2514:6953:2902:1b24:6984"
+    "2401:4900:53e5:2514:6953:2902:1b24:6984",
+    "2401:4900:883c:7567:a00e:2fe0:6411:ca59"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-12T16:06:04.987Z",
-      "ip": "2401:4900:1c52:fe33:a110:efcd:a2a9:6776",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt26047818",
-      "title": "Anyone But You",
-      "timestamp": "2026-02-12T16:06:06.304Z",
-      "ip": "2401:4900:1c52:fe33:a110:efcd:a2a9:6776",
-      "username": "dillon_ka_shooter"
-    },
     {
       "type": "series",
       "id": "tt11097240:1:4",
@@ -86694,6 +86679,22 @@
       "timestamp": "2026-03-06T07:11:00.075Z",
       "ip": "147.93.215.39",
       "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tt5753856:1:2",
+      "title": "tt5753856:1:2",
+      "timestamp": "2026-03-06T07:19:31.559Z",
+      "ip": "2401:4900:883c:7567:a00e:2fe0:6411:ca59",
+      "username": "fw_arjun"
+    },
+    {
+      "type": "series",
+      "id": "tt5753856:1:3",
+      "title": "tt5753856:1:3",
+      "timestamp": "2026-03-06T07:20:11.780Z",
+      "ip": "2401:4900:883c:7567:a00e:2fe0:6411:ca59",
+      "username": "fw_arjun"
     }
   ],
   "activeNow": {
@@ -93318,6 +93319,13 @@
       "title": "F1",
       "username": "gendaswammy",
       "lastActive": 1772780647454
+    },
+    "2401:4900:883c:7567:a00e:2fe0:6411:ca59": {
+      "type": "series",
+      "id": "tt5753856:1:3",
+      "title": "tt5753856:1:3",
+      "username": "fw_arjun",
+      "lastActive": 1772781611780
     }
   }
 }
