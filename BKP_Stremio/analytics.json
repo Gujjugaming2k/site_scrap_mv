@@ -1,5 +1,5 @@
 {
-  "totalViews": 34315,
+  "totalViews": 34322,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6739,65 +6739,11 @@
     "2401:4900:88c6:3456:9dc7:fa29:adbf:8010",
     "2409:40e1:51f:c70e:8000::",
     "2409:40d4:205c:8f3:8000::",
-    "117.201.175.161"
+    "117.201.175.161",
+    "2409:40c0:9:4273:74ab:f115:c574:3a45",
+    "2409:40e4:68:824d:48da:dcff:fec2:5cef"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0438488",
-      "title": "Terminator Salvation",
-      "timestamp": "2026-02-13T06:02:10.090Z",
-      "ip": "38.224.232.109",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt1705772",
-      "title": "tt1705772",
-      "timestamp": "2026-02-13T06:03:02.112Z",
-      "ip": "38.224.232.109",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt1705772",
-      "title": "tt1705772",
-      "timestamp": "2026-02-13T06:07:15.355Z",
-      "ip": "38.224.232.109",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
-      "timestamp": "2026-02-13T06:10:15.052Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt16311594",
-      "title": "F1",
-      "timestamp": "2026-02-13T06:12:57.605Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
-      "timestamp": "2026-02-13T06:15:51.668Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt1705772",
-      "title": "tt1705772",
-      "timestamp": "2026-02-13T06:17:34.582Z",
-      "ip": "38.224.232.109",
-      "username": "thala_75"
-    },
     {
       "type": "series",
       "id": "tt29540636:1:1",
@@ -86741,6 +86687,62 @@
       "timestamp": "2026-03-06T18:34:40.285Z",
       "ip": "117.201.175.161",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt2467372:1:1",
+      "title": "tt2467372:1:1",
+      "timestamp": "2026-03-06T18:36:03.278Z",
+      "ip": "2409:40c0:9:4273:74ab:f115:c574:3a45",
+      "username": "anonymous050100"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:9:19",
+      "title": "tt0460649:9:19",
+      "timestamp": "2026-03-06T18:37:49.947Z",
+      "ip": "2409:40c0:9:4273:74ab:f115:c574:3a45",
+      "username": "anonymous050100"
+    },
+    {
+      "type": "series",
+      "id": "tt16288804:1:2",
+      "title": "tt16288804:1:2",
+      "timestamp": "2026-03-06T18:38:34.816Z",
+      "ip": "2409:40d4:205c:8f3:8000::",
+      "username": "vk986"
+    },
+    {
+      "type": "series",
+      "id": "tt0460649:9:20",
+      "title": "tt0460649:9:20",
+      "timestamp": "2026-03-06T18:43:05.055Z",
+      "ip": "2409:40c0:9:4273:74ab:f115:c574:3a45",
+      "username": "anonymous050100"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:5:10",
+      "title": "Lost",
+      "timestamp": "2026-03-06T18:43:53.717Z",
+      "ip": "116.68.77.63",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt0944947:2:6",
+      "title": "Game of Thrones",
+      "timestamp": "2026-03-06T18:48:20.811Z",
+      "ip": "103.175.168.106",
+      "username": "un0fficial_itachi"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-03-06T18:50:01.722Z",
+      "ip": "2409:40e4:68:824d:48da:dcff:fec2:5cef",
+      "username": "cyberboy12321"
     }
   ],
   "activeNow": {
@@ -86802,10 +86804,10 @@
     },
     "103.175.168.106": {
       "type": "series",
-      "id": "tt0944947:2:5",
+      "id": "tt0944947:2:6",
       "title": "Game of Thrones",
       "username": "un0fficial_itachi",
-      "lastActive": 1772639749970
+      "lastActive": 1772822900811
     },
     "103.249.4.57": {
       "type": "series",
@@ -90630,11 +90632,11 @@
       "lastActive": 1772302571668
     },
     "116.68.77.63": {
-      "type": "movie",
-      "id": "tt4679210",
-      "title": "tt4679210",
+      "type": "series",
+      "id": "tt0411008:5:10",
+      "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1772767480233
+      "lastActive": 1772822633717
     },
     "2409:40e4:1156:e4c6:40ab:f3ff:fece:13fa": {
       "type": "movie",
@@ -93683,10 +93685,10 @@
     },
     "2409:40d4:205c:8f3:8000::": {
       "type": "series",
-      "id": "tt16288804:1:1",
-      "title": "tt16288804:1:1",
+      "id": "tt16288804:1:2",
+      "title": "tt16288804:1:2",
       "username": "vk986",
-      "lastActive": 1772820833402
+      "lastActive": 1772822314816
     },
     "117.201.175.161": {
       "type": "movie",
@@ -93694,6 +93696,20 @@
       "title": "Oldboy",
       "username": "gaendaswami",
       "lastActive": 1772822080285
+    },
+    "2409:40c0:9:4273:74ab:f115:c574:3a45": {
+      "type": "series",
+      "id": "tt0460649:9:20",
+      "title": "tt0460649:9:20",
+      "username": "anonymous050100",
+      "lastActive": 1772822585055
+    },
+    "2409:40e4:68:824d:48da:dcff:fec2:5cef": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "cyberboy12321",
+      "lastActive": 1772823001722
     }
   }
 }
