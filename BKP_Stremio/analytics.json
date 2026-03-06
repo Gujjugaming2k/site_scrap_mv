@@ -1,5 +1,5 @@
 {
-  "totalViews": 34309,
+  "totalViews": 34314,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6737,49 +6737,10 @@
     "2409:40c2:a:52ee:24d0:12ff:fe0a:c8a8",
     "106.222.250.51",
     "2401:4900:88c6:3456:9dc7:fa29:adbf:8010",
-    "2409:40e1:51f:c70e:8000::"
+    "2409:40e1:51f:c70e:8000::",
+    "2409:40d4:205c:8f3:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12853970:1:2",
-      "title": "tt12853970:1:2",
-      "timestamp": "2026-02-13T05:41:12.161Z",
-      "ip": "2405:201:500c:4a01:7059:d909:e451:e59f",
-      "username": "karthik"
-    },
-    {
-      "type": "series",
-      "id": "tt12853970:1:2",
-      "title": "tt12853970:1:2",
-      "timestamp": "2026-02-13T05:41:12.270Z",
-      "ip": "2405:201:500c:4a01:7059:d909:e451:e59f",
-      "username": "shadow"
-    },
-    {
-      "type": "movie",
-      "id": "tt0120616",
-      "title": "The Mummy",
-      "timestamp": "2026-02-13T06:00:29.385Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt0120616",
-      "title": "The Mummy",
-      "timestamp": "2026-02-13T06:00:30.556Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt0120616",
-      "title": "The Mummy",
-      "timestamp": "2026-02-13T06:00:32.671Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "nabakun24"
-    },
     {
       "type": "movie",
       "id": "tt0120616",
@@ -86739,6 +86700,46 @@
       "timestamp": "2026-03-06T17:59:16.906Z",
       "ip": "2409:40e1:51f:c70e:8000::",
       "username": "i_am_cheetah"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-03-06T18:12:16.985Z",
+      "ip": "2409:40d4:205c:8f3:8000::",
+      "username": "vk986"
+    },
+    {
+      "type": "series",
+      "id": "tt16288804:1:1",
+      "title": "tt16288804:1:1",
+      "timestamp": "2026-03-06T18:13:03.094Z",
+      "ip": "2409:40d4:205c:8f3:8000::",
+      "username": "vk986"
+    },
+    {
+      "type": "series",
+      "id": "tt16288804:1:2",
+      "title": "tt16288804:1:2",
+      "timestamp": "2026-03-06T18:13:41.378Z",
+      "ip": "2409:40d4:205c:8f3:8000::",
+      "username": "vk986"
+    },
+    {
+      "type": "series",
+      "id": "tt16288804:1:2",
+      "title": "tt16288804:1:2",
+      "timestamp": "2026-03-06T18:13:41.702Z",
+      "ip": "2409:40d4:205c:8f3:8000::",
+      "username": "vk986"
+    },
+    {
+      "type": "series",
+      "id": "tt16288804:1:1",
+      "title": "tt16288804:1:1",
+      "timestamp": "2026-03-06T18:13:53.402Z",
+      "ip": "2409:40d4:205c:8f3:8000::",
+      "username": "vk986"
     }
   ],
   "activeNow": {
@@ -93678,6 +93679,13 @@
       "title": "tt2628232:1:4",
       "username": "i_am_cheetah",
       "lastActive": 1772819956906
+    },
+    "2409:40d4:205c:8f3:8000::": {
+      "type": "series",
+      "id": "tt16288804:1:1",
+      "title": "tt16288804:1:1",
+      "username": "vk986",
+      "lastActive": 1772820833402
     }
   }
 }
