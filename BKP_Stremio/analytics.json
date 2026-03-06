@@ -1,5 +1,5 @@
 {
-  "totalViews": 33883,
+  "totalViews": 33884,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6679,14 +6679,6 @@
     "2409:40e4:10b6:3966:61f0:9d95:5751:a813"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12637874:2:7",
-      "title": "Fallout",
-      "timestamp": "2026-02-12T15:04:01.935Z",
-      "ip": "152.58.134.65",
-      "username": "cyberboy12321"
-    },
     {
       "type": "series",
       "id": "tt12637874:2:8",
@@ -86678,6 +86670,14 @@
       "timestamp": "2026-03-06T03:10:20.437Z",
       "ip": "2409:40e4:10b6:3966:61f0:9d95:5751:a813",
       "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt4679210",
+      "title": "tt4679210",
+      "timestamp": "2026-03-06T03:24:40.233Z",
+      "ip": "116.68.77.63",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -90567,11 +90567,11 @@
       "lastActive": 1772302571668
     },
     "116.68.77.63": {
-      "type": "series",
-      "id": "tt0411008:5:10",
-      "title": "Lost",
+      "type": "movie",
+      "id": "tt4679210",
+      "title": "tt4679210",
       "username": "aravindsivan",
-      "lastActive": 1772737046697
+      "lastActive": 1772767480233
     },
     "2409:40e4:1156:e4c6:40ab:f3ff:fece:13fa": {
       "type": "movie",
