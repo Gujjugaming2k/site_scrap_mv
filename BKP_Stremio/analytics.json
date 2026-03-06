@@ -1,5 +1,5 @@
 {
-  "totalViews": 33882,
+  "totalViews": 33883,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6675,17 +6675,10 @@
     "186.188.224.36",
     "2409:40d4:401d:76b9:8000::",
     "2405:201:2022:b81c:2530:722f:51ae:148f",
-    "2406:b400:1a:5b71:a27:a8ff:fe42:855e"
+    "2406:b400:1a:5b71:a27:a8ff:fe42:855e",
+    "2409:40e4:10b6:3966:61f0:9d95:5751:a813"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt23468450",
-      "title": "Longlegs",
-      "timestamp": "2026-02-12T15:00:55.083Z",
-      "ip": "49.37.221.47",
-      "username": "executeal"
-    },
     {
       "type": "series",
       "id": "tt12637874:2:7",
@@ -86677,6 +86670,14 @@
       "timestamp": "2026-03-06T02:33:09.410Z",
       "ip": "2406:b400:1a:5b71:a27:a8ff:fe42:855e",
       "username": "nothingokk"
+    },
+    {
+      "type": "movie",
+      "id": "tt1219289",
+      "title": "Limitless",
+      "timestamp": "2026-03-06T03:10:20.437Z",
+      "ip": "2409:40e4:10b6:3966:61f0:9d95:5751:a813",
+      "username": "askchm"
     }
   ],
   "activeNow": {
@@ -93182,6 +93183,13 @@
       "title": "tt15477488:1:4",
       "username": "nothingokk",
       "lastActive": 1772764389410
+    },
+    "2409:40e4:10b6:3966:61f0:9d95:5751:a813": {
+      "type": "movie",
+      "id": "tt1219289",
+      "title": "Limitless",
+      "username": "askchm",
+      "lastActive": 1772766620437
     }
   }
 }
