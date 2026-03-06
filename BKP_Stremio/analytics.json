@@ -1,5 +1,5 @@
 {
-  "totalViews": 33996,
+  "totalViews": 34000,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6697,41 +6697,10 @@
     "122.161.68.42",
     "2401:4900:4164:a614:647f:5331:b1dd:e462",
     "2401:4900:1c0b:1e04:8065:25cc:fb69:2388",
-    "114.31.189.129"
+    "114.31.189.129",
+    "223.181.17.166"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0816711",
-      "title": "tt0816711",
-      "timestamp": "2026-02-12T16:41:03.647Z",
-      "ip": "2409:40e4:10ab:48ed:3dfd:6708:207c:4964",
-      "username": "askchm"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-02-12T16:41:05.101Z",
-      "ip": "103.249.4.198",
-      "username": "tgh2r"
-    },
-    {
-      "type": "series",
-      "id": "tt31510819:1:2",
-      "title": "tt31510819:1:2",
-      "timestamp": "2026-02-12T16:41:22.705Z",
-      "ip": "2409:40c1:4027:ef66:8000::",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "movie",
-      "id": "tt0167260",
-      "title": "The Lord of the Rings: The Return of the King",
-      "timestamp": "2026-02-12T16:43:19.631Z",
-      "ip": "2409:40e1:1104:347e:8000::",
-      "username": "tgh2r"
-    },
     {
       "type": "series",
       "id": "tt31510819:1:1",
@@ -86699,6 +86668,38 @@
       "timestamp": "2026-03-06T08:37:42.478Z",
       "ip": "122.161.68.42",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:3:11",
+      "title": "tt0903747:3:11",
+      "timestamp": "2026-03-06T08:44:46.009Z",
+      "ip": "103.249.4.164",
+      "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt8637446",
+      "title": "tt8637446",
+      "timestamp": "2026-03-06T08:48:19.974Z",
+      "ip": "223.181.17.166",
+      "username": "ashwanileon"
+    },
+    {
+      "type": "movie",
+      "id": "tt8205190",
+      "title": "tt8205190",
+      "timestamp": "2026-03-06T08:51:10.773Z",
+      "ip": "38.224.232.77",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt39255646",
+      "title": "tt39255646",
+      "timestamp": "2026-03-06T08:58:06.843Z",
+      "ip": "38.224.232.77",
+      "username": "thala_75"
     }
   ],
   "activeNow": {
@@ -89986,11 +89987,11 @@
       "lastActive": 1772216768693
     },
     "103.249.4.164": {
-      "type": "movie",
-      "id": "tt37956153",
-      "title": "tt37956153",
+      "type": "series",
+      "id": "tt0903747:3:11",
+      "title": "tt0903747:3:11",
       "username": "tgh2r",
-      "lastActive": 1772774333545
+      "lastActive": 1772786686009
     },
     "49.37.11.122": {
       "type": "movie",
@@ -92577,10 +92578,10 @@
     },
     "38.224.232.77": {
       "type": "movie",
-      "id": "tt8205190",
-      "title": "tt8205190",
+      "id": "tt39255646",
+      "title": "tt39255646",
       "username": "thala_75",
-      "lastActive": 1772785688154
+      "lastActive": 1772787486843
     },
     "2409:40c2:1:4fe1:b9f3:f425:bcad:852f": {
       "type": "movie",
@@ -93358,6 +93359,13 @@
       "title": "JUJUTSU KAISEN",
       "username": "gendaswammy",
       "lastActive": 1772786029798
+    },
+    "223.181.17.166": {
+      "type": "movie",
+      "id": "tt8637446",
+      "title": "tt8637446",
+      "username": "ashwanileon",
+      "lastActive": 1772786899974
     }
   }
 }
