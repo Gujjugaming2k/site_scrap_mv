@@ -1,5 +1,5 @@
 {
-  "totalViews": 34340,
+  "totalViews": 34345,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6744,49 +6744,10 @@
     "2409:40e4:68:824d:48da:dcff:fec2:5cef",
     "2a09:bac5:3af1:8b4::de:40",
     "2409:40c1:6401:5fcf:d48b:abff:fe39:1172",
-    "2603:3003:3544:6700:694:aa7a:ce77:d087"
+    "2603:3003:3544:6700:694:aa7a:ce77:d087",
+    "2401:4900:792b:aa20:b868:f450:9809:a454"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33046197",
-      "title": "tt33046197",
-      "timestamp": "2026-02-13T07:41:30.027Z",
-      "ip": "117.198.187.159",
-      "username": "zealousninja"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:3:6",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-02-13T07:43:42.771Z",
-      "ip": "49.47.153.175",
-      "username": "theonlyfreak"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:3:7",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-02-13T07:43:54.651Z",
-      "ip": "49.47.153.175",
-      "username": "theonlyfreak"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:3:8",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-02-13T07:44:47.602Z",
-      "ip": "49.47.153.175",
-      "username": "theonlyfreak"
-    },
-    {
-      "type": "movie",
-      "id": "tt35288598",
-      "title": "tt35288598",
-      "timestamp": "2026-02-13T07:45:56.967Z",
-      "ip": "38.224.232.109",
-      "username": "thala_75"
-    },
     {
       "type": "movie",
       "id": "tt0243255",
@@ -86746,6 +86707,46 @@
       "timestamp": "2026-03-06T19:32:22.591Z",
       "ip": "2409:40c2:a:52ee:24d0:12ff:fe0a:c8a8",
       "username": "agentmj47"
+    },
+    {
+      "type": "movie",
+      "id": "tt6318530",
+      "title": "tt6318530",
+      "timestamp": "2026-03-06T19:36:56.137Z",
+      "ip": "2401:4900:792b:aa20:b868:f450:9809:a454",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt6318530",
+      "title": "tt6318530",
+      "timestamp": "2026-03-06T19:37:08.483Z",
+      "ip": "2401:4900:792b:aa20:b868:f450:9809:a454",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:2:1",
+      "title": "tt17220216:2:1",
+      "timestamp": "2026-03-06T19:37:41.961Z",
+      "ip": "2401:4900:792b:aa20:b868:f450:9809:a454",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:2:1",
+      "title": "tt17220216:2:1",
+      "timestamp": "2026-03-06T19:39:08.055Z",
+      "ip": "2401:4900:792b:aa20:b868:f450:9809:a454",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:5:12",
+      "title": "Lost",
+      "timestamp": "2026-03-06T19:48:56.839Z",
+      "ip": "116.68.77.63",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -90636,10 +90637,10 @@
     },
     "116.68.77.63": {
       "type": "series",
-      "id": "tt0411008:5:11",
+      "id": "tt0411008:5:12",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1772823890659
+      "lastActive": 1772826536839
     },
     "2409:40e4:1156:e4c6:40ab:f3ff:fece:13fa": {
       "type": "movie",
@@ -93734,6 +93735,13 @@
       "title": "Rush Hour 2",
       "username": "anupambabu_97",
       "lastActive": 1772824893374
+    },
+    "2401:4900:792b:aa20:b868:f450:9809:a454": {
+      "type": "series",
+      "id": "tt17220216:2:1",
+      "title": "tt17220216:2:1",
+      "username": "gendaswammy",
+      "lastActive": 1772825948055
     }
   }
 }
