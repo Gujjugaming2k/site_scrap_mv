@@ -1,5 +1,5 @@
 {
-  "totalViews": 33909,
+  "totalViews": 33913,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6682,41 +6682,10 @@
     "2409:40c2:5046:afc6:f49b:fcff:fe9f:a71f",
     "2409:40c1:32:9ccf:c489:2fff:fe45:2262",
     "117.235.171.3",
-    "122.161.69.159"
+    "122.161.69.159",
+    "2401:4900:1c0b:1e04:e3a2:9b36:fcc5:4e43"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0494290",
-      "title": "tt0494290",
-      "timestamp": "2026-02-12T15:32:05.145Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "nabakun24"
-    },
-    {
-      "type": "series",
-      "id": "tt11097240:1:2",
-      "title": "tt11097240:1:2",
-      "timestamp": "2026-02-12T15:32:47.801Z",
-      "ip": "2409:40c4:311c:5600:d016:62bd:a2af:a7ff",
-      "username": "napsteerr"
-    },
-    {
-      "type": "movie",
-      "id": "tt26439764",
-      "title": "tt26439764",
-      "timestamp": "2026-02-12T15:32:50.595Z",
-      "ip": "2401:4900:1c52:fe33:99b5:4056:fa4c:3ce1",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "movie",
-      "id": "tt0107290",
-      "title": "Jurassic Park",
-      "timestamp": "2026-02-12T15:32:51.462Z",
-      "ip": "49.47.152.154",
-      "username": "theonlyfreak"
-    },
     {
       "type": "series",
       "id": "tt11097240:1:3",
@@ -86684,6 +86653,38 @@
       "timestamp": "2026-03-06T04:32:01.550Z",
       "ip": "122.161.69.159",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt14905854",
+      "title": "tt14905854",
+      "timestamp": "2026-03-06T04:41:15.612Z",
+      "ip": "117.235.171.3",
+      "username": "itsdoom50"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:2:2",
+      "title": "tt17220216:2:2",
+      "timestamp": "2026-03-06T04:48:51.883Z",
+      "ip": "117.235.171.3",
+      "username": "itsdoom50"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:2:3",
+      "title": "tt17220216:2:3",
+      "timestamp": "2026-03-06T04:49:10.399Z",
+      "ip": "117.235.171.3",
+      "username": "itsdoom50"
+    },
+    {
+      "type": "movie",
+      "id": "tt14331144",
+      "title": "Jujutsu Kaisen 0",
+      "timestamp": "2026-03-06T04:49:55.536Z",
+      "ip": "2401:4900:1c0b:1e04:e3a2:9b36:fcc5:4e43",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -93226,11 +93227,11 @@
       "lastActive": 1772770824607
     },
     "117.235.171.3": {
-      "type": "movie",
-      "id": "tt8178634",
-      "title": "tt8178634",
+      "type": "series",
+      "id": "tt17220216:2:3",
+      "title": "tt17220216:2:3",
       "username": "itsdoom50",
-      "lastActive": 1772771406938
+      "lastActive": 1772772550399
     },
     "122.161.69.159": {
       "type": "series",
@@ -93238,6 +93239,13 @@
       "title": "Prison Break",
       "username": "dillon_ka_shooter",
       "lastActive": 1772771521550
+    },
+    "2401:4900:1c0b:1e04:e3a2:9b36:fcc5:4e43": {
+      "type": "movie",
+      "id": "tt14331144",
+      "title": "Jujutsu Kaisen 0",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1772772595536
     }
   }
 }
