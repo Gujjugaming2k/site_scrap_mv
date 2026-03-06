@@ -1,5 +1,5 @@
 {
-  "totalViews": 33940,
+  "totalViews": 33941,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6688,17 +6688,10 @@
     "2a02:9b0:106:4496:b0f0:46f1:9b9a:6b7e",
     "119.234.107.133",
     "49.47.152.205",
-    "2409:40d2:300e:82d3:67e7:c255:314a:7af6"
+    "2409:40d2:300e:82d3:67e7:c255:314a:7af6",
+    "2401:4900:1c19:17f3:b5d1:9e63:e8c9:6340"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0460649:5:11",
-      "title": "tt0460649:5:11",
-      "timestamp": "2026-02-12T16:01:05.731Z",
-      "ip": "49.36.217.12",
-      "username": "demon18319"
-    },
     {
       "type": "series",
       "id": "tt11097240:1:4",
@@ -86690,6 +86683,14 @@
       "timestamp": "2026-03-06T05:59:06.465Z",
       "ip": "2409:40e4:10b6:3966:61f0:9d95:5751:a813",
       "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt6206564",
+      "title": "tt6206564",
+      "timestamp": "2026-03-06T06:10:46.577Z",
+      "ip": "2401:4900:1c19:17f3:b5d1:9e63:e8c9:6340",
+      "username": "gendaswammy"
     }
   ],
   "activeNow": {
@@ -93286,6 +93287,13 @@
       "title": "Sinners",
       "username": "saurabhkaperwan",
       "lastActive": 1772775421647
+    },
+    "2401:4900:1c19:17f3:b5d1:9e63:e8c9:6340": {
+      "type": "movie",
+      "id": "tt6206564",
+      "title": "tt6206564",
+      "username": "gendaswammy",
+      "lastActive": 1772777446577
     }
   }
 }
