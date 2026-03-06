@@ -1,5 +1,5 @@
 {
-  "totalViews": 34157,
+  "totalViews": 34164,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6716,65 +6716,10 @@
     "2405:201:2022:b81c:9d69:229f:3863:2446",
     "2a09:bac1:36a0:10::3e4:4d",
     "103.46.200.174",
-    "2409:40d2:304c:2c91:11b:e2d2:e88f:ce62"
+    "2409:40d2:304c:2c91:11b:e2d2:e88f:ce62",
+    "2409:40e4:1089:ec12:7d9e:8985:443d:79e5"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt4679210",
-      "title": "tt4679210",
-      "timestamp": "2026-02-12T18:58:27.457Z",
-      "ip": "116.68.75.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt10810430:1:1",
-      "title": "tt10810430:1:1",
-      "timestamp": "2026-02-12T18:59:20.551Z",
-      "ip": "2409:40e5:1a:ad0:7c9f:98ff:fe37:3270",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "series",
-      "id": "tt10810430:1:2",
-      "title": "tt10810430:1:2",
-      "timestamp": "2026-02-12T18:59:32.176Z",
-      "ip": "2409:40e5:1a:ad0:7c9f:98ff:fe37:3270",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "series",
-      "id": "tt10810430:1:1",
-      "title": "tt10810430:1:1",
-      "timestamp": "2026-02-12T18:59:51.683Z",
-      "ip": "2409:40e5:1a:ad0:7c9f:98ff:fe37:3270",
-      "username": "cyberboy12321"
-    },
-    {
-      "type": "movie",
-      "id": "tt11663228",
-      "title": "tt11663228",
-      "timestamp": "2026-02-12T18:59:53.606Z",
-      "ip": "116.68.75.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt11663228",
-      "title": "tt11663228",
-      "timestamp": "2026-02-12T19:00:27.961Z",
-      "ip": "116.68.75.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt8286926",
-      "title": "tt8286926",
-      "timestamp": "2026-02-12T19:00:49.530Z",
-      "ip": "116.68.75.147",
-      "username": "aravindsivan"
-    },
     {
       "type": "movie",
       "id": "tt8286926",
@@ -86718,6 +86663,62 @@
       "timestamp": "2026-03-06T14:07:57.006Z",
       "ip": "38.224.232.77",
       "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-03-06T14:08:07.821Z",
+      "ip": "38.224.232.77",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-03-06T14:08:19.656Z",
+      "ip": "38.224.232.77",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt30144839",
+      "title": "One Battle After Another",
+      "timestamp": "2026-03-06T14:08:27.799Z",
+      "ip": "38.224.232.77",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-03-06T14:08:35.727Z",
+      "ip": "38.224.232.77",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-03-06T14:09:09.984Z",
+      "ip": "38.224.232.77",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt31193180",
+      "title": "Sinners",
+      "timestamp": "2026-03-06T14:10:40.788Z",
+      "ip": "38.224.232.77",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt38123566",
+      "title": "tt38123566",
+      "timestamp": "2026-03-06T14:18:51.265Z",
+      "ip": "2409:40e4:1089:ec12:7d9e:8985:443d:79e5",
+      "username": "askchm"
     }
   ],
   "activeNow": {
@@ -92596,10 +92597,10 @@
     },
     "38.224.232.77": {
       "type": "movie",
-      "id": "tt38123566",
-      "title": "tt38123566",
+      "id": "tt31193180",
+      "title": "Sinners",
       "username": "thala_75",
-      "lastActive": 1772806077006
+      "lastActive": 1772806240788
     },
     "2409:40c2:1:4fe1:b9f3:f425:bcad:852f": {
       "type": "movie",
@@ -93510,6 +93511,13 @@
       "title": "tt27497448:1:1",
       "username": "saurabhkaperwan",
       "lastActive": 1772805386945
+    },
+    "2409:40e4:1089:ec12:7d9e:8985:443d:79e5": {
+      "type": "movie",
+      "id": "tt38123566",
+      "title": "tt38123566",
+      "username": "askchm",
+      "lastActive": 1772806731265
     }
   }
 }
