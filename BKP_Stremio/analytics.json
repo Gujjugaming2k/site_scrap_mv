@@ -1,5 +1,5 @@
 {
-  "totalViews": 34033,
+  "totalViews": 34034,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6701,17 +6701,10 @@
     "223.181.17.166",
     "2401:4900:ae44:2706:e486:fff:21df:47d9",
     "2409:40d4:4018:5f15:8000::",
-    "2401:4900:1c0b:1e04:a18d:3c19:9031:d67c"
+    "2401:4900:1c0b:1e04:a18d:3c19:9031:d67c",
+    "2401:4900:ae2d:1d6e:f090:861c:19f2:b775"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
-      "timestamp": "2026-02-12T17:21:55.451Z",
-      "ip": "2409:40e6:206:10e5:1c95:a8ff:fe5d:3acd",
-      "username": "nabakun24"
-    },
     {
       "type": "movie",
       "id": "tt0494290",
@@ -86703,6 +86696,14 @@
       "timestamp": "2026-03-06T09:44:27.891Z",
       "ip": "38.224.232.77",
       "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt31852278",
+      "title": "tt31852278",
+      "timestamp": "2026-03-06T09:53:12.617Z",
+      "ip": "2401:4900:ae2d:1d6e:f090:861c:19f2:b775",
+      "username": "vflix1993"
     }
   ],
   "activeNow": {
@@ -93390,6 +93391,13 @@
       "title": "tt26737616:1:8",
       "username": "dillon_ka_shooter",
       "lastActive": 1772789528295
+    },
+    "2401:4900:ae2d:1d6e:f090:861c:19f2:b775": {
+      "type": "movie",
+      "id": "tt31852278",
+      "title": "tt31852278",
+      "username": "vflix1993",
+      "lastActive": 1772790792617
     }
   }
 }
