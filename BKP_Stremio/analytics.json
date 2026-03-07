@@ -1,5 +1,5 @@
 {
-  "totalViews": 34477,
+  "totalViews": 34482,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6778,46 +6778,6 @@
     "2401:4900:ac85:de54:4060:a8c6:60a0:cdfb"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt5519340",
-      "title": "tt5519340",
-      "timestamp": "2026-02-13T13:21:04.482Z",
-      "ip": "2409:40e6:9:37f8:c075:eeff:fe01:5a4a",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-13T13:22:20.286Z",
-      "ip": "2401:4900:8f61:d29c:cc24:44e7:c506:a711",
-      "username": "phisher98"
-    },
-    {
-      "type": "movie",
-      "id": "tt0357905",
-      "title": "tt0357905",
-      "timestamp": "2026-02-13T13:23:03.893Z",
-      "ip": "38.224.232.109",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-13T13:23:32.685Z",
-      "ip": "2409:40e6:9:37f8:c075:eeff:fe01:5a4a",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt1705772",
-      "title": "tt1705772",
-      "timestamp": "2026-02-13T13:23:35.852Z",
-      "ip": "38.224.232.109",
-      "username": "thala_75"
-    },
     {
       "type": "movie",
       "id": "tt0120616",
@@ -86777,6 +86737,46 @@
       "timestamp": "2026-03-07T17:40:48.130Z",
       "ip": "2401:4900:ac85:de54:4060:a8c6:60a0:cdfb",
       "username": "schnom153"
+    },
+    {
+      "type": "series",
+      "id": "tt21066182:1:1",
+      "title": "tt21066182:1:1",
+      "timestamp": "2026-03-07T17:44:07.035Z",
+      "ip": "182.77.74.44",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt21066182:1:1",
+      "title": "tt21066182:1:1",
+      "timestamp": "2026-03-07T17:45:14.128Z",
+      "ip": "182.77.74.44",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt13352232:1:1",
+      "title": "tt13352232:1:1",
+      "timestamp": "2026-03-07T17:46:12.690Z",
+      "ip": "182.77.74.44",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt13352232:1:1",
+      "title": "tt13352232:1:1",
+      "timestamp": "2026-03-07T17:48:42.772Z",
+      "ip": "182.77.74.44",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt1568346",
+      "title": "tt1568346",
+      "timestamp": "2026-03-07T17:53:16.034Z",
+      "ip": "2401:4900:ac85:de54:4060:a8c6:60a0:cdfb",
+      "username": "schnom153"
     }
   ],
   "activeNow": {
@@ -92787,11 +92787,11 @@
       "lastActive": 1772650063956
     },
     "182.77.74.44": {
-      "type": "movie",
-      "id": "tt1312221",
-      "title": "Frankenstein",
+      "type": "series",
+      "id": "tt13352232:1:1",
+      "title": "tt13352232:1:1",
       "username": "theaceofficials",
-      "lastActive": 1772905015967
+      "lastActive": 1772905722772
     },
     "122.161.68.50": {
       "type": "series",
@@ -93988,7 +93988,7 @@
       "id": "tt1568346",
       "title": "tt1568346",
       "username": "schnom153",
-      "lastActive": 1772905248130
+      "lastActive": 1772905996034
     }
   }
 }
