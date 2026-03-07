@@ -1,5 +1,5 @@
 {
-  "totalViews": 34362,
+  "totalViews": 34364,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6752,22 +6752,6 @@
     "2409:40e1:401:d6cc:8000::"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33028778",
-      "title": "tt33028778",
-      "timestamp": "2026-02-13T08:43:39.576Z",
-      "ip": "2405:201:900f:a92b:1191:4ed7:e9dc:ba8",
-      "username": "theonlyfreak"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-13T08:44:20.217Z",
-      "ip": "2409:40e6:9:37f8:c075:eeff:fe01:5a4a",
-      "username": "nabakun24"
-    },
     {
       "type": "series",
       "id": "tt28106758:1:1",
@@ -86751,6 +86735,22 @@
       "timestamp": "2026-03-07T01:54:38.970Z",
       "ip": "2409:40e1:401:d6cc:8000::",
       "username": "i_am_cheetah"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:5",
+      "title": "tt0903747:1:5",
+      "timestamp": "2026-03-07T02:11:59.025Z",
+      "ip": "103.92.43.94",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:5",
+      "title": "tt0903747:1:5",
+      "timestamp": "2026-03-07T02:12:37.781Z",
+      "ip": "103.92.43.94",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -93622,11 +93622,11 @@
       "lastActive": 1772815516228
     },
     "103.92.43.94": {
-      "type": "movie",
-      "id": "tt39392533",
-      "title": "tt39392533",
+      "type": "series",
+      "id": "tt0903747:1:5",
+      "title": "tt0903747:1:5",
       "username": "gaendaswami",
-      "lastActive": 1772817307356
+      "lastActive": 1772849557781
     },
     "2409:4055:2dc7:fdce:f9fa:56ce:f652:e66": {
       "type": "series",
