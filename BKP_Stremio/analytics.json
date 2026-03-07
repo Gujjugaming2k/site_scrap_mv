@@ -1,5 +1,5 @@
 {
-  "totalViews": 34512,
+  "totalViews": 34515,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6781,30 +6781,6 @@
     "2405:201:2022:b81c:9952:66ab:e06c:f60c"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-13T13:39:28.021Z",
-      "ip": "2a09:bac5:406b:16aa::242:a3",
-      "username": "pishminer"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-13T13:39:53.155Z",
-      "ip": "104.28.192.187",
-      "username": "pishminer"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
-      "timestamp": "2026-02-13T13:40:56.476Z",
-      "ip": "152.58.37.85",
-      "username": "paregi12"
-    },
     {
       "type": "series",
       "id": "tt14186672:2:4",
@@ -86780,6 +86756,30 @@
       "timestamp": "2026-03-07T18:57:03.286Z",
       "ip": "93.107.70.253",
       "username": "sid_g"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:3:3",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-07T19:03:50.893Z",
+      "ip": "2409:40d4:1240:61d5:c013:d5ff:fe34:8153",
+      "username": "vk986"
+    },
+    {
+      "type": "movie",
+      "id": "tt3402236",
+      "title": "tt3402236",
+      "timestamp": "2026-03-07T19:03:56.117Z",
+      "ip": "93.107.70.253",
+      "username": "sid_g"
+    },
+    {
+      "type": "movie",
+      "id": "tt1091229",
+      "title": "tt1091229",
+      "timestamp": "2026-03-07T19:07:03.048Z",
+      "ip": "93.107.70.253",
+      "username": "sid_g"
     }
   ],
   "activeNow": {
@@ -93820,10 +93820,10 @@
     },
     "2409:40d4:1240:61d5:c013:d5ff:fe34:8153": {
       "type": "series",
-      "id": "tt13918776:3:2",
+      "id": "tt13918776:3:3",
       "title": "The Night Agent",
       "username": "vk986",
-      "lastActive": 1772909123124
+      "lastActive": 1772910230893
     },
     "2401:4900:8fe1:cf26:d863:b0f7:bf1f:d445": {
       "type": "movie",
@@ -94001,11 +94001,11 @@
       "lastActive": 1772908942665
     },
     "93.107.70.253": {
-      "type": "series",
-      "id": "tt8599532",
-      "title": "tt8599532",
+      "type": "movie",
+      "id": "tt1091229",
+      "title": "tt1091229",
       "username": "sid_g",
-      "lastActive": 1772909823286
+      "lastActive": 1772910423048
     },
     "2405:201:2022:b81c:9952:66ab:e06c:f60c": {
       "type": "movie",
