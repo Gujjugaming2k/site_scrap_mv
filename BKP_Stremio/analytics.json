@@ -1,5 +1,5 @@
 {
-  "totalViews": 34417,
+  "totalViews": 34421,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6759,41 +6759,10 @@
     "117.220.120.38",
     "43.241.193.149",
     "2402:a00:10a:815f:c902:2dd1:d593:6205",
-    "146.196.32.202"
+    "146.196.32.202",
+    "163.223.102.212"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt15327088",
-      "title": "tt15327088",
-      "timestamp": "2026-02-13T11:21:01.903Z",
-      "ip": "205.254.186.37",
-      "username": "manoz1"
-    },
-    {
-      "type": "series",
-      "id": "tt30003786:4:8",
-      "title": "tt30003786:4:8",
-      "timestamp": "2026-02-13T11:25:48.152Z",
-      "ip": "119.42.59.7",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt30003786:4:8",
-      "title": "tt30003786:4:8",
-      "timestamp": "2026-02-13T11:25:57.521Z",
-      "ip": "119.42.59.7",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt30003786:4:9",
-      "title": "tt30003786:4:9",
-      "timestamp": "2026-02-13T11:26:32.842Z",
-      "ip": "119.42.59.7",
-      "username": "gaendaswami"
-    },
     {
       "type": "series",
       "id": "tt13868972:1:1",
@@ -86761,6 +86730,38 @@
       "timestamp": "2026-03-07T15:54:24.176Z",
       "ip": "146.196.32.202",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt31852278",
+      "title": "tt31852278",
+      "timestamp": "2026-03-07T15:56:26.179Z",
+      "ip": "163.223.102.212",
+      "username": "mutti9"
+    },
+    {
+      "type": "movie",
+      "id": "tt0114746",
+      "title": "Twelve Monkeys",
+      "timestamp": "2026-03-07T15:57:46.062Z",
+      "ip": "163.223.102.212",
+      "username": "mutti9"
+    },
+    {
+      "type": "movie",
+      "id": "tt16277242",
+      "title": "tt16277242",
+      "timestamp": "2026-03-07T16:03:41.513Z",
+      "ip": "117.220.120.38",
+      "username": "itsdoom50"
+    },
+    {
+      "type": "movie",
+      "id": "tt14905854",
+      "title": "tt14905854",
+      "timestamp": "2026-03-07T16:03:44.210Z",
+      "ip": "117.220.120.38",
+      "username": "itsdoom50"
     }
   ],
   "activeNow": {
@@ -93829,10 +93830,10 @@
     },
     "117.220.120.38": {
       "type": "movie",
-      "id": "tt12593682",
-      "title": "Bullet Train",
+      "id": "tt14905854",
+      "title": "tt14905854",
       "username": "itsdoom50",
-      "lastActive": 1772861578854
+      "lastActive": 1772899424210
     },
     "43.241.193.149": {
       "type": "series",
@@ -93854,6 +93855,13 @@
       "title": "tt15940132",
       "username": "gaendaswami",
       "lastActive": 1772898864176
+    },
+    "163.223.102.212": {
+      "type": "movie",
+      "id": "tt0114746",
+      "title": "Twelve Monkeys",
+      "username": "mutti9",
+      "lastActive": 1772899066062
     }
   }
 }
