@@ -1,5 +1,5 @@
 {
-  "totalViews": 34351,
+  "totalViews": 34356,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6747,49 +6747,10 @@
     "2603:3003:3544:6700:694:aa7a:ce77:d087",
     "2401:4900:792b:aa20:b868:f450:9809:a454",
     "103.177.253.86",
-    "78.152.209.50"
+    "78.152.209.50",
+    "2a02:9b0:106:4496:9129:ccda:af73:e89a"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-02-13T08:23:31.987Z",
-      "ip": "2401:4900:88d5:8287:8f1:6423:2f18:1232",
-      "username": "itsvenum"
-    },
-    {
-      "type": "series",
-      "id": "tt4574334:1:1",
-      "title": "Stranger Things",
-      "timestamp": "2026-02-13T08:23:32.061Z",
-      "ip": "2401:4900:88d5:8287:8f1:6423:2f18:1232",
-      "username": "itsvenum"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:4",
-      "title": "tt27497448:1:4",
-      "timestamp": "2026-02-13T08:28:05.837Z",
-      "ip": "2405:201:5c14:2a70:f1f4:3283:adb0:3772",
-      "username": "extremeyat"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:5",
-      "title": "tt27497448:1:5",
-      "timestamp": "2026-02-13T08:29:06.597Z",
-      "ip": "2405:201:5c14:2a70:f1f4:3283:adb0:3772",
-      "username": "extremeyat"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-13T08:30:56.231Z",
-      "ip": "2409:40d2:304b:1186:610e:d602:f759:e672",
-      "username": "saurabhkaperwan"
-    },
     {
       "type": "movie",
       "id": "tt27543632",
@@ -86749,6 +86710,46 @@
       "timestamp": "2026-03-06T23:52:08.030Z",
       "ip": "66.102.121.253",
       "username": "hvre2"
+    },
+    {
+      "type": "series",
+      "id": "tt5851616:1:2",
+      "title": "tt5851616:1:2",
+      "timestamp": "2026-03-07T00:53:42.799Z",
+      "ip": "2a02:9b0:106:4496:9129:ccda:af73:e89a",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tt5851616:19:1",
+      "title": "tt5851616:19:1",
+      "timestamp": "2026-03-07T00:54:06.566Z",
+      "ip": "2a02:9b0:106:4496:9129:ccda:af73:e89a",
+      "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt1341338",
+      "title": "tt1341338",
+      "timestamp": "2026-03-07T00:56:36.057Z",
+      "ip": "103.46.200.174",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt33852162",
+      "title": "tt33852162",
+      "timestamp": "2026-03-07T00:57:04.165Z",
+      "ip": "103.46.200.174",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt1790885",
+      "title": "Zero Dark Thirty",
+      "timestamp": "2026-03-07T00:58:38.678Z",
+      "ip": "103.46.200.174",
+      "username": "katdenningssss"
     }
   ],
   "activeNow": {
@@ -93530,10 +93531,10 @@
     },
     "103.46.200.174": {
       "type": "movie",
-      "id": "tt10208198",
-      "title": "The Gangster, the Cop, the Devil",
-      "username": "brosportses",
-      "lastActive": 1772817541748
+      "id": "tt1790885",
+      "title": "Zero Dark Thirty",
+      "username": "katdenningssss",
+      "lastActive": 1772845118678
     },
     "2409:40d2:304c:2c91:11b:e2d2:e88f:ce62": {
       "type": "series",
@@ -93758,6 +93759,13 @@
       "title": "tt34509472",
       "username": "sid_g",
       "lastActive": 1772840925287
+    },
+    "2a02:9b0:106:4496:9129:ccda:af73:e89a": {
+      "type": "series",
+      "id": "tt5851616:19:1",
+      "title": "tt5851616:19:1",
+      "username": "hoosa500",
+      "lastActive": 1772844846566
     }
   }
 }
