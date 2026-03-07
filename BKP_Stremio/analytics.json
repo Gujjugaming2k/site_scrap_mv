@@ -1,5 +1,5 @@
 {
-  "totalViews": 34364,
+  "totalViews": 34367,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6752,30 +6752,6 @@
     "2409:40e1:401:d6cc:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt28106758:1:1",
-      "title": "tt28106758:1:1",
-      "timestamp": "2026-02-13T08:45:24.707Z",
-      "ip": "202.173.124.150",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-13T09:02:52.869Z",
-      "ip": "2405:201:6025:a88d:c6f7:bb4:f8f3:c6ae",
-      "username": "anonymously_yourss"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-13T09:03:49.261Z",
-      "ip": "2405:201:6025:a88d:c6f7:bb4:f8f3:c6ae",
-      "username": "anonymously_yourss"
-    },
     {
       "type": "movie",
       "id": "tt27543632",
@@ -86751,6 +86727,30 @@
       "timestamp": "2026-03-07T02:12:37.781Z",
       "ip": "103.92.43.94",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt39303992:1:2",
+      "title": "tt39303992:1:2",
+      "timestamp": "2026-03-07T02:37:26.107Z",
+      "ip": "2409:40e4:1089:ec12:7d9e:8985:443d:79e5",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt39299519:1:3",
+      "title": "tt39299519:1:3",
+      "timestamp": "2026-03-07T02:49:02.362Z",
+      "ip": "103.24.85.125",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt6299040",
+      "title": "tt6299040",
+      "timestamp": "2026-03-07T02:51:33.422Z",
+      "ip": "186.188.150.139",
+      "username": "ymcinema"
     }
   ],
   "activeNow": {
@@ -86882,10 +86882,10 @@
     },
     "186.188.150.139": {
       "type": "movie",
-      "id": "tt28377588",
-      "title": "tt28377588",
+      "id": "tt6299040",
+      "title": "tt6299040",
       "username": "ymcinema",
-      "lastActive": 1772683015391
+      "lastActive": 1772851893422
     },
     "2401:4900:8823:a9e4:44a0:b4b8:7787:d185": {
       "type": "series",
@@ -93510,11 +93510,11 @@
       "lastActive": 1772800856769
     },
     "103.24.85.125": {
-      "type": "movie",
-      "id": "tt15940132",
-      "title": "tt15940132",
+      "type": "series",
+      "id": "tt39299519:1:3",
+      "title": "tt39299519:1:3",
       "username": "william097",
-      "lastActive": 1772816773446
+      "lastActive": 1772851742362
     },
     "2405:201:2022:b81c:9d69:229f:3863:2446": {
       "type": "series",
@@ -93545,11 +93545,11 @@
       "lastActive": 1772805386945
     },
     "2409:40e4:1089:ec12:7d9e:8985:443d:79e5": {
-      "type": "movie",
-      "id": "tt0337978",
-      "title": "Live Free or Die Hard",
+      "type": "series",
+      "id": "tt39303992:1:2",
+      "title": "tt39303992:1:2",
       "username": "askchm",
-      "lastActive": 1772814990349
+      "lastActive": 1772851046107
     },
     "2405:201:2022:b81c:3061:6d39:cb32:a9e2": {
       "type": "movie",
