@@ -1,5 +1,5 @@
 {
-  "totalViews": 34384,
+  "totalViews": 34386,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6754,22 +6754,6 @@
     "2402:a00:10a:815f:3324:5b83:a689:3798"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt7155170",
-      "title": "tt7155170",
-      "timestamp": "2026-02-13T09:33:32.962Z",
-      "ip": "2405:201:900f:a92b:1191:4ed7:e9dc:ba8",
-      "username": "theonlyfreak"
-    },
-    {
-      "type": "series",
-      "id": "tt0472954:6:1",
-      "title": "tt0472954:6:1",
-      "timestamp": "2026-02-13T09:43:39.914Z",
-      "ip": "2a09:bac5:3c7b:c8::14:2b0",
-      "username": "belimhuzaifa"
-    },
     {
       "type": "series",
       "id": "tt0472954:6:2",
@@ -86753,6 +86737,22 @@
       "timestamp": "2026-03-07T04:18:01.281Z",
       "ip": "106.222.250.51",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt35288598",
+      "title": "tt35288598",
+      "timestamp": "2026-03-07T04:32:07.919Z",
+      "ip": "200.46.70.197",
+      "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt1318523",
+      "title": "tt1318523",
+      "timestamp": "2026-03-07T04:37:44.665Z",
+      "ip": "116.68.77.63",
+      "username": "aravindsivan"
     }
   ],
   "activeNow": {
@@ -88613,10 +88613,10 @@
     },
     "200.46.70.197": {
       "type": "movie",
-      "id": "tt37956153",
-      "title": "tt37956153",
+      "id": "tt35288598",
+      "title": "tt35288598",
       "username": "ymcinema",
-      "lastActive": 1772771243650
+      "lastActive": 1772857927919
     },
     "2409:40c1:10bd:79d6:8082:c075:a41d:30f0": {
       "type": "movie",
@@ -90642,11 +90642,11 @@
       "lastActive": 1772302571668
     },
     "116.68.77.63": {
-      "type": "series",
-      "id": "tt0411008:5:12",
-      "title": "Lost",
+      "type": "movie",
+      "id": "tt1318523",
+      "title": "tt1318523",
       "username": "aravindsivan",
-      "lastActive": 1772826536839
+      "lastActive": 1772858264665
     },
     "2409:40e4:1156:e4c6:40ab:f3ff:fece:13fa": {
       "type": "movie",
