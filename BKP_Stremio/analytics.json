@@ -1,5 +1,5 @@
 {
-  "totalViews": 34533,
+  "totalViews": 34536,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6778,33 +6778,10 @@
     "2401:4900:ac85:de54:4060:a8c6:60a0:cdfb",
     "2401:4900:8827:38c5:f476:de6f:4649:5844",
     "93.107.70.253",
-    "2405:201:2022:b81c:9952:66ab:e06c:f60c"
+    "2405:201:2022:b81c:9952:66ab:e06c:f60c",
+    "45.120.160.136"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27853283:2:2",
-      "title": "tt27853283:2:2",
-      "timestamp": "2026-02-13T14:19:11.597Z",
-      "ip": "157.48.218.195,51.89.197.91",
-      "username": "bk18"
-    },
-    {
-      "type": "series",
-      "id": "tt1399664:2:4",
-      "title": "tt1399664:2:4",
-      "timestamp": "2026-02-13T14:19:20.660Z",
-      "ip": "43.231.236.89",
-      "username": "claw_of_beliar"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-13T14:20:12.697Z",
-      "ip": "103.46.200.43",
-      "username": "katdenningssss"
-    },
     {
       "type": "movie",
       "id": "tt23149780",
@@ -86780,6 +86757,30 @@
       "timestamp": "2026-03-07T21:18:02.079Z",
       "ip": "2401:4900:af69:a72e:5865:544:df18:3a45",
       "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-03-07T21:52:40.354Z",
+      "ip": "45.120.160.136",
+      "username": "kunal"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:2",
+      "title": "tt27497448:1:2",
+      "timestamp": "2026-03-07T21:53:16.198Z",
+      "ip": "45.120.160.136",
+      "username": "kunal"
+    },
+    {
+      "type": "series",
+      "id": "tt17220216:1:1",
+      "title": "tt17220216:1:1",
+      "timestamp": "2026-03-07T21:55:36.593Z",
+      "ip": "45.120.160.136",
+      "username": "kunal"
     }
   ],
   "activeNow": {
@@ -94013,6 +94014,13 @@
       "title": "tt1442449:0:1",
       "username": "zealousninja",
       "lastActive": 1772917981335
+    },
+    "45.120.160.136": {
+      "type": "series",
+      "id": "tt17220216:1:1",
+      "title": "tt17220216:1:1",
+      "username": "kunal",
+      "lastActive": 1772920536593
     }
   }
 }
