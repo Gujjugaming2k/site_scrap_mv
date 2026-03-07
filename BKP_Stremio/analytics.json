@@ -1,5 +1,5 @@
 {
-  "totalViews": 34507,
+  "totalViews": 34512,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6777,49 +6777,10 @@
     "2409:40e1:d:af8f:8000::",
     "2401:4900:ac85:de54:4060:a8c6:60a0:cdfb",
     "2401:4900:8827:38c5:f476:de6f:4649:5844",
-    "93.107.70.253"
+    "93.107.70.253",
+    "2405:201:2022:b81c:9952:66ab:e06c:f60c"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt10023172",
-      "title": "tt10023172",
-      "timestamp": "2026-02-13T13:37:30.649Z",
-      "ip": "103.46.200.43",
-      "username": "brosportses"
-    },
-    {
-      "type": "movie",
-      "id": "tt10023172",
-      "title": "tt10023172",
-      "timestamp": "2026-02-13T13:37:55.343Z",
-      "ip": "103.46.200.43",
-      "username": "katdenningssss"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:2",
-      "title": "Game of Thrones",
-      "timestamp": "2026-02-13T13:38:02.936Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
-      "timestamp": "2026-02-13T13:38:08.670Z",
-      "ip": "152.58.37.85",
-      "username": "paregi12"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-13T13:39:15.443Z",
-      "ip": "104.28.192.187",
-      "username": "pishminer"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -86779,6 +86740,46 @@
       "timestamp": "2026-03-07T18:42:52.631Z",
       "ip": "93.107.70.253",
       "username": "sid_g"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:3:2",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-07T18:45:23.124Z",
+      "ip": "2409:40d4:1240:61d5:c013:d5ff:fe34:8153",
+      "username": "vk986"
+    },
+    {
+      "type": "movie",
+      "id": "tt15940132",
+      "title": "tt15940132",
+      "timestamp": "2026-03-07T18:46:28.107Z",
+      "ip": "2405:201:2022:b81c:9952:66ab:e06c:f60c",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt30851137",
+      "title": "tt30851137",
+      "timestamp": "2026-03-07T18:49:31.942Z",
+      "ip": "93.107.70.253",
+      "username": "sid_g"
+    },
+    {
+      "type": "movie",
+      "id": "tt30851137",
+      "title": "tt30851137",
+      "timestamp": "2026-03-07T18:49:50.983Z",
+      "ip": "93.107.70.253",
+      "username": "sid_g"
+    },
+    {
+      "type": "series",
+      "id": "tt8599532",
+      "title": "tt8599532",
+      "timestamp": "2026-03-07T18:57:03.286Z",
+      "ip": "93.107.70.253",
+      "username": "sid_g"
     }
   ],
   "activeNow": {
@@ -93818,11 +93819,11 @@
       "lastActive": 1772853973320
     },
     "2409:40d4:1240:61d5:c013:d5ff:fe34:8153": {
-      "type": "movie",
-      "id": "tt11173332",
-      "title": "tt11173332",
+      "type": "series",
+      "id": "tt13918776:3:2",
+      "title": "The Night Agent",
       "username": "vk986",
-      "lastActive": 1772859135234
+      "lastActive": 1772909123124
     },
     "2401:4900:8fe1:cf26:d863:b0f7:bf1f:d445": {
       "type": "movie",
@@ -94001,10 +94002,17 @@
     },
     "93.107.70.253": {
       "type": "series",
-      "id": "tt10577736:1:1",
-      "title": "Tehran",
+      "id": "tt8599532",
+      "title": "tt8599532",
       "username": "sid_g",
-      "lastActive": 1772908972631
+      "lastActive": 1772909823286
+    },
+    "2405:201:2022:b81c:9952:66ab:e06c:f60c": {
+      "type": "movie",
+      "id": "tt15940132",
+      "title": "tt15940132",
+      "username": "zealousninja",
+      "lastActive": 1772909188107
     }
   }
 }
