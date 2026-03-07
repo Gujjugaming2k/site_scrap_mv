@@ -1,5 +1,5 @@
 {
-  "totalViews": 34518,
+  "totalViews": 34519,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6781,14 +6781,6 @@
     "2405:201:2022:b81c:9952:66ab:e06c:f60c"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1216496",
-      "title": "tt1216496",
-      "timestamp": "2026-02-13T13:47:40.090Z",
-      "ip": "2a0d:5600:236:1003:fcbc:2d5e:bae8:4584",
-      "username": "theonlyfreak"
-    },
     {
       "type": "movie",
       "id": "tt30057084",
@@ -86780,6 +86772,14 @@
       "timestamp": "2026-03-07T20:13:27.646Z",
       "ip": "93.107.70.253",
       "username": "sid_g"
+    },
+    {
+      "type": "movie",
+      "id": "tt2872732",
+      "title": "Lucy",
+      "timestamp": "2026-03-07T20:29:29.731Z",
+      "ip": "2405:201:2022:b81c:9952:66ab:e06c:f60c",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -94009,10 +94009,10 @@
     },
     "2405:201:2022:b81c:9952:66ab:e06c:f60c": {
       "type": "movie",
-      "id": "tt15940132",
-      "title": "tt15940132",
+      "id": "tt2872732",
+      "title": "Lucy",
       "username": "zealousninja",
-      "lastActive": 1772909188107
+      "lastActive": 1772915369731
     }
   }
 }
