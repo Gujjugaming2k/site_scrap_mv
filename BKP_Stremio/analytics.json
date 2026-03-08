@@ -1,5 +1,5 @@
 {
-  "totalViews": 34907,
+  "totalViews": 34908,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6833,14 +6833,6 @@
     "2401:4900:a8b3:21db:d810:11f8:7cff:e82c"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
-      "timestamp": "2026-02-14T04:27:05.133Z",
-      "ip": "152.59.148.48",
-      "username": "nabakun24"
-    },
     {
       "type": "series",
       "id": "tt14186672:2:4",
@@ -86832,6 +86824,14 @@
       "timestamp": "2026-03-08T21:42:09.243Z",
       "ip": "2401:4900:a8b3:21db:d810:11f8:7cff:e82c",
       "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:2:1",
+      "title": "The Boys",
+      "timestamp": "2026-03-08T22:15:49.700Z",
+      "ip": "2401:4900:a8b3:21db:d810:11f8:7cff:e82c",
+      "username": "extremeyat"
     }
   ],
   "activeNow": {
@@ -94435,7 +94435,7 @@
       "id": "tt1190634:2:1",
       "title": "The Boys",
       "username": "extremeyat",
-      "lastActive": 1773006129243
+      "lastActive": 1773008149700
     }
   }
 }
