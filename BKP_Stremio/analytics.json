@@ -1,5 +1,5 @@
 {
-  "totalViews": 34779,
+  "totalViews": 34782,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6813,30 +6813,6 @@
     "2409:40d4:4089:ba88:8000::"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt38109700",
-      "title": "tt38109700",
-      "timestamp": "2026-02-13T19:37:12.576Z",
-      "ip": "38.224.232.109",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt1705772",
-      "title": "tt1705772",
-      "timestamp": "2026-02-13T19:38:06.790Z",
-      "ip": "38.224.232.109",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt38109700",
-      "title": "tt38109700",
-      "timestamp": "2026-02-13T19:38:28.860Z",
-      "ip": "38.224.232.109",
-      "username": "thala_75"
-    },
     {
       "type": "movie",
       "id": "tt1705772",
@@ -86812,6 +86788,30 @@
       "timestamp": "2026-03-08T13:42:20.855Z",
       "ip": "2409:40d4:400b:2561:a968:b3c5:d25f:9ced",
       "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt7838252",
+      "title": "tt7838252",
+      "timestamp": "2026-03-08T14:10:49.885Z",
+      "ip": "2409:40d4:4089:ba88:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:4:4",
+      "title": "Stranger Things",
+      "timestamp": "2026-03-08T14:18:03.590Z",
+      "ip": "2409:40d4:400b:2561:a968:b3c5:d25f:9ced",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:4:3",
+      "title": "Stranger Things",
+      "timestamp": "2026-03-08T14:21:15.262Z",
+      "ip": "2409:40d4:400b:2561:a968:b3c5:d25f:9ced",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -94254,7 +94254,7 @@
       "id": "tt4574334:4:3",
       "title": "Stranger Things",
       "username": "kdbotz",
-      "lastActive": 1772977340855
+      "lastActive": 1772979675262
     },
     "2401:4900:8fe1:cf26:e0a7:437d:5cd8:1bfd": {
       "type": "movie",
@@ -94272,10 +94272,10 @@
     },
     "2409:40d4:4089:ba88:8000::": {
       "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
+      "id": "tt7838252",
+      "title": "tt7838252",
       "username": "kdbotz",
-      "lastActive": 1772976663129
+      "lastActive": 1772979049885
     }
   }
 }
