@@ -1,5 +1,5 @@
 {
-  "totalViews": 34905,
+  "totalViews": 34907,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6829,25 +6829,10 @@
     "2409:40c1:13:6fec:9ee7:855c:72fe:34a",
     "2409:40f3:209e:7676:1488:d563:5dd6:9250",
     "2409:40c0:103d:2b6b:551:5f7:acd3:3d21",
-    "2409:40e4:108d:2924:c127:b2f1:b50e:de"
+    "2409:40e4:108d:2924:c127:b2f1:b50e:de",
+    "2401:4900:a8b3:21db:d810:11f8:7cff:e82c"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt2937898",
-      "title": "tt2937898",
-      "timestamp": "2026-02-14T04:21:31.320Z",
-      "ip": "2409:40e6:256:d4cc:f4af:f3ff:fe10:4e90",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt2937898",
-      "title": "tt2937898",
-      "timestamp": "2026-02-14T04:25:57.309Z",
-      "ip": "152.59.148.48",
-      "username": "nabakun24"
-    },
     {
       "type": "movie",
       "id": "tt32916440",
@@ -86831,6 +86816,22 @@
       "timestamp": "2026-03-08T21:17:03.904Z",
       "ip": "2409:40e4:108d:2924:c127:b2f1:b50e:de",
       "username": "adshoyi"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:2:2",
+      "title": "The Boys",
+      "timestamp": "2026-03-08T21:42:07.253Z",
+      "ip": "2401:4900:a8b3:21db:d810:11f8:7cff:e82c",
+      "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:2:1",
+      "title": "The Boys",
+      "timestamp": "2026-03-08T21:42:09.243Z",
+      "ip": "2401:4900:a8b3:21db:d810:11f8:7cff:e82c",
+      "username": "extremeyat"
     }
   ],
   "activeNow": {
@@ -94428,6 +94429,13 @@
       "title": "tt31844233:1:1",
       "username": "adshoyi",
       "lastActive": 1773004623904
+    },
+    "2401:4900:a8b3:21db:d810:11f8:7cff:e82c": {
+      "type": "series",
+      "id": "tt1190634:2:1",
+      "title": "The Boys",
+      "username": "extremeyat",
+      "lastActive": 1773006129243
     }
   }
 }
