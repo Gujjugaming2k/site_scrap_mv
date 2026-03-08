@@ -1,5 +1,5 @@
 {
-  "totalViews": 34663,
+  "totalViews": 34669,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6796,57 +6796,10 @@
     "2405:201:5c14:2a70:3945:91f8:3834:c06c",
     "2405:201:202d:d019:e04e:954e:995d:de17",
     "2409:40d0:1335:8fd7:b010:cfff:feee:dfc9",
-    "2409:40c1:4f:c99c:7816:59ff:feb6:dece"
+    "2409:40c1:4f:c99c:7816:59ff:feb6:dece",
+    "2405:201:5c14:2a70:df56:5278:d972:d0e"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt30003786:4:9",
-      "title": "tt30003786:4:9",
-      "timestamp": "2026-02-13T17:16:02.017Z",
-      "ip": "202.173.124.150",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-13T17:16:34.991Z",
-      "ip": "2409:40e5:104e:6309:c893:5d61:d1e1:3fd9",
-      "username": "magicmannn"
-    },
-    {
-      "type": "series",
-      "id": "tt30003786:4:9",
-      "title": "tt30003786:4:9",
-      "timestamp": "2026-02-13T17:18:21.362Z",
-      "ip": "202.173.124.150",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "movie",
-      "id": "tt0845448",
-      "title": "tt0845448",
-      "timestamp": "2026-02-13T17:24:39.251Z",
-      "ip": "152.59.34.154",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt4851630",
-      "title": "tt4851630",
-      "timestamp": "2026-02-13T17:24:57.165Z",
-      "ip": "116.68.75.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt0845448",
-      "title": "tt0845448",
-      "timestamp": "2026-02-13T17:27:18.408Z",
-      "ip": "152.59.34.154",
-      "username": "zealousninja"
-    },
     {
       "type": "movie",
       "id": "tt4851630",
@@ -86798,6 +86751,54 @@
       "timestamp": "2026-03-08T08:09:58.292Z",
       "ip": "2409:40c1:4f:c99c:7816:59ff:feb6:dece",
       "username": "paregi12"
+    },
+    {
+      "type": "movie",
+      "id": "tt39307872",
+      "title": "tt39307872",
+      "timestamp": "2026-03-08T08:38:14.940Z",
+      "ip": "2405:201:5c14:2a70:df56:5278:d972:d0e",
+      "username": "extremeyat"
+    },
+    {
+      "type": "movie",
+      "id": "tt39307872",
+      "title": "tt39307872",
+      "timestamp": "2026-03-08T08:38:55.414Z",
+      "ip": "2405:201:5c14:2a70:df56:5278:d972:d0e",
+      "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:1:8",
+      "title": "The Boys",
+      "timestamp": "2026-03-08T08:43:03.662Z",
+      "ip": "2405:201:5c14:2a70:df56:5278:d972:d0e",
+      "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:2:2",
+      "title": "The Boys",
+      "timestamp": "2026-03-08T08:43:09.784Z",
+      "ip": "2405:201:5c14:2a70:df56:5278:d972:d0e",
+      "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:2:1",
+      "title": "The Boys",
+      "timestamp": "2026-03-08T08:43:13.234Z",
+      "ip": "2405:201:5c14:2a70:df56:5278:d972:d0e",
+      "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:2:1",
+      "title": "The Boys",
+      "timestamp": "2026-03-08T08:43:59.658Z",
+      "ip": "2405:201:5c14:2a70:df56:5278:d972:d0e",
+      "username": "extremeyat"
     }
   ],
   "activeNow": {
@@ -94164,6 +94165,13 @@
       "title": "Shang-Chi and the Legend of the Ten Rings",
       "username": "paregi12",
       "lastActive": 1772957398292
+    },
+    "2405:201:5c14:2a70:df56:5278:d972:d0e": {
+      "type": "series",
+      "id": "tt1190634:2:1",
+      "title": "The Boys",
+      "username": "extremeyat",
+      "lastActive": 1772959439658
     }
   }
 }
