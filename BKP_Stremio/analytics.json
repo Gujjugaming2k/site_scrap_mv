@@ -1,5 +1,5 @@
 {
-  "totalViews": 34899,
+  "totalViews": 34902,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6831,30 +6831,6 @@
     "2409:40c0:103d:2b6b:551:5f7:acd3:3d21"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt19854762:1:1",
-      "title": "tt19854762:1:1",
-      "timestamp": "2026-02-14T03:41:51.756Z",
-      "ip": "2402:a00:10a:815f:a1ab:2857:2a3:4eeb",
-      "username": "admin"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:1",
-      "title": "Game of Thrones",
-      "timestamp": "2026-02-14T04:01:23.444Z",
-      "ip": "2409:40f0:1121:89e6:5007:71ff:fed2:e4c2",
-      "username": "rick grimes"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:8:1",
-      "title": "Game of Thrones",
-      "timestamp": "2026-02-14T04:01:55.357Z",
-      "ip": "2409:40f0:1121:89e6:5007:71ff:fed2:e4c2",
-      "username": "rick grimes"
-    },
     {
       "type": "movie",
       "id": "tt4679210",
@@ -86830,6 +86806,30 @@
       "timestamp": "2026-03-08T20:13:41.495Z",
       "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
       "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-03-08T20:56:44.305Z",
+      "ip": "103.87.57.76",
+      "username": "kunal"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-03-08T20:56:58.671Z",
+      "ip": "103.87.57.76",
+      "username": "kunal"
+    },
+    {
+      "type": "movie",
+      "id": "tt0095271",
+      "title": "tt0095271",
+      "timestamp": "2026-03-08T20:57:24.193Z",
+      "ip": "103.87.57.76",
+      "username": "kunal"
     }
   ],
   "activeNow": {
@@ -91987,10 +91987,10 @@
     },
     "103.87.57.76": {
       "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "username": "kunal_baroliya",
-      "lastActive": 1772809978748
+      "id": "tt0095271",
+      "title": "tt0095271",
+      "username": "kunal",
+      "lastActive": 1773003444193
     },
     "2409:40e4:1087:55d2:e1f2:3945:6344:4df5": {
       "type": "movie",
