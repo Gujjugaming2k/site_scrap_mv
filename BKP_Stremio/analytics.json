@@ -1,5 +1,5 @@
 {
-  "totalViews": 34787,
+  "totalViews": 34793,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6811,57 +6811,11 @@
     "2401:4900:8fe1:cf26:e0a7:437d:5cd8:1bfd",
     "2409:40d4:4018:ebed:8000::",
     "2409:40d4:4089:ba88:8000::",
-    "2409:40e2:20b1:6fbd:497d:f581:6b39:24a2"
+    "2409:40e2:20b1:6fbd:497d:f581:6b39:24a2",
+    "185.219.141.223",
+    "2405:201:202d:d019:30c:97f0:797d:c89b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt39221314:1:4",
-      "title": "tt39221314:1:4",
-      "timestamp": "2026-02-13T19:50:01.500Z",
-      "ip": "2402:3a80:165e:b818:88d8:ce36:89df:f936",
-      "username": "insnaee99"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-13T19:51:13.200Z",
-      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "movie",
-      "id": "tt23790696",
-      "title": "tt23790696",
-      "timestamp": "2026-02-13T19:51:41.959Z",
-      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "series",
-      "id": "tt12637874:2:2",
-      "title": "Fallout",
-      "timestamp": "2026-02-13T19:52:00.984Z",
-      "ip": "2405:201:682e:6839:1f92:2fc:ba55:6b57",
-      "username": "babubhaiya"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448",
-      "title": "tt27497448",
-      "timestamp": "2026-02-13T19:52:09.602Z",
-      "ip": "117.96.38.8",
-      "username": "dawnstar930"
-    },
-    {
-      "type": "movie",
-      "id": "tt39389929",
-      "title": "tt39389929",
-      "timestamp": "2026-02-13T19:52:11.750Z",
-      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
-      "username": "gendaswammy"
-    },
     {
       "type": "series",
       "id": "tt39221314:1:1",
@@ -86813,6 +86767,54 @@
       "timestamp": "2026-03-08T15:20:52.475Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt8205190",
+      "title": "tt8205190",
+      "timestamp": "2026-03-08T15:31:57.511Z",
+      "ip": "103.98.208.29",
+      "username": "thala_75"
+    },
+    {
+      "type": "movie",
+      "id": "tt12472554",
+      "title": "tt12472554",
+      "timestamp": "2026-03-08T15:32:30.163Z",
+      "ip": "185.219.141.223",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt4552524",
+      "title": "tt4552524",
+      "timestamp": "2026-03-08T15:34:57.242Z",
+      "ip": "185.219.141.223",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt38123566",
+      "title": "tt38123566",
+      "timestamp": "2026-03-08T15:41:18.545Z",
+      "ip": "103.98.208.29",
+      "username": "thala_75"
+    },
+    {
+      "type": "series",
+      "id": "tt7923710:1:1",
+      "title": "tt7923710:1:1",
+      "timestamp": "2026-03-08T15:42:49.747Z",
+      "ip": "2405:201:202d:d019:30c:97f0:797d:c89b",
+      "username": "explorerindia"
+    },
+    {
+      "type": "series",
+      "id": "tt7923710:1:2",
+      "title": "tt7923710:1:2",
+      "timestamp": "2026-03-08T15:43:08.239Z",
+      "ip": "2405:201:202d:d019:30c:97f0:797d:c89b",
+      "username": "explorerindia"
     }
   ],
   "activeNow": {
@@ -93965,10 +93967,10 @@
     },
     "103.98.208.29": {
       "type": "movie",
-      "id": "tt38798360",
-      "title": "tt38798360",
+      "id": "tt38123566",
+      "title": "tt38123566",
       "username": "thala_75",
-      "lastActive": 1772956695166
+      "lastActive": 1772984478545
     },
     "2405:201:2022:b81c:c58e:cf79:530e:d0d8": {
       "type": "movie",
@@ -94284,6 +94286,20 @@
       "title": "tt32916440",
       "username": "adr7000",
       "lastActive": 1772981896511
+    },
+    "185.219.141.223": {
+      "type": "movie",
+      "id": "tt4552524",
+      "title": "tt4552524",
+      "username": "theonlyfreak",
+      "lastActive": 1772984097242
+    },
+    "2405:201:202d:d019:30c:97f0:797d:c89b": {
+      "type": "series",
+      "id": "tt7923710:1:2",
+      "title": "tt7923710:1:2",
+      "username": "explorerindia",
+      "lastActive": 1772984588239
     }
   }
 }
