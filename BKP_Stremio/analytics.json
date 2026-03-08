@@ -1,5 +1,5 @@
 {
-  "totalViews": 34683,
+  "totalViews": 34684,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6805,14 +6805,6 @@
     "2401:4900:1c0b:1e04:2ccb:589f:df72:d2ab"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0111161",
-      "title": "The Shawshank Redemption",
-      "timestamp": "2026-02-13T17:47:46.246Z",
-      "ip": "2409:40e4:59:d6f8:5c04:13ff:feb5:6433",
-      "username": "ig_sirmour"
-    },
     {
       "type": "movie",
       "id": "tt35288598",
@@ -86804,6 +86796,14 @@
       "timestamp": "2026-03-08T09:28:29.447Z",
       "ip": "2401:4900:1c0b:1e04:2ccb:589f:df72:d2ab",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:2:16",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-03-08T09:36:48.388Z",
+      "ip": "2401:4900:8827:672d:d964:e626:c339:f403",
+      "username": "sinbad1722"
     }
   ],
   "activeNow": {
@@ -94194,10 +94194,10 @@
     },
     "2401:4900:8827:672d:d964:e626:c339:f403": {
       "type": "series",
-      "id": "tt12343534:2:15",
+      "id": "tt12343534:2:16",
       "title": "JUJUTSU KAISEN",
       "username": "sinbad1722",
-      "lastActive": 1772959730401
+      "lastActive": 1772962608388
     },
     "2405:201:5c14:2a70:537:947f:69dd:3b36": {
       "type": "series",
