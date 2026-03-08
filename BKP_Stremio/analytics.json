@@ -1,5 +1,5 @@
 {
-  "totalViews": 34861,
+  "totalViews": 34865,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6824,41 +6824,10 @@
     "2a02:9b0:106:4496:4a5:b883:57a5:8702",
     "2401:4900:7914:6431:cdc2:7208:8ce8:ee66",
     "2401:4900:76c4:97d9:f628:16b4:1c71:e016",
-    "2405:201:900f:a92b:3c00:a3d6:6351:9c44"
+    "2405:201:900f:a92b:3c00:a3d6:6351:9c44",
+    "223.181.103.56"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33307516",
-      "title": "tt33307516",
-      "timestamp": "2026-02-14T01:16:17.644Z",
-      "ip": "94.156.30.204",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-14T01:21:07.436Z",
-      "ip": "2409:40c4:18e:eba5:5035:7cff:fe14:184c",
-      "username": "iknowthat"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-14T01:21:07.518Z",
-      "ip": "2409:40c4:18e:eba5:5035:7cff:fe14:184c",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt28508934",
-      "title": "tt28508934",
-      "timestamp": "2026-02-14T01:29:42.499Z",
-      "ip": "2409:40c4:18e:eba5:5035:7cff:fe14:184c",
-      "username": "b1jju"
-    },
     {
       "type": "movie",
       "id": "tt28508934",
@@ -86826,6 +86795,38 @@
       "timestamp": "2026-03-08T18:01:44.539Z",
       "ip": "106.222.251.213",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-03-08T18:03:45.212Z",
+      "ip": "2409:40d4:4089:ba88:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt18277182",
+      "title": "tt18277182",
+      "timestamp": "2026-03-08T18:04:42.149Z",
+      "ip": "2409:40d4:4089:ba88:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:5:16",
+      "title": "Lost",
+      "timestamp": "2026-03-08T18:12:40.032Z",
+      "ip": "116.68.77.63",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "timestamp": "2026-03-08T18:14:35.734Z",
+      "ip": "223.181.103.56",
+      "username": "baljeet_002"
     }
   ],
   "activeNow": {
@@ -90719,7 +90720,7 @@
       "id": "tt0411008:5:16",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1772977194250
+      "lastActive": 1772993560032
     },
     "2409:40e4:1156:e4c6:40ab:f3ff:fece:13fa": {
       "type": "movie",
@@ -94286,10 +94287,10 @@
     },
     "2409:40d4:4089:ba88:8000::": {
       "type": "movie",
-      "id": "tt16311594",
-      "title": "F1",
+      "id": "tt18277182",
+      "title": "tt18277182",
       "username": "kdbotz",
-      "lastActive": 1772988068120
+      "lastActive": 1772993082149
     },
     "2409:40e2:20b1:6fbd:497d:f581:6b39:24a2": {
       "type": "movie",
@@ -94388,6 +94389,13 @@
       "title": "tt4552524",
       "username": "theonlyfreak",
       "lastActive": 1772992476188
+    },
+    "223.181.103.56": {
+      "type": "movie",
+      "id": "tt16311594",
+      "title": "F1",
+      "username": "baljeet_002",
+      "lastActive": 1772993675734
     }
   }
 }
