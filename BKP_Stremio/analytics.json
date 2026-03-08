@@ -1,5 +1,5 @@
 {
-  "totalViews": 34753,
+  "totalViews": 34754,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6809,14 +6809,6 @@
     "2409:40d4:33:67ca:64ea:62ff:fed9:e676,51.89.197.91"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt7767422:2:3",
-      "title": "tt7767422:2:3",
-      "timestamp": "2026-02-13T19:17:34.848Z",
-      "ip": "2405:201:682e:6839:31ee:b67f:8ca2:8e9c",
-      "username": "tushar0nly"
-    },
     {
       "type": "series",
       "id": "tt7767422:2:4",
@@ -86808,6 +86800,14 @@
       "timestamp": "2026-03-08T11:34:38.873Z",
       "ip": "182.77.74.44",
       "username": "theaceofficials"
+    },
+    {
+      "type": "movie",
+      "id": "tt3460252",
+      "title": "tt3460252",
+      "timestamp": "2026-03-08T12:15:06.651Z",
+      "ip": "109.76.64.89",
+      "username": "sid_g"
     }
   ],
   "activeNow": {
@@ -94093,10 +94093,10 @@
     },
     "109.76.64.89": {
       "type": "movie",
-      "id": "tt15940132",
-      "title": "tt15940132",
+      "id": "tt3460252",
+      "title": "tt3460252",
       "username": "sid_g",
-      "lastActive": 1772964010382
+      "lastActive": 1772972106651
     },
     "2409:40f3:2017:5810:f595:76e2:cfa9:95b4": {
       "type": "movie",
