@@ -1,5 +1,5 @@
 {
-  "totalViews": 34553,
+  "totalViews": 34556,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6784,30 +6784,6 @@
     "2405:201:2022:b81c:d4c3:bb3c:52f7:1cdf"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt4210992",
-      "title": "tt4210992",
-      "timestamp": "2026-02-13T14:44:39.782Z",
-      "ip": "2401:4900:1cab:41dc:b82d:8c7a:59d7:4945",
-      "username": "nirbhay1412"
-    },
-    {
-      "type": "movie",
-      "id": "tt33307516",
-      "title": "tt33307516",
-      "timestamp": "2026-02-13T14:45:23.631Z",
-      "ip": "2a09:bac5:406d:16b4::243:89",
-      "username": "nabakun24"
-    },
-    {
-      "type": "series",
-      "id": "tt7335184:1:1",
-      "title": "tt7335184:1:1",
-      "timestamp": "2026-02-13T14:46:42.193Z",
-      "ip": "47.15.113.221",
-      "username": "saurabhkaperwan"
-    },
     {
       "type": "series",
       "id": "tt32590226:3:21",
@@ -86783,6 +86759,30 @@
       "timestamp": "2026-03-08T03:45:09.018Z",
       "ip": "2405:201:2022:b81c:d4c3:bb3c:52f7:1cdf",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt2872732",
+      "title": "Lucy",
+      "timestamp": "2026-03-08T03:57:25.320Z",
+      "ip": "2405:201:2022:b81c:d4c3:bb3c:52f7:1cdf",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt31598703",
+      "title": "tt31598703",
+      "timestamp": "2026-03-08T04:00:10.487Z",
+      "ip": "103.24.85.175",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt9335498:2:1",
+      "title": "tt9335498:2:1",
+      "timestamp": "2026-03-08T04:05:59.244Z",
+      "ip": "106.222.251.213",
+      "username": "nirbhay1412"
     }
   ],
   "activeNow": {
@@ -93948,18 +93948,18 @@
       "lastActive": 1772902870294
     },
     "106.222.251.213": {
-      "type": "movie",
-      "id": "tt8590896",
-      "title": "tt8590896",
+      "type": "series",
+      "id": "tt9335498:2:1",
+      "title": "tt9335498:2:1",
       "username": "nirbhay1412",
-      "lastActive": 1772904204654
+      "lastActive": 1772942759244
     },
     "103.24.85.175": {
       "type": "movie",
-      "id": "tt39109585",
-      "title": "tt39109585",
+      "id": "tt31598703",
+      "title": "tt31598703",
       "username": "william097",
-      "lastActive": 1772941420709
+      "lastActive": 1772942410487
     },
     "103.182.135.139": {
       "type": "series",
@@ -94036,7 +94036,7 @@
       "id": "tt2872732",
       "title": "Lucy",
       "username": "zealousninja",
-      "lastActive": 1772941509018
+      "lastActive": 1772942245320
     }
   }
 }
