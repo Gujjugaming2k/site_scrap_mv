@@ -1,5 +1,5 @@
 {
-  "totalViews": 34669,
+  "totalViews": 34676,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6797,65 +6797,12 @@
     "2405:201:202d:d019:e04e:954e:995d:de17",
     "2409:40d0:1335:8fd7:b010:cfff:feee:dfc9",
     "2409:40c1:4f:c99c:7816:59ff:feb6:dece",
-    "2405:201:5c14:2a70:df56:5278:d972:d0e"
+    "2405:201:5c14:2a70:df56:5278:d972:d0e",
+    "60.254.0.96",
+    "2a09:bac1:36e0:1468::29e:61",
+    "2401:4900:8827:672d:d964:e626:c339:f403"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt4851630",
-      "title": "tt4851630",
-      "timestamp": "2026-02-13T17:27:32.825Z",
-      "ip": "116.68.75.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-13T17:28:17.738Z",
-      "ip": "152.59.143.84",
-      "username": "adshoyi"
-    },
-    {
-      "type": "series",
-      "id": "tt21066182:1:1",
-      "title": "tt21066182:1:1",
-      "timestamp": "2026-02-13T17:29:49.496Z",
-      "ip": "45.118.158.231",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt0405508",
-      "title": "tt0405508",
-      "timestamp": "2026-02-13T17:30:09.347Z",
-      "ip": "2409:40c1:10d3:48f0:dd61:941:53c:ab32",
-      "username": "zealousninja"
-    },
-    {
-      "type": "series",
-      "id": "tt21066182:1:1",
-      "title": "tt21066182:1:1",
-      "timestamp": "2026-02-13T17:30:36.868Z",
-      "ip": "45.118.158.231",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt21066182:1:1",
-      "title": "tt21066182:1:1",
-      "timestamp": "2026-02-13T17:31:10.512Z",
-      "ip": "45.118.158.231",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt0405508",
-      "title": "tt0405508",
-      "timestamp": "2026-02-13T17:31:24.583Z",
-      "ip": "2409:40c1:10d3:48f0:dd61:941:53c:ab32",
-      "username": "zealousninja"
-    },
     {
       "type": "series",
       "id": "tt21066182:1:1",
@@ -86799,6 +86746,62 @@
       "timestamp": "2026-03-08T08:43:59.658Z",
       "ip": "2405:201:5c14:2a70:df56:5278:d972:d0e",
       "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:3:2",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-08T08:45:40.885Z",
+      "ip": "60.254.0.96",
+      "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:2:2",
+      "title": "The Boys",
+      "timestamp": "2026-03-08T08:46:46.674Z",
+      "ip": "2405:201:5c14:2a70:df56:5278:d972:d0e",
+      "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:3:2",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-08T08:46:59.821Z",
+      "ip": "2a09:bac1:36e0:1468::29e:61",
+      "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt12343534:2:15",
+      "title": "JUJUTSU KAISEN",
+      "timestamp": "2026-03-08T08:48:50.401Z",
+      "ip": "2401:4900:8827:672d:d964:e626:c339:f403",
+      "username": "sinbad1722"
+    },
+    {
+      "type": "movie",
+      "id": "tt25274786",
+      "title": "tt25274786",
+      "timestamp": "2026-03-08T08:56:03.818Z",
+      "ip": "116.68.77.63",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "movie",
+      "id": "tt25274786",
+      "title": "tt25274786",
+      "timestamp": "2026-03-08T08:56:19.853Z",
+      "ip": "116.68.77.63",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:3:2",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-08T08:57:43.138Z",
+      "ip": "60.254.0.96",
+      "username": "insnaee99"
     }
   ],
   "activeNow": {
@@ -90688,11 +90691,11 @@
       "lastActive": 1772302571668
     },
     "116.68.77.63": {
-      "type": "series",
-      "id": "tt0411008:5:14",
-      "title": "Lost",
+      "type": "movie",
+      "id": "tt25274786",
+      "title": "tt25274786",
       "username": "aravindsivan",
-      "lastActive": 1772951082016
+      "lastActive": 1772960179853
     },
     "2409:40e4:1156:e4c6:40ab:f3ff:fece:13fa": {
       "type": "movie",
@@ -94168,10 +94171,31 @@
     },
     "2405:201:5c14:2a70:df56:5278:d972:d0e": {
       "type": "series",
-      "id": "tt1190634:2:1",
+      "id": "tt1190634:2:2",
       "title": "The Boys",
       "username": "extremeyat",
-      "lastActive": 1772959439658
+      "lastActive": 1772959606674
+    },
+    "60.254.0.96": {
+      "type": "series",
+      "id": "tt13918776:3:2",
+      "title": "The Night Agent",
+      "username": "insnaee99",
+      "lastActive": 1772960263138
+    },
+    "2a09:bac1:36e0:1468::29e:61": {
+      "type": "series",
+      "id": "tt13918776:3:2",
+      "title": "The Night Agent",
+      "username": "insnaee99",
+      "lastActive": 1772959619821
+    },
+    "2401:4900:8827:672d:d964:e626:c339:f403": {
+      "type": "series",
+      "id": "tt12343534:2:15",
+      "title": "JUJUTSU KAISEN",
+      "username": "sinbad1722",
+      "lastActive": 1772959730401
     }
   }
 }
