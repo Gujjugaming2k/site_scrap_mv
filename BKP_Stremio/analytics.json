@@ -1,5 +1,5 @@
 {
-  "totalViews": 34682,
+  "totalViews": 34683,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6801,17 +6801,10 @@
     "60.254.0.96",
     "2a09:bac1:36e0:1468::29e:61",
     "2401:4900:8827:672d:d964:e626:c339:f403",
-    "2405:201:5c14:2a70:537:947f:69dd:3b36"
+    "2405:201:5c14:2a70:537:947f:69dd:3b36",
+    "2401:4900:1c0b:1e04:2ccb:589f:df72:d2ab"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0111161",
-      "title": "The Shawshank Redemption",
-      "timestamp": "2026-02-13T17:47:27.187Z",
-      "ip": "2409:40e4:59:d6f8:5c04:13ff:feb5:6433",
-      "username": "ig_sirmour"
-    },
     {
       "type": "movie",
       "id": "tt0111161",
@@ -86803,6 +86796,14 @@
       "timestamp": "2026-03-08T09:14:34.521Z",
       "ip": "146.196.32.227",
       "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt26737616:1:8",
+      "title": "tt26737616:1:8",
+      "timestamp": "2026-03-08T09:28:29.447Z",
+      "ip": "2401:4900:1c0b:1e04:2ccb:589f:df72:d2ab",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -94204,6 +94205,13 @@
       "title": "The Boys",
       "username": "extremeyat",
       "lastActive": 1772960833137
+    },
+    "2401:4900:1c0b:1e04:2ccb:589f:df72:d2ab": {
+      "type": "series",
+      "id": "tt26737616:1:8",
+      "title": "tt26737616:1:8",
+      "username": "dillon_ka_shooter",
+      "lastActive": 1772962109447
     }
   }
 }
