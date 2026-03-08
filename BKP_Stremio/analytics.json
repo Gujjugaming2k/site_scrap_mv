@@ -1,5 +1,5 @@
 {
-  "totalViews": 34577,
+  "totalViews": 34579,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6782,25 +6782,10 @@
     "45.120.160.136",
     "49.36.216.214",
     "2405:201:2022:b81c:d4c3:bb3c:52f7:1cdf",
-    "2409:40c4:345:2a3b:85b2:ae3f:34c1:1a71"
+    "2409:40c4:345:2a3b:85b2:ae3f:34c1:1a71",
+    "2409:40c1:2001:4822:f179:5a12:839e:b2c2"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31969779",
-      "title": "tt31969779",
-      "timestamp": "2026-02-13T15:35:33.505Z",
-      "ip": "2401:4900:b07d:e058:bc32:82ff:fe1c:19a9",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt37449205:1:2",
-      "title": "tt37449205:1:2",
-      "timestamp": "2026-02-13T15:36:19.732Z",
-      "ip": "2405:201:6820:a83c:8d5:ed4b:2b1b:cbc7",
-      "username": "demon18319"
-    },
     {
       "type": "movie",
       "id": "tt0367110",
@@ -86784,6 +86769,22 @@
       "timestamp": "2026-03-08T04:49:27.278Z",
       "ip": "106.222.251.213",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt37956153",
+      "title": "tt37956153",
+      "timestamp": "2026-03-08T04:53:40.722Z",
+      "ip": "2409:40c1:2001:4822:f179:5a12:839e:b2c2",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt12472554",
+      "title": "tt12472554",
+      "timestamp": "2026-03-08T04:58:09.804Z",
+      "ip": "2405:201:200d:906b:f881:b33:b992:598e",
+      "username": "kulu007"
     }
   ],
   "activeNow": {
@@ -90982,10 +90983,10 @@
     },
     "2405:201:200d:906b:f881:b33:b992:598e": {
       "type": "movie",
-      "id": "tt31474349",
-      "title": "tt31474349",
+      "id": "tt12472554",
+      "title": "tt12472554",
       "username": "kulu007",
-      "lastActive": 1772625747275
+      "lastActive": 1772945889804
     },
     "110.235.219.176": {
       "type": "series",
@@ -94045,6 +94046,13 @@
       "title": "Sisu",
       "username": "harshra9999",
       "lastActive": 1772943330377
+    },
+    "2409:40c1:2001:4822:f179:5a12:839e:b2c2": {
+      "type": "movie",
+      "id": "tt37956153",
+      "title": "tt37956153",
+      "username": "gendaswammy",
+      "lastActive": 1772945620722
     }
   }
 }
