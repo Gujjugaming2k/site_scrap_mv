@@ -1,5 +1,5 @@
 {
-  "totalViews": 34898,
+  "totalViews": 34899,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6831,14 +6831,6 @@
     "2409:40c0:103d:2b6b:551:5f7:acd3:3d21"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt19854762:1:1",
-      "title": "tt19854762:1:1",
-      "timestamp": "2026-02-14T03:41:35.381Z",
-      "ip": "2402:a00:10a:815f:a1ab:2857:2a3:4eeb",
-      "username": "admin"
-    },
     {
       "type": "series",
       "id": "tt19854762:1:1",
@@ -86830,6 +86822,14 @@
       "timestamp": "2026-03-08T20:07:17.157Z",
       "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
       "username": "gendaswammy"
+    },
+    {
+      "type": "movie",
+      "id": "tt29550683",
+      "title": "tt29550683",
+      "timestamp": "2026-03-08T20:13:41.495Z",
+      "ip": "2405:201:300c:213:1ef4:3fff:fe0f:1b78",
+      "username": "gendaswammy"
     }
   ],
   "activeNow": {
@@ -88641,10 +88641,10 @@
     },
     "2405:201:300c:213:1ef4:3fff:fe0f:1b78": {
       "type": "movie",
-      "id": "tt34381258",
-      "title": "tt34381258",
+      "id": "tt29550683",
+      "title": "tt29550683",
       "username": "gendaswammy",
-      "lastActive": 1773000437157
+      "lastActive": 1773000821495
     },
     "103.99.196.119": {
       "type": "movie",
