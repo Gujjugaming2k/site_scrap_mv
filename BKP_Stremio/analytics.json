@@ -1,5 +1,5 @@
 {
-  "totalViews": 34786,
+  "totalViews": 34787,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6814,14 +6814,6 @@
     "2409:40e2:20b1:6fbd:497d:f581:6b39:24a2"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt39221314:1:3",
-      "title": "tt39221314:1:3",
-      "timestamp": "2026-02-13T19:49:36.521Z",
-      "ip": "2402:3a80:165e:b818:88d8:ce36:89df:f936",
-      "username": "insnaee99"
-    },
     {
       "type": "series",
       "id": "tt39221314:1:4",
@@ -86813,6 +86805,14 @@
       "timestamp": "2026-03-08T15:03:27.479Z",
       "ip": "2409:40d4:400b:2561:a968:b3c5:d25f:9ced",
       "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt33088452",
+      "title": "Regretting You",
+      "timestamp": "2026-03-08T15:20:52.475Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
     }
   ],
   "activeNow": {
@@ -87056,10 +87056,10 @@
     },
     "203.192.255.46": {
       "type": "movie",
-      "id": "tt35219851",
-      "title": "My Secret Santa",
+      "id": "tt33088452",
+      "title": "Regretting You",
       "username": "chetan_b2",
-      "lastActive": 1772976140583
+      "lastActive": 1772983252475
     },
     "2405:201:200d:906b:e9b9:acfe:e6f5:2f4f": {
       "type": "movie",
