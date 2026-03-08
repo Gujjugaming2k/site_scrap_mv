@@ -1,5 +1,5 @@
 {
-  "totalViews": 34775,
+  "totalViews": 34777,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6809,25 +6809,10 @@
     "2409:40d4:33:67ca:64ea:62ff:fed9:e676,51.89.197.91",
     "2409:40d4:400b:2561:a968:b3c5:d25f:9ced",
     "2401:4900:8fe1:cf26:e0a7:437d:5cd8:1bfd",
-    "2409:40d4:4018:ebed:8000::"
+    "2409:40d4:4018:ebed:8000::",
+    "2409:40d4:4089:ba88:8000::"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32362695",
-      "title": "tt32362695",
-      "timestamp": "2026-02-13T19:32:57.916Z",
-      "ip": "116.68.75.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt39601175:1:1",
-      "title": "tt39601175:1:1",
-      "timestamp": "2026-02-13T19:33:00.638Z",
-      "ip": "117.96.38.8",
-      "username": "dawnstar930"
-    },
     {
       "type": "series",
       "id": "tt39601175:1:1",
@@ -86811,6 +86796,22 @@
       "timestamp": "2026-03-08T13:22:20.583Z",
       "ip": "203.192.255.46",
       "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt0177443:1:1",
+      "title": "tt0177443:1:1",
+      "timestamp": "2026-03-08T13:28:08.603Z",
+      "ip": "27.62.52.48",
+      "username": "goatedbentennyson"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-03-08T13:31:03.129Z",
+      "ip": "2409:40d4:4089:ba88:8000::",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -94232,7 +94233,7 @@
       "id": "tt0177443:1:1",
       "title": "tt0177443:1:1",
       "username": "goatedbentennyson",
-      "lastActive": 1772966935389
+      "lastActive": 1772976488603
     },
     "2409:40d4:33:67ca:64ea:62ff:fed9:e676": {
       "type": "series",
@@ -94268,6 +94269,13 @@
       "title": "tt32897959",
       "username": "kdbotz",
       "lastActive": 1772973431024
+    },
+    "2409:40d4:4089:ba88:8000::": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "kdbotz",
+      "lastActive": 1772976663129
     }
   }
 }
