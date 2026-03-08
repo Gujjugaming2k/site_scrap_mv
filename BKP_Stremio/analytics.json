@@ -1,5 +1,5 @@
 {
-  "totalViews": 34800,
+  "totalViews": 34804,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6819,38 +6819,6 @@
     "2401:4900:883c:7567:617d:4bfd:f69d:224"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27853283:2:2",
-      "title": "tt27853283:2:2",
-      "timestamp": "2026-02-13T19:55:24.312Z",
-      "ip": "2405:201:682e:6839:1f92:2fc:ba55:6b57",
-      "username": "babubhaiya"
-    },
-    {
-      "type": "series",
-      "id": "tt27853283:2:3",
-      "title": "tt27853283:2:3",
-      "timestamp": "2026-02-13T19:56:10.869Z",
-      "ip": "2405:201:682e:6839:1f92:2fc:ba55:6b57",
-      "username": "babubhaiya"
-    },
-    {
-      "type": "series",
-      "id": "tt27853283:2:4",
-      "title": "tt27853283:2:4",
-      "timestamp": "2026-02-13T19:56:43.385Z",
-      "ip": "157.48.218.195",
-      "username": "golu_vk"
-    },
-    {
-      "type": "series",
-      "id": "tt27853283:2:4",
-      "title": "tt27853283:2:4",
-      "timestamp": "2026-02-13T19:56:43.932Z",
-      "ip": "157.48.218.195,51.89.197.91",
-      "username": "bk18"
-    },
     {
       "type": "series",
       "id": "tt27853283:2:2",
@@ -86818,6 +86786,38 @@
       "timestamp": "2026-03-08T15:54:54.787Z",
       "ip": "2401:4900:883c:7567:617d:4bfd:f69d:224",
       "username": "fw_arjun"
+    },
+    {
+      "type": "movie",
+      "id": "tt34623382",
+      "title": "tt34623382",
+      "timestamp": "2026-03-08T16:00:33.287Z",
+      "ip": "2409:40d4:4089:ba88:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt7923710:1:2",
+      "title": "tt7923710:1:2",
+      "timestamp": "2026-03-08T16:03:30.533Z",
+      "ip": "2405:201:202d:d019:d1e8:27e8:8f49:d5cb",
+      "username": "explorerindia"
+    },
+    {
+      "type": "movie",
+      "id": "tt27847051",
+      "title": "tt27847051",
+      "timestamp": "2026-03-08T16:10:40.574Z",
+      "ip": "2405:201:202d:d019:d1e8:27e8:8f49:d5cb",
+      "username": "explorerindia"
+    },
+    {
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
+      "timestamp": "2026-03-08T16:10:47.156Z",
+      "ip": "2409:40d4:4089:ba88:8000::",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -94277,11 +94277,11 @@
       "lastActive": 1772973431024
     },
     "2409:40d4:4089:ba88:8000::": {
-      "type": "movie",
-      "id": "tt7838252",
-      "title": "tt7838252",
+      "type": "series",
+      "id": "tt27497448:1:1",
+      "title": "tt27497448:1:1",
       "username": "kdbotz",
-      "lastActive": 1772979049885
+      "lastActive": 1772986247156
     },
     "2409:40e2:20b1:6fbd:497d:f581:6b39:24a2": {
       "type": "movie",
@@ -94312,11 +94312,11 @@
       "lastActive": 1772984756462
     },
     "2405:201:202d:d019:d1e8:27e8:8f49:d5cb": {
-      "type": "series",
-      "id": "tt7923710:1:2",
-      "title": "tt7923710:1:2",
+      "type": "movie",
+      "id": "tt27847051",
+      "title": "tt27847051",
       "username": "explorerindia",
-      "lastActive": 1772985054018
+      "lastActive": 1772986240574
     },
     "2401:4900:883c:7567:617d:4bfd:f69d:224": {
       "type": "movie",
