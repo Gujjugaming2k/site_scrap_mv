@@ -1,5 +1,5 @@
 {
-  "totalViews": 34551,
+  "totalViews": 34553,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6780,25 +6780,10 @@
     "93.107.70.253",
     "2405:201:2022:b81c:9952:66ab:e06c:f60c",
     "45.120.160.136",
-    "49.36.216.214"
+    "49.36.216.214",
+    "2405:201:2022:b81c:d4c3:bb3c:52f7:1cdf"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt2120120",
-      "title": "tt2120120",
-      "timestamp": "2026-02-13T14:40:14.627Z",
-      "ip": "106.200.2.115",
-      "username": "itsvenum"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:1:1",
-      "title": "tt31938062:1:1",
-      "timestamp": "2026-02-13T14:44:06.205Z",
-      "ip": "47.15.113.221",
-      "username": "saurabhkaperwan"
-    },
     {
       "type": "movie",
       "id": "tt4210992",
@@ -86782,6 +86767,22 @@
       "timestamp": "2026-03-08T03:23:00.232Z",
       "ip": "103.24.85.175",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt39109585",
+      "title": "tt39109585",
+      "timestamp": "2026-03-08T03:43:40.709Z",
+      "ip": "103.24.85.175",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt2872732",
+      "title": "Lucy",
+      "timestamp": "2026-03-08T03:45:09.018Z",
+      "ip": "2405:201:2022:b81c:d4c3:bb3c:52f7:1cdf",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -93955,10 +93956,10 @@
     },
     "103.24.85.175": {
       "type": "movie",
-      "id": "tt1757678",
-      "title": "tt1757678",
+      "id": "tt39109585",
+      "title": "tt39109585",
       "username": "william097",
-      "lastActive": 1772940180232
+      "lastActive": 1772941420709
     },
     "103.182.135.139": {
       "type": "series",
@@ -94029,6 +94030,13 @@
       "title": "tt15940132",
       "username": "demon18319",
       "lastActive": 1772930319007
+    },
+    "2405:201:2022:b81c:d4c3:bb3c:52f7:1cdf": {
+      "type": "movie",
+      "id": "tt2872732",
+      "title": "Lucy",
+      "username": "zealousninja",
+      "lastActive": 1772941509018
     }
   }
 }
