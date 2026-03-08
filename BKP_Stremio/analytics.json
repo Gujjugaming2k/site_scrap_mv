@@ -1,5 +1,5 @@
 {
-  "totalViews": 34830,
+  "totalViews": 34831,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6818,17 +6818,10 @@
     "2405:201:202d:d019:d1e8:27e8:8f49:d5cb",
     "2401:4900:883c:7567:617d:4bfd:f69d:224",
     "2a02:9b0:106:4496:8920:18c8:d43f:dc25",
-    "163.223.102.164"
+    "163.223.102.164",
+    "2401:4900:a935:9a13:cd62:ebb:2e0f:bc0b"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt13304410:2:6",
-      "title": "tt13304410:2:6",
-      "timestamp": "2026-02-13T20:51:39.816Z",
-      "ip": "2405:201:682e:6839:1f92:2fc:ba55:6b57",
-      "username": "babubhaiya"
-    },
     {
       "type": "series",
       "id": "tt1395015:1:1",
@@ -86820,6 +86813,14 @@
       "timestamp": "2026-03-08T16:41:08.120Z",
       "ip": "2409:40d4:4089:ba88:8000::",
       "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:1:8",
+      "title": "The Boys",
+      "timestamp": "2026-03-08T16:46:45.521Z",
+      "ip": "2401:4900:a935:9a13:cd62:ebb:2e0f:bc0b",
+      "username": "extremeyat"
     }
   ],
   "activeNow": {
@@ -94340,6 +94341,13 @@
       "title": "tt19267078",
       "username": "mutti9",
       "lastActive": 1772987620660
+    },
+    "2401:4900:a935:9a13:cd62:ebb:2e0f:bc0b": {
+      "type": "series",
+      "id": "tt1190634:1:8",
+      "title": "The Boys",
+      "username": "extremeyat",
+      "lastActive": 1772988405521
     }
   }
 }
