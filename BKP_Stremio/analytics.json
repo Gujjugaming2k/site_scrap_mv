@@ -1,5 +1,5 @@
 {
-  "totalViews": 34902,
+  "totalViews": 34905,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6828,33 +6828,10 @@
     "223.181.103.56",
     "2409:40c1:13:6fec:9ee7:855c:72fe:34a",
     "2409:40f3:209e:7676:1488:d563:5dd6:9250",
-    "2409:40c0:103d:2b6b:551:5f7:acd3:3d21"
+    "2409:40c0:103d:2b6b:551:5f7:acd3:3d21",
+    "2409:40e4:108d:2924:c127:b2f1:b50e:de"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt4679210",
-      "title": "tt4679210",
-      "timestamp": "2026-02-14T04:02:13.269Z",
-      "ip": "116.68.75.147",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt21073266:1:1",
-      "title": "tt21073266:1:1",
-      "timestamp": "2026-02-14T04:02:26.985Z",
-      "ip": "2409:40f0:1121:89e6:5007:71ff:fed2:e4c2",
-      "username": "rick grimes"
-    },
-    {
-      "type": "movie",
-      "id": "tt28629017",
-      "title": "tt28629017",
-      "timestamp": "2026-02-14T04:09:17.151Z",
-      "ip": "2603:3003:3544:6700:a77a:6e0f:63b7:36b5",
-      "username": "anupambabu_97"
-    },
     {
       "type": "movie",
       "id": "tt2937898",
@@ -86830,6 +86807,30 @@
       "timestamp": "2026-03-08T20:57:24.193Z",
       "ip": "103.87.57.76",
       "username": "kunal"
+    },
+    {
+      "type": "movie",
+      "id": "tt13751694",
+      "title": "tt13751694",
+      "timestamp": "2026-03-08T21:10:00.275Z",
+      "ip": "103.87.57.76",
+      "username": "kunal"
+    },
+    {
+      "type": "movie",
+      "id": "tt13751694",
+      "title": "tt13751694",
+      "timestamp": "2026-03-08T21:10:58.812Z",
+      "ip": "103.87.57.76",
+      "username": "kunal"
+    },
+    {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "timestamp": "2026-03-08T21:17:03.904Z",
+      "ip": "2409:40e4:108d:2924:c127:b2f1:b50e:de",
+      "username": "adshoyi"
     }
   ],
   "activeNow": {
@@ -91987,10 +91988,10 @@
     },
     "103.87.57.76": {
       "type": "movie",
-      "id": "tt0095271",
-      "title": "tt0095271",
+      "id": "tt13751694",
+      "title": "tt13751694",
       "username": "kunal",
-      "lastActive": 1773003444193
+      "lastActive": 1773004258812
     },
     "2409:40e4:1087:55d2:e1f2:3945:6344:4df5": {
       "type": "movie",
@@ -94420,6 +94421,13 @@
       "title": "tt0460649:0:13",
       "username": "anonymous050100",
       "lastActive": 1772998247988
+    },
+    "2409:40e4:108d:2924:c127:b2f1:b50e:de": {
+      "type": "series",
+      "id": "tt31844233:1:1",
+      "title": "tt31844233:1:1",
+      "username": "adshoyi",
+      "lastActive": 1773004623904
     }
   }
 }
