@@ -1,5 +1,5 @@
 {
-  "totalViews": 34777,
+  "totalViews": 34779,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6813,22 +6813,6 @@
     "2409:40d4:4089:ba88:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt39601175:1:1",
-      "title": "tt39601175:1:1",
-      "timestamp": "2026-02-13T19:33:35.789Z",
-      "ip": "117.96.38.8",
-      "username": "dawnstar930"
-    },
-    {
-      "type": "movie",
-      "id": "tt1705772",
-      "title": "tt1705772",
-      "timestamp": "2026-02-13T19:34:42.280Z",
-      "ip": "38.224.232.109",
-      "username": "thala_75"
-    },
     {
       "type": "movie",
       "id": "tt38109700",
@@ -86812,6 +86796,22 @@
       "timestamp": "2026-03-08T13:31:03.129Z",
       "ip": "2409:40d4:4089:ba88:8000::",
       "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt0411008:5:16",
+      "title": "Lost",
+      "timestamp": "2026-03-08T13:39:54.250Z",
+      "ip": "116.68.77.63",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:4:3",
+      "title": "Stranger Things",
+      "timestamp": "2026-03-08T13:42:20.855Z",
+      "ip": "2409:40d4:400b:2561:a968:b3c5:d25f:9ced",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -90702,10 +90702,10 @@
     },
     "116.68.77.63": {
       "type": "series",
-      "id": "tt0411008:5:15",
+      "id": "tt0411008:5:16",
       "title": "Lost",
       "username": "aravindsivan",
-      "lastActive": 1772976013345
+      "lastActive": 1772977194250
     },
     "2409:40e4:1156:e4c6:40ab:f3ff:fece:13fa": {
       "type": "movie",
@@ -94251,10 +94251,10 @@
     },
     "2409:40d4:400b:2561:a968:b3c5:d25f:9ced": {
       "type": "series",
-      "id": "tt4574334:4:2",
+      "id": "tt4574334:4:3",
       "title": "Stranger Things",
       "username": "kdbotz",
-      "lastActive": 1772973001670
+      "lastActive": 1772977340855
     },
     "2401:4900:8fe1:cf26:e0a7:437d:5cd8:1bfd": {
       "type": "movie",
