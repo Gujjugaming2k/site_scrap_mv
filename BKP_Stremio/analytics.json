@@ -1,5 +1,5 @@
 {
-  "totalViews": 34997,
+  "totalViews": 35000,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6850,30 +6850,6 @@
     "2409:40e4:1097:89f2:b0fc:3d2b:2f5e:64b0"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt15427952",
-      "title": "tt15427952",
-      "timestamp": "2026-02-14T07:23:26.305Z",
-      "ip": "2405:201:200d:906b:89d0:36d0:e428:3e26",
-      "username": "kulu007"
-    },
-    {
-      "type": "movie",
-      "id": "tt33028778",
-      "title": "tt33028778",
-      "timestamp": "2026-02-14T07:27:33.608Z",
-      "ip": "45.118.158.231",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt23790696",
-      "title": "tt23790696",
-      "timestamp": "2026-02-14T07:30:31.235Z",
-      "ip": "2401:4900:88ba:ef47:c292:7613:d405:4e29",
-      "username": "iknowthat"
-    },
     {
       "type": "movie",
       "id": "tt23790696",
@@ -86849,6 +86825,30 @@
       "timestamp": "2026-03-09T07:10:39.214Z",
       "ip": "2409:40e4:1097:89f2:b0fc:3d2b:2f5e:64b0",
       "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt2467372:1:1",
+      "title": "tt2467372:1:1",
+      "timestamp": "2026-03-09T07:18:31.575Z",
+      "ip": "27.107.189.26",
+      "username": "anonymous050100"
+    },
+    {
+      "type": "series",
+      "id": "tt8289930:8:4",
+      "title": "tt8289930:8:4",
+      "timestamp": "2026-03-09T07:19:24.465Z",
+      "ip": "182.77.74.44",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt8289930:8:4",
+      "title": "tt8289930:8:4",
+      "timestamp": "2026-03-09T07:19:54.996Z",
+      "ip": "182.77.74.44",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -88386,11 +88386,11 @@
       "lastActive": 1771931294042
     },
     "27.107.189.26": {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
+      "type": "series",
+      "id": "tt2467372:1:1",
+      "title": "tt2467372:1:1",
       "username": "anonymous050100",
-      "lastActive": 1771934098969
+      "lastActive": 1773040711575
     },
     "27.107.175.20": {
       "type": "movie",
@@ -92860,10 +92860,10 @@
     },
     "182.77.74.44": {
       "type": "series",
-      "id": "tt1043813:1:1",
-      "title": "Titans",
+      "id": "tt8289930:8:4",
+      "title": "tt8289930:8:4",
       "username": "theaceofficials",
-      "lastActive": 1772974375063
+      "lastActive": 1773040794996
     },
     "122.161.68.50": {
       "type": "series",
