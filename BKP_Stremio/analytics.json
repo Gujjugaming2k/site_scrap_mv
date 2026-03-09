@@ -1,5 +1,5 @@
 {
-  "totalViews": 35217,
+  "totalViews": 35218,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6895,17 +6895,10 @@
     "2401:4900:77a3:22ec:24a1:25e9:70bb:7c89",
     "152.58.123.86",
     "2401:4900:7d78:9fec:d896:1275:ba70:a651",
-    "2405:201:a018:b012:6337:bd97:e6b7:2fda"
+    "2405:201:a018:b012:6337:bd97:e6b7:2fda",
+    "2a09:bac5:3af1:86e::d7:3d"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-14T13:55:06.200Z",
-      "ip": "2405:201:2022:b81c:fdf2:8b11:f15e:400",
-      "username": "zealousninja"
-    },
     {
       "type": "series",
       "id": "tt12343534:1:7",
@@ -86897,6 +86890,14 @@
       "timestamp": "2026-03-09T19:58:56.102Z",
       "ip": "2405:201:a018:b012:6337:bd97:e6b7:2fda",
       "username": "razeamii"
+    },
+    {
+      "type": "series",
+      "id": "tt0108778:9:19",
+      "title": "tt0108778:9:19",
+      "timestamp": "2026-03-09T20:10:31.679Z",
+      "ip": "2a09:bac5:3af1:86e::d7:3d",
+      "username": "switchoff009"
     }
   ],
   "activeNow": {
@@ -94963,6 +94964,13 @@
       "title": "She-Hulk: Attorney at Law",
       "username": "razeamii",
       "lastActive": 1773086336102
+    },
+    "2a09:bac5:3af1:86e::d7:3d": {
+      "type": "series",
+      "id": "tt0108778:9:19",
+      "title": "tt0108778:9:19",
+      "username": "switchoff009",
+      "lastActive": 1773087031679
     }
   }
 }
