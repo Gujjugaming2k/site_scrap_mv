@@ -1,5 +1,5 @@
 {
-  "totalViews": 34911,
+  "totalViews": 34914,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6834,30 +6834,6 @@
     "2409:40c1:4104:2477:e833:97ff:fe42:82cb"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-14T04:49:17.983Z",
-      "ip": "49.43.109.57",
-      "username": "karthik"
-    },
-    {
-      "type": "series",
-      "id": "tt0280277:3:1",
-      "title": "tt0280277:3:1",
-      "timestamp": "2026-02-14T04:51:20.764Z",
-      "ip": "2405:201:500c:4a01:e1c0:8b5a:b948:aab9",
-      "username": "karthik"
-    },
-    {
-      "type": "series",
-      "id": "tt0280277:3:1",
-      "title": "tt0280277:3:1",
-      "timestamp": "2026-02-14T04:51:20.847Z",
-      "ip": "2405:201:500c:4a01:e1c0:8b5a:b948:aab9",
-      "username": "shadow"
-    },
     {
       "type": "series",
       "id": "tt0280277:3:2",
@@ -86833,6 +86809,30 @@
       "timestamp": "2026-03-09T00:56:51.031Z",
       "ip": "2409:40c1:4104:2477:e833:97ff:fe42:82cb",
       "username": "n0_need_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt31598703",
+      "title": "tt31598703",
+      "timestamp": "2026-03-09T01:07:03.308Z",
+      "ip": "103.24.85.175",
+      "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt32357218",
+      "title": "tt32357218",
+      "timestamp": "2026-03-09T01:12:20.091Z",
+      "ip": "2409:40c1:4104:2477:e833:97ff:fe42:82cb",
+      "username": "n0_need_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt0458339",
+      "title": "Captain America: The First Avenger",
+      "timestamp": "2026-03-09T01:13:16.934Z",
+      "ip": "2409:40c1:4104:2477:e833:97ff:fe42:82cb",
+      "username": "n0_need_name"
     }
   ],
   "activeNow": {
@@ -94009,7 +94009,7 @@
       "id": "tt31598703",
       "title": "tt31598703",
       "username": "william097",
-      "lastActive": 1772991704705
+      "lastActive": 1773018423308
     },
     "103.182.135.139": {
       "type": "series",
@@ -94440,10 +94440,10 @@
     },
     "2409:40c1:4104:2477:e833:97ff:fe42:82cb": {
       "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
+      "id": "tt0458339",
+      "title": "Captain America: The First Avenger",
       "username": "n0_need_name",
-      "lastActive": 1773017811031
+      "lastActive": 1773018796934
     }
   }
 }
