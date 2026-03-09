@@ -1,5 +1,5 @@
 {
-  "totalViews": 34976,
+  "totalViews": 34979,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6838,33 +6838,11 @@
     "2401:4900:7085:a398:da33:aece:ad66:af18",
     "2405:201:5c14:2a70:fc72:51be:787e:4ffc",
     "2409:40d4:4012:b458:8000::",
-    "2405:201:e056:3828:1cee:886f:4558:deab"
+    "2405:201:e056:3828:1cee:886f:4558:deab",
+    "2a02:9b0:106:4496:2821:4a:58a1:13ee",
+    "2409:40d0:100f:1deb:d8b4:49ff:fed1:6c2d"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1190634:1:4",
-      "title": "The Boys",
-      "timestamp": "2026-02-14T06:24:12.613Z",
-      "ip": "2405:201:5c14:2a70:fd48:5220:237:e1cc",
-      "username": "extremeyat"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:3",
-      "title": "tt27497448:1:3",
-      "timestamp": "2026-02-14T06:34:31.172Z",
-      "ip": "2409:40e5:1166:cdab:9419:46ff:fe01:a42f",
-      "username": "magicmannn"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:3",
-      "title": "tt27497448:1:3",
-      "timestamp": "2026-02-14T06:36:47.637Z",
-      "ip": "2409:40e5:1166:cdab:9419:46ff:fe01:a42f",
-      "username": "magicmannn"
-    },
     {
       "type": "series",
       "id": "tt27497448:1:3",
@@ -86840,6 +86818,30 @@
       "timestamp": "2026-03-09T04:47:11.819Z",
       "ip": "2409:40c1:4104:2477:e833:97ff:fe42:82cb",
       "username": "n0_need_name"
+    },
+    {
+      "type": "channel",
+      "id": "dex_channel_1175796_ts:1:1",
+      "title": "dex_channel_1175796_ts:1:1",
+      "timestamp": "2026-03-09T05:12:05.084Z",
+      "ip": "2a02:9b0:106:4496:2821:4a:58a1:13ee",
+      "username": "hoosa500"
+    },
+    {
+      "type": "movie",
+      "id": "tt0087843",
+      "title": "tt0087843",
+      "timestamp": "2026-03-09T05:18:52.619Z",
+      "ip": "2409:40d0:100f:1deb:d8b4:49ff:fed1:6c2d",
+      "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt0087843",
+      "title": "tt0087843",
+      "timestamp": "2026-03-09T05:23:00.639Z",
+      "ip": "2409:40d0:100f:1deb:d8b4:49ff:fed1:6c2d",
+      "username": "magicmannn"
     }
   ],
   "activeNow": {
@@ -94500,6 +94502,20 @@
       "title": "tt23874444:1:1",
       "username": "zindha",
       "lastActive": 1773031022506
+    },
+    "2a02:9b0:106:4496:2821:4a:58a1:13ee": {
+      "type": "channel",
+      "id": "dex_channel_1175796_ts:1:1",
+      "title": "dex_channel_1175796_ts:1:1",
+      "username": "hoosa500",
+      "lastActive": 1773033125084
+    },
+    "2409:40d0:100f:1deb:d8b4:49ff:fed1:6c2d": {
+      "type": "movie",
+      "id": "tt0087843",
+      "title": "tt0087843",
+      "username": "magicmannn",
+      "lastActive": 1773033780639
     }
   }
 }
