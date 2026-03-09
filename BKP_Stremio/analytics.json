@@ -1,5 +1,5 @@
 {
-  "totalViews": 34910,
+  "totalViews": 34911,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6830,17 +6830,10 @@
     "2409:40f3:209e:7676:1488:d563:5dd6:9250",
     "2409:40c0:103d:2b6b:551:5f7:acd3:3d21",
     "2409:40e4:108d:2924:c127:b2f1:b50e:de",
-    "2401:4900:a8b3:21db:d810:11f8:7cff:e82c"
+    "2401:4900:a8b3:21db:d810:11f8:7cff:e82c",
+    "2409:40c1:4104:2477:e833:97ff:fe42:82cb"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-14T04:49:17.888Z",
-      "ip": "49.43.109.57",
-      "username": "shadow"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -86832,6 +86825,14 @@
       "timestamp": "2026-03-09T00:36:31.843Z",
       "ip": "103.46.200.174",
       "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-03-09T00:56:51.031Z",
+      "ip": "2409:40c1:4104:2477:e833:97ff:fe42:82cb",
+      "username": "n0_need_name"
     }
   ],
   "activeNow": {
@@ -94436,6 +94437,13 @@
       "title": "The Boys",
       "username": "extremeyat",
       "lastActive": 1773008149700
+    },
+    "2409:40c1:4104:2477:e833:97ff:fe42:82cb": {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "username": "n0_need_name",
+      "lastActive": 1773017811031
     }
   }
 }
