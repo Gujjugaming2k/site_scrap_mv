@@ -1,5 +1,5 @@
 {
-  "totalViews": 35011,
+  "totalViews": 35013,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6852,22 +6852,6 @@
     "2409:40e4:10bd:7c45:ad0a:d21b:4871:6996"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt28102595:1:2",
-      "title": "tt28102595:1:2",
-      "timestamp": "2026-02-14T07:47:29.995Z",
-      "ip": "152.58.178.208",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "movie",
-      "id": "tt33046197",
-      "title": "tt33046197",
-      "timestamp": "2026-02-14T07:48:00.909Z",
-      "ip": "49.43.4.76",
-      "username": "crazyshrijr"
-    },
     {
       "type": "movie",
       "id": "tt10648342",
@@ -86851,6 +86835,22 @@
       "timestamp": "2026-03-09T08:28:53.450Z",
       "ip": "2409:40d4:4006:ebac:8000::",
       "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt0455275:2:10",
+      "title": "Prison Break",
+      "timestamp": "2026-03-09T08:42:09.311Z",
+      "ip": "122.161.69.231",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0455275:2:11",
+      "title": "Prison Break",
+      "timestamp": "2026-03-09T08:46:37.152Z",
+      "ip": "122.161.69.231",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -94563,10 +94563,10 @@
     },
     "122.161.69.231": {
       "type": "series",
-      "id": "tt0455275:2:10",
+      "id": "tt0455275:2:11",
       "title": "Prison Break",
       "username": "dillon_ka_shooter",
-      "lastActive": 1773043108395
+      "lastActive": 1773045997152
     },
     "2409:40e4:1097:89f2:b0fc:3d2b:2f5e:64b0": {
       "type": "series",
