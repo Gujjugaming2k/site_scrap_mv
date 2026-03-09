@@ -1,5 +1,5 @@
 {
-  "totalViews": 35051,
+  "totalViews": 35056,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6860,49 +6860,10 @@
     "2401:4900:883c:7567:b817:a730:f7ee:c918",
     "2409:40c4:e1:2abb:4637:c1e0:7f55:860f",
     "2401:4900:ab83:b628:68b1:6dff:feba:eaf5",
-    "2409:40c1:3e:df53:8000::"
+    "2409:40c1:3e:df53:8000::",
+    "106.222.251.157"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt27564844",
-      "title": "tt27564844",
-      "timestamp": "2026-02-14T08:34:05.740Z",
-      "ip": "49.43.4.76",
-      "username": "crazyshrijr"
-    },
-    {
-      "type": "series",
-      "id": "tt11794812:1:2",
-      "title": "Cross",
-      "timestamp": "2026-02-14T08:34:08.767Z",
-      "ip": "175.33.245.71",
-      "username": "crazyshrijr"
-    },
-    {
-      "type": "series",
-      "id": "tt19854762:1:1",
-      "title": "tt19854762:1:1",
-      "timestamp": "2026-02-14T08:34:49.180Z",
-      "ip": "175.33.245.71",
-      "username": "crazyshrijr"
-    },
-    {
-      "type": "series",
-      "id": "tt19854762:1:2",
-      "title": "tt19854762:1:2",
-      "timestamp": "2026-02-14T08:35:06.239Z",
-      "ip": "175.33.245.71",
-      "username": "crazyshrijr"
-    },
-    {
-      "type": "movie",
-      "id": "tt33512868",
-      "title": "tt33512868",
-      "timestamp": "2026-02-14T08:35:18.959Z",
-      "ip": "2401:4900:88d5:8287:8f1:6423:2f18:1232",
-      "username": "itsvenum"
-    },
     {
       "type": "movie",
       "id": "tt33512868",
@@ -86862,6 +86823,46 @@
       "timestamp": "2026-03-09T11:37:24.286Z",
       "ip": "2409:40c1:3e:df53:8000::",
       "username": "pingmenoone"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:4:6",
+      "title": "tt0903747:4:6",
+      "timestamp": "2026-03-09T11:41:32.483Z",
+      "ip": "103.249.4.171",
+      "username": "tgh2r"
+    },
+    {
+      "type": "movie",
+      "id": "tt31852278",
+      "title": "tt31852278",
+      "timestamp": "2026-03-09T11:41:32.601Z",
+      "ip": "2409:40c4:e1:2abb:4637:c1e0:7f55:860f",
+      "username": "harshra9999"
+    },
+    {
+      "type": "series",
+      "id": "tt0455275:2:14",
+      "title": "Prison Break",
+      "timestamp": "2026-03-09T11:45:00.200Z",
+      "ip": "122.161.69.231",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt0455275:2:15",
+      "title": "Prison Break",
+      "timestamp": "2026-03-09T11:45:03.722Z",
+      "ip": "122.161.69.231",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt8599532:1:1",
+      "title": "tt8599532:1:1",
+      "timestamp": "2026-03-09T11:50:53.180Z",
+      "ip": "106.222.251.157",
+      "username": "nirbhay1412"
     }
   ],
   "activeNow": {
@@ -94574,10 +94575,10 @@
     },
     "122.161.69.231": {
       "type": "series",
-      "id": "tt0455275:2:14",
+      "id": "tt0455275:2:15",
       "title": "Prison Break",
       "username": "dillon_ka_shooter",
-      "lastActive": 1773054135366
+      "lastActive": 1773056703722
     },
     "2409:40e4:1097:89f2:b0fc:3d2b:2f5e:64b0": {
       "type": "series",
@@ -94644,10 +94645,10 @@
     },
     "103.249.4.171": {
       "type": "series",
-      "id": "tt0903747:4:5",
-      "title": "tt0903747:4:5",
+      "id": "tt0903747:4:6",
+      "title": "tt0903747:4:6",
       "username": "tgh2r",
-      "lastActive": 1773053630108
+      "lastActive": 1773056492483
     },
     "2401:4900:883c:7567:b817:a730:f7ee:c918": {
       "type": "series",
@@ -94661,7 +94662,7 @@
       "id": "tt31852278",
       "title": "tt31852278",
       "username": "harshra9999",
-      "lastActive": 1773055968687
+      "lastActive": 1773056492601
     },
     "2401:4900:ab83:b628:68b1:6dff:feba:eaf5": {
       "type": "movie",
@@ -94676,6 +94677,13 @@
       "title": "Dhurandhar",
       "username": "pingmenoone",
       "lastActive": 1773056244286
+    },
+    "106.222.251.157": {
+      "type": "series",
+      "id": "tt8599532:1:1",
+      "title": "tt8599532:1:1",
+      "username": "nirbhay1412",
+      "lastActive": 1773057053180
     }
   }
 }
