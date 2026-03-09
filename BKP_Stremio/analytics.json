@@ -1,5 +1,5 @@
 {
-  "totalViews": 35211,
+  "totalViews": 35213,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6897,22 +6897,6 @@
     "2401:4900:7d78:9fec:d896:1275:ba70:a651"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt11794812:1:1",
-      "title": "Cross",
-      "timestamp": "2026-02-14T13:42:24.183Z",
-      "ip": "2401:4900:1cb0:cfef:1da6:d75:6fc5:b23b",
-      "username": "saisrinivas"
-    },
-    {
-      "type": "series",
-      "id": "tt11794812:1:1",
-      "title": "Cross",
-      "timestamp": "2026-02-14T13:42:29.470Z",
-      "ip": "2401:4900:1cb0:cfef:1da6:d75:6fc5:b23b",
-      "username": "saisrinivas"
-    },
     {
       "type": "series",
       "id": "tt11794812:1:1",
@@ -86896,6 +86880,22 @@
       "timestamp": "2026-03-09T19:24:09.754Z",
       "ip": "2401:4900:7d78:9fec:d896:1275:ba70:a651",
       "username": "extremeyat"
+    },
+    {
+      "type": "movie",
+      "id": "tt0406310",
+      "title": "tt0406310",
+      "timestamp": "2026-03-09T19:31:34.962Z",
+      "ip": "2401:4900:77a3:22ec:24a1:25e9:70bb:7c89",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt8879928",
+      "title": "tt8879928",
+      "timestamp": "2026-03-09T19:31:58.144Z",
+      "ip": "2401:4900:77a3:22ec:24a1:25e9:70bb:7c89",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -94930,10 +94930,10 @@
     },
     "2401:4900:77a3:22ec:24a1:25e9:70bb:7c89": {
       "type": "movie",
-      "id": "tt26443616",
-      "title": "tt26443616",
+      "id": "tt8879928",
+      "title": "tt8879928",
       "username": "theonlyfreak",
-      "lastActive": 1773083191747
+      "lastActive": 1773084718144
     },
     "152.58.123.86": {
       "type": "movie",
