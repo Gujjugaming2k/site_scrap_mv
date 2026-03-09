@@ -1,5 +1,5 @@
 {
-  "totalViews": 35065,
+  "totalViews": 35068,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6863,33 +6863,10 @@
     "2409:40c1:3e:df53:8000::",
     "106.222.251.157",
     "2409:40e0:1a:6935:ec9f:ae9e:c325:210b",
-    "115.98.233.132"
+    "115.98.233.132",
+    "2405:201:6820:a83c:cd6d:6ab:ebaa:ff38"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt2306299:1:1",
-      "title": "tt2306299:1:1",
-      "timestamp": "2026-02-14T08:57:12.904Z",
-      "ip": "2409:40c1:15:b93c:8000::",
-      "username": "belimhuzaifa"
-    },
-    {
-      "type": "series",
-      "id": "tt31844233:1:1",
-      "title": "tt31844233:1:1",
-      "timestamp": "2026-02-14T08:57:31.761Z",
-      "ip": "2401:4900:88d5:8287:8f1:6423:2f18:1232",
-      "username": "itsvenum"
-    },
-    {
-      "type": "series",
-      "id": "tt31844233:1:1",
-      "title": "tt31844233:1:1",
-      "timestamp": "2026-02-14T08:57:31.884Z",
-      "ip": "2401:4900:88d5:8287:8f1:6423:2f18:1232",
-      "username": "itsvenum"
-    },
     {
       "type": "series",
       "id": "tt9140554:1:1",
@@ -86865,6 +86842,30 @@
       "timestamp": "2026-03-09T12:21:51.931Z",
       "ip": "106.222.251.157",
       "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt8599532:1:1",
+      "title": "tt8599532:1:1",
+      "timestamp": "2026-03-09T12:27:51.465Z",
+      "ip": "106.222.251.157",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt1457767",
+      "title": "The Conjuring",
+      "timestamp": "2026-03-09T12:39:23.974Z",
+      "ip": "2405:201:6820:a83c:cd6d:6ab:ebaa:ff38",
+      "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt22898462",
+      "title": "The Conjuring: Last Rites",
+      "timestamp": "2026-03-09T12:39:59.032Z",
+      "ip": "2405:201:6820:a83c:cd6d:6ab:ebaa:ff38",
+      "username": "demon18319"
     }
   ],
   "activeNow": {
@@ -94682,10 +94683,10 @@
     },
     "106.222.251.157": {
       "type": "series",
-      "id": "tt9335498:2:4",
-      "title": "tt9335498:2:4",
+      "id": "tt8599532:1:1",
+      "title": "tt8599532:1:1",
       "username": "nirbhay1412",
-      "lastActive": 1773058911931
+      "lastActive": 1773059271465
     },
     "2409:40e0:1a:6935:ec9f:ae9e:c325:210b": {
       "type": "movie",
@@ -94700,6 +94701,13 @@
       "title": "tt1341338",
       "username": "insnaee99",
       "lastActive": 1773058435247
+    },
+    "2405:201:6820:a83c:cd6d:6ab:ebaa:ff38": {
+      "type": "movie",
+      "id": "tt22898462",
+      "title": "The Conjuring: Last Rites",
+      "username": "demon18319",
+      "lastActive": 1773059999032
     }
   }
 }
