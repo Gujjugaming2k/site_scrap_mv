@@ -1,5 +1,5 @@
 {
-  "totalViews": 35147,
+  "totalViews": 35148,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6884,17 +6884,10 @@
     "2001:4490:488d:23f:3102:6a0a:f0cc:a2fd",
     "2401:4900:7d78:9fec:7d18:cfb4:304c:1174",
     "2409:40c1:31d4:ee92:8875:aaff:fe96:1e70",
-    "2409:40c0:1072:d522:e9b6:6732:3e9:f85a"
+    "2409:40c0:1072:d522:e9b6:6732:3e9:f85a",
+    "2409:40d4:10ce:8d21:6050:a76d:aa72:af16"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt8962124:5:4",
-      "title": "tt8962124:5:4",
-      "timestamp": "2026-02-14T10:40:26.872Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
     {
       "type": "series",
       "id": "tt8962124:5:3",
@@ -86886,6 +86879,14 @@
       "timestamp": "2026-03-09T16:16:36.706Z",
       "ip": "2409:40c0:1072:d522:e9b6:6732:3e9:f85a",
       "username": "anonymous050100"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-03-09T16:20:50.163Z",
+      "ip": "2409:40d4:10ce:8d21:6050:a76d:aa72:af16",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -94868,6 +94869,13 @@
       "title": "tt2467372:1:1",
       "username": "anonymous050100",
       "lastActive": 1773072996706
+    },
+    "2409:40d4:10ce:8d21:6050:a76d:aa72:af16": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "gaendaswami",
+      "lastActive": 1773073250163
     }
   }
 }
