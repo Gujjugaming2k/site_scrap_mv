@@ -1,5 +1,5 @@
 {
-  "totalViews": 34975,
+  "totalViews": 34976,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6841,14 +6841,6 @@
     "2405:201:e056:3828:1cee:886f:4558:deab"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27497448:1:5",
-      "title": "tt27497448:1:5",
-      "timestamp": "2026-02-14T06:23:50.632Z",
-      "ip": "2405:201:5c14:2a70:fd48:5220:237:e1cc",
-      "username": "extremeyat"
-    },
     {
       "type": "series",
       "id": "tt1190634:1:4",
@@ -86840,6 +86832,14 @@
       "timestamp": "2026-03-09T04:37:02.506Z",
       "ip": "2405:201:e056:3828:1cee:886f:4558:deab",
       "username": "zindha"
+    },
+    {
+      "type": "movie",
+      "id": "tt0099785",
+      "title": "Home Alone",
+      "timestamp": "2026-03-09T04:47:11.819Z",
+      "ip": "2409:40c1:4104:2477:e833:97ff:fe42:82cb",
+      "username": "n0_need_name"
     }
   ],
   "activeNow": {
@@ -94450,7 +94450,7 @@
       "id": "tt0099785",
       "title": "Home Alone",
       "username": "n0_need_name",
-      "lastActive": 1773022673841
+      "lastActive": 1773031631819
     },
     "2401:4900:88ba:fd30:f00a:1138:894a:d2b4": {
       "type": "movie",
