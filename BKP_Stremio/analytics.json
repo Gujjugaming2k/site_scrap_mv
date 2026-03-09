@@ -1,5 +1,5 @@
 {
-  "totalViews": 35213,
+  "totalViews": 35214,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6897,14 +6897,6 @@
     "2401:4900:7d78:9fec:d896:1275:ba70:a651"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt11794812:1:1",
-      "title": "Cross",
-      "timestamp": "2026-02-14T13:43:40.955Z",
-      "ip": "2401:4900:1cb0:cfef:1da6:d75:6fc5:b23b",
-      "username": "saisrinivas"
-    },
     {
       "type": "series",
       "id": "tt0944947:1:2",
@@ -86896,6 +86888,14 @@
       "timestamp": "2026-03-09T19:31:58.144Z",
       "ip": "2401:4900:77a3:22ec:24a1:25e9:70bb:7c89",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt13818368",
+      "title": "tt13818368",
+      "timestamp": "2026-03-09T19:40:30.283Z",
+      "ip": "2402:a00:182:1828:a1b0:64eb:a997:aa05",
+      "username": "asj90"
     }
   ],
   "activeNow": {
@@ -94948,6 +94948,13 @@
       "title": "The Boys",
       "username": "extremeyat",
       "lastActive": 1773084249754
+    },
+    "2402:a00:182:1828:a1b0:64eb:a997:aa05": {
+      "type": "movie",
+      "id": "tt13818368",
+      "title": "tt13818368",
+      "username": "asj90",
+      "lastActive": 1773085230283
     }
   }
 }
