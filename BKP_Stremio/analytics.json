@@ -1,5 +1,5 @@
 {
-  "totalViews": 35218,
+  "totalViews": 35220,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6899,22 +6899,6 @@
     "2a09:bac5:3af1:86e::d7:3d"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt12343534:1:7",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-02-14T13:58:17.869Z",
-      "ip": "2402:3a80:4412:4b9:dc73:1bda:34e8:4f78",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:3:7",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-02-14T13:58:26.597Z",
-      "ip": "2402:3a80:4412:4b9:dc73:1bda:34e8:4f78",
-      "username": "gendaswammy"
-    },
     {
       "type": "series",
       "id": "tt7221388:1:1",
@@ -86898,6 +86882,22 @@
       "timestamp": "2026-03-09T20:10:31.679Z",
       "ip": "2a09:bac5:3af1:86e::d7:3d",
       "username": "switchoff009"
+    },
+    {
+      "type": "series",
+      "id": "tt10062292:2:9",
+      "title": "Never Have I Ever",
+      "timestamp": "2026-03-09T20:35:23.491Z",
+      "ip": "182.77.74.44",
+      "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt10062292:2:9",
+      "title": "Never Have I Ever",
+      "timestamp": "2026-03-09T20:37:16.855Z",
+      "ip": "182.77.74.44",
+      "username": "theaceofficials"
     }
   ],
   "activeNow": {
@@ -92909,10 +92909,10 @@
     },
     "182.77.74.44": {
       "type": "series",
-      "id": "tt10062292:2:10",
+      "id": "tt10062292:2:9",
       "title": "Never Have I Ever",
       "username": "theaceofficials",
-      "lastActive": 1773076143352
+      "lastActive": 1773088636855
     },
     "122.161.68.50": {
       "type": "series",
