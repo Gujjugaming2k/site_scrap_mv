@@ -1,5 +1,5 @@
 {
-  "totalViews": 35207,
+  "totalViews": 35211,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6892,41 +6892,11 @@
     "2001:41d0:700:6add::35a1",
     "2409:40f3:2049:a5de:9d3c:700a:951d:d199",
     "163.223.102.249",
-    "2401:4900:77a3:22ec:24a1:25e9:70bb:7c89"
+    "2401:4900:77a3:22ec:24a1:25e9:70bb:7c89",
+    "152.58.123.86",
+    "2401:4900:7d78:9fec:d896:1275:ba70:a651"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt0367110",
-      "title": "tt0367110",
-      "timestamp": "2026-02-14T13:34:02.173Z",
-      "ip": "2405:201:2022:b81c:fdf2:8b11:f15e:400",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt33307516",
-      "title": "tt33307516",
-      "timestamp": "2026-02-14T13:35:23.564Z",
-      "ip": "94.156.30.202",
-      "username": "b1jju"
-    },
-    {
-      "type": "series",
-      "id": "tt21066182:1:1",
-      "title": "tt21066182:1:1",
-      "timestamp": "2026-02-14T13:36:44.333Z",
-      "ip": "2401:4900:74e1:e65a:ec17:53ff:feb9:79ab",
-      "username": "william097"
-    },
-    {
-      "type": "movie",
-      "id": "tt36463894",
-      "title": "Predator: Killer of Killers",
-      "timestamp": "2026-02-14T13:40:46.445Z",
-      "ip": "2409:4080:be07:5848:b165:fe74:4e20:dd0a",
-      "username": "surti_lala"
-    },
     {
       "type": "series",
       "id": "tt11794812:1:1",
@@ -86894,6 +86864,38 @@
       "timestamp": "2026-03-09T19:06:31.747Z",
       "ip": "2401:4900:77a3:22ec:24a1:25e9:70bb:7c89",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt0758758",
+      "title": "Into the Wild",
+      "timestamp": "2026-03-09T19:11:43.081Z",
+      "ip": "152.58.123.86",
+      "username": "cruezxsp"
+    },
+    {
+      "type": "movie",
+      "id": "tt0758758",
+      "title": "Into the Wild",
+      "timestamp": "2026-03-09T19:13:07.398Z",
+      "ip": "152.58.123.86",
+      "username": "cruezxsp"
+    },
+    {
+      "type": "movie",
+      "id": "tt0758758",
+      "title": "Into the Wild",
+      "timestamp": "2026-03-09T19:13:10.620Z",
+      "ip": "152.58.123.86",
+      "username": "cruezxsp"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:2:4",
+      "title": "The Boys",
+      "timestamp": "2026-03-09T19:24:09.754Z",
+      "ip": "2401:4900:7d78:9fec:d896:1275:ba70:a651",
+      "username": "extremeyat"
     }
   ],
   "activeNow": {
@@ -94932,6 +94934,20 @@
       "title": "tt26443616",
       "username": "theonlyfreak",
       "lastActive": 1773083191747
+    },
+    "152.58.123.86": {
+      "type": "movie",
+      "id": "tt0758758",
+      "title": "Into the Wild",
+      "username": "cruezxsp",
+      "lastActive": 1773083590620
+    },
+    "2401:4900:7d78:9fec:d896:1275:ba70:a651": {
+      "type": "series",
+      "id": "tt1190634:2:4",
+      "title": "The Boys",
+      "username": "extremeyat",
+      "lastActive": 1773084249754
     }
   }
 }
