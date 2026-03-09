@@ -1,5 +1,5 @@
 {
-  "totalViews": 35237,
+  "totalViews": 35240,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6897,33 +6897,10 @@
     "2401:4900:7d78:9fec:d896:1275:ba70:a651",
     "2405:201:a018:b012:6337:bd97:e6b7:2fda",
     "2a09:bac5:3af1:86e::d7:3d",
-    "109.76.34.156"
+    "109.76.34.156",
+    "2401:4900:57fc:fb6a:14b2:18ff:fe8c:d657"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30176955",
-      "title": "tt30176955",
-      "timestamp": "2026-02-14T14:44:31.782Z",
-      "ip": "139.5.196.103",
-      "username": "dillon_ka_shooter"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:8:4",
-      "title": "Game of Thrones",
-      "timestamp": "2026-02-14T14:45:29.455Z",
-      "ip": "106.200.2.115",
-      "username": "itsvenum"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:8:4",
-      "title": "Game of Thrones",
-      "timestamp": "2026-02-14T14:48:26.383Z",
-      "ip": "106.200.2.115",
-      "username": "itsvenum"
-    },
     {
       "type": "movie",
       "id": "tt31969600",
@@ -86899,6 +86876,30 @@
       "timestamp": "2026-03-09T21:08:32.388Z",
       "ip": "109.76.34.156",
       "username": "sid_g"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:2:4",
+      "title": "The Boys",
+      "timestamp": "2026-03-09T21:13:59.375Z",
+      "ip": "2401:4900:7d78:9fec:7d18:cfb4:304c:1174",
+      "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt0455275:2:16",
+      "title": "Prison Break",
+      "timestamp": "2026-03-09T21:14:47.043Z",
+      "ip": "122.161.69.231",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt13918776:3:2",
+      "title": "The Night Agent",
+      "timestamp": "2026-03-09T21:23:07.018Z",
+      "ip": "2401:4900:57fc:fb6a:14b2:18ff:fe8c:d657",
+      "username": "insnaee99"
     }
   ],
   "activeNow": {
@@ -94611,10 +94612,10 @@
     },
     "122.161.69.231": {
       "type": "series",
-      "id": "tt0455275:2:15",
+      "id": "tt0455275:2:16",
       "title": "Prison Break",
       "username": "dillon_ka_shooter",
-      "lastActive": 1773056703722
+      "lastActive": 1773090887043
     },
     "2409:40e4:1097:89f2:b0fc:3d2b:2f5e:64b0": {
       "type": "series",
@@ -94863,10 +94864,10 @@
     },
     "2401:4900:7d78:9fec:7d18:cfb4:304c:1174": {
       "type": "series",
-      "id": "tt11198330:1:1",
-      "title": "House of the Dragon",
+      "id": "tt1190634:2:4",
+      "title": "The Boys",
       "username": "extremeyat",
-      "lastActive": 1773082065549
+      "lastActive": 1773090839375
     },
     "2409:40c1:31d4:ee92:8875:aaff:fe96:1e70": {
       "type": "movie",
@@ -94979,6 +94980,13 @@
       "title": "tt17220216:1:1",
       "username": "sid_g",
       "lastActive": 1773090512388
+    },
+    "2401:4900:57fc:fb6a:14b2:18ff:fe8c:d657": {
+      "type": "series",
+      "id": "tt13918776:3:2",
+      "title": "The Night Agent",
+      "username": "insnaee99",
+      "lastActive": 1773091387018
     }
   }
 }
