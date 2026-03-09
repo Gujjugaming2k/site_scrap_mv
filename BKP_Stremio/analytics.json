@@ -1,5 +1,5 @@
 {
-  "totalViews": 35013,
+  "totalViews": 35016,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6849,33 +6849,10 @@
     "122.161.69.231",
     "2409:40e4:1097:89f2:b0fc:3d2b:2f5e:64b0",
     "2409:40d4:168:5788:6ce2:fcff:fe75:7705",
-    "2409:40e4:10bd:7c45:ad0a:d21b:4871:6996"
+    "2409:40e4:10bd:7c45:ad0a:d21b:4871:6996",
+    "2401:4900:792a:1d9f:edd1:2a91:70a1:61a0"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt10648342",
-      "title": "Thor: Love and Thunder",
-      "timestamp": "2026-02-14T07:50:42.078Z",
-      "ip": "106.200.2.115",
-      "username": "itsvenum"
-    },
-    {
-      "type": "movie",
-      "id": "tt1324059",
-      "title": "tt1324059",
-      "timestamp": "2026-02-14T07:53:26.142Z",
-      "ip": "2401:4900:8f70:85c:6fb9:aa28:d26:5f18",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt1324059",
-      "title": "tt1324059",
-      "timestamp": "2026-02-14T07:53:26.220Z",
-      "ip": "2401:4900:8f70:85c:6fb9:aa28:d26:5f18",
-      "username": "iknowthat"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -86851,6 +86828,30 @@
       "timestamp": "2026-03-09T08:46:37.152Z",
       "ip": "122.161.69.231",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt1341338",
+      "title": "tt1341338",
+      "timestamp": "2026-03-09T08:51:56.724Z",
+      "ip": "2401:4900:792a:1d9f:edd1:2a91:70a1:61a0",
+      "username": "gendaswammy"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:2",
+      "title": "tt0903747:1:2",
+      "timestamp": "2026-03-09T08:52:20.441Z",
+      "ip": "2409:40e4:10bd:7c45:ad0a:d21b:4871:6996",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-03-09T08:53:19.814Z",
+      "ip": "2405:201:6836:30c0:3917:1c37:a272:440",
+      "username": "xlr8boiiii"
     }
   ],
   "activeNow": {
@@ -94178,10 +94179,10 @@
     },
     "2405:201:6836:30c0:3917:1c37:a272:440": {
       "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
+      "id": "tt32916440",
+      "title": "tt32916440",
       "username": "xlr8boiiii",
-      "lastActive": 1772950788656
+      "lastActive": 1773046399814
     },
     "2409:40e2:10c4:318e:497d:f581:6b39:24a2": {
       "type": "movie",
@@ -94584,10 +94585,17 @@
     },
     "2409:40e4:10bd:7c45:ad0a:d21b:4871:6996": {
       "type": "series",
-      "id": "tt0903747:1:1",
-      "title": "tt0903747:1:1",
+      "id": "tt0903747:1:2",
+      "title": "tt0903747:1:2",
       "username": "askchm",
-      "lastActive": 1773044691988
+      "lastActive": 1773046340441
+    },
+    "2401:4900:792a:1d9f:edd1:2a91:70a1:61a0": {
+      "type": "movie",
+      "id": "tt1341338",
+      "title": "tt1341338",
+      "username": "gendaswammy",
+      "lastActive": 1773046316724
     }
   }
 }
