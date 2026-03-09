@@ -1,5 +1,5 @@
 {
-  "totalViews": 35000,
+  "totalViews": 35002,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6847,25 +6847,10 @@
     "2409:40d4:4006:ebac:8000::",
     "117.241.210.55",
     "122.161.69.231",
-    "2409:40e4:1097:89f2:b0fc:3d2b:2f5e:64b0"
+    "2409:40e4:1097:89f2:b0fc:3d2b:2f5e:64b0",
+    "2409:40d4:168:5788:6ce2:fcff:fe75:7705"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt23790696",
-      "title": "tt23790696",
-      "timestamp": "2026-02-14T07:30:31.306Z",
-      "ip": "2401:4900:88ba:ef47:c292:7613:d405:4e29",
-      "username": "b1jju"
-    },
-    {
-      "type": "movie",
-      "id": "tt35146696",
-      "title": "tt35146696",
-      "timestamp": "2026-02-14T07:30:50.810Z",
-      "ip": "2401:4900:88ba:ef47:c292:7613:d405:4e29",
-      "username": "iknowthat"
-    },
     {
       "type": "movie",
       "id": "tt35146696",
@@ -86849,6 +86834,22 @@
       "timestamp": "2026-03-09T07:19:54.996Z",
       "ip": "182.77.74.44",
       "username": "theaceofficials"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:1",
+      "title": "tt0903747:1:1",
+      "timestamp": "2026-03-09T07:31:41.711Z",
+      "ip": "2409:40e4:1097:89f2:b0fc:3d2b:2f5e:64b0",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt11173332",
+      "title": "tt11173332",
+      "timestamp": "2026-03-09T07:35:54.666Z",
+      "ip": "2409:40d4:168:5788:6ce2:fcff:fe75:7705",
+      "username": "vk986"
     }
   ],
   "activeNow": {
@@ -94568,10 +94569,17 @@
     },
     "2409:40e4:1097:89f2:b0fc:3d2b:2f5e:64b0": {
       "type": "series",
-      "id": "tt26693803:1:4",
-      "title": "tt26693803:1:4",
+      "id": "tt0903747:1:1",
+      "title": "tt0903747:1:1",
       "username": "askchm",
-      "lastActive": 1773040239214
+      "lastActive": 1773041501711
+    },
+    "2409:40d4:168:5788:6ce2:fcff:fe75:7705": {
+      "type": "movie",
+      "id": "tt11173332",
+      "title": "tt11173332",
+      "username": "vk986",
+      "lastActive": 1773041754666
     }
   }
 }
