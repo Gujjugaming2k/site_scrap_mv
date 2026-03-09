@@ -1,5 +1,5 @@
 {
-  "totalViews": 35077,
+  "totalViews": 35079,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6869,25 +6869,10 @@
     "119.234.29.200",
     "2405:201:2022:b81c:95ca:e287:efd9:76f4",
     "2409:40e0:21:9aaf:ec9f:ae9e:c325:210b",
-    "2405:201:2022:b81c:b42c:73d0:e869:c5d2"
+    "2405:201:2022:b81c:b42c:73d0:e869:c5d2",
+    "45.146.54.134"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32642706",
-      "title": "tt32642706",
-      "timestamp": "2026-02-14T09:08:32.172Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "movie",
-      "id": "tt1324059",
-      "title": "tt1324059",
-      "timestamp": "2026-02-14T09:12:05.407Z",
-      "ip": "2401:4900:8f70:85c:4e44:db1d:3f9e:8df0",
-      "username": "b1jju"
-    },
     {
       "type": "movie",
       "id": "tt1324059",
@@ -86871,6 +86856,22 @@
       "timestamp": "2026-03-09T13:05:28.491Z",
       "ip": "2405:201:2022:b81c:b42c:73d0:e869:c5d2",
       "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt0070047",
+      "title": "tt0070047",
+      "timestamp": "2026-03-09T13:11:08.022Z",
+      "ip": "2409:40e0:21:9aaf:ec9f:ae9e:c325:210b",
+      "username": "nobody_is_my_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt0406310",
+      "title": "tt0406310",
+      "timestamp": "2026-03-09T13:19:29.319Z",
+      "ip": "45.146.54.134",
+      "username": "theonlyfreak"
     }
   ],
   "activeNow": {
@@ -94737,10 +94738,10 @@
     },
     "2409:40e0:21:9aaf:ec9f:ae9e:c325:210b": {
       "type": "movie",
-      "id": "tt31434030",
-      "title": "Dracula",
+      "id": "tt0070047",
+      "title": "tt0070047",
       "username": "nobody_is_my_name",
-      "lastActive": 1773061293420
+      "lastActive": 1773061868022
     },
     "2405:201:2022:b81c:b42c:73d0:e869:c5d2": {
       "type": "movie",
@@ -94748,6 +94749,13 @@
       "title": "tt0422091",
       "username": "zealousninja",
       "lastActive": 1773061528491
+    },
+    "45.146.54.134": {
+      "type": "movie",
+      "id": "tt0406310",
+      "title": "tt0406310",
+      "username": "theonlyfreak",
+      "lastActive": 1773062369319
     }
   }
 }
