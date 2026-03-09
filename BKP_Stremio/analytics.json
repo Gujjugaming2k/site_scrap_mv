@@ -1,5 +1,5 @@
 {
-  "totalViews": 35071,
+  "totalViews": 35077,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6865,57 +6865,13 @@
     "2409:40e0:1a:6935:ec9f:ae9e:c325:210b",
     "115.98.233.132",
     "2405:201:6820:a83c:cd6d:6ab:ebaa:ff38",
-    "2409:40d4:4027:db49:4e04:b053:85ad:aa31"
+    "2409:40d4:4027:db49:4e04:b053:85ad:aa31",
+    "119.234.29.200",
+    "2405:201:2022:b81c:95ca:e287:efd9:76f4",
+    "2409:40e0:21:9aaf:ec9f:ae9e:c325:210b",
+    "2405:201:2022:b81c:b42c:73d0:e869:c5d2"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30387012",
-      "title": "tt30387012",
-      "timestamp": "2026-02-14T08:59:09.811Z",
-      "ip": "2401:4900:88d5:8287:8f1:6423:2f18:1232",
-      "username": "itsvenum"
-    },
-    {
-      "type": "movie",
-      "id": "tt31969779",
-      "title": "tt31969779",
-      "timestamp": "2026-02-14T09:00:18.509Z",
-      "ip": "43.231.58.186",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt0108778:9:13",
-      "title": "tt0108778:9:13",
-      "timestamp": "2026-02-14T09:01:46.070Z",
-      "ip": "2a09:bac5:3af1:1a8c::2a5:102",
-      "username": "switchoff009"
-    },
-    {
-      "type": "movie",
-      "id": "tt15464188",
-      "title": "tt15464188",
-      "timestamp": "2026-02-14T09:02:42.099Z",
-      "ip": "103.24.85.184",
-      "username": "william097"
-    },
-    {
-      "type": "series",
-      "id": "tt39013436:1:60",
-      "title": "tt39013436:1:60",
-      "timestamp": "2026-02-14T09:04:05.823Z",
-      "ip": "2409:40c1:2158:5c46:f179:5a12:839e:b2c2",
-      "username": "gendaswammy"
-    },
-    {
-      "type": "series",
-      "id": "tt0108778:9:14",
-      "title": "tt0108778:9:14",
-      "timestamp": "2026-02-14T09:04:52.863Z",
-      "ip": "171.61.165.201",
-      "username": "switchoff009"
-    },
     {
       "type": "movie",
       "id": "tt32642706",
@@ -86867,6 +86823,54 @@
       "timestamp": "2026-03-09T12:54:23.811Z",
       "ip": "2409:40d4:4027:db49:4e04:b053:85ad:aa31",
       "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt15940132",
+      "title": "tt15940132",
+      "timestamp": "2026-03-09T12:55:50.365Z",
+      "ip": "119.234.29.200",
+      "username": "bala"
+    },
+    {
+      "type": "movie",
+      "id": "tt32916440",
+      "title": "tt32916440",
+      "timestamp": "2026-03-09T12:57:58.240Z",
+      "ip": "2405:201:2022:b81c:95ca:e287:efd9:76f4",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt0422091",
+      "title": "tt0422091",
+      "timestamp": "2026-03-09T12:58:45.686Z",
+      "ip": "2405:201:2022:b81c:95ca:e287:efd9:76f4",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt0422091",
+      "title": "tt0422091",
+      "timestamp": "2026-03-09T12:59:19.326Z",
+      "ip": "2405:201:2022:b81c:95ca:e287:efd9:76f4",
+      "username": "zealousninja"
+    },
+    {
+      "type": "movie",
+      "id": "tt31434030",
+      "title": "Dracula",
+      "timestamp": "2026-03-09T13:01:33.420Z",
+      "ip": "2409:40e0:21:9aaf:ec9f:ae9e:c325:210b",
+      "username": "nobody_is_my_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt0422091",
+      "title": "tt0422091",
+      "timestamp": "2026-03-09T13:05:28.491Z",
+      "ip": "2405:201:2022:b81c:b42c:73d0:e869:c5d2",
+      "username": "zealousninja"
     }
   ],
   "activeNow": {
@@ -94716,6 +94720,34 @@
       "title": "Stranger Things",
       "username": "kdbotz",
       "lastActive": 1773060863811
+    },
+    "119.234.29.200": {
+      "type": "movie",
+      "id": "tt15940132",
+      "title": "tt15940132",
+      "username": "bala",
+      "lastActive": 1773060950365
+    },
+    "2405:201:2022:b81c:95ca:e287:efd9:76f4": {
+      "type": "movie",
+      "id": "tt0422091",
+      "title": "tt0422091",
+      "username": "zealousninja",
+      "lastActive": 1773061159326
+    },
+    "2409:40e0:21:9aaf:ec9f:ae9e:c325:210b": {
+      "type": "movie",
+      "id": "tt31434030",
+      "title": "Dracula",
+      "username": "nobody_is_my_name",
+      "lastActive": 1773061293420
+    },
+    "2405:201:2022:b81c:b42c:73d0:e869:c5d2": {
+      "type": "movie",
+      "id": "tt0422091",
+      "title": "tt0422091",
+      "username": "zealousninja",
+      "lastActive": 1773061528491
     }
   }
 }
