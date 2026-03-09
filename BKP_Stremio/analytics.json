@@ -1,5 +1,5 @@
 {
-  "totalViews": 34945,
+  "totalViews": 34948,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6831,33 +6831,10 @@
     "2409:40c0:103d:2b6b:551:5f7:acd3:3d21",
     "2409:40e4:108d:2924:c127:b2f1:b50e:de",
     "2401:4900:a8b3:21db:d810:11f8:7cff:e82c",
-    "2409:40c1:4104:2477:e833:97ff:fe42:82cb"
+    "2409:40c1:4104:2477:e833:97ff:fe42:82cb",
+    "2401:4900:88ba:fd30:f00a:1138:894a:d2b4"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt1705772",
-      "title": "tt1705772",
-      "timestamp": "2026-02-14T05:36:42.030Z",
-      "ip": "38.224.232.109",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt38109700",
-      "title": "tt38109700",
-      "timestamp": "2026-02-14T05:37:24.717Z",
-      "ip": "38.224.232.109",
-      "username": "thala_75"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-14T05:40:31.204Z",
-      "ip": "2405:201:6836:30eb:2db1:78fb:6f6f:af8e",
-      "username": "xlr8boiiii"
-    },
     {
       "type": "movie",
       "id": "tt31227572",
@@ -86833,6 +86810,30 @@
       "timestamp": "2026-03-09T02:17:53.841Z",
       "ip": "2409:40c1:4104:2477:e833:97ff:fe42:82cb",
       "username": "n0_need_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
+      "timestamp": "2026-03-09T02:23:28.875Z",
+      "ip": "103.46.200.174",
+      "username": "katdenningssss"
+    },
+    {
+      "type": "movie",
+      "id": "tt13818368",
+      "title": "tt13818368",
+      "timestamp": "2026-03-09T02:31:29.410Z",
+      "ip": "2401:4900:88ba:fd30:f00a:1138:894a:d2b4",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt13818368",
+      "title": "tt13818368",
+      "timestamp": "2026-03-09T02:31:54.871Z",
+      "ip": "2401:4900:88ba:fd30:f00a:1138:894a:d2b4",
+      "username": "b1jju"
     }
   ],
   "activeNow": {
@@ -93614,10 +93615,10 @@
     },
     "103.46.200.174": {
       "type": "movie",
-      "id": "tt31852278",
-      "title": "tt31852278",
+      "id": "tt0111161",
+      "title": "The Shawshank Redemption",
       "username": "katdenningssss",
-      "lastActive": 1773016591843
+      "lastActive": 1773023008875
     },
     "2409:40d2:304c:2c91:11b:e2d2:e88f:ce62": {
       "type": "series",
@@ -94444,6 +94445,13 @@
       "title": "Home Alone",
       "username": "n0_need_name",
       "lastActive": 1773022673841
+    },
+    "2401:4900:88ba:fd30:f00a:1138:894a:d2b4": {
+      "type": "movie",
+      "id": "tt13818368",
+      "title": "tt13818368",
+      "username": "b1jju",
+      "lastActive": 1773023514871
     }
   }
 }
