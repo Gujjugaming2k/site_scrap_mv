@@ -1,5 +1,5 @@
 {
-  "totalViews": 34961,
+  "totalViews": 34967,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6835,57 +6835,10 @@
     "2401:4900:88ba:fd30:f00a:1138:894a:d2b4",
     "2405:201:6820:a83c:d9e4:f940:ef04:96ad",
     "2409:40e2:20ba:24e4:497d:f581:6b39:24a2",
-    "2401:4900:7085:a398:da33:aece:ad66:af18"
+    "2401:4900:7085:a398:da33:aece:ad66:af18",
+    "2405:201:5c14:2a70:fc72:51be:787e:4ffc"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt14186672:2:4",
-      "title": "tt14186672:2:4",
-      "timestamp": "2026-02-14T05:57:01.404Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "movie",
-      "id": "tt36331860",
-      "title": "tt36331860",
-      "timestamp": "2026-02-14T05:59:43.563Z",
-      "ip": "2404:3100:1c03:12df:1:0:d44b:cf0a",
-      "username": "hvre2"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:4",
-      "title": "tt27497448:1:4",
-      "timestamp": "2026-02-14T06:00:21.385Z",
-      "ip": "49.36.233.156",
-      "username": "extremeyat"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:5",
-      "title": "tt27497448:1:5",
-      "timestamp": "2026-02-14T06:00:45.698Z",
-      "ip": "49.36.233.156",
-      "username": "extremeyat"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-14T06:01:31.900Z",
-      "ip": "2409:40e6:2a:8002:d46e:96ff:fecb:9ed2",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-14T06:02:23.169Z",
-      "ip": "2409:40e6:2a:8002:d46e:96ff:fecb:9ed2",
-      "username": "nabakun24"
-    },
     {
       "type": "movie",
       "id": "tt31227572",
@@ -86837,6 +86790,54 @@
       "timestamp": "2026-03-09T03:23:16.184Z",
       "ip": "2401:4900:7085:a398:da33:aece:ad66:af18",
       "username": "karan270101"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:2:1",
+      "title": "The Boys",
+      "timestamp": "2026-03-09T03:26:48.744Z",
+      "ip": "2405:201:5c14:2a70:fc72:51be:787e:4ffc",
+      "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt8599532:1:1",
+      "title": "tt8599532:1:1",
+      "timestamp": "2026-03-09T03:27:24.654Z",
+      "ip": "106.222.251.213",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt9335498:2:3",
+      "title": "tt9335498:2:3",
+      "timestamp": "2026-03-09T03:28:17.951Z",
+      "ip": "106.222.251.213",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt38123566",
+      "title": "tt38123566",
+      "timestamp": "2026-03-09T03:30:06.905Z",
+      "ip": "106.222.251.213",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt31852278",
+      "title": "tt31852278",
+      "timestamp": "2026-03-09T03:31:08.881Z",
+      "ip": "106.222.251.213",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:2:2",
+      "title": "The Boys",
+      "timestamp": "2026-03-09T03:37:34.024Z",
+      "ip": "2405:201:5c14:2a70:fc72:51be:787e:4ffc",
+      "username": "extremeyat"
     }
   ],
   "activeNow": {
@@ -94002,11 +94003,11 @@
       "lastActive": 1772902870294
     },
     "106.222.251.213": {
-      "type": "series",
-      "id": "tt8599532:1:1",
-      "title": "tt8599532:1:1",
+      "type": "movie",
+      "id": "tt31852278",
+      "title": "tt31852278",
       "username": "nirbhay1412",
-      "lastActive": 1773026585569
+      "lastActive": 1773027068881
     },
     "103.24.85.175": {
       "type": "series",
@@ -94476,6 +94477,13 @@
       "title": "tt1196946:1:1",
       "username": "karan270101",
       "lastActive": 1773026596184
+    },
+    "2405:201:5c14:2a70:fc72:51be:787e:4ffc": {
+      "type": "series",
+      "id": "tt1190634:2:2",
+      "title": "The Boys",
+      "username": "extremeyat",
+      "lastActive": 1773027454024
     }
   }
 }
