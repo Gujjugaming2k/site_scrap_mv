@@ -1,5 +1,5 @@
 {
-  "totalViews": 34919,
+  "totalViews": 34921,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6834,22 +6834,6 @@
     "2409:40c1:4104:2477:e833:97ff:fe42:82cb"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0988824:1:1",
-      "title": "tt0988824:1:1",
-      "timestamp": "2026-02-14T04:53:35.394Z",
-      "ip": "2405:201:500c:4a01:e1c0:8b5a:b948:aab9",
-      "username": "karthik"
-    },
-    {
-      "type": "series",
-      "id": "tt0280277:1:1",
-      "title": "tt0280277:1:1",
-      "timestamp": "2026-02-14T04:55:44.280Z",
-      "ip": "2405:201:500c:4a01:e1c0:8b5a:b948:aab9",
-      "username": "shadow"
-    },
     {
       "type": "series",
       "id": "tt0280277:1:1",
@@ -86833,6 +86817,22 @@
       "timestamp": "2026-03-09T01:27:41.866Z",
       "ip": "2409:40c1:4104:2477:e833:97ff:fe42:82cb",
       "username": "n0_need_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt0371746",
+      "title": "Iron Man",
+      "timestamp": "2026-03-09T01:41:08.327Z",
+      "ip": "2409:40c1:4104:2477:e833:97ff:fe42:82cb",
+      "username": "n0_need_name"
+    },
+    {
+      "type": "movie",
+      "id": "tt0371746",
+      "title": "Iron Man",
+      "timestamp": "2026-03-09T01:41:25.041Z",
+      "ip": "2409:40c1:4104:2477:e833:97ff:fe42:82cb",
+      "username": "n0_need_name"
     }
   ],
   "activeNow": {
@@ -94440,10 +94440,10 @@
     },
     "2409:40c1:4104:2477:e833:97ff:fe42:82cb": {
       "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
+      "id": "tt0371746",
+      "title": "Iron Man",
       "username": "n0_need_name",
-      "lastActive": 1773019661866
+      "lastActive": 1773020485041
     }
   }
 }
