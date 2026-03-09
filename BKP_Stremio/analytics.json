@@ -1,5 +1,5 @@
 {
-  "totalViews": 34993,
+  "totalViews": 34997,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6846,41 +6846,10 @@
     "117.235.167.226",
     "2409:40d4:4006:ebac:8000::",
     "117.241.210.55",
-    "122.161.69.231"
+    "122.161.69.231",
+    "2409:40e4:1097:89f2:b0fc:3d2b:2f5e:64b0"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt15427952",
-      "title": "tt15427952",
-      "timestamp": "2026-02-14T07:08:40.700Z",
-      "ip": "2405:201:200d:906b:89d0:36d0:e428:3e26",
-      "username": "kulu007"
-    },
-    {
-      "type": "movie",
-      "id": "tt7892066",
-      "title": "tt7892066",
-      "timestamp": "2026-02-14T07:11:19.679Z",
-      "ip": "2405:201:200d:906b:89d0:36d0:e428:3e26",
-      "username": "kulu007"
-    },
-    {
-      "type": "movie",
-      "id": "tt15427952",
-      "title": "tt15427952",
-      "timestamp": "2026-02-14T07:18:35.465Z",
-      "ip": "2406:b400:1a:b1ca:a27:a8ff:fe42:855e",
-      "username": "nothingokk"
-    },
-    {
-      "type": "movie",
-      "id": "tt7892066",
-      "title": "tt7892066",
-      "timestamp": "2026-02-14T07:21:07.294Z",
-      "ip": "2405:201:200d:906b:89d0:36d0:e428:3e26",
-      "username": "kulu007"
-    },
     {
       "type": "movie",
       "id": "tt15427952",
@@ -86848,6 +86817,38 @@
       "timestamp": "2026-03-09T06:58:04.254Z",
       "ip": "202.88.248.12",
       "username": "deepak"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:4:4",
+      "title": "Stranger Things",
+      "timestamp": "2026-03-09T07:05:59.721Z",
+      "ip": "2409:40d4:4006:ebac:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
+      "timestamp": "2026-03-09T07:06:06.074Z",
+      "ip": "2409:40d4:4006:ebac:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt9597838",
+      "title": "tt9597838",
+      "timestamp": "2026-03-09T07:06:35.197Z",
+      "ip": "2409:40e4:1097:89f2:b0fc:3d2b:2f5e:64b0",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt26693803:1:4",
+      "title": "tt26693803:1:4",
+      "timestamp": "2026-03-09T07:10:39.214Z",
+      "ip": "2409:40e4:1097:89f2:b0fc:3d2b:2f5e:64b0",
+      "username": "askchm"
     }
   ],
   "activeNow": {
@@ -94545,11 +94546,11 @@
       "lastActive": 1773034835651
     },
     "2409:40d4:4006:ebac:8000::": {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
+      "type": "series",
+      "id": "tt4574334:5:8",
+      "title": "Stranger Things",
       "username": "kdbotz",
-      "lastActive": 1773039174157
+      "lastActive": 1773039966074
     },
     "117.241.210.55": {
       "type": "movie",
@@ -94564,6 +94565,13 @@
       "title": "Prison Break",
       "username": "dillon_ka_shooter",
       "lastActive": 1773039441820
+    },
+    "2409:40e4:1097:89f2:b0fc:3d2b:2f5e:64b0": {
+      "type": "series",
+      "id": "tt26693803:1:4",
+      "title": "tt26693803:1:4",
+      "username": "askchm",
+      "lastActive": 1773040239214
     }
   }
 }
