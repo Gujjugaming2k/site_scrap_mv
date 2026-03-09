@@ -1,5 +1,5 @@
 {
-  "totalViews": 35197,
+  "totalViews": 35199,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6893,22 +6893,6 @@
     "2409:40f3:2049:a5de:9d3c:700a:951d:d199"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt3148266:1:1",
-      "title": "tt3148266:1:1",
-      "timestamp": "2026-02-14T13:18:24.517Z",
-      "ip": "94.156.30.202",
-      "username": "b1jju"
-    },
-    {
-      "type": "series",
-      "id": "tt3148266:1:1",
-      "title": "tt3148266:1:1",
-      "timestamp": "2026-02-14T13:18:24.605Z",
-      "ip": "94.156.30.202",
-      "username": "iknowthat"
-    },
     {
       "type": "movie",
       "id": "tt3566834",
@@ -86892,6 +86876,22 @@
       "timestamp": "2026-03-09T18:01:12.486Z",
       "ip": "2001:41d0:700:6add::35a1",
       "username": "godofdeath"
+    },
+    {
+      "type": "movie",
+      "id": "tt11410312",
+      "title": "tt11410312",
+      "timestamp": "2026-03-09T18:11:33.609Z",
+      "ip": "116.68.77.63",
+      "username": "aravindsivan"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:2:4",
+      "title": "The Boys",
+      "timestamp": "2026-03-09T18:12:37.816Z",
+      "ip": "2401:4900:7d78:9fec:7d18:cfb4:304c:1174",
+      "username": "extremeyat"
     }
   ],
   "activeNow": {
@@ -90781,11 +90781,11 @@
       "lastActive": 1772302571668
     },
     "116.68.77.63": {
-      "type": "series",
-      "id": "tt0411008:5:16",
-      "title": "Lost",
+      "type": "movie",
+      "id": "tt11410312",
+      "title": "tt11410312",
       "username": "aravindsivan",
-      "lastActive": 1772993560032
+      "lastActive": 1773079893609
     },
     "2409:40e4:1156:e4c6:40ab:f3ff:fece:13fa": {
       "type": "movie",
@@ -94859,7 +94859,7 @@
       "id": "tt1190634:2:4",
       "title": "The Boys",
       "username": "extremeyat",
-      "lastActive": 1773075908362
+      "lastActive": 1773079957816
     },
     "2409:40c1:31d4:ee92:8875:aaff:fe96:1e70": {
       "type": "movie",
