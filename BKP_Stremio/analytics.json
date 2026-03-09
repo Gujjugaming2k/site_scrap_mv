@@ -1,5 +1,5 @@
 {
-  "totalViews": 34974,
+  "totalViews": 34975,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6841,14 +6841,6 @@
     "2405:201:e056:3828:1cee:886f:4558:deab"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt1442449:1:1",
-      "title": "tt1442449:1:1",
-      "timestamp": "2026-02-14T06:21:30.466Z",
-      "ip": "2409:40d2:304b:1186:610e:d602:f759:e672",
-      "username": "saurabhkaperwan"
-    },
     {
       "type": "series",
       "id": "tt27497448:1:5",
@@ -86840,6 +86832,14 @@
       "timestamp": "2026-03-09T04:20:07.131Z",
       "ip": "2405:201:e056:3828:1cee:886f:4558:deab",
       "username": "zindha"
+    },
+    {
+      "type": "series",
+      "id": "tt23874444:1:1",
+      "title": "tt23874444:1:1",
+      "timestamp": "2026-03-09T04:37:02.506Z",
+      "ip": "2405:201:e056:3828:1cee:886f:4558:deab",
+      "username": "zindha"
     }
   ],
   "activeNow": {
@@ -94495,11 +94495,11 @@
       "lastActive": 1773029772108
     },
     "2405:201:e056:3828:1cee:886f:4558:deab": {
-      "type": "movie",
-      "id": "tt38123566",
-      "title": "tt38123566",
+      "type": "series",
+      "id": "tt23874444:1:1",
+      "title": "tt23874444:1:1",
       "username": "zindha",
-      "lastActive": 1773030007131
+      "lastActive": 1773031022506
     }
   }
 }
