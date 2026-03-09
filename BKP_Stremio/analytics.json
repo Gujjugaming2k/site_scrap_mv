@@ -1,5 +1,5 @@
 {
-  "totalViews": 35127,
+  "totalViews": 35134,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6879,65 +6879,10 @@
     "2405:201:e056:3828:846c:5908:2177:24ac",
     "2405:201:2033:841:3e1a:69f6:dfc5:9db7",
     "223.181.102.187",
-    "2401:4900:1cb0:2891:3de0:29bf:7fe7:66f9"
+    "2401:4900:1cb0:2891:3de0:29bf:7fe7:66f9",
+    "2401:4900:7a9d:d13a:2853:f03d:2b54:6a23"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt34623207",
-      "title": "tt34623207",
-      "timestamp": "2026-02-14T10:22:17.214Z",
-      "ip": "116.68.74.159",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt32141377",
-      "title": "tt32141377",
-      "timestamp": "2026-02-14T10:22:23.653Z",
-      "ip": "45.118.158.231",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt32141377",
-      "title": "tt32141377",
-      "timestamp": "2026-02-14T10:23:09.713Z",
-      "ip": "45.118.158.231",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt34623207",
-      "title": "tt34623207",
-      "timestamp": "2026-02-14T10:23:29.311Z",
-      "ip": "116.68.74.159",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:1",
-      "title": "tt27497448:1:1",
-      "timestamp": "2026-02-14T10:24:56.857Z",
-      "ip": "2405:201:682e:6839:1f92:2fc:ba55:6b57",
-      "username": "babubhaiya"
-    },
-    {
-      "type": "movie",
-      "id": "tt36926733",
-      "title": "tt36926733",
-      "timestamp": "2026-02-14T10:24:59.898Z",
-      "ip": "116.68.74.159",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt34623207",
-      "title": "tt34623207",
-      "timestamp": "2026-02-14T10:26:38.777Z",
-      "ip": "116.68.74.159",
-      "username": "aravindsivan"
-    },
     {
       "type": "movie",
       "id": "tt33088719",
@@ -86881,6 +86826,62 @@
       "timestamp": "2026-03-09T15:20:43.367Z",
       "ip": "139.5.196.103",
       "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:1:3",
+      "title": "tt3032476:1:3",
+      "timestamp": "2026-03-09T15:42:43.323Z",
+      "ip": "2401:4900:7a9d:d13a:2853:f03d:2b54:6a23",
+      "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:1:2",
+      "title": "tt3032476:1:2",
+      "timestamp": "2026-03-09T15:42:50.623Z",
+      "ip": "2401:4900:7a9d:d13a:2853:f03d:2b54:6a23",
+      "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:1:1",
+      "title": "tt3032476:1:1",
+      "timestamp": "2026-03-09T15:42:58.716Z",
+      "ip": "2401:4900:7a9d:d13a:2853:f03d:2b54:6a23",
+      "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:1:7",
+      "title": "tt3032476:1:7",
+      "timestamp": "2026-03-09T15:43:03.654Z",
+      "ip": "2401:4900:7a9d:d13a:2853:f03d:2b54:6a23",
+      "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:1:5",
+      "title": "tt3032476:1:5",
+      "timestamp": "2026-03-09T15:44:17.997Z",
+      "ip": "2401:4900:7a9d:d13a:2853:f03d:2b54:6a23",
+      "username": "extremeyat"
+    },
+    {
+      "type": "movie",
+      "id": "tt39307872",
+      "title": "tt39307872",
+      "timestamp": "2026-03-09T15:44:47.392Z",
+      "ip": "2401:4900:7a9d:d13a:2853:f03d:2b54:6a23",
+      "username": "extremeyat"
+    },
+    {
+      "type": "series",
+      "id": "tt3032476:1:2",
+      "title": "tt3032476:1:2",
+      "timestamp": "2026-03-09T15:44:54.464Z",
+      "ip": "2401:4900:7a9d:d13a:2853:f03d:2b54:6a23",
+      "username": "extremeyat"
     }
   ],
   "activeNow": {
@@ -94828,6 +94829,13 @@
       "title": "tt34446638",
       "username": "saisrinivas",
       "lastActive": 1773069498929
+    },
+    "2401:4900:7a9d:d13a:2853:f03d:2b54:6a23": {
+      "type": "series",
+      "id": "tt3032476:1:2",
+      "title": "tt3032476:1:2",
+      "username": "extremeyat",
+      "lastActive": 1773071094464
     }
   }
 }
