@@ -1,5 +1,5 @@
 {
-  "totalViews": 35047,
+  "totalViews": 35051,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6859,41 +6859,10 @@
     "103.249.4.171",
     "2401:4900:883c:7567:b817:a730:f7ee:c918",
     "2409:40c4:e1:2abb:4637:c1e0:7f55:860f",
-    "2401:4900:ab83:b628:68b1:6dff:feba:eaf5"
+    "2401:4900:ab83:b628:68b1:6dff:feba:eaf5",
+    "2409:40c1:3e:df53:8000::"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0069576:2:5",
-      "title": "tt0069576:2:5",
-      "timestamp": "2026-02-14T08:30:49.194Z",
-      "ip": "2401:4900:88d5:8287:8f1:6423:2f18:1232",
-      "username": "itsvenum"
-    },
-    {
-      "type": "series",
-      "id": "tt11794812:1:1",
-      "title": "Cross",
-      "timestamp": "2026-02-14T08:33:54.003Z",
-      "ip": "175.33.245.71",
-      "username": "crazyshrijr"
-    },
-    {
-      "type": "movie",
-      "id": "tt33512868",
-      "title": "tt33512868",
-      "timestamp": "2026-02-14T08:33:55.472Z",
-      "ip": "2401:4900:88d5:8287:8f1:6423:2f18:1232",
-      "username": "itsvenum"
-    },
-    {
-      "type": "movie",
-      "id": "tt33512868",
-      "title": "tt33512868",
-      "timestamp": "2026-02-14T08:33:55.573Z",
-      "ip": "2401:4900:88d5:8287:8f1:6423:2f18:1232",
-      "username": "itsvenum"
-    },
     {
       "type": "movie",
       "id": "tt27564844",
@@ -86861,6 +86830,38 @@
       "timestamp": "2026-03-09T11:23:04.450Z",
       "ip": "2409:40c4:e1:2abb:4637:c1e0:7f55:860f",
       "username": "harshra9999"
+    },
+    {
+      "type": "movie",
+      "id": "tt32304349",
+      "title": "The Carpenter's Son",
+      "timestamp": "2026-03-09T11:24:39.713Z",
+      "ip": "2409:40c4:e1:2abb:4637:c1e0:7f55:860f",
+      "username": "harshra9999"
+    },
+    {
+      "type": "movie",
+      "id": "tt31852278",
+      "title": "tt31852278",
+      "timestamp": "2026-03-09T11:25:50.280Z",
+      "ip": "2409:40c4:e1:2abb:4637:c1e0:7f55:860f",
+      "username": "harshra9999"
+    },
+    {
+      "type": "movie",
+      "id": "tt31852278",
+      "title": "tt31852278",
+      "timestamp": "2026-03-09T11:32:48.687Z",
+      "ip": "2409:40c4:e1:2abb:4637:c1e0:7f55:860f",
+      "username": "harshra9999"
+    },
+    {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "timestamp": "2026-03-09T11:37:24.286Z",
+      "ip": "2409:40c1:3e:df53:8000::",
+      "username": "pingmenoone"
     }
   ],
   "activeNow": {
@@ -94656,11 +94657,11 @@
       "lastActive": 1773054167459
     },
     "2409:40c4:e1:2abb:4637:c1e0:7f55:860f": {
-      "type": "series",
-      "id": "tt4574334:1:2",
-      "title": "Stranger Things",
+      "type": "movie",
+      "id": "tt31852278",
+      "title": "tt31852278",
       "username": "harshra9999",
-      "lastActive": 1773055384450
+      "lastActive": 1773055968687
     },
     "2401:4900:ab83:b628:68b1:6dff:feba:eaf5": {
       "type": "movie",
@@ -94668,6 +94669,13 @@
       "title": "Dhurandhar",
       "username": "insnaee99",
       "lastActive": 1773055369117
+    },
+    "2409:40c1:3e:df53:8000::": {
+      "type": "movie",
+      "id": "tt33014583",
+      "title": "Dhurandhar",
+      "username": "pingmenoone",
+      "lastActive": 1773056244286
     }
   }
 }
