@@ -1,5 +1,5 @@
 {
-  "totalViews": 35148,
+  "totalViews": 35150,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6888,22 +6888,6 @@
     "2409:40d4:10ce:8d21:6050:a76d:aa72:af16"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt8962124:5:3",
-      "title": "tt8962124:5:3",
-      "timestamp": "2026-02-14T10:41:50.278Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "movie",
-      "id": "tt27673536",
-      "title": "tt27673536",
-      "timestamp": "2026-02-14T10:42:13.175Z",
-      "ip": "2405:201:682e:6839:1f92:2fc:ba55:6b57",
-      "username": "babubhaiya"
-    },
     {
       "type": "series",
       "id": "tt19854762:2:1",
@@ -86887,6 +86871,22 @@
       "timestamp": "2026-03-09T16:20:50.163Z",
       "ip": "2409:40d4:10ce:8d21:6050:a76d:aa72:af16",
       "username": "gaendaswami"
+    },
+    {
+      "type": "movie",
+      "id": "tt1937390",
+      "title": "tt1937390",
+      "timestamp": "2026-03-09T16:42:43.497Z",
+      "ip": "2405:201:2033:841:3e1a:69f6:dfc5:9db7",
+      "username": "surti_lala"
+    },
+    {
+      "type": "movie",
+      "id": "tt2382009",
+      "title": "tt2382009",
+      "timestamp": "2026-03-09T16:43:33.083Z",
+      "ip": "2405:201:2033:841:3e1a:69f6:dfc5:9db7",
+      "username": "surti_lala"
     }
   ],
   "activeNow": {
@@ -94815,11 +94815,11 @@
       "lastActive": 1773068305367
     },
     "2405:201:2033:841:3e1a:69f6:dfc5:9db7": {
-      "type": "series",
-      "id": "tt9544034:1:1",
-      "title": "tt9544034:1:1",
+      "type": "movie",
+      "id": "tt2382009",
+      "title": "tt2382009",
       "username": "surti_lala",
-      "lastActive": 1773069165831
+      "lastActive": 1773074613083
     },
     "223.181.102.187": {
       "type": "movie",
