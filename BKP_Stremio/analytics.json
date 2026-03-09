@@ -1,5 +1,5 @@
 {
-  "totalViews": 35016,
+  "totalViews": 35021,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6850,49 +6850,10 @@
     "2409:40e4:1097:89f2:b0fc:3d2b:2f5e:64b0",
     "2409:40d4:168:5788:6ce2:fcff:fe75:7705",
     "2409:40e4:10bd:7c45:ad0a:d21b:4871:6996",
-    "2401:4900:792a:1d9f:edd1:2a91:70a1:61a0"
+    "2401:4900:792a:1d9f:edd1:2a91:70a1:61a0",
+    "2001:4490:444d:9d83:8cbb:f815:ebf4:1919"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-14T07:55:24.731Z",
-      "ip": "223.185.13.157",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt32897959",
-      "title": "tt32897959",
-      "timestamp": "2026-02-14T07:56:51.724Z",
-      "ip": "2409:40d2:304b:1186:610e:d602:f759:e672",
-      "username": "saurabhkaperwan"
-    },
-    {
-      "type": "movie",
-      "id": "tt32897959",
-      "title": "tt32897959",
-      "timestamp": "2026-02-14T07:57:14.460Z",
-      "ip": "2409:40d2:304b:1186:610e:d602:f759:e672",
-      "username": "saurabhkaperwan"
-    },
-    {
-      "type": "series",
-      "id": "tt28102595:1:2",
-      "title": "tt28102595:1:2",
-      "timestamp": "2026-02-14T08:02:15.486Z",
-      "ip": "152.58.178.208",
-      "username": "nobody_ismy_name"
-    },
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-14T08:11:36.954Z",
-      "ip": "2401:4900:88d5:8287:8f1:6423:2f18:1232",
-      "username": "itsvenum"
-    },
     {
       "type": "series",
       "id": "tt4574334:1:2",
@@ -86852,6 +86813,46 @@
       "timestamp": "2026-03-09T08:53:19.814Z",
       "ip": "2405:201:6836:30c0:3917:1c37:a272:440",
       "username": "xlr8boiiii"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:3",
+      "title": "tt0903747:1:3",
+      "timestamp": "2026-03-09T09:05:10.737Z",
+      "ip": "2409:40e4:10bd:7c45:ad0a:d21b:4871:6996",
+      "username": "askchm"
+    },
+    {
+      "type": "movie",
+      "id": "tt11470272",
+      "title": "tt11470272",
+      "timestamp": "2026-03-09T09:05:47.004Z",
+      "ip": "2001:4490:444d:9d83:8cbb:f815:ebf4:1919",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt2661044:1:4",
+      "title": "tt2661044:1:4",
+      "timestamp": "2026-03-09T09:11:52.073Z",
+      "ip": "103.24.85.175",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:4",
+      "title": "tt0903747:1:4",
+      "timestamp": "2026-03-09T09:13:40.956Z",
+      "ip": "2409:40e4:10bd:7c45:ad0a:d21b:4871:6996",
+      "username": "askchm"
+    },
+    {
+      "type": "series",
+      "id": "tt0903747:1:4",
+      "title": "tt0903747:1:4",
+      "timestamp": "2026-03-09T09:13:48.255Z",
+      "ip": "2409:40e4:10bd:7c45:ad0a:d21b:4871:6996",
+      "username": "askchm"
     }
   ],
   "activeNow": {
@@ -94025,10 +94026,10 @@
     },
     "103.24.85.175": {
       "type": "series",
-      "id": "tt2661044:1:3",
-      "title": "tt2661044:1:3",
+      "id": "tt2661044:1:4",
+      "title": "tt2661044:1:4",
       "username": "william097",
-      "lastActive": 1773044615748
+      "lastActive": 1773047512073
     },
     "103.182.135.139": {
       "type": "series",
@@ -94585,10 +94586,10 @@
     },
     "2409:40e4:10bd:7c45:ad0a:d21b:4871:6996": {
       "type": "series",
-      "id": "tt0903747:1:2",
-      "title": "tt0903747:1:2",
+      "id": "tt0903747:1:4",
+      "title": "tt0903747:1:4",
       "username": "askchm",
-      "lastActive": 1773046340441
+      "lastActive": 1773047628255
     },
     "2401:4900:792a:1d9f:edd1:2a91:70a1:61a0": {
       "type": "movie",
@@ -94596,6 +94597,13 @@
       "title": "tt1341338",
       "username": "gendaswammy",
       "lastActive": 1773046316724
+    },
+    "2001:4490:444d:9d83:8cbb:f815:ebf4:1919": {
+      "type": "movie",
+      "id": "tt11470272",
+      "title": "tt11470272",
+      "username": "zealousninja",
+      "lastActive": 1773047147004
     }
   }
 }
