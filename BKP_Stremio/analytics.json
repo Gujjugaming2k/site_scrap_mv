@@ -1,5 +1,5 @@
 {
-  "totalViews": 35142,
+  "totalViews": 35147,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6881,49 +6881,12 @@
     "223.181.102.187",
     "2401:4900:1cb0:2891:3de0:29bf:7fe7:66f9",
     "2401:4900:7a9d:d13a:2853:f03d:2b54:6a23",
-    "2001:4490:488d:23f:3102:6a0a:f0cc:a2fd"
+    "2001:4490:488d:23f:3102:6a0a:f0cc:a2fd",
+    "2401:4900:7d78:9fec:7d18:cfb4:304c:1174",
+    "2409:40c1:31d4:ee92:8875:aaff:fe96:1e70",
+    "2409:40c0:1072:d522:e9b6:6732:3e9:f85a"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt7155170",
-      "title": "tt7155170",
-      "timestamp": "2026-02-14T10:37:44.762Z",
-      "ip": "2405:201:900f:a92b:58b1:4301:e241:2b65",
-      "username": "theonlyfreak"
-    },
-    {
-      "type": "series",
-      "id": "tt8962124:5:3",
-      "title": "tt8962124:5:3",
-      "timestamp": "2026-02-14T10:38:14.749Z",
-      "ip": "203.192.255.46",
-      "username": "chetan_b2"
-    },
-    {
-      "type": "movie",
-      "id": "tt7587876",
-      "title": "tt7587876",
-      "timestamp": "2026-02-14T10:38:46.725Z",
-      "ip": "45.118.158.231",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "movie",
-      "id": "tt7587876",
-      "title": "tt7587876",
-      "timestamp": "2026-02-14T10:40:00.556Z",
-      "ip": "45.118.158.231",
-      "username": "gaendaswami"
-    },
-    {
-      "type": "series",
-      "id": "tt11867666:2:1200",
-      "title": "tt11867666:2:1200",
-      "timestamp": "2026-02-14T10:40:13.830Z",
-      "ip": "2401:4900:41ba:5ce9:0:45:68f5:d01",
-      "username": "extremeyat"
-    },
     {
       "type": "series",
       "id": "tt8962124:5:4",
@@ -86883,6 +86846,46 @@
       "timestamp": "2026-03-09T16:02:20.933Z",
       "ip": "2001:4490:488d:23f:3102:6a0a:f0cc:a2fd",
       "username": "itsdoom50"
+    },
+    {
+      "type": "movie",
+      "id": "tt16277242",
+      "title": "tt16277242",
+      "timestamp": "2026-03-09T16:02:24.201Z",
+      "ip": "2001:4490:488d:23f:3102:6a0a:f0cc:a2fd",
+      "username": "itsdoom50"
+    },
+    {
+      "type": "movie",
+      "id": "tt28237049",
+      "title": "tt28237049",
+      "timestamp": "2026-03-09T16:05:42.003Z",
+      "ip": "2405:201:2022:b81c:95ca:e287:efd9:76f4",
+      "username": "zealousninja"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:2:3",
+      "title": "The Boys",
+      "timestamp": "2026-03-09T16:10:41.804Z",
+      "ip": "2401:4900:7d78:9fec:7d18:cfb4:304c:1174",
+      "username": "extremeyat"
+    },
+    {
+      "type": "movie",
+      "id": "tt27847051",
+      "title": "tt27847051",
+      "timestamp": "2026-03-09T16:15:31.624Z",
+      "ip": "2409:40c1:31d4:ee92:8875:aaff:fe96:1e70",
+      "username": "tips9694"
+    },
+    {
+      "type": "series",
+      "id": "tt2467372:1:1",
+      "title": "tt2467372:1:1",
+      "timestamp": "2026-03-09T16:16:36.706Z",
+      "ip": "2409:40c0:1072:d522:e9b6:6732:3e9:f85a",
+      "username": "anonymous050100"
     }
   ],
   "activeNow": {
@@ -94741,11 +94744,11 @@
       "lastActive": 1773063700892
     },
     "2405:201:2022:b81c:95ca:e287:efd9:76f4": {
-      "type": "series",
-      "id": "tt16385150",
-      "title": "tt16385150",
+      "type": "movie",
+      "id": "tt28237049",
+      "title": "tt28237049",
       "username": "zealousninja",
-      "lastActive": 1773072014081
+      "lastActive": 1773072342003
     },
     "2409:40e0:21:9aaf:ec9f:ae9e:c325:210b": {
       "type": "movie",
@@ -94843,7 +94846,28 @@
       "id": "tt16277242",
       "title": "tt16277242",
       "username": "itsdoom50",
-      "lastActive": 1773072140933
+      "lastActive": 1773072144201
+    },
+    "2401:4900:7d78:9fec:7d18:cfb4:304c:1174": {
+      "type": "series",
+      "id": "tt1190634:2:3",
+      "title": "The Boys",
+      "username": "extremeyat",
+      "lastActive": 1773072641804
+    },
+    "2409:40c1:31d4:ee92:8875:aaff:fe96:1e70": {
+      "type": "movie",
+      "id": "tt27847051",
+      "title": "tt27847051",
+      "username": "tips9694",
+      "lastActive": 1773072931624
+    },
+    "2409:40c0:1072:d522:e9b6:6732:3e9:f85a": {
+      "type": "series",
+      "id": "tt2467372:1:1",
+      "title": "tt2467372:1:1",
+      "username": "anonymous050100",
+      "lastActive": 1773072996706
     }
   }
 }
