@@ -1,5 +1,5 @@
 {
-  "totalViews": 34970,
+  "totalViews": 34974,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6836,41 +6836,11 @@
     "2405:201:6820:a83c:d9e4:f940:ef04:96ad",
     "2409:40e2:20ba:24e4:497d:f581:6b39:24a2",
     "2401:4900:7085:a398:da33:aece:ad66:af18",
-    "2405:201:5c14:2a70:fc72:51be:787e:4ffc"
+    "2405:201:5c14:2a70:fc72:51be:787e:4ffc",
+    "2409:40d4:4012:b458:8000::",
+    "2405:201:e056:3828:1cee:886f:4558:deab"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27497448:1:5",
-      "title": "tt27497448:1:5",
-      "timestamp": "2026-02-14T06:13:27.802Z",
-      "ip": "2405:201:5c14:2a70:fd48:5220:237:e1cc",
-      "username": "extremeyat"
-    },
-    {
-      "type": "series",
-      "id": "tt31938062:2:1",
-      "title": "tt31938062:2:1",
-      "timestamp": "2026-02-14T06:15:51.804Z",
-      "ip": "2409:40d2:304b:1186:610e:d602:f759:e672",
-      "username": "saurabhkaperwan"
-    },
-    {
-      "type": "movie",
-      "id": "tt6536576",
-      "title": "tt6536576",
-      "timestamp": "2026-02-14T06:16:44.882Z",
-      "ip": "2405:201:6836:30eb:2db1:78fb:6f6f:af8e",
-      "username": "xlr8boiiii"
-    },
-    {
-      "type": "movie",
-      "id": "tt27564844",
-      "title": "tt27564844",
-      "timestamp": "2026-02-14T06:21:02.893Z",
-      "ip": "2405:201:6836:30eb:2db1:78fb:6f6f:af8e",
-      "username": "xlr8boiiii"
-    },
     {
       "type": "series",
       "id": "tt1442449:1:1",
@@ -86838,6 +86808,38 @@
       "timestamp": "2026-03-09T04:08:54.450Z",
       "ip": "2409:40d4:4089:ba88:8000::",
       "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt12004706:4:3",
+      "title": "tt12004706:4:3",
+      "timestamp": "2026-03-09T04:15:04.234Z",
+      "ip": "2409:40d4:4012:b458:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt12004706:4:3",
+      "title": "tt12004706:4:3",
+      "timestamp": "2026-03-09T04:16:12.108Z",
+      "ip": "2409:40d4:4012:b458:8000::",
+      "username": "kdbotz"
+    },
+    {
+      "type": "series",
+      "id": "tt23874444:1:1",
+      "title": "tt23874444:1:1",
+      "timestamp": "2026-03-09T04:17:52.788Z",
+      "ip": "2405:201:e056:3828:1cee:886f:4558:deab",
+      "username": "zindha"
+    },
+    {
+      "type": "movie",
+      "id": "tt38123566",
+      "title": "tt38123566",
+      "timestamp": "2026-03-09T04:20:07.131Z",
+      "ip": "2405:201:e056:3828:1cee:886f:4558:deab",
+      "username": "zindha"
     }
   ],
   "activeNow": {
@@ -94484,6 +94486,20 @@
       "title": "The Boys",
       "username": "extremeyat",
       "lastActive": 1773027454024
+    },
+    "2409:40d4:4012:b458:8000::": {
+      "type": "series",
+      "id": "tt12004706:4:3",
+      "title": "tt12004706:4:3",
+      "username": "kdbotz",
+      "lastActive": 1773029772108
+    },
+    "2405:201:e056:3828:1cee:886f:4558:deab": {
+      "type": "movie",
+      "id": "tt38123566",
+      "title": "tt38123566",
+      "username": "zindha",
+      "lastActive": 1773030007131
     }
   }
 }
