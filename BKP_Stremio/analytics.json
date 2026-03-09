@@ -1,5 +1,5 @@
 {
-  "totalViews": 34979,
+  "totalViews": 34982,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6840,33 +6840,12 @@
     "2409:40d4:4012:b458:8000::",
     "2405:201:e056:3828:1cee:886f:4558:deab",
     "2a02:9b0:106:4496:2821:4a:58a1:13ee",
-    "2409:40d0:100f:1deb:d8b4:49ff:fed1:6c2d"
+    "2409:40d0:100f:1deb:d8b4:49ff:fed1:6c2d",
+    "49.47.152.142",
+    "157.48.72.2",
+    "117.235.167.226"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt27497448:1:3",
-      "title": "tt27497448:1:3",
-      "timestamp": "2026-02-14T06:36:59.116Z",
-      "ip": "2409:40e5:1166:cdab:9419:46ff:fe01:a42f",
-      "username": "magicmannn"
-    },
-    {
-      "type": "series",
-      "id": "tt27497448:1:3",
-      "title": "tt27497448:1:3",
-      "timestamp": "2026-02-14T06:37:06.438Z",
-      "ip": "2409:40e5:1166:cdab:9419:46ff:fe01:a42f",
-      "username": "magicmannn"
-    },
-    {
-      "type": "series",
-      "id": "tt0108778:9:14",
-      "title": "tt0108778:9:14",
-      "timestamp": "2026-02-14T06:37:55.030Z",
-      "ip": "171.61.165.201",
-      "username": "switchoff009"
-    },
     {
       "type": "series",
       "id": "tt14186672:2:5",
@@ -86842,6 +86821,30 @@
       "timestamp": "2026-03-09T05:23:00.639Z",
       "ip": "2409:40d0:100f:1deb:d8b4:49ff:fed1:6c2d",
       "username": "magicmannn"
+    },
+    {
+      "type": "movie",
+      "id": "tt0208502",
+      "title": "tt0208502",
+      "timestamp": "2026-03-09T05:32:24.149Z",
+      "ip": "49.47.152.142",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "timestamp": "2026-03-09T05:39:47.751Z",
+      "ip": "157.48.72.2",
+      "username": "kdbotz"
+    },
+    {
+      "type": "movie",
+      "id": "tt8178634",
+      "title": "tt8178634",
+      "timestamp": "2026-03-09T05:40:35.651Z",
+      "ip": "117.235.167.226",
+      "username": "itsdoom50"
     }
   ],
   "activeNow": {
@@ -94516,6 +94519,27 @@
       "title": "tt0087843",
       "username": "magicmannn",
       "lastActive": 1773033780639
+    },
+    "49.47.152.142": {
+      "type": "movie",
+      "id": "tt0208502",
+      "title": "tt0208502",
+      "username": "theonlyfreak",
+      "lastActive": 1773034344149
+    },
+    "157.48.72.2": {
+      "type": "movie",
+      "id": "tt27543632",
+      "title": "tt27543632",
+      "username": "kdbotz",
+      "lastActive": 1773034787751
+    },
+    "117.235.167.226": {
+      "type": "movie",
+      "id": "tt8178634",
+      "title": "tt8178634",
+      "username": "itsdoom50",
+      "lastActive": 1773034835651
     }
   }
 }
