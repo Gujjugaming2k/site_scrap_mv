@@ -1,5 +1,5 @@
 {
-  "totalViews": 35214,
+  "totalViews": 35217,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6894,33 +6894,10 @@
     "163.223.102.249",
     "2401:4900:77a3:22ec:24a1:25e9:70bb:7c89",
     "152.58.123.86",
-    "2401:4900:7d78:9fec:d896:1275:ba70:a651"
+    "2401:4900:7d78:9fec:d896:1275:ba70:a651",
+    "2405:201:a018:b012:6337:bd97:e6b7:2fda"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0944947:1:2",
-      "title": "Game of Thrones",
-      "timestamp": "2026-02-14T13:48:09.828Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-14T13:52:20.014Z",
-      "ip": "49.36.79.214",
-      "username": "zealousninja"
-    },
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-14T13:53:39.292Z",
-      "ip": "49.36.79.214",
-      "username": "zealousninja"
-    },
     {
       "type": "movie",
       "id": "tt27543632",
@@ -86896,6 +86873,30 @@
       "timestamp": "2026-03-09T19:40:30.283Z",
       "ip": "2402:a00:182:1828:a1b0:64eb:a997:aa05",
       "username": "asj90"
+    },
+    {
+      "type": "movie",
+      "id": "tt39310158",
+      "title": "tt39310158",
+      "timestamp": "2026-03-09T19:56:06.108Z",
+      "ip": "182.69.180.143",
+      "username": "dillon_ka_shooter"
+    },
+    {
+      "type": "movie",
+      "id": "tt15893750",
+      "title": "tt15893750",
+      "timestamp": "2026-03-09T19:58:19.442Z",
+      "ip": "2409:40f3:2049:a5de:9d3c:700a:951d:d199",
+      "username": "jilin abraham"
+    },
+    {
+      "type": "series",
+      "id": "tt10857160:1:9",
+      "title": "She-Hulk: Attorney at Law",
+      "timestamp": "2026-03-09T19:58:56.102Z",
+      "ip": "2405:201:a018:b012:6337:bd97:e6b7:2fda",
+      "username": "razeamii"
     }
   ],
   "activeNow": {
@@ -88112,10 +88113,10 @@
     },
     "182.69.180.143": {
       "type": "movie",
-      "id": "tt8291224",
-      "title": "tt8291224",
+      "id": "tt39310158",
+      "title": "tt39310158",
       "username": "dillon_ka_shooter",
-      "lastActive": 1772973921002
+      "lastActive": 1773086166108
     },
     "2409:40e6:c:1670:384c:25ff:febd:c0cb": {
       "type": "movie",
@@ -94916,10 +94917,10 @@
     },
     "2409:40f3:2049:a5de:9d3c:700a:951d:d199": {
       "type": "movie",
-      "id": "tt30766504",
-      "title": "tt30766504",
+      "id": "tt15893750",
+      "title": "tt15893750",
       "username": "jilin abraham",
-      "lastActive": 1773078099897
+      "lastActive": 1773086299442
     },
     "163.223.102.249": {
       "type": "movie",
@@ -94955,6 +94956,13 @@
       "title": "tt13818368",
       "username": "asj90",
       "lastActive": 1773085230283
+    },
+    "2405:201:a018:b012:6337:bd97:e6b7:2fda": {
+      "type": "series",
+      "id": "tt10857160:1:9",
+      "title": "She-Hulk: Attorney at Law",
+      "username": "razeamii",
+      "lastActive": 1773086336102
     }
   }
 }
