@@ -1,5 +1,5 @@
 {
-  "totalViews": 34948,
+  "totalViews": 34952,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6832,41 +6832,11 @@
     "2409:40e4:108d:2924:c127:b2f1:b50e:de",
     "2401:4900:a8b3:21db:d810:11f8:7cff:e82c",
     "2409:40c1:4104:2477:e833:97ff:fe42:82cb",
-    "2401:4900:88ba:fd30:f00a:1138:894a:d2b4"
+    "2401:4900:88ba:fd30:f00a:1138:894a:d2b4",
+    "2405:201:6820:a83c:d9e4:f940:ef04:96ad",
+    "2409:40e2:20ba:24e4:497d:f581:6b39:24a2"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-02-14T05:41:26.282Z",
-      "ip": "152.58.145.126",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt0353969",
-      "title": "tt0353969",
-      "timestamp": "2026-02-14T05:42:10.042Z",
-      "ip": "2409:40e5:1166:cdab:9419:46ff:fe01:a42f",
-      "username": "magicmannn"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-02-14T05:43:50.709Z",
-      "ip": "152.58.145.126",
-      "username": "nabakun24"
-    },
-    {
-      "type": "movie",
-      "id": "tt0816258",
-      "title": "tt0816258",
-      "timestamp": "2026-02-14T05:44:34.870Z",
-      "ip": "2409:40f0:32:db63:d087:7eff:fe30:89b6",
-      "username": "sachinprem1"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -86834,6 +86804,38 @@
       "timestamp": "2026-03-09T02:31:54.871Z",
       "ip": "2401:4900:88ba:fd30:f00a:1138:894a:d2b4",
       "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt7838252",
+      "title": "tt7838252",
+      "timestamp": "2026-03-09T02:35:14.353Z",
+      "ip": "2401:4900:88ba:fd30:f00a:1138:894a:d2b4",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt7838252",
+      "title": "tt7838252",
+      "timestamp": "2026-03-09T02:35:45.386Z",
+      "ip": "2401:4900:88ba:fd30:f00a:1138:894a:d2b4",
+      "username": "b1jju"
+    },
+    {
+      "type": "movie",
+      "id": "tt14181714",
+      "title": "tt14181714",
+      "timestamp": "2026-03-09T02:36:53.863Z",
+      "ip": "2405:201:6820:a83c:d9e4:f940:ef04:96ad",
+      "username": "demon18319"
+    },
+    {
+      "type": "series",
+      "id": "tt32864316:1:1",
+      "title": "tt32864316:1:1",
+      "timestamp": "2026-03-09T02:41:46.201Z",
+      "ip": "2409:40e2:20ba:24e4:497d:f581:6b39:24a2",
+      "username": "adr7000"
     }
   ],
   "activeNow": {
@@ -94448,10 +94450,24 @@
     },
     "2401:4900:88ba:fd30:f00a:1138:894a:d2b4": {
       "type": "movie",
-      "id": "tt13818368",
-      "title": "tt13818368",
+      "id": "tt7838252",
+      "title": "tt7838252",
       "username": "b1jju",
-      "lastActive": 1773023514871
+      "lastActive": 1773023745386
+    },
+    "2405:201:6820:a83c:d9e4:f940:ef04:96ad": {
+      "type": "movie",
+      "id": "tt14181714",
+      "title": "tt14181714",
+      "username": "demon18319",
+      "lastActive": 1773023813863
+    },
+    "2409:40e2:20ba:24e4:497d:f581:6b39:24a2": {
+      "type": "series",
+      "id": "tt32864316:1:1",
+      "title": "tt32864316:1:1",
+      "username": "adr7000",
+      "lastActive": 1773024106201
     }
   }
 }
