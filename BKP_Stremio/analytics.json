@@ -1,5 +1,5 @@
 {
-  "totalViews": 35068,
+  "totalViews": 35071,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6864,33 +6864,10 @@
     "106.222.251.157",
     "2409:40e0:1a:6935:ec9f:ae9e:c325:210b",
     "115.98.233.132",
-    "2405:201:6820:a83c:cd6d:6ab:ebaa:ff38"
+    "2405:201:6820:a83c:cd6d:6ab:ebaa:ff38",
+    "2409:40d4:4027:db49:4e04:b053:85ad:aa31"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt9140554:1:1",
-      "title": "tt9140554:1:1",
-      "timestamp": "2026-02-14T08:58:28.027Z",
-      "ip": "2401:4900:88d5:8287:8f1:6423:2f18:1232",
-      "username": "itsvenum"
-    },
-    {
-      "type": "series",
-      "id": "tt9140554:1:1",
-      "title": "tt9140554:1:1",
-      "timestamp": "2026-02-14T08:58:28.098Z",
-      "ip": "2401:4900:88d5:8287:8f1:6423:2f18:1232",
-      "username": "itsvenum"
-    },
-    {
-      "type": "movie",
-      "id": "tt30387012",
-      "title": "tt30387012",
-      "timestamp": "2026-02-14T08:59:09.742Z",
-      "ip": "2401:4900:88d5:8287:8f1:6423:2f18:1232",
-      "username": "itsvenum"
-    },
     {
       "type": "movie",
       "id": "tt30387012",
@@ -86866,6 +86843,30 @@
       "timestamp": "2026-03-09T12:39:59.032Z",
       "ip": "2405:201:6820:a83c:cd6d:6ab:ebaa:ff38",
       "username": "demon18319"
+    },
+    {
+      "type": "movie",
+      "id": "tt31852278",
+      "title": "tt31852278",
+      "timestamp": "2026-03-09T12:42:09.080Z",
+      "ip": "2409:40c4:e1:2abb:4637:c1e0:7f55:860f",
+      "username": "harshra9999"
+    },
+    {
+      "type": "series",
+      "id": "tt2661044:1:5",
+      "title": "tt2661044:1:5",
+      "timestamp": "2026-03-09T12:44:51.170Z",
+      "ip": "103.24.85.175",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:4:4",
+      "title": "Stranger Things",
+      "timestamp": "2026-03-09T12:54:23.811Z",
+      "ip": "2409:40d4:4027:db49:4e04:b053:85ad:aa31",
+      "username": "kdbotz"
     }
   ],
   "activeNow": {
@@ -94039,10 +94040,10 @@
     },
     "103.24.85.175": {
       "type": "series",
-      "id": "tt2661044:1:4",
-      "title": "tt2661044:1:4",
+      "id": "tt2661044:1:5",
+      "title": "tt2661044:1:5",
       "username": "william097",
-      "lastActive": 1773047512073
+      "lastActive": 1773060291170
     },
     "103.182.135.139": {
       "type": "series",
@@ -94665,7 +94666,7 @@
       "id": "tt31852278",
       "title": "tt31852278",
       "username": "harshra9999",
-      "lastActive": 1773056492601
+      "lastActive": 1773060129080
     },
     "2401:4900:ab83:b628:68b1:6dff:feba:eaf5": {
       "type": "movie",
@@ -94708,6 +94709,13 @@
       "title": "The Conjuring: Last Rites",
       "username": "demon18319",
       "lastActive": 1773059999032
+    },
+    "2409:40d4:4027:db49:4e04:b053:85ad:aa31": {
+      "type": "series",
+      "id": "tt4574334:4:4",
+      "title": "Stranger Things",
+      "username": "kdbotz",
+      "lastActive": 1773060863811
     }
   }
 }
