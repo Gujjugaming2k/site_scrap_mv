@@ -1,5 +1,5 @@
 {
-  "totalViews": 35124,
+  "totalViews": 35127,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6878,33 +6878,10 @@
     "2409:40e4:10b6:849:e110:d637:c9d6:c937",
     "2405:201:e056:3828:846c:5908:2177:24ac",
     "2405:201:2033:841:3e1a:69f6:dfc5:9db7",
-    "223.181.102.187"
+    "223.181.102.187",
+    "2401:4900:1cb0:2891:3de0:29bf:7fe7:66f9"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt30089457",
-      "title": "tt30089457",
-      "timestamp": "2026-02-14T10:14:15.842Z",
-      "ip": "116.68.74.159",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt36926733",
-      "title": "tt36926733",
-      "timestamp": "2026-02-14T10:14:25.677Z",
-      "ip": "116.68.74.159",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt31844586",
-      "title": "tt31844586",
-      "timestamp": "2026-02-14T10:15:44.248Z",
-      "ip": "2a02:9b0:106:2afc:edb8:c5da:d782:4652",
-      "username": "hoosa500"
-    },
     {
       "type": "movie",
       "id": "tt34623207",
@@ -86880,6 +86857,30 @@
       "timestamp": "2026-03-09T15:14:34.317Z",
       "ip": "223.181.102.187",
       "username": "baljeet_002"
+    },
+    {
+      "type": "movie",
+      "id": "tt33088452",
+      "title": "Regretting You",
+      "timestamp": "2026-03-09T15:18:00.186Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt34446638",
+      "title": "tt34446638",
+      "timestamp": "2026-03-09T15:18:18.929Z",
+      "ip": "2401:4900:1cb0:2891:3de0:29bf:7fe7:66f9",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "movie",
+      "id": "tt14331144",
+      "title": "Jujutsu Kaisen 0",
+      "timestamp": "2026-03-09T15:20:43.367Z",
+      "ip": "139.5.196.103",
+      "username": "dillon_ka_shooter"
     }
   ],
   "activeNow": {
@@ -87122,11 +87123,11 @@
       "lastActive": 1771743559957
     },
     "203.192.255.46": {
-      "type": "series",
-      "id": "tt23734948:1:7",
-      "title": "tt23734948:1:7",
+      "type": "movie",
+      "id": "tt33088452",
+      "title": "Regretting You",
       "username": "chetan_b2",
-      "lastActive": 1773021524013
+      "lastActive": 1773069480186
     },
     "2405:201:200d:906b:e9b9:acfe:e6f5:2f4f": {
       "type": "movie",
@@ -91680,10 +91681,10 @@
     },
     "139.5.196.103": {
       "type": "movie",
-      "id": "tt39631179",
-      "title": "tt39631179",
+      "id": "tt14331144",
+      "title": "Jujutsu Kaisen 0",
       "username": "dillon_ka_shooter",
-      "lastActive": 1773044318361
+      "lastActive": 1773069643367
     },
     "223.181.96.19": {
       "type": "movie",
@@ -94820,6 +94821,13 @@
       "title": "tt7711170",
       "username": "baljeet_002",
       "lastActive": 1773069274317
+    },
+    "2401:4900:1cb0:2891:3de0:29bf:7fe7:66f9": {
+      "type": "movie",
+      "id": "tt34446638",
+      "title": "tt34446638",
+      "username": "saisrinivas",
+      "lastActive": 1773069498929
     }
   }
 }
