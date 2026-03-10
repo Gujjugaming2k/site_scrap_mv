@@ -1,5 +1,5 @@
 {
-  "totalViews": 35261,
+  "totalViews": 35266,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6905,49 +6905,11 @@
     "147.93.215.45",
     "2409:40d4:d:ab4e:7c29:b5ff:fe57:2c88",
     "2603:3003:3544:6700:546c:d91a:c94a:83d1",
-    "2401:4900:a471:569d::4ac7:9211"
+    "2401:4900:a471:569d::4ac7:9211",
+    "110.226.161.97",
+    "2401:4900:1cb0:2891:20ae:1cbd:f942:1c64"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt13918776:1:1",
-      "title": "The Night Agent",
-      "timestamp": "2026-02-14T15:18:53.997Z",
-      "ip": "106.200.2.115",
-      "username": "itsvenum"
-    },
-    {
-      "type": "movie",
-      "id": "tt2395427",
-      "title": "Avengers: Age of Ultron",
-      "timestamp": "2026-02-14T15:20:28.648Z",
-      "ip": "106.200.2.115",
-      "username": "itsvenum"
-    },
-    {
-      "type": "movie",
-      "id": "tt31227572",
-      "title": "tt31227572",
-      "timestamp": "2026-02-14T15:21:15.224Z",
-      "ip": "2405:201:2033:841:ef23:a7c1:1080:276",
-      "username": "surti_lala"
-    },
-    {
-      "type": "movie",
-      "id": "tt2395427",
-      "title": "Avengers: Age of Ultron",
-      "timestamp": "2026-02-14T15:23:55.788Z",
-      "ip": "106.200.2.115",
-      "username": "itsvenum"
-    },
-    {
-      "type": "movie",
-      "id": "tt39389929",
-      "title": "tt39389929",
-      "timestamp": "2026-02-14T15:25:39.744Z",
-      "ip": "103.46.200.43",
-      "username": "brosportses"
-    },
     {
       "type": "movie",
       "id": "tt32213976",
@@ -86907,6 +86869,46 @@
       "timestamp": "2026-03-10T04:22:17.477Z",
       "ip": "2401:4900:a471:569d::4ac7:9211",
       "username": "henry"
+    },
+    {
+      "type": "series",
+      "id": "tt1190634:2:4",
+      "title": "The Boys",
+      "timestamp": "2026-03-10T04:29:36.155Z",
+      "ip": "110.226.161.97",
+      "username": "extremeyat"
+    },
+    {
+      "type": "movie",
+      "id": "tt34446638",
+      "title": "tt34446638",
+      "timestamp": "2026-03-10T04:30:00.921Z",
+      "ip": "2401:4900:1cb0:2891:20ae:1cbd:f942:1c64",
+      "username": "saisrinivas"
+    },
+    {
+      "type": "movie",
+      "id": "tt0472602",
+      "title": "Stuart Little 3: Call of the Wild",
+      "timestamp": "2026-03-10T04:33:10.085Z",
+      "ip": "2001:41d0:700:6add::35a1",
+      "username": "godofdeath"
+    },
+    {
+      "type": "movie",
+      "id": "tt16277242",
+      "title": "tt16277242",
+      "timestamp": "2026-03-10T04:34:39.678Z",
+      "ip": "117.235.167.226",
+      "username": "itsdoom50"
+    },
+    {
+      "type": "movie",
+      "id": "tt1312221",
+      "title": "Frankenstein",
+      "timestamp": "2026-03-10T04:40:36.848Z",
+      "ip": "117.235.167.226",
+      "username": "itsdoom50"
     }
   ],
   "activeNow": {
@@ -94598,10 +94600,10 @@
     },
     "117.235.167.226": {
       "type": "movie",
-      "id": "tt16277242",
-      "title": "tt16277242",
+      "id": "tt1312221",
+      "title": "Frankenstein",
       "username": "itsdoom50",
-      "lastActive": 1773071514458
+      "lastActive": 1773117636848
     },
     "2409:40d4:4006:ebac:8000::": {
       "type": "series",
@@ -94920,10 +94922,10 @@
     },
     "2001:41d0:700:6add::35a1": {
       "type": "movie",
-      "id": "tt0476680",
-      "title": "Naruto the Movie: Ninja Clash in the Land of Snow",
+      "id": "tt0472602",
+      "title": "Stuart Little 3: Call of the Wild",
       "username": "godofdeath",
-      "lastActive": 1773081722241
+      "lastActive": 1773117190085
     },
     "2409:40f3:2049:a5de:9d3c:700a:951d:d199": {
       "type": "movie",
@@ -95050,6 +95052,20 @@
       "title": "tt35727678",
       "username": "henry",
       "lastActive": 1773116537477
+    },
+    "110.226.161.97": {
+      "type": "series",
+      "id": "tt1190634:2:4",
+      "title": "The Boys",
+      "username": "extremeyat",
+      "lastActive": 1773116976155
+    },
+    "2401:4900:1cb0:2891:20ae:1cbd:f942:1c64": {
+      "type": "movie",
+      "id": "tt34446638",
+      "title": "tt34446638",
+      "username": "saisrinivas",
+      "lastActive": 1773117000921
     }
   }
 }
