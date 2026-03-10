@@ -1,5 +1,5 @@
 {
-  "totalViews": 35250,
+  "totalViews": 35254,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6901,41 +6901,10 @@
     "2401:4900:57fc:fb6a:14b2:18ff:fe8c:d657",
     "2401:4900:75ab:5821:15b5:2d1d:552f:28ed",
     "103.24.85.60",
-    "190.141.93.197"
+    "190.141.93.197",
+    "147.93.215.45"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt16139054",
-      "title": "tt16139054",
-      "timestamp": "2026-02-14T15:03:52.543Z",
-      "ip": "152.59.202.120",
-      "username": "rick grimes"
-    },
-    {
-      "type": "movie",
-      "id": "tt15427952",
-      "title": "tt15427952",
-      "timestamp": "2026-02-14T15:03:53.568Z",
-      "ip": "60.254.127.232",
-      "username": "nothing_8888"
-    },
-    {
-      "type": "movie",
-      "id": "tt15427952",
-      "title": "tt15427952",
-      "timestamp": "2026-02-14T15:06:08.037Z",
-      "ip": "60.254.127.232",
-      "username": "nothing_8888"
-    },
-    {
-      "type": "movie",
-      "id": "tt4169250",
-      "title": "tt4169250",
-      "timestamp": "2026-02-14T15:06:41.528Z",
-      "ip": "2409:40e4:10bb:c15d:2930:f66f:3a2:f0c1",
-      "username": "askchm"
-    },
     {
       "type": "series",
       "id": "tt0108778:9:14",
@@ -86903,6 +86872,38 @@
       "timestamp": "2026-03-10T03:38:10.414Z",
       "ip": "190.141.93.197",
       "username": "ymcinema"
+    },
+    {
+      "type": "series",
+      "id": "tt2661044:1:7",
+      "title": "tt2661044:1:7",
+      "timestamp": "2026-03-10T03:44:14.392Z",
+      "ip": "103.24.85.60",
+      "username": "william097"
+    },
+    {
+      "type": "series",
+      "id": "tmdb:247423",
+      "title": "tmdb:247423",
+      "timestamp": "2026-03-10T03:52:38.618Z",
+      "ip": "147.93.215.45",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tmdb:247423",
+      "title": "tmdb:247423",
+      "timestamp": "2026-03-10T03:53:22.398Z",
+      "ip": "147.93.215.45",
+      "username": "hoosa500"
+    },
+    {
+      "type": "series",
+      "id": "tmdb:247423",
+      "title": "tmdb:247423",
+      "timestamp": "2026-03-10T03:53:22.487Z",
+      "ip": "147.93.215.45",
+      "username": "hoosa500"
     }
   ],
   "activeNow": {
@@ -95010,7 +95011,7 @@
       "id": "tt2661044:1:7",
       "title": "tt2661044:1:7",
       "username": "william097",
-      "lastActive": 1773112181495
+      "lastActive": 1773114254392
     },
     "190.141.93.197": {
       "type": "movie",
@@ -95018,6 +95019,13 @@
       "title": "tt20854856",
       "username": "ymcinema",
       "lastActive": 1773113890414
+    },
+    "147.93.215.45": {
+      "type": "series",
+      "id": "tmdb:247423",
+      "title": "tmdb:247423",
+      "username": "hoosa500",
+      "lastActive": 1773114802487
     }
   }
 }
