@@ -1,5 +1,5 @@
 {
-  "totalViews": 35284,
+  "totalViews": 35288,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6915,41 +6915,10 @@
     "2405:201:500c:4a01:46cb:c1b6:e3bf:e232",
     "2405:201:900f:a92b:4941:5f33:148a:f819",
     "2409:40f3:20c0:9cda:e0be:437d:b84b:4075",
-    "163.223.102.253"
+    "163.223.102.253",
+    "157.51.239.175"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0460649",
-      "title": "tt0460649",
-      "timestamp": "2026-02-14T16:05:48.571Z",
-      "ip": "152.58.29.140",
-      "username": "anonymous050100"
-    },
-    {
-      "type": "series",
-      "id": "tt0460649",
-      "title": "tt0460649",
-      "timestamp": "2026-02-14T16:05:49.537Z",
-      "ip": "152.58.29.140",
-      "username": "anonymous050100"
-    },
-    {
-      "type": "movie",
-      "id": "tt37376961",
-      "title": "tt37376961",
-      "timestamp": "2026-02-14T16:07:26.721Z",
-      "ip": "49.43.160.100",
-      "username": "babubhaiya"
-    },
-    {
-      "type": "movie",
-      "id": "tt33028778",
-      "title": "tt33028778",
-      "timestamp": "2026-02-14T16:09:05.289Z",
-      "ip": "202.173.124.150",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "series",
       "id": "tt0460649:8:13",
@@ -86917,6 +86886,38 @@
       "timestamp": "2026-03-10T05:42:13.207Z",
       "ip": "163.223.102.253",
       "username": "mutti9"
+    },
+    {
+      "type": "movie",
+      "id": "tt13654226",
+      "title": "The Gorge",
+      "timestamp": "2026-03-10T05:45:42.023Z",
+      "ip": "163.223.102.253",
+      "username": "mutti9"
+    },
+    {
+      "type": "series",
+      "id": "tt8599532:1:1",
+      "title": "tt8599532:1:1",
+      "timestamp": "2026-03-10T05:46:59.751Z",
+      "ip": "106.222.251.157",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "series",
+      "id": "tt36812904:1:1",
+      "title": "tt36812904:1:1",
+      "timestamp": "2026-03-10T05:49:03.007Z",
+      "ip": "106.222.251.157",
+      "username": "nirbhay1412"
+    },
+    {
+      "type": "movie",
+      "id": "tt15893750",
+      "title": "tt15893750",
+      "timestamp": "2026-03-10T05:49:34.424Z",
+      "ip": "157.51.239.175",
+      "username": "jilin abraham"
     }
   ],
   "activeNow": {
@@ -94734,10 +94735,10 @@
     },
     "106.222.251.157": {
       "type": "series",
-      "id": "tt8599532:1:1",
-      "title": "tt8599532:1:1",
+      "id": "tt36812904:1:1",
+      "title": "tt36812904:1:1",
       "username": "nirbhay1412",
-      "lastActive": 1773059271465
+      "lastActive": 1773121743007
     },
     "2409:40e0:1a:6935:ec9f:ae9e:c325:210b": {
       "type": "movie",
@@ -95126,10 +95127,17 @@
     },
     "163.223.102.253": {
       "type": "movie",
-      "id": "tt10366460",
-      "title": "CODA",
+      "id": "tt13654226",
+      "title": "The Gorge",
       "username": "mutti9",
-      "lastActive": 1773121333207
+      "lastActive": 1773121542023
+    },
+    "157.51.239.175": {
+      "type": "movie",
+      "id": "tt15893750",
+      "title": "tt15893750",
+      "username": "jilin abraham",
+      "lastActive": 1773121774424
     }
   }
 }
