@@ -1,5 +1,5 @@
 {
-  "totalViews": 35248,
+  "totalViews": 35250,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6900,25 +6900,10 @@
     "109.76.34.156",
     "2401:4900:57fc:fb6a:14b2:18ff:fe8c:d657",
     "2401:4900:75ab:5821:15b5:2d1d:552f:28ed",
-    "103.24.85.60"
+    "103.24.85.60",
+    "190.141.93.197"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt27543632",
-      "title": "tt27543632",
-      "timestamp": "2026-02-14T15:00:22.786Z",
-      "ip": "2409:40f0:3e:8b9a:28d8:e7ff:feb4:d09d",
-      "username": "rick grimes"
-    },
-    {
-      "type": "movie",
-      "id": "tt8178634",
-      "title": "tt8178634",
-      "timestamp": "2026-02-14T15:02:28.213Z",
-      "ip": "2409:40e4:10bb:c15d:2930:f66f:3a2:f0c1",
-      "username": "askchm"
-    },
     {
       "type": "movie",
       "id": "tt16139054",
@@ -86902,6 +86887,22 @@
       "timestamp": "2026-03-10T03:21:45.566Z",
       "ip": "200.46.70.197",
       "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt20854856",
+      "title": "tt20854856",
+      "timestamp": "2026-03-10T03:37:18.970Z",
+      "ip": "200.46.70.197",
+      "username": "ymcinema"
+    },
+    {
+      "type": "movie",
+      "id": "tt20854856",
+      "title": "tt20854856",
+      "timestamp": "2026-03-10T03:38:10.414Z",
+      "ip": "190.141.93.197",
+      "username": "ymcinema"
     }
   ],
   "activeNow": {
@@ -88761,11 +88762,11 @@
       "lastActive": 1771988310061
     },
     "200.46.70.197": {
-      "type": "series",
-      "id": "tt39657434:1:1",
-      "title": "tt39657434:1:1",
+      "type": "movie",
+      "id": "tt20854856",
+      "title": "tt20854856",
       "username": "ymcinema",
-      "lastActive": 1773112905566
+      "lastActive": 1773113838970
     },
     "2409:40c1:10bd:79d6:8082:c075:a41d:30f0": {
       "type": "movie",
@@ -95010,6 +95011,13 @@
       "title": "tt2661044:1:7",
       "username": "william097",
       "lastActive": 1773112181495
+    },
+    "190.141.93.197": {
+      "type": "movie",
+      "id": "tt20854856",
+      "title": "tt20854856",
+      "username": "ymcinema",
+      "lastActive": 1773113890414
     }
   }
 }
