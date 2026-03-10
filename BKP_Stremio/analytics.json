@@ -1,5 +1,5 @@
 {
-  "totalViews": 35240,
+  "totalViews": 35242,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6898,25 +6898,10 @@
     "2405:201:a018:b012:6337:bd97:e6b7:2fda",
     "2a09:bac5:3af1:86e::d7:3d",
     "109.76.34.156",
-    "2401:4900:57fc:fb6a:14b2:18ff:fe8c:d657"
+    "2401:4900:57fc:fb6a:14b2:18ff:fe8c:d657",
+    "2401:4900:75ab:5821:15b5:2d1d:552f:28ed"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt31969600",
-      "title": "tt31969600",
-      "timestamp": "2026-02-14T14:51:13.800Z",
-      "ip": "116.68.74.159",
-      "username": "aravindsivan"
-    },
-    {
-      "type": "movie",
-      "id": "tt4679210",
-      "title": "tt4679210",
-      "timestamp": "2026-02-14T14:52:27.949Z",
-      "ip": "116.68.74.159",
-      "username": "aravindsivan"
-    },
     {
       "type": "series",
       "id": "tt0944947:8:4",
@@ -86900,6 +86885,22 @@
       "timestamp": "2026-03-09T21:23:07.018Z",
       "ip": "2401:4900:57fc:fb6a:14b2:18ff:fe8c:d657",
       "username": "insnaee99"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:10",
+      "title": "tt30003786:4:10",
+      "timestamp": "2026-03-10T01:01:21.935Z",
+      "ip": "76.119.235.176",
+      "username": "sid_g"
+    },
+    {
+      "type": "movie",
+      "id": "tt33349807",
+      "title": "tt33349807",
+      "timestamp": "2026-03-10T01:01:48.222Z",
+      "ip": "2401:4900:75ab:5821:15b5:2d1d:552f:28ed",
+      "username": "adr7000"
     }
   ],
   "activeNow": {
@@ -94987,6 +94988,20 @@
       "title": "The Night Agent",
       "username": "insnaee99",
       "lastActive": 1773091387018
+    },
+    "76.119.235.176": {
+      "type": "series",
+      "id": "tt30003786:4:10",
+      "title": "tt30003786:4:10",
+      "username": "sid_g",
+      "lastActive": 1773104481935
+    },
+    "2401:4900:75ab:5821:15b5:2d1d:552f:28ed": {
+      "type": "movie",
+      "id": "tt33349807",
+      "title": "tt33349807",
+      "username": "adr7000",
+      "lastActive": 1773104508222
     }
   }
 }
