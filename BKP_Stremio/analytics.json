@@ -1,5 +1,5 @@
 {
-  "totalViews": 35281,
+  "totalViews": 35284,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6912,33 +6912,12 @@
     "2401:4900:7d88:b989:f815:a69a:b3d:1e4c",
     "103.170.53.185",
     "2401:4900:7d88:b989:9574:37e3:8a17:1d8f",
-    "2405:201:500c:4a01:46cb:c1b6:e3bf:e232"
+    "2405:201:500c:4a01:46cb:c1b6:e3bf:e232",
+    "2405:201:900f:a92b:4941:5f33:148a:f819",
+    "2409:40f3:20c0:9cda:e0be:437d:b84b:4075",
+    "163.223.102.253"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0460649:8:13",
-      "title": "tt0460649:8:13",
-      "timestamp": "2026-02-14T16:02:21.904Z",
-      "ip": "2409:40c0:107c:88d2:d01e:8aff:fe00:566",
-      "username": "anonymous050100"
-    },
-    {
-      "type": "series",
-      "id": "tt0460649",
-      "title": "tt0460649",
-      "timestamp": "2026-02-14T16:03:56.024Z",
-      "ip": "2409:40c0:107c:88d2:8009:3c91:668a:503d",
-      "username": "anonymous050100"
-    },
-    {
-      "type": "series",
-      "id": "tt35335046:1:5",
-      "title": "tt35335046:1:5",
-      "timestamp": "2026-02-14T16:05:13.376Z",
-      "ip": "2405:201:682e:6839:7c77:9762:10a1:30e1",
-      "username": "tushar0nly"
-    },
     {
       "type": "series",
       "id": "tt0460649",
@@ -86914,6 +86893,30 @@
       "timestamp": "2026-03-10T05:15:53.023Z",
       "ip": "2405:201:500c:4a01:46cb:c1b6:e3bf:e232",
       "username": "karthik"
+    },
+    {
+      "type": "movie",
+      "id": "tt7605074",
+      "title": "tt7605074",
+      "timestamp": "2026-03-10T05:33:02.462Z",
+      "ip": "2405:201:900f:a92b:4941:5f33:148a:f819",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt15893750",
+      "title": "tt15893750",
+      "timestamp": "2026-03-10T05:38:15.003Z",
+      "ip": "2409:40f3:20c0:9cda:e0be:437d:b84b:4075",
+      "username": "jilin abraham"
+    },
+    {
+      "type": "movie",
+      "id": "tt10366460",
+      "title": "CODA",
+      "timestamp": "2026-03-10T05:42:13.207Z",
+      "ip": "163.223.102.253",
+      "username": "mutti9"
     }
   ],
   "activeNow": {
@@ -95106,6 +95109,27 @@
       "title": "tt2263944",
       "username": "karthik",
       "lastActive": 1773119753023
+    },
+    "2405:201:900f:a92b:4941:5f33:148a:f819": {
+      "type": "movie",
+      "id": "tt7605074",
+      "title": "tt7605074",
+      "username": "theonlyfreak",
+      "lastActive": 1773120782462
+    },
+    "2409:40f3:20c0:9cda:e0be:437d:b84b:4075": {
+      "type": "movie",
+      "id": "tt15893750",
+      "title": "tt15893750",
+      "username": "jilin abraham",
+      "lastActive": 1773121095003
+    },
+    "163.223.102.253": {
+      "type": "movie",
+      "id": "tt10366460",
+      "title": "CODA",
+      "username": "mutti9",
+      "lastActive": 1773121333207
     }
   }
 }
