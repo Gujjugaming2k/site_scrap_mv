@@ -1,5 +1,5 @@
 {
-  "totalViews": 35294,
+  "totalViews": 35296,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6917,25 +6917,10 @@
     "2409:40f3:20c0:9cda:e0be:437d:b84b:4075",
     "163.223.102.253",
     "157.51.239.175",
-    "49.47.153.227"
+    "49.47.153.227",
+    "59.91.76.15"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt33014583",
-      "title": "Dhurandhar",
-      "timestamp": "2026-02-14T16:13:18.514Z",
-      "ip": "202.173.124.150",
-      "username": "ryuzaklo26"
-    },
-    {
-      "type": "series",
-      "id": "tt12343534:1:1",
-      "title": "JUJUTSU KAISEN",
-      "timestamp": "2026-02-14T16:15:22.908Z",
-      "ip": "202.173.124.150",
-      "username": "ryuzaklo26"
-    },
     {
       "type": "series",
       "id": "tt12343534:1:1",
@@ -86919,6 +86904,22 @@
       "timestamp": "2026-03-10T06:49:28.747Z",
       "ip": "49.47.153.227",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt13539646",
+      "title": "tt13539646",
+      "timestamp": "2026-03-10T07:03:51.788Z",
+      "ip": "49.47.153.227",
+      "username": "theonlyfreak"
+    },
+    {
+      "type": "movie",
+      "id": "tt15940132",
+      "title": "tt15940132",
+      "timestamp": "2026-03-10T07:17:23.123Z",
+      "ip": "59.91.76.15",
+      "username": "itsdoom50"
     }
   ],
   "activeNow": {
@@ -95142,10 +95143,17 @@
     },
     "49.47.153.227": {
       "type": "movie",
-      "id": "tt7605074",
-      "title": "tt7605074",
+      "id": "tt13539646",
+      "title": "tt13539646",
       "username": "theonlyfreak",
-      "lastActive": 1773125368747
+      "lastActive": 1773126231788
+    },
+    "59.91.76.15": {
+      "type": "movie",
+      "id": "tt15940132",
+      "title": "tt15940132",
+      "username": "itsdoom50",
+      "lastActive": 1773127043123
     }
   }
 }
