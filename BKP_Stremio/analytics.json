@@ -1,5 +1,5 @@
 {
-  "totalViews": 35278,
+  "totalViews": 35281,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6911,33 +6911,10 @@
     "2401:4900:7d88:b989:4208:70af:baa8:47d2",
     "2401:4900:7d88:b989:f815:a69a:b3d:1e4c",
     "103.170.53.185",
-    "2401:4900:7d88:b989:9574:37e3:8a17:1d8f"
+    "2401:4900:7d88:b989:9574:37e3:8a17:1d8f",
+    "2405:201:500c:4a01:46cb:c1b6:e3bf:e232"
   ],
   "views": [
-    {
-      "type": "series",
-      "id": "tt0460649:8:13",
-      "title": "tt0460649:8:13",
-      "timestamp": "2026-02-14T15:41:57.288Z",
-      "ip": "152.58.46.211",
-      "username": "anonymous050100"
-    },
-    {
-      "type": "series",
-      "id": "tt0460649",
-      "title": "tt0460649",
-      "timestamp": "2026-02-14T15:46:25.217Z",
-      "ip": "152.58.46.211",
-      "username": "anonymous050100"
-    },
-    {
-      "type": "series",
-      "id": "tt0944947:1:2",
-      "title": "Game of Thrones",
-      "timestamp": "2026-02-14T15:59:18.159Z",
-      "ip": "103.175.168.106",
-      "username": "un0fficial_itachi"
-    },
     {
       "type": "series",
       "id": "tt0460649:8:13",
@@ -86913,6 +86890,30 @@
       "timestamp": "2026-03-10T05:03:56.349Z",
       "ip": "2401:4900:7d88:b989:9574:37e3:8a17:1d8f",
       "username": "extremeyat"
+    },
+    {
+      "type": "movie",
+      "id": "tt33088452",
+      "title": "Regretting You",
+      "timestamp": "2026-03-10T05:15:13.466Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "movie",
+      "id": "tt2263944",
+      "title": "tt2263944",
+      "timestamp": "2026-03-10T05:15:18.009Z",
+      "ip": "2405:201:500c:4a01:46cb:c1b6:e3bf:e232",
+      "username": "karthik"
+    },
+    {
+      "type": "movie",
+      "id": "tt2263944",
+      "title": "tt2263944",
+      "timestamp": "2026-03-10T05:15:53.023Z",
+      "ip": "2405:201:500c:4a01:46cb:c1b6:e3bf:e232",
+      "username": "karthik"
     }
   ],
   "activeNow": {
@@ -87156,10 +87157,10 @@
     },
     "203.192.255.46": {
       "type": "movie",
-      "id": "tt4627382",
-      "title": "Roofman",
+      "id": "tt33088452",
+      "title": "Regretting You",
       "username": "chetan_b2",
-      "lastActive": 1773078475611
+      "lastActive": 1773119713466
     },
     "2405:201:200d:906b:e9b9:acfe:e6f5:2f4f": {
       "type": "movie",
@@ -95098,6 +95099,13 @@
       "title": "The Boys",
       "username": "extremeyat",
       "lastActive": 1773119036349
+    },
+    "2405:201:500c:4a01:46cb:c1b6:e3bf:e232": {
+      "type": "movie",
+      "id": "tt2263944",
+      "title": "tt2263944",
+      "username": "karthik",
+      "lastActive": 1773119753023
     }
   }
 }
