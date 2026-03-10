@@ -1,5 +1,5 @@
 {
-  "totalViews": 35245,
+  "totalViews": 35248,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6903,30 +6903,6 @@
     "103.24.85.60"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt16139054",
-      "title": "tt16139054",
-      "timestamp": "2026-02-14T14:57:27.021Z",
-      "ip": "152.59.202.120",
-      "username": "rick grimes"
-    },
-    {
-      "type": "movie",
-      "id": "tt16139054",
-      "title": "tt16139054",
-      "timestamp": "2026-02-14T14:59:21.312Z",
-      "ip": "2409:40f0:3e:8b9a:28d8:e7ff:feb4:d09d",
-      "username": "rick grimes"
-    },
-    {
-      "type": "movie",
-      "id": "tt16139054",
-      "title": "tt16139054",
-      "timestamp": "2026-02-14T15:00:05.200Z",
-      "ip": "2409:40f0:3e:8b9a:28d8:e7ff:feb4:d09d",
-      "username": "rick grimes"
-    },
     {
       "type": "movie",
       "id": "tt27543632",
@@ -86902,6 +86878,30 @@
       "timestamp": "2026-03-10T03:09:41.495Z",
       "ip": "103.24.85.60",
       "username": "william097"
+    },
+    {
+      "type": "movie",
+      "id": "tt0264210",
+      "title": "tt0264210",
+      "timestamp": "2026-03-10T03:12:51.907Z",
+      "ip": "200.46.70.197",
+      "username": "ymcinema"
+    },
+    {
+      "type": "series",
+      "id": "tt39657434:1:1",
+      "title": "tt39657434:1:1",
+      "timestamp": "2026-03-10T03:20:22.819Z",
+      "ip": "200.46.70.197",
+      "username": "ymcinema"
+    },
+    {
+      "type": "series",
+      "id": "tt39657434:1:1",
+      "title": "tt39657434:1:1",
+      "timestamp": "2026-03-10T03:21:45.566Z",
+      "ip": "200.46.70.197",
+      "username": "ymcinema"
     }
   ],
   "activeNow": {
@@ -88761,11 +88761,11 @@
       "lastActive": 1771988310061
     },
     "200.46.70.197": {
-      "type": "movie",
-      "id": "tt35288598",
-      "title": "tt35288598",
+      "type": "series",
+      "id": "tt39657434:1:1",
+      "title": "tt39657434:1:1",
       "username": "ymcinema",
-      "lastActive": 1772937255924
+      "lastActive": 1773112905566
     },
     "2409:40c1:10bd:79d6:8082:c075:a41d:30f0": {
       "type": "movie",
