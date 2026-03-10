@@ -1,5 +1,5 @@
 {
-  "totalViews": 35330,
+  "totalViews": 35334,
   "uniqueUsers": [
     "127.0.0.1",
     "::1",
@@ -6926,41 +6926,10 @@
     "122.161.66.218",
     "2a09:bac5:3aea:a82::10c:2f",
     "2a09:bac5:3aee:1a96::2a6:65",
-    "2a09:bac1:36e0:5d68::2a6:65"
+    "2a09:bac1:36e0:5d68::2a6:65",
+    "119.42.59.11"
   ],
   "views": [
-    {
-      "type": "movie",
-      "id": "tt32916440",
-      "title": "tt32916440",
-      "timestamp": "2026-02-14T17:14:36.703Z",
-      "ip": "2401:4900:88d5:8287:8f1:6423:2f18:1232",
-      "username": "itsvenum"
-    },
-    {
-      "type": "movie",
-      "id": "tt4777008",
-      "title": "Maleficent: Mistress of Evil",
-      "timestamp": "2026-02-14T17:14:38.322Z",
-      "ip": "2401:4900:88d5:8287:8f1:6423:2f18:1232",
-      "username": "itsvenum"
-    },
-    {
-      "type": "movie",
-      "id": "tt4777008",
-      "title": "Maleficent: Mistress of Evil",
-      "timestamp": "2026-02-14T17:14:46.192Z",
-      "ip": "2401:4900:88d5:8287:8f1:6423:2f18:1232",
-      "username": "itsvenum"
-    },
-    {
-      "type": "series",
-      "id": "tt0106064:11:1",
-      "title": "tt0106064:11:1",
-      "timestamp": "2026-02-14T17:15:27.145Z",
-      "ip": "49.47.2.54",
-      "username": "kaiftaufiq"
-    },
     {
       "type": "movie",
       "id": "tt33014583",
@@ -86928,6 +86897,38 @@
       "timestamp": "2026-03-10T08:21:44.454Z",
       "ip": "49.47.153.227",
       "username": "theonlyfreak"
+    },
+    {
+      "type": "series",
+      "id": "tt4574334:1:5",
+      "title": "Stranger Things",
+      "timestamp": "2026-03-10T08:40:15.102Z",
+      "ip": "203.192.255.46",
+      "username": "chetan_b2"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:11",
+      "title": "tt30003786:4:11",
+      "timestamp": "2026-03-10T08:47:19.262Z",
+      "ip": "119.42.59.11",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:12",
+      "title": "tt30003786:4:12",
+      "timestamp": "2026-03-10T08:47:27.998Z",
+      "ip": "119.42.59.11",
+      "username": "gaendaswami"
+    },
+    {
+      "type": "series",
+      "id": "tt30003786:4:12",
+      "title": "tt30003786:4:12",
+      "timestamp": "2026-03-10T08:47:38.537Z",
+      "ip": "119.42.59.11",
+      "username": "gaendaswami"
     }
   ],
   "activeNow": {
@@ -87170,11 +87171,11 @@
       "lastActive": 1771743559957
     },
     "203.192.255.46": {
-      "type": "movie",
-      "id": "tt33088452",
-      "title": "Regretting You",
+      "type": "series",
+      "id": "tt4574334:1:5",
+      "title": "Stranger Things",
       "username": "chetan_b2",
-      "lastActive": 1773119713466
+      "lastActive": 1773132015102
     },
     "2405:201:200d:906b:e9b9:acfe:e6f5:2f4f": {
       "type": "movie",
@@ -95218,6 +95219,13 @@
       "title": "tt1623674",
       "username": "demon18319",
       "lastActive": 1773129760119
+    },
+    "119.42.59.11": {
+      "type": "series",
+      "id": "tt30003786:4:12",
+      "title": "tt30003786:4:12",
+      "username": "gaendaswami",
+      "lastActive": 1773132458537
     }
   }
 }
